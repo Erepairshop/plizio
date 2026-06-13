@@ -1473,8 +1473,7 @@ try{if(window.umami&&window.umami.track)window.umami.track('infocard_open',{});}
 }
 
 // ── A→B útvonaltervező (autós + Wohnmobil), POI = cél előtöltve ──────────────
-// TESZT: egyelőre csak ezekre a POI-kra rendereljük (1 éles teszt-route).
-const ROUTE_PLANNER_TEST = new Set<string>(["lyon"]);
+// Minden POI-n megjelenik, amelynek van koordinátája (lásd hasRoutePlanner).
 // Statikus címkék (HTML-ben) + dinamikus stringek (data-copy JSON, a route-planner.js olvassa).
 const RP_COPY: Record<string, Record<string, string>> = {
   de: { h: "Routenplaner — Auto & Wohnmobil", sub: "Von wo startest du? Wir bauen die Route hierher, mit Stopps und Länder-Hinweisen unterwegs.", to: "Ziel", from: "Start", fromPh: "z.B. München", via: "Über (optional)", viaPh: "z.B. Zagreb", nights: "Übernachtungs-Stopps", vehicle: "Fahrzeug", car: "🚗 Auto", camper: "🚐 Wohnmobil", filter: "Nur Stopps mit (optional):", water: "💧 Wasser", dump: "♻️ Entsorgung", power: "🔌 Strom", wc: "🚻 WC", shower: "🚿 Dusche", tierAB: "Stellplätze + Camping", tierA: "Nur Stellplätze", tierB: "Nur Camping", tierABC: "Auch Natur-/Rastplätze", b10: "Umweg max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Route planen" },
@@ -1490,11 +1489,14 @@ const RP_DYN: Record<string, Record<string, string>> = {
   ro: { notFound: "Locul nu a fost găsit", needOrigin: "Introdu punctul de plecare.", searching: "📍 Se caută locul…", routing: "🛣️ Se calculează traseul…", km: "km", hrs: "ore", nights: "nopți", matchStops: "opriri potrivite", mapsAll: "Tot traseul în Maps", advisory: "Informații pe țări", toll: "Taxă drum", lez: "Zonă ecologică", overnight: "Înnoptare", mandatory: "Obligatoriu", keepStop: "păstrează această oprire", day: "ZIUA", dest: "ȚINTĂ", swipe: "← glisează cardurile →", regen: "Regenerează — fixează opririle păstrate", regenKept: "🔄 Traseu cu opririle păstrate…", regenNew: "🔄 Variantă nouă…" },
   fr: { notFound: "Lieu introuvable", needOrigin: "Entrez un point de départ.", searching: "📍 Recherche du lieu…", routing: "🛣️ Calcul de l'itinéraire…", km: "km", hrs: "h", nights: "nuitées", matchStops: "étapes correspondantes", mapsAll: "Tout l'itinéraire dans Maps", advisory: "Infos par pays", toll: "Péage", lez: "Zone à faibles émissions", overnight: "Nuitée", mandatory: "Obligatoire", keepStop: "garder cette étape", day: "JOUR", dest: "BUT", swipe: "← faites glisser →", regen: "Régénérer — fixer les étapes gardées", regenKept: "🔄 Itinéraire avec étapes gardées…", regenNew: "🔄 Nouvelle variante…" },
 };
+// Route planner shows on EVERY POI with usable coords (POI = prefilled destination).
+function hasRoutePlanner(poi: POI): boolean {
+  if (!Array.isArray(poi.coords) || poi.coords.length < 2) return false;
+  return isFinite(Number(poi.coords[0])) && isFinite(Number(poi.coords[1]));
+}
 function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
-  if (!ROUTE_PLANNER_TEST.has(poi.id)) return "";
-  if (!Array.isArray(poi.coords) || poi.coords.length < 2) return "";
-  const lng = Number(poi.coords[0]), lat = Number(poi.coords[1]);
-  if (!isFinite(lng) || !isFinite(lat)) return "";
+  if (!hasRoutePlanner(poi)) return "";
+  const lng = Number(poi.coords![0]), lat = Number(poi.coords![1]);
   const T = RP_COPY[lang] || RP_COPY.en;
   const dyn = RP_DYN[lang] || RP_DYN.en;
   const stopsOpts = [1, 2, 3, 4, 5, 6, 7, 8].map((n) => `<option${n === 2 ? " selected" : ""}>${n}</option>`).join("");
@@ -1544,9 +1546,10 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
 @media(max-width:560px){.plz-rp-card{flex:0 0 calc(100% - .6rem)}}
 </style>`;
   return `${css}<section class="plz-rp" id="plz-route-planner" data-lng="${lng}" data-lat="${lat}" data-dest="${escapeHtml(name)}" data-lang="${lang}" data-copy="${copyJson}">
-  <div class="plz-rp-head"><h2>${escapeHtml(T.h)}<span class="plz-rp-to">${escapeHtml(T.to)}: ${escapeHtml(name)}</span></h2><p>${escapeHtml(T.sub)}</p></div>
+  <div class="plz-rp-head"><h2>${escapeHtml(T.h)}</h2><p>${escapeHtml(T.sub)}</p></div>
   <div class="plz-rp-row">
     <label>${escapeHtml(T.from)}<input class="plz-rp-origin" type="text" placeholder="${escapeHtml(T.fromPh)}"></label>
+    <label>${escapeHtml(T.to)}<input class="plz-rp-dest" type="text" value="${escapeHtml(name)}"></label>
     <label>${escapeHtml(T.via)}<input class="plz-rp-via" type="text" placeholder="${escapeHtml(T.viaPh)}"></label>
   </div>
   <div class="plz-rp-row">
@@ -1562,8 +1565,9 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
   <div class="plz-rp-result" style="display:none"></div>
   <p class="plz-rp-credit">© OpenStreetMap contributors · OpenRouteService</p>
 </section>
-<script defer src="/js/stop-card.js"></script>
-<script defer src="/js/route-planner.js"></script>`;
+<script defer src="/js/stop-card.js?v=20260613pg5"></script>
+<script defer src="/js/sights-nearby.js?v=20260613pg5"></script>
+<script defer src="/js/route-planner.js?v=20260613pg5"></script>`;
 }
 
 function renderCityItinerary(poi: POI, lang: Lang): string {
@@ -1808,7 +1812,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   if (langT) infoBlocks.push(`<div class="plz-itin-info"><h3>${C.langTips}</h3><p>${escapeHtml(langT)}</p></div>`);
   const resourcesHtml = (resGrid || infoBlocks.length) ? `<details class="plz-itin-collapse plz-itin-resources-collapse"><summary><span class="plz-itin-collapse-label">${C.toolsLabel || C.resTitle}</span><span class="plz-itin-collapse-arrow">▼</span></summary><div class="plz-itin-resources-body">${resGrid}<div class="plz-itin-info-grid">${infoBlocks.join("")}</div></div></details>` : "";
 
-  const logoSvg = `<svg class="plz-go-logo" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg" aria-label="PlizioGo"><defs><linearGradient id="plzgoGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4cc6ff"/><stop offset="50%" stop-color="#7dd87a"/><stop offset="100%" stop-color="#ffae5c"/></linearGradient></defs><text x="0" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="800" font-size="36" fill="#e6ecf3" letter-spacing="-1">Plizio</text><text x="118" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="900" font-size="36" fill="url(#plzgoGrad)" letter-spacing="-1.5">Go</text><circle cx="200" cy="14" r="5" fill="#4cc6ff"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle></svg>`;
+  // PlizioGo logo hoisted to module-level PG_LOGO_SVG (rendered once in the wrapper header).
   const goBtn = `<button type="button" class="plz-itin-go" id="plz-itin-go" aria-expanded="true"><span class="plz-itin-go-label">${escapeHtml(C.goLabel || "Mehet")}</span><span class="plz-itin-go-arrow">▼</span></button>`;
 
   // PlizioGo "explore nearby cities": link unfamiliar nearby towns to our own POI
@@ -1877,21 +1881,49 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     tripLd = `<script type="application/ld+json">${JSON.stringify(tripObj).replace(/</g, "\\u003c")}</script>`;
   }
 
-  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header">${logoSvg}<div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}</div></section>
-<script>(function(){var r=document.getElementById('plz-itin');if(!r)return;var ws=r.querySelectorAll('[data-weather]'),bs=r.querySelectorAll('[data-mode]'),cs=r.querySelectorAll('[data-mw]'),go=document.getElementById('plz-itin-go'),body=document.getElementById('plz-itin-body');var curW='sunny',curM='walk';function apply(){ws.forEach(function(x){x.setAttribute('aria-selected',x.dataset.weather===curW?'true':'false')});bs.forEach(function(x){x.setAttribute('aria-selected',x.dataset.mode===curM?'true':'false')});cs.forEach(function(c){c.classList.toggle('active',c.dataset.mw===curM+'-'+curW)})}ws.forEach(function(w){w.addEventListener('click',function(){curW=w.dataset.weather;apply()})});bs.forEach(function(b){b.addEventListener('click',function(){curM=b.dataset.mode;apply()})});if(go){go.addEventListener('click',function(){body.scrollIntoView({behavior:'smooth',block:'start'})})}apply();
-// Swipe-dots scroll-sync: per active mw-block, update dots based on current scroll position
-function syncDots(track){var dots=track.parentElement.querySelectorAll('.plz-itin-dot');if(!dots.length)return;var w=track.clientWidth;var idx=Math.round(track.scrollLeft/(w*0.85));dots.forEach(function(d,i){d.classList.toggle('active',i===idx)})}
-r.querySelectorAll('.plz-itin-cards').forEach(function(tr){tr.addEventListener('scroll',function(){syncDots(tr)},{passive:true})});
-// P1: stop-progress checkboxes + counter per mode-block
-var PKEY='plz_stop_progress';var pset={};try{pset=JSON.parse(localStorage.getItem(PKEY)||'{}');}catch(e){}
-function updProg(mb){var prog=mb.querySelector('.plz-itin-progress');if(!prog)return;var cards=mb.querySelectorAll('.plz-itin-card[data-stop-card]');var total=cards.length;var done=0;cards.forEach(function(c){if(pset[c.dataset.stopCard])done++;});var pct=total?Math.round(done/total*100):0;var fill=prog.querySelector('[data-fill]');if(fill)fill.style.width=pct+'%';var txt=prog.querySelector('[data-prog-text]');if(txt)txt.textContent=done+'/'+total;}
-r.querySelectorAll('.plz-itin-card[data-stop-card]').forEach(function(card){var key=card.dataset.stopCard;if(pset[key])card.classList.add('plz-itin-card-done');var btn=card.querySelector('.plz-itin-check');if(!btn)return;btn.addEventListener('click',function(e){e.stopPropagation();if(pset[key]){delete pset[key];card.classList.remove('plz-itin-card-done');}else{pset[key]=Date.now();card.classList.add('plz-itin-card-done');}try{localStorage.setItem(PKEY,JSON.stringify(pset));}catch(e){}var mb=card.closest('[data-mw]');if(mb)updProg(mb);});});
-r.querySelectorAll('[data-mw]').forEach(updProg);
-// P2: ICS calendar export per mode-block
-function pad(n){return n<10?'0'+n:''+n;}
-function buildICS(mb,city){var cards=mb.querySelectorAll('.plz-itin-card[data-stop-card]');var d=new Date();var y=d.getFullYear(),mo=pad(d.getMonth()+1),da=pad(d.getDate());var lines=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Plizio//PlizioGo//EN','CALSCALE:GREGORIAN'];cards.forEach(function(c,idx){var tt=(c.querySelector('.plz-itin-time')||{}).textContent||'';var name=(c.querySelector('h3')||{}).textContent||'';var m=tt.match(/(\\d+):(\\d+)\\s*·?\\s*(\\d+)/);if(!m)return;var sh=parseInt(m[1],10),sm=parseInt(m[2],10),dur=parseInt(m[3],10);var s=y+mo+da+'T'+pad(sh)+pad(sm)+'00';var eh=sh,em=sm+dur;while(em>=60){em-=60;eh++;}var e=y+mo+da+'T'+pad(eh)+pad(em)+'00';lines.push('BEGIN:VEVENT','UID:pliziogo-'+y+mo+da+'-'+idx+'-'+Math.random().toString(36).slice(2,8)+'@plizio.com','DTSTART:'+s,'DTEND:'+e,'SUMMARY:'+name.replace(/[\\r\\n,;]/g,' '),'LOCATION:'+city.replace(/[\\r\\n,;]/g,' '),'END:VEVENT');});lines.push('END:VCALENDAR');return lines.join('\\r\\n');}
-r.querySelectorAll('.plz-itin-ics').forEach(function(b){b.addEventListener('click',function(){var mb=b.closest('[data-mw]');if(!mb)return;var city=document.querySelector('h1')?document.querySelector('h1').textContent:'PlizioGo';var ics=buildICS(mb,city);var blob=new Blob([ics],{type:'text/calendar;charset=utf-8'});var url=URL.createObjectURL(blob);var a=document.createElement('a');a.href=url;a.download=city.replace(/[^a-z0-9]+/gi,'-').toLowerCase()+'-pliziogo.ics';document.body.appendChild(a);a.click();a.remove();setTimeout(function(){URL.revokeObjectURL(url);},1000);});});
-})();</script>`;
+  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header"><div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}</div></section>`;
+}
+
+// PlizioGo wrapper — unifies the two travel widgets under a 2-tab header:
+//   "Úticél" (Destination = route-planner, shown on EVERY POI) + "Egy nap a városban"
+//   (the day-itinerary, only where itinerary data exists).
+// Behaviour (tab switching) lives in the shared /js/pliziogo.js; styles in poi.css.
+// Rolled out to all POIs (2026-06-13): tabs when both panels exist, else the single one bare.
+// PlizioGo brand logo (shown once at the top of the wrapper, above the tabs). Static.
+const PG_LOGO_SVG = `<svg class="plz-go-logo" viewBox="0 0 220 48" xmlns="http://www.w3.org/2000/svg" aria-label="PlizioGo"><defs><linearGradient id="plzgoGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#4cc6ff"/><stop offset="50%" stop-color="#7dd87a"/><stop offset="100%" stop-color="#ffae5c"/></linearGradient></defs><text x="0" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="800" font-size="36" fill="#e6ecf3" letter-spacing="-1">Plizio</text><text x="118" y="36" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Inter" font-weight="900" font-size="36" fill="url(#plzgoGrad)" letter-spacing="-1.5">Go</text><circle cx="200" cy="14" r="5" fill="#4cc6ff"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle></svg>`;
+// Versioned ref so JS updates bust the 30-day browser cache (bump the ?v= on each change).
+const PG_JS = `<script src="/js/pliziogo.js?v=20260613pg5" defer></script>`;
+const PG_TABS: Record<string, { dest: string; day: string }> = {
+  de: { dest: "Reiseziel", day: "Ein Tag in der Stadt" },
+  hu: { dest: "Úticél", day: "Egy nap a városban" },
+  en: { dest: "Destination", day: "A day in the city" },
+  ro: { dest: "Destinație", day: "O zi în oraș" },
+  fr: { dest: "Destination", day: "Une journée en ville" },
+};
+// Tab icons (inline SVG, inherit currentColor) — compass = route/destination, calendar = a-day-in-the-city.
+const PG_TAB_SVG = (p: string) => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${p}</svg>`;
+const PG_TAB_IC = {
+  dest: PG_TAB_SVG('<circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5 5-2Z"/>'),
+  day: PG_TAB_SVG('<rect x="3.5" y="5" width="17" height="16" rx="2"/><path d="M3.5 9.5h17"/><path d="M8 3v4"/><path d="M16 3v4"/>'),
+};
+function renderPlizioGo(poi: POI, lang: Lang, name: string): string {
+  const day = renderCityItinerary(poi, lang);      // "" when no itinerary data ("Egy nap a városban")
+  const dest = renderRoutePlanner(poi, lang, name); // "" when the POI has no coords
+  if (!day && !dest) return "";
+  const T = PG_TABS[lang] || PG_TABS.en;
+  const head = `<div class="plz-pg-head">${PG_LOGO_SVG}</div>`;
+  // Only show the tab bar when BOTH panels exist; otherwise render the single one bare.
+  if (!(day && dest)) {
+    return `<section class="plz-pg" id="plz-pg">${head}${dest}${day}</section>${PG_JS}`;
+  }
+  const tabs = `<div class="plz-pg-tabs" role="tablist">`
+    + `<button type="button" class="plz-pg-tab" data-pgtab="dest" role="tab" aria-selected="true">${PG_TAB_IC.dest}<span>${escapeHtml(T.dest)}</span></button>`
+    + `<button type="button" class="plz-pg-tab" data-pgtab="day" role="tab" aria-selected="false">${PG_TAB_IC.day}<span>${escapeHtml(T.day)}</span></button>`
+    + `</div>`;
+  return `<section class="plz-pg" id="plz-pg">${head}${tabs}`
+    + `<div class="plz-pg-panel" data-pgpanel="dest">${dest}</div>`
+    + `<div class="plz-pg-panel" data-pgpanel="day" hidden>${day}</div>`
+    + `</section>${PG_JS}`;
 }
 
 // Visit-info strip: sun/daylight/golden-hour/season computed CLIENT-SIDE from
@@ -2738,7 +2770,7 @@ ${hreflangLinks}
 <meta property="og:type" content="website"/>
 ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)}"/>` : ""}
 ${isAdSenseEligible(poi, lang) && !richness.isWeak ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526h"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260613pg5"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
   { name: I("home", lang), url: `/${navLang}/` },
   { name: countryName, url: buildCountryPath(navLang, countryId) },
@@ -2818,9 +2850,8 @@ ready();})();</script>
   </div>
   ${constellationHtml}
   ${"" /* renderRouteInfo: kivéve amíg a SAJÁT camper/gyalogos útvonal-tervező el nem készül — addig csak GMaps-re tudott linkelni + a közeli-helyek duplikálták a csillagtérképet (user 2026-06-04) */}
-  ${renderVisitPlanner(poi, lang, richness.hasPlizioGo)}
-  <div id="sec-itin">${renderCityItinerary(poi, lang)}</div>
-  ${renderRoutePlanner(poi, lang, name)}
+  ${renderVisitPlanner(poi, lang, richness.hasPlizioGo || hasRoutePlanner(poi))}
+  <div id="sec-itin">${renderPlizioGo(poi, lang, name)}</div>
   <div id="sec-sights">
   ${sightsHtml}
   ${infoCardHtml ? "" : renderSightRadius(poi, lang)}
@@ -3315,7 +3346,7 @@ ${hreflangLinks}
 <meta property="og:url" content="${sightUrl}"/>
 <meta property="og:type" content="article"/>
 ${isAdSenseEligible(host, lang) ? ADSENSE_HEAD : ""}
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260526h"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260613pg5"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:#4cc;text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:#7df}
