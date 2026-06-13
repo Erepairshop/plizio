@@ -26,7 +26,7 @@ function createGeoConfig(lang: string): LanguageTestEngineConfig {
   title: { de: "GEOGRAPHIE TEST", hu: "FÖLDRAJZ TESZT", ro: "TEST DE GEOGRAFIE", en: "GEOGRAPHY TEST" },
   icon: "🗺️",
   color: "#06B6D4",
-  ttsLang: "de-DE",
+  ttsLang: ({de:"de-DE",hu:"hu-HU",ro:"ro-RO",en:"en-US"}[lang] ?? "de-DE"),
   ttsRate: 0.88,
   ttsPitch: 1.05,
   dateLocale: "de-DE",

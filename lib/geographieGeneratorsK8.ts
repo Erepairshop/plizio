@@ -367,7 +367,7 @@ const DATA_K8: any = {
 };
 
 export const K8_GEOGRAPHIE_GENERATORS: any = {};
-const keys = ["weathering_erosion", "fluvial_landforms", "glacial_landforms", "aeolian_landforms", "economic_sectors", "globalization_impact", "world_trade_routes", "locational_factors", "amazon_rainforest_use", "brazil_economic_power", "andes_mining_climate", "central_america_islands", "africa_climate_zones", "hunger_resource_conflict", "developing_aid_projects", "africa_megacities_dev", "australia_outback_resources", "ocean_currents", "rivers_life", "water_scarcity", "glaciers_ice", "energy_transition_global", "sustainable_development_goals", "digitalization_world", "future_cities_planning"];
+const keys = ["weathering_erosion", "fluvial_landforms", "glacial_landforms", "aeolian_landforms", "economic_sectors", "globalization_impact", "world_trade_routes", "locational_factors", "amazon_rainforest_use", "brazil_economic_power", "andes_mining_climate", "central_america_islands", "africa_climate_zones", "hunger_resource_conflict", "developing_aid_projects", "africa_megacities_dev", "australia_outback_resources", "ocean_currents", "rivers_life", "water_scarcity", "glaciers_ice", "energy_transition_global", "sustainable_development_goals", "digitalization_world", "future_cities_planning", "oceania_islands_threat", "great_barrier_reef_env", "antarctica_research"];
 
 keys.forEach(k => {
   const gen = (lang: string, seed: number) => makeMCQs(k, lang, mulberry32(seed), DATA_K8[k].mcq);

@@ -50,12 +50,22 @@ const CATEGORY_CONFIG: Record<string, {
   explore: {
     label: { en: "Explore", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" },
     desc: {
-      en: "Discover history — no wrong answers!",
-      hu: "Fedezd fel — nincs hibás válasz!",
+      en: "Discover geography — no wrong answers!",
+      hu: "Fedezd fel a földrajzot — nincs hibás válasz!",
       de: "Entdecke Geographie — keine falschen Antworten!",
-      ro: "Descoperă istoria — fără răspunsuri greșite!",
+      ro: "Descoperă geografia — fără răspunsuri greșite!",
     },
     color: "#A78BFA", bg: "rgba(167,139,250,0.12)", border: "rgba(167,139,250,0.35)",
+  },
+  "geographie-explore": {
+    label: { en: "Geography Explore", hu: "Földrajz Felfedezés", de: "Geographie entdecken", ro: "Explorare Geografie" },
+    desc: {
+      en: "Learn about geography through interactive missions!",
+      hu: "Ismerd meg a földrajzot interaktív küldetéseken!",
+      de: "Lerne Geographie durch interaktive Missionen!",
+      ro: "Învață geografia prin misiuni interactive!",
+    },
+    color: "#F59E0B", bg: "rgba(245,158,11,0.12)", border: "rgba(245,158,11,0.35)",
   },
   build: {
     label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" },
@@ -80,10 +90,10 @@ const CATEGORY_CONFIG: Record<string, {
 };
 
 const GRADE_LABEL: Record<string, string> = {
-  en: "Grade 5 · Ancient History",
-  de: "Klasse 5 · Die Antike",
-  hu: "5. osztály · Az ókor",
-  ro: "Clasa 5 · Antichitatea",
+  en: "Grade 5 · Maps & Rivers",
+  de: "Klasse 5 · Karten & Flüsse",
+  hu: "5. osztály · Térképek és folyók",
+  ro: "Clasa 5 · Hărți și râuri",
 };
 
 type Screen =
@@ -413,10 +423,6 @@ export default function AstroGeographieK5Page() {
     );
   }
 
-  if (screen === "geographie-explore" && activeIsland) {
-    return <GeographieK5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} />;
-  }
-
   if (screen === "orbit-quiz" || screen === "black-hole" || screen === "star-match" || screen === "speed-round" || screen === "m2" || screen === "m3" || screen === "geographie-explore") {
     return (
       <div className="min-h-screen flex flex-col relative overflow-hidden bg-[#060614]">
@@ -433,6 +439,7 @@ export default function AstroGeographieK5Page() {
           {screen === "m3" && activeMission?.gameKey && GEOGRAPHIE_M3_POOLS[activeMission.gameKey] && (
             <M3Engine gameKey={activeMission.gameKey} rounds={GEOGRAPHIE_M3_POOLS[activeMission.gameKey]} color={bgColor} lang={lang as any} onDone={handleMissionDone} onCorrect={() => { setAvatarMood("happy"); setJumpTrigger({ reaction: "happy", timestamp: Date.now() }); }} onWrong={() => setAvatarMood("disappointed")} />
           )}
+          {screen === "geographie-explore" && activeIsland && <GeographieK5Explorer island={activeIsland} grade={5} color={bgColor} lang={lang} onDone={handleMissionDone} />}
         </div>
         <AvatarCompanion fixed={true} mood={avatarMood} jumpTrigger={jumpTrigger} {...avatarProps} />
       </div>
@@ -442,9 +449,9 @@ export default function AstroGeographieK5Page() {
   // catch-all
 
   // Simplify for other screens to fit limits, following standard Plizio patterns
-  if (screen === "mission-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-2xl font-black mb-4">Mission befehdet!</h2><button onClick={handleAfterMission} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.next}</button></div>;
+  if (screen === "mission-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-2xl font-black mb-4">{{ de: "Mission beendet!", en: "Mission complete!", hu: "Küldetés teljesítve!", ro: "Misiune îndeplinită!" }[lang] ?? "Mission beendet!"}</h2><button onClick={handleAfterMission} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.next}</button></div>;
   if (screen === "reward") return <RewardReveal rarity={earnedCard!} game="astrogeographie" score={rewardScore.score} total={rewardScore.total} onDone={() => setScreen("island-done")} />;
-  if (screen === "island-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-3xl font-black mb-4">{activeIsland?.icon} Insel beendet!</h2><button onClick={goToMap} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.back}</button></div>;
+  if (screen === "island-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-3xl font-black mb-4">{activeIsland?.icon} {{ de: "Insel abgeschlossen!", en: "Island complete!", hu: "Sziget teljesítve!", ro: "Insulă finalizată!" }[lang] ?? "Insel abgeschlossen!"}</h2><button onClick={goToMap} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.back}</button></div>;
   if (screen === "island-complete-anim") return <IslandCompleteAnimation islandIcon={activeIsland!.icon} islandColor={activeIsland!.color} islandName={activeIsland!.name.de} lang={lang} grade={5} score={missionScore.score} total={missionScore.total} onDone={handleIslandAnimDone} />;
   if (screen === "rocket-launch") return <div className="min-h-screen bg-[#060614]"><Starfield /><RocketLaunch questions={questions} color="#FFD700" onDone={() => setScreen("checkpoint-quiz")} /></div>;
   if (screen === "checkpoint-quiz") return <div className="min-h-screen bg-[#060614] flex flex-col"><Starfield /><div className="flex-1"><OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone} /></div><AvatarCompanion fixed={true} mood={avatarMood} {...avatarProps} /></div>;

@@ -51,6 +51,20 @@ const T_PLIZIOGO: Record<Lang, any> = {
   en: { heading: (c: string) => `${c} Itinerary`, sub: "100+ cities with a day plan", intro: (c: string) => `Plizio Go builds a ready-made one-day plan for over 100 cities in ${c} – free, no sign-up. Just pick the weather and how you get around, and you instantly get a concrete route for the day: which sights in what order, where to eat, opening hours, all on the map. Pick your city below and start your day.`, onMap: "View on the map", more: "Open day plan", home: "Home", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Frequently asked questions", titleTpl: (c: string) => `${c} Itinerary: ready-made day plans for 100+ cities (2026)`, metaTpl: (c: string) => `Ready-made one-day plans for over 100 cities in ${c}: pick the weather and transport, get an instant route with sights, tips and map. Free with Plizio Go.` },
 };
 
+// --- category: top cities (ranked by population) ---
+const CITIES_SLUG: Record<Lang, string> = { de: "staedte", hu: "varosok", ro: "orase", en: "cities" };
+const T_CITIES: Record<Lang, any> = {
+  de: { heading: (c: string) => `Städte in ${c}`, sub: "Die Top 50", intro: (c: string) => `Die wichtigsten Städte in ${c} auf einen Blick – von der pulsierenden Metropole bis zur charmanten Kleinstadt. Jede Stadt führt zur ausführlichen Seite mit Karte, Sehenswürdigkeiten und Reisetipps.`, onMap: "Alle auf der Karte ansehen", more: "Mehr erfahren", home: "Startseite", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Häufige Fragen", titleTpl: (c: string) => `Städte in ${c}: Die wichtigsten 50 (2026)`, metaTpl: (c: string) => `Die 50 wichtigsten Städte in ${c} – mit Karte, Sehenswürdigkeiten, Einwohnerzahlen und Reisetipps.` },
+  hu: { heading: (c: string) => `${c} városai`, sub: "A top 50", intro: (c: string) => `${c} legfontosabb városai egy helyen – a nyüzsgő metropolisztól a bájos kisvárosig. Minden város a részletes oldalra vezet térképpel, látnivalókkal és úti tippekkel.`, onMap: "Mind a térképen", more: "Tovább", home: "Főoldal", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Gyakori kérdések", titleTpl: (c: string) => `${c} városai: a legfontosabb 50 (2026)`, metaTpl: (c: string) => `${c} 50 legfontosabb városa – térképpel, látnivalókkal, lakossággal és úti tippekkel.` },
+  ro: { heading: (c: string) => `Orașe în ${c}`, sub: "Top 50", intro: (c: string) => `Cele mai importante orașe din ${c} la un loc – de la metropola vibrantă la orășelul fermecător. Fiecare oraș duce la pagina detaliată cu hartă, obiective și sfaturi de călătorie.`, onMap: "Vezi toate pe hartă", more: "Află mai mult", home: "Acasă", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Întrebări frecvente", titleTpl: (c: string) => `Orașe în ${c}: cele mai importante 50 (2026)`, metaTpl: (c: string) => `Cele mai importante 50 de orașe din ${c} – cu hartă, obiective, populație și sfaturi de călătorie.` },
+  en: { heading: (c: string) => `Cities in ${c}`, sub: "The Top 50", intro: (c: string) => `The most important cities in ${c} at a glance – from the bustling metropolis to the charming small town. Each city links to a detailed page with map, attractions and travel tips.`, onMap: "See all on the map", more: "Learn more", home: "Home", cats: { nature: "", history: "", urban: "", other: "" }, faqH: "Frequently asked questions", titleTpl: (c: string) => `Top 50 Cities in ${c} (2026)`, metaTpl: (c: string) => `The 50 most important cities in ${c} – with map, attractions, population and travel tips.` },
+};
+const CITIES_FAQ: Record<Lang, [string, string][]> = {
+  de: [["Was sind die größten Städte in {c}?", "Auf dieser Seite findest du die wichtigsten Städte nach Einwohnerzahl – jede mit eigener Detailseite, Karte und Sehenswürdigkeiten."], ["Wie finde ich Sehenswürdigkeiten pro Stadt?", "Klicke auf eine Stadt – die Detailseite listet die Top-Sehenswürdigkeiten, eine Karte und Reisetipps."]],
+  hu: [["Melyek a legnagyobb városok {c} területén?", "Ezen az oldalon a legfontosabb városokat találod lakosságszám szerint – mindegyik saját oldallal, térképpel és látnivalókkal."], ["Hogyan találok látnivalókat városonként?", "Kattints egy városra – a részletes oldal felsorolja a top látnivalókat, térképet és úti tippeket."]],
+  ro: [["Care sunt cele mai mari orașe din {c}?", "Pe această pagină găsești cele mai importante orașe după populație – fiecare cu pagină proprie, hartă și obiective."], ["Cum găsesc obiective pentru fiecare oraș?", "Apasă pe un oraș – pagina detaliată listează obiectivele principale, o hartă și sfaturi de călătorie."]],
+  en: [["What are the largest cities in {c}?", "This page lists the most important cities by population – each with its own detail page, map and attractions."], ["How do I find attractions per city?", "Click a city – the detail page lists the top attractions, a map and travel tips."]],
+};
 // localized type badge labels (subset; fallback = raw type)
 const TYPE_LABEL: Record<string, Partial<Record<Lang, string>>> = {
   castle: { de: "Burg", hu: "Vár", ro: "Castel", en: "Castle" },
@@ -95,7 +109,7 @@ type POI = { id: string; type?: string; parent?: string; coords?: number[]; imag
 
 // --- country config ---
 type CountryCfg = { iso: string; mapSlug: string; names: Record<Lang, string> };
-const COUNTRIES: CountryCfg[] = [
+const COUNTRIES_CURATED: CountryCfg[] = [
   { iso: "hr", mapSlug: "croatia", names: { de: "Kroatien", hu: "Horvátország", ro: "Croația", en: "Croatia" } },
   { iso: "de", mapSlug: "deutschland", names: { de: "Deutschland", hu: "Németország", ro: "Germania", en: "Germany" } },
   { iso: "at", mapSlug: "austria", names: { de: "Österreich", hu: "Ausztria", ro: "Austria", en: "Austria" } },
@@ -115,6 +129,18 @@ const COUNTRIES: CountryCfg[] = [
   { iso: "si", mapSlug: "slovenia", names: { de: "Slowenien", hu: "Szlovénia", ro: "Slovenia", en: "Slovenia" } },
   { iso: "sk", mapSlug: "slovakia", names: { de: "Slowakei", hu: "Szlovákia", ro: "Slovacia", en: "Slovakia" } },
 ];
+// Full list = auto-generated config (all ~195 countries with a pois/<ISO>.json) merged with
+// the curated 18 (curated localized names win). Falls back to curated-only if config missing.
+// Build it with: npx tsx scripts/_gen_country_hub_config.mts  → scripts/_country_hub_config.json
+const COUNTRIES: CountryCfg[] = (() => {
+  try {
+    const cfg = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "scripts/_country_hub_config.json"), "utf8")) as CountryCfg[];
+    const byIso = new Map<string, CountryCfg>();
+    for (const c of cfg) byIso.set(c.iso, { iso: c.iso, mapSlug: c.mapSlug, names: c.names });
+    for (const c of COUNTRIES_CURATED) byIso.set(c.iso, c); // curated names win
+    return [...byIso.values()];
+  } catch { return COUNTRIES_CURATED; }
+})();
 
 const SITE = "https://plizio.com";
 const URLIDX: Record<string, Record<string,string>> = (() => {
@@ -128,6 +154,7 @@ const BLOCK: Set<string> = (() => {
   try { return new Set<string>(JSON.parse(fs.readFileSync(path.resolve(process.cwd(),"lib/visualLab/data/_dedup_blocklist.json"),"utf8"))); } catch { return new Set(); }
 })();
 let FLAT = false; // PlizioGo flat-grid mode (cities, no category buckets)
+let CITIES = false; // top-cities mode (population-ranked, flat render)
 
 function esc(s: string): string { return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
 function firstSentence(s: string, max = 150): string {
@@ -251,6 +278,16 @@ function selectPliziogo(pois: POI[]): POI[] {
   return elig.slice(0, 120);
 }
 
+// Top cities ranked by population, with a graceful fallback to tier/richness where population is
+// missing (it often is). Image-covered only (no empty boxes); the >=25 gate then drops thin sets.
+function selectCities(pois: POI[]): POI[] {
+  const CITY_T = /^(city|capital|state-capital|town|municipality)$/;
+  const cities = pois.filter((p) => p.type && CITY_T.test(p.type) && p.coords && URLIDX[p.id] && resolveImg(p));
+  cities.sort((a, b) => (b.population || 0) - (a.population || 0)
+    || ((a.tier ?? 9) - (b.tier ?? 9)) || richness(b) - richness(a) || a.id.localeCompare(b.id));
+  return cities.slice(0, 50);
+}
+
 function alternatesFor(c: CountryCfg): Record<Lang,string> {
   const out = {} as Record<Lang,string>;
   for (const l of LANGS) out[l] = `${SITE}/${slugify(c.names[l])}-${SIGHTS_SLUG[l]}/`;
@@ -296,7 +333,7 @@ function render(c: CountryCfg, lang: Lang, top: POI[]): string {
     ro: [["Ce este Plizio Go?", "Plizio Go este un planificator zilnic gratuit: alegi un oraș, vremea și mijlocul de transport și primești imediat un traseu gata făcut pentru o zi – cu obiective într-o ordine logică, sfaturi de masă, program și hartă."],["Câte orașe din "+country+" sunt disponibile?", "Peste 100 de orașe au deja un plan zilnic gata făcut și se adaugă mereu altele noi."],["Costă ceva?", "Nu. Plizio Go este complet gratuit și se folosește fără cont."]],
     en: [["What is Plizio Go?", "Plizio Go is a free day planner: pick a city, the weather and how you get around, and instantly get a ready-made one-day route – with sights in a sensible order, food tips, opening hours and a map."],["How many cities in "+country+" are available?", "Over 100 cities already have a ready day plan, and new ones are added all the time."],["Is it free?", "Yes. Plizio Go is completely free and needs no sign-up."]],
   };
-  const faqs = FLAT ? PG_FAQ[lang] : lang === "de"
+  const faqs = CITIES ? CITIES_FAQ[lang].map(([q, a]) => [q.split("{c}").join(country), a.split("{c}").join(country)]) : FLAT ? PG_FAQ[lang] : lang === "de"
     ? [["Was sind die Top-Sehenswürdigkeiten in "+country+"?", "Zu den beliebtesten zählen "+top.slice(0,5).map(p=>localizedName(p,"de")).join(", ")+" und viele weitere – die vollständige Top-50-Liste findest du auf dieser Seite."],["Wann ist die beste Reisezeit für "+country+"?","Mai bis Oktober bietet das angenehmste Wetter; Juli und August sind am wärmsten und am stärksten besucht."]]
     : lang === "hu"
     ? [["Melyek "+country+" legjobb látnivalói?","A legnépszerűbbek közé tartozik "+top.slice(0,5).map(p=>localizedName(p,"hu")).join(", ")+" és még sok más – a teljes top 50 listát ezen az oldalon találod."],["Mikor a legjobb "+country+"-ba utazni?","Május és október között a legkellemesebb az időjárás; július és augusztus a legmelegebb és leglátogatottabb."]]
@@ -364,8 +401,11 @@ function buildOne(c: CountryCfg): void {
   if (!fs.existsSync(jsonp)) { console.log(`SKIP ${c.iso}: no ${c.iso.toUpperCase()}.json`); return; }
   const j = JSON.parse(fs.readFileSync(jsonp, "utf8"));
   const pois: POI[] = (j.pois || j) as POI[];
-  const top = FLAT ? selectPliziogo(pois) : selectTop(pois);
+  const top = CITIES ? selectCities(pois) : FLAT ? selectPliziogo(pois) : selectTop(pois);
   if (!top.length) { console.log(`SKIP ${c.iso}: 0 entry (${CAT_KEY})`); return; }
+  // hub-quality gate: skip thin countries (<25 ranked items) so no sparse hub ships.
+  // itinerary (PlizioGo) is exempt; cities + attractions + nature are gated.
+  if (CAT_KEY !== "itinerary" && top.length < 25) { console.log(`SKIP ${c.iso}: only ${top.length} <25 (${CAT_KEY})`); return; }
   for (const lang of LANGS) {
     const slug = `${slugify(c.names[lang])}-${SIGHTS_SLUG[lang]}`;
     const dir = path.resolve(process.cwd(), OUT_DIR, slug);
@@ -395,6 +435,13 @@ if (category === "pliziogo" || category === "itinerary" || category === "reisero
   CAT_FILTER = (p: any) => !!p.type && !EXCLUDE.has(p.type) &&
     (NATURE.has(p.type) || Object.values((p.name || {}) as Record<string, string>).some((n) => NAT_RE.test(n || "")));
   console.log("category: national parks & nature");
+} else if (category === "cities" || category === "staedte" || category === "varosok") {
+  SIGHTS_SLUG = CITIES_SLUG;
+  T = T_CITIES;
+  FLAT = true;       // flat ranked list, no nature/history buckets
+  CITIES = true;     // routes selector to selectCities (population-ranked)
+  CAT_KEY = "cities";
+  console.log("category: top cities (population-ranked)");
 }
 const list = target === "all" ? COUNTRIES : COUNTRIES.filter(c => target.split(",").includes(c.iso));
 if (!list.length) { console.error(`No country '${target}' configured`); process.exit(1); }

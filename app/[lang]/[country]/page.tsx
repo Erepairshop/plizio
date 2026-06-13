@@ -11,6 +11,7 @@ import {
 import StructuredData, { createCountryStructuredData } from "@/components/seo/StructuredData";
 import { mapSlugForCountry } from "@/lib/seo/countryMapSlug";
 import { sightsHubSlug, SIGHTS_HUB_LABEL, type HubLang } from "@/lib/seo/sightsHubs";
+import { beachHubHref, BEACH_HUB_LABEL, citiesHubHref, CITIES_HUB_LABEL } from "@/lib/seo/themeHubs";
 import {
   COUNTRY_COPY,
   getCountryCopy,
@@ -95,6 +96,8 @@ export default async function CountryPage({
   // other country. mapSlug is null for the handful without a static map.
   const mapSlug = mapSlugForCountry(countryId);
   const hubSlug = sightsHubSlug(countryId, lang);
+  const beachHref = beachHubHref(lang as Lang, countryId);
+  const citiesHref = citiesHubHref(lang as Lang, countryId);
   const mapHref = mapSlug ? `/${mapSlug}-map/${lang === "hu" ? "" : lang + "/"}` : null;
   const ML = ({
     de: { kicker: "Interaktive Karte", cta: `${countryCopy.name} entdecken`, sub: "Sehenswürdigkeiten, Städte, Karte & Suche", world: "Weltkarte ansehen", open: "Karte öffnen" },
@@ -149,6 +152,26 @@ export default async function CountryPage({
                 className="mt-4 inline-flex items-center gap-2 rounded-full border border-amber-400/25 bg-amber-400/[0.07] px-5 py-2 text-sm text-amber-100/90 transition hover:border-amber-300/50 hover:bg-amber-400/[0.12]"
               >
                 {SIGHTS_HUB_LABEL[lang as HubLang] ?? SIGHTS_HUB_LABEL.en} →
+              </a>
+            ) : null}
+
+            {/* Beach hub (coastal countries with a generated /[lang]/<key>/<beaches>/ hub). 404-safe via BEACH_HUB_COUNTRIES. */}
+            {beachHref ? (
+              <a
+                href={beachHref}
+                className="mt-4 inline-flex items-center gap-2 rounded-full border border-sky-400/25 bg-sky-400/[0.07] px-5 py-2 text-sm text-sky-100/90 transition hover:border-sky-300/50 hover:bg-sky-400/[0.12]"
+              >
+                {BEACH_HUB_LABEL[lang as Lang] ?? BEACH_HUB_LABEL.en} →
+              </a>
+            ) : null}
+
+            {/* Cities hub (root slug /<country>-staedte/). 404-safe via CITIES_HUBS. */}
+            {citiesHref ? (
+              <a
+                href={citiesHref}
+                className="mt-4 inline-flex items-center gap-2 rounded-full border border-violet-400/25 bg-violet-400/[0.07] px-5 py-2 text-sm text-violet-100/90 transition hover:border-violet-300/50 hover:bg-violet-400/[0.12]"
+              >
+                {CITIES_HUB_LABEL[lang as Lang] ?? CITIES_HUB_LABEL.en} →
               </a>
             ) : null}
           </div>

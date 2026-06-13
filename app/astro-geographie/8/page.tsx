@@ -50,12 +50,22 @@ const CATEGORY_CONFIG: Record<string, {
   explore: {
     label: { en: "Explore", hu: "Felfedezés", de: "Entdecken", ro: "Explorare" },
     desc: {
-      en: "Discover history — no wrong answers!",
-      hu: "Fedezd fel — nincs hibás válasz!",
+      en: "Discover geography — no wrong answers!",
+      hu: "Fedezd fel a földrajzot — nincs hibás válasz!",
       de: "Entdecke Geographie — keine falschen Antworten!",
-      ro: "Descoperă istoria — fără răspunsuri greșite!",
+      ro: "Descoperă geografia — fără răspunsuri greșite!",
     },
     color: "#A78BFA", bg: "rgba(167,139,250,0.12)", border: "rgba(167,139,250,0.35)",
+  },
+  "geographie-explore": {
+    label: { en: "Geography Explore", hu: "Földrajz Felfedezés", de: "Geographie entdecken", ro: "Explorare Geografie" },
+    desc: {
+      en: "Learn about geography through interactive missions!",
+      hu: "Ismerd meg a földrajzot interaktív küldetéseken!",
+      de: "Lerne Geographie durch interaktive Missionen!",
+      ro: "Învață geografia prin misiuni interactive!",
+    },
+    color: "#F59E0B", bg: "rgba(245,158,11,0.12)", border: "rgba(245,158,11,0.35)",
   },
   build: {
     label: { en: "Practice", hu: "Gyakorlás", de: "Üben", ro: "Practică" },
@@ -80,10 +90,10 @@ const CATEGORY_CONFIG: Record<string, {
 };
 
 const GRADE_LABEL: Record<string, string> = {
-  en: "Grade 8 · 20th Century",
-  de: "Klasse 8 · 20. Jahrhundert",
-  hu: "8. osztály · 20. század",
-  ro: "Clasa 8 · Secolul XX",
+  en: "Grade 8 · Globalization",
+  de: "Klasse 8 · Globalisierung",
+  hu: "8. osztály · Globalizáció",
+  ro: "Clasa 8 · Globalizare",
 };
 
 type Screen =
@@ -437,9 +447,9 @@ export default function AstroGeographieK8Page() {
     );
   }
 
-  if (screen === "mission-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-2xl font-black mb-4">Mission befehdet!</h2><button onClick={handleAfterMission} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.next}</button></div>;
+  if (screen === "mission-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-2xl font-black mb-4">{{ de: "Mission beendet!", en: "Mission complete!", hu: "Küldetés teljesítve!", ro: "Misiune îndeplinită!" }[lang] ?? "Mission beendet!"}</h2><button onClick={handleAfterMission} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.next}</button></div>;
   if (screen === "reward") return <RewardReveal rarity={earnedCard!} game="astrogeographie" score={rewardScore.score} total={rewardScore.total} onDone={() => setScreen("island-done")} />;
-  if (screen === "island-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-3xl font-black mb-4">{activeIsland?.icon} Insel beendet!</h2><button onClick={goToMap} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.back}</button></div>;
+  if (screen === "island-done") return <div className="min-h-screen bg-[#060614] flex flex-col items-center justify-center p-6"><Starfield /><h2 className="text-white text-3xl font-black mb-4">{activeIsland?.icon} {{ de: "Insel abgeschlossen!", en: "Island complete!", hu: "Sziget teljesítve!", ro: "Insulă finalizată!" }[lang] ?? "Insel abgeschlossen!"}</h2><button onClick={goToMap} className="py-4 px-8 rounded-xl bg-white/10 text-white font-bold">{t.back}</button></div>;
   if (screen === "island-complete-anim") return <IslandCompleteAnimation islandIcon={activeIsland!.icon} islandColor={activeIsland!.color} islandName={activeIsland!.name.de} lang={lang} grade={8} score={missionScore.score} total={missionScore.total} onDone={handleIslandAnimDone} />;
   if (screen === "rocket-launch") return <div className="min-h-screen bg-[#060614]"><Starfield /><RocketLaunch questions={questions} color="#FFD700" onDone={() => setScreen("checkpoint-quiz")} /></div>;
   if (screen === "checkpoint-quiz") return <div className="min-h-screen bg-[#060614] flex flex-col"><Starfield /><div className="flex-1"><OrbitQuiz questions={questions} color="#FFD700" onDone={handleCheckpointDone} /></div><AvatarCompanion fixed={true} mood={avatarMood} {...avatarProps} /></div>;
