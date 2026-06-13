@@ -8,7 +8,7 @@ import JsonLd from "@/components/JsonLd";
 import GlobalOverlays from "@/components/GlobalOverlays";
 import MapPrefetcher from "@/components/MapPrefetcher";
 import SiteFooterNav from "@/components/SiteFooterNav";
-import { buildOrganizationSchema, buildWebsiteSchema } from "@/lib/seo/schema";
+import { buildOrganizationSchema, buildWebsiteSchema, buildSiteFeaturesSchema } from "@/lib/seo/schema";
 
 const caveat = Caveat({
   subsets: ["latin"],
@@ -130,6 +130,7 @@ export default function RootLayout({
         <script defer src="https://stats.plizio.com/script.js" data-website-id="b718db4e-ee1b-43db-a89a-af4ecc5435bf"></script>
         <JsonLd data={buildOrganizationSchema()} />
         <JsonLd data={buildWebsiteSchema()} />
+        <JsonLd data={buildSiteFeaturesSchema()} />
       </head>
       <body className={`${caveat.variable} min-h-screen bg-bg antialiased`}>
         <LanguageProvider>

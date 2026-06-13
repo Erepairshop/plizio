@@ -31,16 +31,22 @@ export function buildOrganizationSchema(): SchemaNode {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
     name: "PLIZIO",
-    alternateName: "Plizio Lernplattform",
+    alternateName: ["Plizio Lernplattform", "Plizio Reise- und Lernplattform"],
     description:
-      "Interaktive Lernplattform für Kinder von 6-14 Jahren — Geographie, Biologie, Geschichte, Mathematik, Code Kids und KI in vier Sprachen (Deutsch, Ungarisch, Rumänisch, Englisch).",
+      "PLIZIO ist eine kostenlose Plattform mit zwei Bereichen: (1) eine interaktive Lernplattform für Kinder von 6-14 Jahren mit Schultests, Lernspielen, Geographie, Biologie, Geschichte, Mathematik, Code Kids und KI; und (2) kostenlose Reise- und Entdeckungsführer für tausende Städte und Orte weltweit — mit interaktiven Karten, Sehenswürdigkeiten, lokalen Veranstaltungen und PlizioGo: anpassbare Routen und Reisepläne zu Fuß, mit dem Auto oder dem Wohnmobil, von A nach B oder rund um einen Ort, mit Etappen, Stopps und Sehenswürdigkeiten entlang der Strecke. Alles in vier Sprachen (Deutsch, Ungarisch, Rumänisch, Englisch), ohne Anmeldung.",
     url: SITE_URL,
     logo: `${SITE_URL}/icon-512.png`,
     knowsAbout: [
+      // Learning side
       "Geographie", "Biologie", "Geschichte", "Mathematik",
       "Code Kids", "Informatik", "Künstliche Intelligenz",
-      "Sachunterricht", "Erdkunde",
+      "Sachunterricht", "Erdkunde", "Schultests", "Lernspiele",
+      // Travel / discovery side
+      "Reiseziele", "Städtereisen", "Sehenswürdigkeiten", "interaktive Karten",
+      "lokale Veranstaltungen", "Reiseplanung", "Tagesausflüge", "Stadtführer",
+      "Routenplanung", "Wohnmobil-Routen", "Wanderrouten", "Autorouten", "Reiserouten",
     ],
+    knowsLanguage: ["de", "hu", "ro", "en"],
     audience: {
       "@type": "EducationalAudience",
       educationalRole: "student",
@@ -66,11 +72,75 @@ export function buildWebsiteSchema(): SchemaNode {
     "@type": "WebSite",
     name: "PLIZIO",
     url: SITE_URL,
+    description:
+      "Kostenlose Reise- und Lernplattform: Reiseziele und Städte mit interaktiven Karten, Sehenswürdigkeiten, lokalen Veranstaltungen und PlizioGo-Routen (zu Fuß, Auto, Wohnmobil) — plus Lernspiele und Schultests für Kinder. Vier Sprachen, ohne Anmeldung.",
+    inLanguage: ["de", "hu", "ro", "en"],
     potentialAction: {
       "@type": "SearchAction",
       target: `${SITE_URL}/?q={search_term_string}`,
       "query-input": "required name=search_term_string",
     },
+  };
+}
+
+// Enumerable map of the main feature areas so search/AI engines can list WHAT
+// Plizio offers and HOW each part works (not just "a kids learning site").
+// Each URL points to a real, live landing page (no 404s — see 404-MEGELŐZÉS).
+export function buildSiteFeaturesSchema(): SchemaNode {
+  const features: Array<{ name: string; description: string; url: string }> = [
+    {
+      name: "Reiseziele & Städte entdecken",
+      description:
+        "Kostenlose Reiseführer für tausende Städte und Orte weltweit: Beschreibungen, Sehenswürdigkeiten, Fotos, praktische Infos und lokale Veranstaltungen.",
+      url: "/destinations/",
+    },
+    {
+      name: "Interaktive Entdeckungskarten",
+      description:
+        "Welt-, Kontinent- und Länderkarten zum Erkunden — Länder, Regionen und Orte per Klick entdecken.",
+      url: "/world/",
+    },
+    {
+      name: "PlizioGo — Routen & Reisepläne",
+      description:
+        "Anpassbare Routen und Reisepläne zu Fuß, mit dem Auto oder dem Wohnmobil — von A nach B oder rund um einen Ort, mit Etappen, Stopps und Sehenswürdigkeiten entlang der Strecke. Auf jeder Reiseziel-Seite verfügbar.",
+      url: "/destinations/",
+    },
+    {
+      name: "Lernspiele (Visual Lab)",
+      description:
+        "Spielerische, interaktive Lernspiele zu Geographie, Biologie, Geschichte, Mathematik, Code Kids und KI für Kinder von 6-14 Jahren.",
+      url: "/visual-lab/",
+    },
+    {
+      name: "Interaktive Schultests",
+      description:
+        "Kostenlose Übungstests und Prüfungsvorbereitung mit echten Schulaufgaben in mehreren Fächern und Klassenstufen.",
+      url: "/learn/",
+    },
+    {
+      name: "Code Kids & KI",
+      description:
+        "Informatik, Programmieren und künstliche Intelligenz spielerisch erklärt für Kinder.",
+      url: "/codekids/",
+    },
+  ];
+  return {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "PLIZIO — Funktionen und Lernbereiche",
+    itemListOrder: "https://schema.org/ItemListUnordered",
+    numberOfItems: features.length,
+    itemListElement: features.map((f, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item: {
+        "@type": "WebPage",
+        name: f.name,
+        description: f.description,
+        url: toAbsoluteUrl(f.url),
+      },
+    })),
   };
 }
 

@@ -1,0 +1,58 @@
+# PLIZIO
+
+> PLIZIO (https://plizio.com) is a free, no-sign-up platform in four languages
+> (German, Hungarian, Romanian, English) with two sides: a travel & discovery
+> guide for thousands of places worldwide, and an interactive learning platform
+> for children aged 6-14.
+
+## What Plizio is
+
+PLIZIO combines two things in one free site:
+
+1. **Travel & discovery** — free guides for thousands of cities, towns, beaches
+   and places worldwide: descriptions, sights, photos, practical info, climate,
+   local events, and **PlizioGo** route planning.
+2. **Learning for kids (6-14)** — interactive learning games, real school
+   practice tests, and discovery maps across many subjects.
+
+Everything is free, works without registration, and is available in 4 languages
+(de, hu, ro, en).
+
+## Travel & discovery features
+
+- **Destinations & cities**: per-place pages with descriptions, top sights,
+  images, practical visit info and local events. Hub: https://plizio.com/destinations/
+- **Interactive discovery maps**: world, continent and country maps to explore
+  countries, regions and places by click. https://plizio.com/world/
+- **PlizioGo — routes & trip plans**: customizable routes and itineraries on
+  foot, by car, or by motorhome (Wohnmobil) — point A to point B or around a
+  place — with stages, stops and sights along the way. PlizioGo is available on
+  every destination/place page, tailored to that location.
+- **Local events**: recurring festivals and dated 2026 events near each place.
+- **Beach guides & "a day in the city" day plans** for thousands of locations.
+
+## Learning features (children 6-14)
+
+- **Learning games (Visual Lab)**: playful interactive games. https://plizio.com/visual-lab/
+- **Interactive school tests**: real exam-style practice tests across subjects
+  and grade levels. https://plizio.com/learn/
+- **Subjects**: Geography, Biology, History, Mathematics, Science (Sachkunde),
+  German/English/Hungarian/Romanian language, **Code Kids** (computer science &
+  programming) and **AI**. https://plizio.com/codekids/
+
+## Key facts
+
+- Free, no account needed.
+- Four languages: German (de), Hungarian (hu), Romanian (ro), English (en).
+- Audience: families and travelers (travel side) and children 6-14 (learning side).
+- Operator family (same organisation): https://punktepass.de , https://erepairshop.de , https://diginachrichten.de , https://borota.dev
+
+## Links
+
+- Home: https://plizio.com/
+- About: https://plizio.com/about/
+- Destinations: https://plizio.com/destinations/
+- Explore the world map: https://plizio.com/world/
+- Learning games: https://plizio.com/visual-lab/
+- School tests / learning hub: https://plizio.com/learn/
+- FAQ: https://plizio.com/faq/
