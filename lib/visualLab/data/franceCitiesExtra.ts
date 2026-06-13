@@ -224,30 +224,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bassin nordique de la piscine de Bréquigny",
-                  "text": "Das nordische Becken in Rennes bietet Familien ein einzigartiges und erfrischendes Schwimmerlebnis im Freien.",
-                  "category": "family",
-                  "coords": [
-                        -1.690534,
-                        48.088164
-                  ]
-            },
-            {
                   "name": "Volière",
                   "text": "Diese Voliere in Rennes ist ein wunderbares Ziel für Familien, um verschiedene Vogelarten aus der Nähe zu entdecken.",
                   "category": "family",
                   "coords": [
                         -1.670125,
                         48.114005
-                  ]
-            },
-            {
-                  "name": "Blue nat",
-                  "text": "Blue Nat in Rennes ist der ideale Ort für Familien, um gemeinsam Spaß im Wasser zu haben.",
-                  "category": "family",
-                  "coords": [
-                        -1.691529,
-                        48.090464
                   ]
             },
             {
@@ -656,30 +638,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bassin nordique de la piscine de Bréquigny",
-                  "text": "A rennes-i északi medence egyedülálló és frissítő szabadtéri úszási élményt nyújt a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        -1.690534,
-                        48.088164
-                  ]
-            },
-            {
                   "name": "Volière",
                   "text": "Ez a rennes-i madárház csodálatos úti cél a családok számára a különböző madárfajok közeli felfedezéséhez.",
                   "category": "family",
                   "coords": [
                         -1.670125,
                         48.114005
-                  ]
-            },
-            {
-                  "name": "Blue nat",
-                  "text": "A rennes-i Blue nat ideális hely a családok számára a közös vízi szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        -1.691529,
-                        48.090464
                   ]
             },
             {
@@ -1088,30 +1052,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bassin nordique de la piscine de Bréquigny",
-                  "text": "Bazinul nordic din Rennes oferă familiilor o experiență de înot în aer liber unică și revigorantă.",
-                  "category": "family",
-                  "coords": [
-                        -1.690534,
-                        48.088164
-                  ]
-            },
-            {
                   "name": "Volière",
                   "text": "Această volieră din Rennes este o destinație minunată pentru familii pentru a descoperi de aproape diverse specii de păsări.",
                   "category": "family",
                   "coords": [
                         -1.670125,
                         48.114005
-                  ]
-            },
-            {
-                  "name": "Blue nat",
-                  "text": "Blue nat din Rennes este locul ideal pentru familii pentru a se distra împreună în apă.",
-                  "category": "family",
-                  "coords": [
-                        -1.691529,
-                        48.090464
                   ]
             },
             {
@@ -1520,30 +1466,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bassin nordique de la piscine de Bréquigny",
-                  "text": "The Nordic pool in Rennes offers families a unique and refreshing outdoor swimming experience.",
-                  "category": "family",
-                  "coords": [
-                        -1.690534,
-                        48.088164
-                  ]
-            },
-            {
                   "name": "Volière",
                   "text": "This aviary in Rennes is a wonderful destination for families to discover various bird species up close.",
                   "category": "family",
                   "coords": [
                         -1.670125,
                         48.114005
-                  ]
-            },
-            {
-                  "name": "Blue nat",
-                  "text": "Blue nat in Rennes is the ideal place for families to have fun together in the water.",
-                  "category": "family",
-                  "coords": [
-                        -1.691529,
-                        48.090464
                   ]
             },
             {
@@ -2040,15 +1968,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux du Grand hameau",
-                  "text": "Ein großzügiger Spielplatz in Le Havre mit viel Platz für Bewegung im Freien.",
-                  "category": "family",
-                  "coords": [
-                        0.093014,
-                        49.52399
-                  ]
-            },
-            {
                   "name": "Araignée",
                   "text": "Ein fantasievoll gestaltetes Kletter- oder Spielgerät in Le Havre für Kinder.",
                   "category": "family",
@@ -2073,24 +1992,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.139547,
                         49.514171
-                  ]
-            },
-            {
-                  "name": "La Fontaine enchantée",
-                  "text": "La Fontaine enchantée in Le Havre ist ein Freizeitort mit Attraktionen, die Kinder magisch finden werden.",
-                  "category": "family",
-                  "coords": [
-                        0.143192,
-                        49.529496
-                  ]
-            },
-            {
-                  "name": "Piscine Edouard Thomas",
-                  "text": "Die Piscine Edouard Thomas in Le Havre bietet verschiedene Wasseranlagen für Spaß und Bewegung.",
-                  "category": "family",
-                  "coords": [
-                        0.161631,
-                        49.49857
                   ]
             },
             {
@@ -2306,15 +2207,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux du Grand hameau",
-                  "text": "Egy tágas játszótér Le Havre-ban, sok hellyel a szabadtéri mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        0.093014,
-                        49.52399
-                  ]
-            },
-            {
                   "name": "Araignée",
                   "text": "Egy fantáziadúsan kialakított mászó- vagy játékeszköz Le Havre-ban gyerekeknek.",
                   "category": "family",
@@ -2339,24 +2231,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.139547,
                         49.514171
-                  ]
-            },
-            {
-                  "name": "La Fontaine enchantée",
-                  "text": "A Le Havre-i La Fontaine enchantée egy olyan szabadidős helyszín, amelyet a gyermekek varázslatosnak találnak majd.",
-                  "category": "family",
-                  "coords": [
-                        0.143192,
-                        49.529496
-                  ]
-            },
-            {
-                  "name": "Piscine Edouard Thomas",
-                  "text": "A Le Havre-i Piscine Edouard Thomas különféle vízi létesítményeket kínál szórakozáshoz és edzéshez.",
-                  "category": "family",
-                  "coords": [
-                        0.161631,
-                        49.49857
                   ]
             },
             {
@@ -2572,15 +2446,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux du Grand hameau",
-                  "text": "Un loc de joacă generos în Le Havre cu mult spațiu pentru mișcare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        0.093014,
-                        49.52399
-                  ]
-            },
-            {
                   "name": "Araignée",
                   "text": "Un echipament de cățărat sau de joacă conceput cu imaginație în Le Havre.",
                   "category": "family",
@@ -2605,24 +2470,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.139547,
                         49.514171
-                  ]
-            },
-            {
-                  "name": "La Fontaine enchantée",
-                  "text": "La Fontaine enchantée din Le Havre este un loc de agrement cu elemente pe care copiii le vor găsi magice.",
-                  "category": "family",
-                  "coords": [
-                        0.143192,
-                        49.529496
-                  ]
-            },
-            {
-                  "name": "Piscine Edouard Thomas",
-                  "text": "Piscina Edouard Thomas din Le Havre oferă diverse facilități acvatice pentru distracție și exerciții fizice.",
-                  "category": "family",
-                  "coords": [
-                        0.161631,
-                        49.49857
                   ]
             },
             {
@@ -2838,15 +2685,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux du Grand hameau",
-                  "text": "A spacious playground in Le Havre with plenty of room for outdoor movement.",
-                  "category": "family",
-                  "coords": [
-                        0.093014,
-                        49.52399
-                  ]
-            },
-            {
                   "name": "Araignée",
                   "text": "An imaginatively designed climbing or play structure in Le Havre for children.",
                   "category": "family",
@@ -2871,24 +2709,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.139547,
                         49.514171
-                  ]
-            },
-            {
-                  "name": "La Fontaine enchantée",
-                  "text": "La Fontaine enchantée in Le Havre is a leisure spot with features that children will find magical.",
-                  "category": "family",
-                  "coords": [
-                        0.143192,
-                        49.529496
-                  ]
-            },
-            {
-                  "name": "Piscine Edouard Thomas",
-                  "text": "Piscine Edouard Thomas in Le Havre offers various aquatic facilities for fun and exercise.",
-                  "category": "family",
-                  "coords": [
-                        0.161631,
-                        49.49857
                   ]
             },
             {
@@ -3143,24 +2963,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Skoubi Parc",
-                  "text": "Skoubi Parc in Angers ist ein Freizeitpark für Familien.",
-                  "category": "family",
-                  "coords": [
-                        -0.520432,
-                        47.475733
-                  ]
-            },
-            {
-                  "name": "Ouistiti Compagnie",
-                  "text": "Ouistiti Compagnie ist ein Freizeitpark in Angers, der Spaß für die ganze Familie bereithält.",
-                  "category": "family",
-                  "coords": [
-                        -0.61728,
-                        47.462931
-                  ]
-            },
-            {
                   "name": "Galerie Sonore",
                   "text": "Ein interaktives Museum in Angers, das der Welt der Klänge und Musikinstrumente gewidmet ist.",
                   "category": "museum",
@@ -3326,24 +3128,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.561328,
                         47.475504
-                  ]
-            },
-            {
-                  "name": "Skoubi Parc",
-                  "text": "Az angers-i Skoubi Parc egy vidámpark családoknak.",
-                  "category": "family",
-                  "coords": [
-                        -0.520432,
-                        47.475733
-                  ]
-            },
-            {
-                  "name": "Ouistiti Compagnie",
-                  "text": "Az Ouistiti Compagnie egy vidámpark Angers-ban, amely szórakozást nyújt az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        -0.61728,
-                        47.462931
                   ]
             },
             {
@@ -3515,24 +3299,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Skoubi Parc",
-                  "text": "Skoubi Parc din Angers este un parc tematic pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        -0.520432,
-                        47.475733
-                  ]
-            },
-            {
-                  "name": "Ouistiti Compagnie",
-                  "text": "Ouistiti Compagnie este un parc tematic în Angers, care oferă distracție pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        -0.61728,
-                        47.462931
-                  ]
-            },
-            {
                   "name": "Galerie Sonore",
                   "text": "Un muzeu interactiv din Angers, dedicat lumii sunetelor și instrumentelor muzicale.",
                   "category": "museum",
@@ -3698,24 +3464,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.561328,
                         47.475504
-                  ]
-            },
-            {
-                  "name": "Skoubi Parc",
-                  "text": "Skoubi Parc in Angers is a theme park for families.",
-                  "category": "family",
-                  "coords": [
-                        -0.520432,
-                        47.475733
-                  ]
-            },
-            {
-                  "name": "Ouistiti Compagnie",
-                  "text": "Ouistiti Compagnie is a theme park in Angers that provides fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        -0.61728,
-                        47.462931
                   ]
             },
             {
@@ -5464,16 +5212,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Conservatoire botanique national",
-                  "text": "Ein wunderschöner Garten und Gewächshäuser, die dem Erhalt bedrohter Pflanzenarten aus der ganzen Welt gewidmet sind.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -4.4473,
-                        48.4021
-                  ]
-            },
-            {
                   "name": "Musée des Beaux-Arts de Brest",
                   "text": "Das nach dem Krieg wiederaufgebaute Kunstmuseum beherbergt eine bedeutende Sammlung europäischer Gemälde und Skulpturen.",
                   "category": "museum",
@@ -5564,24 +5302,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Games Park",
-                  "text": "Der Games Park in Brest ist ein Unterhaltungszentrum mit verschiedenen Spielen und Aktivitäten für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        -4.531968,
-                        48.386779
-                  ]
-            },
-            {
-                  "name": "Espace Plongée des Docks",
-                  "text": "Das Scuba-Center in Brest bietet Wasseraktivitäten und Lernmöglichkeiten für Familien.",
-                  "category": "family",
-                  "coords": [
-                        -4.491125,
-                        48.380278
-                  ]
-            },
-            {
                   "name": "Musée national de la Marine",
                   "text": "Dieses Museum in Brest befindet sich in einer historischen Festung und dokumentiert die maritime Geschichte Frankreichs. Besucher können hier Schiffsmodelle, Waffen und maritime Artefakte entdecken.",
                   "category": "museum",
@@ -5669,15 +5389,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.446671,
                         48.405557
-                  ]
-            },
-            {
-                  "name": "Plage du Moulin Blanc",
-                  "text": "Dieser beliebte Sandstrand in Brest lädt zum Spazierengehen und zu verschiedenen Wassersportaktivitäten ein. Er bietet einen weiten Blick auf die Bucht und ist ein geschätzter Erholungsort für Einheimische und Besucher.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.428597,
-                        48.396636
                   ]
             },
             {
@@ -5977,24 +5688,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Games Park",
-                  "text": "A bresti Games Park egy szórakoztató központ különféle játékokkal és tevékenységekkel az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        -4.531968,
-                        48.386779
-                  ]
-            },
-            {
-                  "name": "Espace Plongée des Docks",
-                  "text": "A bresti Scuba center vízi tevékenységeket és tanulási lehetőségeket kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        -4.491125,
-                        48.380278
-                  ]
-            },
-            {
                   "name": "Musée national de la Marine",
                   "text": "Ez a bresti múzeum egy történelmi erődben található, és Franciaország tengerészeti történelmét dokumentálja. A látogatók hajómodelleket, fegyvereket és tengerészeti leleteket fedezhetnek fel itt.",
                   "category": "museum",
@@ -6082,15 +5775,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.446671,
                         48.405557
-                  ]
-            },
-            {
-                  "name": "Plage du Moulin Blanc",
-                  "text": "Ez a népszerű homokos tengerpart Brestben sétálásra és különféle vízi sportokra hívogat. Széles kilátást nyújt az öbölre, és kedvelt pihenőhely a helyiek és a látogatók körében.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.428597,
-                        48.396636
                   ]
             },
             {
@@ -6290,16 +5974,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Conservatorul Botanic Național",
-                  "text": "O grădină superbă și sere care se concentrează pe conservarea speciilor de plante pe cale de dispariție din întreaga lume.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -4.4473,
-                        48.4021
-                  ]
-            },
-            {
                   "name": "Muzeul de Arte Frumoase din Brest",
                   "text": "Reconstruit după război, acest muzeu găzduiește o colecție valoroasă de picturi europene din secolul al XVII-lea până în prezent.",
                   "category": "museum",
@@ -6390,24 +6064,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Games Park",
-                  "text": "Games Park din Brest este un centru de divertisment cu diverse jocuri și activități pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        -4.531968,
-                        48.386779
-                  ]
-            },
-            {
-                  "name": "Espace Plongée des Docks",
-                  "text": "Scuba center din Brest oferă activități acvatice și oportunități de învățare pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        -4.491125,
-                        48.380278
-                  ]
-            },
-            {
                   "name": "Musée national de la Marine",
                   "text": "Acest muzeu din Brest este situat într-o cetate istorică și documentează istoria maritimă a Franței. Vizitatorii pot descoperi aici modele de nave, arme și artefacte maritime.",
                   "category": "museum",
@@ -6495,15 +6151,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.446671,
                         48.405557
-                  ]
-            },
-            {
-                  "name": "Plage du Moulin Blanc",
-                  "text": "Această plajă populară cu nisip din Brest invită la plimbări și la diverse activități de sporturi nautice. Oferă o vedere largă asupra golfului și este un loc de relaxare apreciat pentru localnici și vizitatori.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.428597,
-                        48.396636
                   ]
             },
             {
@@ -6703,16 +6350,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "National Botanical Conservatory",
-                  "text": "A peaceful garden and tropical greenhouses dedicated to the preservation of endangered plant species from across the globe.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        -4.4473,
-                        48.4021
-                  ]
-            },
-            {
                   "name": "Musée des Beaux-Arts de Brest",
                   "text": "Rebuilt after the war, this museum hosts a significant collection of European paintings and contemporary sculptures.",
                   "category": "museum",
@@ -6803,24 +6440,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Games Park",
-                  "text": "Games Park in Brest is an entertainment center with various games and activities for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        -4.531968,
-                        48.386779
-                  ]
-            },
-            {
-                  "name": "Scuba center",
-                  "text": "The Scuba center in Brest provides water-based activities and learning opportunities for families.",
-                  "category": "family",
-                  "coords": [
-                        -4.491125,
-                        48.380278
-                  ]
-            },
-            {
                   "name": "Musée national de la Marine",
                   "text": "Located in a historic fortress, this museum in Brest documents the maritime history of France. Visitors can discover ship models, weapons, and maritime artifacts here.",
                   "category": "museum",
@@ -6908,15 +6527,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -4.446671,
                         48.405557
-                  ]
-            },
-            {
-                  "name": "Plage du Moulin Blanc",
-                  "text": "This popular sandy beach in Brest is perfect for walking and various water sports activities. It offers a wide view of the bay and is a cherished recreational spot for locals and visitors alike.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.428597,
-                        48.396636
                   ]
             },
             {
@@ -7109,15 +6719,6 @@ const citySeeds: CitySeed[] = [
                         -4.496541,
                         48.384381
                   ]
-            },
-            {
-                  "name": "Conservatoire botanique national",
-                  "text": "Un jardin et des serres magnifiques dédiés à la préservation d'espèces végétales menacées du monde entier.",
-                  "category": "natural",
-                  "coords": [
-                        -4.4473,
-                        48.4021
-                  ]
             }
       ]
 }
@@ -7298,16 +6899,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jardin Botanique de Tours",
-                  "text": "Ein wunderschöner Garten mit Arzneipflanzen, exotischen Bäumen und einem kleinen Tierpark.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        0.666667,
-                        47.387778
-                  ]
-            },
-            {
                   "name": "Cloître de la Psalette",
                   "text": "Ein gotischer Kreuzgang neben der Kathedrale, bekannt für seine Ruhe und Architektur.",
                   "category": "religious",
@@ -7318,16 +6909,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Prieuré de Saint-Cosme",
-                  "text": "Das ehemalige Wohnhaus des Dichters Pierre de Ronsard, umgeben von wunderschönen Rosengärten.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        0.65111,
-                        47.3892
-                  ]
-            },
-            {
                   "name": "Halles de Tours",
                   "text": "Der zentrale Markt der Stadt, ein Paradies für Liebhaber der Gastronomie des Loire-Tals.",
                   "category": "culinary",
@@ -7335,69 +6916,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.6809,
                         47.3919
-                  ]
-            },
-            {
-                  "name": "Grand Lac des Peupleraies",
-                  "text": "Ein See in Tours, ideal zum Entspannen und für die Aussicht.",
-                  "category": "natural",
-                  "coords": [
-                        0.733956,
-                        47.373592
-                  ]
-            },
-            {
-                  "name": "Boire du Bois de Plante",
-                  "text": "Ein ruhiger See in der Nähe von Tours für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        0.749216,
-                        47.382886
-                  ]
-            },
-            {
-                  "name": "Lac de Saint-Avertin",
-                  "text": "Ein malerischer See in Tours für einen Familienausflug ins Grüne.",
-                  "category": "natural",
-                  "coords": [
-                        0.725803,
-                        47.369951
-                  ]
-            },
-            {
-                  "name": "Lac de Chambray-lès-Tours",
-                  "text": "Ein See in Tours, der zu Freizeitaktivitäten am Wasser einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        0.720015,
-                        47.325747
-                  ]
-            },
-            {
-                  "name": "Lac des Bretonnières",
-                  "text": "Ein beliebter See in Tours für Spaziergänge und Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        0.639542,
-                        47.352596
-                  ]
-            },
-            {
-                  "name": "Lac de Gevrioux",
-                  "text": "Ein friedlicher See in Tours, um die natürliche Umgebung zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        0.612061,
-                        47.381322
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Diese Rutsche in Tours bietet Kindern schnellen Spielspaß.",
-                  "category": "family",
-                  "coords": [
-                        0.696606,
-                        47.368264
                   ]
             },
             {
@@ -7425,15 +6943,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.678488,
                         47.398422
-                  ]
-            },
-            {
-                  "name": "Espace de jeu",
-                  "text": "Ein familienfreundlicher Raum in Tours zum Spielen und Bewegen.",
-                  "category": "family",
-                  "coords": [
-                        0.681562,
-                        47.381271
                   ]
             },
             {
@@ -7682,69 +7191,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Grand Lac des Peupleraies",
-                  "text": "Egy tó Tours-ban, amely ideális a pihenéshez és a táj megcsodálásához.",
-                  "category": "natural",
-                  "coords": [
-                        0.733956,
-                        47.373592
-                  ]
-            },
-            {
-                  "name": "Boire du Bois de Plante",
-                  "text": "Egy csendes tó Tours közelében, amely kiváló a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        0.749216,
-                        47.382886
-                  ]
-            },
-            {
-                  "name": "Lac de Saint-Avertin",
-                  "text": "Egy festői tó Tours-ban, egy zöldövezeti családi kiránduláshoz.",
-                  "category": "natural",
-                  "coords": [
-                        0.725803,
-                        47.369951
-                  ]
-            },
-            {
-                  "name": "Lac de Chambray-lès-Tours",
-                  "text": "Egy tó Tours-ban, amely vízparti szabadidős tevékenységekre csábít.",
-                  "category": "natural",
-                  "coords": [
-                        0.720015,
-                        47.325747
-                  ]
-            },
-            {
-                  "name": "Lac des Bretonnières",
-                  "text": "Népszerű tó Tours-ban sétákhoz és kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        0.639542,
-                        47.352596
-                  ]
-            },
-            {
-                  "name": "Lac de Gevrioux",
-                  "text": "Egy békés tó Tours-ban a természetes környezet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        0.612061,
-                        47.381322
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Ez a tours-i csúszda gyors és vidám játékot kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        0.696606,
-                        47.368264
-                  ]
-            },
-            {
                   "name": "Tourniquet",
                   "text": "Egy tours-i játéklehetőség az aktív szabadtéri szórakozáshoz.",
                   "category": "family",
@@ -7769,15 +7215,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.678488,
                         47.398422
-                  ]
-            },
-            {
-                  "name": "Espace de jeu",
-                  "text": "Családbarát tér Tours-ban a játékhoz és mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        0.681562,
-                        47.381271
                   ]
             },
             {
@@ -8026,69 +7463,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Grand Lac des Peupleraies",
-                  "text": "Un lac în Tours, ideal pentru relaxare și admirarea peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        0.733956,
-                        47.373592
-                  ]
-            },
-            {
-                  "name": "Boire du Bois de Plante",
-                  "text": "Un lac liniștit lângă Tours, excelent pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        0.749216,
-                        47.382886
-                  ]
-            },
-            {
-                  "name": "Lac de Saint-Avertin",
-                  "text": "Un lac pitoresc în Tours pentru o ieșire în familie în natură.",
-                  "category": "natural",
-                  "coords": [
-                        0.725803,
-                        47.369951
-                  ]
-            },
-            {
-                  "name": "Lac de Chambray-lès-Tours",
-                  "text": "Un lac în Tours care invită la activități de agrement pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        0.720015,
-                        47.325747
-                  ]
-            },
-            {
-                  "name": "Lac des Bretonnières",
-                  "text": "Un lac popular în Tours pentru plimbări și recreere.",
-                  "category": "natural",
-                  "coords": [
-                        0.639542,
-                        47.352596
-                  ]
-            },
-            {
-                  "name": "Lac de Gevrioux",
-                  "text": "Un lac liniștit în Tours pentru a te bucura de cadrul natural.",
-                  "category": "natural",
-                  "coords": [
-                        0.612061,
-                        47.381322
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Acest tobogan din Tours oferă copiilor momente rapide de distracție.",
-                  "category": "family",
-                  "coords": [
-                        0.696606,
-                        47.368264
-                  ]
-            },
-            {
                   "name": "Tourniquet",
                   "text": "Un element de joacă în Tours pentru distracție activă în aer liber.",
                   "category": "family",
@@ -8113,15 +7487,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.678488,
                         47.398422
-                  ]
-            },
-            {
-                  "name": "Espace de jeu",
-                  "text": "Un spațiu prietenos pentru familii în Tours pentru joacă și mișcare.",
-                  "category": "family",
-                  "coords": [
-                        0.681562,
-                        47.381271
                   ]
             },
             {
@@ -8370,69 +7735,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Grand Lac des Peupleraies",
-                  "text": "A lake in Tours, ideal for relaxation and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        0.733956,
-                        47.373592
-                  ]
-            },
-            {
-                  "name": "Boire du Bois de Plante",
-                  "text": "A quiet lake near Tours, perfect for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        0.749216,
-                        47.382886
-                  ]
-            },
-            {
-                  "name": "Lac de Saint-Avertin",
-                  "text": "A picturesque lake in Tours for a family outing in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        0.725803,
-                        47.369951
-                  ]
-            },
-            {
-                  "name": "Lac de Chambray-lès-Tours",
-                  "text": "A lake in Tours that invites leisure activities by the water.",
-                  "category": "natural",
-                  "coords": [
-                        0.720015,
-                        47.325747
-                  ]
-            },
-            {
-                  "name": "Lac des Bretonnières",
-                  "text": "A popular lake in Tours for walks and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        0.639542,
-                        47.352596
-                  ]
-            },
-            {
-                  "name": "Lac de Gevrioux",
-                  "text": "A peaceful lake in Tours to enjoy the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        0.612061,
-                        47.381322
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "This slide in Tours offers quick fun for children.",
-                  "category": "family",
-                  "coords": [
-                        0.696606,
-                        47.368264
-                  ]
-            },
-            {
                   "name": "Tourniquet",
                   "text": "A piece of play equipment in Tours for active outdoor fun.",
                   "category": "family",
@@ -8457,15 +7759,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.678488,
                         47.398422
-                  ]
-            },
-            {
-                  "name": "Espace de jeu",
-                  "text": "A family-friendly space in Tours for playing and movement.",
-                  "category": "family",
-                  "coords": [
-                        0.681562,
-                        47.381271
                   ]
             },
             {
@@ -10337,15 +9630,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jardin d'Orsay",
-                  "text": "Ein traditionsreicher Spielplatz in Limoges, eingebettet in eine Parkanlage.",
-                  "category": "family",
-                  "coords": [
-                        1.252245,
-                        45.830628
-                  ]
-            },
-            {
                   "name": "Parc de l'Evêché",
                   "text": "Ein wunderschön gelegener Spielbereich in Limoges, ideal für Familienausflüge.",
                   "category": "family",
@@ -10364,24 +9648,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de Jeux Les Pierrières",
-                  "text": "Ein moderner Spielplatz in Limoges mit sicheren Spielgeräten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        1.230123,
-                        45.811255
-                  ]
-            },
-            {
-                  "name": "Bassin Ludique",
-                  "text": "Dieses Freizeitbecken in Limoges bietet lustige Wasserattraktionen und Bereiche für Familien zum Genießen.",
-                  "category": "family",
-                  "coords": [
-                        1.217362,
-                        45.808177
-                  ]
-            },
-            {
                   "name": "Espace Noriac",
                   "text": "Ein vielseitiger Kulturraum und Theater in Limoges, der sich in einem historischen Gebäude befindet.",
                   "category": "cultural",
@@ -10397,15 +9663,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.249645,
                         45.829448
-                  ]
-            },
-            {
-                  "name": "Chateau du Mas de l'Age",
-                  "text": "Ein historisches Schloss bei Limoges, das von einer malerischen Landschaft umgeben ist.",
-                  "category": "castle",
-                  "coords": [
-                        1.246256,
-                        45.858495
                   ]
             },
             {
@@ -10598,15 +9855,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jardin d'Orsay",
-                  "text": "Egy nagy múltú játszótér Limoges-ban, parkosított környezetben.",
-                  "category": "family",
-                  "coords": [
-                        1.252245,
-                        45.830628
-                  ]
-            },
-            {
                   "name": "Parc de l'Evêché",
                   "text": "Egy gyönyörű fekvésű játszóterület Limoges-ban, ideális családi kirándulásokhoz.",
                   "category": "family",
@@ -10625,24 +9873,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de Jeux Les Pierrières",
-                  "text": "Egy modern játszótér Limoges-ban biztonságos játékeszközökkel.",
-                  "category": "family",
-                  "coords": [
-                        1.230123,
-                        45.811255
-                  ]
-            },
-            {
-                  "name": "Bassin Ludique",
-                  "text": "Ez a limoges-i élménymedence szórakoztató vízi elemeket és kikapcsolódási lehetőséget kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        1.217362,
-                        45.808177
-                  ]
-            },
-            {
                   "name": "Espace Noriac",
                   "text": "Sokoldalú kulturális tér és színház Limoges-ban, amely egy történelmi épületben található.",
                   "category": "cultural",
@@ -10658,15 +9888,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.249645,
                         45.829448
-                  ]
-            },
-            {
-                  "name": "Chateau du Mas de l'Age",
-                  "text": "Történelmi kastély Limoges közelében, amelyet festői táj vesz körül.",
-                  "category": "castle",
-                  "coords": [
-                        1.246256,
-                        45.858495
                   ]
             },
             {
@@ -10859,15 +10080,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jardin d'Orsay",
-                  "text": "Un loc de joacă cu tradiție în Limoges, situat într-un parc.",
-                  "category": "family",
-                  "coords": [
-                        1.252245,
-                        45.830628
-                  ]
-            },
-            {
                   "name": "Parc de l'Evêché",
                   "text": "O zonă de joacă frumos situată în Limoges, ideală pentru excursii în familie.",
                   "category": "family",
@@ -10886,24 +10098,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de Jeux Les Pierrières",
-                  "text": "Un loc de joacă modern în Limoges cu echipamente de joacă sigure.",
-                  "category": "family",
-                  "coords": [
-                        1.230123,
-                        45.811255
-                  ]
-            },
-            {
-                  "name": "Bassin Ludique",
-                  "text": "Această piscină de agrement din Limoges oferă elemente acvatice distractive și zone de care familiile să se bucure.",
-                  "category": "family",
-                  "coords": [
-                        1.217362,
-                        45.808177
-                  ]
-            },
-            {
                   "name": "Espace Noriac",
                   "text": "Un spațiu cultural și teatru versatil din Limoges, situat într-o clădire istorică.",
                   "category": "cultural",
@@ -10919,15 +10113,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.249645,
                         45.829448
-                  ]
-            },
-            {
-                  "name": "Chateau du Mas de l'Age",
-                  "text": "Un castel istoric de lângă Limoges, înconjurat de un peisaj pitoresc.",
-                  "category": "castle",
-                  "coords": [
-                        1.246256,
-                        45.858495
                   ]
             },
             {
@@ -11120,15 +10305,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jardin d'Orsay",
-                  "text": "A traditional playground in Limoges, set within a park area.",
-                  "category": "family",
-                  "coords": [
-                        1.252245,
-                        45.830628
-                  ]
-            },
-            {
                   "name": "Parc de l'Evêché",
                   "text": "A beautifully located play area in Limoges, ideal for family outings.",
                   "category": "family",
@@ -11147,24 +10323,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de Jeux Les Pierrières",
-                  "text": "A modern playground in Limoges with safe play equipment.",
-                  "category": "family",
-                  "coords": [
-                        1.230123,
-                        45.811255
-                  ]
-            },
-            {
-                  "name": "Bassin Ludique",
-                  "text": "This leisure pool in Limoges offers fun water features and areas for families to enjoy.",
-                  "category": "family",
-                  "coords": [
-                        1.217362,
-                        45.808177
-                  ]
-            },
-            {
                   "name": "Espace Noriac",
                   "text": "A versatile cultural space and theatre in Limoges, located in a historical building.",
                   "category": "cultural",
@@ -11180,15 +10338,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.249645,
                         45.829448
-                  ]
-            },
-            {
-                  "name": "Chateau du Mas de l'Age",
-                  "text": "A historical castle near Limoges, surrounded by a picturesque landscape.",
-                  "category": "castle",
-                  "coords": [
-                        1.246256,
-                        45.858495
                   ]
             },
             {
@@ -11473,24 +10622,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac aux Cygnes",
-                  "text": "Ein idyllischer See in Metz, ideal für entspannende Stunden.",
-                  "category": "natural",
-                  "coords": [
-                        6.16725,
-                        49.115164
-                  ]
-            },
-            {
-                  "name": "Lac Ariane",
-                  "text": "Ein See in Metz, der eine ruhige Atmosphäre für Besucher bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.235735,
-                        49.095547
-                  ]
-            },
-            {
                   "name": "Jeux de l'Ecrevisse",
                   "text": "Ein kreativer Spielplatz in Metz für abwechslungsreiches Spielen.",
                   "category": "family",
@@ -11506,15 +10637,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.198172,
                         49.134938
-                  ]
-            },
-            {
-                  "name": "Volière du jardin botanique",
-                  "text": "Die Volière du jardin botanique in Metz ist ein Zoo, der Familien zur Vogelbeobachtung einlädt.",
-                  "category": "family",
-                  "coords": [
-                        6.16093,
-                        49.104162
                   ]
             },
             {
@@ -11716,24 +10838,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac aux Cygnes",
-                  "text": "Egy idilli tó Metzben, amely ideális a pihentető órákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        6.16725,
-                        49.115164
-                  ]
-            },
-            {
-                  "name": "Lac Ariane",
-                  "text": "Egy tó Metzben, amely nyugodt légkört biztosít a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        6.235735,
-                        49.095547
-                  ]
-            },
-            {
                   "name": "Jeux de l'Ecrevisse",
                   "text": "Egy kreatív játszótér Metzben a változatos játékhoz.",
                   "category": "family",
@@ -11749,15 +10853,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.198172,
                         49.134938
-                  ]
-            },
-            {
-                  "name": "Volière du jardin botanique",
-                  "text": "A metzi Volière du jardin botanique egy állatkert, amely madármegfigyelésre hívja a családokat.",
-                  "category": "family",
-                  "coords": [
-                        6.16093,
-                        49.104162
                   ]
             },
             {
@@ -11959,24 +11054,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac aux Cygnes",
-                  "text": "Un lac idilic în Metz, ideal pentru ore de relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        6.16725,
-                        49.115164
-                  ]
-            },
-            {
-                  "name": "Lac Ariane",
-                  "text": "Un lac în Metz care oferă o atmosferă liniștită vizitatorilor.",
-                  "category": "natural",
-                  "coords": [
-                        6.235735,
-                        49.095547
-                  ]
-            },
-            {
                   "name": "Jeux de l'Ecrevisse",
                   "text": "Un loc de joacă creativ în Metz pentru o joacă diversificată.",
                   "category": "family",
@@ -11992,15 +11069,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.198172,
                         49.134938
-                  ]
-            },
-            {
-                  "name": "Volière du jardin botanique",
-                  "text": "Volière du jardin botanique din Metz este o grădină zoologică care invită familiile la observarea păsărilor.",
-                  "category": "family",
-                  "coords": [
-                        6.16093,
-                        49.104162
                   ]
             },
             {
@@ -12202,24 +11270,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac aux Cygnes",
-                  "text": "An idyllic lake in Metz, ideal for relaxing hours.",
-                  "category": "natural",
-                  "coords": [
-                        6.16725,
-                        49.115164
-                  ]
-            },
-            {
-                  "name": "Lac Ariane",
-                  "text": "A lake in Metz offering a calm atmosphere for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        6.235735,
-                        49.095547
-                  ]
-            },
-            {
                   "name": "Jeux de l'Ecrevisse",
                   "text": "A creative playground in Metz for varied play.",
                   "category": "family",
@@ -12235,15 +11285,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.198172,
                         49.134938
-                  ]
-            },
-            {
-                  "name": "Volière du jardin botanique",
-                  "text": "The Volière du jardin botanique in Metz is a zoo that invites families for bird watching.",
-                  "category": "family",
-                  "coords": [
-                        6.16093,
-                        49.104162
                   ]
             },
             {
@@ -12537,66 +11578,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Retenue de Villeneuve-de-la-Raho",
-                  "text": "Ein malerischer See bei Perpignan, der zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        2.9029,
-                        42.63069
-                  ]
-            },
-            {
-                  "name": "Petit Lac",
-                  "text": "Ein kleiner, ruhiger See in Perpignan für erholsame Momente am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        2.905016,
-                        42.638744
-                  ]
-            },
-            {
-                  "name": "Retenue écologique",
-                  "text": "Ein naturnahes Gewässer in Perpignan, ideal für Beobachtungen und Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        2.89163,
-                        42.628127
-                  ]
-            },
-            {
-                  "name": "Jump Story",
-                  "text": "Ein spannender Ort in Perpignan für aktiven Spielspaß mit der ganzen Familie.",
-                  "category": "family",
-                  "coords": [
-                        2.850111,
-                        42.692002
-                  ]
-            },
-            {
                   "name": "Mini-golf du Square Bir-Hakeim",
                   "text": "Ein schöner Minigolfplatz in Perpignan für ein sportliches Familienerlebnis.",
                   "category": "family",
                   "coords": [
                         2.902703,
                         42.700904
-                  ]
-            },
-            {
-                  "name": "Move It Game",
-                  "text": "Diese Spielhalle in Perpignan bietet Unterhaltung und Abwechslung für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        2.917802,
-                        42.669709
-                  ]
-            },
-            {
-                  "name": "DeltaGame Perpignan",
-                  "text": "Ein moderner Entertainment-Bereich in Perpignan für spielfreudige Familien.",
-                  "category": "family",
-                  "coords": [
-                        2.88125,
-                        42.680856
                   ]
             },
             {
@@ -12633,33 +11620,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.943525,
                         42.690518
-                  ]
-            },
-            {
-                  "name": "Pataugeoire",
-                  "text": "Dieses Planschbecken in Perpignan ist ein idealer Ort für kleine Kinder, um sicher im Wasser zu spielen.",
-                  "category": "family",
-                  "coords": [
-                        2.904126,
-                        42.677712
-                  ]
-            },
-            {
-                  "name": "Le Complexe 66",
-                  "text": "Dieser Freizeitpark in Perpignan bietet eine Vielzahl an Aktivitäten und Unterhaltung für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        2.918927,
-                        42.668935
-                  ]
-            },
-            {
-                  "name": "Calicéo",
-                  "text": "Dieses Thermalbad in Perpignan bietet Besuchern eine entspannende Auszeit in einer wohltuenden Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        2.926881,
-                        42.659
                   ]
             }
       ],
@@ -12825,66 +11785,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Retenue de Villeneuve-de-la-Raho",
-                  "text": "Gleccser tó Perpignan közelében, amely természetközeli pihenésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        2.9029,
-                        42.63069
-                  ]
-            },
-            {
-                  "name": "Petit Lac",
-                  "text": "Kicsi, csendes tó Perpignanban a vízparti pihentető pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        2.905016,
-                        42.638744
-                  ]
-            },
-            {
-                  "name": "Retenue écologique",
-                  "text": "Természetközeli vízfelület Perpignanban, amely ideális megfigyeléshez és sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        2.89163,
-                        42.628127
-                  ]
-            },
-            {
-                  "name": "Jump Story",
-                  "text": "Izgalmas hely Perpignanban az aktív játékhoz az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        2.850111,
-                        42.692002
-                  ]
-            },
-            {
                   "name": "Mini-golf du Square Bir-Hakeim",
                   "text": "Szép minigolfpálya Perpignanban egy sportos családi élményhez.",
                   "category": "family",
                   "coords": [
                         2.902703,
                         42.700904
-                  ]
-            },
-            {
-                  "name": "Move It Game",
-                  "text": "Ez a perpignani játékterem szórakozást és kikapcsolódást nyújt a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        2.917802,
-                        42.669709
-                  ]
-            },
-            {
-                  "name": "DeltaGame Perpignan",
-                  "text": "Modern szórakoztató központ Perpignanban a játékos kedvű családoknak.",
-                  "category": "family",
-                  "coords": [
-                        2.88125,
-                        42.680856
                   ]
             },
             {
@@ -12921,33 +11827,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.943525,
                         42.690518
-                  ]
-            },
-            {
-                  "name": "Pataugeoire",
-                  "text": "Ez a perpignani pancsolómedence ideális hely a kisgyermekek számára a biztonságos vízi játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        2.904126,
-                        42.677712
-                  ]
-            },
-            {
-                  "name": "Le Complexe 66",
-                  "text": "Ez a perpignani élménypark különféle tevékenységeket és szórakozást kínál minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        2.918927,
-                        42.668935
-                  ]
-            },
-            {
-                  "name": "Calicéo",
-                  "text": "Ez a perpignani termálfürdő pihentető kikapcsolódást kínál a látogatóknak nyugodt környezetben.",
-                  "category": "family",
-                  "coords": [
-                        2.926881,
-                        42.659
                   ]
             }
       ],
@@ -13113,66 +11992,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Retenue de Villeneuve-de-la-Raho",
-                  "text": "Un lac pitoresc lângă Perpignan, care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        2.9029,
-                        42.63069
-                  ]
-            },
-            {
-                  "name": "Petit Lac",
-                  "text": "Un lac mic și liniștit în Perpignan pentru momente de relaxare lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        2.905016,
-                        42.638744
-                  ]
-            },
-            {
-                  "name": "Retenue écologique",
-                  "text": "O zonă cu apă aproape de natură în Perpignan, ideală pentru observații și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        2.89163,
-                        42.628127
-                  ]
-            },
-            {
-                  "name": "Jump Story",
-                  "text": "Un loc captivant în Perpignan pentru joacă activă cu întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        2.850111,
-                        42.692002
-                  ]
-            },
-            {
                   "name": "Mini-golf du Square Bir-Hakeim",
                   "text": "Un teren de minigolf frumos în Perpignan pentru o experiență sportivă în familie.",
                   "category": "family",
                   "coords": [
                         2.902703,
                         42.700904
-                  ]
-            },
-            {
-                  "name": "Move It Game",
-                  "text": "Această sală de jocuri din Perpignan oferü divertisment și varietate pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        2.917802,
-                        42.669709
-                  ]
-            },
-            {
-                  "name": "DeltaGame Perpignan",
-                  "text": "O zonă modernă de divertisment în Perpignan pentru familiile iubitoare de jocuri.",
-                  "category": "family",
-                  "coords": [
-                        2.88125,
-                        42.680856
                   ]
             },
             {
@@ -13209,33 +12034,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.943525,
                         42.690518
-                  ]
-            },
-            {
-                  "name": "Pataugeoire",
-                  "text": "Această piscină pentru copii din Perpignan este un loc ideal pentru copiii mici pentru a se juca în siguranță în apă.",
-                  "category": "family",
-                  "coords": [
-                        2.904126,
-                        42.677712
-                  ]
-            },
-            {
-                  "name": "Le Complexe 66",
-                  "text": "Acest parc tematic din Perpignan oferă o varietate de activități și divertisment pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        2.918927,
-                        42.668935
-                  ]
-            },
-            {
-                  "name": "Calicéo",
-                  "text": "Această baie termală din Perpignan oferă vizitatorilor o pauză relaxantă într-un mediu liniștitor.",
-                  "category": "family",
-                  "coords": [
-                        2.926881,
-                        42.659
                   ]
             }
       ],
@@ -13401,66 +12199,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Retenue de Villeneuve-de-la-Raho",
-                  "text": "A picturesque lake near Perpignan, perfect for spending time in nature.",
-                  "category": "natural",
-                  "coords": [
-                        2.9029,
-                        42.63069
-                  ]
-            },
-            {
-                  "name": "Petit Lac",
-                  "text": "A small, quiet lake in Perpignan for relaxing moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        2.905016,
-                        42.638744
-                  ]
-            },
-            {
-                  "name": "Retenue écologique",
-                  "text": "A nature-oriented body of water in Perpignan, ideal for observation and walks.",
-                  "category": "natural",
-                  "coords": [
-                        2.89163,
-                        42.628127
-                  ]
-            },
-            {
-                  "name": "Jump Story",
-                  "text": "An exciting place in Perpignan for active play fun with the whole family.",
-                  "category": "family",
-                  "coords": [
-                        2.850111,
-                        42.692002
-                  ]
-            },
-            {
                   "name": "Mini-golf du Square Bir-Hakeim",
                   "text": "A nice miniature golf course in Perpignan for a sporting family experience.",
                   "category": "family",
                   "coords": [
                         2.902703,
                         42.700904
-                  ]
-            },
-            {
-                  "name": "Move It Game",
-                  "text": "This amusement arcade in Perpignan offers entertainment and variety for children.",
-                  "category": "family",
-                  "coords": [
-                        2.917802,
-                        42.669709
-                  ]
-            },
-            {
-                  "name": "DeltaGame Perpignan",
-                  "text": "A modern entertainment area in Perpignan for fun-loving families.",
-                  "category": "family",
-                  "coords": [
-                        2.88125,
-                        42.680856
                   ]
             },
             {
@@ -13497,33 +12241,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.943525,
                         42.690518
-                  ]
-            },
-            {
-                  "name": "Pataugeoire",
-                  "text": "This paddling pool in Perpignan is an ideal spot for young children to play safely in the water.",
-                  "category": "family",
-                  "coords": [
-                        2.904126,
-                        42.677712
-                  ]
-            },
-            {
-                  "name": "Le Complexe 66",
-                  "text": "This theme park in Perpignan offers a variety of activities and entertainment for all ages.",
-                  "category": "family",
-                  "coords": [
-                        2.918927,
-                        42.668935
-                  ]
-            },
-            {
-                  "name": "Calicéo",
-                  "text": "This thermal bath in Perpignan offers visitors a relaxing break in a soothing environment.",
-                  "category": "family",
-                  "coords": [
-                        2.926881,
-                        42.659
                   ]
             }
       ],
@@ -13760,15 +12477,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants Jean Jaurès",
-                  "text": "Ein gut ausgestatteter Spielbereich in Besancon für Kinder jeden Alters.",
-                  "category": "family",
-                  "coords": [
-                        5.999566,
-                        47.233247
-                  ]
-            },
-            {
                   "name": "Aquarium Georges BRESSE",
                   "text": "Das Aquarium Georges BRESSE in Besançon zeigt einheimische und exotische Wasserlebewesen für einen interessanten Familienbesuch.",
                   "category": "family",
@@ -13820,15 +12528,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.033958,
                         47.235881
-                  ]
-            },
-            {
-                  "name": "Musee Lucien Roy",
-                  "text": "Ein kleines Museum in der Nähe von Besançon, das sich dem Erbe und den Werken von Lucien Roy widmet.",
-                  "category": "museum",
-                  "coords": [
-                        6.004835,
-                        47.207036
                   ]
             },
             {
@@ -13991,15 +12690,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants Jean Jaurès",
-                  "text": "Egy jól felszerelt játszóterület Besanconban minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        5.999566,
-                        47.233247
-                  ]
-            },
-            {
                   "name": "Aquarium Georges BRESSE",
                   "text": "A besançoni Aquarium Georges BRESSE helyi és egzotikus vízi élővilágot mutat be egy érdekes családi látogatáshoz.",
                   "category": "family",
@@ -14051,15 +12741,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.033958,
                         47.235881
-                  ]
-            },
-            {
-                  "name": "Musee Lucien Roy",
-                  "text": "Kis múzeum Besançon közelében, amely Lucien Roy örökségének és műveinek van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        6.004835,
-                        47.207036
                   ]
             },
             {
@@ -14222,15 +12903,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants Jean Jaurès",
-                  "text": "O zonă de joacă bine echipată în Besancon pentru copii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        5.999566,
-                        47.233247
-                  ]
-            },
-            {
                   "name": "Aquarium Georges BRESSE",
                   "text": "Aquarium Georges BRESSE din Besançon prezintă viața acvatică locală și exotică pentru o vizită interesantă în familie.",
                   "category": "family",
@@ -14282,15 +12954,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.033958,
                         47.235881
-                  ]
-            },
-            {
-                  "name": "Musee Lucien Roy",
-                  "text": "Un mic muzeu de lângă Besançon, dedicat moștenirii și lucrărilor lui Lucien Roy.",
-                  "category": "museum",
-                  "coords": [
-                        6.004835,
-                        47.207036
                   ]
             },
             {
@@ -14453,15 +13116,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants Jean Jaurès",
-                  "text": "A well-equipped play area in Besancon for children of all ages.",
-                  "category": "family",
-                  "coords": [
-                        5.999566,
-                        47.233247
-                  ]
-            },
-            {
                   "name": "Aquarium Georges BRESSE",
                   "text": "Aquarium Georges BRESSE in Besancon showcases local and exotic aquatic life for an interesting family visit.",
                   "category": "family",
@@ -14513,15 +13167,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.033958,
                         47.235881
-                  ]
-            },
-            {
-                  "name": "Musee Lucien Roy",
-                  "text": "A small museum near Besançon dedicated to the heritage and works of Lucien Roy.",
-                  "category": "museum",
-                  "coords": [
-                        6.004835,
-                        47.207036
                   ]
             },
             {
@@ -14759,75 +13404,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Saint-Pryvé-Saint-Mesmin - Végé'tri",
-                  "text": "Ein See in der Nähe von Orléans für Natur- und Landschaftsliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        1.862444,
-                        47.88394
-                  ]
-            },
-            {
-                  "name": "Ormes - Hombert SA",
-                  "text": "Ein ruhig gelegener See in Orléans, ideal zum Abschalten.",
-                  "category": "natural",
-                  "coords": [
-                        1.834361,
-                        47.941912
-                  ]
-            },
-            {
-                  "name": "Saran - EVA",
-                  "text": "Ein See in Orléans, der zur Erholung im Freien einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        1.896775,
-                        47.944052
-                  ]
-            },
-            {
-                  "name": "Lac de Bel-Air",
-                  "text": "Ein malerischer See in Orléans für entspannte Momente am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        1.874255,
-                        47.875058
-                  ]
-            },
-            {
-                  "name": "marelle",
-                  "text": "Ein einfacher Spielbereich in Orléans für klassische Kinderspiele.",
-                  "category": "family",
-                  "coords": [
-                        1.91606,
-                        47.880067
-                  ]
-            },
-            {
                   "name": "JUMP",
                   "text": "Ein aktives Freizeitzentrum in Orléans für Spaß und Unterhaltung.",
                   "category": "family",
                   "coords": [
                         1.902102,
                         47.919959
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants",
-                  "text": "Ein Ort in Orléans, der speziell auf die Bedürfnisse spielender Kinder zugeschnitten ist.",
-                  "category": "family",
-                  "coords": [
-                        1.941454,
-                        47.905603
-                  ]
-            },
-            {
-                  "name": "parc du pont bordeau",
-                  "text": "Ein grüner Spielplatz in Orléans für die tägliche Dosis Frischluft.",
-                  "category": "family",
-                  "coords": [
-                        1.95111,
-                        47.907722
                   ]
             },
             {
@@ -14849,48 +13431,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Kidy Land",
-                  "text": "Kidy Land ist ein Freizeitpark in Orleans, der sich perfekt für spielende Kinder und deren Familien eignet.",
-                  "category": "family",
-                  "coords": [
-                        1.916885,
-                        47.945271
-                  ]
-            },
-            {
-                  "name": "Léo Parc aventure - Aqua-parc",
-                  "text": "Der Léo Parc aventure - Aqua-parc ist ein Wasserpark in Orleans. Ein tolles Ziel für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        1.946882,
-                        47.89956
-                  ]
-            },
-            {
-                  "name": "Bassin Victor Fouillade",
-                  "text": "Das Schwimmbad Bassin Victor Fouillade befindet sich in Orleans.",
-                  "category": "family",
-                  "coords": [
-                        1.895204,
-                        47.921289
-                  ]
-            },
-            {
                   "name": "Novotel",
                   "text": "Das Novotel in Orleans verfügt über ein Schwimmbad.",
                   "category": "family",
                   "coords": [
                         1.905447,
                         47.90594
-                  ]
-            },
-            {
-                  "name": "Chapit'O",
-                  "text": "Chapit'O ist ein Freizeitpark in Orleans. Ein fantastischer Ort für Familienunterhaltung.",
-                  "category": "family",
-                  "coords": [
-                        1.896086,
-                        47.93934
                   ]
             },
             {
@@ -15081,75 +13627,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Saint-Pryvé-Saint-Mesmin - Végé'tri",
-                  "text": "Egy Orléans közeli tó a természet és a táj kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        1.862444,
-                        47.88394
-                  ]
-            },
-            {
-                  "name": "Ormes - Hombert SA",
-                  "text": "Egy csendes fekvésű tó Orléans-ban, amely ideális a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        1.834361,
-                        47.941912
-                  ]
-            },
-            {
-                  "name": "Saran - EVA",
-                  "text": "Egy tó Orléans-ban, amely szabadtéri kikapcsolódásra hív.",
-                  "category": "natural",
-                  "coords": [
-                        1.896775,
-                        47.944052
-                  ]
-            },
-            {
-                  "name": "Lac de Bel-Air",
-                  "text": "Festői tó Orléans-ban a vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        1.874255,
-                        47.875058
-                  ]
-            },
-            {
-                  "name": "marelle",
-                  "text": "Egy egyszerű játszóhely Orléans-ban a klasszikus gyerekjátékokhoz.",
-                  "category": "family",
-                  "coords": [
-                        1.91606,
-                        47.880067
-                  ]
-            },
-            {
                   "name": "JUMP",
                   "text": "Aktív szórakoztató központ Orléans-ban a vidámságért.",
                   "category": "family",
                   "coords": [
                         1.902102,
                         47.919959
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants",
-                  "text": "Egy orléans-i helyszín, amelyet kifejezetten a játszó gyerekek igényeire szabtak.",
-                  "category": "family",
-                  "coords": [
-                        1.941454,
-                        47.905603
-                  ]
-            },
-            {
-                  "name": "parc du pont bordeau",
-                  "text": "Zöld játszótér Orléans-ban a napi friss levegőhöz.",
-                  "category": "family",
-                  "coords": [
-                        1.95111,
-                        47.907722
                   ]
             },
             {
@@ -15171,48 +13654,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Kidy Land",
-                  "text": "A Kidy Land egy vidámpark Orleans-ban, amely tökéletes játszadozó gyerekek és családjaik számára.",
-                  "category": "family",
-                  "coords": [
-                        1.916885,
-                        47.945271
-                  ]
-            },
-            {
-                  "name": "Léo Parc aventure - Aqua-parc",
-                  "text": "A Léo Parc aventure - Aqua-parc egy vízipark Orleans-ban. Nagyszerű célpont az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        1.946882,
-                        47.89956
-                  ]
-            },
-            {
-                  "name": "Bassin Victor Fouillade",
-                  "text": "A Bassin Victor Fouillade uszoda Orleans-ban található.",
-                  "category": "family",
-                  "coords": [
-                        1.895204,
-                        47.921289
-                  ]
-            },
-            {
                   "name": "Novotel",
                   "text": "Az orleans-i Novotel rendelkezik úszómedencével.",
                   "category": "family",
                   "coords": [
                         1.905447,
                         47.90594
-                  ]
-            },
-            {
-                  "name": "Chapit'O",
-                  "text": "A Chapit'O egy vidámpark Orleans-ban. Fantasztikus hely családi szórakozásra.",
-                  "category": "family",
-                  "coords": [
-                        1.896086,
-                        47.93934
                   ]
             },
             {
@@ -15403,75 +13850,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Saint-Pryvé-Saint-Mesmin - Végé'tri",
-                  "text": "Un lac lângă Orléans pentru iubitorii de natură și peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        1.862444,
-                        47.88394
-                  ]
-            },
-            {
-                  "name": "Ormes - Hombert SA",
-                  "text": "Un lac liniștit în Orléans, ideal pentru deconectare.",
-                  "category": "natural",
-                  "coords": [
-                        1.834361,
-                        47.941912
-                  ]
-            },
-            {
-                  "name": "Saran - EVA",
-                  "text": "Un lac în Orléans care invită la recreere în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        1.896775,
-                        47.944052
-                  ]
-            },
-            {
-                  "name": "Lac de Bel-Air",
-                  "text": "Un lac pitoresc în Orléans pentru momente de relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        1.874255,
-                        47.875058
-                  ]
-            },
-            {
-                  "name": "marelle",
-                  "text": "O zonă simplă de joacă în Orléans pentru jocuri clasice de copii.",
-                  "category": "family",
-                  "coords": [
-                        1.91606,
-                        47.880067
-                  ]
-            },
-            {
                   "name": "JUMP",
                   "text": "Un centru de divertisment activ în Orléans pentru distracție și amuzament.",
                   "category": "family",
                   "coords": [
                         1.902102,
                         47.919959
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants",
-                  "text": "Un loc în Orléans special creat pentru nevoile de joacă ale copiilor.",
-                  "category": "family",
-                  "coords": [
-                        1.941454,
-                        47.905603
-                  ]
-            },
-            {
-                  "name": "parc du pont bordeau",
-                  "text": "Un loc de joacă verde în Orléans pentru doza zilnică de aer curat.",
-                  "category": "family",
-                  "coords": [
-                        1.95111,
-                        47.907722
                   ]
             },
             {
@@ -15493,48 +13877,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Kidy Land",
-                  "text": "Kidy Land este un parc tematic în Orleans, perfect pentru copiii care se joacă și familiile lor.",
-                  "category": "family",
-                  "coords": [
-                        1.916885,
-                        47.945271
-                  ]
-            },
-            {
-                  "name": "Léo Parc aventure - Aqua-parc",
-                  "text": "Léo Parc aventure - Aqua-parc este un parc acvatic în Orleans. O destinație excelentă pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        1.946882,
-                        47.89956
-                  ]
-            },
-            {
-                  "name": "Bassin Victor Fouillade",
-                  "text": "Piscina Bassin Victor Fouillade se află în Orleans.",
-                  "category": "family",
-                  "coords": [
-                        1.895204,
-                        47.921289
-                  ]
-            },
-            {
                   "name": "Novotel",
                   "text": "Novotel din Orleans are o piscină.",
                   "category": "family",
                   "coords": [
                         1.905447,
                         47.90594
-                  ]
-            },
-            {
-                  "name": "Chapit'O",
-                  "text": "Chapit'O este un parc tematic în Orleans. Un loc fantastic pentru divertismentul în familie.",
-                  "category": "family",
-                  "coords": [
-                        1.896086,
-                        47.93934
                   ]
             },
             {
@@ -15725,75 +14073,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Saint-Pryvé-Saint-Mesmin - Végé'tri",
-                  "text": "A lake near Orléans for nature and landscape enthusiasts.",
-                  "category": "natural",
-                  "coords": [
-                        1.862444,
-                        47.88394
-                  ]
-            },
-            {
-                  "name": "Ormes - Hombert SA",
-                  "text": "A quietly located lake in Orléans, ideal for unwinding.",
-                  "category": "natural",
-                  "coords": [
-                        1.834361,
-                        47.941912
-                  ]
-            },
-            {
-                  "name": "Saran - EVA",
-                  "text": "A lake in Orléans that invites outdoor recreation.",
-                  "category": "natural",
-                  "coords": [
-                        1.896775,
-                        47.944052
-                  ]
-            },
-            {
-                  "name": "Lac de Bel-Air",
-                  "text": "A picturesque lake in Orléans for relaxed moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        1.874255,
-                        47.875058
-                  ]
-            },
-            {
-                  "name": "marelle",
-                  "text": "A simple play area in Orléans for classic children's games.",
-                  "category": "family",
-                  "coords": [
-                        1.91606,
-                        47.880067
-                  ]
-            },
-            {
                   "name": "JUMP",
                   "text": "An active amusement center in Orléans for fun and entertainment.",
                   "category": "family",
                   "coords": [
                         1.902102,
                         47.919959
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants",
-                  "text": "A spot in Orléans specifically tailored for children's play.",
-                  "category": "family",
-                  "coords": [
-                        1.941454,
-                        47.905603
-                  ]
-            },
-            {
-                  "name": "parc du pont bordeau",
-                  "text": "A green playground in Orléans for a daily dose of fresh air.",
-                  "category": "family",
-                  "coords": [
-                        1.95111,
-                        47.907722
                   ]
             },
             {
@@ -15815,48 +14100,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Kidy Land",
-                  "text": "Kidy Land is a theme park in Orleans, perfect for playing children and their families.",
-                  "category": "family",
-                  "coords": [
-                        1.916885,
-                        47.945271
-                  ]
-            },
-            {
-                  "name": "Léo Parc aventure - Aqua-parc",
-                  "text": "Léo Parc aventure - Aqua-parc is a water park in Orleans. A great destination for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        1.946882,
-                        47.89956
-                  ]
-            },
-            {
-                  "name": "Bassin Victor Fouillade",
-                  "text": "The Bassin Victor Fouillade swimming pool is located in Orleans.",
-                  "category": "family",
-                  "coords": [
-                        1.895204,
-                        47.921289
-                  ]
-            },
-            {
                   "name": "Novotel",
                   "text": "The Novotel in Orleans features a swimming pool.",
                   "category": "family",
                   "coords": [
                         1.905447,
                         47.90594
-                  ]
-            },
-            {
-                  "name": "Chapit'O",
-                  "text": "Chapit'O is a theme park in Orleans. A fantastic place for family entertainment.",
-                  "category": "family",
-                  "coords": [
-                        1.896086,
-                        47.93934
                   ]
             },
             {
@@ -16140,66 +14389,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bassin d'orage Bruebach",
-                  "text": "Ein ruhiges Wasserbecken in Mulhouse, umgeben von schöner Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        7.3289,
-                        47.691713
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Ein klassischer Minigolfplatz in Mulhouse für gesellige Stunden im Freien.",
-                  "category": "family",
-                  "coords": [
-                        7.321219,
-                        47.735262
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Berges de l'Ill",
-                  "text": "Ein schöner Spielplatz am Flussufer in Mulhouse für Familienausflüge.",
-                  "category": "family",
-                  "coords": [
-                        7.324488,
-                        47.737943
-                  ]
-            },
-            {
                   "name": "Lasergame Évolution",
                   "text": "Dieses Lasergame-Zentrum in Mulhouse bietet spannende Herausforderungen und Spaß für Familien und Gruppen.",
                   "category": "family",
                   "coords": [
                         7.351407,
                         47.760764
-                  ]
-            },
-            {
-                  "name": "Familienbecken",
-                  "text": "Das Familienbecken in Mulhouse ist speziell für den gemeinsamen Badespaß mit der ganzen Familie konzipiert.",
-                  "category": "family",
-                  "coords": [
-                        7.319876,
-                        47.734458
-                  ]
-            },
-            {
-                  "name": "Sprungturm",
-                  "text": "Diese Sprunganlage in Mulhouse bietet aktiven Wasserspaß und Herausforderungen für begeisterte Schwimmer.",
-                  "category": "family",
-                  "coords": [
-                        7.319248,
-                        47.732954
-                  ]
-            },
-            {
-                  "name": "Streichelzoo",
-                  "text": "Dieser Kinderzoo in Mulhouse ist ein großartiger Ort für Kinder, um Tiere hautnah zu erleben.",
-                  "category": "family",
-                  "coords": [
-                        7.352023,
-                        47.737158
                   ]
             },
             {
@@ -16257,30 +14452,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mairie d'Illzach",
-                  "text": "Das Mairie d'Illzach ist das Verwaltungszentrum und Rathaus von Mulhouse. Es ist ein wichtiges öffentliches Gebäude, in dem sich die lokalen Gemeindedienste befinden.",
-                  "category": "historical",
-                  "coords": [
-                        7.346636,
-                        47.781622
-                  ]
-            },
-            {
                   "name": "Mairie de Brunstatt-Didenheim",
                   "text": "Das Mairie de Brunstatt-Didenheim ist das Verwaltungszentrum und Rathaus von Mulhouse. Es ist ein wichtiges öffentliches Gebäude, in dem sich die lokalen Gemeindedienste befinden.",
                   "category": "historical",
                   "coords": [
                         7.317146,
                         47.721051
-                  ]
-            },
-            {
-                  "name": "Mairie de Riedisheim",
-                  "text": "Das Mairie de Riedisheim ist das Verwaltungszentrum und Rathaus von Mulhouse. Es ist ein wichtiges öffentliches Gebäude, in dem sich die lokalen Gemeindedienste befinden.",
-                  "category": "historical",
-                  "coords": [
-                        7.368527,
-                        47.749235
                   ]
             },
             {
@@ -16353,15 +14530,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.359621,
                         47.769967
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Die Église Saint-Jean-Baptiste ist eine bedeutende Gebetsstätte in Mulhouse. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
-                  "category": "religious",
-                  "coords": [
-                        7.350765,
-                        47.780748
                   ]
             },
             {
@@ -16580,66 +14748,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bassin d'orage Bruebach",
-                  "text": "Csendes medence Mulhouse-ban, szép tájjal körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        7.3289,
-                        47.691713
-                  ]
-            },
-            {
-                  "name": "Mini Golf",
-                  "text": "Klasszikus minigolfpálya Mulhouse-ban a szabadtéri közösségi élményekhez.",
-                  "category": "family",
-                  "coords": [
-                        7.321219,
-                        47.735262
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Berges de l'Ill",
-                  "text": "Szép játszótér a folyóparton Mulhouse-ban a családi kirándulásokhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.324488,
-                        47.737943
-                  ]
-            },
-            {
                   "name": "Lasergame Évolution",
                   "text": "Ez a mulhouse-i lézerjáték-központ izgalmas kihívásokat és szórakozást kínál családoknak és csoportoknak.",
                   "category": "family",
                   "coords": [
                         7.351407,
                         47.760764
-                  ]
-            },
-            {
-                  "name": "Bassin familial",
-                  "text": "A mulhouse-i családi medence kifejezetten az egész család közös fürdőzésére készült.",
-                  "category": "family",
-                  "coords": [
-                        7.319876,
-                        47.734458
-                  ]
-            },
-            {
-                  "name": "Plongeoir",
-                  "text": "Ez a mulhouse-i műugró hely aktív vízi szórakozást és kihívásokat kínál a lelkes úszóknak.",
-                  "category": "family",
-                  "coords": [
-                        7.319248,
-                        47.732954
-                  ]
-            },
-            {
-                  "name": "Zoo pour enfant",
-                  "text": "Ez a mulhouse-i gyerekállatkert nagyszerű hely a gyerekek számára az állatok közeli megismeréséhez.",
-                  "category": "family",
-                  "coords": [
-                        7.352023,
-                        47.737158
                   ]
             },
             {
@@ -16697,30 +14811,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mairie d'Illzach",
-                  "text": "A Mairie d'Illzach Mulhouse közigazgatási központja és városháza. Ez egy kulcsfontosságú középület, ahol a helyi önkormányzati szolgáltatások találhatók.",
-                  "category": "historical",
-                  "coords": [
-                        7.346636,
-                        47.781622
-                  ]
-            },
-            {
                   "name": "Mairie de Brunstatt-Didenheim",
                   "text": "A Mairie de Brunstatt-Didenheim Mulhouse közigazgatási központja és városháza. Ez egy kulcsfontosságú középület, ahol a helyi önkormányzati szolgáltatások találhatók.",
                   "category": "historical",
                   "coords": [
                         7.317146,
                         47.721051
-                  ]
-            },
-            {
-                  "name": "Mairie de Riedisheim",
-                  "text": "A Mairie de Riedisheim Mulhouse közigazgatási központja és városháza. Ez egy kulcsfontosságú középület, ahol a helyi önkormányzati szolgáltatások találhatók.",
-                  "category": "historical",
-                  "coords": [
-                        7.368527,
-                        47.749235
                   ]
             },
             {
@@ -16793,15 +14889,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.359621,
                         47.769967
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "A Église Saint-Jean-Baptiste egy jelentős vallási helyszín Mulhouse területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
-                  "category": "religious",
-                  "coords": [
-                        7.350765,
-                        47.780748
                   ]
             },
             {
@@ -17020,66 +15107,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bassin d'orage Bruebach",
-                  "text": "Un bazin de apă liniștit în Mulhouse, înconjurat de un peisaj frumos.",
-                  "category": "natural",
-                  "coords": [
-                        7.3289,
-                        47.691713
-                  ]
-            },
-            {
-                  "name": "Mini Golf",
-                  "text": "Un teren de minigolf clasic în Mulhouse pentru ore plăcute în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.321219,
-                        47.735262
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Berges de l'Ill",
-                  "text": "Un loc de joacă frumos pe malul râului în Mulhouse pentru excursii în familie.",
-                  "category": "family",
-                  "coords": [
-                        7.324488,
-                        47.737943
-                  ]
-            },
-            {
                   "name": "Lasergame Évolution",
                   "text": "Acest centru de laser game din Mulhouse oferă provocări incitante și distracție pentru familii și grupuri.",
                   "category": "family",
                   "coords": [
                         7.351407,
                         47.760764
-                  ]
-            },
-            {
-                  "name": "Bassin familial",
-                  "text": "Bazinul familial din Mulhouse este conceput special pentru distracția la înot a întregii familii.",
-                  "category": "family",
-                  "coords": [
-                        7.319876,
-                        47.734458
-                  ]
-            },
-            {
-                  "name": "Plongeoir",
-                  "text": "Această facilitate de sărituri din Mulhouse oferă distracție activă în apă și provocări pentru înotătorii entuziaști.",
-                  "category": "family",
-                  "coords": [
-                        7.319248,
-                        47.732954
-                  ]
-            },
-            {
-                  "name": "Zoo pour enfant",
-                  "text": "Această grădină zoologică pentru copii din Mulhouse este un loc minunat pentru ca cei mici să experimenteze animalele de aproape.",
-                  "category": "family",
-                  "coords": [
-                        7.352023,
-                        47.737158
                   ]
             },
             {
@@ -17137,30 +15170,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mairie d'Illzach",
-                  "text": "Primăria Mairie d'Illzach este centrul administrativ al orașului Mulhouse. Este o clădire publică cheie unde se află serviciile municipale locale.",
-                  "category": "historical",
-                  "coords": [
-                        7.346636,
-                        47.781622
-                  ]
-            },
-            {
                   "name": "Mairie de Brunstatt-Didenheim",
                   "text": "Primăria Mairie de Brunstatt-Didenheim este centrul administrativ al orașului Mulhouse. Este o clădire publică cheie unde se află serviciile municipale locale.",
                   "category": "historical",
                   "coords": [
                         7.317146,
                         47.721051
-                  ]
-            },
-            {
-                  "name": "Mairie de Riedisheim",
-                  "text": "Primăria Mairie de Riedisheim este centrul administrativ al orașului Mulhouse. Este o clădire publică cheie unde se află serviciile municipale locale.",
-                  "category": "historical",
-                  "coords": [
-                        7.368527,
-                        47.749235
                   ]
             },
             {
@@ -17233,15 +15248,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.359621,
                         47.769967
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Biserica Église Saint-Jean-Baptiste este un lăcaș de cult notabil situat în Mulhouse. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
-                  "category": "religious",
-                  "coords": [
-                        7.350765,
-                        47.780748
                   ]
             },
             {
@@ -17460,66 +15466,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bassin d'orage Bruebach",
-                  "text": "A quiet water basin in Mulhouse, surrounded by beautiful scenery.",
-                  "category": "natural",
-                  "coords": [
-                        7.3289,
-                        47.691713
-                  ]
-            },
-            {
-                  "name": "Mini Golf",
-                  "text": "A classic miniature golf course in Mulhouse for social hours outdoors.",
-                  "category": "family",
-                  "coords": [
-                        7.321219,
-                        47.735262
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Berges de l'Ill",
-                  "text": "A beautiful riverside playground in Mulhouse for family outings.",
-                  "category": "family",
-                  "coords": [
-                        7.324488,
-                        47.737943
-                  ]
-            },
-            {
                   "name": "Lasergame Évolution",
                   "text": "This laser game center in Mulhouse offers exciting challenges and fun for families and groups.",
                   "category": "family",
                   "coords": [
                         7.351407,
                         47.760764
-                  ]
-            },
-            {
-                  "name": "Bassin familial",
-                  "text": "The family pool in Mulhouse is specially designed for swimming fun with the whole family.",
-                  "category": "family",
-                  "coords": [
-                        7.319876,
-                        47.734458
-                  ]
-            },
-            {
-                  "name": "Plongeoir",
-                  "text": "This diving facility in Mulhouse offers active water fun and challenges for enthusiastic swimmers.",
-                  "category": "family",
-                  "coords": [
-                        7.319248,
-                        47.732954
-                  ]
-            },
-            {
-                  "name": "Zoo pour enfant",
-                  "text": "This children's zoo in Mulhouse is a great place for kids to experience animals up close.",
-                  "category": "family",
-                  "coords": [
-                        7.352023,
-                        47.737158
                   ]
             },
             {
@@ -17577,30 +15529,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mairie d'Illzach",
-                  "text": "The Mairie d'Illzach is the administrative center and town hall of Mulhouse. It is a key public building where local municipal services are located.",
-                  "category": "historical",
-                  "coords": [
-                        7.346636,
-                        47.781622
-                  ]
-            },
-            {
                   "name": "Mairie de Brunstatt-Didenheim",
                   "text": "The Mairie de Brunstatt-Didenheim is the administrative center and town hall of Mulhouse. It is a key public building where local municipal services are located.",
                   "category": "historical",
                   "coords": [
                         7.317146,
                         47.721051
-                  ]
-            },
-            {
-                  "name": "Mairie de Riedisheim",
-                  "text": "The Mairie de Riedisheim is the administrative center and town hall of Mulhouse. It is a key public building where local municipal services are located.",
-                  "category": "historical",
-                  "coords": [
-                        7.368527,
-                        47.749235
                   ]
             },
             {
@@ -17673,15 +15607,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         7.359621,
                         47.769967
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "The Église Saint-Jean-Baptiste is a notable place of worship located in Mulhouse. It serves as a peaceful spiritual site for the local community and visitors.",
-                  "category": "religious",
-                  "coords": [
-                        7.350765,
-                        47.780748
                   ]
             },
             {
@@ -17992,84 +15917,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac de Lébisey",
-                  "text": "Ein ruhiger See in Caen, ideal für einen erholsamen Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        -0.35133,
-                        49.220077
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Charlotte Corday",
-                  "text": "Ein schöner Spielplatz in Caen, der Kindern eine sichere Spielumgebung bietet.",
-                  "category": "family",
-                  "coords": [
-                        -0.322832,
-                        49.165442
-                  ]
-            },
-            {
                   "name": "Repère des Pirates",
                   "text": "Ein Abenteuerspielplatz in Caen, der die Fantasie der Kinder anregt.",
                   "category": "family",
                   "coords": [
                         -0.422911,
                         49.182627
-                  ]
-            },
-            {
-                  "name": "Terrain de jeux",
-                  "text": "Ein klassischer Spielbereich in Caen für Kinder zum Austoben im Freien.",
-                  "category": "family",
-                  "coords": [
-                        -0.362,
-                        49.162484
-                  ]
-            },
-            {
-                  "name": "L'araignée",
-                  "text": "Ein spezielles Kletterspielgerät in Caen, das bei Kindern sehr beliebt ist.",
-                  "category": "family",
-                  "coords": [
-                        -0.362936,
-                        49.160598
-                  ]
-            },
-            {
-                  "name": "Team Factory",
-                  "text": "Ein modernes Spielezentrum in Caen für spannende Familienerlebnisse.",
-                  "category": "family",
-                  "coords": [
-                        -0.356256,
-                        49.178425
-                  ]
-            },
-            {
-                  "name": "Pathé Games",
-                  "text": "Ein Ort in Caen für digitale Unterhaltung und Spiele für Groß und Klein.",
-                  "category": "family",
-                  "coords": [
-                        -0.350167,
-                        49.177311
-                  ]
-            },
-            {
-                  "name": "LaserGames",
-                  "text": "Ein actionreiches Freizeitzentrum in Caen für aktive Familien.",
-                  "category": "family",
-                  "coords": [
-                        -0.322459,
-                        49.168572
-                  ]
-            },
-            {
-                  "name": "Place aux Jeux",
-                  "text": "Ein einladender Spielbereich in Caen, perfekt für Kinder zum Spielen.",
-                  "category": "family",
-                  "coords": [
-                        -0.343977,
-                        49.196715
                   ]
             },
             {
@@ -18495,84 +16348,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac de Lébisey",
-                  "text": "Egy nyugodt tó Caenben, ideális egy pihentető vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -0.35133,
-                        49.220077
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Charlotte Corday",
-                  "text": "Egy szép játszótér Caenben, amely biztonságos játékkörnyezetet nyújt a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        -0.322832,
-                        49.165442
-                  ]
-            },
-            {
                   "name": "Repère des Pirates",
                   "text": "Egy kalandjátszótér Caenben, amely serkenti a gyerekek fantáziáját.",
                   "category": "family",
                   "coords": [
                         -0.422911,
                         49.182627
-                  ]
-            },
-            {
-                  "name": "Terrain de jeux",
-                  "text": "Egy klasszikus játszóterület Caenben a szabadtéri kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        -0.362,
-                        49.162484
-                  ]
-            },
-            {
-                  "name": "L'araignée",
-                  "text": "Egy különleges mászójáték Caenben, amely nagyon népszerű a gyerekek körében.",
-                  "category": "family",
-                  "coords": [
-                        -0.362936,
-                        49.160598
-                  ]
-            },
-            {
-                  "name": "Team Factory",
-                  "text": "Egy modern játékcenter Caenben az izgalmas családi élményekhez.",
-                  "category": "family",
-                  "coords": [
-                        -0.356256,
-                        49.178425
-                  ]
-            },
-            {
-                  "name": "Pathé Games",
-                  "text": "Egy hely Caenben a digitális szórakozáshoz és játékokhoz kicsiknek és nagyoknak.",
-                  "category": "family",
-                  "coords": [
-                        -0.350167,
-                        49.177311
-                  ]
-            },
-            {
-                  "name": "LaserGames",
-                  "text": "Egy akciódús szabadidős központ Caenben az aktív családoknak.",
-                  "category": "family",
-                  "coords": [
-                        -0.322459,
-                        49.168572
-                  ]
-            },
-            {
-                  "name": "Place aux Jeux",
-                  "text": "Egy hívogató játszóterület Caenben, tökéletes a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        -0.343977,
-                        49.196715
                   ]
             },
             {
@@ -18998,84 +16779,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac de Lébisey",
-                  "text": "Un lac liniștit în Caen, ideal pentru o plimbare relaxantă pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        -0.35133,
-                        49.220077
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Charlotte Corday",
-                  "text": "Un loc de joacă frumos în Caen, oferind copiilor un mediu de joacă sigur.",
-                  "category": "family",
-                  "coords": [
-                        -0.322832,
-                        49.165442
-                  ]
-            },
-            {
                   "name": "Repère des Pirates",
                   "text": "Un loc de joacă de aventură în Caen, care stimulează imaginația copiilor.",
                   "category": "family",
                   "coords": [
                         -0.422911,
                         49.182627
-                  ]
-            },
-            {
-                  "name": "Terrain de jeux",
-                  "text": "O zonă de joacă clasică în Caen pentru copii, ideală pentru mișcare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        -0.362,
-                        49.162484
-                  ]
-            },
-            {
-                  "name": "L'araignée",
-                  "text": "Un echipament de joacă special pentru cățărat în Caen, foarte popular printre copii.",
-                  "category": "family",
-                  "coords": [
-                        -0.362936,
-                        49.160598
-                  ]
-            },
-            {
-                  "name": "Team Factory",
-                  "text": "Un centru de jocuri modern în Caen pentru experiențe de familie captivante.",
-                  "category": "family",
-                  "coords": [
-                        -0.356256,
-                        49.178425
-                  ]
-            },
-            {
-                  "name": "Pathé Games",
-                  "text": "Un loc în Caen pentru divertisment digital și jocuri pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        -0.350167,
-                        49.177311
-                  ]
-            },
-            {
-                  "name": "LaserGames",
-                  "text": "Un centru de divertisment plin de acțiune în Caen pentru familii active.",
-                  "category": "family",
-                  "coords": [
-                        -0.322459,
-                        49.168572
-                  ]
-            },
-            {
-                  "name": "Place aux Jeux",
-                  "text": "O zonă de joacă primitoare în Caen, perfectă pentru joaca copiilor.",
-                  "category": "family",
-                  "coords": [
-                        -0.343977,
-                        49.196715
                   ]
             },
             {
@@ -19501,84 +17210,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac de Lébisey",
-                  "text": "A peaceful lake in Caen, ideal for a relaxing walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -0.35133,
-                        49.220077
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Charlotte Corday",
-                  "text": "A lovely playground in Caen, providing a safe play environment for children.",
-                  "category": "family",
-                  "coords": [
-                        -0.322832,
-                        49.165442
-                  ]
-            },
-            {
                   "name": "Repère des Pirates",
                   "text": "An adventure playground in Caen that stimulates children's imagination.",
                   "category": "family",
                   "coords": [
                         -0.422911,
                         49.182627
-                  ]
-            },
-            {
-                  "name": "Terrain de jeux",
-                  "text": "A classic play area in Caen for children to enjoy being outdoors.",
-                  "category": "family",
-                  "coords": [
-                        -0.362,
-                        49.162484
-                  ]
-            },
-            {
-                  "name": "L'araignée",
-                  "text": "A special climbing play structure in Caen, very popular with children.",
-                  "category": "family",
-                  "coords": [
-                        -0.362936,
-                        49.160598
-                  ]
-            },
-            {
-                  "name": "Team Factory",
-                  "text": "A modern games center in Caen for exciting family experiences.",
-                  "category": "family",
-                  "coords": [
-                        -0.356256,
-                        49.178425
-                  ]
-            },
-            {
-                  "name": "Pathé Games",
-                  "text": "A place in Caen for digital entertainment and games for all ages.",
-                  "category": "family",
-                  "coords": [
-                        -0.350167,
-                        49.177311
-                  ]
-            },
-            {
-                  "name": "LaserGames",
-                  "text": "An action-packed leisure center in Caen for active families.",
-                  "category": "family",
-                  "coords": [
-                        -0.322459,
-                        49.168572
-                  ]
-            },
-            {
-                  "name": "Place aux Jeux",
-                  "text": "An inviting play area in Caen, perfect for children to play.",
-                  "category": "family",
-                  "coords": [
-                        -0.343977,
-                        49.196715
                   ]
             },
             {
@@ -19967,16 +17604,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Musée de l'École de Nancy",
-                  "text": "Ein einzigartiges Museum, das dem Jugendstil gewidmet ist und Meisterwerke lothringischer Künstler zeigt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.165833,
-                        48.680278
-                  ]
-            },
-            {
                   "name": "Porte de la Craffe",
                   "text": "Das älteste Stadttor von Nancy aus dem 14. Jahrhundert, ein beeindruckendes Überbleibsel der mittelalterlichen Befestigung.",
                   "category": "fortress",
@@ -19997,24 +17624,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Étang des Brasseries",
-                  "text": "Ein See in Nancy, der eine friedliche Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.126931,
-                        48.716664
-                  ]
-            },
-            {
-                  "name": "Bel'Étang",
-                  "text": "Ein See in Nancy für Naturbegeisterte und Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        6.146993,
-                        48.722389
-                  ]
-            },
-            {
                   "name": "Cube TV",
                   "text": "Ein modernes Unterhaltungscenter in Nancy für die ganze Familie.",
                   "category": "family",
@@ -20024,48 +17633,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mankind",
-                  "text": "Eine Spielhalle in Nancy mit verschiedenen Freizeitangeboten.",
-                  "category": "family",
-                  "coords": [
-                        6.205307,
-                        48.68517
-                  ]
-            },
-            {
                   "name": "Mini-Golf",
                   "text": "Ein Minigolfplatz in Nancy für einen unterhaltsamen Familiennachmittag.",
                   "category": "family",
                   "coords": [
                         6.184194,
                         48.696301
-                  ]
-            },
-            {
-                  "name": "Aire Parc Curie",
-                  "text": "Ein einladender Spielplatz in Nancy für aktiven Freizeitspaß.",
-                  "category": "family",
-                  "coords": [
-                        6.203726,
-                        48.705781
-                  ]
-            },
-            {
-                  "name": "Espace Animalier",
-                  "text": "Der Espace Animalier in Nancy ist ein Zoo und ein schönes Ausflugsziel für Familien.",
-                  "category": "family",
-                  "coords": [
-                        6.184027,
-                        48.699055
-                  ]
-            },
-            {
-                  "name": "L’oasis",
-                  "text": "L’oasis ist ein Strandresort in Nancy.",
-                  "category": "family",
-                  "coords": [
-                        6.207483,
-                        48.692832
                   ]
             }
       ],
@@ -20101,16 +17674,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Nancy-i Iskola Múzeuma",
-                  "text": "A szecesszió (Art Nouveau) egyik legfontosabb múzeuma, amely a mozgalom legszebb bútorait és üvegtárgyait őrzi.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.165833,
-                        48.680278
-                  ]
-            },
-            {
                   "name": "Porte de la Craffe",
                   "text": "Nancy legrégebbi városkapuja a 14. századból, a középkori védművek monumentális maradványa.",
                   "category": "fortress",
@@ -20131,24 +17694,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Étang des Brasseries",
-                  "text": "Egy tó Nancy-ben, amely békés környezetet biztosít.",
-                  "category": "natural",
-                  "coords": [
-                        6.126931,
-                        48.716664
-                  ]
-            },
-            {
-                  "name": "Bel'Étang",
-                  "text": "Egy tó Nancy-ben a természetbarátok és sétálók számára.",
-                  "category": "natural",
-                  "coords": [
-                        6.146993,
-                        48.722389
-                  ]
-            },
-            {
                   "name": "Cube TV",
                   "text": "Egy modern szórakoztató központ Nancy-ben az egész családnak.",
                   "category": "family",
@@ -20158,48 +17703,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mankind",
-                  "text": "Egy játékterem Nancy-ben különféle szabadidős lehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        6.205307,
-                        48.68517
-                  ]
-            },
-            {
                   "name": "Mini-Golf",
                   "text": "Egy minigolfpálya Nancy-ben egy szórakoztató családi délutánhoz.",
                   "category": "family",
                   "coords": [
                         6.184194,
                         48.696301
-                  ]
-            },
-            {
-                  "name": "Aire Parc Curie",
-                  "text": "Hívogató játszótér Nancy-ben az aktív kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        6.203726,
-                        48.705781
-                  ]
-            },
-            {
-                  "name": "Espace Animalier",
-                  "text": "A nancy-i Espace Animalier egy állatkert és szép kirándulóhely családok számára.",
-                  "category": "family",
-                  "coords": [
-                        6.184027,
-                        48.699055
-                  ]
-            },
-            {
-                  "name": "L’oasis",
-                  "text": "A L’oasis egy tengerparti üdülőhely Nancy-ban.",
-                  "category": "family",
-                  "coords": [
-                        6.207483,
-                        48.692832
                   ]
             }
       ],
@@ -20235,16 +17744,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Muzeul Școlii din Nancy",
-                  "text": "Un muzeu de referință pentru stilul Art Nouveau, prezentând creații remarcabile de mobilier și obiecte din sticlă.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.165833,
-                        48.680278
-                  ]
-            },
-            {
                   "name": "Poarta Craffe",
                   "text": "Cea mai veche poartă a orașului, datând din secolul XIV, reprezentând un vestigiu impresionant al fortificațiilor vechi.",
                   "category": "fortress",
@@ -20265,24 +17764,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Étang des Brasseries",
-                  "text": "Un lac în Nancy care oferă un cadru liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        6.126931,
-                        48.716664
-                  ]
-            },
-            {
-                  "name": "Bel'Étang",
-                  "text": "Un lac în Nancy pentru entuziaștii naturii și amatorii de plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        6.146993,
-                        48.722389
-                  ]
-            },
-            {
                   "name": "Cube TV",
                   "text": "Un centru de divertisment modern în Nancy pentru întreaga familie.",
                   "category": "family",
@@ -20292,48 +17773,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mankind",
-                  "text": "O sală de jocuri în Nancy cu diverse oferte de agrement.",
-                  "category": "family",
-                  "coords": [
-                        6.205307,
-                        48.68517
-                  ]
-            },
-            {
                   "name": "Mini-Golf",
                   "text": "Un teren de minigolf în Nancy pentru o după-amiază distractivă în familie.",
                   "category": "family",
                   "coords": [
                         6.184194,
                         48.696301
-                  ]
-            },
-            {
-                  "name": "Aire Parc Curie",
-                  "text": "Un loc de joacă primitor în Nancy pentru distracție activă.",
-                  "category": "family",
-                  "coords": [
-                        6.203726,
-                        48.705781
-                  ]
-            },
-            {
-                  "name": "Espace Animalier",
-                  "text": "Espace Animalier din Nancy este o grădină zoologică și o destinație frumoasă de excursie pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        6.184027,
-                        48.699055
-                  ]
-            },
-            {
-                  "name": "L’oasis",
-                  "text": "L’oasis este o stațiune pe plajă în Nancy.",
-                  "category": "family",
-                  "coords": [
-                        6.207483,
-                        48.692832
                   ]
             }
       ],
@@ -20369,16 +17814,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Musée de l'École de Nancy",
-                  "text": "A world-renowned museum of Art Nouveau, showcasing exquisite furniture, glasswork, and decorative arts.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        6.165833,
-                        48.680278
-                  ]
-            },
-            {
                   "name": "Porte de la Craffe",
                   "text": "The oldest city gate in Nancy, dating back to the 14th century, a monumental symbol of the medieval town.",
                   "category": "fortress",
@@ -20399,24 +17834,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Étang des Brasseries",
-                  "text": "A lake in Nancy offering a peaceful environment.",
-                  "category": "natural",
-                  "coords": [
-                        6.126931,
-                        48.716664
-                  ]
-            },
-            {
-                  "name": "Bel'Étang",
-                  "text": "A lake in Nancy for nature enthusiasts and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        6.146993,
-                        48.722389
-                  ]
-            },
-            {
                   "name": "Cube TV",
                   "text": "A modern entertainment center in Nancy for the whole family.",
                   "category": "family",
@@ -20426,48 +17843,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mankind",
-                  "text": "An amusement arcade in Nancy with various leisure options.",
-                  "category": "family",
-                  "coords": [
-                        6.205307,
-                        48.68517
-                  ]
-            },
-            {
                   "name": "Mini-Golf",
                   "text": "A miniature golf course in Nancy for an entertaining family afternoon.",
                   "category": "family",
                   "coords": [
                         6.184194,
                         48.696301
-                  ]
-            },
-            {
-                  "name": "Aire Parc Curie",
-                  "text": "An inviting playground in Nancy for active leisure fun.",
-                  "category": "family",
-                  "coords": [
-                        6.203726,
-                        48.705781
-                  ]
-            },
-            {
-                  "name": "Espace Animalier",
-                  "text": "The Espace Animalier in Nancy is a zoo and a lovely excursion destination for families.",
-                  "category": "family",
-                  "coords": [
-                        6.184027,
-                        48.699055
-                  ]
-            },
-            {
-                  "name": "L’oasis",
-                  "text": "L’oasis is a beach resort in Nancy.",
-                  "category": "family",
-                  "coords": [
-                        6.207483,
-                        48.692832
                   ]
             }
       ],
@@ -20497,15 +17878,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         6.185,
                         48.6981
-                  ]
-            },
-            {
-                  "name": "Musée de l'École de Nancy",
-                  "text": "Un musée unique dédié au courant Art Nouveau, exposant les chefs-d'œuvre des artistes nancéiens.",
-                  "category": "museum",
-                  "coords": [
-                        6.165833,
-                        48.680278
                   ]
             },
             {
@@ -20602,16 +17974,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.349902,
                         48.934396
-                  ]
-            },
-            {
-                  "name": "Canal Saint-Denis",
-                  "text": "Diese Wasserstraße verbindet den Canal de l'Ourcq mit der Seine und bietet heute angenehme Wege für Spaziergänge und Radtouren am Wasser.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.380179,
-                        48.898978
                   ]
             },
             {
@@ -20715,132 +18077,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac Marchais",
-                  "text": "Ein idyllischer See in Saint Denis, perfekt für Spaziergänge am Ufer.",
-                  "category": "natural",
-                  "coords": [
-                        2.341997,
-                        48.981484
-                  ]
-            },
-            {
-                  "name": "Réservoir de Belleville",
-                  "text": "Ein funktionales Gewässer in Saint Denis mit ruhiger Atmosphäre.",
-                  "category": "natural",
-                  "coords": [
-                        2.400517,
-                        48.874019
-                  ]
-            },
-            {
-                  "name": "Lac du Nord",
-                  "text": "Ein ruhiger See im Norden von Saint Denis für Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        2.294171,
-                        48.976249
-                  ]
-            },
-            {
-                  "name": "Bassins de la Molette",
-                  "text": "Ruhige Wasserflächen in Saint Denis, ideal für einen kurzen Aufenthalt im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        2.416523,
-                        48.94012
-                  ]
-            },
-            {
-                  "name": "Lac d'Enghien",
-                  "text": "Ein bekannter See in Saint Denis für Erholung und malerische Aussichten.",
-                  "category": "natural",
-                  "coords": [
-                        2.298733,
-                        48.970997
-                  ]
-            },
-            {
-                  "name": "Tours et passerelles",
-                  "text": "Ein kreativer Spielbereich in Saint Denis mit Klettergeräten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        2.390093,
-                        48.941711
-                  ]
-            },
-            {
-                  "name": "La Parcelle",
-                  "text": "Ein kleiner Spielbereich in Saint Denis für tägliches Spielvergnügen.",
-                  "category": "family",
-                  "coords": [
-                        2.370817,
-                        48.901469
-                  ]
-            },
-            {
-                  "name": "Petit Parc",
-                  "text": "Ein charmanter Spielplatz in Saint Denis für lokale Familien.",
-                  "category": "family",
-                  "coords": [
-                        2.342667,
-                        48.921404
-                  ]
-            },
-            {
-                  "name": "Jeux 0-3 ans",
-                  "text": "Ein spezialisierter Spielbereich in Saint Denis für Kleinkinder bis drei Jahre.",
-                  "category": "family",
-                  "coords": [
-                        2.327822,
-                        48.914466
-                  ]
-            },
-            {
-                  "name": "Square du Temps des Cerises",
-                  "text": "Ein gemütlicher Spielplatz in Saint Denis für entspannte Stunden im Freien.",
-                  "category": "family",
-                  "coords": [
-                        2.328083,
-                        48.921574
-                  ]
-            },
-            {
-                  "name": "Square des Marialles",
-                  "text": "Ein ruhiger Quartiersspielplatz in Saint Denis für Kinder aus der Nachbarschaft.",
-                  "category": "family",
-                  "coords": [
-                        2.386391,
-                        48.941646
-                  ]
-            },
-            {
-                  "name": "Jeux 3-8 ans",
-                  "text": "Ein altersgerechter Spielplatz in Saint Denis für Kinder zwischen drei und acht Jahren.",
-                  "category": "family",
-                  "coords": [
-                        2.330488,
-                        48.915503
-                  ]
-            },
-            {
-                  "name": "Jeux d'eau",
-                  "text": "Ein erfrischender Wasserspielplatz in Saint Denis für heiße Sommertage.",
-                  "category": "family",
-                  "coords": [
-                        2.402637,
-                        48.948561
-                  ]
-            },
-            {
-                  "name": "Jeux d'eau (en été)",
-                  "text": "Ein beliebter Ort für sommerlichen Wasserspaß für Kinder in Saint Denis.",
-                  "category": "family",
-                  "coords": [
-                        2.397759,
-                        48.945094
-                  ]
-            },
-            {
                   "name": "Square Picasso",
                   "text": "Ein vielseitiger Spielplatz in Saint Denis mit Angeboten für verschiedene Altersgruppen.",
                   "category": "family",
@@ -20859,102 +18095,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Henri Wallon",
-                  "text": "Ein moderner Spielplatz in Saint Denis mit abwechslungsreichen Spielgeräten.",
-                  "category": "family",
-                  "coords": [
-                        2.34526,
-                        48.951717
-                  ]
-            },
-            {
-                  "name": "Kids' Place",
-                  "text": "Ein bunter Spielort in Saint Denis für Spiel und Bewegung im Freien.",
-                  "category": "family",
-                  "coords": [
-                        2.331173,
-                        48.922798
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Rosa Parks",
-                  "text": "Ein schön gestalteter Spielplatz in Saint Denis für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        2.34339,
-                        48.96093
-                  ]
-            },
-            {
-                  "name": "Hammam Harim Essoltan",
-                  "text": "Dieses traditionelle türkische Bad in Saint-Denis bietet eine authentische und entspannende Atmosphäre für Besucher.",
-                  "category": "family",
-                  "coords": [
-                        2.392056,
-                        48.905488
-                  ]
-            },
-            {
-                  "name": "Spa Jasmin de nuit",
-                  "text": "Dieses öffentliche Bad in Saint-Denis ist der perfekte Ort für eine erholsame Wellness-Pause.",
-                  "category": "family",
-                  "coords": [
-                        2.340168,
-                        48.894442
-                  ]
-            },
-            {
-                  "name": "hamman",
-                  "text": "Genießen Sie ein beruhigendes Erlebnis in diesem traditionellen Bad in Saint-Denis.",
-                  "category": "family",
-                  "coords": [
-                        2.387351,
-                        48.937979
-                  ]
-            },
-            {
-                  "name": "Espace nautique Auguste Delaune",
-                  "text": "Dieser Wasserpark in Saint-Denis bietet aufregende Wasseraktivitäten und Rutschen für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        2.33439,
-                        48.910626
-                  ]
-            },
-            {
-                  "name": "Newtown Park",
-                  "text": "Dieser Freizeitpark in Saint-Denis bietet vielseitige Unterhaltung und Spielbereiche für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        2.328032,
-                        48.924773
-                  ]
-            },
-            {
-                  "name": "L'Ile de Tortuga - Kids Zone",
-                  "text": "Diese Kinderzone in Saint-Denis ist ein Paradies für junge Abenteurer mit vielen Spielmöglichkeiten.",
-                  "category": "family",
-                  "coords": [
-                        2.389327,
-                        48.896043
-                  ]
-            },
-            {
                   "name": "Olympic 50m pool",
                   "text": "Dieses olympische Schwimmbecken in Saint-Denis bietet erstklassige Bedingungen für Familien und Hobbyschwimmer.",
                   "category": "family",
                   "coords": [
                         2.355305,
                         48.923639
-                  ]
-            },
-            {
-                  "name": "Chateau de la Motte",
-                  "text": "Ein historisches Schlossgebäude in Saint-Denis, das heute als repräsentativer Ort für Veranstaltungen dient.",
-                  "category": "castle",
-                  "coords": [
-                        2.381638,
-                        48.958412
                   ]
             },
             {
@@ -20973,15 +18119,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.356522,
                         48.932462
-                  ]
-            },
-            {
-                  "name": "Theatre de la Commune",
-                  "text": "Ein renommiertes nationales Theater in Saint-Denis, das für seine innovativen Bühnenproduktionen bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        2.383582,
-                        48.91088
                   ]
             },
             {
@@ -21164,132 +18301,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac Marchais",
-                  "text": "Idilli tó Saint Denis-ben, amely tökéletes a parti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        2.341997,
-                        48.981484
-                  ]
-            },
-            {
-                  "name": "Réservoir de Belleville",
-                  "text": "Funkcionális vízfelület Saint Denis-ben, nyugodt légkörrel.",
-                  "category": "natural",
-                  "coords": [
-                        2.400517,
-                        48.874019
-                  ]
-            },
-            {
-                  "name": "Lac du Nord",
-                  "text": "Csendes tó Saint Denis északi részén a természetkedvelőknek.",
-                  "category": "natural",
-                  "coords": [
-                        2.294171,
-                        48.976249
-                  ]
-            },
-            {
-                  "name": "Bassins de la Molette",
-                  "text": "Csendes vízfelületek Saint Denis-ben, amelyek ideálisak egy rövid zöldövezeti tartózkodáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        2.416523,
-                        48.94012
-                  ]
-            },
-            {
-                  "name": "Lac d'Enghien",
-                  "text": "Ismert tó Saint Denis-ben a kikapcsolódáshoz és festői kilátáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        2.298733,
-                        48.970997
-                  ]
-            },
-            {
-                  "name": "Tours et passerelles",
-                  "text": "Kreatív játszórész Saint Denis-ben mászókákkal a gyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        2.390093,
-                        48.941711
-                  ]
-            },
-            {
-                  "name": "La Parcelle",
-                  "text": "Kicsi játszórész Saint Denis-ben a napi játékélményhez.",
-                  "category": "family",
-                  "coords": [
-                        2.370817,
-                        48.901469
-                  ]
-            },
-            {
-                  "name": "Petit Parc",
-                  "text": "Bájos játszótér Saint Denis-ben a helyi családoknak.",
-                  "category": "family",
-                  "coords": [
-                        2.342667,
-                        48.921404
-                  ]
-            },
-            {
-                  "name": "Jeux 0-3 ans",
-                  "text": "Speciális játszórész Saint Denis-ben kisgyermekeknek hároméves korig.",
-                  "category": "family",
-                  "coords": [
-                        2.327822,
-                        48.914466
-                  ]
-            },
-            {
-                  "name": "Square du Temps des Cerises",
-                  "text": "Hangulatos játszótér Saint Denis-ben a pihentető szabadtéri órákhoz.",
-                  "category": "family",
-                  "coords": [
-                        2.328083,
-                        48.921574
-                  ]
-            },
-            {
-                  "name": "Square des Marialles",
-                  "text": "Csendes lakótelepi játszótér Saint Denis-ben a környékbeli gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        2.386391,
-                        48.941646
-                  ]
-            },
-            {
-                  "name": "Jeux 3-8 ans",
-                  "text": "Korosztálynak megfelelő játszótér Saint Denis-ben három és nyolc év közötti gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        2.330488,
-                        48.915503
-                  ]
-            },
-            {
-                  "name": "Jeux d'eau",
-                  "text": "Frissítő vizes játszótér Saint Denis-ben a forró nyári napokra.",
-                  "category": "family",
-                  "coords": [
-                        2.402637,
-                        48.948561
-                  ]
-            },
-            {
-                  "name": "Jeux d'eau (en été)",
-                  "text": "Népszerű hely a nyári vizes szórakozáshoz gyerekeknek Saint Denis-ben.",
-                  "category": "family",
-                  "coords": [
-                        2.397759,
-                        48.945094
-                  ]
-            },
-            {
                   "name": "Square Picasso",
                   "text": "Változatos játszótér Saint Denis-ben különböző korosztályoknak szóló kínálattal.",
                   "category": "family",
@@ -21308,102 +18319,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Henri Wallon",
-                  "text": "Modern játszótér Saint Denis-ben változatos játékeszközökkel.",
-                  "category": "family",
-                  "coords": [
-                        2.34526,
-                        48.951717
-                  ]
-            },
-            {
-                  "name": "Kids' Place",
-                  "text": "Színes játszóhely Saint Denis-ben a szabadtéri játékhoz és mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        2.331173,
-                        48.922798
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Rosa Parks",
-                  "text": "Szépen kialakított játszótér Saint Denis-ben az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        2.34339,
-                        48.96093
-                  ]
-            },
-            {
-                  "name": "Hammam Harim Essoltan",
-                  "text": "Ez a hagyományos törökfürdő Saint-Denis-ben autentikus és pihentető légkört kínál a látogatóknak.",
-                  "category": "family",
-                  "coords": [
-                        2.392056,
-                        48.905488
-                  ]
-            },
-            {
-                  "name": "Spa Jasmin de nuit",
-                  "text": "Ez a Saint-Denis-i közfürdő tökéletes hely egy pihentető wellness-szünethez.",
-                  "category": "family",
-                  "coords": [
-                        2.340168,
-                        48.894442
-                  ]
-            },
-            {
-                  "name": "hamman",
-                  "text": "Élvezze a megnyugtató élményt ebben a hagyományos Saint-Denis-i fürdőben.",
-                  "category": "family",
-                  "coords": [
-                        2.387351,
-                        48.937979
-                  ]
-            },
-            {
-                  "name": "Espace nautique Auguste Delaune",
-                  "text": "Ez a Saint-Denis-i vízipark izgalmas vízi tevékenységeket és csúszdákat kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        2.33439,
-                        48.910626
-                  ]
-            },
-            {
-                  "name": "Newtown Park",
-                  "text": "Ez a Saint-Denis-i élménypark sokoldalú szórakozást és játszótereket kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        2.328032,
-                        48.924773
-                  ]
-            },
-            {
-                  "name": "L'Ile de Tortuga - Kids Zone",
-                  "text": "Ez a Saint-Denis-i gyerekzóna a fiatal kalandorok paradicsoma, számos játéklehetőséggel.",
-                  "category": "family",
-                  "coords": [
-                        2.389327,
-                        48.896043
-                  ]
-            },
-            {
                   "name": "Olympic 50m pool",
                   "text": "Ez a Saint-Denis-i olimpiai úszómedence kiváló feltételeket biztosít a családok és a hobbiúszók számára.",
                   "category": "family",
                   "coords": [
                         2.355305,
                         48.923639
-                  ]
-            },
-            {
-                  "name": "Chateau de la Motte",
-                  "text": "Történelmi kastélyépület Saint-Denis-ben, amely ma reprezentatív rendezvényhelyszínként szolgál.",
-                  "category": "castle",
-                  "coords": [
-                        2.381638,
-                        48.958412
                   ]
             },
             {
@@ -21422,15 +18343,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.356522,
                         48.932462
-                  ]
-            },
-            {
-                  "name": "Theatre de la Commune",
-                  "text": "Neves nemzeti színház Saint-Denis-ben, amely innovatív színpadi produkcióiról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        2.383582,
-                        48.91088
                   ]
             },
             {
@@ -21500,16 +18412,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.349902,
                         48.934396
-                  ]
-            },
-            {
-                  "name": "Canalul Saint-Denis",
-                  "text": "O cale navigabilă istorică ce leagă Parisul de Sena, transformată astăzi într-o zonă de agrement cu piste de biciclete și spații verzi.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.380179,
-                        48.898978
                   ]
             },
             {
@@ -21613,132 +18515,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac Marchais",
-                  "text": "Un lac idilic în Saint Denis, perfect pentru plimbări pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        2.341997,
-                        48.981484
-                  ]
-            },
-            {
-                  "name": "Réservoir de Belleville",
-                  "text": "Un bazin funcțional în Saint Denis, cu o atmosferă liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        2.400517,
-                        48.874019
-                  ]
-            },
-            {
-                  "name": "Lac du Nord",
-                  "text": "Un lac liniștit în nordul orașului Saint Denis pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        2.294171,
-                        48.976249
-                  ]
-            },
-            {
-                  "name": "Bassins de la Molette",
-                  "text": "Zone de apă liniștite în Saint Denis, ideale pentru o scurtă ședere în natură.",
-                  "category": "natural",
-                  "coords": [
-                        2.416523,
-                        48.94012
-                  ]
-            },
-            {
-                  "name": "Lac d'Enghien",
-                  "text": "Un lac cunoscut în Saint Denis pentru recreere și priveliști pitorești.",
-                  "category": "natural",
-                  "coords": [
-                        2.298733,
-                        48.970997
-                  ]
-            },
-            {
-                  "name": "Tours et passerelles",
-                  "text": "O zonă de joacă creativă în Saint Denis, cu structuri de cățărat pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        2.390093,
-                        48.941711
-                  ]
-            },
-            {
-                  "name": "La Parcelle",
-                  "text": "O mică zonă de joacă în Saint Denis pentru distracția zilnică de joacă.",
-                  "category": "family",
-                  "coords": [
-                        2.370817,
-                        48.901469
-                  ]
-            },
-            {
-                  "name": "Petit Parc",
-                  "text": "Un loc de joacă fermecător în Saint Denis pentru familiile locale.",
-                  "category": "family",
-                  "coords": [
-                        2.342667,
-                        48.921404
-                  ]
-            },
-            {
-                  "name": "Jeux 0-3 ans",
-                  "text": "O zonă de joacă specializată în Saint Denis pentru copii mici de până la trei ani.",
-                  "category": "family",
-                  "coords": [
-                        2.327822,
-                        48.914466
-                  ]
-            },
-            {
-                  "name": "Square du Temps des Cerises",
-                  "text": "Un loc de joacă primitor în Saint Denis pentru ore relaxante în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        2.328083,
-                        48.921574
-                  ]
-            },
-            {
-                  "name": "Square des Marialles",
-                  "text": "Un loc de joacă liniștit de cartier în Saint Denis pentru copiii din vecinătate.",
-                  "category": "family",
-                  "coords": [
-                        2.386391,
-                        48.941646
-                  ]
-            },
-            {
-                  "name": "Jeux 3-8 ans",
-                  "text": "Un loc de joacă adecvat vârstei în Saint Denis pentru copii între trei și opt ani.",
-                  "category": "family",
-                  "coords": [
-                        2.330488,
-                        48.915503
-                  ]
-            },
-            {
-                  "name": "Jeux d'eau",
-                  "text": "Un loc de joacă revigorant cu apă în Saint Denis pentru zilele toride de vară.",
-                  "category": "family",
-                  "coords": [
-                        2.402637,
-                        48.948561
-                  ]
-            },
-            {
-                  "name": "Jeux d'eau (en été)",
-                  "text": "Un loc popular pentru distracție estivală cu apă pentru copii în Saint Denis.",
-                  "category": "family",
-                  "coords": [
-                        2.397759,
-                        48.945094
-                  ]
-            },
-            {
                   "name": "Square Picasso",
                   "text": "Un loc de joacă versatil în Saint Denis, cu oferte pentru diverse grupe de vârstă.",
                   "category": "family",
@@ -21757,102 +18533,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Henri Wallon",
-                  "text": "Un loc de joacă modern în Saint Denis, cu echipamente de joacă variate.",
-                  "category": "family",
-                  "coords": [
-                        2.34526,
-                        48.951717
-                  ]
-            },
-            {
-                  "name": "Kids' Place",
-                  "text": "Un loc de joacă colorat în Saint Denis pentru joacă și mișcare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        2.331173,
-                        48.922798
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Rosa Parks",
-                  "text": "Un loc de joacă frumos amenajat în Saint Denis pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        2.34339,
-                        48.96093
-                  ]
-            },
-            {
-                  "name": "Hammam Harim Essoltan",
-                  "text": "Această baie turcească tradițională din Saint-Denis oferă o atmosferă autentică și relaxantă pentru vizitatori.",
-                  "category": "family",
-                  "coords": [
-                        2.392056,
-                        48.905488
-                  ]
-            },
-            {
-                  "name": "Spa Jasmin de nuit",
-                  "text": "Această baie publică din Saint-Denis este locul perfect pentru o pauză de wellness relaxantă.",
-                  "category": "family",
-                  "coords": [
-                        2.340168,
-                        48.894442
-                  ]
-            },
-            {
-                  "name": "hamman",
-                  "text": "Bucurați-vă de o experiență liniștitoare în această baie tradițională din Saint-Denis.",
-                  "category": "family",
-                  "coords": [
-                        2.387351,
-                        48.937979
-                  ]
-            },
-            {
-                  "name": "Espace nautique Auguste Delaune",
-                  "text": "Acest parc acvatic din Saint-Denis oferă activități acvatice incitante și tobogane pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        2.33439,
-                        48.910626
-                  ]
-            },
-            {
-                  "name": "Newtown Park",
-                  "text": "Acest parc tematic din Saint-Denis oferă divertisment versatil și zone de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        2.328032,
-                        48.924773
-                  ]
-            },
-            {
-                  "name": "L'Ile de Tortuga - Kids Zone",
-                  "text": "Această zonă pentru copii din Saint-Denis este un paradis pentru tinerii aventurieri, cu multe opțiuni de joacă.",
-                  "category": "family",
-                  "coords": [
-                        2.389327,
-                        48.896043
-                  ]
-            },
-            {
                   "name": "Olympic 50m pool",
                   "text": "Această piscină olimpică din Saint-Denis oferă condiții excelente pentru familii și înotători amatori.",
                   "category": "family",
                   "coords": [
                         2.355305,
                         48.923639
-                  ]
-            },
-            {
-                  "name": "Chateau de la Motte",
-                  "text": "O clădire istorică de castel din Saint-Denis, care servește astăzi drept loc reprezentativ pentru evenimente.",
-                  "category": "castle",
-                  "coords": [
-                        2.381638,
-                        48.958412
                   ]
             },
             {
@@ -21871,15 +18557,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.356522,
                         48.932462
-                  ]
-            },
-            {
-                  "name": "Theatre de la Commune",
-                  "text": "Un teatru național renumit din Saint-Denis, cunoscut pentru producțiile sale scenice inovatoare.",
-                  "category": "cultural",
-                  "coords": [
-                        2.383582,
-                        48.91088
                   ]
             },
             {
@@ -21949,16 +18626,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.349902,
                         48.934396
-                  ]
-            },
-            {
-                  "name": "Canal Saint-Denis",
-                  "text": "An urban waterway connecting central Paris to the River Seine, featuring scenic paths popular for walking, cycling, and street art.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        2.380179,
-                        48.898978
                   ]
             },
             {
@@ -22062,132 +18729,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac Marchais",
-                  "text": "An idyllic lake in Saint Denis, perfect for walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        2.341997,
-                        48.981484
-                  ]
-            },
-            {
-                  "name": "Réservoir de Belleville",
-                  "text": "A functional body of water in Saint Denis with a calm atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        2.400517,
-                        48.874019
-                  ]
-            },
-            {
-                  "name": "Lac du Nord",
-                  "text": "A quiet lake in the north of Saint Denis for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        2.294171,
-                        48.976249
-                  ]
-            },
-            {
-                  "name": "Bassins de la Molette",
-                  "text": "Quiet water areas in Saint Denis, ideal for a short stay in green surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        2.416523,
-                        48.94012
-                  ]
-            },
-            {
-                  "name": "Lac d'Enghien",
-                  "text": "A well-known lake in Saint Denis for recreation and scenic views.",
-                  "category": "natural",
-                  "coords": [
-                        2.298733,
-                        48.970997
-                  ]
-            },
-            {
-                  "name": "Tours et passerelles",
-                  "text": "A creative play area in Saint Denis with climbing structures for children.",
-                  "category": "family",
-                  "coords": [
-                        2.390093,
-                        48.941711
-                  ]
-            },
-            {
-                  "name": "La Parcelle",
-                  "text": "A small play area in Saint Denis for daily play enjoyment.",
-                  "category": "family",
-                  "coords": [
-                        2.370817,
-                        48.901469
-                  ]
-            },
-            {
-                  "name": "Petit Parc",
-                  "text": "A charming playground in Saint Denis for local families.",
-                  "category": "family",
-                  "coords": [
-                        2.342667,
-                        48.921404
-                  ]
-            },
-            {
-                  "name": "Jeux 0-3 ans",
-                  "text": "A specialized play area in Saint Denis for toddlers up to three years old.",
-                  "category": "family",
-                  "coords": [
-                        2.327822,
-                        48.914466
-                  ]
-            },
-            {
-                  "name": "Square du Temps des Cerises",
-                  "text": "A cozy playground in Saint Denis for relaxed hours outdoors.",
-                  "category": "family",
-                  "coords": [
-                        2.328083,
-                        48.921574
-                  ]
-            },
-            {
-                  "name": "Square des Marialles",
-                  "text": "A quiet neighborhood playground in Saint Denis for local children.",
-                  "category": "family",
-                  "coords": [
-                        2.386391,
-                        48.941646
-                  ]
-            },
-            {
-                  "name": "Jeux 3-8 ans",
-                  "text": "An age-appropriate playground in Saint Denis for children between three and eight years old.",
-                  "category": "family",
-                  "coords": [
-                        2.330488,
-                        48.915503
-                  ]
-            },
-            {
-                  "name": "Jeux d'eau",
-                  "text": "A refreshing water playground in Saint Denis for hot summer days.",
-                  "category": "family",
-                  "coords": [
-                        2.402637,
-                        48.948561
-                  ]
-            },
-            {
-                  "name": "Jeux d'eau (en été)",
-                  "text": "A popular spot for summer water fun for children in Saint Denis.",
-                  "category": "family",
-                  "coords": [
-                        2.397759,
-                        48.945094
-                  ]
-            },
-            {
                   "name": "Square Picasso",
                   "text": "A versatile playground in Saint Denis with offerings for different age groups.",
                   "category": "family",
@@ -22206,102 +18747,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Henri Wallon",
-                  "text": "A modern playground in Saint Denis with varied play equipment.",
-                  "category": "family",
-                  "coords": [
-                        2.34526,
-                        48.951717
-                  ]
-            },
-            {
-                  "name": "Kids' Place",
-                  "text": "A colorful play spot in Saint Denis for outdoor play and movement.",
-                  "category": "family",
-                  "coords": [
-                        2.331173,
-                        48.922798
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Rosa Parks",
-                  "text": "A beautifully designed playground in Saint Denis for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        2.34339,
-                        48.96093
-                  ]
-            },
-            {
-                  "name": "Hammam Harim Essoltan",
-                  "text": "This traditional turkish bath in Saint Denis offers an authentic and relaxing atmosphere for visitors.",
-                  "category": "family",
-                  "coords": [
-                        2.392056,
-                        48.905488
-                  ]
-            },
-            {
-                  "name": "Spa Jasmin de nuit",
-                  "text": "This public bath in Saint Denis is the perfect place for a relaxing wellness break.",
-                  "category": "family",
-                  "coords": [
-                        2.340168,
-                        48.894442
-                  ]
-            },
-            {
-                  "name": "hamman",
-                  "text": "Enjoy a soothing experience at this traditional bath in Saint Denis.",
-                  "category": "family",
-                  "coords": [
-                        2.387351,
-                        48.937979
-                  ]
-            },
-            {
-                  "name": "Espace nautique Auguste Delaune",
-                  "text": "This water park in Saint Denis features exciting aquatic activities and slides for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        2.33439,
-                        48.910626
-                  ]
-            },
-            {
-                  "name": "Newtown Park",
-                  "text": "This theme park in Saint Denis provides versatile entertainment and play areas for children.",
-                  "category": "family",
-                  "coords": [
-                        2.328032,
-                        48.924773
-                  ]
-            },
-            {
-                  "name": "L'Ile de Tortuga - Kids Zone",
-                  "text": "This kids' zone in Saint Denis is a paradise for young adventurers with plenty of play options.",
-                  "category": "family",
-                  "coords": [
-                        2.389327,
-                        48.896043
-                  ]
-            },
-            {
                   "name": "Olympic 50m pool",
                   "text": "This Olympic swimming pool in Saint Denis offers excellent conditions for families and amateur swimmers.",
                   "category": "family",
                   "coords": [
                         2.355305,
                         48.923639
-                  ]
-            },
-            {
-                  "name": "Chateau de la Motte",
-                  "text": "A historic castle building in Saint-Denis, now serving as a prestigious venue for events.",
-                  "category": "castle",
-                  "coords": [
-                        2.381638,
-                        48.958412
                   ]
             },
             {
@@ -22320,15 +18771,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.356522,
                         48.932462
-                  ]
-            },
-            {
-                  "name": "Theatre de la Commune",
-                  "text": "A renowned national theatre in Saint-Denis known for its innovative stage productions.",
-                  "category": "cultural",
-                  "coords": [
-                        2.383582,
-                        48.91088
                   ]
             },
             {
@@ -22394,15 +18836,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.349902,
                         48.934396
-                  ]
-            },
-            {
-                  "name": "Canal Saint-Denis",
-                  "text": "Voie navigable reliant le canal de l'Ourcq à la Seine, offrant des parcours agréables pour la marche et le vélo.",
-                  "category": "recreational",
-                  "coords": [
-                        2.380179,
-                        48.898978
                   ]
             }
       ]
@@ -22564,16 +18997,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Théâtre Jean-Vilar",
-                  "text": "Das wichtigste Kulturzentrum der Stadt, das ein breites Spektrum an Theaterstücken und künstlerischen Events bietet.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.20188,
-                        48.8633
-                  ]
-            },
-            {
                   "name": "Château du Marais",
                   "text": "Ein historisches Herrenhaus, das das architektonische Erbe und die bürgerliche Geschichte von Argenteuil repräsentiert.",
                   "category": "historical",
@@ -22584,210 +19007,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac Marchais",
-                  "text": "Ein ruhiges Gewässer in Argenteuil, das zur Erholung im Freien einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        2.341997,
-                        48.981484
-                  ]
-            },
-            {
-                  "name": "Bassin Saint-Prix Aval",
-                  "text": "Dieses Becken in Argenteuil ist ein ruhiger Ort in der lokalen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        2.263089,
-                        49.002898
-                  ]
-            },
-            {
-                  "name": "Robert Thomas",
-                  "text": "Ein Gewässer in Argenteuil, das eine friedliche Atmosphäre ausstrahlt.",
-                  "category": "natural",
-                  "coords": [
-                        2.266442,
-                        49.00425
-                  ]
-            },
-            {
-                  "name": "Bassin de Boissy",
-                  "text": "Ein stilles Wasserbecken in Argenteuil, ideal für einen Moment der Ruhe.",
-                  "category": "natural",
-                  "coords": [
-                        2.211248,
-                        49.004071
-                  ]
-            },
-            {
-                  "name": "Lac du Nord",
-                  "text": "Der Lac du Nord in Argenteuil bietet eine entspannte Umgebung für Spaziergänge in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        2.294171,
-                        48.976249
-                  ]
-            },
-            {
-                  "name": "Lac d'Enghien",
-                  "text": "Der Lac d'Enghien bei Argenteuil ist ein malerischer See, der sich ideal für erholsame Spaziergänge eignet.",
-                  "category": "natural",
-                  "coords": [
-                        2.298733,
-                        48.970997
-                  ]
-            },
-            {
-                  "name": "Bassin des Moulinets",
-                  "text": "Das Bassin des Moulinets in Argenteuil ist ein ruhiges Gewässer, das zum Verweilen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        2.282199,
-                        48.999795
-                  ]
-            },
-            {
-                  "name": "Square des Fontaines",
-                  "text": "Der Square des Fontaines in Argenteuil ist ein schöner Spielplatz für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        2.231517,
-                        48.979519
-                  ]
-            },
-            {
-                  "name": "Laser Game",
-                  "text": "Das Laser Game in Argenteuil bietet spannende Unterhaltung für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        2.27269,
-                        48.927655
-                  ]
-            },
-            {
-                  "name": "Parc de L’araignée",
-                  "text": "Der Parc de L’araignée in Argenteuil ist ein beliebter Treffpunkt mit Spielgeräten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        2.252147,
-                        48.979958
-                  ]
-            },
-            {
-                  "name": "Parc de l'Arraignée",
-                  "text": "Der Parc de l'Arraignée in Argenteuil lädt Familien zum Spielen und Verweilen im Freien ein.",
-                  "category": "family",
-                  "coords": [
-                        2.250969,
-                        48.979787
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "Laser Game Evolution in Argenteuil ist ein modernes Freizeitzentrum für actionreiche Familienausflüge.",
-                  "category": "family",
-                  "coords": [
-                        2.247593,
-                        48.922119
-                  ]
-            },
-            {
-                  "name": "Square des Crédos",
-                  "text": "Der Square des Crédos in Argenteuil bietet einen sicheren Bereich zum Spielen für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        2.298587,
-                        48.955124
-                  ]
-            },
-            {
-                  "name": "Square Fontaine Bertin",
-                  "text": "Der Square Fontaine Bertin in Argenteuil ist ein kleiner Stadtpark mit Spielmöglichkeiten.",
-                  "category": "family",
-                  "coords": [
-                        2.232145,
-                        48.981081
-                  ]
-            },
-            {
-                  "name": "Ecopark",
-                  "text": "Ecopark in Argenteuil ist ein familienfreundlicher Ort für Spiel und Spaß im Freien.",
-                  "category": "family",
-                  "coords": [
-                        2.231441,
-                        48.970468
-                  ]
-            },
-            {
-                  "name": "École Alphonse Daudet",
-                  "text": "Der Spielplatz bei der École Alphonse Daudet in Argenteuil bietet Kindern Platz zum Austoben.",
-                  "category": "family",
-                  "coords": [
-                        2.24953,
-                        48.980342
-                  ]
-            },
-            {
                   "name": "Burger King Play King",
                   "text": "Der Burger King Play King in Argenteuil ist ein Spielbereich für kleine Gäste.",
                   "category": "family",
                   "coords": [
                         2.259763,
                         48.961382
-                  ]
-            },
-            {
-                  "name": "Fermes de Gally - Ferme pédagogique",
-                  "text": "Dieser pädagogische Bauernhof in Argenteuil bietet Familien die Möglichkeit, mit Bauernhoftieren zu interagieren und etwas über die Landwirtschaft zu lernen.",
-                  "category": "family",
-                  "coords": [
-                        2.188933,
-                        48.941095
-                  ]
-            },
-            {
-                  "name": "Parkids",
-                  "text": "Parkids in Argenteuil ist ein Indoor-Freizeitbereich, der für die Unterhaltung von Kindern und das Familienspiel konzipiert wurde.",
-                  "category": "family",
-                  "coords": [
-                        2.197093,
-                        48.94943
-                  ]
-            },
-            {
-                  "name": "Calicéo",
-                  "text": "Calicéo in Argenteuil verfügt über Thermalbecken und Wellnesseinrichtungen, die für die Entspannung der Familie geeignet sind.",
-                  "category": "family",
-                  "coords": [
-                        2.191897,
-                        48.954321
-                  ]
-            },
-            {
-                  "name": "Espace aquatique",
-                  "text": "Dieser Wasserbereich in Argenteuil bietet verschiedene Becken und Wasseraktivitäten für einen Familienausflug.",
-                  "category": "family",
-                  "coords": [
-                        2.191299,
-                        48.960673
-                  ]
-            },
-            {
-                  "name": "Allée couverte des Déserts",
-                  "text": "Die Allée couverte des Déserts ist ein prähistorisches Megalithgrab in Argenteuil. Es ist eine bemerkenswerte archäologische Stätte, die von der alten menschlichen Besiedlung der Region zeugt.",
-                  "category": "historical",
-                  "coords": [
-                        2.282716,
-                        48.952246
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Marie-Madeleine",
-                  "text": "Die Église Sainte-Marie-Madeleine ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
-                  "category": "religious",
-                  "coords": [
-                        2.296704,
-                        48.93341
                   ]
             },
             {
@@ -22842,15 +19067,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.257096,
                         48.944126
-                  ]
-            },
-            {
-                  "name": "Château du Maréchal de Catinat",
-                  "text": "Das Château du Maréchal de Catinat ist ein historisches Schloss in Argenteuil. Es spiegelt das architektonische Erbe und die historische Bedeutung der Region wider.",
-                  "category": "castle",
-                  "coords": [
-                        2.28445,
-                        48.971156
                   ]
             },
             {
@@ -22978,15 +19194,6 @@ const citySeeds: CitySeed[] = [
                         2.20657,
                         48.937469
                   ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Die Église Saint-Martin ist eine bedeutende Gebetsstätte in Argenteuil. Sie dient als friedlicher spiritueller Ort für die lokale Gemeinschaft und Besucher.",
-                  "category": "religious",
-                  "coords": [
-                        2.215468,
-                        48.92676
-                  ]
             }
       ],
       "hu": [
@@ -23111,16 +19318,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jean Vilar Színház",
-                  "text": "A város fő kulturális helyszíne, amely színházi előadásoknak és változatos művészeti eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.20188,
-                        48.8633
-                  ]
-            },
-            {
                   "name": "Château du Marais",
                   "text": "Történelmi rezidencia és egykori kúria, amely a város építészeti örökségét és polgári múltját képviseli.",
                   "category": "historical",
@@ -23131,210 +19328,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac Marchais",
-                  "text": "Egy nyugodt vízfelület Argenteuil-ben, amely szabadtéri kikapcsolódásra hív.",
-                  "category": "natural",
-                  "coords": [
-                        2.341997,
-                        48.981484
-                  ]
-            },
-            {
-                  "name": "Bassin Saint-Prix Aval",
-                  "text": "Ez az argenteuil-i medence egy nyugodt pont a helyi környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        2.263089,
-                        49.002898
-                  ]
-            },
-            {
-                  "name": "Robert Thomas",
-                  "text": "Egy vízfelület Argenteuil-ben, amely békés hangulatot áraszt.",
-                  "category": "natural",
-                  "coords": [
-                        2.266442,
-                        49.00425
-                  ]
-            },
-            {
-                  "name": "Bassin de Boissy",
-                  "text": "Egy csendes víztározó Argenteuil-ben, ideális egy pillanatnyi nyugalomhoz.",
-                  "category": "natural",
-                  "coords": [
-                        2.211248,
-                        49.004071
-                  ]
-            },
-            {
-                  "name": "Lac du Nord",
-                  "text": "Az argenteuili Lac du Nord nyugodt környezetet kínál a természetközeli sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        2.294171,
-                        48.976249
-                  ]
-            },
-            {
-                  "name": "Lac d'Enghien",
-                  "text": "Az Argenteuil melletti Lac d'Enghien egy festői tó, amely ideális a pihentető sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        2.298733,
-                        48.970997
-                  ]
-            },
-            {
-                  "name": "Bassin des Moulinets",
-                  "text": "Az argenteuili Bassin des Moulinets egy csendes vízfelület, amely hívogat a kikapcsolódásra.",
-                  "category": "natural",
-                  "coords": [
-                        2.282199,
-                        48.999795
-                  ]
-            },
-            {
-                  "name": "Square des Fontaines",
-                  "text": "Az argenteuili Square des Fontaines egy kedves játszótér a gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        2.231517,
-                        48.979519
-                  ]
-            },
-            {
-                  "name": "Laser Game",
-                  "text": "Az argenteuili Laser Game izgalmas szórakozást nyújt az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        2.27269,
-                        48.927655
-                  ]
-            },
-            {
-                  "name": "Parc de L’araignée",
-                  "text": "Az argenteuili Parc de L’araignée egy népszerű találkozóhely játékokkal a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        2.252147,
-                        48.979958
-                  ]
-            },
-            {
-                  "name": "Parc de l'Arraignée",
-                  "text": "Az argenteuili Parc de l'Arraignée szabadtéri játékra és pihenésre hívja a családokat.",
-                  "category": "family",
-                  "coords": [
-                        2.250969,
-                        48.979787
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "Az argenteuili Laser Game Evolution egy modern szabadidőközpont akciódús családi kirándulásokhoz.",
-                  "category": "family",
-                  "coords": [
-                        2.247593,
-                        48.922119
-                  ]
-            },
-            {
-                  "name": "Square des Crédos",
-                  "text": "Az argenteuili Square des Crédos biztonságos területet kínál a gyerekek játékához.",
-                  "category": "family",
-                  "coords": [
-                        2.298587,
-                        48.955124
-                  ]
-            },
-            {
-                  "name": "Square Fontaine Bertin",
-                  "text": "Az argenteuili Square Fontaine Bertin egy kis városi park játéklehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        2.232145,
-                        48.981081
-                  ]
-            },
-            {
-                  "name": "Ecopark",
-                  "text": "Az argenteuili Ecopark egy családbarát hely a szabadtéri játékhoz és szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        2.231441,
-                        48.970468
-                  ]
-            },
-            {
-                  "name": "École Alphonse Daudet",
-                  "text": "Az argenteuili École Alphonse Daudet melletti játszótér teret biztosít a gyerekeknek a mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        2.24953,
-                        48.980342
-                  ]
-            },
-            {
                   "name": "Burger King Play King",
                   "text": "Az argenteuili Burger King Play King egy játszórész a kis vendégek számára.",
                   "category": "family",
                   "coords": [
                         2.259763,
                         48.961382
-                  ]
-            },
-            {
-                  "name": "Fermes de Gally - Ferme pédagogique",
-                  "text": "Ez az argenteuili oktatófarm lehetőséget kínál a családoknak, hogy haszonállatokkal ismerkedjenek és tanuljanak a mezőgazdaságról.",
-                  "category": "family",
-                  "coords": [
-                        2.188933,
-                        48.941095
-                  ]
-            },
-            {
-                  "name": "Parkids",
-                  "text": "Az argenteuili Parkids egy beltéri szabadidős központ, amelyet gyermekek szórakoztatására és családi játékra terveztek.",
-                  "category": "family",
-                  "coords": [
-                        2.197093,
-                        48.94943
-                  ]
-            },
-            {
-                  "name": "Calicéo",
-                  "text": "Az argenteuili Calicéo termálmedencékkel és wellness-létesítményekkel várja a családi kikapcsolódást.",
-                  "category": "family",
-                  "coords": [
-                        2.191897,
-                        48.954321
-                  ]
-            },
-            {
-                  "name": "Espace aquatique",
-                  "text": "Ez az argenteuili vízi központ különféle medencéket és vízi tevékenységeket kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        2.191299,
-                        48.960673
-                  ]
-            },
-            {
-                  "name": "Allée couverte des Déserts",
-                  "text": "Az Allée couverte des Déserts egy őskori megalitikus sír Argenteuil területén. Figyelemre méltó régészeti lelőhely, amely a környék ősi emberi jelenlétéről tanúskodik.",
-                  "category": "historical",
-                  "coords": [
-                        2.282716,
-                        48.952246
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Marie-Madeleine",
-                  "text": "A Église Sainte-Marie-Madeleine egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
-                  "category": "religious",
-                  "coords": [
-                        2.296704,
-                        48.93341
                   ]
             },
             {
@@ -23389,15 +19388,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.257096,
                         48.944126
-                  ]
-            },
-            {
-                  "name": "Château du Maréchal de Catinat",
-                  "text": "A Château du Maréchal de Catinat egy történelmi kastély Argenteuil területén. Tükrözi a régió építészeti örökségét és történelmi jelentőségét.",
-                  "category": "castle",
-                  "coords": [
-                        2.28445,
-                        48.971156
                   ]
             },
             {
@@ -23525,15 +19515,6 @@ const citySeeds: CitySeed[] = [
                         2.20657,
                         48.937469
                   ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "A Église Saint-Martin egy jelentős vallási helyszín Argenteuil területén. Békés spirituális helyként szolgál a helyi közösség és a látogatók számára.",
-                  "category": "religious",
-                  "coords": [
-                        2.215468,
-                        48.92676
-                  ]
             }
       ],
       "ro": [
@@ -23658,16 +19639,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Teatrul Jean Vilar",
-                  "text": "Principalul spațiu cultural al orașului, găzduind numeroase spectacole de teatru și evenimente artistice.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        2.20188,
-                        48.8633
-                  ]
-            },
-            {
                   "name": "Castelul Marais",
                   "text": "Reședință istorică și fost conac ce reprezintă moștenirea arhitecturală și istoria locală a orașului.",
                   "category": "historical",
@@ -23678,210 +19649,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac Marchais",
-                  "text": "Un corp de apă liniștit în Argenteuil, care invită la recreere în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        2.341997,
-                        48.981484
-                  ]
-            },
-            {
-                  "name": "Bassin Saint-Prix Aval",
-                  "text": "Acest bazin din Argenteuil este un loc liniștit în mediul local.",
-                  "category": "natural",
-                  "coords": [
-                        2.263089,
-                        49.002898
-                  ]
-            },
-            {
-                  "name": "Robert Thomas",
-                  "text": "Un corp de apă în Argenteuil, care emană o atmosferă pașnică.",
-                  "category": "natural",
-                  "coords": [
-                        2.266442,
-                        49.00425
-                  ]
-            },
-            {
-                  "name": "Bassin de Boissy",
-                  "text": "Un bazin de apă liniștit în Argenteuil, ideal pentru un moment de liniște.",
-                  "category": "natural",
-                  "coords": [
-                        2.211248,
-                        49.004071
-                  ]
-            },
-            {
-                  "name": "Lac du Nord",
-                  "text": "Lac du Nord din Argenteuil oferă un cadru relaxant pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        2.294171,
-                        48.976249
-                  ]
-            },
-            {
-                  "name": "Lac d'Enghien",
-                  "text": "Lac d'Enghien de lângă Argenteuil este un lac pitoresc, ideal pentru plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        2.298733,
-                        48.970997
-                  ]
-            },
-            {
-                  "name": "Bassin des Moulinets",
-                  "text": "Bassin des Moulinets din Argenteuil este o întindere de apă liniștită care invită la relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        2.282199,
-                        48.999795
-                  ]
-            },
-            {
-                  "name": "Square des Fontaines",
-                  "text": "Square des Fontaines din Argenteuil este un loc de joacă frumos pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        2.231517,
-                        48.979519
-                  ]
-            },
-            {
-                  "name": "Laser Game",
-                  "text": "Laser Game din Argenteuil oferă divertisment captivant pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        2.27269,
-                        48.927655
-                  ]
-            },
-            {
-                  "name": "Parc de L’araignée",
-                  "text": "Parc de L’araignée din Argenteuil este un punct de întâlnire popular, cu echipamente de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        2.252147,
-                        48.979958
-                  ]
-            },
-            {
-                  "name": "Parc de l'Arraignée",
-                  "text": "Parc de l'Arraignée din Argenteuil invită familiile la joacă și relaxare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        2.250969,
-                        48.979787
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "Laser Game Evolution din Argenteuil este un centru modern de recreere pentru ieșiri pline de acțiune în familie.",
-                  "category": "family",
-                  "coords": [
-                        2.247593,
-                        48.922119
-                  ]
-            },
-            {
-                  "name": "Square des Crédos",
-                  "text": "Square des Crédos din Argenteuil oferă o zonă sigură pentru joaca copiilor.",
-                  "category": "family",
-                  "coords": [
-                        2.298587,
-                        48.955124
-                  ]
-            },
-            {
-                  "name": "Square Fontaine Bertin",
-                  "text": "Square Fontaine Bertin din Argenteuil este un mic parc urban cu facilități de joacă.",
-                  "category": "family",
-                  "coords": [
-                        2.232145,
-                        48.981081
-                  ]
-            },
-            {
-                  "name": "Ecopark",
-                  "text": "Ecopark din Argenteuil este un loc prietenos pentru familii, destinat jocului și distracției în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        2.231441,
-                        48.970468
-                  ]
-            },
-            {
-                  "name": "École Alphonse Daudet",
-                  "text": "Locul de joacă de la École Alphonse Daudet din Argenteuil oferă copiilor spațiu pentru mișcare.",
-                  "category": "family",
-                  "coords": [
-                        2.24953,
-                        48.980342
-                  ]
-            },
-            {
                   "name": "Burger King Play King",
                   "text": "Burger King Play King din Argenteuil este o zonă de joacă pentru micii oaspeți.",
                   "category": "family",
                   "coords": [
                         2.259763,
                         48.961382
-                  ]
-            },
-            {
-                  "name": "Fermes de Gally - Ferme pédagogique",
-                  "text": "Această fermă educațională din Argenteuil oferă familiilor șansa de a interacționa cu animalele de fermă și de a învăța despre agricultură.",
-                  "category": "family",
-                  "coords": [
-                        2.188933,
-                        48.941095
-                  ]
-            },
-            {
-                  "name": "Parkids",
-                  "text": "Parkids din Argenteuil este un spațiu de agrement interior conceput pentru divertismentul copiilor și joaca în familie.",
-                  "category": "family",
-                  "coords": [
-                        2.197093,
-                        48.94943
-                  ]
-            },
-            {
-                  "name": "Calicéo",
-                  "text": "Calicéo din Argenteuil are piscine termale și facilități de wellness potrivite pentru relaxarea familiei.",
-                  "category": "family",
-                  "coords": [
-                        2.191897,
-                        48.954321
-                  ]
-            },
-            {
-                  "name": "Espace aquatique",
-                  "text": "Acest spațiu acvatic din Argenteuil oferă diverse piscine și activități acvatice pentru o vizită în familie.",
-                  "category": "family",
-                  "coords": [
-                        2.191299,
-                        48.960673
-                  ]
-            },
-            {
-                  "name": "Allée couverte des Déserts",
-                  "text": "Allée couverte des Déserts este un mormânt megalitic preistoric situat în Argenteuil. Este un sit arheologic remarcabil care atestă ocuparea umană antică a zonei.",
-                  "category": "historical",
-                  "coords": [
-                        2.282716,
-                        48.952246
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Marie-Madeleine",
-                  "text": "Biserica Église Sainte-Marie-Madeleine este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
-                  "category": "religious",
-                  "coords": [
-                        2.296704,
-                        48.93341
                   ]
             },
             {
@@ -23936,15 +19709,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.257096,
                         48.944126
-                  ]
-            },
-            {
-                  "name": "Château du Maréchal de Catinat",
-                  "text": "Castelul Château du Maréchal de Catinat este o fortăreață istorică situată în Argenteuil. Acesta reflectă moștenirea arhitecturală și semnificația istorică a regiunii.",
-                  "category": "castle",
-                  "coords": [
-                        2.28445,
-                        48.971156
                   ]
             },
             {
@@ -24071,15 +19835,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.20657,
                         48.937469
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Biserica Église Saint-Martin este un lăcaș de cult notabil situat în Argenteuil. Aceasta servește ca un loc spiritual liniștit pentru comunitatea locală și vizitatori.",
-                  "category": "religious",
-                  "coords": [
-                        2.215468,
-                        48.92676
                   ]
             }
       ],
@@ -24225,210 +19980,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac Marchais",
-                  "text": "A peaceful body of water in Argenteuil, inviting outdoor recreation.",
-                  "category": "natural",
-                  "coords": [
-                        2.341997,
-                        48.981484
-                  ]
-            },
-            {
-                  "name": "Bassin Saint-Prix Aval",
-                  "text": "This basin in Argenteuil is a quiet spot in the local environment.",
-                  "category": "natural",
-                  "coords": [
-                        2.263089,
-                        49.002898
-                  ]
-            },
-            {
-                  "name": "Robert Thomas",
-                  "text": "A body of water in Argenteuil that radiates a peaceful atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        2.266442,
-                        49.00425
-                  ]
-            },
-            {
-                  "name": "Bassin de Boissy",
-                  "text": "A quiet water basin in Argenteuil, ideal for a moment of peace.",
-                  "category": "natural",
-                  "coords": [
-                        2.211248,
-                        49.004071
-                  ]
-            },
-            {
-                  "name": "Lac du Nord",
-                  "text": "Lac du Nord in Argenteuil offers a relaxing setting for scenic walks.",
-                  "category": "natural",
-                  "coords": [
-                        2.294171,
-                        48.976249
-                  ]
-            },
-            {
-                  "name": "Lac d'Enghien",
-                  "text": "Lac d'Enghien near Argenteuil is a picturesque lake, ideal for relaxing walks.",
-                  "category": "natural",
-                  "coords": [
-                        2.298733,
-                        48.970997
-                  ]
-            },
-            {
-                  "name": "Bassin des Moulinets",
-                  "text": "The Bassin des Moulinets in Argenteuil is a quiet body of water that invites relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        2.282199,
-                        48.999795
-                  ]
-            },
-            {
-                  "name": "Square des Fontaines",
-                  "text": "Square des Fontaines in Argenteuil is a lovely playground for children.",
-                  "category": "family",
-                  "coords": [
-                        2.231517,
-                        48.979519
-                  ]
-            },
-            {
-                  "name": "Laser Game",
-                  "text": "Laser Game in Argenteuil offers exciting entertainment for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        2.27269,
-                        48.927655
-                  ]
-            },
-            {
-                  "name": "Parc de L’araignée",
-                  "text": "Parc de L’araignée in Argenteuil is a popular meeting spot with play equipment for children.",
-                  "category": "family",
-                  "coords": [
-                        2.252147,
-                        48.979958
-                  ]
-            },
-            {
-                  "name": "Parc de l'Arraignée",
-                  "text": "Parc de l'Arraignée in Argenteuil invites families to play and relax outdoors.",
-                  "category": "family",
-                  "coords": [
-                        2.250969,
-                        48.979787
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "Laser Game Evolution in Argenteuil is a modern leisure center for action-packed family outings.",
-                  "category": "family",
-                  "coords": [
-                        2.247593,
-                        48.922119
-                  ]
-            },
-            {
-                  "name": "Square des Crédos",
-                  "text": "Square des Crédos in Argenteuil offers a safe area for children to play.",
-                  "category": "family",
-                  "coords": [
-                        2.298587,
-                        48.955124
-                  ]
-            },
-            {
-                  "name": "Square Fontaine Bertin",
-                  "text": "Square Fontaine Bertin in Argenteuil is a small urban park with play facilities.",
-                  "category": "family",
-                  "coords": [
-                        2.232145,
-                        48.981081
-                  ]
-            },
-            {
-                  "name": "Ecopark",
-                  "text": "Ecopark in Argenteuil is a family-friendly spot for outdoor play and fun.",
-                  "category": "family",
-                  "coords": [
-                        2.231441,
-                        48.970468
-                  ]
-            },
-            {
-                  "name": "École Alphonse Daudet",
-                  "text": "The playground at École Alphonse Daudet in Argenteuil offers children space to run and play.",
-                  "category": "family",
-                  "coords": [
-                        2.24953,
-                        48.980342
-                  ]
-            },
-            {
                   "name": "Burger King Play King",
                   "text": "The Burger King Play King in Argenteuil is a play area for young guests.",
                   "category": "family",
                   "coords": [
                         2.259763,
                         48.961382
-                  ]
-            },
-            {
-                  "name": "Fermes de Gally - Ferme pédagogique",
-                  "text": "This educational farm in Argenteuil offers families a chance to interact with farm animals and learn about agriculture.",
-                  "category": "family",
-                  "coords": [
-                        2.188933,
-                        48.941095
-                  ]
-            },
-            {
-                  "name": "Parkids",
-                  "text": "Parkids in Argenteuil is an indoor leisure space designed for children's entertainment and family play.",
-                  "category": "family",
-                  "coords": [
-                        2.197093,
-                        48.94943
-                  ]
-            },
-            {
-                  "name": "Calicéo",
-                  "text": "Calicéo in Argenteuil features thermal pools and wellness facilities suitable for family relaxation.",
-                  "category": "family",
-                  "coords": [
-                        2.191897,
-                        48.954321
-                  ]
-            },
-            {
-                  "name": "Espace aquatique",
-                  "text": "This aquatic space in Argenteuil offers various pools and water activities for a family visit.",
-                  "category": "family",
-                  "coords": [
-                        2.191299,
-                        48.960673
-                  ]
-            },
-            {
-                  "name": "Allée couverte des Déserts",
-                  "text": "The Allée couverte des Déserts is a prehistoric megalithic tomb located in Argenteuil. It is a remarkable archaeological site testifying to the ancient human occupation of the area.",
-                  "category": "historical",
-                  "coords": [
-                        2.282716,
-                        48.952246
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Marie-Madeleine",
-                  "text": "The Église Sainte-Marie-Madeleine is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
-                  "category": "religious",
-                  "coords": [
-                        2.296704,
-                        48.93341
                   ]
             },
             {
@@ -24483,15 +20040,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.257096,
                         48.944126
-                  ]
-            },
-            {
-                  "name": "Château du Maréchal de Catinat",
-                  "text": "The Château du Maréchal de Catinat is a historic castle located in Argenteuil. It reflects the architectural heritage and historical significance of the region.",
-                  "category": "castle",
-                  "coords": [
-                        2.28445,
-                        48.971156
                   ]
             },
             {
@@ -24618,15 +20166,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.20657,
                         48.937469
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "The Église Saint-Martin is a notable place of worship located in Argenteuil. It serves as a peaceful spiritual site for the local community and visitors.",
-                  "category": "religious",
-                  "coords": [
-                        2.215468,
-                        48.92676
                   ]
             }
       ],
@@ -24854,33 +20393,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Eva Troyes",
-                  "text": "Eine moderne Spielhalle in Troyes mit abwechslungsreicher Unterhaltung.",
-                  "category": "family",
-                  "coords": [
-                        4.085691,
-                        48.276052
-                  ]
-            },
-            {
-                  "name": "Jeux d'eaux",
-                  "text": "Ein Wasserspielplatz in Troyes für Abkühlung und Spielspaß.",
-                  "category": "family",
-                  "coords": [
-                        4.09416,
-                        48.285753
-                  ]
-            },
-            {
-                  "name": "Pavillon Exotique",
-                  "text": "Der Pavillon Exotique in Troyes ist ein Zoo, der Familien mit exotischen Tieren begeistert.",
-                  "category": "family",
-                  "coords": [
-                        4.068882,
-                        48.318938
-                  ]
-            },
-            {
                   "name": "Le Cube",
                   "text": "Ein modernes Theater und Veranstaltungszentrum in Troyes für zeitgenössische Kunstaufführungen.",
                   "category": "cultural",
@@ -25064,33 +20576,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.078777,
                         48.28748
-                  ]
-            },
-            {
-                  "name": "Eva Troyes",
-                  "text": "Egy modern játékterem Troyes-ban változatos szórakozási lehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        4.085691,
-                        48.276052
-                  ]
-            },
-            {
-                  "name": "Jeux d'eaux",
-                  "text": "Vízi játszótér Troyes-ban a hűsöléshez és játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        4.09416,
-                        48.285753
-                  ]
-            },
-            {
-                  "name": "Pavillon Exotique",
-                  "text": "A troyes-i Pavillon Exotique egy állatkert, amely egzotikus állatokkal kápráztatja el a családokat.",
-                  "category": "family",
-                  "coords": [
-                        4.068882,
-                        48.318938
                   ]
             },
             {
@@ -25280,33 +20765,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Eva Troyes",
-                  "text": "O sală de jocuri modernă în Troyes cu divertisment variat.",
-                  "category": "family",
-                  "coords": [
-                        4.085691,
-                        48.276052
-                  ]
-            },
-            {
-                  "name": "Jeux d'eaux",
-                  "text": "Un loc de joacă cu apă în Troyes pentru răcorire și distracție.",
-                  "category": "family",
-                  "coords": [
-                        4.09416,
-                        48.285753
-                  ]
-            },
-            {
-                  "name": "Pavillon Exotique",
-                  "text": "Pavillon Exotique din Troyes este o grădină zoologică care încântă familiile cu animale exotice.",
-                  "category": "family",
-                  "coords": [
-                        4.068882,
-                        48.318938
-                  ]
-            },
-            {
                   "name": "Le Cube",
                   "text": "Un teatru și centru de evenimente modern din Troyes, destinat spectacolelor de artă contemporană.",
                   "category": "cultural",
@@ -25490,33 +20948,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.078777,
                         48.28748
-                  ]
-            },
-            {
-                  "name": "Eva Troyes",
-                  "text": "A modern amusement arcade in Troyes with varied entertainment.",
-                  "category": "family",
-                  "coords": [
-                        4.085691,
-                        48.276052
-                  ]
-            },
-            {
-                  "name": "Jeux d'eaux",
-                  "text": "A water playground in Troyes for cooling off and fun.",
-                  "category": "family",
-                  "coords": [
-                        4.09416,
-                        48.285753
-                  ]
-            },
-            {
-                  "name": "Pavillon Exotique",
-                  "text": "The Pavillon Exotique in Troyes is a zoo that delights families with exotic animals.",
-                  "category": "family",
-                  "coords": [
-                        4.068882,
-                        48.318938
                   ]
             },
             {
@@ -25791,39 +21222,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Le Gouffre d'Enfer",
-                  "text": "Ein eindrucksvoller Stausee bei Saint Etienne in einer wilden Naturlandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        4.446941,
-                        45.391604
-                  ]
-            },
-            {
                   "name": "Barrage de l'Ondenon",
                   "text": "Ein ruhig gelegener See in Saint Etienne, ideal für Wanderungen am Wasser.",
                   "category": "natural",
                   "coords": [
                         4.389122,
                         45.394855
-                  ]
-            },
-            {
-                  "name": "Bassin Carrot",
-                  "text": "Ein kleines Gewässer in Saint Etienne für ruhige Momente im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        4.344353,
-                        45.397085
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux du Clos Bayard",
-                  "text": "Ein gepflegter Spielplatz in Saint Etienne für sicheres Spielen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        4.37855,
-                        45.470583
                   ]
             },
             {
@@ -26132,39 +21536,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Le Gouffre d'Enfer",
-                  "text": "Lenyűgöző víztározó Saint Etienne közelében, vadregényes természeti környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        4.446941,
-                        45.391604
-                  ]
-            },
-            {
                   "name": "Barrage de l'Ondenon",
                   "text": "Csendes fekvésű tó Saint Etienne-ben, amely ideális vízparti túrákhoz.",
                   "category": "natural",
                   "coords": [
                         4.389122,
                         45.394855
-                  ]
-            },
-            {
-                  "name": "Bassin Carrot",
-                  "text": "Kicsi vízfelület Saint Etienne-ben a nyugodt szabadtéri pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.344353,
-                        45.397085
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux du Clos Bayard",
-                  "text": "Gondozott játszótér Saint Etienne-ben a biztonságos szabadtéri játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        4.37855,
-                        45.470583
                   ]
             },
             {
@@ -26473,39 +21850,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Le Gouffre d'Enfer",
-                  "text": "Un baraj impresionant lângă Saint Etienne, într-un peisaj natural sălbatic.",
-                  "category": "natural",
-                  "coords": [
-                        4.446941,
-                        45.391604
-                  ]
-            },
-            {
                   "name": "Barrage de l'Ondenon",
                   "text": "Un lac situat liniștit în Saint Etienne, ideal pentru drumeții pe malul apei.",
                   "category": "natural",
                   "coords": [
                         4.389122,
                         45.394855
-                  ]
-            },
-            {
-                  "name": "Bassin Carrot",
-                  "text": "Un mic bazin de apă în Saint Etienne pentru momente liniștite în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        4.344353,
-                        45.397085
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux du Clos Bayard",
-                  "text": "Un loc de joacă bine întreținut în Saint Etienne pentru joacă sigură în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        4.37855,
-                        45.470583
                   ]
             },
             {
@@ -26814,39 +22164,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Le Gouffre d'Enfer",
-                  "text": "An impressive reservoir near Saint Etienne in a wild natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        4.446941,
-                        45.391604
-                  ]
-            },
-            {
                   "name": "Barrage de l'Ondenon",
                   "text": "A quietly located lake in Saint Etienne, ideal for lakeside hikes.",
                   "category": "natural",
                   "coords": [
                         4.389122,
                         45.394855
-                  ]
-            },
-            {
-                  "name": "Bassin Carrot",
-                  "text": "A small body of water in Saint Etienne for quiet moments outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        4.344353,
-                        45.397085
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux du Clos Bayard",
-                  "text": "A well-kept playground in Saint Etienne for safe outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        4.37855,
-                        45.470583
                   ]
             },
             {
@@ -28079,16 +23402,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Port de l'Épervière",
-                  "text": "Der größte Binnenhafen Frankreichs am Ufer der Rhône, ideal für Spaziergänge und nautische Aktivitäten.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        4.87361,
-                        44.9139
-                  ]
-            },
-            {
                   "name": "Gare de Valence-Ville",
                   "text": "Ein eleganter Bahnhof mit einer Fassade aus dem 19. Jahrhundert, inspiriert von der Pariser Gare de l'Est.",
                   "category": "station",
@@ -28166,15 +23479,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Laser Game Evolution",
-                  "text": "Eine Spielhalle in Valence mit interaktiven Erlebnissen.",
-                  "category": "family",
-                  "coords": [
-                        4.889483,
-                        44.954833
-                  ]
-            },
-            {
                   "name": "Trampoline Park You Jump",
                   "text": "Ein Trampolinpark in Valence für sportliche Action und Sprungspaß.",
                   "category": "family",
@@ -28193,15 +23497,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Minigolf",
-                  "text": "Ein Minigolfplatz in Valence für ein geselliges Erlebnis mit der Familie.",
-                  "category": "family",
-                  "coords": [
-                        4.908235,
-                        44.950713
-                  ]
-            },
-            {
                   "name": "Ninja Land",
                   "text": "Ninja Land in Valence ist ein aufregender Freizeitpark für die ganze Familie.",
                   "category": "family",
@@ -28217,15 +23512,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.852401,
                         44.939225
-                  ]
-            },
-            {
-                  "name": "Chateau de Beauregard",
-                  "text": "Eine Schlossruine mit Blick auf das Rhône-Tal in der Nähe von Valence.",
-                  "category": "castle",
-                  "coords": [
-                        4.845576,
-                        44.94351
                   ]
             },
             {
@@ -28339,16 +23625,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Port de l'Épervière",
-                  "text": "Franciaország legnagyobb folyami kikötője a Rhone partján, amely sétákra és vízi sportokra is alkalmas.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        4.87361,
-                        44.9139
-                  ]
-            },
-            {
                   "name": "Gare de Valence-Ville",
                   "text": "Elegáns, 19. századi vasútállomás, amelynek homlokzatát a párizsi Gare de l'Est épülete ihlette.",
                   "category": "station",
@@ -28426,15 +23702,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Laser Game Evolution",
-                  "text": "Egy játékterem Valence-ben interaktív élményekkel.",
-                  "category": "family",
-                  "coords": [
-                        4.889483,
-                        44.954833
-                  ]
-            },
-            {
                   "name": "Trampoline Park You Jump",
                   "text": "Egy trambulinpark Valence-ben a sportos akcióhoz és az ugrálás öröméhez.",
                   "category": "family",
@@ -28453,15 +23720,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Minigolf",
-                  "text": "Egy minigolfpálya Valence-ben a közös családi élményért.",
-                  "category": "family",
-                  "coords": [
-                        4.908235,
-                        44.950713
-                  ]
-            },
-            {
                   "name": "Ninja Land",
                   "text": "A valence-i Ninja Land egy izgalmas vidámpark az egész család számára.",
                   "category": "family",
@@ -28477,15 +23735,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.852401,
                         44.939225
-                  ]
-            },
-            {
-                  "name": "Chateau de Beauregard",
-                  "text": "Egy várrom Valence közelében, ahonnan kilátás nyílik a Rhône völgyére.",
-                  "category": "castle",
-                  "coords": [
-                        4.845576,
-                        44.94351
                   ]
             },
             {
@@ -28599,16 +23848,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Port de l'Épervière",
-                  "text": "Cel mai mare port fluvial din Franța, situat pe malul Rhonului, ideal pentru plimbări și sporturi nautice.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        4.87361,
-                        44.9139
-                  ]
-            },
-            {
                   "name": "Gare de Valence-Ville",
                   "text": "O gară elegantă cu o fațadă din secolul al XIX-lea, inspirată de arhitectura gării Gare de l'Est din Paris.",
                   "category": "station",
@@ -28686,15 +23925,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Laser Game Evolution",
-                  "text": "O sală de jocuri în Valence cu experiențe interactive.",
-                  "category": "family",
-                  "coords": [
-                        4.889483,
-                        44.954833
-                  ]
-            },
-            {
                   "name": "Trampoline Park You Jump",
                   "text": "Un parc de trambuline în Valence pentru acțiune sportivă și distracție prin sărituri.",
                   "category": "family",
@@ -28713,15 +23943,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Minigolf",
-                  "text": "Un teren de minigolf în Valence pentru o experiență plăcută în familie.",
-                  "category": "family",
-                  "coords": [
-                        4.908235,
-                        44.950713
-                  ]
-            },
-            {
                   "name": "Ninja Land",
                   "text": "Ninja Land din Valence este un parc tematic captivant pentru întreaga familie.",
                   "category": "family",
@@ -28737,15 +23958,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.852401,
                         44.939225
-                  ]
-            },
-            {
-                  "name": "Chateau de Beauregard",
-                  "text": "O ruină de castel cu vedere la valea Ronului, situată lângă Valence.",
-                  "category": "castle",
-                  "coords": [
-                        4.845576,
-                        44.94351
                   ]
             },
             {
@@ -28859,16 +24071,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Port de l'Épervière",
-                  "text": "The largest river port in France, located on the banks of the Rhône, perfect for walks and water sports.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        4.87361,
-                        44.9139
-                  ]
-            },
-            {
                   "name": "Gare de Valence-Ville",
                   "text": "An elegant 19th-century railway station with a facade inspired by the Gare de l'Est in Paris.",
                   "category": "station",
@@ -28946,15 +24148,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Laser Game Evolution",
-                  "text": "An amusement arcade in Valence with interactive experiences.",
-                  "category": "family",
-                  "coords": [
-                        4.889483,
-                        44.954833
-                  ]
-            },
-            {
                   "name": "Trampoline Park You Jump",
                   "text": "A trampoline park in Valence for sporting action and jumping fun.",
                   "category": "family",
@@ -28973,15 +24166,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Minigolf",
-                  "text": "A miniature golf course in Valence for a social family experience.",
-                  "category": "family",
-                  "coords": [
-                        4.908235,
-                        44.950713
-                  ]
-            },
-            {
                   "name": "Ninja Land",
                   "text": "Ninja Land in Valence is an exciting theme park for the whole family.",
                   "category": "family",
@@ -28997,15 +24181,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.852401,
                         44.939225
-                  ]
-            },
-            {
-                  "name": "Chateau de Beauregard",
-                  "text": "A ruined castle overlooking the Rhône Valley near Valence.",
-                  "category": "castle",
-                  "coords": [
-                        4.845576,
-                        44.94351
                   ]
             },
             {
@@ -29151,16 +24326,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Les Charmettes",
-                  "text": "Das Landhaus, in dem der Philosoph Jean-Jacques Rousseau lebte, heute ein Museum in einer wunderschönen natürlichen Umgebung.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        5.929689,
-                        45.553239
-                  ]
-            },
-            {
                   "name": "Musée Savoisien",
                   "text": "Ein Museum in einem ehemaligen Franziskanerkloster, das sich der Geschichte und Kultur von Savoyen widmet.",
                   "category": "museum",
@@ -29210,16 +24375,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         5.923056,
                         45.565278
-                  ]
-            },
-            {
-                  "name": "Les Charmettes",
-                  "text": "Ebben a hangulatos vidéki házban élt Jean-Jacques Rousseau, ma emlékmúzeumként látogatható a város szélén.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        5.929689,
-                        45.553239
                   ]
             },
             {
@@ -29275,16 +24430,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Les Charmettes",
-                  "text": "Casa de la țară unde a locuit Jean-Jacques Rousseau între 1736 și 1742, acum un muzeu înconjurat de grădini.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        5.929689,
-                        45.553239
-                  ]
-            },
-            {
                   "name": "Musée Savoisien",
                   "text": "Găzduit într-o fostă mănăstire franciscană, muzeul prezintă bogata moștenire istorică și culturală a regiunii Savoia.",
                   "category": "museum",
@@ -29337,16 +24482,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Les Charmettes",
-                  "text": "The former country home of philosopher Jean-Jacques Rousseau, now a museum preserving his memory and surroundings.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        5.929689,
-                        45.553239
-                  ]
-            },
-            {
                   "name": "Musée Savoisien",
                   "text": "Set in a former Franciscan convent, this museum explores the rich history and folk art of the Savoy region.",
                   "category": "museum",
@@ -29393,15 +24528,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         5.923056,
                         45.565278
-                  ]
-            },
-            {
-                  "name": "Les Charmettes",
-                  "text": "Demeure où vécut le philosophe Jean-Jacques Rousseau, transformée en musée au sein d'un cadre naturel préservé.",
-                  "category": "historical",
-                  "coords": [
-                        5.929689,
-                        45.553239
                   ]
             },
             {
@@ -29621,15 +24747,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bio-Topia Dunkerque",
-                  "text": "Bio-Topia Dunkerque ist ein Wildpark, in dem Familien etwas über die Artenvielfalt lernen und verschiedene Tiere sehen können.",
-                  "category": "family",
-                  "coords": [
-                        2.309729,
-                        51.029878
-                  ]
-            },
-            {
                   "name": "Feu de Saint-Pol",
                   "text": "Ein markanter Leuchtturm im Art-déco-Stil im Hafen von Dünkirchen.",
                   "category": "landmark",
@@ -29825,15 +24942,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.38839,
                         51.049117
-                  ]
-            },
-            {
-                  "name": "Bio-Topia Dunkerque",
-                  "text": "A Bio-Topia Dunkerque egy vadaspark, ahol a családok tanulhatnak a biodiverzitásról és különféle állatokat láthatnak.",
-                  "category": "family",
-                  "coords": [
-                        2.309729,
-                        51.029878
                   ]
             },
             {
@@ -30035,15 +25143,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Bio-Topia Dunkerque",
-                  "text": "Bio-Topia Dunkerque este un parc cu animale sălbatice unde familiile pot învăța despre biodiversitate și pot vedea diverse animale.",
-                  "category": "family",
-                  "coords": [
-                        2.309729,
-                        51.029878
-                  ]
-            },
-            {
                   "name": "Feu de Saint-Pol",
                   "text": "Un far distinctiv în stil Art Deco în portul Dunkerque.",
                   "category": "landmark",
@@ -30239,15 +25338,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.38839,
                         51.049117
-                  ]
-            },
-            {
-                  "name": "Bio-Topia Dunkerque",
-                  "text": "Bio-Topia Dunkerque is a wildlife park where families can learn about biodiversity and see various animals.",
-                  "category": "family",
-                  "coords": [
-                        2.309729,
-                        51.029878
                   ]
             },
             {
@@ -30592,30 +25682,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Louis",
-                  "text": "Die Kirche Saint-Louis ist ein bedeutendes religiöses Bauwerk in der Stadt La Rochelle. Sie dient der örtlichen Gemeinde als Ort für Gottesdienste und stille Einkehr.",
-                  "category": "religious",
-                  "coords": [
-                        -1.117652,
-                        46.185604
-                  ]
-            },
-            {
                   "name": "Prieuré Notre-Dame-de-l'Assomption",
                   "text": "Das Prieuré Notre-Dame-de-l'Assomption ist ein historisches religiöses Anwesen in La Rochelle. Es zeugt von der langen kirchlichen Tradition und Geschichte der Hafenstadt.",
                   "category": "religious",
                   "coords": [
                         -1.15158,
                         46.189847
-                  ]
-            },
-            {
-                  "name": "Église Saint-Cybard",
-                  "text": "Die Kirche Saint-Cybard ist ein fester Bestandteil des religiösen Erbes von La Rochelle. Das Bauwerk bietet einen Raum für Gebete und ist ein lokales architektonisches Zeugnis.",
-                  "category": "religious",
-                  "coords": [
-                        -1.108217,
-                        46.151907
                   ]
             },
             {
@@ -30976,30 +26048,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Louis",
-                  "text": "A Saint-Louis-templom La Rochelle városának egyik jelentős vallási épülete. A helyi közösség számára az istentiszteletek és a csendes elvonulás helyszínéül szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -1.117652,
-                        46.185604
-                  ]
-            },
-            {
                   "name": "Prieuré Notre-Dame-de-l'Assomption",
                   "text": "A Prieuré Notre-Dame-de-l'Assomption egy történelmi vallási épületegyüttes La Rochelle-ben. Az épület a kikötőváros hosszú egyházi hagyományairól és történelméről tanúskodik.",
                   "category": "religious",
                   "coords": [
                         -1.15158,
                         46.189847
-                  ]
-            },
-            {
-                  "name": "Église Saint-Cybard",
-                  "text": "A Saint-Cybard-templom La Rochelle vallási örökségének szerves része. Az épület helyszínt biztosít az imádságnak, és a helyi építészet egyik fontos emléke.",
-                  "category": "religious",
-                  "coords": [
-                        -1.108217,
-                        46.151907
                   ]
             },
             {
@@ -31360,30 +26414,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Louis",
-                  "text": "Biserica Saint-Louis este un edificiu religios important din orașul La Rochelle. Aceasta servește comunității locale ca loc pentru slujbe și reculegere.",
-                  "category": "religious",
-                  "coords": [
-                        -1.117652,
-                        46.185604
-                  ]
-            },
-            {
                   "name": "Prieuré Notre-Dame-de-l'Assomption",
                   "text": "Prioratul Notre-Dame-de-l'Assomption este o proprietate religioasă istorică din La Rochelle. Acesta stă mărturie pentru lunga tradiție ecleziastică și istoria orașului portuar.",
                   "category": "religious",
                   "coords": [
                         -1.15158,
                         46.189847
-                  ]
-            },
-            {
-                  "name": "Église Saint-Cybard",
-                  "text": "Biserica Saint-Cybard este o parte integrantă a moștenirii religioase din La Rochelle. Edificiul oferă un spațiu pentru rugăciune și este o mărturie arhitecturală locală.",
-                  "category": "religious",
-                  "coords": [
-                        -1.108217,
-                        46.151907
                   ]
             },
             {
@@ -31744,30 +26780,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Louis",
-                  "text": "The Church of Saint-Louis is a significant religious building in the city of La Rochelle. It serves the local community as a place for worship and quiet reflection.",
-                  "category": "religious",
-                  "coords": [
-                        -1.117652,
-                        46.185604
-                  ]
-            },
-            {
                   "name": "Prieuré Notre-Dame-de-l'Assomption",
                   "text": "The Prieuré Notre-Dame-de-l'Assomption is a historic religious property in La Rochelle. It bears witness to the long ecclesiastical tradition and history of the port city.",
                   "category": "religious",
                   "coords": [
                         -1.15158,
                         46.189847
-                  ]
-            },
-            {
-                  "name": "Église Saint-Cybard",
-                  "text": "The Church of Saint-Cybard is an integral part of the religious heritage of La Rochelle. The building provides a space for prayer and stands as a local architectural witness.",
-                  "category": "religious",
-                  "coords": [
-                        -1.108217,
-                        46.151907
                   ]
             },
             {
@@ -32233,30 +27251,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Fun Room Escape Game",
-                  "text": "Fun Room Escape Game in Pau bietet herausfordernde und interaktive Rätsel, die Familien gemeinsam lösen können.",
-                  "category": "family",
-                  "coords": [
-                        -0.380302,
-                        43.333732
-                  ]
-            },
-            {
                   "name": "Le phare",
                   "text": "Le phare in Pau ist eine öffentliche Badeanstalt, die eine saubere und sichere Umgebung für Familien bietet.",
                   "category": "family",
                   "coords": [
                         -0.374986,
                         43.302515
-                  ]
-            },
-            {
-                  "name": "Le Jardin de Toni",
-                  "text": "Le Jardin de Toni in Pau ist ein kleiner Tierpark, ideal für einen ruhigen und lehrreichen Familienausflug.",
-                  "category": "family",
-                  "coords": [
-                        -0.397221,
-                        43.307706
                   ]
             },
             {
@@ -32487,30 +27487,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Fun Room Escape Game",
-                  "text": "A pau-i Fun Room Escape Game kihívást jelentő és interaktív rejtvényeket kínál, amelyeket a családok együtt oldhatnak meg.",
-                  "category": "family",
-                  "coords": [
-                        -0.380302,
-                        43.333732
-                  ]
-            },
-            {
                   "name": "Le phare",
                   "text": "A pau-i Le phare egy nyilvános fürdő, amely tiszta és biztonságos környezetet biztosít a családoknak.",
                   "category": "family",
                   "coords": [
                         -0.374986,
                         43.302515
-                  ]
-            },
-            {
-                  "name": "Le Jardin de Toni",
-                  "text": "A pau-i Le Jardin de Toni egy kis állatpark, amely ideális egy nyugodt és oktató jellegű családi kiránduláshoz.",
-                  "category": "family",
-                  "coords": [
-                        -0.397221,
-                        43.307706
                   ]
             },
             {
@@ -32741,30 +27723,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Fun Room Escape Game",
-                  "text": "Fun Room Escape Game din Pau oferă puzzle-uri provocatoare și interactive pe care familiile le pot rezolva împreună.",
-                  "category": "family",
-                  "coords": [
-                        -0.380302,
-                        43.333732
-                  ]
-            },
-            {
                   "name": "Le phare",
                   "text": "Le phare din Pau este o baie publică ce oferă un mediu curat și sigur pentru familii.",
                   "category": "family",
                   "coords": [
                         -0.374986,
                         43.302515
-                  ]
-            },
-            {
-                  "name": "Le Jardin de Toni",
-                  "text": "Le Jardin de Toni din Pau este un mic parc cu animale, ideal pentru o ieșire liniștită și educativă în familie.",
-                  "category": "family",
-                  "coords": [
-                        -0.397221,
-                        43.307706
                   ]
             },
             {
@@ -32995,30 +27959,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Fun Room Escape Game",
-                  "text": "Fun Room Escape Game in Pau offers challenging and interactive puzzles for families to solve together.",
-                  "category": "family",
-                  "coords": [
-                        -0.380302,
-                        43.333732
-                  ]
-            },
-            {
                   "name": "Le phare",
                   "text": "Le phare in Pau is a public bathing facility providing a clean and safe environment for families.",
                   "category": "family",
                   "coords": [
                         -0.374986,
                         43.302515
-                  ]
-            },
-            {
-                  "name": "Le Jardin de Toni",
-                  "text": "Le Jardin de Toni in Pau is a small animal park ideal for a calm and educational family outing.",
-                  "category": "family",
-                  "coords": [
-                        -0.397221,
-                        43.307706
                   ]
             },
             {
@@ -33310,24 +28256,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Schtroumpfland",
-                  "text": "Schtroumpfland ist ein Freizeitpark in Bayonne. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
-                  "category": "family",
-                  "coords": [
-                        -1.443945,
-                        43.480644
-                  ]
-            },
-            {
-                  "name": "AirFly64",
-                  "text": "AirFly64 ist ein Freizeitpark in Bayonne. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
-                  "category": "family",
-                  "coords": [
-                        -1.445778,
-                        43.483084
-                  ]
-            },
-            {
                   "name": "Musee Basque et de l'histoire de Bayonne",
                   "text": "Ein Museum, das der baskischen Kultur und der Geschichte von Bayonne gewidmet ist.",
                   "category": "museum",
@@ -33512,24 +28440,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.47665,
                         43.47204
-                  ]
-            },
-            {
-                  "name": "Schtroumpfland",
-                  "text": "A Schtroumpfland egy vidámpark Bayonne-ban. A családok különféle látványosságokat élvezhetnek itt.",
-                  "category": "family",
-                  "coords": [
-                        -1.443945,
-                        43.480644
-                  ]
-            },
-            {
-                  "name": "AirFly64",
-                  "text": "Az AirFly64 egy vidámpark Bayonne-ban. A családok különféle látványosságokat élvezhetnek itt.",
-                  "category": "family",
-                  "coords": [
-                        -1.445778,
-                        43.483084
                   ]
             },
             {
@@ -33720,24 +28630,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Schtroumpfland",
-                  "text": "Schtroumpfland este un parc tematic în Bayonne. Familiile se pot bucura de o zi plină de atracții aici.",
-                  "category": "family",
-                  "coords": [
-                        -1.443945,
-                        43.480644
-                  ]
-            },
-            {
-                  "name": "AirFly64",
-                  "text": "AirFly64 este un parc tematic în Bayonne. Familiile se pot bucura de o zi plină de atracții aici.",
-                  "category": "family",
-                  "coords": [
-                        -1.445778,
-                        43.483084
-                  ]
-            },
-            {
                   "name": "Musee Basque et de l'histoire de Bayonne",
                   "text": "Un muzeu dedicat culturii basce și istoriei orașului Bayonne.",
                   "category": "museum",
@@ -33922,24 +28814,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.47665,
                         43.47204
-                  ]
-            },
-            {
-                  "name": "Schtroumpfland",
-                  "text": "Schtroumpfland is a theme park in Bayonne. Families can enjoy a day out with various attractions here.",
-                  "category": "family",
-                  "coords": [
-                        -1.443945,
-                        43.480644
-                  ]
-            },
-            {
-                  "name": "AirFly64",
-                  "text": "AirFly64 is a theme park in Bayonne. Families can enjoy a day out with various attractions here.",
-                  "category": "family",
-                  "coords": [
-                        -1.445778,
-                        43.483084
                   ]
             },
             {
@@ -34231,15 +29105,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc Mozart (Nord-Ouest)",
-                  "text": "Ein abwechslungsreicher Spielplatz im Parc Mozart in Poitiers für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        0.34871,
-                        46.591269
-                  ]
-            },
-            {
                   "name": "Tyrolienne",
                   "text": "Eine aufregende Seilbahn in Poitiers für abenteuerlustige Kinder.",
                   "category": "family",
@@ -34255,15 +29120,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.342071,
                         46.579973
-                  ]
-            },
-            {
-                  "name": "Air Jump Trampoline Park",
-                  "text": "Ein dynamischer Spielplatz in Poitiers mit Fokus auf Bewegung und Spaß.",
-                  "category": "family",
-                  "coords": [
-                        0.313178,
-                        46.554026
                   ]
             },
             {
@@ -34321,33 +29177,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc du Triangle d'Or",
-                  "text": "Im Parc du Triangle d'Or in Poitiers finden Familien einen Spielplatz für Kinder zum Entdecken und Spielen.",
-                  "category": "family",
-                  "coords": [
-                        0.346686,
-                        46.563892
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants de la La plaine de jeux de la Blaiserie",
-                  "text": "Die Plaine de jeux de la Blaiserie in Poitiers ist ein weitläufiger Ort für Kinder zum Spielen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        0.322783,
-                        46.591477
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants du Parc des Près-Mignons",
-                  "text": "Der Spielplatz im Parc des Près-Mignons in Poitiers lädt Familien zum gemeinsamen Aufenthalt im Freien ein.",
-                  "category": "family",
-                  "coords": [
-                        0.312238,
-                        46.563338
-                  ]
-            },
-            {
                   "name": "Jeux pour enfants du Parc de Saint-Éloi",
                   "text": "Im Parc de Saint-Éloi in Poitiers gibt es Spielgeräte für Kinder in einer grünen Umgebung.",
                   "category": "family",
@@ -34375,30 +29204,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc Mozart (Sud-Est)",
-                  "text": "Der Spielplatz im Parc Mozart in Poitiers bietet Abwechslung für Kinder im Südosten der Stadt.",
-                  "category": "family",
-                  "coords": [
-                        0.350701,
-                        46.590317
-                  ]
-            },
-            {
                   "name": "Jeux pour enfants du Parc Floral de la Roseraie",
                   "text": "Inmitten des Parc Floral de la Roseraie in Poitiers können Kinder auf diesem Spielplatz sicher spielen.",
                   "category": "family",
                   "coords": [
                         0.371166,
                         46.583383
-                  ]
-            },
-            {
-                  "name": "Ludi Fête",
-                  "text": "Ludi Fête in Poitiers bietet abwechslungsreichen Spielspaß und Attraktionen für einen tollen Familientag.",
-                  "category": "family",
-                  "coords": [
-                        0.328095,
-                        46.558689
                   ]
             },
             {
@@ -34447,30 +29258,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mairie de Saint-Benoît",
-                  "text": "Das Rathaus von Saint-Benoît ist das Verwaltungszentrum dieser südlich von Poitiers gelegenen Gemeinde. Es ist ein zentraler Anlaufpunkt für die Bürger und repräsentiert die lokale Verwaltung.",
-                  "category": "historical",
-                  "coords": [
-                        0.340138,
-                        46.549548
-                  ]
-            },
-            {
                   "name": "Hôtel de ville",
                   "text": "Das prachtvolle Rathaus von Poitiers dominiert den zentralen Platz der Stadt. Das im 19. Jahrhundert errichtete Gebäude ist ein herausragendes Beispiel für die repräsentative Architektur jener Zeit.",
                   "category": "historical",
                   "coords": [
                         0.352986,
                         46.598232
-                  ]
-            },
-            {
-                  "name": "La Hune",
-                  "text": "La Hune ist eine moderne Veranstaltungshalle in der Nähe von Poitiers, die für Konzerte und Theateraufführungen genutzt wird. Sie bietet einen vielseitigen Raum für das kulturelle Leben der Region.",
-                  "category": "cultural",
-                  "coords": [
-                        0.343498,
-                        46.55855
                   ]
             },
             {
@@ -34510,24 +29303,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
-                  "text": "Die orthodoxe Kirche der Trinité-Saint-Hilaire in Poitiers ist ein Zentrum für den orthodoxen Glauben in der Region. Das Gebäude spiegelt die religiöse Vielfalt der Stadt wider.",
-                  "category": "religious",
-                  "coords": [
-                        0.323458,
-                        46.569599
-                  ]
-            },
-            {
-                  "name": "Église Saint-Cyprien",
-                  "text": "Die Kirche Saint-Cyprien ist ein fester Bestandteil des religiösen Lebens in Poitiers. Sie dient den Bewohnern des Viertels als Ort für Ruhe und spirituelle Zusammenkünfte.",
-                  "category": "religious",
-                  "coords": [
-                        0.343693,
-                        46.567714
-                  ]
-            },
-            {
                   "name": "Église Notre-Dame de l'Annonciation",
                   "text": "Die Kirche Notre-Dame de l'Annonciation ist ein wichtiges Gotteshaus für die katholische Gemeinde in Poitiers. Das Gebäude ist ein Ort der Andacht und der kirchlichen Tradition.",
                   "category": "religious",
@@ -34543,15 +29318,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.305947,
                         46.577301
-                  ]
-            },
-            {
-                  "name": "Église abbatiale Saint-André",
-                  "text": "Die Abteikirche Saint-André ist ein historisches Bauwerk in Poitiers, das einst Teil eines Klosters war. Heute dient sie der Gemeinde als Ort für Gebete und ist ein bedeutendes religiöses Erbe.",
-                  "category": "religious",
-                  "coords": [
-                        0.341321,
-                        46.549367
                   ]
             },
             {
@@ -34597,15 +29363,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.335371,
                         46.579853
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Die Kirche Saint-Martin ist ein traditionsreiches Gotteshaus in Poitiers. Sie bietet einen Raum für Gottesdienste und ist ein wichtiger Bezugspunkt für die Gläubigen der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        0.318207,
-                        46.566529
                   ]
             },
             {
@@ -34760,15 +29517,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc Mozart (Nord-Ouest)",
-                  "text": "Változatos játszótér a poitiers-i Parc Mozartban a gyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        0.34871,
-                        46.591269
-                  ]
-            },
-            {
                   "name": "Tyrolienne",
                   "text": "Izgalmas kötélpálya Poitiers-ben a kalandvágyó gyerekeknek.",
                   "category": "family",
@@ -34784,15 +29532,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.342071,
                         46.579973
-                  ]
-            },
-            {
-                  "name": "Air Jump Trampoline Park",
-                  "text": "Dinamikus játszótér Poitiers-ben a mozgásra és szórakozásra összpontosítva.",
-                  "category": "family",
-                  "coords": [
-                        0.313178,
-                        46.554026
                   ]
             },
             {
@@ -34850,33 +29589,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc du Triangle d'Or",
-                  "text": "A poitiers-i Parc du Triangle d'Or játszótere várja a gyermekeket és a családokat.",
-                  "category": "family",
-                  "coords": [
-                        0.346686,
-                        46.563892
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants de la La plaine de jeux de la Blaiserie",
-                  "text": "A poitiers-i Plaine de jeux de la Blaiserie tágas szabadtéri helyszín a gyermekek játékához.",
-                  "category": "family",
-                  "coords": [
-                        0.322783,
-                        46.591477
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants du Parc des Près-Mignons",
-                  "text": "A poitiers-i Parc des Près-Mignons játszótere szabadtéri kikapcsolódást kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        0.312238,
-                        46.563338
-                  ]
-            },
-            {
                   "name": "Jeux pour enfants du Parc de Saint-Éloi",
                   "text": "A poitiers-i Parc de Saint-Éloi játszótere zöld környezetben várja a gyermekeket.",
                   "category": "family",
@@ -34904,30 +29616,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc Mozart (Sud-Est)",
-                  "text": "A poitiers-i Parc Mozart játszótere kikapcsolódást nyújt a gyermekeknek a város délkeleti részén.",
-                  "category": "family",
-                  "coords": [
-                        0.350701,
-                        46.590317
-                  ]
-            },
-            {
                   "name": "Jeux pour enfants du Parc Floral de la Roseraie",
                   "text": "A poitiers-i Parc Floral de la Roseraie szívében található játszótéren biztonságban játszhatnak a gyerekek.",
                   "category": "family",
                   "coords": [
                         0.371166,
                         46.583383
-                  ]
-            },
-            {
-                  "name": "Ludi Fête",
-                  "text": "A poitiers-i Ludi Fête változatos játékokat és látnivalókat kínál egy remek családi naphoz.",
-                  "category": "family",
-                  "coords": [
-                        0.328095,
-                        46.558689
                   ]
             },
             {
@@ -34976,30 +29670,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mairie de Saint-Benoît",
-                  "text": "Saint-Benoît városháza a Poitiers-től délre fekvő település adminisztratív központja. Az épület a polgárok központi ügyintézési helyszíne és a helyi önkormányzat jelképe.",
-                  "category": "historical",
-                  "coords": [
-                        0.340138,
-                        46.549548
-                  ]
-            },
-            {
                   "name": "Hôtel de ville",
                   "text": "Poitiers pompás városházája uralja a város központi terét. A 19. században épült ingatlan a korszak reprezentatív építészetének kiemelkedő példája.",
                   "category": "historical",
                   "coords": [
                         0.352986,
                         46.598232
-                  ]
-            },
-            {
-                  "name": "La Hune",
-                  "text": "A La Hune egy modern rendezvényközpont Poitiers közelében, amelyet koncertekre és színházi előadásokra használnak. Sokoldalú teret biztosít a régió kulturális élete számára.",
-                  "category": "cultural",
-                  "coords": [
-                        0.343498,
-                        46.55855
                   ]
             },
             {
@@ -35039,24 +29715,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
-                  "text": "A poitiers-i Trinité-Saint-Hilaire ortodox templom a régió ortodox hitéletének központja. Az épület a város vallási sokszínűségét tükrözi.",
-                  "category": "religious",
-                  "coords": [
-                        0.323458,
-                        46.569599
-                  ]
-            },
-            {
-                  "name": "Église Saint-Cyprien",
-                  "text": "A Saint-Cyprien-templom a poitiers-i vallási élet szerves része. A környék lakói számára a nyugalom és a spirituális összejövetelek helyszínéül szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        0.343693,
-                        46.567714
-                  ]
-            },
-            {
                   "name": "Église Notre-Dame de l'Annonciation",
                   "text": "A Notre-Dame de l'Annonciation-templom fontos istentiszteleti hely a poitiers-i katolikus közösség számára. Az épület az áhítat és az egyházi hagyományok helyszíne.",
                   "category": "religious",
@@ -35072,15 +29730,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.305947,
                         46.577301
-                  ]
-            },
-            {
-                  "name": "Église abbatiale Saint-André",
-                  "text": "A Saint-André apátsági templom egy történelmi épület Poitiers-ben, amely egykor egy kolostor része volt. Ma a közösség imádságainak helyszíne és jelentős vallási örökség.",
-                  "category": "religious",
-                  "coords": [
-                        0.341321,
-                        46.549367
                   ]
             },
             {
@@ -35126,15 +29775,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.335371,
                         46.579853
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "A Saint-Martin-templom egy hagyományokban gazdag istentiszteleti hely Poitiers-ben. Helyszínt biztosít a szertartásoknak, és fontos viszonyítási pont a város hívői számára.",
-                  "category": "religious",
-                  "coords": [
-                        0.318207,
-                        46.566529
                   ]
             },
             {
@@ -35289,15 +29929,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc Mozart (Nord-Ouest)",
-                  "text": "Un loc de joacă variat în Parc Mozart din Poitiers pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        0.34871,
-                        46.591269
-                  ]
-            },
-            {
                   "name": "Tyrolienne",
                   "text": "O tiroliană captivantă în Poitiers pentru copiii dornici de aventură.",
                   "category": "family",
@@ -35313,15 +29944,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.342071,
                         46.579973
-                  ]
-            },
-            {
-                  "name": "Air Jump Trampoline Park",
-                  "text": "Un loc de joacă dinamic în Poitiers, concentrat pe mișcare și distracție.",
-                  "category": "family",
-                  "coords": [
-                        0.313178,
-                        46.554026
                   ]
             },
             {
@@ -35379,33 +30001,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc du Triangle d'Or",
-                  "text": "În Parc du Triangle d'Or din Poitiers, familiile pot găsi un loc de joacă unde copiii se pot distra.",
-                  "category": "family",
-                  "coords": [
-                        0.346686,
-                        46.563892
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants de la La plaine de jeux de la Blaiserie",
-                  "text": "Plaine de jeux de la Blaiserie din Poitiers este un spațiu generos în aer liber pentru joaca copiilor.",
-                  "category": "family",
-                  "coords": [
-                        0.322783,
-                        46.591477
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants du Parc des Près-Mignons",
-                  "text": "Locul de joacă din Parc des Près-Mignons, Poitiers, invită familiile la relaxare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        0.312238,
-                        46.563338
-                  ]
-            },
-            {
                   "name": "Jeux pour enfants du Parc de Saint-Éloi",
                   "text": "În Parc de Saint-Éloi din Poitiers există facilități de joacă pentru copii într-un cadru verde.",
                   "category": "family",
@@ -35433,30 +30028,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc Mozart (Sud-Est)",
-                  "text": "Locul de joacă din Parc Mozart, Poitiers, oferă recreere pentru copii în partea de sud-est a orașului.",
-                  "category": "family",
-                  "coords": [
-                        0.350701,
-                        46.590317
-                  ]
-            },
-            {
                   "name": "Jeux pour enfants du Parc Floral de la Roseraie",
                   "text": "În inima Parc Floral de la Roseraie din Poitiers, copiii se pot juca în siguranță la acest loc de joacă.",
                   "category": "family",
                   "coords": [
                         0.371166,
                         46.583383
-                  ]
-            },
-            {
-                  "name": "Ludi Fête",
-                  "text": "Ludi Fête din Poitiers oferă distracție variată și atracții pentru o zi minunată în familie.",
-                  "category": "family",
-                  "coords": [
-                        0.328095,
-                        46.558689
                   ]
             },
             {
@@ -35505,30 +30082,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mairie de Saint-Benoît",
-                  "text": "Primăria din Saint-Benoît este centrul administrativ al acestei comune situate la sud de Poitiers. Reprezintă un punct central de contact pentru cetățeni și sediul administrației locale.",
-                  "category": "historical",
-                  "coords": [
-                        0.340138,
-                        46.549548
-                  ]
-            },
-            {
                   "name": "Hôtel de ville",
                   "text": "Primăria impunătoare din Poitiers domină piața centrală a orașului. Construită în secolul al XIX-lea, clădirea este un exemplu remarcabil de arhitectură reprezentativă a acelei epoci.",
                   "category": "historical",
                   "coords": [
                         0.352986,
                         46.598232
-                  ]
-            },
-            {
-                  "name": "La Hune",
-                  "text": "La Hune este o sală de evenimente modernă situată lângă Poitiers, utilizată pentru concerte și spectacole de teatru. Aceasta oferă un spațiu versatil pentru viața culturală a regiunii.",
-                  "category": "cultural",
-                  "coords": [
-                        0.343498,
-                        46.55855
                   ]
             },
             {
@@ -35568,24 +30127,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
-                  "text": "Biserica ortodoxă Trinité-Saint-Hilaire din Poitiers este un centru pentru credința ortodoxă din regiune. Clădirea reflectă diversitatea religioasă a orașului.",
-                  "category": "religious",
-                  "coords": [
-                        0.323458,
-                        46.569599
-                  ]
-            },
-            {
-                  "name": "Église Saint-Cyprien",
-                  "text": "Biserica Saint-Cyprien este o parte integrantă a vieții religioase din Poitiers. Aceasta servește locuitorilor din cartier ca loc de liniște și pentru adunări spirituale.",
-                  "category": "religious",
-                  "coords": [
-                        0.343693,
-                        46.567714
-                  ]
-            },
-            {
                   "name": "Église Notre-Dame de l'Annonciation",
                   "text": "Biserica Notre-Dame de l'Annonciation este un lăcaș de cult important pentru comunitatea catolică din Poitiers. Clădirea este un loc de devoțiune și de tradiție ecleziastică.",
                   "category": "religious",
@@ -35601,15 +30142,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.305947,
                         46.577301
-                  ]
-            },
-            {
-                  "name": "Église abbatiale Saint-André",
-                  "text": "Biserica abațială Saint-André este un edificiu istoric din Poitiers care a făcut odinioară parte dintr-o mănăstire. Astăzi, servește comunității ca loc de rugăciune și este o moștenire religioasă importantă.",
-                  "category": "religious",
-                  "coords": [
-                        0.341321,
-                        46.549367
                   ]
             },
             {
@@ -35655,15 +30187,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.335371,
                         46.579853
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Biserica Saint-Martin este un lăcaș de cult cu o lungă tradiție în Poitiers. Aceasta oferă un spațiu pentru slujbe și este un punct de referință important pentru credincioșii din oraș.",
-                  "category": "religious",
-                  "coords": [
-                        0.318207,
-                        46.566529
                   ]
             },
             {
@@ -35818,15 +30341,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc Mozart (Nord-Ouest)",
-                  "text": "A varied playground in Parc Mozart in Poitiers for children.",
-                  "category": "family",
-                  "coords": [
-                        0.34871,
-                        46.591269
-                  ]
-            },
-            {
                   "name": "Tyrolienne",
                   "text": "An exciting zip line in Poitiers for adventurous children.",
                   "category": "family",
@@ -35842,15 +30356,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.342071,
                         46.579973
-                  ]
-            },
-            {
-                  "name": "Air Jump Trampoline Park",
-                  "text": "A dynamic playground in Poitiers focused on movement and fun.",
-                  "category": "family",
-                  "coords": [
-                        0.313178,
-                        46.554026
                   ]
             },
             {
@@ -35908,33 +30413,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc du Triangle d'Or",
-                  "text": "In the Parc du Triangle d'Or in Poitiers, families can find a playground for children to enjoy.",
-                  "category": "family",
-                  "coords": [
-                        0.346686,
-                        46.563892
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants de la La plaine de jeux de la Blaiserie",
-                  "text": "The Plaine de jeux de la Blaiserie in Poitiers is a spacious outdoor spot for children to play.",
-                  "category": "family",
-                  "coords": [
-                        0.322783,
-                        46.591477
-                  ]
-            },
-            {
-                  "name": "Jeux pour enfants du Parc des Près-Mignons",
-                  "text": "The playground in the Parc des Près-Mignons in Poitiers invites families for outdoor recreation.",
-                  "category": "family",
-                  "coords": [
-                        0.312238,
-                        46.563338
-                  ]
-            },
-            {
                   "name": "Jeux pour enfants du Parc de Saint-Éloi",
                   "text": "In the Parc de Saint-Éloi in Poitiers, there are play facilities for children in a green setting.",
                   "category": "family",
@@ -35962,30 +30440,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Jeux pour enfants du Parc Mozart (Sud-Est)",
-                  "text": "The playground in the Parc Mozart in Poitiers offers recreation for children in the city's southeast.",
-                  "category": "family",
-                  "coords": [
-                        0.350701,
-                        46.590317
-                  ]
-            },
-            {
                   "name": "Jeux pour enfants du Parc Floral de la Roseraie",
                   "text": "In the heart of the Parc Floral de la Roseraie in Poitiers, children can play safely at this playground.",
                   "category": "family",
                   "coords": [
                         0.371166,
                         46.583383
-                  ]
-            },
-            {
-                  "name": "Ludi Fête",
-                  "text": "Ludi Fete in Poitiers offers diverse gaming fun and attractions for a great family day out.",
-                  "category": "family",
-                  "coords": [
-                        0.328095,
-                        46.558689
                   ]
             },
             {
@@ -36034,30 +30494,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mairie de Saint-Benoît",
-                  "text": "The town hall of Saint-Benoît is the administrative center for this commune located south of Poitiers. It is a central point for citizens and represents the local administration.",
-                  "category": "historical",
-                  "coords": [
-                        0.340138,
-                        46.549548
-                  ]
-            },
-            {
                   "name": "Hôtel de ville",
                   "text": "The grand town hall of Poitiers dominates the city's central square. Built in the 19th century, the building is an outstanding example of the representative architecture of that period.",
                   "category": "historical",
                   "coords": [
                         0.352986,
                         46.598232
-                  ]
-            },
-            {
-                  "name": "La Hune",
-                  "text": "La Hune is a modern event hall near Poitiers used for concerts and theatrical performances. It provides a versatile space for the cultural life of the region.",
-                  "category": "cultural",
-                  "coords": [
-                        0.343498,
-                        46.55855
                   ]
             },
             {
@@ -36097,24 +30539,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Église orthodoxe de la Trinité-Saint-Hilaire",
-                  "text": "The Orthodox Church of the Trinity and Saint Hilary in Poitiers is a center for the Orthodox faith in the region. The building reflects the religious diversity of the city.",
-                  "category": "religious",
-                  "coords": [
-                        0.323458,
-                        46.569599
-                  ]
-            },
-            {
-                  "name": "Église Saint-Cyprien",
-                  "text": "The Church of Saint-Cyprien is an integral part of religious life in Poitiers. It serves the residents of the neighborhood as a place for peace and spiritual gatherings.",
-                  "category": "religious",
-                  "coords": [
-                        0.343693,
-                        46.567714
-                  ]
-            },
-            {
                   "name": "Église Notre-Dame de l'Annonciation",
                   "text": "The Church of Notre-Dame de l'Annonciation is an important place of worship for the Catholic community in Poitiers. The building is a site of devotion and ecclesiastical tradition.",
                   "category": "religious",
@@ -36130,15 +30554,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.305947,
                         46.577301
-                  ]
-            },
-            {
-                  "name": "Église abbatiale Saint-André",
-                  "text": "The Abbey Church of Saint Andrew is a historic building in Poitiers that was once part of a monastery. Today, it serves the community as a place for prayer and is a significant religious heritage.",
-                  "category": "religious",
-                  "coords": [
-                        0.341321,
-                        46.549367
                   ]
             },
             {
@@ -36184,15 +30599,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.335371,
                         46.579853
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "The Church of Saint-Martin is a traditional place of worship in Poitiers. It provides a space for services and is an important reference point for the city's faithful.",
-                  "category": "religious",
-                  "coords": [
-                        0.318207,
-                        46.566529
                   ]
             },
             {
@@ -36474,15 +30880,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Piscine de Conleau",
-                  "text": "Die Piscine de Conleau in Vannes ist ein Meerwasserbecken, das Familien ein natürliches Schwimmerlebnis bietet.",
-                  "category": "family",
-                  "coords": [
-                        -2.780142,
-                        47.62882
-                  ]
-            },
-            {
                   "name": "Temple Gallo-Romain(reste que les fondations)",
                   "text": "Eine archäologische Stätte in Vannes, die die Fundamente eines antiken gallorömischen Tempels zeigt.",
                   "category": "historical",
@@ -36720,15 +31117,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.800374,
                         47.678556
-                  ]
-            },
-            {
-                  "name": "Piscine de Conleau",
-                  "text": "A vannes-i Piscine de Conleau egy tengervizes medence, amely természetes úszási élményt nyújt a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        -2.780142,
-                        47.62882
                   ]
             },
             {
@@ -36972,15 +31360,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Piscine de Conleau",
-                  "text": "Piscina de Conleau din Vannes este o piscină cu apă de mare care oferă familiilor o experiență naturală de înot.",
-                  "category": "family",
-                  "coords": [
-                        -2.780142,
-                        47.62882
-                  ]
-            },
-            {
                   "name": "Temple Gallo-Romain(reste que les fondations)",
                   "text": "Un sit arheologic din Vannes care prezintă fundațiile unui vechi templu gallo-roman.",
                   "category": "historical",
@@ -37218,15 +31597,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.800374,
                         47.678556
-                  ]
-            },
-            {
-                  "name": "Piscine de Conleau",
-                  "text": "Piscine de Conleau in Vannes is a seawater pool providing a natural swimming experience for families.",
-                  "category": "family",
-                  "coords": [
-                        -2.780142,
-                        47.62882
                   ]
             },
             {
@@ -37508,15 +31878,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mayapark",
-                  "text": "Mayapark ist ein Freizeitpark in Lorient. Familien können hier einen schönen Ausflug mit verschiedenen Attraktionen genießen.",
-                  "category": "family",
-                  "coords": [
-                        -3.352551,
-                        47.777781
-                  ]
-            },
-            {
                   "name": "Le cochon",
                   "text": "Ein kleiner Leuchtturm, der die Schifffahrt bei Lorient leitet.",
                   "category": "landmark",
@@ -37682,15 +32043,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -3.366111,
                         47.755278
-                  ]
-            },
-            {
-                  "name": "Mayapark",
-                  "text": "A Mayapark egy vidámpark Lorient-ban. A családok különféle látványosságokat élvezhetnek itt.",
-                  "category": "family",
-                  "coords": [
-                        -3.352551,
-                        47.777781
                   ]
             },
             {
@@ -37862,15 +32214,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mayapark",
-                  "text": "Mayapark este un parc tematic în Lorient. Familiile se pot bucura de o zi plină de atracții aici.",
-                  "category": "family",
-                  "coords": [
-                        -3.352551,
-                        47.777781
-                  ]
-            },
-            {
                   "name": "Le cochon",
                   "text": "Un far mic care ghidează navigația lângă Lorient.",
                   "category": "landmark",
@@ -38036,15 +32379,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -3.366111,
                         47.755278
-                  ]
-            },
-            {
-                  "name": "Mayapark",
-                  "text": "Mayapark is a theme park in Lorient. Families can enjoy a day out with various attractions here.",
-                  "category": "family",
-                  "coords": [
-                        -3.352551,
-                        47.777781
                   ]
             },
             {
@@ -40306,30 +34640,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeu \"Collectif habitants de Grenoux\"",
-                  "text": "Die Aire de jeu 'Collectif habitants de Grenoux' in Laval bietet einen schönen Platz zum Spielen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        -0.812836,
-                        48.081667
-                  ]
-            },
-            {
                   "name": "Aquabulle",
                   "text": "Aquabulle in Laval verfügt über mehrere Becken und Rutschen und ist damit ein großartiges Ziel für einen Familien-Wassertag.",
                   "category": "family",
                   "coords": [
                         -0.765315,
                         48.087775
-                  ]
-            },
-            {
-                  "name": "Echologia",
-                  "text": "Echologia in Laval bietet naturnahe Aktivitäten und Wanderwege, die die ganze Familie gemeinsam erkunden kann.",
-                  "category": "family",
-                  "coords": [
-                        -0.723162,
-                        48.109758
                   ]
             }
       ],
@@ -40403,30 +34719,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeu \"Collectif habitants de Grenoux\"",
-                  "text": "A lavali Aire de jeu 'Collectif habitants de Grenoux' szép helyet kínál a szabadtéri játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        -0.812836,
-                        48.081667
-                  ]
-            },
-            {
                   "name": "Aquabulle",
                   "text": "A lavali Aquabulle számos medencével és csúszdával várja a családokat egy közös vízi napra.",
                   "category": "family",
                   "coords": [
                         -0.765315,
                         48.087775
-                  ]
-            },
-            {
-                  "name": "Echologia",
-                  "text": "A lavali Echologia természetközeli tevékenységeket és ösvényeket kínál, amelyeket az egész család együtt fedezhet fel.",
-                  "category": "family",
-                  "coords": [
-                        -0.723162,
-                        48.109758
                   ]
             }
       ],
@@ -40500,30 +34798,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeu \"Collectif habitants de Grenoux\"",
-                  "text": "Aire de jeu 'Collectif habitants de Grenoux' din Laval oferă un spațiu plăcut pentru joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        -0.812836,
-                        48.081667
-                  ]
-            },
-            {
                   "name": "Aquabulle",
                   "text": "Aquabulle din Laval are mai multe piscine și tobogane, fiind o destinație excelentă pentru o zi în familie la apă.",
                   "category": "family",
                   "coords": [
                         -0.765315,
                         48.087775
-                  ]
-            },
-            {
-                  "name": "Echologia",
-                  "text": "Echologia din Laval oferă activități bazate pe natură și trasee pe care întreaga familie le poate explora împreună.",
-                  "category": "family",
-                  "coords": [
-                        -0.723162,
-                        48.109758
                   ]
             }
       ],
@@ -40597,30 +34877,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeu \"Collectif habitants de Grenoux\"",
-                  "text": "The Aire de jeu 'Collectif habitants de Grenoux' in Laval offers a nice spot for outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        -0.812836,
-                        48.081667
-                  ]
-            },
-            {
                   "name": "Aquabulle",
                   "text": "Aquabulle in City Laval features several pools and slides, making it a great destination for a family water day.",
                   "category": "family",
                   "coords": [
                         -0.765315,
                         48.087775
-                  ]
-            },
-            {
-                  "name": "Echologia",
-                  "text": "Echologia in City Laval offers nature-based activities and trails that the whole family can explore together.",
-                  "category": "family",
-                  "coords": [
-                        -0.723162,
-                        48.109758
                   ]
             }
       ],
@@ -41677,15 +35939,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Plage de Porce",
-                  "text": "Ein ruhiger Sandstrand in Saint-Nazaire.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.252115,
-                        47.25328
-                  ]
-            },
-            {
                   "name": "Fort de Villes-Martin",
                   "text": "Eine historische Küstenbefestigung in Saint-Nazaire.",
                   "category": "fortress",
@@ -41751,16 +36004,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.2025,
                         47.275833
-                  ]
-            },
-            {
-                  "name": "Saint-Nazaire-híd",
-                  "text": "A Loire torkolata felett átívelő monumentális híd, amely a régió egyik legfontosabb közlekedési és látványeleme.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.165681,
-                        47.278764
                   ]
             },
             {
@@ -41925,15 +36168,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.216793,
                         47.25015
-                  ]
-            },
-            {
-                  "name": "Plage de Porce",
-                  "text": "Csendes homokos strand Saint-Nazaire-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.252115,
-                        47.25328
                   ]
             },
             {
@@ -42179,15 +36413,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Plage de Porce",
-                  "text": "O plajă liniștită de nisip în Saint-Nazaire.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.252115,
-                        47.25328
-                  ]
-            },
-            {
                   "name": "Fort de Villes-Martin",
                   "text": "O fortificație istorică de coastă în Saint-Nazaire.",
                   "category": "fortress",
@@ -42253,16 +36478,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.2025,
                         47.275833
-                  ]
-            },
-            {
-                  "name": "Saint-Nazaire Bridge",
-                  "text": "A spectacular cable-stayed bridge crossing the Loire estuary, offering panoramic views of the coast and shipyards.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        -2.165681,
-                        47.278764
                   ]
             },
             {
@@ -42430,15 +36645,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Plage de Porce",
-                  "text": "A quiet sandy beach located in Saint-Nazaire.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.252115,
-                        47.25328
-                  ]
-            },
-            {
                   "name": "Fort de Villes-Martin",
                   "text": "A historic coastal fortification in Saint-Nazaire.",
                   "category": "fortress",
@@ -42501,15 +36707,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -2.2025,
                         47.275833
-                  ]
-            },
-            {
-                  "name": "Pont de Saint-Nazaire",
-                  "text": "L'imposant pont à haubans enjambe l'estuaire de la Loire et offre des vues spectaculaires sur les chantiers navals et l'océan.",
-                  "category": "civic",
-                  "coords": [
-                        -2.165681,
-                        47.278764
                   ]
             },
             {
@@ -42629,15 +36826,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Parc des Épinettes",
-                  "text": "Der Parc des Épinettes in Chartres ist ein einladender Spielplatz für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        1.500644,
-                        48.470717
-                  ]
-            },
-            {
                   "name": "Happy Land",
                   "text": "Happy Land in Chartres ist ein fröhlicher Ort für Spiel und Spaß mit der ganzen Familie.",
                   "category": "family",
@@ -42715,15 +36903,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.488881,
                         48.448795
-                  ]
-            },
-            {
-                  "name": "Parc des Épinettes",
-                  "text": "A chartres-i Parc des Épinettes egy hívogató játszótér a gyerekek számára.",
-                  "category": "family",
-                  "coords": [
-                        1.500644,
-                        48.470717
                   ]
             },
             {
@@ -42807,15 +36986,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Parc des Épinettes",
-                  "text": "Parc des Épinettes din Chartres este un loc de joacă primitor pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        1.500644,
-                        48.470717
-                  ]
-            },
-            {
                   "name": "Happy Land",
                   "text": "Happy Land din Chartres este un loc vesel pentru joacă și distracție cu întreaga familie.",
                   "category": "family",
@@ -42893,15 +37063,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.488881,
                         48.448795
-                  ]
-            },
-            {
-                  "name": "Parc des Épinettes",
-                  "text": "Parc des Épinettes in Chartres is an inviting playground for children.",
-                  "category": "family",
-                  "coords": [
-                        1.500644,
-                        48.470717
                   ]
             },
             {
@@ -43104,15 +37265,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "La mini-ferme d'Emma",
-                  "text": "La mini-ferme d'Emma ist ein Zoo in Blois. Es bietet Kindern und Familien die Möglichkeit, Tiere zu sehen.",
-                  "category": "family",
-                  "coords": [
-                        1.366072,
-                        47.611069
-                  ]
-            },
-            {
                   "name": "Bassin extèrieur",
                   "text": "Bassin extèrieur ist ein Schwimmbad in Blois. Besucher können hier ein erfrischendes Bad nehmen.",
                   "category": "family",
@@ -43208,15 +37360,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.319085,
                         47.565411
-                  ]
-            },
-            {
-                  "name": "La mini-ferme d'Emma",
-                  "text": "A La mini-ferme d'Emma egy állatkert Blois-ban. Lehetőséget kínál a gyerekeknek és a családoknak az állatok megfigyelésére.",
-                  "category": "family",
-                  "coords": [
-                        1.366072,
-                        47.611069
                   ]
             },
             {
@@ -43318,15 +37461,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "La mini-ferme d'Emma",
-                  "text": "La mini-ferme d'Emma este o grădină zoologică în Blois. Oferă oportunitatea copiilor și familiilor de a vedea animale.",
-                  "category": "family",
-                  "coords": [
-                        1.366072,
-                        47.611069
-                  ]
-            },
-            {
                   "name": "Bassin extèrieur",
                   "text": "Bassin extèrieur este o piscină în Blois. Vizitatorii se pot bucura de o baie răcoritoare aici.",
                   "category": "family",
@@ -43422,15 +37556,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         1.319085,
                         47.565411
-                  ]
-            },
-            {
-                  "name": "La mini-ferme d'Emma",
-                  "text": "La mini-ferme d'Emma is a zoo in Blois. It offers an opportunity for children and families to see animals.",
-                  "category": "family",
-                  "coords": [
-                        1.366072,
-                        47.611069
                   ]
             },
             {
@@ -46443,33 +40568,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mare de la Bourgade",
-                  "text": "Die Mare de la Bourgade in Rodez ist ein ruhiger Teich in einer natürlichen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        2.629224,
-                        44.409221
-                  ]
-            },
-            {
-                  "name": "Lac de la Brienne de Luc",
-                  "text": "Der Lac de la Brienne de Luc bei Rodez bietet eine friedliche Atmosphäre am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        2.542495,
-                        44.302113
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Castello in Rodez ist ein fantasievoller Spielplatz für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        2.587788,
-                        44.370066
-                  ]
-            },
-            {
                   "name": "Unimini Apista",
                   "text": "Unimini Apista in Rodez bietet abwechslungsreiche Spielmöglichkeiten für kleine Besucher.",
                   "category": "family",
@@ -46568,33 +40666,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Mare de la Bourgade",
-                  "text": "A rodezi Mare de la Bourgade egy csendes tavacska természetes környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        2.629224,
-                        44.409221
-                  ]
-            },
-            {
-                  "name": "Lac de la Brienne de Luc",
-                  "text": "A Rodez melletti Lac de la Brienne de Luc békés hangulatot kínál a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        2.542495,
-                        44.302113
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "A rodezi Castello egy ötletes játszótér gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        2.587788,
-                        44.370066
-                  ]
-            },
-            {
                   "name": "Unimini Apista",
                   "text": "A rodezi Unimini Apista változatos játéklehetőségeket kínál a kis látogatóknak.",
                   "category": "family",
@@ -46690,33 +40761,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.574854,
                         44.348349
-                  ]
-            },
-            {
-                  "name": "Mare de la Bourgade",
-                  "text": "Mare de la Bourgade din Rodez este un iaz liniștit într-un cadru natural.",
-                  "category": "natural",
-                  "coords": [
-                        2.629224,
-                        44.409221
-                  ]
-            },
-            {
-                  "name": "Lac de la Brienne de Luc",
-                  "text": "Lac de la Brienne de Luc de lângă Rodez oferă o atmosferă liniștită pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        2.542495,
-                        44.302113
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Castello din Rodez este un loc de joacă plin de imaginație pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        2.587788,
-                        44.370066
                   ]
             },
             {
@@ -46825,33 +40869,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.576048,
                         44.349404
-                  ]
-            },
-            {
-                  "name": "Mare de la Bourgade",
-                  "text": "Mare de la Bourgade in Rodez is a quiet pond in a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        2.629224,
-                        44.409221
-                  ]
-            },
-            {
-                  "name": "Lac de la Brienne de Luc",
-                  "text": "Lac de la Brienne de Luc near Rodez offers a peaceful atmosphere by the water.",
-                  "category": "natural",
-                  "coords": [
-                        2.542495,
-                        44.302113
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Castello in Rodez is an imaginative playground for children.",
-                  "category": "family",
-                  "coords": [
-                        2.587788,
-                        44.370066
                   ]
             },
             {
@@ -49496,16 +43513,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Massif de la Clape",
-                  "text": "Ein geschütztes Kalksteingebirge zwischen Stadt und Meer, bekannt für seine Wanderwege und Weinberge.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.1,
-                        43.1583
-                  ]
-            },
-            {
                   "name": "Place de l'Hôtel de Ville",
                   "text": "Der zentrale Platz der Stadt, auf dem Reste der antiken Via Domitia direkt vor dem Rathaus sichtbar sind.",
                   "category": "civic",
@@ -49551,15 +43558,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.984079,
                         43.210595
-                  ]
-            },
-            {
-                  "name": "Étang de Bages",
-                  "text": "Ein großer See bei Narbonne, bekannt für seine weite Wasserfläche.",
-                  "category": "natural",
-                  "coords": [
-                        2.999547,
-                        43.109492
                   ]
             },
             {
@@ -49903,16 +43901,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Massif de la Clape",
-                  "text": "Védett mészkőhegység a város és a tenger között, túraútvonalairól és szőlőültetvényeiről ismert.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.1,
-                        43.1583
-                  ]
-            },
-            {
                   "name": "Place de l'Hôtel de Ville",
                   "text": "A város központi tere, ahol az ókori Via Domitia maradványai közvetlenül a városháza előtt láthatók.",
                   "category": "civic",
@@ -49958,15 +43946,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.984079,
                         43.210595
-                  ]
-            },
-            {
-                  "name": "Étang de Bages",
-                  "text": "Egy nagy tó Narbonne közelében, amely tágas vízfelületéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        2.999547,
-                        43.109492
                   ]
             },
             {
@@ -50310,16 +44289,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Massif de la Clape",
-                  "text": "Un masiv calcaros protejat între oraș și mare, cunoscut pentru traseele sale de drumeție și podgorii.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.1,
-                        43.1583
-                  ]
-            },
-            {
                   "name": "Place de l'Hôtel de Ville",
                   "text": "Piața centrală a orașului unde resturile anticei Via Domitia sunt vizibile chiar în fața primăriei.",
                   "category": "civic",
@@ -50365,15 +44334,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.984079,
                         43.210595
-                  ]
-            },
-            {
-                  "name": "Étang de Bages",
-                  "text": "Un lac mare lângă Narbonne, cunoscut pentru suprafața sa vastă de apă.",
-                  "category": "natural",
-                  "coords": [
-                        2.999547,
-                        43.109492
                   ]
             },
             {
@@ -50717,16 +44677,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Massif de la Clape",
-                  "text": "A protected limestone massif between city and sea, known for its hiking trails and vineyards.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.1,
-                        43.1583
-                  ]
-            },
-            {
                   "name": "Place de l'Hôtel de Ville",
                   "text": "The city's central square where remains of the ancient Via Domitia are visible right in front of the town hall.",
                   "category": "civic",
@@ -50772,15 +44722,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.984079,
                         43.210595
-                  ]
-            },
-            {
-                  "name": "Étang de Bages",
-                  "text": "A large lake near Narbonne, known for its wide expanse of water.",
-                  "category": "natural",
-                  "coords": [
-                        2.999547,
-                        43.109492
                   ]
             },
             {
@@ -52689,15 +46630,6 @@ const citySeeds: CitySeed[] = [
                         0.15222,
                         45.6492
                   ]
-            },
-            {
-                  "name": "Piscine à Vagues",
-                  "text": "Piscine à Vagues ist ein Wellenbad in Angouleme für Wasserspaß mit der Familie.",
-                  "category": "family",
-                  "coords": [
-                        0.145341,
-                        45.684136
-                  ]
             }
       ],
       "hu": [
@@ -52749,15 +46681,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.15222,
                         45.6492
-                  ]
-            },
-            {
-                  "name": "Piscine à Vagues",
-                  "text": "A Piscine à Vagues egy hullámmedence Angouleme városában, amely izgalmas élményt nyújt a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        0.145341,
-                        45.684136
                   ]
             }
       ],
@@ -52811,15 +46734,6 @@ const citySeeds: CitySeed[] = [
                         0.15222,
                         45.6492
                   ]
-            },
-            {
-                  "name": "Piscine à Vagues",
-                  "text": "Piscine à Vagues este o piscină cu valuri în Angouleme pentru distracție acvatică în familie.",
-                  "category": "family",
-                  "coords": [
-                        0.145341,
-                        45.684136
-                  ]
             }
       ],
       "en": [
@@ -52871,15 +46785,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         0.15222,
                         45.6492
-                  ]
-            },
-            {
-                  "name": "Piscine à Vagues",
-                  "text": "Piscine à Vagues is a wave pool in Angouleme offering water fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        0.145341,
-                        45.684136
                   ]
             }
       ],
@@ -53718,24 +47623,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Fontaine de la Briouzière",
-                  "text": "Die Fontaine de la Briouzière in Rochefort ist ein ruhiger Ort am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        -0.85865,
-                        45.92304
-                  ]
-            },
-            {
-                  "name": "Lac de Trizay",
-                  "text": "Der Lac de Trizay bei Rochefort ist ein schöner See für erholsame Stunden in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        -0.916695,
-                        45.893183
-                  ]
-            },
-            {
                   "name": "Aire de Jeux Le Bois et la Forêt",
                   "text": "Die Aire de Jeux Le Bois et la Forêt in Rochefort ist ein naturnah gestalteter Spielplatz.",
                   "category": "family",
@@ -53840,24 +47727,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.962503,
                         45.9341
-                  ]
-            },
-            {
-                  "name": "Fontaine de la Briouzière",
-                  "text": "A rocheforti Fontaine de la Briouzière egy nyugodt hely a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        -0.85865,
-                        45.92304
-                  ]
-            },
-            {
-                  "name": "Lac de Trizay",
-                  "text": "A Rochefort melletti Lac de Trizay egy szép tó a természetben való kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        -0.916695,
-                        45.893183
                   ]
             },
             {
@@ -53968,24 +47837,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Fontaine de la Briouzière",
-                  "text": "Fontaine de la Briouzière din Rochefort este un loc liniștit pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        -0.85865,
-                        45.92304
-                  ]
-            },
-            {
-                  "name": "Lac de Trizay",
-                  "text": "Lac de Trizay de lângă Rochefort este un lac frumos pentru momente relaxante în natură.",
-                  "category": "natural",
-                  "coords": [
-                        -0.916695,
-                        45.893183
-                  ]
-            },
-            {
                   "name": "Aire de Jeux Le Bois et la Forêt",
                   "text": "Aire de Jeux Le Bois et la Forêt din Rochefort este un loc de joacă amenajat în stil natural.",
                   "category": "family",
@@ -54090,24 +47941,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -0.962503,
                         45.9341
-                  ]
-            },
-            {
-                  "name": "Fontaine de la Briouzière",
-                  "text": "Fontaine de la Briouzière in Rochefort is a quiet spot by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -0.85865,
-                        45.92304
-                  ]
-            },
-            {
-                  "name": "Lac de Trizay",
-                  "text": "Lac de Trizay near Rochefort is a beautiful lake for relaxing hours in nature.",
-                  "category": "natural",
-                  "coords": [
-                        -0.916695,
-                        45.893183
                   ]
             },
             {
@@ -54826,24 +48659,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Napoléon 1er",
-                  "text": "Die Aire de jeux Napoléon 1er in Dax ist ein beliebter Treffpunkt für Familien mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        -1.060186,
-                        43.723936
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux Square du Fronton",
-                  "text": "Dieser Spielplatz am Square du Fronton in Dax bietet Kindern eine sichere Umgebung zum Spielen im Stadtzentrum.",
-                  "category": "family",
-                  "coords": [
-                        -1.055327,
-                        43.724821
-                  ]
-            },
-            {
                   "name": "Espace ludique",
                   "text": "Der Espace ludique in Dax ist eine moderne Spielzone, die für die Unterhaltung von Kindern konzipiert wurde.",
                   "category": "family",
@@ -54913,33 +48728,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.048443,
                         43.708689
-                  ]
-            },
-            {
-                  "name": "Thermes des Chênes",
-                  "text": "Erholen Sie sich in der ruhigen und angenehmen Atmosphäre dieses Thermalbads in Dax.",
-                  "category": "family",
-                  "coords": [
-                        -1.065095,
-                        43.731057
-                  ]
-            },
-            {
-                  "name": "Thermes Sourcéo",
-                  "text": "Dieses moderne Thermalbad in Dax bietet umfassende Wellness-Angebote für eine erholsame Zeit.",
-                  "category": "family",
-                  "coords": [
-                        -1.063166,
-                        43.728854
-                  ]
-            },
-            {
-                  "name": "Thermes de Christus",
-                  "text": "Genießen Sie Entspannung pur in diesem spezialisierten Thermalbad in Dax.",
-                  "category": "family",
-                  "coords": [
-                        -1.064897,
-                        43.729028
                   ]
             }
       ],
@@ -55014,24 +48802,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Napoléon 1er",
-                  "text": "A dax-i Aire de jeux Napoléon 1er a gyermekes családok kedvelt találkozóhelye.",
-                  "category": "family",
-                  "coords": [
-                        -1.060186,
-                        43.723936
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux Square du Fronton",
-                  "text": "Ez a dax-i Square du Fronton játszótér biztonságos környezetet nyújt a gyermekeknek a városközpontban.",
-                  "category": "family",
-                  "coords": [
-                        -1.055327,
-                        43.724821
-                  ]
-            },
-            {
                   "name": "Espace ludique",
                   "text": "A dax-i Espace ludique egy modern játszóövezet, amelyet a gyermekek szórakoztatására alakítottak ki.",
                   "category": "family",
@@ -55101,33 +48871,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.048443,
                         43.708689
-                  ]
-            },
-            {
-                  "name": "Thermes des Chênes",
-                  "text": "Kapcsolódjon ki a dax-i termálfürdő nyugodt és kellemes légkörében.",
-                  "category": "family",
-                  "coords": [
-                        -1.065095,
-                        43.731057
-                  ]
-            },
-            {
-                  "name": "Thermes Sourcéo",
-                  "text": "Ez a modern dax-i termálfürdő átfogó wellness ajánlatokat kínál a pihentető időtöltéshez.",
-                  "category": "family",
-                  "coords": [
-                        -1.063166,
-                        43.728854
-                  ]
-            },
-            {
-                  "name": "Thermes de Christus",
-                  "text": "Élvezze a tiszta kikapcsolódást ebben a dax-i speciális termálfürdőben.",
-                  "category": "family",
-                  "coords": [
-                        -1.064897,
-                        43.729028
                   ]
             }
       ],
@@ -55202,24 +48945,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Napoléon 1er",
-                  "text": "Aire de jeux Napoléon 1er din Dax este un loc de întâlnire popular pentru familiile cu copii.",
-                  "category": "family",
-                  "coords": [
-                        -1.060186,
-                        43.723936
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux Square du Fronton",
-                  "text": "Acest loc de joacă din Square du Fronton, Dax, oferă copiilor un mediu sigur pentru joacă în centrul orașului.",
-                  "category": "family",
-                  "coords": [
-                        -1.055327,
-                        43.724821
-                  ]
-            },
-            {
                   "name": "Espace ludique",
                   "text": "Espace ludique din Dax este o zonă de joacă modernă, concepută pentru divertismentul copiilor.",
                   "category": "family",
@@ -55289,33 +49014,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.048443,
                         43.708689
-                  ]
-            },
-            {
-                  "name": "Thermes des Chênes",
-                  "text": "Relaxați-vă în atmosfera liniștită și plăcută a acestei băi termale din Dax.",
-                  "category": "family",
-                  "coords": [
-                        -1.065095,
-                        43.731057
-                  ]
-            },
-            {
-                  "name": "Thermes Sourcéo",
-                  "text": "Această baie termală modernă din Dax oferă oferte complete de wellness pentru un timp relaxant.",
-                  "category": "family",
-                  "coords": [
-                        -1.063166,
-                        43.728854
-                  ]
-            },
-            {
-                  "name": "Thermes de Christus",
-                  "text": "Bucurați-vă de relaxare pură în această baie termală specializată din Dax.",
-                  "category": "family",
-                  "coords": [
-                        -1.064897,
-                        43.729028
                   ]
             }
       ],
@@ -55390,24 +49088,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Napoléon 1er",
-                  "text": "The Aire de jeux Napoléon 1er in Dax is a popular meeting spot for families with children.",
-                  "category": "family",
-                  "coords": [
-                        -1.060186,
-                        43.723936
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux Square du Fronton",
-                  "text": "This playground at Square du Fronton in Dax offers children a safe environment to play in the city center.",
-                  "category": "family",
-                  "coords": [
-                        -1.055327,
-                        43.724821
-                  ]
-            },
-            {
                   "name": "Espace ludique",
                   "text": "The Espace ludique in Dax is a modern play zone designed for the entertainment of children.",
                   "category": "family",
@@ -55477,33 +49157,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.048443,
                         43.708689
-                  ]
-            },
-            {
-                  "name": "Thermes des Chênes",
-                  "text": "Relax in the quiet and pleasant atmosphere of this thermal bath in Dax.",
-                  "category": "family",
-                  "coords": [
-                        -1.065095,
-                        43.731057
-                  ]
-            },
-            {
-                  "name": "Thermes Sourcéo",
-                  "text": "This modern thermal bath in Dax offers comprehensive wellness deals for a relaxing time.",
-                  "category": "family",
-                  "coords": [
-                        -1.063166,
-                        43.728854
-                  ]
-            },
-            {
-                  "name": "Thermes de Christus",
-                  "text": "Enjoy pure relaxation at this specialized thermal bath in Dax.",
-                  "category": "family",
-                  "coords": [
-                        -1.064897,
-                        43.729028
                   ]
             }
       ],
@@ -58658,16 +52311,6 @@ const citySeeds: CitySeed[] = [
     "sights": {
       "de": [
             {
-                  "name": "Place Ducale",
-                  "text": "Ein prachtvoller Platz im Barockstil, der als Zwillingsplatz der Place des Vosges in Paris gilt.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        4.720892,
-                        49.77352
-                  ]
-            },
-            {
                   "name": "Rimbaud-Museum",
                   "text": "Gewidmet dem berühmten Dichter Arthur Rimbaud, untergebracht in einer alten Mühle am Ufer der Maas.",
                   "category": "museum",
@@ -58808,39 +52451,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac des Ayvelles",
-                  "text": "Der Lac des Ayvelles bei Charleville-Mézières ist ein ruhiges Gewässer, ideal für Naturfreunde und Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        4.766527,
-                        49.725259
-                  ]
-            },
-            {
-                  "name": "Parc Pierquin",
-                  "text": "Im Parc Pierquin in Charleville-Mézières finden Kinder einen Spielplatz in einer angenehmen Parkanlage.",
-                  "category": "family",
-                  "coords": [
-                        4.712681,
-                        49.773881
-                  ]
-            },
-            {
                   "name": "Plaine de jeux du Bois d'Amour",
                   "text": "Die Plaine de jeux du Bois d'Amour in Charleville-Mézières bietet viel Platz für Familienaktivitäten im Grünen.",
                   "category": "family",
                   "coords": [
                         4.70451,
                         49.760537
-                  ]
-            },
-            {
-                  "name": "Le Calypso",
-                  "text": "Le Calypso in Charleville-Mézières ist ein Spielbereich, der Kindern Freude und Bewegung ermöglicht.",
-                  "category": "family",
-                  "coords": [
-                        4.718487,
-                        49.781968
                   ]
             },
             {
@@ -58862,39 +52478,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Vaillant",
-                  "text": "Der Spielplatz Vaillant in Charleville-Mézières ist ein gut ausgestatteter Bereich für Kinder aller Altersstufen.",
-                  "category": "family",
-                  "coords": [
-                        4.72254,
-                        49.75847
-                  ]
-            },
-            {
-                  "name": "Square Boris Vian",
-                  "text": "Der Square Boris Vian in Charleville-Mézières verfügt über einen kindgerechten Spielplatz für die Nachbarschaft.",
-                  "category": "family",
-                  "coords": [
-                        4.717581,
-                        49.739022
-                  ]
-            },
-            {
                   "name": "Les pyramides",
                   "text": "Die Pyramiden in Charleville-Mézières sind ein origineller Spielplatz, der zum Erkunden und Klettern einlädt.",
                   "category": "family",
                   "coords": [
                         4.688762,
                         49.764868
-                  ]
-            },
-            {
-                  "name": "Parc Animalier",
-                  "text": "Dieser Tierpark in Charleville-Mézières ist ein wunderbares Ziel für einen entspannten Familienspaziergang in der Natur.",
-                  "category": "family",
-                  "coords": [
-                        4.780531,
-                        49.772835
                   ]
             },
             {
@@ -58935,16 +52524,6 @@ const citySeeds: CitySeed[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Place Ducale",
-                  "text": "A város lélegzetelállító barokk főtere, a párizsi Place des Vosges építészeti ikertestvére.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        4.720892,
-                        49.77352
-                  ]
-            },
             {
                   "name": "Rimbaud Múzeum",
                   "text": "A város híres szülöttének, Arthur Rimbaud költőnek szentelt múzeum egy régi malom épületében.",
@@ -59086,39 +52665,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac des Ayvelles",
-                  "text": "A Charleville-Mézières melletti Lac des Ayvelles egy nyugodt vízfelület, ideális a természetbarátok és sétálók számára.",
-                  "category": "natural",
-                  "coords": [
-                        4.766527,
-                        49.725259
-                  ]
-            },
-            {
-                  "name": "Parc Pierquin",
-                  "text": "A Charleville-Mézières-i Parc Pierquin területén a gyerekek kellemes parkos környezetben játszhatnak.",
-                  "category": "family",
-                  "coords": [
-                        4.712681,
-                        49.773881
-                  ]
-            },
-            {
                   "name": "Plaine de jeux du Bois d'Amour",
                   "text": "A Charleville-Mézières-i Plaine de jeux du Bois d'Amour tágas helyet biztosít a zöldövezeti családi tevékenységekhez.",
                   "category": "family",
                   "coords": [
                         4.70451,
                         49.760537
-                  ]
-            },
-            {
-                  "name": "Le Calypso",
-                  "text": "A Charleville-Mézières-i Le Calypso egy olyan játszórész, amely örömet és mozgást biztosít a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        4.718487,
-                        49.781968
                   ]
             },
             {
@@ -59140,39 +52692,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Vaillant",
-                  "text": "A Charleville-Mézières-i Vaillant játszótér jól felszerelt terület minden korosztályú gyermek számára.",
-                  "category": "family",
-                  "coords": [
-                        4.72254,
-                        49.75847
-                  ]
-            },
-            {
-                  "name": "Square Boris Vian",
-                  "text": "A Charleville-Mézières-i Square Boris Vian gyerekbarát játszótérrel várja a környékbelieket.",
-                  "category": "family",
-                  "coords": [
-                        4.717581,
-                        49.739022
-                  ]
-            },
-            {
                   "name": "Les pyramides",
                   "text": "A Charleville-Mézières-i piramisok egy különleges játszótér, amely felfedezésre és mászásra ösztönöz.",
                   "category": "family",
                   "coords": [
                         4.688762,
                         49.764868
-                  ]
-            },
-            {
-                  "name": "Parc Animalier",
-                  "text": "Ez a Charleville-Mézières-i állatpark csodálatos úti cél egy pihentető családi sétához a természetben.",
-                  "category": "family",
-                  "coords": [
-                        4.780531,
-                        49.772835
                   ]
             },
             {
@@ -59214,16 +52739,6 @@ const citySeeds: CitySeed[] = [
       ],
       "ro": [
             {
-                  "name": "Place Ducale",
-                  "text": "O piață barocă superbă, considerată sora geamănă a celebrei Place des Vosges din Paris.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        4.720892,
-                        49.77352
-                  ]
-            },
-            {
                   "name": "Muzeul Rimbaud",
                   "text": "Dedicat poetului Arthur Rimbaud, situat într-o moară veche de pe malul fluviului Meuse.",
                   "category": "museum",
@@ -59231,16 +52746,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.722059,
                         49.775735
-                  ]
-            },
-            {
-                  "name": "Bazilica Notre-Dame d'Espérance",
-                  "text": "Biserică gotică din Mézières celebră pentru vitraliile sale moderne realizate de René Dürrbach.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        4.716,
-                        49.7612
                   ]
             },
             {
@@ -59364,39 +52869,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac des Ayvelles",
-                  "text": "Lac des Ayvelles de lângă Charleville-Mézières este o întindere de apă liniștită, ideală pentru iubitorii de natură și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        4.766527,
-                        49.725259
-                  ]
-            },
-            {
-                  "name": "Parc Pierquin",
-                  "text": "În Parc Pierquin din Charleville-Mézières, copiii pot găsi un loc de joacă într-un cadru plăcut de parc.",
-                  "category": "family",
-                  "coords": [
-                        4.712681,
-                        49.773881
-                  ]
-            },
-            {
                   "name": "Plaine de jeux du Bois d'Amour",
                   "text": "Plaine de jeux du Bois d'Amour din Charleville-Mézières oferă mult spațiu pentru activități de familie în natură.",
                   "category": "family",
                   "coords": [
                         4.70451,
                         49.760537
-                  ]
-            },
-            {
-                  "name": "Le Calypso",
-                  "text": "Le Calypso din Charleville-Mézières este o zonă de joacă ce permite copiilor să se bucure de mișcare.",
-                  "category": "family",
-                  "coords": [
-                        4.718487,
-                        49.781968
                   ]
             },
             {
@@ -59418,39 +52896,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Vaillant",
-                  "text": "Locul de joacă Vaillant din Charleville-Mézières este o zonă bine echipată pentru copiii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        4.72254,
-                        49.75847
-                  ]
-            },
-            {
-                  "name": "Square Boris Vian",
-                  "text": "Square Boris Vian din Charleville-Mézières dispune de un loc de joacă adaptat copiilor din vecinătate.",
-                  "category": "family",
-                  "coords": [
-                        4.717581,
-                        49.739022
-                  ]
-            },
-            {
                   "name": "Les pyramides",
                   "text": "Piramidele din Charleville-Mézières sunt un loc de joacă original care invită la explorare și cățărare.",
                   "category": "family",
                   "coords": [
                         4.688762,
                         49.764868
-                  ]
-            },
-            {
-                  "name": "Parc Animalier",
-                  "text": "Acest parc de animale din Charleville-Mézières este o destinație minunată pentru o plimbare relaxantă în familie în natură.",
-                  "category": "family",
-                  "coords": [
-                        4.780531,
-                        49.772835
                   ]
             },
             {
@@ -59491,16 +52942,6 @@ const citySeeds: CitySeed[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Place Ducale",
-                  "text": "A magnificent 17th-century square, architectural twin to the Place des Vosges in Paris.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        4.720892,
-                        49.77352
-                  ]
-            },
             {
                   "name": "Rimbaud Museum",
                   "text": "Housed in an old windmill, this museum is dedicated to the life and work of poet Arthur Rimbaud.",
@@ -59642,39 +53083,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Lac des Ayvelles",
-                  "text": "The Lac des Ayvelles near Charleville-Mézières is a calm body of water, ideal for nature lovers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        4.766527,
-                        49.725259
-                  ]
-            },
-            {
-                  "name": "Parc Pierquin",
-                  "text": "In the Parc Pierquin in Charleville-Mézières, children can find a playground in a pleasant park setting.",
-                  "category": "family",
-                  "coords": [
-                        4.712681,
-                        49.773881
-                  ]
-            },
-            {
                   "name": "Plaine de jeux du Bois d'Amour",
                   "text": "The Plaine de jeux du Bois d'Amour in Charleville-Mézières offers plenty of space for family activities in nature.",
                   "category": "family",
                   "coords": [
                         4.70451,
                         49.760537
-                  ]
-            },
-            {
-                  "name": "Le Calypso",
-                  "text": "Le Calypso in Charleville-Mézières is a play area that allows children to enjoy movement and fun.",
-                  "category": "family",
-                  "coords": [
-                        4.718487,
-                        49.781968
                   ]
             },
             {
@@ -59696,39 +53110,12 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Aire de jeux Vaillant",
-                  "text": "The Vaillant playground in Charleville-Mézières is a well-equipped area for children of all ages.",
-                  "category": "family",
-                  "coords": [
-                        4.72254,
-                        49.75847
-                  ]
-            },
-            {
-                  "name": "Square Boris Vian",
-                  "text": "The Square Boris Vian in Charleville-Mézières features a child-friendly playground for the neighborhood.",
-                  "category": "family",
-                  "coords": [
-                        4.717581,
-                        49.739022
-                  ]
-            },
-            {
                   "name": "Les pyramides",
                   "text": "The pyramids in Charleville-Mézières are an original playground inviting exploration and climbing.",
                   "category": "family",
                   "coords": [
                         4.688762,
                         49.764868
-                  ]
-            },
-            {
-                  "name": "Parc Animalier",
-                  "text": "This animal park in Charleville-Mézières is a wonderful destination for a relaxed family walk in nature.",
-                  "category": "family",
-                  "coords": [
-                        4.780531,
-                        49.772835
                   ]
             },
             {
@@ -59770,15 +53157,6 @@ const citySeeds: CitySeed[] = [
       ],
       "fr": [
             {
-                  "name": "Place Ducale",
-                  "text": "Splendide place de style baroque, considérée comme la jumelle de la place des Vosges à Paris.",
-                  "category": "civic",
-                  "coords": [
-                        4.720892,
-                        49.77352
-                  ]
-            },
-            {
                   "name": "Musée Rimbaud",
                   "text": "Dédié au poète Arthur Rimbaud, il est installé dans un ancien moulin au bord de la Meuse.",
                   "category": "museum",
@@ -59803,15 +53181,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         4.721643,
                         49.772479
-                  ]
-            },
-            {
-                  "name": "Maison des Ailleurs",
-                  "text": "Maison où Arthur Rimbaud passa sa jeunesse, aujourd'hui un lieu dédié à l'inspiration et la littérature.",
-                  "category": "museum",
-                  "coords": [
-                        4.72136,
-                        49.775587
                   ]
             },
             {
@@ -59871,16 +53240,6 @@ const citySeeds: CitySeed[] = [
     "sights": {
       "de": [
             {
-                  "name": "La Cité de la Mer",
-                  "text": "Ein großes Meeresmuseum im ehemaligen Transatlantik-Terminal, das ein berühmtes U-Boot und tiefe Aquarien beherbergt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.6174,
-                        49.6468
-                  ]
-            },
-            {
                   "name": "Fort du Roule",
                   "text": "Diese Festung auf dem Gipfel des Roule-Berges bietet einen Panoramablick auf die Reede und beherbergt ein Museum.",
                   "category": "fortress",
@@ -59888,26 +53247,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.613767,
                         49.630589
-                  ]
-            },
-            {
-                  "name": "Basilique Sainte-Trinité",
-                  "text": "Eine gotische Basilika aus dem 15. Jahrhundert, bekannt für ihre Architektur und die Lage im Herzen der Altstadt.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.62303,
-                        49.64206
-                  ]
-            },
-            {
-                  "name": "Musée Thomas Henry",
-                  "text": "Das drittwichtigste Kunstmuseum der Normandie mit einer beeindruckenden Sammlung von Gemälden vom 15. bis zum 19. Jahrhundert.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.623056,
-                        49.637222
                   ]
             },
             {
@@ -60008,15 +53347,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.642683,
                         49.625419
-                  ]
-            },
-            {
-                  "name": "Piscine aux Allemands",
-                  "text": "Piscine aux Allemands ist ein Schwimmbad in Cherbourg En Cotentin für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        -1.674282,
-                        49.605747
                   ]
             },
             {
@@ -60247,16 +53577,6 @@ const citySeeds: CitySeed[] = [
       ],
       "hu": [
             {
-                  "name": "La Cité de la Mer",
-                  "text": "Hatalmas tengerészeti múzeum egy egykori terminálban, ahol megtekinthető egy atomtengeralattjáró és mélytengeri akváriumok.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.6174,
-                        49.6468
-                  ]
-            },
-            {
                   "name": "Fort du Roule",
                   "text": "A hegytetőn álló erődítmény pazar kilátást nyújt a kikötőre, és falai között a felszabadítási múzeum működik.",
                   "category": "fortress",
@@ -60264,26 +53584,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.613767,
                         49.630589
-                  ]
-            },
-            {
-                  "name": "Basilique Sainte-Trinité",
-                  "text": "15. századi gótikus bazilika, amely a város egyik legfontosabb vallási és építészeti emléke a tengerpart közelében.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.62303,
-                        49.64206
-                  ]
-            },
-            {
-                  "name": "Musée Thomas Henry",
-                  "text": "Normandia harmadik legjelentősebb szépművészeti múzeuma, értékes festménygyűjteménnyel a 15-19. századból.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.623056,
-                        49.637222
                   ]
             },
             {
@@ -60384,15 +53684,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.642683,
                         49.625419
-                  ]
-            },
-            {
-                  "name": "Piscine aux Allemands",
-                  "text": "A Piscine aux Allemands egy úszómedence Cherbourg En Cotentin városában, amely alkalmas családi programokhoz.",
-                  "category": "family",
-                  "coords": [
-                        -1.674282,
-                        49.605747
                   ]
             },
             {
@@ -60623,16 +53914,6 @@ const citySeeds: CitySeed[] = [
       ],
       "ro": [
             {
-                  "name": "La Cité de la Mer",
-                  "text": "Un muzeu maritim spectaculos situat în terminalul transatlantic istoric, găzduind un submarin nuclear vizitabil.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.6174,
-                        49.6468
-                  ]
-            },
-            {
                   "name": "Fort du Roule",
                   "text": "Fortificație situată pe muntele Roule, oferind o vedere panoramică asupra portului și adăpostind un muzeu al eliberării.",
                   "category": "fortress",
@@ -60640,26 +53921,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.613767,
                         49.630589
-                  ]
-            },
-            {
-                  "name": "Basilique Sainte-Trinité",
-                  "text": "O bazilică gotică din secolul al XV-lea, reprezentativă pentru patrimoniul religios al orașului Cherbourg.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.62303,
-                        49.64206
-                  ]
-            },
-            {
-                  "name": "Musée Thomas Henry",
-                  "text": "Al treilea muzeu de artă ca importanță din Normandia, cu o colecție vastă de picturi europene clasice.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.623056,
-                        49.637222
                   ]
             },
             {
@@ -60680,16 +53941,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.62109,
                         49.64318
-                  ]
-            },
-            {
-                  "name": "Castelul Ravalet",
-                  "text": "Un superb castel renascentist din secolul al XVI-lea, înconjurat de un parc vast și o seră clasată monument istoric.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.5667,
-                        49.6298
                   ]
             },
             {
@@ -60760,15 +54011,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.642683,
                         49.625419
-                  ]
-            },
-            {
-                  "name": "Piscine aux Allemands",
-                  "text": "Piscine aux Allemands este o piscină în Cherbourg En Cotentin potrivită pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        -1.674282,
-                        49.605747
                   ]
             },
             {
@@ -60999,16 +54241,6 @@ const citySeeds: CitySeed[] = [
       ],
       "en": [
             {
-                  "name": "La Cité de la Mer",
-                  "text": "A massive maritime museum set in the historic transatlantic terminal, featuring a real nuclear submarine and deep aquariums.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.6174,
-                        49.6468
-                  ]
-            },
-            {
                   "name": "Fort du Roule",
                   "text": "A fortress perched on a hill offering panoramic views of the harbor, housing a museum dedicated to the liberation.",
                   "category": "fortress",
@@ -61016,26 +54248,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.613767,
                         49.630589
-                  ]
-            },
-            {
-                  "name": "Basilique Sainte-Trinité",
-                  "text": "A 15th-century Gothic basilica known for its architecture and standing as a key religious monument in the city center.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        -1.62303,
-                        49.64206
-                  ]
-            },
-            {
-                  "name": "Musée Thomas Henry",
-                  "text": "Normandy's third most important fine arts museum, showcasing an impressive collection of paintings from the 15th-19th centuries.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        -1.623056,
-                        49.637222
                   ]
             },
             {
@@ -61056,16 +54268,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.62109,
                         49.64318
-                  ]
-            },
-            {
-                  "name": "Château des Ravalet",
-                  "text": "A magnificent 16th-century Renaissance castle surrounded by a vast park and a listed historical greenhouse.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.5667,
-                        49.6298
                   ]
             },
             {
@@ -61136,15 +54338,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         -1.642683,
                         49.625419
-                  ]
-            },
-            {
-                  "name": "Piscine aux Allemands",
-                  "text": "Piscine aux Allemands is a swimming pool in Cherbourg En Cotentin for family-friendly activities.",
-                  "category": "family",
-                  "coords": [
-                        -1.674282,
-                        49.605747
                   ]
             },
             {
@@ -61375,39 +54568,12 @@ const citySeeds: CitySeed[] = [
       ],
       "fr": [
             {
-                  "name": "La Cité de la Mer",
-                  "text": "Grand musée maritime situé dans l'ancien terminal transatlantique, abritant un sous-marin et des aquariums.",
-                  "category": "museum",
-                  "coords": [
-                        -1.6174,
-                        49.6468
-                  ]
-            },
-            {
                   "name": "Fort du Roule",
                   "text": "Cette forteresse au sommet de la montagne du Roule offre une vue panoramique sur la rade et accueille un musée.",
                   "category": "fortress",
                   "coords": [
                         -1.613767,
                         49.630589
-                  ]
-            },
-            {
-                  "name": "Basilique Sainte-Trinité",
-                  "text": "Basilique gothique du XVe siècle, reconnue pour son architecture au cœur du centre historique.",
-                  "category": "religious",
-                  "coords": [
-                        -1.62303,
-                        49.64206
-                  ]
-            },
-            {
-                  "name": "Musée Thomas Henry",
-                  "text": "Troisième musée d'art de Normandie, avec une riche collection de peintures du XVe au XIXe siècle.",
-                  "category": "museum",
-                  "coords": [
-                        -1.623056,
-                        49.637222
                   ]
             },
             {
@@ -63324,15 +56490,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Zoo du Parc des Cytises",
-                  "text": "Zoo du Parc des Cytises ist ein Zoo in Lens, der Familien die Tierwelt näher bringt.",
-                  "category": "family",
-                  "coords": [
-                        2.823067,
-                        50.463489
-                  ]
-            },
-            {
                   "name": "Les Loupiots",
                   "text": "Les Loupiots ist ein Freizeitpark in Lens, der speziell auf Familien ausgerichtet ist.",
                   "category": "family",
@@ -63359,15 +56516,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.797985,
                         50.447661
-                  ]
-            },
-            {
-                  "name": "Zoo du Parc des Cytises",
-                  "text": "A Zoo du Parc des Cytises egy állatkert Lens városában, amely bemutatja az állatvilágot a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        2.823067,
-                        50.463489
                   ]
             },
             {
@@ -63400,15 +56548,6 @@ const citySeeds: CitySeed[] = [
                   ]
             },
             {
-                  "name": "Zoo du Parc des Cytises",
-                  "text": "Zoo du Parc des Cytises este o grădină zoologică în Lens care apropie familiile de lumea animală.",
-                  "category": "family",
-                  "coords": [
-                        2.823067,
-                        50.463489
-                  ]
-            },
-            {
                   "name": "Les Loupiots",
                   "text": "Les Loupiots este un parc de distracții în Lens creat special pentru familii.",
                   "category": "family",
@@ -63435,15 +56574,6 @@ const citySeeds: CitySeed[] = [
                   "coords": [
                         2.797985,
                         50.447661
-                  ]
-            },
-            {
-                  "name": "Zoo du Parc des Cytises",
-                  "text": "Zoo du Parc des Cytises is a zoo in Lens where families can explore the animal world.",
-                  "category": "family",
-                  "coords": [
-                        2.823067,
-                        50.463489
                   ]
             },
             {

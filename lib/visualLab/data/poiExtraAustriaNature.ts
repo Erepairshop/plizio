@@ -649,60 +649,6 @@ export const poiExtraAustriaNature: POI[] = [
     id: "mountain-dachstein-massiv-extra", "sights": {
       "de": [
             {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Das Alpin-Museum Ramsau Dachstein zeigt die Geschichte des Bergsteigens und das regionale alpine Leben.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Die Hohe Gamsfeldspitze ist ein Gipfel im Dachsteinmassiv, bekannt für Gämsen.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "Der Große Koppenkarstein ist ein 2.863 Meter hoher Gipfel im Dachsteingebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "Der Hintere Türlspitz ist ein Alpengipfel im Dachsteingebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Der Hunerkogel ist eine Bergstation und ein Gipfel im Dachsteinmassiv, der mit der Seilbahn erreichbar ist.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "Der Kleine Koppenkarstein ist ein Gipfel in den österreichischen Alpen, Teil der Dachsteingruppe.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
                   "name": "Marstein",
                   "text": "Der Marstein ist einer der Gipfel im Dachsteingebirge.",
                   "category": "landmark",
@@ -722,60 +668,6 @@ export const poiExtraAustriaNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Az Alpin-Museum Ramsau Dachstein a hegymászás történetét és a regionális alpesi életet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "A Hohe Gamsfeldspitze egy csúcs a Dachstein-masszívumban, híres a zergékről.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "A Großer Koppenkarstein egy 2863 méter magas csúcs a Dachstein-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "A Hinterer Türlspitz egy alpesi csúcs a Dachstein-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "A Hunerkogel egy hegyi állomás és csúcs a Dachstein-masszívumban, amely felvonóval érhető el.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "A Kleiner Koppenkarstein egy csúcs az osztrák Alpokban, a Dachstein-csoport része.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
             {
                   "name": "Marstein",
                   "text": "A Marstein a Dachstein-hegység egyik csúcsa.",
@@ -797,60 +689,6 @@ export const poiExtraAustriaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Alpin-Museum Ramsau Dachstein prezintă istoria alpinismului și viața alpină regională.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Hohe Gamsfeldspitze este un vârf în Masivul Dachstein, cunoscut pentru caprele negre.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "Großer Koppenkarstein este un vârf de 2.863 de metri înălțime din Munții Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "Hinterer Türlspitz este un vârf alpin din lanțul muntos Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Hunerkogel este o stație montană și un vârf din Masivul Dachstein, accesibil cu telecabina.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "Kleiner Koppenkarstein este un vârf din Alpii Austrieci, parte a grupului Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
                   "name": "Marstein",
                   "text": "Marstein este unul dintre vârfurile situate în zona muntoasă Dachstein.",
                   "category": "landmark",
@@ -870,60 +708,6 @@ export const poiExtraAustriaNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "The Alpin-Museum Ramsau Dachstein showcases the history of mountaineering and regional alpine life.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Hohe Gamsfeldspitze is a peak in the Dachstein Massif known for chamois.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "Großer Koppenkarstein is a 2,863-meter high peak in the Dachstein Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "Hinterer Türlspitz is an alpine peak within the Dachstein mountain range.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Hunerkogel is a mountain station and peak in the Dachstein Massif, accessible by cable car.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "Kleiner Koppenkarstein is a peak in the Austrian Alps, part of the Dachstein group.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
             {
                   "name": "Marstein",
                   "text": "Marstein is one of the summits located in the Dachstein mountain area.",
@@ -978,15 +762,6 @@ export const poiExtraAustriaNature: POI[] = [
   {
     id: "river-donau-auen-nationalpark-extra", "sights": {
       "de": [
-            {
-                  "name": "Nationalpark Donau-Auen",
-                  "text": "Eines der größten verbliebenen Donau-Auwaldgebiete in Mitteleuropa.",
-                  "category": "natural",
-                  "coords": [
-                        16.715299,
-                        48.145052
-                  ]
-            },
             {
                   "name": "Dampfmaschinenmuseum",
                   "text": "Ein Museum, das der Geschichte und Technik historischer Dampfmaschinen gewidmet ist.",
@@ -1053,15 +828,6 @@ export const poiExtraAustriaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Nationalpark Donau-Auen",
-                  "text": "Közép-Európa egyik legnagyobb épen maradt ártéri vizes élőhelye a Duna mentén.",
-                  "category": "natural",
-                  "coords": [
-                        16.715299,
-                        48.145052
-                  ]
-            },
-            {
                   "name": "Dampfmaschinenmuseum",
                   "text": "A történelmi gőzgépek történetének és technológiájának szentelt múzeum.",
                   "category": "museum",
@@ -1127,15 +893,6 @@ export const poiExtraAustriaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Nationalpark Donau-Auen",
-                  "text": "Una dintre cele mai mari zone umede de luncă rămase în Europa Centrală.",
-                  "category": "natural",
-                  "coords": [
-                        16.715299,
-                        48.145052
-                  ]
-            },
-            {
                   "name": "Dampfmaschinenmuseum",
                   "text": "Un muzeu dedicat istoriei și tehnologiei mașinilor cu aburi istorice.",
                   "category": "museum",
@@ -1200,15 +957,6 @@ export const poiExtraAustriaNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Donau-Auen National Park",
-                  "text": "One of the largest remaining floodplain wetlands in Central Europe.",
-                  "category": "natural",
-                  "coords": [
-                        16.715299,
-                        48.145052
-                  ]
-            },
             {
                   "name": "Dampfmaschinenmuseum",
                   "text": "A museum dedicated to the history and technology of historical steam engines.",

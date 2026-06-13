@@ -1278,15 +1278,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
     id: "forte-de-santo-antonio-ibo-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Fortim de São José",
-                  "text": "Das 1760 erbaute Fortim de São José ist eine steinerne Küstenbefestigung, die zur Verteidigung der Insel errichtet wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        40.582647,
-                        -12.344737
-                  ]
-            },
-            {
                   "name": "Fortaleza de São João Baptista",
                   "text": "Die 1791 fertiggestellte Fortaleza de São João Baptista ist eine sternförmige koloniale Festung mit Blick auf das Meer.",
                   "category": "castle",
@@ -1306,15 +1297,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Fortim de São José",
-                  "text": "Az 1760-ban épült Fortim de São José egy kőből épült part menti erődítmény, amelyet a sziget védelmére terveztek.",
-                  "category": "landmark",
-                  "coords": [
-                        40.582647,
-                        -12.344737
-                  ]
-            },
             {
                   "name": "Fortaleza de São João Baptista",
                   "text": "Az 1791-ben befejezett Fortaleza de São João Baptista egy csillag alakú gyarmati erőd, amely a tengerre néz.",
@@ -1336,15 +1318,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Fortim de São José",
-                  "text": "Construit în 1760, Fortim de São José este o fortificație de coastă din piatră concepută pentru a apăra insula.",
-                  "category": "landmark",
-                  "coords": [
-                        40.582647,
-                        -12.344737
-                  ]
-            },
-            {
                   "name": "Fortaleza de São João Baptista",
                   "text": "Finalizată în 1791, Fortaleza de São João Baptista este o fortăreață colonială în formă de stea cu vedere la mare.",
                   "category": "castle",
@@ -1364,15 +1337,6 @@ export const poiExtraMozambiqueLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Fortim de São José",
-                  "text": "Built in 1760, Fortim de São José is a stone coastal fortification designed to defend the island.",
-                  "category": "landmark",
-                  "coords": [
-                        40.582647,
-                        -12.344737
-                  ]
-            },
             {
                   "name": "Fortaleza de São João Baptista",
                   "text": "Completed in 1791, the Fortaleza de São João Baptista is a star-shaped colonial fortress overlooking the sea.",

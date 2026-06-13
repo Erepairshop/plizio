@@ -8810,24 +8810,6 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Splash BC Water Parks",
-                  "text": "Splash BC Water Parks ist ein Wasserpark in der Okanagan-Weinregion mit Wasserrutschen und Becken.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.499641,
-                        49.88533
-                  ]
-            },
-            {
-                  "name": "Kelowna Wine Tours",
-                  "text": "Kelowna Wine Tours ist ein Tourenservice in der Okanagan-Weinregion mit Weintouren.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.483884,
-                        49.867098
-                  ]
-            },
-            {
                   "name": "Poplar point beach",
                   "text": "Poplar point beach ist ein Strand in der Okanagan-Weinregion am See.",
                   "category": "recreational",
@@ -8927,15 +8909,6 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Scandia Golf & Games",
-                  "text": "Scandia Golf & Games ist ein Themenpark in der Okanagan-Weinregion mit Minigolf und Spielen.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.405918,
-                        49.905697
-                  ]
-            },
-            {
                   "name": "Bear Creek Provincial Park",
                   "text": "Der Bear Creek Provincial Park bietet einen Wasserfall und Wanderwege.",
                   "category": "natural",
@@ -8951,15 +8924,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.559428,
                         49.895153
-                  ]
-            },
-            {
-                  "name": "William R. Bennett Bridge",
-                  "text": "Die William R. Bennett Bridge ist eine schwimmende Brücke über den Okanagan Lake, die Kelowna und West Kelowna verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.511579,
-                        49.879464
                   ]
             },
             {
@@ -8987,51 +8951,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.499549,
                         49.894347
-                  ]
-            },
-            {
-                  "name": "Island Stage",
-                  "text": "Die Island Stage ist eine Open-Air-Theaterbühne in der Okanagan-Weinregion.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.500043,
-                        49.892371
-                  ]
-            },
-            {
-                  "name": "Rotary Centre for the Arts",
-                  "text": "Das Rotary Centre for the Arts ist ein Kunstzentrum in der Okanagan-Weinregion mit kulturellen Programmen.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.494951,
-                        49.891345
-                  ]
-            },
-            {
-                  "name": "Kelowna Community Theatre",
-                  "text": "Das Kelowna Community Theatre ist eine Spielstätte für darstellende Künste in Kelowna.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.496194,
-                        49.889423
-                  ]
-            },
-            {
-                  "name": "Kelowna Actors Studio",
-                  "text": "Das Kelowna Actors Studio ist ein Theaterstudio in Kelowna.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.493051,
-                        49.88975
-                  ]
-            },
-            {
-                  "name": "Okanagan Heritage Museum",
-                  "text": "Das Okanagan Heritage Museum ist ein Museum in Kelowna, das das Erbe der Okanagan-Region zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -119.49441,
-                        49.887679
                   ]
             },
             {
@@ -9115,24 +9034,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.620276,
                         49.883612
-                  ]
-            },
-            {
-                  "name": "Splash BC Water Parks",
-                  "text": "A Splash BC Water Parks egy vízipark az Okanagan borvidéken, csúszdákkal és medencékkel.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.499641,
-                        49.88533
-                  ]
-            },
-            {
-                  "name": "Kelowna Wine Tours",
-                  "text": "A Kelowna Wine Tours egy túraszolgáltatás az Okanagan borvidéken, bortúrákkal.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.483884,
-                        49.867098
                   ]
             },
             {
@@ -9235,15 +9136,6 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Scandia Golf & Games",
-                  "text": "A Scandia Golf & Games egy tematikus park az Okanagan borvidéken, minigolffal és játékokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.405918,
-                        49.905697
-                  ]
-            },
-            {
                   "name": "Bear Creek Provincial Park",
                   "text": "A Bear Creek Provincial Park egy vízeséssel és túraútvonalakkal rendelkezik.",
                   "category": "natural",
@@ -9259,15 +9151,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.559428,
                         49.895153
-                  ]
-            },
-            {
-                  "name": "William R. Bennett Bridge",
-                  "text": "A William R. Bennett Bridge egy úszó híd az Okanagan-tavon, összekötve Kelowna-t és West Kelowna-t.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.511579,
-                        49.879464
                   ]
             },
             {
@@ -9295,51 +9178,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.499549,
                         49.894347
-                  ]
-            },
-            {
-                  "name": "Island Stage",
-                  "text": "Az Island Stage egy szabadtéri színpad az Okanagan borvidéken.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.500043,
-                        49.892371
-                  ]
-            },
-            {
-                  "name": "Rotary Centre for the Arts",
-                  "text": "A Rotary Centre for the Arts egy művészeti központ az Okanagan borvidéken, kulturális programokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.494951,
-                        49.891345
-                  ]
-            },
-            {
-                  "name": "Kelowna Community Theatre",
-                  "text": "A Kelowna Community Theatre egy előadóművészeti helyszín Kelowna-ban.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.496194,
-                        49.889423
-                  ]
-            },
-            {
-                  "name": "Kelowna Actors Studio",
-                  "text": "A Kelowna Actors Studio egy színházi stúdió Kelowna-ban.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.493051,
-                        49.88975
-                  ]
-            },
-            {
-                  "name": "Okanagan Heritage Museum",
-                  "text": "Az Okanagan Heritage Museum egy múzeum Kelowna-ban, amely az Okanagan régió örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -119.49441,
-                        49.887679
                   ]
             },
             {
@@ -9423,24 +9261,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.620276,
                         49.883612
-                  ]
-            },
-            {
-                  "name": "Splash BC Water Parks",
-                  "text": "Splash BC Water Parks este un parc acvatic în regiunea viticolă Okanagan, cu tobogane și piscine.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.499641,
-                        49.88533
-                  ]
-            },
-            {
-                  "name": "Kelowna Wine Tours",
-                  "text": "Kelowna Wine Tours este un serviciu de tururi în regiunea viticolă Okanagan, cu tururi vinicole.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.483884,
-                        49.867098
                   ]
             },
             {
@@ -9543,15 +9363,6 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Scandia Golf & Games",
-                  "text": "Scandia Golf & Games este un parc tematic în regiunea viticolă Okanagan, cu mini-golf și jocuri.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.405918,
-                        49.905697
-                  ]
-            },
-            {
                   "name": "Bear Creek Provincial Park",
                   "text": "Parcul Provincial Bear Creek are o cascadă și trasee de drumeție.",
                   "category": "natural",
@@ -9567,15 +9378,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.559428,
                         49.895153
-                  ]
-            },
-            {
-                  "name": "William R. Bennett Bridge",
-                  "text": "Podul William R. Bennett este un pod plutitor peste Lacul Okanagan, legând Kelowna de West Kelowna.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.511579,
-                        49.879464
                   ]
             },
             {
@@ -9603,51 +9405,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.499549,
                         49.894347
-                  ]
-            },
-            {
-                  "name": "Island Stage",
-                  "text": "Island Stage este o scenă de teatru în aer liber în regiunea viticolă Okanagan.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.500043,
-                        49.892371
-                  ]
-            },
-            {
-                  "name": "Rotary Centre for the Arts",
-                  "text": "Rotary Centre for the Arts este un centru de artă în regiunea viticolă Okanagan, cu programe culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.494951,
-                        49.891345
-                  ]
-            },
-            {
-                  "name": "Kelowna Community Theatre",
-                  "text": "Kelowna Community Theatre este un loc de spectacole în Kelowna.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.496194,
-                        49.889423
-                  ]
-            },
-            {
-                  "name": "Kelowna Actors Studio",
-                  "text": "Kelowna Actors Studio este un studio de teatru în Kelowna.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.493051,
-                        49.88975
-                  ]
-            },
-            {
-                  "name": "Okanagan Heritage Museum",
-                  "text": "Okanagan Heritage Museum este un muzeu în Kelowna care prezintă patrimoniul regiunii Okanagan.",
-                  "category": "museum",
-                  "coords": [
-                        -119.49441,
-                        49.887679
                   ]
             },
             {
@@ -9731,24 +9488,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.620276,
                         49.883612
-                  ]
-            },
-            {
-                  "name": "Splash BC Water Parks",
-                  "text": "Splash BC Water Parks is a water park in the Okanagan wine region offering water slides and pools.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.499641,
-                        49.88533
-                  ]
-            },
-            {
-                  "name": "Kelowna Wine Tours",
-                  "text": "Kelowna Wine Tours is a tour service in the Okanagan wine region offering wine tours.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.483884,
-                        49.867098
                   ]
             },
             {
@@ -9851,15 +9590,6 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Scandia Golf & Games",
-                  "text": "Scandia Golf & Games is a theme park in the Okanagan wine region with mini golf and games.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.405918,
-                        49.905697
-                  ]
-            },
-            {
                   "name": "Bear Creek Provincial Park",
                   "text": "Bear Creek Provincial Park features a waterfall and hiking trails.",
                   "category": "natural",
@@ -9875,15 +9605,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.559428,
                         49.895153
-                  ]
-            },
-            {
-                  "name": "William R. Bennett Bridge",
-                  "text": "William R. Bennett Bridge is a floating bridge across Okanagan Lake connecting Kelowna and West Kelowna.",
-                  "category": "landmark",
-                  "coords": [
-                        -119.511579,
-                        49.879464
                   ]
             },
             {
@@ -9911,51 +9632,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -119.499549,
                         49.894347
-                  ]
-            },
-            {
-                  "name": "Island Stage",
-                  "text": "Island Stage is an outdoor theatre stage in the Okanagan wine region.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.500043,
-                        49.892371
-                  ]
-            },
-            {
-                  "name": "Rotary Centre for the Arts",
-                  "text": "Rotary Centre for the Arts is an arts centre in the Okanagan wine region offering cultural programs.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.494951,
-                        49.891345
-                  ]
-            },
-            {
-                  "name": "Kelowna Community Theatre",
-                  "text": "Kelowna Community Theatre is a performing arts venue in Kelowna.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.496194,
-                        49.889423
-                  ]
-            },
-            {
-                  "name": "Kelowna Actors Studio",
-                  "text": "Kelowna Actors Studio is a theatre studio in Kelowna.",
-                  "category": "cultural",
-                  "coords": [
-                        -119.493051,
-                        49.88975
-                  ]
-            },
-            {
-                  "name": "Okanagan Heritage Museum",
-                  "text": "Okanagan Heritage Museum is a museum in Kelowna showcasing the heritage of the Okanagan region.",
-                  "category": "museum",
-                  "coords": [
-                        -119.49441,
-                        49.887679
                   ]
             },
             {
@@ -10087,15 +9763,6 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kingswood Music Theatre",
-                  "text": "Das Kingswood Music Theatre war ein Freiluftamphitheater in Canada's Wonderland.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.539248,
-                        43.839408
-                  ]
-            },
-            {
                   "name": "Baitul Islam Mosque",
                   "text": "Die Baitul Islam Moschee ist eine Moschee in Maple (Ontario) in der Nähe von Canada's Wonderland.",
                   "category": "religious",
@@ -10132,84 +9799,12 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Wonder Mountain's Guardians",
-                  "text": "Wonder Mountain's Guardian ist eine Dark Ride-Attraktion im Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.542451,
-                        43.842058
-                  ]
-            },
-            {
-                  "name": "Legoland Discovery Centre",
-                  "text": "Das Legoland Discovery Centre ist eine überdachte Lego-Attraktion im Vaughan Mills nahe Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.535428,
-                        43.825167
-                  ]
-            },
-            {
                   "name": "Leviathan",
                   "text": "Leviathan ist eine Stahlachterbahn in Canada's Wonderland und war einst die höchste in Kanada.",
                   "category": "landmark",
                   "coords": [
                         -79.542382,
                         43.844511
-                  ]
-            },
-            {
-                  "name": "Shockwave",
-                  "text": "Shockwave ist eine Stand-up-Achterbahn in Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.54315,
-                        43.843147
-                  ]
-            },
-            {
-                  "name": "Behemoth",
-                  "text": "Behemoth ist ein Stahl-Hypercoaster in Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.540653,
-                        43.838983
-                  ]
-            },
-            {
-                  "name": "Vortex",
-                  "text": "Vortex ist eine Stahlachterbahn in Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.54347,
-                        43.841929
-                  ]
-            },
-            {
-                  "name": "Mighty Canadian Minebuster",
-                  "text": "Der Mighty Canadian Minebuster ist eine Holzachterbahn in Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.541921,
-                        43.839265
-                  ]
-            },
-            {
-                  "name": "Psyclone",
-                  "text": "Psyclone ist eine Stahlachterbahn in Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.540392,
-                        43.84006
-                  ]
-            },
-            {
-                  "name": "DareDeviler",
-                  "text": "DareDeviler ist eine sich drehende Thrill-Fahrt in Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.539045,
-                        43.84123
                   ]
             },
             {
@@ -10310,15 +9905,6 @@ export const canadaCities: POI[] = [
                         -79.544239,
                         43.844485
                   ]
-            },
-            {
-                  "name": "WindSeeker",
-                  "text": "WindSeeker ist eine Turmschaukel in Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.542478,
-                        43.840634
-                  ]
             }
       ],
       "hu": [
@@ -10347,15 +9933,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -79.414652,
                         43.767262
-                  ]
-            },
-            {
-                  "name": "Kingswood Music Theatre",
-                  "text": "A Kingswood Music Theatre egy szabadtéri amfiteátrum volt a Canada's Wonderlandben.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.539248,
-                        43.839408
                   ]
             },
             {
@@ -10395,84 +9972,12 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Wonder Mountain's Guardians",
-                  "text": "A Wonder Mountain's Guardian egy sötét hullámvasút a Canada's Wonderlandben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.542451,
-                        43.842058
-                  ]
-            },
-            {
-                  "name": "Legoland Discovery Centre",
-                  "text": "A Legoland Discovery Centre egy fedett Lego-attrakció a Vaughan Mills-ben a Canada's Wonderland közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.535428,
-                        43.825167
-                  ]
-            },
-            {
                   "name": "Leviathan",
                   "text": "A Leviathan egy acél hullámvasút a Canada's Wonderlandben, amely egykor Kanada legmagasabb hullámvasútja volt.",
                   "category": "landmark",
                   "coords": [
                         -79.542382,
                         43.844511
-                  ]
-            },
-            {
-                  "name": "Shockwave",
-                  "text": "A Shockwave egy álló hullámvasút a Canada's Wonderlandben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.54315,
-                        43.843147
-                  ]
-            },
-            {
-                  "name": "Behemoth",
-                  "text": "A Behemoth egy acél hypercoaster a Canada's Wonderlandben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.540653,
-                        43.838983
-                  ]
-            },
-            {
-                  "name": "Vortex",
-                  "text": "A Vortex egy acél hullámvasút a Canada's Wonderlandben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.54347,
-                        43.841929
-                  ]
-            },
-            {
-                  "name": "Mighty Canadian Minebuster",
-                  "text": "A Mighty Canadian Minebuster egy fa hullámvasút a Canada's Wonderlandben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.541921,
-                        43.839265
-                  ]
-            },
-            {
-                  "name": "Psyclone",
-                  "text": "A Psyclone egy acél hullámvasút a Canada's Wonderlandben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.540392,
-                        43.84006
-                  ]
-            },
-            {
-                  "name": "DareDeviler",
-                  "text": "A DareDeviler egy pörgő izgalmas attrakció a Canada's Wonderlandben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.539045,
-                        43.84123
                   ]
             },
             {
@@ -10573,15 +10078,6 @@ export const canadaCities: POI[] = [
                         -79.544239,
                         43.844485
                   ]
-            },
-            {
-                  "name": "WindSeeker",
-                  "text": "A WindSeeker egy toronyhinta a Canada's Wonderland-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.542478,
-                        43.840634
-                  ]
             }
       ],
       "ro": [
@@ -10610,15 +10106,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -79.414652,
                         43.767262
-                  ]
-            },
-            {
-                  "name": "Kingswood Music Theatre",
-                  "text": "Kingswood Music Theatre a fost un amfiteatru în aer liber din Canada's Wonderland.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.539248,
-                        43.839408
                   ]
             },
             {
@@ -10658,84 +10145,12 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Wonder Mountain's Guardians",
-                  "text": "Wonder Mountain's Guardian este o atracție de tip dark ride din Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.542451,
-                        43.842058
-                  ]
-            },
-            {
-                  "name": "Legoland Discovery Centre",
-                  "text": "Legoland Discovery Centre este o atracție interioară cu tematică Lego din Vaughan Mills, lângă Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.535428,
-                        43.825167
-                  ]
-            },
-            {
                   "name": "Leviathan",
                   "text": "Leviathan este un roller coaster din oțel din Canada's Wonderland, cândva cel mai înalt din Canada.",
                   "category": "landmark",
                   "coords": [
                         -79.542382,
                         43.844511
-                  ]
-            },
-            {
-                  "name": "Shockwave",
-                  "text": "Shockwave este un roller coaster în picioare din Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.54315,
-                        43.843147
-                  ]
-            },
-            {
-                  "name": "Behemoth",
-                  "text": "Behemoth este un hypercoaster din oțel din Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.540653,
-                        43.838983
-                  ]
-            },
-            {
-                  "name": "Vortex",
-                  "text": "Vortex este un roller coaster din oțel din Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.54347,
-                        43.841929
-                  ]
-            },
-            {
-                  "name": "Mighty Canadian Minebuster",
-                  "text": "Mighty Canadian Minebuster este un roller coaster din lemn din Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.541921,
-                        43.839265
-                  ]
-            },
-            {
-                  "name": "Psyclone",
-                  "text": "Psyclone este un roller coaster din oțel din Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.540392,
-                        43.84006
-                  ]
-            },
-            {
-                  "name": "DareDeviler",
-                  "text": "DareDeviler este o atracție rotitoare de tip thrill din Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.539045,
-                        43.84123
                   ]
             },
             {
@@ -10836,15 +10251,6 @@ export const canadaCities: POI[] = [
                         -79.544239,
                         43.844485
                   ]
-            },
-            {
-                  "name": "WindSeeker",
-                  "text": "WindSeeker este un leagăn cu turn la Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.542478,
-                        43.840634
-                  ]
             }
       ],
       "en": [
@@ -10873,15 +10279,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -79.414652,
                         43.767262
-                  ]
-            },
-            {
-                  "name": "Kingswood Music Theatre",
-                  "text": "Kingswood Music Theatre was an outdoor amphitheatre at Canada's Wonderland.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.539248,
-                        43.839408
                   ]
             },
             {
@@ -10921,84 +10318,12 @@ export const canadaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Wonder Mountain's Guardians",
-                  "text": "Wonder Mountain's Guardian is a dark ride at Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.542451,
-                        43.842058
-                  ]
-            },
-            {
-                  "name": "Legoland Discovery Centre",
-                  "text": "Legoland Discovery Centre is an indoor Lego-themed attraction at Vaughan Mills near Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.535428,
-                        43.825167
-                  ]
-            },
-            {
                   "name": "Leviathan",
                   "text": "Leviathan is a steel roller coaster at Canada's Wonderland, once the tallest in Canada.",
                   "category": "landmark",
                   "coords": [
                         -79.542382,
                         43.844511
-                  ]
-            },
-            {
-                  "name": "Shockwave",
-                  "text": "Shockwave is a stand-up roller coaster at Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.54315,
-                        43.843147
-                  ]
-            },
-            {
-                  "name": "Behemoth",
-                  "text": "Behemoth is a steel hypercoaster at Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.540653,
-                        43.838983
-                  ]
-            },
-            {
-                  "name": "Vortex",
-                  "text": "Vortex is a steel roller coaster at Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.54347,
-                        43.841929
-                  ]
-            },
-            {
-                  "name": "Mighty Canadian Minebuster",
-                  "text": "Mighty Canadian Minebuster is a wooden roller coaster at Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.541921,
-                        43.839265
-                  ]
-            },
-            {
-                  "name": "Psyclone",
-                  "text": "Psyclone is a steel roller coaster at Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.540392,
-                        43.84006
-                  ]
-            },
-            {
-                  "name": "DareDeviler",
-                  "text": "DareDeviler is a spinning thrill ride at Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.539045,
-                        43.84123
                   ]
             },
             {
@@ -11098,15 +10423,6 @@ export const canadaCities: POI[] = [
                   "coords": [
                         -79.544239,
                         43.844485
-                  ]
-            },
-            {
-                  "name": "WindSeeker",
-                  "text": "WindSeeker is a tower swing ride at Canada's Wonderland.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.542478,
-                        43.840634
                   ]
             }
       ]

@@ -12589,33 +12589,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chamber of Secretes Torremolinos",
-                  "text": "Ein Unterhaltungstheater in Benalmádena, bekannt für interaktive Shows und Magie.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.505597,
-                        36.611317
-                  ]
-            },
-            {
-                  "name": "Playa del Bajondillo",
-                  "text": "Ein beliebter Sandstrand mit einer breiten Promenade und vielfältigen Freizeitmöglichkeiten.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.495749,
-                        36.619897
-                  ]
-            },
-            {
-                  "name": "El Gato Beach",
-                  "text": "Ein Strandabschnitt in Benalmádena, der für seine entspannte Atmosphäre bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.496913,
-                        36.618348
-                  ]
-            },
-            {
                   "name": "Playa de Torre Vigía",
                   "text": "Strand mit einem Wachturm aus dem 16. Jahrhundert.",
                   "category": "recreational",
@@ -12694,24 +12667,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.560047,
                         36.617469
-                  ]
-            },
-            {
-                  "name": "Crocodile Park",
-                  "text": "Ein Wildpark in Benalmádena, der verschiedenen Krokodilarten gewidmet ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.508937,
-                        36.624471
-                  ]
-            },
-            {
-                  "name": "Piscina infantill",
-                  "text": "Kinderplanschbecken in einem öffentlichen Park.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.488509,
-                        36.636454
                   ]
             }
       ],
@@ -12825,33 +12780,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chamber of Secretes Torremolinos",
-                  "text": "Szórakoztató színház Benalmádenában, amely interaktív show-iról és bűvészetéről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.505597,
-                        36.611317
-                  ]
-            },
-            {
-                  "name": "Playa del Bajondillo",
-                  "text": "Népszerű homokos strand széles sétánnyal és változatos kikapcsolódási lehetőségekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.495749,
-                        36.619897
-                  ]
-            },
-            {
-                  "name": "El Gato Beach",
-                  "text": "Benalmádena egyik tengerparti szakasza, amely nyugodt légköréről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.496913,
-                        36.618348
-                  ]
-            },
-            {
                   "name": "Playa de Torre Vigía",
                   "text": "Strand 16. századi őrtoronnyal.",
                   "category": "recreational",
@@ -12930,24 +12858,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.560047,
                         36.617469
-                  ]
-            },
-            {
-                  "name": "Crocodile Park",
-                  "text": "Krokodilokra szakosodott vadaspark Benalmádenában, ahol számos faj megtekinthető.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.508937,
-                        36.624471
-                  ]
-            },
-            {
-                  "name": "Piscina infantill",
-                  "text": "Gyermek pancsolómedence egy közparkban.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.488509,
-                        36.636454
                   ]
             }
       ],
@@ -13061,33 +12971,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chamber of Secretes Torremolinos",
-                  "text": "Un teatru de divertisment din Benalmádena, cunoscut pentru spectacole interactive și magie.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.505597,
-                        36.611317
-                  ]
-            },
-            {
-                  "name": "Playa del Bajondillo",
-                  "text": "O plajă de nisip populară, cu o faleză largă și diverse oportunități de agrement.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.495749,
-                        36.619897
-                  ]
-            },
-            {
-                  "name": "El Gato Beach",
-                  "text": "O secțiune de plajă din Benalmádena, cunoscută pentru atmosfera sa relaxată.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.496913,
-                        36.618348
-                  ]
-            },
-            {
                   "name": "Playa de Torre Vigía",
                   "text": "Plajă cu un turn de veghe din secolul al XVI-lea.",
                   "category": "recreational",
@@ -13166,24 +13049,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.560047,
                         36.617469
-                  ]
-            },
-            {
-                  "name": "Crocodile Park",
-                  "text": "Un parc de animale sălbatice din Benalmádena dedicat crocodililor din diverse specii.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.508937,
-                        36.624471
-                  ]
-            },
-            {
-                  "name": "Piscina infantill",
-                  "text": "Bazin de joacă pentru copii într-un parc public.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.488509,
-                        36.636454
                   ]
             }
       ],
@@ -13297,33 +13162,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chamber of Secretes Torremolinos",
-                  "text": "An entertainment theatre in Benalmádena known for interactive shows and magic.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.505597,
-                        36.611317
-                  ]
-            },
-            {
-                  "name": "Playa del Bajondillo",
-                  "text": "A popular sandy beach with a wide promenade and diverse leisure opportunities.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.495749,
-                        36.619897
-                  ]
-            },
-            {
-                  "name": "El Gato Beach",
-                  "text": "A beach section in Benalmádena known for its relaxed atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.496913,
-                        36.618348
-                  ]
-            },
-            {
                   "name": "Playa de Torre Vigía",
                   "text": "A beach with a watchtower from the 16th century.",
                   "category": "recreational",
@@ -13402,24 +13240,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.560047,
                         36.617469
-                  ]
-            },
-            {
-                  "name": "Crocodile Park",
-                  "text": "A wildlife park in Benalmádena dedicated to crocodiles of various species.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.508937,
-                        36.624471
-                  ]
-            },
-            {
-                  "name": "Piscina infantill",
-                  "text": "A children's paddling pool in a public park.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.488509,
-                        36.636454
                   ]
             }
       ]
@@ -14540,15 +14360,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Platja de Santa Cristina",
-                  "text": "Ein beliebter Sandstrand in Blanes, der für seine ruhige Atmosphäre bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        2.818285,
-                        41.688147
-                  ]
-            },
-            {
                   "name": "Platja de Treumal",
                   "text": "Ein schöner Strand in Blanes, der an den botanischen Garten Pinya de Rosa grenzt.",
                   "category": "recreational",
@@ -14582,15 +14393,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.814458,
                         41.682604
-                  ]
-            },
-            {
-                  "name": "Gnomo Park",
-                  "text": "Gnomthematischer Miniaturpark mit skurrilen Statuen.",
-                  "category": "recreational",
-                  "coords": [
-                        2.814181,
-                        41.693486
                   ]
             }
       ],
@@ -14727,15 +14529,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Platja de Santa Cristina",
-                  "text": "Blanes népszerű homokos strandja, amely nyugodt légköréről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        2.818285,
-                        41.688147
-                  ]
-            },
-            {
                   "name": "Platja de Treumal",
                   "text": "Egy gyönyörű strand Blanesben, amely a Pinya de Rosa botanikus kerttel határos.",
                   "category": "recreational",
@@ -14769,15 +14562,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.814458,
                         41.682604
-                  ]
-            },
-            {
-                  "name": "Gnomo Park",
-                  "text": "Gnom témájú miniatűr park furcsa szobrokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        2.814181,
-                        41.693486
                   ]
             }
       ],
@@ -14914,15 +14698,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Platja de Santa Cristina",
-                  "text": "O plajă populară cu nisip din Blanes, cunoscută pentru atmosfera sa liniștită.",
-                  "category": "recreational",
-                  "coords": [
-                        2.818285,
-                        41.688147
-                  ]
-            },
-            {
                   "name": "Platja de Treumal",
                   "text": "O plajă frumoasă din Blanes, adiacentă grădinii botanice Pinya de Rosa.",
                   "category": "recreational",
@@ -14956,15 +14731,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.814458,
                         41.682604
-                  ]
-            },
-            {
-                  "name": "Gnomo Park",
-                  "text": "Parc tematic de miniaturi cu statui de gnomi fanteziști.",
-                  "category": "recreational",
-                  "coords": [
-                        2.814181,
-                        41.693486
                   ]
             }
       ],
@@ -15101,15 +14867,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Platja de Santa Cristina",
-                  "text": "A popular sandy beach in Blanes, known for its calm atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        2.818285,
-                        41.688147
-                  ]
-            },
-            {
                   "name": "Platja de Treumal",
                   "text": "A beautiful beach in Blanes adjacent to the Pinya de Rosa botanical garden.",
                   "category": "recreational",
@@ -15143,15 +14900,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.814458,
                         41.682604
-                  ]
-            },
-            {
-                  "name": "Gnomo Park",
-                  "text": "Gnome-themed miniature park with whimsical statues.",
-                  "category": "recreational",
-                  "coords": [
-                        2.814181,
-                        41.693486
                   ]
             }
       ]
@@ -15253,15 +15001,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.789053,
                         36.094959
-                  ]
-            },
-            {
-                  "name": "Bolonia Beach",
-                  "text": "Ein weitläufiger, naturbelassener Sandstrand in Bolonia, bekannt für seine große Wanderdüne.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.773839,
-                        36.085407
                   ]
             },
             {
@@ -15382,15 +15121,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bolonia Beach",
-                  "text": "Kiterjedt, természetközeli homokos strand Boloniában, amely hatalmas vándordűnéjéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.773839,
-                        36.085407
-                  ]
-            },
-            {
                   "name": "Piedra de Escalera",
                   "text": "Régészeti formáció Boloniában, amely az ókori római településnyomok része.",
                   "category": "historical",
@@ -15508,15 +15238,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bolonia Beach",
-                  "text": "O plajă de nisip întinsă și naturală în Bolonia, cunoscută pentru marea sa dună mișcătoare.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.773839,
-                        36.085407
-                  ]
-            },
-            {
                   "name": "Piedra de Escalera",
                   "text": "O formațiune arheologică în Bolonia, parte a urmelor așezării romane antice.",
                   "category": "historical",
@@ -15631,15 +15352,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.789053,
                         36.094959
-                  ]
-            },
-            {
-                  "name": "Bolonia Beach",
-                  "text": "An extensive, natural sandy beach in Bolonia, known for its large shifting dune.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.773839,
-                        36.085407
                   ]
             },
             {
@@ -18043,17 +17755,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Església de Sant Pere",
-                  "text": "Eine weiße Pfarrkirche im Herzen des Dorfes, die den zentralen Platz und die maritime Atmosphäre prägt.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/calella-de-palafrugell-esgl-sia-de-sant-pere.webp",
-                  "coords": [
-                        3.143702,
-                        41.971717
-                  ]
-            },
-            {
                   "name": "Camí de Ronda",
                   "text": "Ein herrlicher Küstenweg, der Calella de Palafrugell mit dem benachbarten Dorf Llafranc verbindet.",
                   "category": "parks/promenades/beaches",
@@ -18362,17 +18063,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.18741,
                         41.8884
-                  ]
-            },
-            {
-                  "name": "Església de Sant Pere",
-                  "text": "Fehérre meszelt plébániatemplom a falu szívében, amely meghatározza a főteret és a tengerparti hangulatot.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/calella-de-palafrugell-esgl-sia-de-sant-pere.webp",
-                  "coords": [
-                        3.143702,
-                        41.971717
                   ]
             },
             {
@@ -18687,17 +18377,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Església de Sant Pere",
-                  "text": "O biserică parohială albă în inima satului, care domină piața centrală și atmosfera maritimă locală.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/calella-de-palafrugell-esgl-sia-de-sant-pere.webp",
-                  "coords": [
-                        3.143702,
-                        41.971717
-                  ]
-            },
-            {
                   "name": "Camí de Ronda",
                   "text": "O potecă de coastă magnifică ce leagă Calella de Palafrugell de satul vecin Llafranc prin stânci.",
                   "category": "parks/promenades/beaches",
@@ -19006,17 +18685,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.18741,
                         41.8884
-                  ]
-            },
-            {
-                  "name": "Església de Sant Pere",
-                  "text": "A white parish church in the heart of the village, defining the central square and maritime atmosphere.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/calella-de-palafrugell-esgl-sia-de-sant-pere.webp",
-                  "coords": [
-                        3.143702,
-                        41.971717
                   ]
             },
             {
@@ -20311,15 +19979,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "A Lagoa",
-                  "text": "A Lagoa ist ein See in Cambados, der zu einem erholsamen Spaziergang am Wasser einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        -8.869789,
-                        42.528093
-                  ]
-            },
-            {
                   "name": "Praia dos Namorados",
                   "text": "Intimer Sandstrand, 'Liebesstrand', mit ruhigem Wasser.",
                   "category": "recreational",
@@ -20488,15 +20147,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.826469,
                         42.534531
-                  ]
-            },
-            {
-                  "name": "A Lagoa",
-                  "text": "Az A Lagoa egy tó Cambados területén, amely pihentető vízparti sétára hív.",
-                  "category": "natural",
-                  "coords": [
-                        -8.869789,
-                        42.528093
                   ]
             },
             {
@@ -20671,15 +20321,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "A Lagoa",
-                  "text": "A Lagoa este un lac în Cambados, care invită la o plimbare relaxantă pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        -8.869789,
-                        42.528093
-                  ]
-            },
-            {
                   "name": "Praia dos Namorados",
                   "text": "Plajă nisipoasă intimă, 'Plaja Îndrăgostiților', cu ape liniștite.",
                   "category": "recreational",
@@ -20848,15 +20489,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -8.826469,
                         42.534531
-                  ]
-            },
-            {
-                  "name": "A Lagoa",
-                  "text": "A Lagoa is a lake in Cambados, inviting visitors to a relaxing walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -8.869789,
-                        42.528093
                   ]
             },
             {
@@ -29198,7 +28830,352 @@ export const poiExtraEsV2: POI[] = [
             }
       ]
 }},
-  {"id": "corralejo", "type": "city", "parent": "ES-CN", "coords": [-13.8675, 28.7372], "population": 15900, "tier": 2, "name": {"de": "Corralejo", "hu": "Corralejo", "ro": "Corralejo", "en": "Corralejo"}, "description": {"de": "Ein lebhafter Ferienort im Norden Fuerteventuras, berühmt für seine riesigen Wanderdünen und als Mekka für Wind- und Kitesurfer weltweit.", "hu": "Élettel teli üdülőváros Fuerteventura északi részén, amely hatalmas vándorló homokdűnéiről és a szörfösök körében élvezett világhírérol ismert.", "ro": "O stațiune animată în nordul insulei Fuerteventura, celebră pentru dunele sale uriașe de nisip și ca destinație de top pentru windsurf și kitesurf.", "en": "A vibrant resort town in northern Fuerteventura, famous for its massive shifting sand dunes and as a global hotspot for wind and kite surfing."}, "facts": {"de": ["Naturpark der Dünen", "Blick auf Lanzarote", "Surf-Hotspot Flag Beach", "Hafen mit Inselfähren", "Altstadt 'Casco Viejo'", "Wanderdünen El Jable", "Nähe zur Insel Los Lobos", "Vielseitiges Nachtleben"], "hu": ["Dűnék Nemzeti Parkja", "Kilátás Lanzarotéra", "Flag Beach szörfparadicsom", "Kikötő szigetközi kompokkal", "Casco Viejo óváros", "El Jable vándorló dűnék", "Los Lobos sziget közelsége", "Pezsgő éjszakai élet"], "ro": ["Parcul Natural al Dunelor", "Vedere spre Lanzarote", "Flag Beach pentru surf", "Port cu feriboturi spre insule", "Casco Viejo (Centrul Vechi)", "Dunele mișcătoare El Jable", "Aproape de insula Los Lobos", "Viață de noapte activă"], "en": ["Dunes National Park", "Views of Lanzarote", "Flag Beach surf hotspot", "Harbor with inter-island ferries", "Casco Viejo old town", "El Jable shifting dunes", "Proximity to Los Lobos island", "Vibrant nightlife scene"]}, "image": "/poi-images/corralejo.webp", "imageHint": "The vast golden sand dunes of Corralejo Natural Park near the ocean", "descriptionAdvanced": {"de": "Corralejo ist das pulsierende Herz im Norden von Fuerteventura und bietet eine einzigartige Mischung aus entspanntem Surfer-Vibe und modernem Tourismus. Bekannt ist der Ort vor allem für den Parque Natural de las Dunas de Corralejo, ein etwa 11 Kilometer langes Gebiet aus feinstem weißen Saharasand, das direkt in den türkisfarbenen Atlantik übergeht. Während der alte Ortskern rund um den Hafen noch den Charme eines Fischerdorfes versprüht, finden sich entlang der Hauptstraße zahlreiche Geschäfte, Bars und internationale Restaurants. Sportbegeisterte schätzen Corralejo für seine idealen Windbedingungen; der Flag Beach ist einer der besten Orte für Kitesurfen und Windsurfen in Europa. Vom Hafen aus fahren regelmäßig Boote zur unbewohnten Insel Los Lobos, einem Naturparadies mit glasklaren Lagunen, das in nur 15 Minuten erreicht werden kann. Die Nähe zu Lanzarote macht Corralejo zudem zu einem idealen Ausgangspunkt für Inselhopping.", "hu": "Corralejo Fuerteventura északi részének lüktető központja, ahol a laza szörfös életérzés találkozik a modern turizmussal. A város legismertebb vonzereje a Corralejo Dűnék Nemzeti Park, egy 11 kilométer hosszan elnyúló, finom fehér homokból álló sivatagi táj, amely közvetlenül a türkizkék Atlanti-óceánba torkollik. Míg a kikötő körüli óváros még őrzi a régi halászfalu báját, a főutca mentén üzletek, bárok és nemzetközi éttermek sorakoznak. A sportkedvelők számára Corralejo valódi paradicsom az ideális szélviszonyok miatt; a Flag Beach Európa egyik legjobb kite- és szörfhelyszíne. A kikötőből rendszeres kishajók indulnak a lakatlan Los Lobos-szigetre, amely kristálytiszta lagúnáival mindössze 15 perc alatt elérhető. Lanzarote közelsége miatt a város kiváló kiindulópont az insuláris felfedezésekhez.", "ro": "Corralejo este centrul vibrant al nordului insulei Fuerteventura, oferind un amestec unic de cultură surf și facilități turistice moderne. Orașul este renumit în special pentru Parcul Natural al Dunelor, o zonă de 11 kilometri de nisip alb fin adus din Sahara, care se întâlnește cu apele turcoaz ale Atlanticului. În timp ce zona veche din jurul portului păstrează farmecul unui sat pescăresc, bulevardul principal este plin de magazine, baruri și restaurante internaționale. Pasionații de sporturi nautice apreciază Corralejo pentru condițiile ideale de vânt; Flag Beach este unul dintre cele mai bune locuri pentru kitesurf și windsurf din Europa. Din port, bărci regulate pleacă spre insula nelocuită Los Lobos, un paradis natural cu lagune de cristal, aflat la doar 15 minute distanță. Apropierea de Lanzarote face din Corralejo un punct strategic pentru explorarea arhipelagului.", "en": "Corralejo is the energetic pulse of northern Fuerteventura, blending a laid-back surf vibe with modern tourist amenities. The town's most famous feature is the Corralejo Dunes National Park, an 11-kilometer stretch of fine white sand dunes that merge into the turquoise Atlantic. While the old town area around the harbor retains the charm of a traditional fishing village, the main strip is lined with shops, bars, and international dining options. Sports enthusiasts value Corralejo for its world-class wind conditions; Flag Beach is considered one of Europe's premier spots for kitesurfing and windsurfing. From the harbor, regular shuttles run to the uninhabited Los Lobos Island, a natural sanctuary with crystal-clear lagoons just 15 minutes away. Its proximity to Lanzarote also makes Corralejo an ideal base for island-hopping adventures."}, "factsAdvanced": {"de": ["Naturpark Fläche: 2600 Hektar", "Entfernung nach Lanzarote: 15 km", "Haupthandelsstraße: Avenida de Nuestra Señora del Carmen", "Wichtigster Surf-Spot: Flag Beach", "Insel Los Lobos: Naturschutzgebiet", "Vulkan Bayuyo: Wanderweg ab Corralejo"], "hu": ["Nemzeti park területe: 2600 hektár", "Távolság Lanzarotétól: 15 km", "Fő bevásárlóutca: Avenida de Nuestra Señora del Carmen", "Legnépszerűbb szörfhely: Flag Beach", "Los Lobos-sziget: védett terület", "Bayuyo vulkán: túraútvonal a városból"], "ro": ["Suprafață parc natural: 2600 hectare", "Distanța până la Lanzarote: 15 km", "Strada principală: Avenida de Nuestra Señora del Carmen", "Locație principală surf: Flag Beach", "Insula Los Lobos: rezervație protejată", "Vulcanul Bayuyo: traseu de drumeție"], "en": ["Natural Park area: 2600 hectares", "Distance to Lanzarote: 15 km", "Main commercial street: Avenida de Nuestra Señora del Carmen", "Top surfing spot: Flag Beach", "Los Lobos Island: protected nature reserve", "Bayuyo Volcano: hiking trail from town"]}, "sights": {"de": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "Riesiges Naturschutzgebiet mit weißen Wanderdünen, die sich direkt bis zum türkisblauen Atlantik erstrecken.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/corralejo-parque-natural-de-las-dunas-de-corralejo.webp", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "Unbewohnte Vulkaninsel vor der Küste, die per Fähre erreichbar ist und seltene Pflanzenarten beherbergt.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/corralejo-isla-de-lobos.webp", "coords": [-13.82149, 28.75169]}, {"name": "Faro de Martiño", "text": "Einsamer Leuchtturm auf der Isla de Lobos, der seit 1865 den Seeweg zwischen Fuerteventura und Lanzarote markiert.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/corralejo-faro-de-marti-o.webp", "coords": [-13.8149, 28.76483]}, {"name": "El Campanario", "text": "Einkaufszentrum im Kolonialstil mit einem Glockenturm, der einen Rundumblick über die Stadt bietet.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/corralejo-el-campanario.webp", "coords": [-13.864607, 28.728932]}, {"name": "Puerto de Corralejo", "text": "Lebhafter Hafen, von dem aus Fähren nach Lanzarote und Ausflugsboote zur Insel Lobos ablegen.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/corralejo-puerto-de-corralejo.webp", "coords": [-13.866552, 28.740448]}, {"name": "Playa de la Goleta", "text": "Die Playa de la Goleta ist ein lebhafter, zentraler Stadtstrand in Corralejo, der mit seinem feinen Sand direkt ans Meer lockt. Umgeben von gemütlichen Bars und Cafés bietet die Küste einen fantastischen Blick auf die benachbarte Insel Lobos. Freuen Sie sich auf herrliche Bademomente, entspanntes Sonnen und lebendiges Treiben an der Promenade. Ein Besuch am Vormittag sichert den besten Platz, bevor sich der Strand mit Besuchern füllt.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/corralejo-playa-de-la-goleta.webp", "coords": [-13.866906, 28.733806]}, {"name": "Playa de Corralejo Viejo", "text": "Versteckt im alten Teil der Stadt bietet die Playa de Corralejo Viejo eine friedliche Oase abseits des Trubels. Dieser ruhige Strandabschnitt zeichnet sich durch seine geschützte Lage aus und versprüht einen beschaulichen, traditionellen Charme. Besucher können sich auf entspanntes Baden im sanften Wasser und erholsame Stunden unter der Sonne freuen. Wenn Sie die warme Mittagszeit meiden, erleben Sie hier besonders erholsame Momente am Meer.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/corralejo-playa-de-corralejo-viejo.webp", "coords": [-13.861484, 28.730188]}, {"name": "La Cantina Mexicana", "text": "La Cantina Mexicana ist ein Minigolfplatz in Corralejo, der Unterhaltung im Freien bietet.", "category": "family", "coords": [-13.870164, 28.734646]}, {"name": "Minigolf Fantasia", "text": "Minigolf Fantasia ist eine Minigolfanlage in Corralejo, ideal für einen aktiven Nachmittag mit der Familie.", "category": "family", "coords": [-13.869538, 28.727271]}], "hu": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "Hatalmas természetvédelmi terület fehér vándorhomokdűnékkel, amelyek közvetlenül az Atlanti-óceánig nyúlnak.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/corralejo-parque-natural-de-las-dunas-de-corralejo.webp", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "Lakatlan vulkáni sziget a part közelében, amely ritka növényfajoknak és egy madárrezervátumnak ad otthont.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/corralejo-isla-de-lobos.webp", "coords": [-13.82149, 28.75169]}, {"name": "Faro de Martiño", "text": "Magányos világítótorony a Lobos-szigeten, amely 1865 óta segíti a navigációt a tengerszorosban.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/corralejo-faro-de-marti-o.webp", "coords": [-13.8149, 28.76483]}, {"name": "El Campanario", "text": "Gyarmati stílusú bevásárlóközpont egy harangtoronnyal, ahonnan panorámás kilátás nyílik az egész városra.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/corralejo-el-campanario.webp", "coords": [-13.864607, 28.728932]}, {"name": "Puerto de Corralejo", "text": "Forgalmas kikötő, ahonnan kompok indulnak Lanzarotéra és kirándulóhajók a szomszédos Lobos-szigetre.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/corralejo-puerto-de-corralejo.webp", "coords": [-13.866552, 28.740448]}, {"name": "Playa de la Goleta", "text": "A Playa de la Goleta egy pezsgő, központi városi strand Corralejóban, amely finom homokjával egyenesen az óceánhoz csábít. A hangulatos bárokkal és kávézókkal körülvett partszakasz fantasztikus kilátást nyújt a szomszédos Lobos-szigetre. Készüljön fel a csodálatos fürdőzésekre, a pihentető napozásra és a sétány élénk forgatagára. Egy délelőtti látogatás biztosítja a legjobb helyet, mielőtt a strand megtelne fürdőzőkkel.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/corralejo-playa-de-la-goleta.webp", "coords": [-13.866906, 28.733806]}, {"name": "Playa de Corralejo Viejo", "text": "A város régi részén megbújó Playa de Corralejo Viejo egy békés oázis, távol a nyüzsgéstől. Ezt a csendes partszakaszt védett fekvése teszi különlegessé, és nyugodt, hagyományos bájt áraszt. A látogatók pihentető fürdőzésre számíthatnak a szelíd hullámokban, és kikapcsolódhatnak a napsütésben. Ha elkerüli a meleg déli órákat, különösen pihentető pillanatokat élhet át itt a tengerparton.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/corralejo-playa-de-corralejo-viejo.webp", "coords": [-13.861484, 28.730188]}, {"name": "La Cantina Mexicana", "text": "A La Cantina Mexicana egy minigolfpálya Corralejo területén, amely szabadtéri szórakozást kínál.", "category": "family", "coords": [-13.870164, 28.734646]}, {"name": "Minigolf Fantasia", "text": "A Minigolf Fantasia egy minigolfpálya Corralejo területén, ideális egy aktív délutánhoz a családdal.", "category": "family", "coords": [-13.869538, 28.727271]}], "ro": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "Rezervație naturală vastă cu dune de nisip alb care se întind până la apele turcoaz ale oceanului.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/corralejo-parque-natural-de-las-dunas-de-corralejo.webp", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "Insulă vulcanică nelocuită situată în largul coastei, renumită pentru biodiversitatea sa și apele limpezi.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/corralejo-isla-de-lobos.webp", "coords": [-13.82149, 28.75169]}, {"name": "Faro de Martiño", "text": "Far solitar pe insula Lobos, care ghidează navigația prin strâmtoarea La Bocayna încă din anul 1865.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/corralejo-faro-de-marti-o.webp", "coords": [-13.8149, 28.76483]}, {"name": "El Campanario", "text": "Centru comercial în stil colonial dotat cu un turn cu clopot care oferă o vedere de ansamblu asupra zonei.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/corralejo-el-campanario.webp", "coords": [-13.864607, 28.728932]}, {"name": "Puerto de Corralejo", "text": "Port activ de unde pleacă feriboturile către Lanzarote și ambarcațiunile turistice spre insula Lobos.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/corralejo-puerto-de-corralejo.webp", "coords": [-13.866552, 28.740448]}, {"name": "Playa de la Goleta", "text": "Playa de la Goleta este o plajă urbană centrală și animată din Corralejo, atrăgând prin nisipul său fin chiar pe malul mării. Înconjurată de baruri și cafenele primitoare, coasta oferă o vedere fantastică către insula învecinată Lobos. Așteptați-vă la momente minunate de înot, băi de soare relaxante și forfota vibrantă de pe promenadă. O vizită dimineața vă asigură cel mai bun loc înainte ca plaja să devină aglomerată.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/corralejo-playa-de-la-goleta.webp", "coords": [-13.866906, 28.733806]}, {"name": "Playa de Corralejo Viejo", "text": "Ascunsă în partea veche a orașului, Playa de Corralejo Viejo oferă o oază pașnică, departe de agitație. Această secțiune liniștită de plajă se remarcă prin locația sa protejată și emană un farmec tradițional și contemplativ. Vizitatorii se pot aștepta la o baie relaxantă în apa blândă și la ore de odihnă sub razele soarelui. Evitând căldura amiezii, veți experimenta momente deosebit de odihnitoare la malul mării.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/corralejo-playa-de-corralejo-viejo.webp", "coords": [-13.861484, 28.730188]}, {"name": "La Cantina Mexicana", "text": "La Cantina Mexicana este un teren de minigolf în Corralejo, oferind divertisment în aer liber.", "category": "family", "coords": [-13.870164, 28.734646]}, {"name": "Minigolf Fantasia", "text": "Minigolf Fantasia este un teren de minigolf în Corralejo, ideal pentru o după-amiază activă cu familia.", "category": "family", "coords": [-13.869538, 28.727271]}], "en": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "Vast natural park featuring massive white sand dunes that stretch directly into the turquoise Atlantic.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/corralejo-parque-natural-de-las-dunas-de-corralejo.webp", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "Uninhabited volcanic island located offshore, accessible by ferry and home to rare plant species.", "category": "natural features", "confidence": "high", "image": "/poi-images/sights/corralejo-isla-de-lobos.webp", "coords": [-13.82149, 28.75169]}, {"name": "Faro de Martiño", "text": "Secluded lighthouse on Lobos Island, marking the shipping lane between Fuerteventura and Lanzarote since 1865.", "category": "bridges/lighthouses", "confidence": "high", "image": "/poi-images/sights/corralejo-faro-de-marti-o.webp", "coords": [-13.8149, 28.76483]}, {"name": "El Campanario", "text": "Colonial-style shopping center with a bell tower offering a 360-degree view of the city and coast.", "category": "squares/old-town", "confidence": "high", "image": "/poi-images/sights/corralejo-el-campanario.webp", "coords": [-13.864607, 28.728932]}, {"name": "Puerto de Corralejo", "text": "Bustling port from which ferries to Lanzarote and excursion boats to Lobos Island depart daily.", "category": "industrial heritage", "confidence": "high", "image": "/poi-images/sights/corralejo-puerto-de-corralejo.webp", "coords": [-13.866552, 28.740448]}, {"name": "Playa de la Goleta", "text": "Playa de la Goleta is a lively, central city beach in Corralejo, beckoning directly to the sea with its fine sand. Surrounded by cozy bars and cafes, this coastline offers a fantastic view of the neighboring island of Lobos. Look forward to wonderful moments swimming, relaxed sunbathing, and the vibrant activity along the promenade. A morning visit secures the best spot before the beach fills with visitors.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/corralejo-playa-de-la-goleta.webp", "coords": [-13.866906, 28.733806]}, {"name": "Playa de Corralejo Viejo", "text": "Tucked away in the old part of the city, Playa de Corralejo Viejo provides a peaceful oasis away from the hustle and bustle. This quiet beach section is distinguished by its sheltered location, radiating a tranquil, traditional charm. Visitors can look forward to relaxed swimming in gentle waters and restful hours under the sun. By avoiding the midday heat, you will experience especially restorative moments by the sea here.", "category": "parks/promenades/beaches", "confidence": "high", "image": "/poi-images/sights/corralejo-playa-de-corralejo-viejo.webp", "coords": [-13.861484, 28.730188]}, {"name": "La Cantina Mexicana", "text": "La Cantina Mexicana is a miniature golf course in Corralejo, providing outdoor entertainment.", "category": "family", "coords": [-13.870164, 28.734646]}, {"name": "Minigolf Fantasia", "text": "Minigolf Fantasia is a miniature golf course in Corralejo, ideal for an active afternoon with the family.", "category": "family", "coords": [-13.869538, 28.727271]}]}},
+  {"id": "corralejo", "type": "city", "parent": "ES-CN", "coords": [-13.8675, 28.7372], "population": 15900, "tier": 2, "name": {"de": "Corralejo", "hu": "Corralejo", "ro": "Corralejo", "en": "Corralejo"}, "description": {"de": "Ein lebhafter Ferienort im Norden Fuerteventuras, berühmt für seine riesigen Wanderdünen und als Mekka für Wind- und Kitesurfer weltweit.", "hu": "Élettel teli üdülőváros Fuerteventura északi részén, amely hatalmas vándorló homokdűnéiről és a szörfösök körében élvezett világhírérol ismert.", "ro": "O stațiune animată în nordul insulei Fuerteventura, celebră pentru dunele sale uriașe de nisip și ca destinație de top pentru windsurf și kitesurf.", "en": "A vibrant resort town in northern Fuerteventura, famous for its massive shifting sand dunes and as a global hotspot for wind and kite surfing."}, "facts": {"de": ["Naturpark der Dünen", "Blick auf Lanzarote", "Surf-Hotspot Flag Beach", "Hafen mit Inselfähren", "Altstadt 'Casco Viejo'", "Wanderdünen El Jable", "Nähe zur Insel Los Lobos", "Vielseitiges Nachtleben"], "hu": ["Dűnék Nemzeti Parkja", "Kilátás Lanzarotéra", "Flag Beach szörfparadicsom", "Kikötő szigetközi kompokkal", "Casco Viejo óváros", "El Jable vándorló dűnék", "Los Lobos sziget közelsége", "Pezsgő éjszakai élet"], "ro": ["Parcul Natural al Dunelor", "Vedere spre Lanzarote", "Flag Beach pentru surf", "Port cu feriboturi spre insule", "Casco Viejo (Centrul Vechi)", "Dunele mișcătoare El Jable", "Aproape de insula Los Lobos", "Viață de noapte activă"], "en": ["Dunes National Park", "Views of Lanzarote", "Flag Beach surf hotspot", "Harbor with inter-island ferries", "Casco Viejo old town", "El Jable shifting dunes", "Proximity to Los Lobos island", "Vibrant nightlife scene"]}, "image": "/poi-images/corralejo.webp", "imageHint": "The vast golden sand dunes of Corralejo Natural Park near the ocean", "descriptionAdvanced": {"de": "Corralejo ist das pulsierende Herz im Norden von Fuerteventura und bietet eine einzigartige Mischung aus entspanntem Surfer-Vibe und modernem Tourismus. Bekannt ist der Ort vor allem für den Parque Natural de las Dunas de Corralejo, ein etwa 11 Kilometer langes Gebiet aus feinstem weißen Saharasand, das direkt in den türkisfarbenen Atlantik übergeht. Während der alte Ortskern rund um den Hafen noch den Charme eines Fischerdorfes versprüht, finden sich entlang der Hauptstraße zahlreiche Geschäfte, Bars und internationale Restaurants. Sportbegeisterte schätzen Corralejo für seine idealen Windbedingungen; der Flag Beach ist einer der besten Orte für Kitesurfen und Windsurfen in Europa. Vom Hafen aus fahren regelmäßig Boote zur unbewohnten Insel Los Lobos, einem Naturparadies mit glasklaren Lagunen, das in nur 15 Minuten erreicht werden kann. Die Nähe zu Lanzarote macht Corralejo zudem zu einem idealen Ausgangspunkt für Inselhopping.", "hu": "Corralejo Fuerteventura északi részének lüktető központja, ahol a laza szörfös életérzés találkozik a modern turizmussal. A város legismertebb vonzereje a Corralejo Dűnék Nemzeti Park, egy 11 kilométer hosszan elnyúló, finom fehér homokból álló sivatagi táj, amely közvetlenül a türkizkék Atlanti-óceánba torkollik. Míg a kikötő körüli óváros még őrzi a régi halászfalu báját, a főutca mentén üzletek, bárok és nemzetközi éttermek sorakoznak. A sportkedvelők számára Corralejo valódi paradicsom az ideális szélviszonyok miatt; a Flag Beach Európa egyik legjobb kite- és szörfhelyszíne. A kikötőből rendszeres kishajók indulnak a lakatlan Los Lobos-szigetre, amely kristálytiszta lagúnáival mindössze 15 perc alatt elérhető. Lanzarote közelsége miatt a város kiváló kiindulópont az insuláris felfedezésekhez.", "ro": "Corralejo este centrul vibrant al nordului insulei Fuerteventura, oferind un amestec unic de cultură surf și facilități turistice moderne. Orașul este renumit în special pentru Parcul Natural al Dunelor, o zonă de 11 kilometri de nisip alb fin adus din Sahara, care se întâlnește cu apele turcoaz ale Atlanticului. În timp ce zona veche din jurul portului păstrează farmecul unui sat pescăresc, bulevardul principal este plin de magazine, baruri și restaurante internaționale. Pasionații de sporturi nautice apreciază Corralejo pentru condițiile ideale de vânt; Flag Beach este unul dintre cele mai bune locuri pentru kitesurf și windsurf din Europa. Din port, bărci regulate pleacă spre insula nelocuită Los Lobos, un paradis natural cu lagune de cristal, aflat la doar 15 minute distanță. Apropierea de Lanzarote face din Corralejo un punct strategic pentru explorarea arhipelagului.", "en": "Corralejo is the energetic pulse of northern Fuerteventura, blending a laid-back surf vibe with modern tourist amenities. The town's most famous feature is the Corralejo Dunes National Park, an 11-kilometer stretch of fine white sand dunes that merge into the turquoise Atlantic. While the old town area around the harbor retains the charm of a traditional fishing village, the main strip is lined with shops, bars, and international dining options. Sports enthusiasts value Corralejo for its world-class wind conditions; Flag Beach is considered one of Europe's premier spots for kitesurfing and windsurfing. From the harbor, regular shuttles run to the uninhabited Los Lobos Island, a natural sanctuary with crystal-clear lagoons just 15 minutes away. Its proximity to Lanzarote also makes Corralejo an ideal base for island-hopping adventures."}, "factsAdvanced": {"de": ["Naturpark Fläche: 2600 Hektar", "Entfernung nach Lanzarote: 15 km", "Haupthandelsstraße: Avenida de Nuestra Señora del Carmen", "Wichtigster Surf-Spot: Flag Beach", "Insel Los Lobos: Naturschutzgebiet", "Vulkan Bayuyo: Wanderweg ab Corralejo"], "hu": ["Nemzeti park területe: 2600 hektár", "Távolság Lanzarotétól: 15 km", "Fő bevásárlóutca: Avenida de Nuestra Señora del Carmen", "Legnépszerűbb szörfhely: Flag Beach", "Los Lobos-sziget: védett terület", "Bayuyo vulkán: túraútvonal a városból"], "ro": ["Suprafață parc natural: 2600 hectare", "Distanța până la Lanzarote: 15 km", "Strada principală: Avenida de Nuestra Señora del Carmen", "Locație principală surf: Flag Beach", "Insula Los Lobos: rezervație protejată", "Vulcanul Bayuyo: traseu de drumeție"], "en": ["Natural Park area: 2600 hectares", "Distance to Lanzarote: 15 km", "Main commercial street: Avenida de Nuestra Señora del Carmen", "Top surfing spot: Flag Beach", "Los Lobos Island: protected nature reserve", "Bayuyo Volcano: hiking trail from town"]}, "sights": {
+      "de": [
+            {
+                  "name": "Isla de Lobos",
+                  "text": "Unbewohnte Vulkaninsel vor der Küste, die per Fähre erreichbar ist und seltene Pflanzenarten beherbergt.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-isla-de-lobos.webp",
+                  "coords": [
+                        -13.82149,
+                        28.75169
+                  ]
+            },
+            {
+                  "name": "Faro de Martiño",
+                  "text": "Einsamer Leuchtturm auf der Isla de Lobos, der seit 1865 den Seeweg zwischen Fuerteventura und Lanzarote markiert.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-faro-de-marti-o.webp",
+                  "coords": [
+                        -13.8149,
+                        28.76483
+                  ]
+            },
+            {
+                  "name": "El Campanario",
+                  "text": "Einkaufszentrum im Kolonialstil mit einem Glockenturm, der einen Rundumblick über die Stadt bietet.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-el-campanario.webp",
+                  "coords": [
+                        -13.864607,
+                        28.728932
+                  ]
+            },
+            {
+                  "name": "Puerto de Corralejo",
+                  "text": "Lebhafter Hafen, von dem aus Fähren nach Lanzarote und Ausflugsboote zur Insel Lobos ablegen.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-puerto-de-corralejo.webp",
+                  "coords": [
+                        -13.866552,
+                        28.740448
+                  ]
+            },
+            {
+                  "name": "Playa de la Goleta",
+                  "text": "Die Playa de la Goleta ist ein lebhafter, zentraler Stadtstrand in Corralejo, der mit seinem feinen Sand direkt ans Meer lockt. Umgeben von gemütlichen Bars und Cafés bietet die Küste einen fantastischen Blick auf die benachbarte Insel Lobos. Freuen Sie sich auf herrliche Bademomente, entspanntes Sonnen und lebendiges Treiben an der Promenade. Ein Besuch am Vormittag sichert den besten Platz, bevor sich der Strand mit Besuchern füllt.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-playa-de-la-goleta.webp",
+                  "coords": [
+                        -13.866906,
+                        28.733806
+                  ]
+            },
+            {
+                  "name": "Playa de Corralejo Viejo",
+                  "text": "Versteckt im alten Teil der Stadt bietet die Playa de Corralejo Viejo eine friedliche Oase abseits des Trubels. Dieser ruhige Strandabschnitt zeichnet sich durch seine geschützte Lage aus und versprüht einen beschaulichen, traditionellen Charme. Besucher können sich auf entspanntes Baden im sanften Wasser und erholsame Stunden unter der Sonne freuen. Wenn Sie die warme Mittagszeit meiden, erleben Sie hier besonders erholsame Momente am Meer.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-playa-de-corralejo-viejo.webp",
+                  "coords": [
+                        -13.861484,
+                        28.730188
+                  ]
+            },
+            {
+                  "name": "La Cantina Mexicana",
+                  "text": "La Cantina Mexicana ist ein Minigolfplatz in Corralejo, der Unterhaltung im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        -13.870164,
+                        28.734646
+                  ]
+            },
+            {
+                  "name": "Minigolf Fantasia",
+                  "text": "Minigolf Fantasia ist eine Minigolfanlage in Corralejo, ideal für einen aktiven Nachmittag mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        -13.869538,
+                        28.727271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Isla de Lobos",
+                  "text": "Lakatlan vulkáni sziget a part közelében, amely ritka növényfajoknak és egy madárrezervátumnak ad otthont.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-isla-de-lobos.webp",
+                  "coords": [
+                        -13.82149,
+                        28.75169
+                  ]
+            },
+            {
+                  "name": "Faro de Martiño",
+                  "text": "Magányos világítótorony a Lobos-szigeten, amely 1865 óta segíti a navigációt a tengerszorosban.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-faro-de-marti-o.webp",
+                  "coords": [
+                        -13.8149,
+                        28.76483
+                  ]
+            },
+            {
+                  "name": "El Campanario",
+                  "text": "Gyarmati stílusú bevásárlóközpont egy harangtoronnyal, ahonnan panorámás kilátás nyílik az egész városra.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-el-campanario.webp",
+                  "coords": [
+                        -13.864607,
+                        28.728932
+                  ]
+            },
+            {
+                  "name": "Puerto de Corralejo",
+                  "text": "Forgalmas kikötő, ahonnan kompok indulnak Lanzarotéra és kirándulóhajók a szomszédos Lobos-szigetre.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-puerto-de-corralejo.webp",
+                  "coords": [
+                        -13.866552,
+                        28.740448
+                  ]
+            },
+            {
+                  "name": "Playa de la Goleta",
+                  "text": "A Playa de la Goleta egy pezsgő, központi városi strand Corralejóban, amely finom homokjával egyenesen az óceánhoz csábít. A hangulatos bárokkal és kávézókkal körülvett partszakasz fantasztikus kilátást nyújt a szomszédos Lobos-szigetre. Készüljön fel a csodálatos fürdőzésekre, a pihentető napozásra és a sétány élénk forgatagára. Egy délelőtti látogatás biztosítja a legjobb helyet, mielőtt a strand megtelne fürdőzőkkel.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-playa-de-la-goleta.webp",
+                  "coords": [
+                        -13.866906,
+                        28.733806
+                  ]
+            },
+            {
+                  "name": "Playa de Corralejo Viejo",
+                  "text": "A város régi részén megbújó Playa de Corralejo Viejo egy békés oázis, távol a nyüzsgéstől. Ezt a csendes partszakaszt védett fekvése teszi különlegessé, és nyugodt, hagyományos bájt áraszt. A látogatók pihentető fürdőzésre számíthatnak a szelíd hullámokban, és kikapcsolódhatnak a napsütésben. Ha elkerüli a meleg déli órákat, különösen pihentető pillanatokat élhet át itt a tengerparton.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-playa-de-corralejo-viejo.webp",
+                  "coords": [
+                        -13.861484,
+                        28.730188
+                  ]
+            },
+            {
+                  "name": "La Cantina Mexicana",
+                  "text": "A La Cantina Mexicana egy minigolfpálya Corralejo területén, amely szabadtéri szórakozást kínál.",
+                  "category": "family",
+                  "coords": [
+                        -13.870164,
+                        28.734646
+                  ]
+            },
+            {
+                  "name": "Minigolf Fantasia",
+                  "text": "A Minigolf Fantasia egy minigolfpálya Corralejo területén, ideális egy aktív délutánhoz a családdal.",
+                  "category": "family",
+                  "coords": [
+                        -13.869538,
+                        28.727271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Isla de Lobos",
+                  "text": "Insulă vulcanică nelocuită situată în largul coastei, renumită pentru biodiversitatea sa și apele limpezi.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-isla-de-lobos.webp",
+                  "coords": [
+                        -13.82149,
+                        28.75169
+                  ]
+            },
+            {
+                  "name": "Faro de Martiño",
+                  "text": "Far solitar pe insula Lobos, care ghidează navigația prin strâmtoarea La Bocayna încă din anul 1865.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-faro-de-marti-o.webp",
+                  "coords": [
+                        -13.8149,
+                        28.76483
+                  ]
+            },
+            {
+                  "name": "El Campanario",
+                  "text": "Centru comercial în stil colonial dotat cu un turn cu clopot care oferă o vedere de ansamblu asupra zonei.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-el-campanario.webp",
+                  "coords": [
+                        -13.864607,
+                        28.728932
+                  ]
+            },
+            {
+                  "name": "Puerto de Corralejo",
+                  "text": "Port activ de unde pleacă feriboturile către Lanzarote și ambarcațiunile turistice spre insula Lobos.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-puerto-de-corralejo.webp",
+                  "coords": [
+                        -13.866552,
+                        28.740448
+                  ]
+            },
+            {
+                  "name": "Playa de la Goleta",
+                  "text": "Playa de la Goleta este o plajă urbană centrală și animată din Corralejo, atrăgând prin nisipul său fin chiar pe malul mării. Înconjurată de baruri și cafenele primitoare, coasta oferă o vedere fantastică către insula învecinată Lobos. Așteptați-vă la momente minunate de înot, băi de soare relaxante și forfota vibrantă de pe promenadă. O vizită dimineața vă asigură cel mai bun loc înainte ca plaja să devină aglomerată.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-playa-de-la-goleta.webp",
+                  "coords": [
+                        -13.866906,
+                        28.733806
+                  ]
+            },
+            {
+                  "name": "Playa de Corralejo Viejo",
+                  "text": "Ascunsă în partea veche a orașului, Playa de Corralejo Viejo oferă o oază pașnică, departe de agitație. Această secțiune liniștită de plajă se remarcă prin locația sa protejată și emană un farmec tradițional și contemplativ. Vizitatorii se pot aștepta la o baie relaxantă în apa blândă și la ore de odihnă sub razele soarelui. Evitând căldura amiezii, veți experimenta momente deosebit de odihnitoare la malul mării.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-playa-de-corralejo-viejo.webp",
+                  "coords": [
+                        -13.861484,
+                        28.730188
+                  ]
+            },
+            {
+                  "name": "La Cantina Mexicana",
+                  "text": "La Cantina Mexicana este un teren de minigolf în Corralejo, oferind divertisment în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -13.870164,
+                        28.734646
+                  ]
+            },
+            {
+                  "name": "Minigolf Fantasia",
+                  "text": "Minigolf Fantasia este un teren de minigolf în Corralejo, ideal pentru o după-amiază activă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        -13.869538,
+                        28.727271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Isla de Lobos",
+                  "text": "Uninhabited volcanic island located offshore, accessible by ferry and home to rare plant species.",
+                  "category": "natural features",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-isla-de-lobos.webp",
+                  "coords": [
+                        -13.82149,
+                        28.75169
+                  ]
+            },
+            {
+                  "name": "Faro de Martiño",
+                  "text": "Secluded lighthouse on Lobos Island, marking the shipping lane between Fuerteventura and Lanzarote since 1865.",
+                  "category": "bridges/lighthouses",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-faro-de-marti-o.webp",
+                  "coords": [
+                        -13.8149,
+                        28.76483
+                  ]
+            },
+            {
+                  "name": "El Campanario",
+                  "text": "Colonial-style shopping center with a bell tower offering a 360-degree view of the city and coast.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-el-campanario.webp",
+                  "coords": [
+                        -13.864607,
+                        28.728932
+                  ]
+            },
+            {
+                  "name": "Puerto de Corralejo",
+                  "text": "Bustling port from which ferries to Lanzarote and excursion boats to Lobos Island depart daily.",
+                  "category": "industrial heritage",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-puerto-de-corralejo.webp",
+                  "coords": [
+                        -13.866552,
+                        28.740448
+                  ]
+            },
+            {
+                  "name": "Playa de la Goleta",
+                  "text": "Playa de la Goleta is a lively, central city beach in Corralejo, beckoning directly to the sea with its fine sand. Surrounded by cozy bars and cafes, this coastline offers a fantastic view of the neighboring island of Lobos. Look forward to wonderful moments swimming, relaxed sunbathing, and the vibrant activity along the promenade. A morning visit secures the best spot before the beach fills with visitors.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-playa-de-la-goleta.webp",
+                  "coords": [
+                        -13.866906,
+                        28.733806
+                  ]
+            },
+            {
+                  "name": "Playa de Corralejo Viejo",
+                  "text": "Tucked away in the old part of the city, Playa de Corralejo Viejo provides a peaceful oasis away from the hustle and bustle. This quiet beach section is distinguished by its sheltered location, radiating a tranquil, traditional charm. Visitors can look forward to relaxed swimming in gentle waters and restful hours under the sun. By avoiding the midday heat, you will experience especially restorative moments by the sea here.",
+                  "category": "parks/promenades/beaches",
+                  "confidence": "high",
+                  "image": "/poi-images/sights/corralejo-playa-de-corralejo-viejo.webp",
+                  "coords": [
+                        -13.861484,
+                        28.730188
+                  ]
+            },
+            {
+                  "name": "La Cantina Mexicana",
+                  "text": "La Cantina Mexicana is a miniature golf course in Corralejo, providing outdoor entertainment.",
+                  "category": "family",
+                  "coords": [
+                        -13.870164,
+                        28.734646
+                  ]
+            },
+            {
+                  "name": "Minigolf Fantasia",
+                  "text": "Minigolf Fantasia is a miniature golf course in Corralejo, ideal for an active afternoon with the family.",
+                  "category": "family",
+                  "coords": [
+                        -13.869538,
+                        28.727271
+                  ]
+            }
+      ]
+}},
   {"id": "costa-adeje", "type": "city", "parent": "ES-CN", "coords": [-16.7308, 28.0922], "population": 49000, "tier": 2, "name": {"de": "Costa Adeje", "hu": "Costa Adeje", "ro": "Costa Adeje", "en": "Costa Adeje"}, "description": {"de": "Costa Adeje ist das exklusive Juwel im Süden Teneriffas, bekannt für seine luxuriösen 5-Sterne-Hotels, erstklassigen Strände und modernen Einkaufszentren.", "hu": "Costa Adeje Tenerife déli részének exkluzív ékköve, amely luxus 5 csillagos szállodáiról, első osztályú strandjairól és modern bevásárlóközpontjairól ismert.", "ro": "Costa Adeje este bijuteria exclusivistă din sudul insulei Tenerife, renumită pentru hotelurile de lux de 5 stele, plajele de top și mall-urile moderne.", "en": "Costa Adeje is the exclusive gem of southern Tenerife, known for its luxurious 5-star hotels, world-class beaches, and modern shopping centers."}, "facts": {"de": ["Modernster und exklusivster Teil der Südküste", "Heimat des weltbesten Wasserparks Siam Park", "Luxusstrand Playa del Duque mit hellem Sand", "Zahlreiche 5-Sterne-Resorts und Spa-Hotels", "Moderner Yachthafen Puerto Colón", "Hervorragende Golfplätze in direkter Nähe", "Große Auswahl an Designer-Boutiquen", "Spektakuläre Sonnenuntergänge über dem Atlantik"], "hu": ["A déli part legmodernebb és legexkluzívabb része", "Itt található a világ legjobb víziparkja, a Siam Park", "Luxusstrand, a Playa del Duque világos homokkal", "Számos 5 csillagos üdülőhely és wellness szálloda", "Modern jachtkikötő (Puerto Colón)", "Kiváló golfpályák a közvetlen közelben", "Designer butikok és elegáns bevásárlónegyedek", "Látványos naplementék az Atlanti-óceán felett"], "ro": ["Cea mai modernă și exclusivistă parte a coastei de sud", "Găzduiește Siam Park, cel mai bun parc acvatic din lume", "Plaja de lux Playa del Duque cu nisip fin și deschis", "Numeroase resorturi de 5 stele și hoteluri cu spa", "Port de iahturi modern (Puerto Colón)", "Terenuri de golf excelente în imediata apropiere", "Selecție vastă de buticuri de designer", "Apusuri de soare spectaculoase peste Oceanul Atlantic"], "en": ["The most modern and upscale part of the southern coast", "Home to Siam Park, world's top-rated water park", "Luxury Playa del Duque beach with golden sand", "Concentration of high-end 5-star resorts and spas", "Modern yacht marina at Puerto Colón", "Exceptional golf courses in the immediate vicinity", "Wide array of designer boutiques and shopping", "Spectacular Atlantic sunsets from the waterfront"]}, "image": "/poi-images/costa-adeje.webp", "imageHint": "Luxury hotels and the coastline of Costa Adeje with Playa del Duque.", "descriptionAdvanced": {"de": "Costa Adeje steht für Luxus und Qualität im kanarischen Tourismus. Während andere Gebiete eher auf Massentourismus setzen, hat sich Costa Adeje als Ziel für anspruchsvolle Reisende etabliert. Die Architektur wird von großzügigen Hotelanlagen im neokolonialen oder ultramodernen Stil geprägt. Besonders hervorzuheben ist der Strand Playa del Duque, der mit seinem feinen Sand und kristallklarem Wasser als einer der schönsten der Insel gilt. Für Adrenalinjunkies bietet die Costa Adeje den Siam Park, einen riesigen, im thailändischen Stil gestalteten Wasserpark, der mehrfach zum besten der Welt gewählt wurde. Auch Wanderer kommen auf ihre Kosten: Die Schlucht 'Barranco del Infierno' ist ein geschütztes Naturreservat direkt hinter der Küstenlinie. Costa Adeje bietet somit eine perfekte Balance zwischen exklusivem Komfort und Naturerlebnis. Costa Adeje war 2024 ein Brennpunkt der Teneriffa-Proteste gegen Massentourismus mit Demonstrationen direkt an Hotel-Promenaden. Resorts werben seither verstärkt mit nachhaltigem Tourismus und Wassersparmaßnahmen.", "hu": "Costa Adeje a luxus és a minőség szinonimája a kanári turizmusban. Míg más területek a tömegturizmusra építenek, Costa Adeje az igényes utazók célpontjává vált. A városképet tágas, neokoloniális vagy ultramodern stílusú szállodakomplexumok határozzák meg. Külön említést érdemel a Playa del Duque strand, amely finom homokjával és kristálytiszta vizével a sziget egyik legszebbje. Az adrenalin kedvelőinek itt található a Siam Park, egy hatalmas, thai stílusú vízipark, amelyet többször is a világ legjobbjának választottak. A természetjárók számára is tartogat meglepetést: a 'Barranco del Infierno' (Pokol-szakadék) egy védett természetvédelmi terület közvetlenül a tengerpart mögött. Costa Adeje így tökéletes egyensúlyt kínál az exkluzív kényelem és a természeti élmények között. Costa Adeje a 2024-es tenerifei anti-tourism tüntetések egyik gócpontja volt, közvetlenül a szállodai promenádokon zajló demonstrációkkal. A resortok azóta hangsúlyosabban hirdetik a fenntartható turizmust és víztakarékos intézkedéseket.", "ro": "Costa Adeje reprezintă sinonimul luxului și calității în turismul canarian. În timp ce alte zone se concentrează pe turismul de masă, Costa Adeje s-a impus ca destinație pentru călătorii exigenți. Arhitectura este definită de complexe hoteliere spațioase în stil neocolonial sau ultramodern. O mențiune specială merită plaja Playa del Duque, care, cu nisipul său fin și apa de cristal, este considerată una dintre cele mai frumoase de pe insulă. Pentru amatorii de adrenalină, Costa Adeje oferă Siam Park, un parc acvatic imens cu tematică thailandeză, votat de mai multe ori ca fiind cel mai bun din lume. Pasionații de drumeții au și ei opțiuni: canionul 'Barranco del Infierno' este o rezervație naturală protejată aflată chiar în spatele liniei de coastă. Astfel, Costa Adeje oferă un echilibru perfect între confortul exclusivist și experiența naturii. Costa Adeje a fost în 2024 unul dintre focarele protestelor din Tenerife împotriva turismului în masă, cu demonstrații chiar pe promenadele hotelurilor. Resorturile promovează acum mai puternic turismul sustenabil și măsuri de economisire a apei.", "en": "Costa Adeje stands as a symbol of luxury and high-quality tourism in the Canary Islands. While other areas may cater to mass tourism, Costa Adeje has successfully positioned itself as a premier destination for sophisticated travelers. The local landscape is dominated by spacious hotel resorts featuring neo-colonial or ultra-modern designs. A highlight is undoubtedly Playa del Duque, widely regarded as one of the island's finest beaches thanks to its fine sand and crystal-clear waters. For thrill-seekers, Costa Adeje is home to Siam Park, a massive Thai-themed water park consistently ranked as the world's best. Nature enthusiasts can explore the 'Barranco del Infierno' (Hell's Ravine), a protected nature reserve located just inland from the coast. Consequently, Costa Adeje offers a perfect balance of upscale comfort and natural adventures. Costa Adeje was a hotspot of 2024 Tenerife anti-tourism protests, with demonstrations along hotel promenades. Resorts now market sustainable tourism and water-saving measures more heavily."}, "factsAdvanced": {"de": ["Gehört zur Gemeinde Adeje, die eine der reichsten Spaniens ist", "Siam Park hält mehrere Weltrekorde für Wasserrutschen", "Der Barranco del Infierno erlaubt nur eine begrenzte Besucherzahl pro Tag", "Puerto Colón ist ein wichtiger Startpunkt für Katamaran-Touren", "Höchste Konzentration an 5-Sterne-Hotels in ganz Europa", "Golf Costa Adeje wurde auf ehemaligen Bananenplantagen errichtet"], "hu": ["Adeje önkormányzatához tartozik, amely Spanyolország egyik leggazdagabbja", "A Siam Park több világrekordot is tart a csúszdák terén", "A Barranco del Infierno szakadék naponta csak korlátozott számú látogatót fogad", "Puerto Colón a katamarán túrák és tengeri kirándulások központja", "Itt található egész Európa egyik legmagasabb 5 csillagos hotelkoncentrációja", "A Golf Costa Adeje pálya egykori banánültetvények helyén épült"], "ro": ["Face parte din municipalitatea Adeje, una dintre cele mai bogate din Spania", "Siam Park deține mai multe recorduri mondiale pentru tobogane cu apă", "Barranco del Infierno permite doar un număr limitat de vizitatori pe zi", "Puerto Colón este un punct principal de plecare pentru tururi cu catamaranul", "Cea mai mare concentrație de hoteluri de 5 stele din Europa", "Terenul de golf Costa Adeje a fost construit pe locul fostelor plantații de banane"], "en": ["Part of the Adeje municipality, which is among the wealthiest in Spain", "Siam Park holds multiple world records for its water attractions", "Barranco del Infierno limits its daily visitor numbers to preserve the habitat", "Puerto Colón serves as a major hub for catamaran and boat excursions", "Features one of the highest concentrations of 5-star hotels in Europe", "The Golf Costa Adeje course was developed on former banana plantations"]}, "sights": {
       "de": [
             {
@@ -29308,15 +29285,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa de Cabo Blanco",
-                  "text": "Ein ruhiger Stausee in Costa Adeje, eingebettet in die lokale Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        -16.666997,
-                        28.067479
-                  ]
-            },
-            {
                   "name": "Presa del Ancón",
                   "text": "Dieses Wasserbecken in Costa Adeje dient als friedlicher Rückzugsort für Naturfreunde.",
                   "category": "natural",
@@ -29341,15 +29309,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.69379,
                         28.080204
-                  ]
-            },
-            {
-                  "name": "Depósito Charca la Camella",
-                  "text": "Dieser ruhige Teich in Costa Adeje lädt zu einer kurzen Pause im Freien ein.",
-                  "category": "natural",
-                  "coords": [
-                        -16.681537,
-                        28.078865
                   ]
             },
             {
@@ -29389,15 +29348,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Balsa El Mojón",
-                  "text": "Ein kleines Becken in Costa Adeje, das Ruhe und Entspannung im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -16.710824,
-                        28.070421
-                  ]
-            },
-            {
                   "name": "Charco La Negra",
                   "text": "Ein naturbelassener Teich in Costa Adeje, der sich für eine kurze Beobachtungspause eignet.",
                   "category": "natural",
@@ -29431,15 +29381,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.735748,
                         28.092214
-                  ]
-            },
-            {
-                  "name": "Bricobilandia",
-                  "text": "Ein kreativer Indoor-Spielplatz in Costa Adeje, der Kindern fantasievolles Spielen ermöglicht.",
-                  "category": "family",
-                  "coords": [
-                        -16.722152,
-                        28.069558
                   ]
             },
             {
@@ -29605,15 +29546,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa de Cabo Blanco",
-                  "text": "Nyugodt víztározó Costa Adeje területén, a helyi tájba ágyazva.",
-                  "category": "natural",
-                  "coords": [
-                        -16.666997,
-                        28.067479
-                  ]
-            },
-            {
                   "name": "Presa del Ancón",
                   "text": "Ez a Costa Adeje területén található vízmedence békés menedéket nyújt a természetbarátoknak.",
                   "category": "natural",
@@ -29638,15 +29570,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.69379,
                         28.080204
-                  ]
-            },
-            {
-                  "name": "Depósito Charca la Camella",
-                  "text": "Ez a nyugodt tó Costa Adeje területén egy rövid szabadtéri pihenőre hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        -16.681537,
-                        28.078865
                   ]
             },
             {
@@ -29686,15 +29609,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Balsa El Mojón",
-                  "text": "Kisebb medence Costa Adeje területén, amely nyugalmat és pihenést kínál a szabadban.",
-                  "category": "natural",
-                  "coords": [
-                        -16.710824,
-                        28.070421
-                  ]
-            },
-            {
                   "name": "Charco La Negra",
                   "text": "Természetközeli tó Costa Adeje területén, amely alkalmas egy rövid megfigyelésre.",
                   "category": "natural",
@@ -29728,15 +29642,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.735748,
                         28.092214
-                  ]
-            },
-            {
-                  "name": "Bricobilandia",
-                  "text": "Kreatív beltéri játszótér Costa Adeje városában, amely fantáziadús játékot tesz lehetővé a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        -16.722152,
-                        28.069558
                   ]
             },
             {
@@ -29902,15 +29807,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa de Cabo Blanco",
-                  "text": "Un lac de acumulare liniștit în Costa Adeje, integrat în peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        -16.666997,
-                        28.067479
-                  ]
-            },
-            {
                   "name": "Presa del Ancón",
                   "text": "Acest bazin de apă din Costa Adeje servește ca refugiu liniștit pentru iubitorii de natură.",
                   "category": "natural",
@@ -29935,15 +29831,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.69379,
                         28.080204
-                  ]
-            },
-            {
-                  "name": "Depósito Charca la Camella",
-                  "text": "Acest iaz liniștit din Costa Adeje invită la o scurtă pauză în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        -16.681537,
-                        28.078865
                   ]
             },
             {
@@ -29983,15 +29870,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Balsa El Mojón",
-                  "text": "Un mic bazin în Costa Adeje care oferă liniște și relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        -16.710824,
-                        28.070421
-                  ]
-            },
-            {
                   "name": "Charco La Negra",
                   "text": "Un iaz natural în Costa Adeje, potrivit pentru o scurtă pauză de observare.",
                   "category": "natural",
@@ -30025,15 +29903,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.735748,
                         28.092214
-                  ]
-            },
-            {
-                  "name": "Bricobilandia",
-                  "text": "Un teren de joacă interior creativ în Costa Adeje care le permite copiilor să se joace cu imaginație.",
-                  "category": "family",
-                  "coords": [
-                        -16.722152,
-                        28.069558
                   ]
             },
             {
@@ -30199,15 +30068,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa de Cabo Blanco",
-                  "text": "A quiet reservoir in Costa Adeje, nestled in the local landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -16.666997,
-                        28.067479
-                  ]
-            },
-            {
                   "name": "Presa del Ancón",
                   "text": "This water basin in Costa Adeje serves as a peaceful retreat for nature lovers.",
                   "category": "natural",
@@ -30232,15 +30092,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.69379,
                         28.080204
-                  ]
-            },
-            {
-                  "name": "Depósito Charca la Camella",
-                  "text": "This quiet pond in Costa Adeje invites a short outdoor break.",
-                  "category": "natural",
-                  "coords": [
-                        -16.681537,
-                        28.078865
                   ]
             },
             {
@@ -30280,15 +30131,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Balsa El Mojón",
-                  "text": "A small basin in Costa Adeje offering peace and relaxation outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        -16.710824,
-                        28.070421
-                  ]
-            },
-            {
                   "name": "Charco La Negra",
                   "text": "A natural pond in Costa Adeje suitable for a short observation break.",
                   "category": "natural",
@@ -30322,15 +30164,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.735748,
                         28.092214
-                  ]
-            },
-            {
-                  "name": "Bricobilandia",
-                  "text": "A creative indoor playground in Costa Adeje allowing children to play imaginatively.",
-                  "category": "family",
-                  "coords": [
-                        -16.722152,
-                        28.069558
                   ]
             },
             {
@@ -37177,30 +37010,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arrizurreta ur-biltegia",
-                  "text": "Arrizurreta ur-biltegia ist ein Stausee in den bewaldeten Hügeln oberhalb von Hondarribia, der die Stadt mit Wasser versorgt.",
-                  "category": "natural",
-                  "coords": [
-                        -1.780594,
-                        43.309219
-                  ]
-            },
-            {
                   "name": "San Lorentzo",
                   "text": "San Lorentzo ist ein Küstenschutzgebiet mit Wanderwegen und Blick auf die Bucht von Txingudi.",
                   "category": "natural",
                   "coords": [
                         -1.795855,
                         43.347658
-                  ]
-            },
-            {
-                  "name": "Ur gezako aintzira",
-                  "text": "Ur gezako aintzira ist ein Süßwassersee, umgeben von Schilf, beliebt zum Vogelbeobachten.",
-                  "category": "natural",
-                  "coords": [
-                        -1.791907,
-                        43.348218
                   ]
             },
             {
@@ -37429,30 +37244,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arrizurreta ur-biltegia",
-                  "text": "Az Arrizurreta ur-biltegia egy víztározó Hondarribia erdős dombjai fölött, amely a várost látja el vízzel.",
-                  "category": "natural",
-                  "coords": [
-                        -1.780594,
-                        43.309219
-                  ]
-            },
-            {
                   "name": "San Lorentzo",
                   "text": "San Lorentzo egy tengerparti természetvédelmi terület ösvényekkel és kilátással a Txingudi-öbölre.",
                   "category": "natural",
                   "coords": [
                         -1.795855,
                         43.347658
-                  ]
-            },
-            {
-                  "name": "Ur gezako aintzira",
-                  "text": "Ur gezako aintzira egy édesvizű tó, nádasokkal körülvéve, népszerű madármegfigyelésre.",
-                  "category": "natural",
-                  "coords": [
-                        -1.791907,
-                        43.348218
                   ]
             },
             {
@@ -37681,30 +37478,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arrizurreta ur-biltegia",
-                  "text": "Arrizurreta ur-biltegia este un rezervor în dealurile împădurite de deasupra Hondarribia, care aprovizionează orașul cu apă.",
-                  "category": "natural",
-                  "coords": [
-                        -1.780594,
-                        43.309219
-                  ]
-            },
-            {
                   "name": "San Lorentzo",
                   "text": "San Lorentzo este o arie naturală de coastă cu trasee și vedere spre Golful Txingudi.",
                   "category": "natural",
                   "coords": [
                         -1.795855,
                         43.347658
-                  ]
-            },
-            {
-                  "name": "Ur gezako aintzira",
-                  "text": "Ur gezako aintzira este un lac de apă dulce înconjurat de stuf, popular pentru observarea păsărilor.",
-                  "category": "natural",
-                  "coords": [
-                        -1.791907,
-                        43.348218
                   ]
             },
             {
@@ -37933,30 +37712,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arrizurreta ur-biltegia",
-                  "text": "Arrizurreta ur-biltegia is a reservoir in the wooded hills above Hondarribia, supplying the town with water.",
-                  "category": "natural",
-                  "coords": [
-                        -1.780594,
-                        43.309219
-                  ]
-            },
-            {
                   "name": "San Lorentzo",
                   "text": "San Lorentzo is a coastal natural area with trails and views of the Bay of Txingudi.",
                   "category": "natural",
                   "coords": [
                         -1.795855,
                         43.347658
-                  ]
-            },
-            {
-                  "name": "Ur gezako aintzira",
-                  "text": "Ur gezako aintzira is a freshwater lake surrounded by reeds, popular for birdwatching.",
-                  "category": "natural",
-                  "coords": [
-                        -1.791907,
-                        43.348218
                   ]
             },
             {
@@ -43752,17 +43513,6 @@ export const poiExtraEsV2: POI[] = [
   {"id": "lloret-de-mar", "type": "city", "parent": "ES-CT", "coords": [2.845, 41.7], "population": 40800, "tier": 2, "name": {"de": "Lloret de Mar", "hu": "Lloret de Mar", "ro": "Lloret de Mar", "en": "Lloret de Mar"}, "description": {"de": "Ein lebhaftes Tourismuszentrum an der Costa Brava, bekannt für seine weiten Sandstrände, das pulsierende Nachtleben und die eleganten Santa Clotilde Gärten auf den Klippen.", "hu": "A Costa Brava egyik legnépszerűbb üdülővárosa, amely hatalmas homokos strandjairól, pezsgő éjszakai életéről és a tenger feletti Santa Clotilde kertekről híres.", "ro": "Un centru turistic vibrant pe Costa Brava, faimos pentru plajele sale largi, viața de noapte activă și elegantele Grădini Santa Clotilde situate pe stânci.", "en": "A lively tourism hub on the Costa Brava, famous for its expansive sandy beaches, vibrant nightlife, and the elegant Santa Clotilde Gardens perched on the cliffs."}, "facts": {"de": ["Größter Ferienort an der Costa Brava", "Santa Clotilde Gärten im italienischen Renaissance-Stil", "Die modernistische Kirche Sant Romà mit bunten Dächern", "Bronze-Statue 'Dona Marinera' am Ende des Hauptstrandes", "Archäologische Ausgrabungen der iberischen Siedlung Puig de Castellet", "Wahrzeichen Castell d'en Plaja direkt am Meer", "Water World, einer der größten Wasserparks Europas", "Der 'Friedhof der Modernisten' mit prachtvollen Skulpturen"], "hu": ["A Costa Brava legnagyobb üdülőhelye", "Olasz reneszánsz stílusú Santa Clotilde kertek", "A színes tetőcserepeiről híres Sant Romà-templom", "A tengerpart végén álló 'Dona Marinera' bronzszobor", "Puig de Castellet ókori ibér település maradványai", "A part menti sziklán álló Castell d'en Plaja kastély", "Európa egyik legnagyobb csúszdaparkja, a Water World", "A 'Modernista Temető' különleges szobrai"], "ro": ["Cea mai mare stațiune turistică de pe Costa Brava", "Grădinile Santa Clotilde în stil renascentist italian", "Biserica Sant Romà cu acoperiș din țiglă colorată", "Statuia de bronz 'Dona Marinera' veghează plaja", "Situl arheologic al așezării iberice Puig de Castellet", "Castelul d'en Plaja situat chiar pe marginea falezei", "Water World, unul dintre cele mai mari parcuri acvatice din Europa", "Cimitirul Modernist renumit pentru sculpturile sale funerare"], "en": ["Largest holiday resort on the Costa Brava", "Italian Renaissance-style Santa Clotilde Gardens", "Sant Romà Church with iconic colorful tiled domes", "The 'Dona Marinera' bronze statue at the beach promenade", "Archaeological site of the Iberian settlement Puig de Castellet", "The landmark Castell d'en Plaja castle overlooking the sea", "Home to Water World, one of Europe's largest water parks", "The Modernist Cemetery featuring exquisite funeral sculptures"]}, "image": "/poi-images/lloret-de-mar.webp", "imageHint": "Coastline of Lloret de Mar with the Castle d'en Plaja on the cliff", "descriptionAdvanced": {"de": "Lloret de Mar hat sich von einem bescheidenen Fischerdorf zum dynamischsten Urlaubsziel Kataloniens entwickelt. Während die Stadt für ihr intensives Nachtleben und den breiten Sandstrand bekannt ist, birgt sie auch ruhige Oasen von außerordentlicher Schönheit. Die Gärten von Santa Clotilde, gestaltet von Nicolau Rubió i Tudurí, gelten als Meisterwerk der Gartenkunst und bieten spektakuläre Ausblicke auf die Bucht von Sa Boadella. Die Geschichte Llorets reicht weit zurück, was die iberischen Ruinen von Puig de Castellet aus dem 3. Jahrhundert v. Chr. belegen. Ein markantes Symbol ist das Castell d'en Plaja, das zwar erst im 20. Jahrhundert erbaut wurde, aber die Skyline der Stadt prägt. Der 'Weg der Seeleute' (Cami de Ronda) führt Wanderer entlang steiler Klippen zu versteckten Buchten wie Cala Canyelles.", "hu": "Lloret de Mar egy szerény halászfaluból fejlődött Katalónia legdinamikusabb üdülőhelyévé. Bár a város leginkább pezsgő éjszakai életéről és széles homokos strandjáról ismert, kivételes szépségű, nyugodt oázisokat is rejt. A Nicolau Rubió i Tudurí által tervezett Santa Clotilde kertek a tájépítészet mesterművei, ahonnan látványos kilátás nyílik a Sa Boadella-öbölre. Lloret történelme az ókorba nyúlik vissza, amit az i. e. 3. századból származó Puig de Castellet ibér romjai bizonyítanak. A város egyik legfontosabb jelképe a Castell d'en Plaja, amely bár a 20. században épült, meghatározza a part látképét. A tengerparti túraútvonal, a Cami de Ronda meredek sziklák mentén vezet el olyan rejtett öblökig, mint a Cala Canyelles.", "ro": "Lloret de Mar a evoluat de la un simplu sat de pescari la cea mai dinamică destinație de vacanță din Catalonia. Deși orașul este cunoscut pentru viața de noapte intensă și plaja sa largă de nisip, acesta ascunde și oaze de o frumusețe extraordinară. Grădinile Santa Clotilde, proiectate de Nicolau Rubió i Tudurí, sunt considerate o capodoperă a peisagisticii, oferind vederi spectaculoase asupra golfului Sa Boadella. Istoria locului este milenară, fapt confirmat de ruinele iberice de la Puig de Castellet, datând din secolul al III-lea î.Hr. Un simbol vizual marcant este Castell d'en Plaja, care, deși construit în secolul XX, definește linia orizontului stațiunii. Traseul Cami de Ronda poartă drumeții de-a lungul stâncilor abrupte spre golfuri ascunse precum Cala Canyelles.", "en": "Lloret de Mar has transformed from a humble fishing village into Catalonia's most dynamic holiday destination. While famous for its nightlife and wide sandy beaches, the town also harbors tranquil oases of extraordinary beauty. The Santa Clotilde Gardens, designed by Nicolau Rubió i Tudurí, are a masterpiece of landscaping, offering spectacular vistas over Sa Boadella bay. Lloret's history runs deep, evidenced by the Iberian ruins of Puig de Castellet dating back to the 3rd century BC. A defining visual landmark is the Castell d'en Plaja; although built in the 20th century, it commands the coastal skyline. The Cami de Ronda coastal path leads hikers along steep cliffs to hidden gems like Cala Canyelles, showcasing the region's rugged natural charm."}, "factsAdvanced": {"de": ["Die Kirche Sant Romà wurde ursprünglich 1522 im gotischen Stil erbaut.", "Der 'Friedhof der Modernisten' ist Teil der European Cemeteries Route.", "Lloret hat über 40.000 feste Einwohner, empfängt aber jährlich über 1 Million Touristen.", "Die Statue Dona Marinera wurde 1966 zum 1000-jährigen Stadtjubiläum errichtet.", "Puig de Castellet diente im 3. Jh. v. Chr. als befestigter Beobachtungsposten.", "Die Entfernung zum Stadtzentrum von Barcelona beträgt etwa 75 Kilometer."], "hu": ["A Sant Romà-templom eredetileg 1522-ben épült gótikus stílusban.", "A 'Modernista Temető' az Európai Temetők Útvonalának része.", "Lloretnek több mint 40 000 állandó lakosa van, de évente egymillió turistát fogad.", "A Dona Marinera szobrot 1966-ban, a város alapításának 1000. évfordulójára állították.", "A Puig de Castellet az i. e. 3. században erődített megfigyelőpontként szolgált.", "A város távolsága Barcelona központjától nagyjából 75 kilométer."], "ro": ["Biserica Sant Romà a fost construită inițial în 1522 în stil gotic.", "Cimitirul Modernist este inclus în Ruta Europeană a Cimitirelor.", "Lloret are peste 40.000 de locuitori permanenți, dar primește anual un milion de turiști.", "Statuia Dona Marinera a fost ridicată în 1966 pentru mileniul localității.", "Puig de Castellet a servit ca post de observație fortificat în secolul al III-lea î.Hr.", "Distanța până în centrul Barcelonei este de aproximativ 75 de kilometri."], "en": ["The Sant Romà Church was originally built in 1522 in Catalan Gothic style.", "The Modernist Cemetery is a significant stop on the European Cemeteries Route.", "The town has 40,000 residents but hosts over 1 million tourists annually.", "The Dona Marinera statue was erected in 1966 for the town's millennium anniversary.", "Puig de Castellet was a strategic lookout during the 3rd century BC Punic Wars.", "The distance from Lloret de Mar to central Barcelona is approximately 75 kilometers."]}, "sights": {
       "de": [
             {
-                  "name": "Castell d'en Plaja",
-                  "text": "Dieses markante neugotische Schloss aus den 1930er Jahren dominiert die Bucht von Sa Caleta in Lloret de Mar und verleiht der Küstenlandschaft einen märchenhaften Touch. Besucher erwarten spektakuläre Panoramablicke auf das Meer und wunderschöne Spaziermöglichkeiten entlang der angrenzenden Küstenwege. Der späte Nachmittag bietet ein magisches Licht, das die Architektur besonders gut zur Geltung bringt.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-castell-den-plaja.webp",
-                  "coords": [
-                        2.85965,
-                        41.6993
-                  ]
-            },
-            {
                   "name": "Jardins de Santa Clotilde",
                   "text": "Prächtige Gärten im italienischen Renaissance-Stil auf einer Klippe mit atemberaubendem Blick auf das Mittelmeer.",
                   "category": "parks/promenades/beaches",
@@ -43774,17 +43524,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu del Mar",
-                  "text": "In der ehemaligen Indiano-Residenz Can Garriga untergebracht, zeigt es die Seefahrtsgeschichte von Lloret.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-museu-del-mar.webp",
-                  "coords": [
-                        2.85073,
-                        41.69956
-                  ]
-            },
-            {
                   "name": "Cementiri Modernista",
                   "text": "Ein Teil der 'Route des Modernismus', bekannt für seine kunstvollen Grabmäler bedeutender katalanischer Architekten.",
                   "category": "monuments/statues",
@@ -43793,28 +43532,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.836057,
                         41.700655
-                  ]
-            },
-            {
-                  "name": "Dona Marinera",
-                  "text": "Diese Bronzestatue einer Seemannsfrau ist ein Symbol der Stadt und bietet einen der besten Aussichtspunkte der Küste.",
-                  "category": "monuments/statues",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-dona-marinera.webp",
-                  "coords": [
-                        2.844888,
-                        41.695187
-                  ]
-            },
-            {
-                  "name": "Castell de Sant Joan",
-                  "text": "Die Ruinen einer mittelalterlichen Burg aus dem 11. Jahrhundert, deren Wachturm heute besichtigt werden kann.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-castell-de-sant-joan.webp",
-                  "coords": [
-                        2.839267,
-                        41.693838
                   ]
             },
             {
@@ -43993,17 +43710,6 @@ export const poiExtraEsV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Castell d'en Plaja",
-                  "text": "A Lloret de Mar-i Sa Caleta öblöt uraló, az 1930-as években épült neogótikus kastély mesebeli hangulatot kölcsönöz a part menti tájnak. A látogatókat lenyűgöző panoráma várja a tengerre, és remek sétalehetőségek a környező ösvényeken. A késő délutáni órák varázslatos fényei gyönyörűen kiemelik az építészeti szépséget.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-castell-den-plaja.webp",
-                  "coords": [
-                        2.85965,
-                        41.6993
-                  ]
-            },
-            {
                   "name": "Jardins de Santa Clotilde",
                   "text": "Pompás kertek az olasz reneszánsz stílusában, egy szikla tetején, lélegzetelállító kilátással a Földközi-tengerre.",
                   "category": "parks/promenades/beaches",
@@ -44015,17 +43721,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu del Mar",
-                  "text": "Az egykori Indiano-rezidenciában, a Can Garrigában kapott helyet, Lloret tengerészeti történetét mutatja be.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-museu-del-mar.webp",
-                  "coords": [
-                        2.85073,
-                        41.69956
-                  ]
-            },
-            {
                   "name": "Cementiri Modernista",
                   "text": "A 'Modernizmus Útvonalának' része, híres katalán építészek által tervezett művészi síremlékeiről ismert.",
                   "category": "monuments/statues",
@@ -44034,28 +43729,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.836057,
                         41.700655
-                  ]
-            },
-            {
-                  "name": "Dona Marinera",
-                  "text": "A tengerészfeleség bronzszobra a város szimbóluma, és a part egyik legszebb kilátópontján található.",
-                  "category": "monuments/statues",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-dona-marinera.webp",
-                  "coords": [
-                        2.844888,
-                        41.695187
-                  ]
-            },
-            {
-                  "name": "Castell de Sant Joan",
-                  "text": "Egy 11. századi középkori vár romjai, amelynek helyreállított őrtornya ma is látogatható és kilátóként szolgál.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-castell-de-sant-joan.webp",
-                  "coords": [
-                        2.839267,
-                        41.693838
                   ]
             },
             {
@@ -44234,17 +43907,6 @@ export const poiExtraEsV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Castell d'en Plaja",
-                  "text": "Dominând golful Sa Caleta din Lloret de Mar, acest castel neogotic impresionant, construit în anii 1930, adaugă o notă de basm peisajului de coastă. Vizitatorii se pot aștepta la vederi panoramice spectaculoase asupra mării și la oportunități minunate de plimbare pe cărările pitorești din jur. După-amiezile târzii oferă o lumină magică care evidențiază frumusețea arhitecturală.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-castell-den-plaja.webp",
-                  "coords": [
-                        2.85965,
-                        41.6993
-                  ]
-            },
-            {
                   "name": "Jardins de Santa Clotilde",
                   "text": "Grădini splendide în stilul Renașterii italiene, situate pe o stâncă cu vederi uluitoare spre Marea Mediterană.",
                   "category": "parks/promenades/beaches",
@@ -44256,17 +43918,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu del Mar",
-                  "text": "Găzduit în fosta rezidență Indiano Can Garriga, muzeul prezintă istoria maritimă bogată a orașului Lloret.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-museu-del-mar.webp",
-                  "coords": [
-                        2.85073,
-                        41.69956
-                  ]
-            },
-            {
                   "name": "Cementiri Modernista",
                   "text": "Parte a 'Rutei Modernismului', este renumit pentru monumentele funerare artistice create de arhitecți catalani.",
                   "category": "monuments/statues",
@@ -44275,28 +43926,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.836057,
                         41.700655
-                  ]
-            },
-            {
-                  "name": "Dona Marinera",
-                  "text": "Această statuie de bronz a soției de marinar este un simbol al orașului și oferă un punct panoramic superb.",
-                  "category": "monuments/statues",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-dona-marinera.webp",
-                  "coords": [
-                        2.844888,
-                        41.695187
-                  ]
-            },
-            {
-                  "name": "Castell de Sant Joan",
-                  "text": "Ruinele unui castel medieval din secolul al XI-lea, al cărui turn de pază poate fi vizitat astăzi.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-castell-de-sant-joan.webp",
-                  "coords": [
-                        2.839267,
-                        41.693838
                   ]
             },
             {
@@ -44475,17 +44104,6 @@ export const poiExtraEsV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Castell d'en Plaja",
-                  "text": "Dominating the bay of Sa Caleta in Lloret de Mar, this striking neo-Gothic castle built in the 1930s adds a fairytale touch to the coastal landscape. Visitors can expect spectacular panoramic views of the sea and lovely opportunities for walking along the surrounding scenic paths. Late afternoons offer a magical light that highlights the architectural beauty beautifully.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-castell-den-plaja.webp",
-                  "coords": [
-                        2.85965,
-                        41.6993
-                  ]
-            },
-            {
                   "name": "Jardins de Santa Clotilde",
                   "text": "Magnificent gardens in the Italian Renaissance style located on a cliff with breathtaking views of the sea.",
                   "category": "parks/promenades/beaches",
@@ -44497,17 +44115,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu del Mar",
-                  "text": "Located in the former Indiano residence Can Garriga, it showcases the maritime history and shipbuilding of Lloret.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-museu-del-mar.webp",
-                  "coords": [
-                        2.85073,
-                        41.69956
-                  ]
-            },
-            {
                   "name": "Cementiri Modernista",
                   "text": "Part of the 'Modernism Route', famous for its artistic funeral monuments designed by leading Catalan architects.",
                   "category": "monuments/statues",
@@ -44516,28 +44123,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.836057,
                         41.700655
-                  ]
-            },
-            {
-                  "name": "Dona Marinera",
-                  "text": "This bronze statue of a fisherman's wife is a symbol of the town and marks a great coastal viewpoint.",
-                  "category": "monuments/statues",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-dona-marinera.webp",
-                  "coords": [
-                        2.844888,
-                        41.695187
-                  ]
-            },
-            {
-                  "name": "Castell de Sant Joan",
-                  "text": "The remains of an 11th-century medieval castle whose restored watchtower offers panoramic views of the town.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lloret-de-mar-castell-de-sant-joan.webp",
-                  "coords": [
-                        2.839267,
-                        41.693838
                   ]
             },
             {
@@ -44824,48 +44409,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa del Ancón",
-                  "text": "Presa del Ancón ist ein Damm mit einem Wanderweg, der Ausblicke auf das Tal bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -16.683945,
-                        28.107956
-                  ]
-            },
-            {
-                  "name": "Depósito Chayofa II",
-                  "text": "Depósito Chayofa II ist ein Wasserreservoir mit Panoramablick auf die umliegende Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        -16.693987,
-                        28.081212
-                  ]
-            },
-            {
-                  "name": "Depósito Chayofa I",
-                  "text": "Depósito Chayofa I ist ein Wassertank auf einem Hügel, mit Blick auf die Küste.",
-                  "category": "natural",
-                  "coords": [
-                        -16.69379,
-                        28.080204
-                  ]
-            },
-            {
                   "name": "Depósito Charca la Camella",
                   "text": "Depósito Charca la Camella ist ein kleiner Stausee zur Bewässerung, umgeben von Ackerland.",
                   "category": "natural",
                   "coords": [
                         -16.681537,
                         28.078865
-                  ]
-            },
-            {
-                  "name": "Presa Charca las Casas",
-                  "text": "Presa Charca las Casas ist ein Damm mit einem Picknickbereich und einem kleinen Teich.",
-                  "category": "natural",
-                  "coords": [
-                        -16.68459,
-                        28.106645
                   ]
             },
             {
@@ -44923,57 +44472,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wave Palace",
-                  "text": "Ein Wasserpark mit Wellenbad und Rutschen in Los Cristianos.",
-                  "category": "family",
-                  "coords": [
-                        -16.723982,
-                        28.070688
-                  ]
-            },
-            {
-                  "name": "Haibecken",
-                  "text": "Shark aquarium in Los Cristianos bietet Einblicke in die Welt der Haie.",
-                  "category": "family",
-                  "coords": [
-                        -16.725526,
-                        28.07256
-                  ]
-            },
-            {
                   "name": "Sawasdee",
                   "text": "Ein unterhaltsamer Wasserpark in Los Cristianos mit Rutschen und Becken für die ganze Familie.",
                   "category": "family",
                   "coords": [
                         -16.72689,
                         28.072514
-                  ]
-            },
-            {
-                  "name": "Lost City Baby Pool",
-                  "text": "Ein familienfreundlicher Wasserpark in Los Cristianos, ideal für einen spritzigen Tag mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        -16.725179,
-                        28.071435
-                  ]
-            },
-            {
-                  "name": "Aqualand Costa Adeje",
-                  "text": "Ein großer Wasserpark in Los Cristianos mit verschiedenen Attraktionen für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        -16.72784,
-                        28.080009
-                  ]
-            },
-            {
-                  "name": "Las Águilas Jungle Park",
-                  "text": "Ein Zoo in Los Cristianos, in dem Familien verschiedene Tierarten entdecken und beobachten können.",
-                  "category": "family",
-                  "coords": [
-                        -16.695548,
-                        28.079463
                   ]
             },
             {
@@ -45112,48 +44616,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa del Ancón",
-                  "text": "Presa del Ancón egy gát, gyalogúttal, amely kilátást nyújt a völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        -16.683945,
-                        28.107956
-                  ]
-            },
-            {
-                  "name": "Depósito Chayofa II",
-                  "text": "Depósito Chayofa II egy víztározó, panorámakilátással a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        -16.693987,
-                        28.081212
-                  ]
-            },
-            {
-                  "name": "Depósito Chayofa I",
-                  "text": "Depósito Chayofa I egy dombtetőn lévő víztartály, kilátással a tengerpartra.",
-                  "category": "natural",
-                  "coords": [
-                        -16.69379,
-                        28.080204
-                  ]
-            },
-            {
                   "name": "Depósito Charca la Camella",
                   "text": "Depósito Charca la Camella egy kis öntözővíz-tározó, mezőgazdasági területekkel körülvéve.",
                   "category": "natural",
                   "coords": [
                         -16.681537,
                         28.078865
-                  ]
-            },
-            {
-                  "name": "Presa Charca las Casas",
-                  "text": "Presa Charca las Casas egy gát piknikezőhellyel és egy kis tóval.",
-                  "category": "natural",
-                  "coords": [
-                        -16.68459,
-                        28.106645
                   ]
             },
             {
@@ -45211,57 +44679,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wave Palace",
-                  "text": "Egy vízipark hullámmedencével és csúszdákkal Los Cristianosban.",
-                  "category": "family",
-                  "coords": [
-                        -16.723982,
-                        28.070688
-                  ]
-            },
-            {
-                  "name": "Shark aquarium",
-                  "text": "A Shark aquarium Los Cristianosban betekintést nyújt a cápák világába.",
-                  "category": "family",
-                  "coords": [
-                        -16.725526,
-                        28.07256
-                  ]
-            },
-            {
                   "name": "Sawasdee",
                   "text": "Egy szórakoztató vízipark Los Cristianosban, amely csúszdákat és medencéket kínál az egész családnak.",
                   "category": "family",
                   "coords": [
                         -16.72689,
                         28.072514
-                  ]
-            },
-            {
-                  "name": "Lost City Baby Pool",
-                  "text": "Családbarát vízipark Los Cristianosban, amely ideális egy vizes naphoz a gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        -16.725179,
-                        28.071435
-                  ]
-            },
-            {
-                  "name": "Aqualand Costa Adeje",
-                  "text": "Egy nagy vízipark Los Cristianosban, különféle látnivalókkal minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        -16.72784,
-                        28.080009
-                  ]
-            },
-            {
-                  "name": "Las Águilas Jungle Park",
-                  "text": "Egy állatkert Los Cristianosban, ahol a családok különféle állatfajokat fedezhetnek fel és figyelhetnek meg.",
-                  "category": "family",
-                  "coords": [
-                        -16.695548,
-                        28.079463
                   ]
             },
             {
@@ -45400,48 +44823,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa del Ancón",
-                  "text": "Presa del Ancón este un baraj cu un traseu de drumeție care oferă vederi asupra văii.",
-                  "category": "natural",
-                  "coords": [
-                        -16.683945,
-                        28.107956
-                  ]
-            },
-            {
-                  "name": "Depósito Chayofa II",
-                  "text": "Depósito Chayofa II este un rezervor de apă cu vederi panoramice asupra peisajului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        -16.693987,
-                        28.081212
-                  ]
-            },
-            {
-                  "name": "Depósito Chayofa I",
-                  "text": "Depósito Chayofa I este un rezervor de apă pe un deal, oferind vederi spre coastă.",
-                  "category": "natural",
-                  "coords": [
-                        -16.69379,
-                        28.080204
-                  ]
-            },
-            {
                   "name": "Depósito Charca la Camella",
                   "text": "Depósito Charca la Camella este un mic lac de acumulare pentru irigații, înconjurat de terenuri agricole.",
                   "category": "natural",
                   "coords": [
                         -16.681537,
                         28.078865
-                  ]
-            },
-            {
-                  "name": "Presa Charca las Casas",
-                  "text": "Presa Charca las Casas este un baraj cu o zonă de picnic și un mic iaz.",
-                  "category": "natural",
-                  "coords": [
-                        -16.68459,
-                        28.106645
                   ]
             },
             {
@@ -45499,57 +44886,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wave Palace",
-                  "text": "Un parc acvatic cu piscină cu valuri și tobogane în Los Cristianos.",
-                  "category": "family",
-                  "coords": [
-                        -16.723982,
-                        28.070688
-                  ]
-            },
-            {
-                  "name": "Shark aquarium",
-                  "text": "Shark aquarium din Los Cristianos oferă o privire în lumea rechinilor.",
-                  "category": "family",
-                  "coords": [
-                        -16.725526,
-                        28.07256
-                  ]
-            },
-            {
                   "name": "Sawasdee",
                   "text": "Un parc acvatic distractiv în Los Cristianos, cu tobogane și piscine pentru întreaga familie.",
                   "category": "family",
                   "coords": [
                         -16.72689,
                         28.072514
-                  ]
-            },
-            {
-                  "name": "Lost City Baby Pool",
-                  "text": "Un parc acvatic pentru familii în Los Cristianos, ideal pentru o zi distractivă cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        -16.725179,
-                        28.071435
-                  ]
-            },
-            {
-                  "name": "Aqualand Costa Adeje",
-                  "text": "Un parc acvatic mare în Los Cristianos, cu diverse atracții pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        -16.72784,
-                        28.080009
-                  ]
-            },
-            {
-                  "name": "Las Águilas Jungle Park",
-                  "text": "O grădină zoologică în Los Cristianos, unde familiile pot descoperi și observa diverse specii de animale.",
-                  "category": "family",
-                  "coords": [
-                        -16.695548,
-                        28.079463
                   ]
             },
             {
@@ -45688,48 +45030,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa del Ancón",
-                  "text": "Presa del Ancón is a dam with a hiking trail offering views of the valley.",
-                  "category": "natural",
-                  "coords": [
-                        -16.683945,
-                        28.107956
-                  ]
-            },
-            {
-                  "name": "Depósito Chayofa II",
-                  "text": "Depósito Chayofa II is a water reservoir with panoramic views of the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -16.693987,
-                        28.081212
-                  ]
-            },
-            {
-                  "name": "Depósito Chayofa I",
-                  "text": "Depósito Chayofa I is a water tank on a hilltop, offering views of the coast.",
-                  "category": "natural",
-                  "coords": [
-                        -16.69379,
-                        28.080204
-                  ]
-            },
-            {
                   "name": "Depósito Charca la Camella",
                   "text": "Depósito Charca la Camella is a small reservoir used for irrigation, surrounded by farmland.",
                   "category": "natural",
                   "coords": [
                         -16.681537,
                         28.078865
-                  ]
-            },
-            {
-                  "name": "Presa Charca las Casas",
-                  "text": "Presa Charca las Casas is a dam with a picnic area and a small pond.",
-                  "category": "natural",
-                  "coords": [
-                        -16.68459,
-                        28.106645
                   ]
             },
             {
@@ -45787,57 +45093,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wave Palace",
-                  "text": "A water park with wave pool and slides in Los Cristianos.",
-                  "category": "family",
-                  "coords": [
-                        -16.723982,
-                        28.070688
-                  ]
-            },
-            {
-                  "name": "Shark aquarium",
-                  "text": "Shark aquarium in Los Cristianos offers insights into the world of sharks.",
-                  "category": "family",
-                  "coords": [
-                        -16.725526,
-                        28.07256
-                  ]
-            },
-            {
                   "name": "Sawasdee",
                   "text": "A fun water park in Los Cristianos offering slides and pools for the whole family.",
                   "category": "family",
                   "coords": [
                         -16.72689,
                         28.072514
-                  ]
-            },
-            {
-                  "name": "Lost City Baby Pool",
-                  "text": "A family-friendly water park in Los Cristianos, ideal for a splashy day with children.",
-                  "category": "family",
-                  "coords": [
-                        -16.725179,
-                        28.071435
-                  ]
-            },
-            {
-                  "name": "Aqualand Costa Adeje",
-                  "text": "A large water park in Los Cristianos with various attractions for all age groups.",
-                  "category": "family",
-                  "coords": [
-                        -16.72784,
-                        28.080009
-                  ]
-            },
-            {
-                  "name": "Jungle Park",
-                  "text": "A zoo in Los Cristianos where families can discover and observe various animal species.",
-                  "category": "family",
-                  "coords": [
-                        -16.695548,
-                        28.079463
                   ]
             },
             {
@@ -50605,24 +49866,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Las Canteras",
-                  "text": "Familien, die Mijas besuchen, finden mit Las Canteras einen idealen Ort für eine Pause. Der Spielplatz ist perfekt auf die Bedürfnisse von Kindern abgestimmt und bietet ihnen ein sicheres Umfeld zum Toben.",
-                  "category": "family",
-                  "coords": [
-                        -4.619164,
-                        36.565712
-                  ]
-            },
-            {
-                  "name": "San Álvaro",
-                  "text": "Mitten in Mijas liegt San Álvaro, ein beliebter Treffpunkt für Familien mit Kindern. Diese Freizeitanlage ist als Spielplatz konzipiert und schafft viel Raum für aktive Erholung und ausgelassenes Spielen.",
-                  "category": "family",
-                  "coords": [
-                        -4.619897,
-                        36.562304
-                  ]
-            },
-            {
                   "name": "Parque Los Deportes",
                   "text": "Der Parque Los Deportes bereichert das familienfreundliche Angebot der spanischen Stadt Mijas. Auf diesem Spielplatz können junge Gäste eine unbeschwerte Zeit verbringen und sich körperlich betätigen.",
                   "category": "family",
@@ -50796,24 +50039,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.6401,
                         36.597359
-                  ]
-            },
-            {
-                  "name": "Las Canteras",
-                  "text": "A Mijasba látogató családok számára a Las Canteras ideális helyszín egy kis pihenőre. A játszótér tökéletesen igazodik a gyermekek igényeihez, biztonságos környezetet biztosítva a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        -4.619164,
-                        36.565712
-                  ]
-            },
-            {
-                  "name": "San Álvaro",
-                  "text": "Mijasban található a San Álvaro, amely a gyermekes családok kedvelt találkozóhelye. Ez a játszótérként kialakított szabadidős létesítmény rengeteg teret ad az aktív kikapcsolódásnak és a vidám játéknak.",
-                  "category": "family",
-                  "coords": [
-                        -4.619897,
-                        36.562304
                   ]
             },
             {
@@ -50993,24 +50218,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Las Canteras",
-                  "text": "Familiile care vizitează Mijas vor găsi la Las Canteras un loc ideal pentru o pauză. Terenul de joacă este perfect adaptat nevoilor copiilor, oferindu-le un mediu sigur pentru a alerga.",
-                  "category": "family",
-                  "coords": [
-                        -4.619164,
-                        36.565712
-                  ]
-            },
-            {
-                  "name": "San Álvaro",
-                  "text": "Situat în Mijas, San Álvaro este un punct de întâlnire popular pentru familiile cu copii. Această zonă de agrement este concepută ca un loc de joacă, oferind mult spațiu pentru relaxare activă și joacă exuberantă.",
-                  "category": "family",
-                  "coords": [
-                        -4.619897,
-                        36.562304
-                  ]
-            },
-            {
                   "name": "Parque Los Deportes",
                   "text": "Parque Los Deportes îmbogățește oferta pentru familii a orașului spaniol Mijas. În acest loc de joacă, tinerii vizitatori pot petrece un timp fără griji și se pot bucura de activități fizice.",
                   "category": "family",
@@ -51184,24 +50391,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.6401,
                         36.597359
-                  ]
-            },
-            {
-                  "name": "Las Canteras",
-                  "text": "Families visiting Mijas will find an ideal place to take a break at Las Canteras. The playground is perfectly tailored to the needs of children, providing them with a safe environment to run around.",
-                  "category": "family",
-                  "coords": [
-                        -4.619164,
-                        36.565712
-                  ]
-            },
-            {
-                  "name": "San Álvaro",
-                  "text": "Located in Mijas, San Álvaro is a popular meeting point for families with children. This recreational area is designed as a playground, creating plenty of space for active relaxation and exuberant play.",
-                  "category": "family",
-                  "coords": [
-                        -4.619897,
-                        36.562304
                   ]
             },
             {
@@ -53028,24 +52217,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "pool",
-                  "text": "Einfaches Schwimmbad in Nerja für eine Abkühlung während des Aufenthalts.",
-                  "category": "family",
-                  "coords": [
-                        -3.900186,
-                        36.772004
-                  ]
-            },
-            {
-                  "name": "Parque Natural Sierra de Tejeda, Almijara y Alhama",
-                  "text": "Der Naturpark Sierra de Tejeda, Almijara y Alhama bei Nerja ist beeindruckend. Er ist ein Paradies für Wanderer und Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        -3.91278,
-                        36.854985
-                  ]
-            },
-            {
                   "name": "Fábrica San Miguel",
                   "text": "Die Fábrica San Miguel in Nerja ist eine archäologische Stätte. Sie ist ein Zeugnis der industriellen Vergangenheit der Region.",
                   "category": "historical",
@@ -53088,15 +52259,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.862168,
                         36.751833
-                  ]
-            },
-            {
-                  "name": "Playa de La Caleta",
-                  "text": "Die Playa de La Caleta in Nerja ist ein schöner Strand. Er ist ein großartiger Ort für einen Badetag mit der Familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.845037,
-                        36.753383
                   ]
             },
             {
@@ -53318,24 +52480,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "pool",
-                  "text": "Egyszerű úszómedence Nerjában a felfrissüléshez az ott-tartózkodás alatt.",
-                  "category": "family",
-                  "coords": [
-                        -3.900186,
-                        36.772004
-                  ]
-            },
-            {
-                  "name": "Parque Natural Sierra de Tejeda, Almijara y Alhama",
-                  "text": "A Nerja melletti Sierra de Tejeda, Almijara y Alhama Natúrpark lenyűgöző. A túrázók és a természet szerelmeseinek paradicsoma.",
-                  "category": "natural",
-                  "coords": [
-                        -3.91278,
-                        36.854985
-                  ]
-            },
-            {
                   "name": "Fábrica San Miguel",
                   "text": "A nerjai Fábrica San Miguel egy régészeti lelőhely. A régió ipari múltjának tanúja.",
                   "category": "historical",
@@ -53378,15 +52522,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.862168,
                         36.751833
-                  ]
-            },
-            {
-                  "name": "Playa de La Caleta",
-                  "text": "A nerjai Playa de La Caleta egy szép strand. Nagyszerű hely egy családi fürdőzéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.845037,
-                        36.753383
                   ]
             },
             {
@@ -53608,24 +52743,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "pool",
-                  "text": "Piscină simplă în Nerja pentru o răcorire în timpul șederii.",
-                  "category": "family",
-                  "coords": [
-                        -3.900186,
-                        36.772004
-                  ]
-            },
-            {
-                  "name": "Parque Natural Sierra de Tejeda, Almijara y Alhama",
-                  "text": "Parcul Natural Sierra de Tejeda, Almijara y Alhama de lângă Nerja este impresionant. Acesta este un paradis pentru drumeți și iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        -3.91278,
-                        36.854985
-                  ]
-            },
-            {
                   "name": "Fábrica San Miguel",
                   "text": "Fábrica San Miguel din Nerja este un sit arheologic. Aceasta reprezintă o mărturie a trecutului industrial al regiunii.",
                   "category": "historical",
@@ -53668,15 +52785,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.862168,
                         36.751833
-                  ]
-            },
-            {
-                  "name": "Playa de La Caleta",
-                  "text": "Playa de La Caleta din Nerja este o plajă frumoasă. Este un loc minunat pentru o zi de înot alături de familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.845037,
-                        36.753383
                   ]
             },
             {
@@ -53898,24 +53006,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "pool",
-                  "text": "Simple swimming pool in Nerja for cooling off during your stay.",
-                  "category": "family",
-                  "coords": [
-                        -3.900186,
-                        36.772004
-                  ]
-            },
-            {
-                  "name": "Parque Natural Sierra de Tejeda, Almijara y Alhama",
-                  "text": "The Sierra de Tejeda, Almijara y Alhama Natural Park near Nerja is impressive. It is a paradise for hikers and nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        -3.91278,
-                        36.854985
-                  ]
-            },
-            {
                   "name": "Fábrica San Miguel",
                   "text": "Fábrica San Miguel in Nerja is an archaeological site. It is a testament to the region's industrial past.",
                   "category": "historical",
@@ -53958,15 +53048,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -3.862168,
                         36.751833
-                  ]
-            },
-            {
-                  "name": "Playa de La Caleta",
-                  "text": "Playa de La Caleta in Nerja is a beautiful beach. It is a great place for a family swimming day.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.845037,
-                        36.753383
                   ]
             },
             {
@@ -59286,15 +58367,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "pedrera de Son Fe",
-                  "text": "Ein lokaler See in Pollenca, der eine ruhige Umgebung und Naturerlebnis bietet.",
-                  "category": "natural",
-                  "coords": [
-                        3.065412,
-                        39.827077
-                  ]
-            },
-            {
                   "name": "Museu Dionis Bennassar",
                   "text": "Das ehemalige Wohnhaus des Künstlers Dionís Bennàssar in Pollença, in dem heute seine Werke ausgestellt sind.",
                   "category": "museum",
@@ -59418,15 +58490,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.117193,
                         39.928767
-                  ]
-            },
-            {
-                  "name": "pedrera de Son Fe",
-                  "text": "Egy helyi tó Pollenca közelében, amely nyugodt környezetet és szép kilátást nyújt.",
-                  "category": "natural",
-                  "coords": [
-                        3.065412,
-                        39.827077
                   ]
             },
             {
@@ -59556,15 +58619,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "pedrera de Son Fe",
-                  "text": "Un lac local în Pollenca, oferind un cadru liniștit și peisaje naturale frumoase.",
-                  "category": "natural",
-                  "coords": [
-                        3.065412,
-                        39.827077
-                  ]
-            },
-            {
                   "name": "Museu Dionis Bennassar",
                   "text": "Fosta casă a artistului Dionís Bennàssar din Pollença, care expune acum lucrările sale.",
                   "category": "museum",
@@ -59688,15 +58742,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         3.117193,
                         39.928767
-                  ]
-            },
-            {
-                  "name": "pedrera de Son Fe",
-                  "text": "A local lake in Pollenca offering a peaceful setting and natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        3.065412,
-                        39.827077
                   ]
             },
             {
@@ -60423,17 +59468,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Castillo de San Felipe",
-                  "text": "Ehemalige Verteidigungsfestung aus dem 17. Jahrhundert, die heute als Kulturzentrum für Konzerte genutzt wird.",
-                  "category": "castles/fortresses",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/puerto-de-la-cruz-castillo-de-san-felipe.webp",
-                  "coords": [
-                        -16.558611,
-                        28.414444
-                  ]
-            },
-            {
                   "name": "Plaza del Charco",
                   "text": "Das lebendige Herz von Puerto de la Cruz pulsiert auf diesem wunderschönen, von mächtigen Lorbeerbäumen beschatteten Platz. Umgeben von gemütlichen Cafés und hervorragenden Restaurants, lädt die Szenerie zum stundenlangen Beobachten und Verweilen ein. Das lokale Leben vermischt sich hier harmonisch mit dem entspannten Rhythmus der Besucher. Es ist der perfekte Ort für einen erfrischenden Nachmittagskaffee im kühlen Schatten.",
                   "category": "squares",
@@ -60600,17 +59634,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.535279,
                         28.410826
-                  ]
-            },
-            {
-                  "name": "Castillo de San Felipe",
-                  "text": "17. századi védelmi erőd, amely ma kulturális központként és koncertek helyszíneként szolgál.",
-                  "category": "castles/fortresses",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/puerto-de-la-cruz-castillo-de-san-felipe.webp",
-                  "coords": [
-                        -16.558611,
-                        28.414444
                   ]
             },
             {
@@ -60783,17 +59806,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Castillo de San Felipe",
-                  "text": "Fostă fortăreață de apărare din secolul al XVII-lea, utilizată astăzi ca centru cultural pentru diverse evenimente.",
-                  "category": "castles/fortresses",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/puerto-de-la-cruz-castillo-de-san-felipe.webp",
-                  "coords": [
-                        -16.558611,
-                        28.414444
-                  ]
-            },
-            {
                   "name": "Plaza del Charco",
                   "text": "Inima plină de viață a orașului Puerto de la Cruz pulsează în această frumoasă piață, umbrită adânc de lauri falnici. Înconjurat de cafenele primitoare și restaurante excelente, peisajul invită oaspeții să zăbovească și să privească trecătorii ore în șir. Viața locală se îmbină armonios aici cu ritmul relaxat al vizitatorilor. Este locul perfect pentru o cafea răcoritoare de după-amiază la umbra răcoroasă.",
                   "category": "squares",
@@ -60960,17 +59972,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.535279,
                         28.410826
-                  ]
-            },
-            {
-                  "name": "Castillo de San Felipe",
-                  "text": "17th-century coastal fortress that now serves as a cultural space for concerts and art exhibitions.",
-                  "category": "castles/fortresses",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/puerto-de-la-cruz-castillo-de-san-felipe.webp",
-                  "coords": [
-                        -16.558611,
-                        28.414444
                   ]
             },
             {
@@ -66532,24 +65533,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Comunitaria",
-                  "text": "Ein gemeinschaftlicher Badebereich in Salou für eine Abkühlung an heißen Tagen.",
-                  "category": "natural",
-                  "coords": [
-                        1.116379,
-                        41.144192
-                  ]
-            },
-            {
-                  "name": "Llac",
-                  "text": "Ein See in Salou, der zur Entspannung und zum Genießen der Umgebung einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        1.202064,
-                        41.122227
-                  ]
-            },
-            {
                   "name": "Central Games",
                   "text": "Ein Spielzentrum mit Videospielen und Familienunterhaltung in Salou.",
                   "category": "family",
@@ -66842,24 +65825,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.171917,
                         41.055771
-                  ]
-            },
-            {
-                  "name": "Piscina Comunitaria",
-                  "text": "Egy közösségi fürdőhely Salou városában a forró napokon való hűsöléshez.",
-                  "category": "natural",
-                  "coords": [
-                        1.116379,
-                        41.144192
-                  ]
-            },
-            {
-                  "name": "Llac",
-                  "text": "Egy tó Salou területén, amely kikapcsolódásra és a környezet élvezetére hív.",
-                  "category": "natural",
-                  "coords": [
-                        1.202064,
-                        41.122227
                   ]
             },
             {
@@ -67158,24 +66123,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Comunitaria",
-                  "text": "O zonă de înot comunitară în Salou pentru răcorire în zilele toride.",
-                  "category": "natural",
-                  "coords": [
-                        1.116379,
-                        41.144192
-                  ]
-            },
-            {
-                  "name": "Llac",
-                  "text": "Un lac în Salou care invită la relaxare și la savurarea împrejurimilor.",
-                  "category": "natural",
-                  "coords": [
-                        1.202064,
-                        41.122227
-                  ]
-            },
-            {
                   "name": "Central Games",
                   "text": "Un centru de jocuri cu mașini de arcade și divertisment familial în Salou.",
                   "category": "family",
@@ -67468,24 +66415,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         1.171917,
                         41.055771
-                  ]
-            },
-            {
-                  "name": "Piscina Comunitaria",
-                  "text": "A community swimming area in Salou for cooling off on hot days.",
-                  "category": "natural",
-                  "coords": [
-                        1.116379,
-                        41.144192
-                  ]
-            },
-            {
-                  "name": "Llac",
-                  "text": "A lake in Salou that invites you to relax and enjoy the surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        1.202064,
-                        41.122227
                   ]
             },
             {
@@ -78272,30 +77201,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Malapesquera",
-                  "text": "Ein weitläufiger Strand in Torremolinos, der beliebt zum Schwimmen und Sonnenbaden ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.517507,
-                        36.595353
-                  ]
-            },
-            {
                   "name": "Playa del Lido",
                   "text": "Ein zentraler Strand in Torremolinos mit lebhafter Atmosphäre und vielen Dienstleistungen.",
                   "category": "recreational",
                   "coords": [
                         -4.49311,
                         36.624035
-                  ]
-            },
-            {
-                  "name": "Playa de Santa Ana",
-                  "text": "Ein bekannter Strand in Torremolinos, der sich durch goldenen Sand und klares Wasser auszeichnet.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.523044,
-                        36.591955
                   ]
             },
             {
@@ -78332,15 +77243,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.488509,
                         36.636454
-                  ]
-            },
-            {
-                  "name": "Selwo Marina",
-                  "text": "Ein Meerespark in Torremolinos mit Delfinen, Seelöwen und Pinguinen.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.532284,
-                        36.592327
                   ]
             }
       ],
@@ -78578,30 +77480,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Malapesquera",
-                  "text": "Tágas strand Torremolinosban, amely népszerű az úszók és a napozók körében.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.517507,
-                        36.595353
-                  ]
-            },
-            {
                   "name": "Playa del Lido",
                   "text": "Központi strand Torremolinosban, amely élénk hangulatot és számos szolgáltatást kínál.",
                   "category": "recreational",
                   "coords": [
                         -4.49311,
                         36.624035
-                  ]
-            },
-            {
-                  "name": "Playa de Santa Ana",
-                  "text": "Torremolinos egyik ismert strandja, amelyet aranyhomok és tiszta víz jellemez.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.523044,
-                        36.591955
                   ]
             },
             {
@@ -78638,15 +77522,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.488509,
                         36.636454
-                  ]
-            },
-            {
-                  "name": "Selwo Marina",
-                  "text": "Tengeri park Torremolinosban, ahol delfinek, fókák és pingvinek láthatók.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.532284,
-                        36.592327
                   ]
             }
       ],
@@ -78884,30 +77759,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Malapesquera",
-                  "text": "O plajă spațioasă din Torremolinos, populară pentru înot și plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.517507,
-                        36.595353
-                  ]
-            },
-            {
                   "name": "Playa del Lido",
                   "text": "O plajă centrală din Torremolinos care oferă o atmosferă vibrantă și numeroase servicii.",
                   "category": "recreational",
                   "coords": [
                         -4.49311,
                         36.624035
-                  ]
-            },
-            {
-                  "name": "Playa de Santa Ana",
-                  "text": "O plajă cunoscută din Torremolinos, caracterizată prin nisipul auriu și apele limpezi.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.523044,
-                        36.591955
                   ]
             },
             {
@@ -78944,15 +77801,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.488509,
                         36.636454
-                  ]
-            },
-            {
-                  "name": "Selwo Marina",
-                  "text": "Un parc marin în Torremolinos cu delfini, lei de mare și pinguini.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.532284,
-                        36.592327
                   ]
             }
       ],
@@ -79190,30 +78038,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Malapesquera",
-                  "text": "A spacious beach in Torremolinos popular for swimming and sunbathing.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.517507,
-                        36.595353
-                  ]
-            },
-            {
                   "name": "Playa del Lido",
                   "text": "A central beach in Torremolinos offering a vibrant atmosphere and many services.",
                   "category": "recreational",
                   "coords": [
                         -4.49311,
                         36.624035
-                  ]
-            },
-            {
-                  "name": "Playa de Santa Ana",
-                  "text": "A well-known beach in Torremolinos characterized by its golden sand and clear waters.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.523044,
-                        36.591955
                   ]
             },
             {
@@ -79250,15 +78080,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -4.488509,
                         36.636454
-                  ]
-            },
-            {
-                  "name": "Selwo Marina",
-                  "text": "A marine park in Torremolinos featuring dolphins, sea lions, and penguins.",
-                  "category": "recreational",
-                  "coords": [
-                        -4.532284,
-                        36.592327
                   ]
             }
       ]
@@ -82112,17 +80933,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Faro de Camarinal",
-                  "text": "Ein markanter Leuchtturm auf einer Klippe, der in einem alten Wachturm aus dem 16. Jahrhundert untergebracht ist und tolle Ausblicke bietet.",
-                  "category": "bridges/lighthouses",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/zahara-de-los-atunes-faro-de-camarinal.webp",
-                  "coords": [
-                        -5.810462,
-                        36.090142
-                  ]
-            },
-            {
                   "name": "Playa de Atlanterra",
                   "text": "Die Playa de Atlanterra erstreckt sich als exklusiver Strandabschnitt unweit von Zahara De Los Atunes und besticht durch feinen Sand. Umgeben von luxuriösen Villen, strahlt dieser Ort eine wunderbar entspannte und gehobene Atmosphäre aus. Besucher können sich hier auf ruhige Stunden am Meer, entspanntes Sonnenbaden und angenehme Spaziergänge freuen. Wer die ruhigen Morgenstunden nutzt, findet hier den perfekten Start in einen sonnigen Urlaubstag.",
                   "category": "parks/promenades/beaches",
@@ -82186,17 +80996,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.845307,
                         36.135366
-                  ]
-            },
-            {
-                  "name": "Faro de Camarinal",
-                  "text": "Egy sziklán álló jellegzetes világítótorony, amely egy 16. századi őrtoronyban kapott helyet, és pazar kilátást nyújt az óceánra.",
-                  "category": "bridges/lighthouses",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/zahara-de-los-atunes-faro-de-camarinal.webp",
-                  "coords": [
-                        -5.810462,
-                        36.090142
                   ]
             },
             {
@@ -82266,17 +81065,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Faro de Camarinal",
-                  "text": "Un far distinctiv situat pe o stâncă, găzduit într-un vechi turn de veghe din secolul al XVI-lea, oferind priveliști superbe.",
-                  "category": "bridges/lighthouses",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/zahara-de-los-atunes-faro-de-camarinal.webp",
-                  "coords": [
-                        -5.810462,
-                        36.090142
-                  ]
-            },
-            {
                   "name": "Playa de Atlanterra",
                   "text": "Playa de Atlanterra se întinde ca o porțiune exclusivistă de plajă aproape de Zahara De Los Atunes, impresionând prin nisipul său fin. Înconjurată de vile luxoase, această destinație emană o atmosferă extrem de relaxantă și sofisticată. Vizitatorii se pot bucura aici de ore liniștite la malul mării, plajă și plimbări revigorante. Sosind în primele ore ale dimineții, veți avea parte de cel mai bun început pentru o zi de vacanță.",
                   "category": "parks/promenades/beaches",
@@ -82340,17 +81128,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -5.845307,
                         36.135366
-                  ]
-            },
-            {
-                  "name": "Faro de Camarinal",
-                  "text": "A distinctive lighthouse on a cliff, housed in an old 16th-century watchtower, offering spectacular views over the Atlantic Ocean.",
-                  "category": "bridges/lighthouses",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/zahara-de-los-atunes-faro-de-camarinal.webp",
-                  "coords": [
-                        -5.810462,
-                        36.090142
                   ]
             },
             {
@@ -82556,15 +81333,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "ZEC Garate-Santa Barbara KBE",
-                  "text": "Ein Naturschutzgebiet bei Zarautz mit Wanderwegen und landschaftlich reizvoller Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        -2.193677,
-                        43.286767
-                  ]
-            },
-            {
                   "name": "Mollarri kargaderoa",
                   "text": "Die Ruinen einer historischen Eisenerz-Verladeanlage an der Küste von Zarautz.",
                   "category": "historical",
@@ -82747,15 +81515,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.153223,
                         43.289176
-                  ]
-            },
-            {
-                  "name": "ZEC Garate-Santa Barbara KBE",
-                  "text": "Zarautz közeli természetvédelmi terület, amely túraútvonalakat és festői környezetet kínál.",
-                  "category": "natural",
-                  "coords": [
-                        -2.193677,
-                        43.286767
                   ]
             },
             {
@@ -82944,15 +81703,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "ZEC Garate-Santa Barbara KBE",
-                  "text": "O rezervație naturală de lângă Zarautz, care oferă trasee de drumeție și un cadru pitoresc.",
-                  "category": "natural",
-                  "coords": [
-                        -2.193677,
-                        43.286767
-                  ]
-            },
-            {
                   "name": "Mollarri kargaderoa",
                   "text": "Ruinele unei structuri istorice de încărcare a minereului de fier de pe coasta orașului Zarautz.",
                   "category": "historical",
@@ -83135,15 +81885,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -2.153223,
                         43.289176
-                  ]
-            },
-            {
-                  "name": "ZEC Garate-Santa Barbara KBE",
-                  "text": "A nature reserve near Zarautz offering hiking trails and scenic surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        -2.193677,
-                        43.286767
                   ]
             },
             {
@@ -83580,10 +82321,692 @@ export const poiExtraEsV2: POI[] = [
 }
   },
   {"id": "spain-las-palmas-de-gran-canaria-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-15.4363, 28.1235], "population": 379925, "tier": 1, "name": {"de": "Las Palmas de Gran Canaria", "hu": "Las Palmas de Gran Canaria", "ro": "Las Palmas de Gran Canaria", "en": "Las Palmas de Gran Canaria"}, "description": {"de": "Die größte Stadt der Kanaren bietet eine Mischung aus kolonialer Geschichte im Viertel Vegueta und dem kilometerlangen Sandstrand Las Canteras.", "hu": "A Kanári-szigetek legnagyobb városa, ahol a koloniális múlt Vegueta negyedében találkozik a több kilométeres Las Canteras homokos stranddal.", "ro": "Cel mai mare oraș din Insulele Canare îmbină istoria colonială din cartierul Vegueta cu plaja cu nisip lungă de kilometri, Las Canteras.", "en": "The largest city in the Canary Islands blends colonial history in the Vegueta district with the golden sands of the three-kilometer Las Canteras beach."}, "descriptionAdvanced": {"de": "Las Palmas de Gran Canaria wurde 1478 gegründet und ist heute eine der beiden Hauptstädte der Autonomen Gemeinschaft der Kanaren. Das historische Herz der Stadt ist Vegueta, wo die Kathedrale Santa Ana mit ihren charakteristischen Türmen dominiert. Ein Muss für Geschichtsinteressierte ist das Casa de Colón, in dem Christoph Kolumbus während seiner Expeditionen nach Amerika Station gemacht haben soll. Die Architektur hier ist geprägt von den typischen kanarischen Holzbalkonen und Kopfsteinpflastergassen.\n\nIm Norden der Stadt erstreckt sich die Playa de Las Canteras, einer der besten Stadtstrände der Welt. Ein natürliches Lavariff, „La Barra“ genannt, schützt einen Großteil des Strandes vor Brandung und macht ihn ideal zum Schnorcheln. Am westlichen Ende des Strandes befindet sich das Auditorio Alfredo Kraus, ein markantes Gebäude direkt am Meer. Der Hafen Puerto de la Luz ist ein strategischer Knotenpunkt im Atlantik. Die Stadt ist zudem für ihren farbenfrohen Karneval bekannt, der zu den bedeutendsten weltweit zählt. Der internationale Flughafen Gran Canaria (LPA) liegt etwa 20 km südlich der Stadt.", "hu": "Las Palmas de Gran Canaria várost 1478-ban alapították, és ma a Kanári-szigetek egyik fővárosa. A történelmi városmag, Vegueta, szűk utcáival és koloniális stílusú házaival az UNESCO világörökség része. Itt található a Santa Ana katedrális és a Casa de Colón (Kolumbusz háza), ahol a híres felfedező megpihent amerikai útja előtt. A város építészetére jellemzőek a faragott faerkélyek és a spanyol hódítás korabeli stílusjegyek.\n\nA város északi részén fekszik a Playa de Las Canteras, amely a világ egyik legszebb városi strandja. A három kilométer hosszú partot egy természetes vulkáni kőzetgát védi a hullámoktól, így kiválóan alkalmas úszásra és sznorkelezésre. A strand végén áll az Auditorio Alfredo Kraus hangversenyterem. Las Palmas fontos kikötőváros (Puerto de la Luz) és kereskedelmi központ is egyben. A februári karnevál a város legfontosabb eseménye, amely turisták ezreit vonzza. A nemzetközi repülőtér (LPA) 20 percnyi autóútra van délre, és jó összeköttetést biztosít Európával.", "ro": "Las Palmas de Gran Canaria a fost fondat în 1478 și este una dintre cele două capitale ale arhipelagului Canare. Inima istorică a orașului este cartierul Vegueta, inclus în patrimoniul UNESCO, unde se află Catedrala Santa Ana și Casa de Colón, muzeul dedicat lui Cristofor Columb care a poposit aici în drumul său spre America. Arhitectura colonială cu balcoane din lemn și străzi pavate oferă o atmosferă autentică spaniolă.\n\nPartea de nord a orașului este dominată de Playa de Las Canteras, o plajă urbană spectaculoasă de 3 km lungime, protejată de un recif natural de lavă numit „La Barra”. La capătul plajei se află Auditoriul Alfredo Kraus, o clădire modernă emblematică. Orașul găzduiește unul dintre cele mai mari carnavaluri din lume în fiecare februarie. Portul Puerto de la Luz este un punct logistic esențial în Oceanul Atlantic. Aeroportul Gran Canaria (LPA) se află la aproximativ 20 km spre sud, oferind acces facil către insulă. Gastronomia locală include celebrul sos mojo și cartofii „papas arrugadas”.", "en": "Las Palmas de Gran Canaria, founded in 1478, is the co-capital of the Canary Islands and a bustling cosmopolitan hub. The historical center, Vegueta, showcases exquisite colonial architecture, most notably the Cathedral of Santa Ana and the Casa de Colón, a museum where Christopher Columbus stayed during his voyages to the New World. The cobblestone streets of the old quarter are lined with traditional houses featuring ornate wooden balconies.\n\nThe city's northern shore is home to Playa de Las Canteras, widely regarded as one of the world's finest urban beaches. A natural offshore reef protects the golden sands, creating a calm basin perfect for swimming and snorkeling. At the beach's western edge stands the Auditorio Alfredo Kraus, an iconic venue for classical music. The port, Puerto de la Luz, is one of the Atlantic's busiest maritime crossroads. Every year, the city hosts a world-famous Carnival. The Gran Canaria Airport (LPA) is located 20 km south of the city center."}, "facts": {"de": ["Vegueta (Altstadt)", "Playa de Las Canteras", "Casa de Colón (Kolumbus-Haus)", "Catedral de Santa Ana", "379.925 Einwohner", "Gegründet 1478", "Auditorio Alfredo Kraus", "Puerto de la Luz (Hafen)"], "hu": ["Vegueta negyed", "Playa de Las Canteras", "Casa de Colón", "Santa Ana katedrális", "379 925 lakos", "Alapítva: 1478", "Auditorio Alfredo Kraus", "Puerto de la Luz kikötő"], "ro": ["Cartierul Vegueta", "Plaja Las Canteras", "Casa de Colón", "Catedrala Santa Ana", "379.925 locuitori", "Fondat în 1478", "Auditoriul Alfredo Kraus", "Portul Puerto de la Luz"], "en": ["Vegueta Old Town", "Las Canteras Beach", "Casa de Colón Museum", "Santa Ana Cathedral", "379,925 residents", "Founded 1478", "Alfredo Kraus Auditorium", "Puerto de la Luz Port"]}, "imageHint": "A high-angle view of the Cathedral of Santa Ana with its twin towers in the historical Vegueta district of Las Palmas.", "image": "/poi-images/spain-las-palmas-de-gran-canaria-cities-v2.webp",
-    "sights": {"de": [{"name": "Kathedrale Santa Ana", "text": "Die imposante Kathedrale im Herzen der Vegueta-Altstadt vereint Gotik, Renaissance und Neoklassizismus und bietet einen Blick vom Turm.", "category": "churches/cathedrals", "confidence": "high", "coords": [-15.414722, 28.100833]}, {"name": "Casa de Colón", "text": "In diesem prachtvollen Haus wohnte Kolumbus während seiner Aufenthalte. Heute beherbergt es ein Museum über seine Entdeckungsreisen.", "category": "museums", "confidence": "high", "coords": [-15.414167, 28.101389]}, {"name": "Playa de Las Canteras", "text": "Die Playa de Las Canteras lockt als einer der besten Stadtstrände der Welt mit einer beeindruckenden, drei Kilometer langen Promenade. Ein natürliches Riff bricht hier sanft die Wellen und schafft so eine sichere und entspannte Atmosphäre für Badegäste jeden Alters. Besucher können unbeschwert im ruhigen Wasser schwimmen, in der Sonne liegen oder ausgiebig flanieren. Ein abendlicher Spaziergang entlang der Promenade bietet den perfekten Abschluss eines sonnigen Tages.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-15.436111, 28.14]}, {"name": "Castillo de la Luz", "text": "Die älteste Festung Gran Canarias wurde im 15. Jahrhundert zum Schutz vor Piraten erbaut und beherbergt heute zeitgenössische Kunst.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [-15.424861, 28.148611]}, {"name": "Auditório Alfredo Kraus", "text": "Ein markantes modernes Konzerthaus am Ende des Canteras-Strandes, das nach dem berühmten kanarischen Tenor benannt wurde.", "category": "theatres/cultural centres", "confidence": "high", "coords": [-15.449119, 28.130125]}, {"name": "Museo Canario", "text": "Dieses Museum zeigt die faszinierende Geschichte der Ureinwohner der Kanaren, der Guanchen, einschließlich einer Sammlung von Mumien.", "category": "museums", "confidence": "high", "coords": [-15.415428, 28.099578]}, {"name": "Parque Doramas", "text": "Ein üppiger Stadtpark mit exotischen Pflanzen, Springbrunnen und dem historischen Hotel Santa Catalina im Herzen des Gartenviertels.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-15.42707, 28.12161]}, {"name": "Museo Elder de la Ciencia y la Tecnología", "text": "Ein interaktives Wissenschaftsmuseum im Santa-Catalina-Park, das technische Innovationen und wissenschaftliche Entdeckungen präsentiert.", "category": "museum", "coords": [-15.429661, 28.141231]}, {"name": "Teatro Cuyás", "text": "Ein bedeutendes Kulturzentrum in Las Palmas, das ein breites Spektrum an Theaterstücken, Musik- und Tanzaufführungen bietet.", "category": "cultural", "coords": [-15.417966, 28.106591]}, {"name": "Centro de Arte La Regenta", "text": "Ein Zentrum für zeitgenössische Kunst, das in dem markanten Gebäude einer ehemaligen Tabakfabrik untergebracht ist.", "category": "museum", "coords": [-15.430662, 28.138666]}, {"name": "Playa de Las Alcaravaneras (Stadtzentrum von las Palmas)", "text": "Die Playa de Las Alcaravaneras präsentiert sich als goldener Sandstrand direkt am pulsierenden Hafen von Las Palmas. Dank der geschützten Lage herrscht hier eine friedliche Atmosphäre, die besonders bei Familien und Wassersportlern beliebt ist. Besucher können sich auf ruhige Badebedingungen, verschiedene Wassersportaktivitäten und das Beobachten der vorbeiziehenden Schiffe freuen. Es ist ratsam, einen Besuch mit einem Stadtbummel zu verbinden, um die zentrale Lage voll auszukosten.", "category": "recreational", "coords": [-15.428981, 28.130709]}, {"name": "Castillo de Mata", "text": "Diese Festung aus dem 16. Jahrhundert schützte einst die Stadt vor Angriffen und beherbergt heute ein Museum.", "category": "castle", "coords": [-15.421784, 28.107127]}, {"name": "Castillo de San Francisco", "text": "Eine auf einem Hügel gelegene Befestigungsanlage aus dem 17. Jahrhundert, die zur Verteidigung von Las Palmas errichtet wurde.", "category": "castle", "coords": [-15.424796, 28.103714]}, {"name": "Acuario Poema del Mar", "text": "Ein hochmodernes Aquarium am Hafen, das in verschiedenen Themenbereichen die Artenvielfalt der Weltmeere zeigt.", "category": "family", "coords": [-15.428225, 28.144603]}, {"name": "Batería de San Juan", "text": "Eine historische Geschützstellung auf den Anhöhen von Las Palmas, die einst Teil des Küstenverteidigungssystems war.", "category": "fortress", "coords": [-15.422475, 28.091729]}, {"name": "Museo Naval de Canarias", "text": "Das Museum dokumentiert die maritime Geschichte der Kanaren mit Modellen, Navigationsinstrumenten und historischen Seekarten.", "category": "museum", "coords": [-15.428507, 28.135264]}, {"name": "a las actividades primitivas canarias", "text": "Denkmal in Las Palmas, das den traditionellen handwerklichen Tätigkeiten der kanarischen Ureinwohner gewidmet ist.", "category": "historical", "coords": [-15.435094, 28.13455]}, {"name": "Mirador del Sendero Azul", "text": "Aussichtspunkt am Küstenweg Sendero Azul mit Blick auf den Atlantischen Ozean und die Küstenlinie.", "category": "natural", "coords": [-15.462989, 28.127751]}, {"name": "Plaza de la Feria", "text": "Die Plaza de la Feria bietet als weitläufiger öffentlicher Platz und Stadtpark eine grüne Oase direkt im Zentrum von Las Palmas de Gran Canaria. Hier umgibt Spaziergänger eine entspannte, städtische Atmosphäre unter schattenspendenden Bäumen. Besucher können gemütlich über die Wege schlendern, sich auf Bänken ausruhen und das lokale Leben beobachten. Ein Besuch am Vormittag empfiehlt sich, um die Ruhe vor dem bunten Treiben des Nachmittags zu genießen.", "category": "park", "coords": [-15.420542, 28.113467]}, {"name": "Iglesia de Santo Domingo", "text": "Historisches Kirchengebäude im Stadtteil Vegueta, das für seine Architektur aus dem 16. Jahrhundert bekannt ist.", "category": "historical", "coords": [-15.41594, 28.098429]}, {"name": "Plaza de Cairasco", "text": "Die Plaza de Cairasco ist ein äußerst eleganter Platz im historischen Viertel Triana. Umgeben von architektonischen Schätzen wie dem bedeutenden Gabinete Literario, verströmt dieser Ort eine kultivierte und zugleich einladende Atmosphäre. Gäste können hier in Ruhe flanieren, die prachtvollen Fassaden bewundern und in den umliegenden Cafés verweilen. Es lohnt sich, nach einem ausgedehnten Stadtrundgang hier eine Pause einzulegen und den Charme der Umgebung zu genießen.", "category": "park", "coords": [-15.416363, 28.102804]}, {"name": "Muralla de Las Palmas", "text": "Überreste der historischen Stadtmauer aus dem 16. Jahrhundert, die zur Verteidigung gegen Piratenangriffe errichtet wurde.", "category": "historical", "coords": [-15.422018, 28.106213]}, {"name": "Iglesia de San José", "text": "Eine römisch-katholische Kirche im traditionellen Viertel San José, die als wichtiges lokales Baudenkmal gilt.", "category": "historical", "coords": [-15.418506, 28.094737]}, {"name": "Capilla Anglicana", "text": "Historische anglikanische Kapelle, die Ende des 19. Jahrhunderts für die britische Gemeinschaft der Stadt erbaut wurde.", "category": "historical", "coords": [-15.43102, 28.125468]}, {"name": "Casa Museo Pérez Galdós", "text": "Das Geburtshaus des berühmten spanischen Schriftstellers Benito Pérez Galdós, das heute als Museum dient.", "category": "historical", "coords": [-15.415882, 28.104017]}, {"name": "San Francisco de Asís", "text": "Eine historische Pfarrkirche im Viertel Vegueta, die bedeutende religiöse Kunstwerke und Schnitzereien beherbergt.", "category": "historical", "coords": [-15.417326, 28.103484]}, {"name": "Ermita de San Telmo", "text": "Eine im 18. Jahrhundert erbaute Kapelle im San-Telmo-Park, die dem Schutzpatron der Seeleute gewidmet ist.", "category": "historical", "coords": [-15.416887, 28.108177]}, {"name": "Playa del Confital", "text": "Die Playa del Confital versteckt sich als angenehmer und naturnaher Küstenabschnitt in Las Palmas De Gran Canaria. Mit ihrer rauen Schönheit bietet sie eine authentische und ruhige Atmosphäre abseits des großen Trubels. Besucher können hier entspannte Spaziergänge unternehmen, sich sonnen und in den natürlichen Pools eine kleine Erfrischung finden. Bringen Sie am besten etwas Proviant mit, um einen ungestörten Nachmittag am Meer zu verbringen.", "category": "recreational", "coords": [-15.435981, 28.159486]}], "hu": [{"name": "Santa Ana katedrális", "text": "A Vegueta negyed központjában álló hatalmas székesegyház több mint négy évszázadon át épült, így gótikus és neoklasszicista stílusjegyeket is visel.", "category": "churches/cathedrals", "confidence": "high", "coords": [-15.414722, 28.100833]}, {"name": "Kolumbusz háza (Casa de Colón)", "text": "Ez a díszes épület egykor a kormányzó rezidenciája volt, ahol Kolumbusz megszállt; ma a felfedező útjait bemutató múzeumnak ad otthont.", "category": "museums", "confidence": "high", "coords": [-15.414167, 28.101389]}, {"name": "Playa de Las Canteras", "text": "A Playa de Las Canteras a világ egyik legjobb városi strandjaként lenyűgöző, három kilométer hosszú sétánnyal vonzza a látogatókat. Egy természetes zátony finoman megtöri itt a hullámokat, így biztonságos és nyugodt légkört teremt minden korosztály számára. A vendégek gondtalanul úszhatnak a csendes vízben, napozhatnak, vagy nagyokat sétálhatnak a parton. Egy esti séta a sétányon tökéletes befejezése lehet egy napsütéses napnak.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-15.436111, 28.14]}, {"name": "Castillo de la Luz", "text": "A sziget legrégebbi erődítménye, amely a 15. században épült a kalóztámadások ellen, ma pedig modern szoborkiállítások helyszíne.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [-15.424861, 28.148611]}, {"name": "Alfredo Kraus Auditorio", "text": "A tengerpart északi végén magasodó modern hangversenyterem, amely a híres helyi tenorról kapta a nevét, és a város kulturális központja.", "category": "theatres/cultural centres", "confidence": "high", "coords": [-15.449119, 28.130125]}, {"name": "Museo Canario", "text": "A Kanári-szigetek őslakosainak, a guancséknak a történelmét bemutató múzeum, ahol egyedülálló régészeti leleteket és múmiákat láthatunk.", "category": "museums", "confidence": "high", "coords": [-15.415428, 28.099578]}, {"name": "Doramas park", "text": "Egzotikus növényekkel, vízesésekkel és szobrokkal teli trópusi oázis a város közepén, amely a híres Hotel Santa Catalina mellett található.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-15.42707, 28.12161]}, {"name": "Museo Elder de la Ciencia y la Tecnología", "text": "Interaktív tudományos múzeum a Santa Catalina parkban, amely a technológiai fejlődést és a kutatást népszerűsíti.", "category": "museum", "coords": [-15.429661, 28.141231]}, {"name": "Teatro Cuyás", "text": "Las Palmas neves színháza, amely drámai előadásoknak, koncerteknek és nemzetközi produkcióknak ad otthont.", "category": "cultural", "coords": [-15.417966, 28.106591]}, {"name": "Centro de Arte La Regenta", "text": "Kortárs művészeti központ Las Palmasban, amely egy régi dohánygyár ipari épületében kapott helyet.", "category": "museum", "coords": [-15.430662, 28.138666]}, {"name": "Playa de Las Alcaravaneras", "text": "A Playa de Las Alcaravaneras egy aranyhomokos strand Las Palmas nyüzsgő kikötője mellett. Védett elhelyezkedésének köszönhetően békés légkör uralkodik itt, amely különösen népszerű a családok és a vízi sportok kedvelői körében. A látogatókat nyugodt fürdőzési feltételek, különféle vízi tevékenységek és az elhaladó hajók látványa várja. Érdemes a látogatást egy városi sétával egybekötni, hogy maradéktalanul kihasználjuk a központi elhelyezkedést.", "category": "recreational", "coords": [-15.428981, 28.130709]}, {"name": "Castillo de Mata", "text": "Ez a 16. századi erődítmény egykor a várost védte a támadásoktól, ma pedig múzeumnak ad otthont.", "category": "castle", "coords": [-15.421784, 28.107127]}, {"name": "Castillo de San Francisco", "text": "17. századi, dombtetőre épült erődítmény, amely stratégiai szerepet játszott Las Palmas védelmében.", "category": "castle", "coords": [-15.424796, 28.103714]}, {"name": "Acuario Poema del Mar", "text": "Modern akvárium a kikötő közelében, amely látványos módon mutatja be a világ óceánjainak élővilágát.", "category": "family", "coords": [-15.428225, 28.144603]}, {"name": "Batería de San Juan", "text": "Történelmi tüzérségi állás Las Palmas dombjain, amely egykor a part menti védelmi rendszer részét képezte.", "category": "fortress", "coords": [-15.422475, 28.091729]}, {"name": "Museo Naval de Canarias", "text": "A múzeum a Kanári-szigetek tengerészeti múltját dokumentálja hajómodellekkel és régi navigációs eszközökkel.", "category": "museum", "coords": [-15.428507, 28.135264]}, {"name": "a las actividades primitivas canarias", "text": "A kanári-szigeteki őslakosok hagyományos tevékenységeinek emléket állító emlékmű Las Palmasban.", "category": "historical", "coords": [-15.435094, 28.13455]}, {"name": "Mirador del Sendero Azul", "text": "Kilátópont a Sendero Azul tengerparti sétányon, kilátással az Atlanti-óceánra és a partvonalra.", "category": "natural", "coords": [-15.462989, 28.127751]}, {"name": "Plaza de la Feria", "text": "A Plaza de la Feria hatalmas köztereként és városi parkként egy zöld oázist kínál közvetlenül Las Palmas de Gran Canaria központjában. Itt a sétálókat nyugodt, városi atmoszféra fogadja az árnyékot adó fák alatt. A látogatók kényelmesen sétálhatnak az ösvényeken, megpihenhetnek a padokon, és megfigyelhetik a helyiek mindennapjait. Érdemes délelőtt ellátogatni ide, hogy élvezhessük a nyugalmat a délutáni nyüzsgés előtt.", "category": "park", "coords": [-15.420542, 28.113467]}, {"name": "Iglesia de Santo Domingo", "text": "Történelmi templomépület a Vegueta negyedben, amely a 16. századi építészetéről ismert.", "category": "historical", "coords": [-15.41594, 28.098429]}, {"name": "Plaza de Cairasco", "text": "A Plaza de Cairasco egy rendkívül elegáns tér a történelmi Triana negyedben. A kiemelkedő építészeti kincsekkel, mint például a Gabinete Literario-val körülvett hely kifinomult, mégis barátságos légkört áraszt. A vendégek nyugodtan sétálhatnak, megcsodálhatják a pompás homlokzatokat, és elidőzhetnek a környező kávézókban. Egy hosszú városnézés után érdemes itt megpihenni, és élvezni a környék varázsát.", "category": "park", "coords": [-15.416363, 28.102804]}, {"name": "Muralla de Las Palmas", "text": "A 16. századi történelmi városfal maradványai, amelyet a kalóztámadások elleni védekezésül emeltek.", "category": "historical", "coords": [-15.422018, 28.106213]}, {"name": "Iglesia de San José", "text": "Római katolikus templom a hagyományos San José negyedben, amely fontos helyi műemlék.", "category": "historical", "coords": [-15.418506, 28.094737]}, {"name": "Capilla Anglicana", "text": "Történelmi anglikán kápolna, amely a 19. század végén épült a város brit közössége számára.", "category": "historical", "coords": [-15.43102, 28.125468]}, {"name": "Casa Museo Pérez Galdós", "text": "A híres spanyol író, Benito Pérez Galdós szülőháza, amely ma múzeumként működik.", "category": "historical", "coords": [-15.415882, 28.104017]}, {"name": "San Francisco de Asís", "text": "Történelmi plébániatemplom a Vegueta negyedben, amely jelentős vallási műalkotásoknak ad otthont.", "category": "historical", "coords": [-15.417326, 28.103484]}, {"name": "Ermita de San Telmo", "text": "A 18. században épült kápolna a San Telmo parkban, amelyet a tengerészek védőszentjének szenteltek.", "category": "historical", "coords": [-15.416887, 28.108177]}, {"name": "Playa del Confital", "text": "A Playa del Confital egy kellemes és természetközeli partszakaszként bújik meg Las Palmas De Gran Canaria peremén. Zord szépségével autentikus és nyugodt légkört kínál távol a nagy nyüzsgéstől. A látogatók pihentető sétákat tehetnek, napozhatnak, és felfrissülhetnek a természetes medencékben. Érdemes egy kis útravalót magunkkal hozni, hogy zavartalanul tölthessünk el egy délutánt a tengerparton.", "category": "recreational", "coords": [-15.435981, 28.159486]}], "ro": [{"name": "Catedrala Santa Ana", "text": "Cea mai importantă clădire religioasă din Insulele Canare, situată în cartierul Vegueta, îmbină stilurile gotic și neoclasic pe parcursul a 400 de ani.", "category": "churches/cathedrals", "confidence": "high", "coords": [-15.414722, 28.100833]}, {"name": "Casa de Colón", "text": "O clădire spectaculoasă cu balcoane din lemn, unde Cristofor Columb a fost găzduit în 1492; astăzi este un muzeu dedicat explorărilor maritime.", "category": "museums", "confidence": "high", "coords": [-15.414167, 28.101389]}, {"name": "Playa de Las Canteras", "text": "Playa de Las Canteras atrage vizitatorii fiind considerată una dintre cele mai bune plaje urbane din lume, oferind o promenadă impresionantă de trei kilometri. Un recif natural sparge ușor valurile aici, creând o atmosferă sigură și relaxantă pentru înotătorii de toate vârstele. Oaspeții pot înota liniștiți în apele calme, se pot bronza sau pot face plimbări lungi. O plimbare de seară de-a lungul promenadei oferă finalul perfect pentru o zi însorită.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-15.436111, 28.14]}, {"name": "Castillo de la Luz", "text": "Cea mai veche fortăreață de pe insulă, construită în secolul al XV-lea pentru apărarea portului, găzduiește acum o fundație de artă modernă.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [-15.424861, 28.148611]}, {"name": "Auditoriul Alfredo Kraus", "text": "O clădire modernă impresionantă situată la capătul plajei, numită după faimosul tenor canarian, fiind sediul principalelor evenimente muzicale.", "category": "theatres/cultural centres", "confidence": "high", "coords": [-15.449119, 28.130125]}, {"name": "Museo Canario", "text": "Un muzeu esențial pentru înțelegerea culturii aborigenilor 'Guanches', prezentând o vastă colecție de obiecte prehispanice și resturi umane.", "category": "museums", "confidence": "high", "coords": [-15.415428, 28.099578]}, {"name": "Parcul Doramas", "text": "O grădină luxuriantă situată în zona rezidențială Ciudad Jardín, oferind o oază de liniște cu fântâni arteziene și specii de plante endemice.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-15.42707, 28.12161]}, {"name": "Museo Elder de la Ciencia y la Tecnología", "text": "Un muzeu interactiv de știință situat în Parcul Santa Catalina, dedicat inovației și descoperirilor tehnice.", "category": "museum", "coords": [-15.429661, 28.141231]}, {"name": "Teatro Cuyás", "text": "Un centru cultural important din Las Palmas, care găzduiește spectacole variate de teatru, muzică și dans.", "category": "cultural", "coords": [-15.417966, 28.106591]}, {"name": "Centro de Arte La Regenta", "text": "Un centru de artă contemporană situat în clădirea unei foste fabrici de tutun din Las Palmas.", "category": "museum", "coords": [-15.430662, 28.138666]}, {"name": "Playa de Las Alcaravaneras", "text": "Playa de Las Alcaravaneras se prezintă ca o plajă cu nisip auriu chiar lângă portul vibrant din Las Palmas. Datorită locației sale adăpostite, aici domină o atmosferă pașnică, fiind un loc deosebit de popular pentru familii și pasionații de sporturi nautice. Vizitatorii se pot aștepta la condiții liniștite de înot, activități pe apă și pot privi navele trecând. Este recomandat să combinați vizita la plajă cu o plimbare prin centrul orașului.", "category": "recreational", "coords": [-15.428981, 28.130709]}, {"name": "Castillo de Mata", "text": "Această fortăreață din secolul al XVI-lea a protejat orașul de atacuri și găzduiește astăzi un muzeu.", "category": "castle", "coords": [-15.421784, 28.107127]}, {"name": "Castillo de San Francisco", "text": "O fortificație din secolul al XVII-lea situată pe un deal, construită pentru a apăra orașul Las Palmas.", "category": "castle", "coords": [-15.424796, 28.103714]}, {"name": "Acuario Poema del Mar", "text": "Un acvariu ultramodern lângă port, care prezintă biodiversitatea oceanelor lumii în zone tematice.", "category": "family", "coords": [-15.428225, 28.144603]}, {"name": "Batería de San Juan", "text": "O baterie de coastă istorică pe dealurile din Las Palmas, care a făcut parte din sistemul de apărare al orașului.", "category": "fortress", "coords": [-15.422475, 28.091729]}, {"name": "Museo Naval de Canarias", "text": "Muzeul documentează istoria navală a Canarelor prin machete, instrumente de navigație și hărți istorice.", "category": "museum", "coords": [-15.428507, 28.135264]}, {"name": "a las actividades primitivas canarias", "text": "Monument în Las Palmas dedicat activităților tradiționale și meșteșugurilor băștinașilor din Insulele Canare.", "category": "historical", "coords": [-15.435094, 28.13455]}, {"name": "Mirador del Sendero Azul", "text": "Punct de observare pe traseul de coastă Sendero Azul, oferind vedere spre Oceanul Atlantic.", "category": "natural", "coords": [-15.462989, 28.127751]}, {"name": "Plaza de la Feria", "text": "Plaza de la Feria servește drept o vastă piață publică și parc urban, o adevărată oază verde în centrul orașului Las Palmas de Gran Canaria. Aici, plimbăreții sunt învăluiți de o atmosferă urbană relaxantă sub copacii umbroși. Vizitatorii se pot plimba pe îndelete pe alei, se pot odihni pe bănci și pot observa viața cotidiană a localnicilor. O vizită de dimineață este ideală pentru a te bucura de liniște înainte de agitația de după-amiază.", "category": "park", "coords": [-15.420542, 28.113467]}, {"name": "Iglesia de Santo Domingo", "text": "Clădire istorică de cult în cartierul Vegueta, renumită pentru arhitectura sa din secolul al XVI-lea.", "category": "historical", "coords": [-15.41594, 28.098429]}, {"name": "Plaza de Cairasco", "text": "Plaza de Cairasco este o piață extrem de elegantă în cartierul istoric Triana. Înconjurată de comori arhitecturale, precum importantul Gabinete Literario, acest loc emană o atmosferă cultă și foarte primitoare. Oaspeții se pot plimba în liniște, pot admira fațadele magnifice și se pot relaxa la cafenelele din jur. După un tur lung al orașului, merită să faceți o pauză aici și să savurați farmecul împrejurimilor.", "category": "park", "coords": [-15.416363, 28.102804]}, {"name": "Muralla de Las Palmas", "text": "Vestigiile zidului istoric al orașului din secolul al XVI-lea, construit pentru apărarea împotriva piraților.", "category": "historical", "coords": [-15.422018, 28.106213]}, {"name": "Iglesia de San José", "text": "O biserică romano-catolică în cartierul tradițional San José, considerată un monument local important.", "category": "historical", "coords": [-15.418506, 28.094737]}, {"name": "Capilla Anglicana", "text": "Capelă anglicană istorică construită la sfârșitul secolului al XIX-lea pentru comunitatea britanică din oraș.", "category": "historical", "coords": [-15.43102, 28.125468]}, {"name": "Casa Museo Pérez Galdós", "text": "Casa natală a celebrului scriitor spaniol Benito Pérez Galdós, care servește astăzi ca muzeu.", "category": "historical", "coords": [-15.415882, 28.104017]}, {"name": "San Francisco de Asís", "text": "O biserică parohială istorică în cartierul Vegueta, care adăpostește opere de artă religioasă importante.", "category": "historical", "coords": [-15.417326, 28.103484]}, {"name": "Ermita de San Telmo", "text": "O capelă construită în secolul al XVIII-lea în parcul San Telmo, dedicată patronului marinarilor.", "category": "historical", "coords": [-15.416887, 28.108177]}, {"name": "Playa del Confital", "text": "Playa del Confital se ascunde ca o zonă de coastă plăcută și naturală în Las Palmas De Gran Canaria. Cu frumusețea sa sălbatică, oferă o atmosferă autentică și liniștită, departe de agitația marelui oraș. Aici, vizitatorii se pot bucura de plimbări relaxante, de soare și de o scurtă răcorire în piscinele naturale. Cel mai bine este să aduceți niște gustări pentru a petrece o după-amiază netulburată lângă mare.", "category": "recreational", "coords": [-15.435981, 28.159486]}], "en": [{"name": "Santa Ana Cathedral", "text": "Dominating the Vegueta skyline, this twin-towered cathedral features a mix of Gothic and Neoclassical architecture built over several centuries.", "category": "churches/cathedrals", "confidence": "high", "coords": [-15.414722, 28.100833]}, {"name": "Columbus House (Casa de Colón)", "text": "This ornate building once hosted Christopher Columbus and now houses a fascinating museum dedicated to his voyages and Canary Islands history.", "category": "museums", "confidence": "high", "coords": [-15.414167, 28.101389]}, {"name": "Las Canteras Beach", "text": "Playa de Las Canteras draws visitors as one of the best urban beaches in the world, featuring an impressive three-kilometer-long promenade. A natural reef gently breaks the waves, creating a safe and deeply relaxing atmosphere for bathers of all ages. Guests can swim carefree in the calm waters, soak up the sun, or enjoy an extended stroll along the shore. An evening walk along the lively promenade offers the perfect end to a sunny day.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-15.436111, 28.14]}, {"name": "Castillo de la Luz", "text": "Gran Canaria's oldest fortress, originally built in the 15th century to defend against pirates, it now serves as a contemporary art space.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [-15.424861, 28.148611]}, {"name": "Alfredo Kraus Auditorium", "text": "A striking modern concert hall located at the northern tip of the city, named after the world-renowned local tenor Alfredo Kraus.", "category": "theatres/cultural centres", "confidence": "high", "coords": [-15.449119, 28.130125]}, {"name": "Museo Canario", "text": "A specialized museum documenting the lives of the Guanches, the original inhabitants of the islands, including a notable collection of mummies.", "category": "museums", "confidence": "high", "coords": [-15.415428, 28.099578]}, {"name": "Doramas Park", "text": "A lush urban oasis featuring tropical plants, fountains, and monuments, located in the heart of the historic Garden City neighborhood.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-15.42707, 28.12161]}, {"name": "Museum of Science and Technology", "text": "An interactive science museum in Santa Catalina Park, featuring hands-on exhibits on technology and discovery.", "category": "museum", "coords": [-15.429661, 28.141231]}, {"name": "Teatro Cuyás", "text": "A major performing arts venue in Las Palmas hosting a variety of plays, concerts, and dance performances.", "category": "cultural", "coords": [-15.417966, 28.106591]}, {"name": "Centro de Arte La Regenta", "text": "A contemporary art center in Las Palmas housed in the industrial building of a former tobacco factory.", "category": "museum", "coords": [-15.430662, 28.138666]}, {"name": "Playa de Las Alcaravaneras", "text": "Playa de Las Alcaravaneras reveals itself as a golden sandy beach right next to the vibrant port of Las Palmas. Thanks to its sheltered location, a peaceful atmosphere prevails, making it especially popular with families and water sports enthusiasts. Visitors can look forward to calm swimming conditions, engaging aquatic activities, and watching passing ships in the harbor. It is a great idea to combine a beach visit with a city stroll to fully appreciate its central location.", "category": "recreational", "coords": [-15.428981, 28.130709]}, {"name": "Castillo de Mata", "text": "A 16th-century fortification that once defended the city from attacks and now houses a local museum.", "category": "castle", "coords": [-15.421784, 28.107127]}, {"name": "Castillo de San Francisco", "text": "A 17th-century fortification situated on a hill, originally built to defend the city of Las Palmas.", "category": "castle", "coords": [-15.424796, 28.103714]}, {"name": "Acuario Poema del Mar", "text": "A state-of-the-art aquarium near the harbor, showcasing global marine biodiversity across various themed zones.", "category": "family", "coords": [-15.428225, 28.144603]}, {"name": "Batería de San Juan", "text": "A historic artillery battery on the heights of Las Palmas, once part of the city's coastal defense system.", "category": "fortress", "coords": [-15.422475, 28.091729]}, {"name": "Museo Naval de Canarias", "text": "The museum documents the naval history of the Canaries with models, navigation tools, and historical charts.", "category": "museum", "coords": [-15.428507, 28.135264]}, {"name": "a las actividades primitivas canarias", "text": "Monument in Las Palmas dedicated to the traditional and primitive activities of the Canary Islanders.", "category": "historical", "coords": [-15.435094, 28.13455]}, {"name": "Mirador del Sendero Azul", "text": "Viewpoint along the Sendero Azul coastal path, offering views of the Atlantic Ocean and the shoreline.", "category": "natural", "coords": [-15.462989, 28.127751]}, {"name": "Plaza de la Feria", "text": "Plaza de la Feria serves as an expansive public square and urban park, providing a green oasis right in the center of Las Palmas de Gran Canaria. Strollers are enveloped by a relaxed urban atmosphere beneath the shade of welcoming trees. Visitors can take leisurely walks along the paths, rest on the benches, and engage in local people-watching. A morning visit is highly recommended to enjoy the peace before the lively afternoon bustle begins.", "category": "park", "coords": [-15.420542, 28.113467]}, {"name": "Iglesia de Santo Domingo", "text": "Historic church building in the Vegueta district, known for its 16th-century architecture.", "category": "historical", "coords": [-15.41594, 28.098429]}, {"name": "Plaza de Cairasco", "text": "Plaza de Cairasco stands out as an exceptionally elegant square in the historic Triana neighborhood. Framed by architectural treasures such as the prominent Gabinete Literario, this location exudes a cultured yet warmly inviting atmosphere. Guests can take a leisurely stroll, admire the magnificent facades, and linger in the surrounding cafes. It is well worth taking a break here after a long city tour to absorb the charm of the area.", "category": "park", "coords": [-15.416363, 28.102804]}, {"name": "Muralla de Las Palmas", "text": "Remains of the historic 16th-century city wall, built for defense against pirate attacks.", "category": "historical", "coords": [-15.422018, 28.106213]}, {"name": "Iglesia de San José", "text": "A Roman Catholic church in the traditional San José neighborhood, considered an important local monument.", "category": "historical", "coords": [-15.418506, 28.094737]}, {"name": "Capilla Anglicana", "text": "Historic Anglican chapel built at the end of the 19th century for the city's British community.", "category": "historical", "coords": [-15.43102, 28.125468]}, {"name": "Casa Museo Pérez Galdós", "text": "The birthplace of the famous Spanish writer Benito Pérez Galdós, which now serves as a museum.", "category": "historical", "coords": [-15.415882, 28.104017]}, {"name": "San Francisco de Asís", "text": "A historic parish church in the Vegueta district, housing significant religious artworks.", "category": "historical", "coords": [-15.417326, 28.103484]}, {"name": "Ermita de San Telmo", "text": "An 18th-century chapel in San Telmo Park, dedicated to the patron saint of sailors.", "category": "historical", "coords": [-15.416887, 28.108177]}, {"name": "Playa del Confital", "text": "Playa del Confital is tucked away as a pleasant, natural stretch of coastline in Las Palmas De Gran Canaria. With its rugged beauty, it offers an authentic and tranquil atmosphere far removed from the city's main hustle. Visitors can enjoy leisurely coastal walks, soak up the sunshine, and find a quick refreshment in the natural rock pools. It is a smart idea to bring a few snacks along to enjoy an undisturbed afternoon by the sea.", "category": "recreational", "coords": [-15.435981, 28.159486]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Kathedrale Santa Ana",
+                  "text": "Die imposante Kathedrale im Herzen der Vegueta-Altstadt vereint Gotik, Renaissance und Neoklassizismus und bietet einen Blick vom Turm.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        -15.414722,
+                        28.100833
+                  ]
+            },
+            {
+                  "name": "Casa de Colón",
+                  "text": "In diesem prachtvollen Haus wohnte Kolumbus während seiner Aufenthalte. Heute beherbergt es ein Museum über seine Entdeckungsreisen.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -15.414167,
+                        28.101389
+                  ]
+            },
+            {
+                  "name": "Playa de Las Canteras",
+                  "text": "Die Playa de Las Canteras lockt als einer der besten Stadtstrände der Welt mit einer beeindruckenden, drei Kilometer langen Promenade. Ein natürliches Riff bricht hier sanft die Wellen und schafft so eine sichere und entspannte Atmosphäre für Badegäste jeden Alters. Besucher können unbeschwert im ruhigen Wasser schwimmen, in der Sonne liegen oder ausgiebig flanieren. Ein abendlicher Spaziergang entlang der Promenade bietet den perfekten Abschluss eines sonnigen Tages.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -15.436111,
+                        28.14
+                  ]
+            },
+            {
+                  "name": "Auditório Alfredo Kraus",
+                  "text": "Ein markantes modernes Konzerthaus am Ende des Canteras-Strandes, das nach dem berühmten kanarischen Tenor benannt wurde.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "coords": [
+                        -15.449119,
+                        28.130125
+                  ]
+            },
+            {
+                  "name": "Museo Canario",
+                  "text": "Dieses Museum zeigt die faszinierende Geschichte der Ureinwohner der Kanaren, der Guanchen, einschließlich einer Sammlung von Mumien.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -15.415428,
+                        28.099578
+                  ]
+            },
+            {
+                  "name": "Parque Doramas",
+                  "text": "Ein üppiger Stadtpark mit exotischen Pflanzen, Springbrunnen und dem historischen Hotel Santa Catalina im Herzen des Gartenviertels.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -15.42707,
+                        28.12161
+                  ]
+            },
+            {
+                  "name": "Batería de San Juan",
+                  "text": "Eine historische Geschützstellung auf den Anhöhen von Las Palmas, die einst Teil des Küstenverteidigungssystems war.",
+                  "category": "fortress",
+                  "coords": [
+                        -15.422475,
+                        28.091729
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Domingo",
+                  "text": "Historisches Kirchengebäude im Stadtteil Vegueta, das für seine Architektur aus dem 16. Jahrhundert bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -15.41594,
+                        28.098429
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José",
+                  "text": "Eine römisch-katholische Kirche im traditionellen Viertel San José, die als wichtiges lokales Baudenkmal gilt.",
+                  "category": "historical",
+                  "coords": [
+                        -15.418506,
+                        28.094737
+                  ]
+            },
+            {
+                  "name": "Playa del Confital",
+                  "text": "Die Playa del Confital versteckt sich als angenehmer und naturnaher Küstenabschnitt in Las Palmas De Gran Canaria. Mit ihrer rauen Schönheit bietet sie eine authentische und ruhige Atmosphäre abseits des großen Trubels. Besucher können hier entspannte Spaziergänge unternehmen, sich sonnen und in den natürlichen Pools eine kleine Erfrischung finden. Bringen Sie am besten etwas Proviant mit, um einen ungestörten Nachmittag am Meer zu verbringen.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.435981,
+                        28.159486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santa Ana katedrális",
+                  "text": "A Vegueta negyed központjában álló hatalmas székesegyház több mint négy évszázadon át épült, így gótikus és neoklasszicista stílusjegyeket is visel.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        -15.414722,
+                        28.100833
+                  ]
+            },
+            {
+                  "name": "Kolumbusz háza (Casa de Colón)",
+                  "text": "Ez a díszes épület egykor a kormányzó rezidenciája volt, ahol Kolumbusz megszállt; ma a felfedező útjait bemutató múzeumnak ad otthont.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -15.414167,
+                        28.101389
+                  ]
+            },
+            {
+                  "name": "Playa de Las Canteras",
+                  "text": "A Playa de Las Canteras a világ egyik legjobb városi strandjaként lenyűgöző, három kilométer hosszú sétánnyal vonzza a látogatókat. Egy természetes zátony finoman megtöri itt a hullámokat, így biztonságos és nyugodt légkört teremt minden korosztály számára. A vendégek gondtalanul úszhatnak a csendes vízben, napozhatnak, vagy nagyokat sétálhatnak a parton. Egy esti séta a sétányon tökéletes befejezése lehet egy napsütéses napnak.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -15.436111,
+                        28.14
+                  ]
+            },
+            {
+                  "name": "Alfredo Kraus Auditorio",
+                  "text": "A tengerpart északi végén magasodó modern hangversenyterem, amely a híres helyi tenorról kapta a nevét, és a város kulturális központja.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "coords": [
+                        -15.449119,
+                        28.130125
+                  ]
+            },
+            {
+                  "name": "Museo Canario",
+                  "text": "A Kanári-szigetek őslakosainak, a guancséknak a történelmét bemutató múzeum, ahol egyedülálló régészeti leleteket és múmiákat láthatunk.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -15.415428,
+                        28.099578
+                  ]
+            },
+            {
+                  "name": "Doramas park",
+                  "text": "Egzotikus növényekkel, vízesésekkel és szobrokkal teli trópusi oázis a város közepén, amely a híres Hotel Santa Catalina mellett található.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -15.42707,
+                        28.12161
+                  ]
+            },
+            {
+                  "name": "Batería de San Juan",
+                  "text": "Történelmi tüzérségi állás Las Palmas dombjain, amely egykor a part menti védelmi rendszer részét képezte.",
+                  "category": "fortress",
+                  "coords": [
+                        -15.422475,
+                        28.091729
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Domingo",
+                  "text": "Történelmi templomépület a Vegueta negyedben, amely a 16. századi építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -15.41594,
+                        28.098429
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José",
+                  "text": "Római katolikus templom a hagyományos San José negyedben, amely fontos helyi műemlék.",
+                  "category": "historical",
+                  "coords": [
+                        -15.418506,
+                        28.094737
+                  ]
+            },
+            {
+                  "name": "Playa del Confital",
+                  "text": "A Playa del Confital egy kellemes és természetközeli partszakaszként bújik meg Las Palmas De Gran Canaria peremén. Zord szépségével autentikus és nyugodt légkört kínál távol a nagy nyüzsgéstől. A látogatók pihentető sétákat tehetnek, napozhatnak, és felfrissülhetnek a természetes medencékben. Érdemes egy kis útravalót magunkkal hozni, hogy zavartalanul tölthessünk el egy délutánt a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.435981,
+                        28.159486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Catedrala Santa Ana",
+                  "text": "Cea mai importantă clădire religioasă din Insulele Canare, situată în cartierul Vegueta, îmbină stilurile gotic și neoclasic pe parcursul a 400 de ani.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        -15.414722,
+                        28.100833
+                  ]
+            },
+            {
+                  "name": "Casa de Colón",
+                  "text": "O clădire spectaculoasă cu balcoane din lemn, unde Cristofor Columb a fost găzduit în 1492; astăzi este un muzeu dedicat explorărilor maritime.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -15.414167,
+                        28.101389
+                  ]
+            },
+            {
+                  "name": "Playa de Las Canteras",
+                  "text": "Playa de Las Canteras atrage vizitatorii fiind considerată una dintre cele mai bune plaje urbane din lume, oferind o promenadă impresionantă de trei kilometri. Un recif natural sparge ușor valurile aici, creând o atmosferă sigură și relaxantă pentru înotătorii de toate vârstele. Oaspeții pot înota liniștiți în apele calme, se pot bronza sau pot face plimbări lungi. O plimbare de seară de-a lungul promenadei oferă finalul perfect pentru o zi însorită.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -15.436111,
+                        28.14
+                  ]
+            },
+            {
+                  "name": "Auditoriul Alfredo Kraus",
+                  "text": "O clădire modernă impresionantă situată la capătul plajei, numită după faimosul tenor canarian, fiind sediul principalelor evenimente muzicale.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "coords": [
+                        -15.449119,
+                        28.130125
+                  ]
+            },
+            {
+                  "name": "Museo Canario",
+                  "text": "Un muzeu esențial pentru înțelegerea culturii aborigenilor 'Guanches', prezentând o vastă colecție de obiecte prehispanice și resturi umane.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -15.415428,
+                        28.099578
+                  ]
+            },
+            {
+                  "name": "Parcul Doramas",
+                  "text": "O grădină luxuriantă situată în zona rezidențială Ciudad Jardín, oferind o oază de liniște cu fântâni arteziene și specii de plante endemice.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -15.42707,
+                        28.12161
+                  ]
+            },
+            {
+                  "name": "Batería de San Juan",
+                  "text": "O baterie de coastă istorică pe dealurile din Las Palmas, care a făcut parte din sistemul de apărare al orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -15.422475,
+                        28.091729
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Domingo",
+                  "text": "Clădire istorică de cult în cartierul Vegueta, renumită pentru arhitectura sa din secolul al XVI-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -15.41594,
+                        28.098429
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José",
+                  "text": "O biserică romano-catolică în cartierul tradițional San José, considerată un monument local important.",
+                  "category": "historical",
+                  "coords": [
+                        -15.418506,
+                        28.094737
+                  ]
+            },
+            {
+                  "name": "Playa del Confital",
+                  "text": "Playa del Confital se ascunde ca o zonă de coastă plăcută și naturală în Las Palmas De Gran Canaria. Cu frumusețea sa sălbatică, oferă o atmosferă autentică și liniștită, departe de agitația marelui oraș. Aici, vizitatorii se pot bucura de plimbări relaxante, de soare și de o scurtă răcorire în piscinele naturale. Cel mai bine este să aduceți niște gustări pentru a petrece o după-amiază netulburată lângă mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.435981,
+                        28.159486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santa Ana Cathedral",
+                  "text": "Dominating the Vegueta skyline, this twin-towered cathedral features a mix of Gothic and Neoclassical architecture built over several centuries.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        -15.414722,
+                        28.100833
+                  ]
+            },
+            {
+                  "name": "Columbus House (Casa de Colón)",
+                  "text": "This ornate building once hosted Christopher Columbus and now houses a fascinating museum dedicated to his voyages and Canary Islands history.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -15.414167,
+                        28.101389
+                  ]
+            },
+            {
+                  "name": "Las Canteras Beach",
+                  "text": "Playa de Las Canteras draws visitors as one of the best urban beaches in the world, featuring an impressive three-kilometer-long promenade. A natural reef gently breaks the waves, creating a safe and deeply relaxing atmosphere for bathers of all ages. Guests can swim carefree in the calm waters, soak up the sun, or enjoy an extended stroll along the shore. An evening walk along the lively promenade offers the perfect end to a sunny day.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -15.436111,
+                        28.14
+                  ]
+            },
+            {
+                  "name": "Alfredo Kraus Auditorium",
+                  "text": "A striking modern concert hall located at the northern tip of the city, named after the world-renowned local tenor Alfredo Kraus.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "coords": [
+                        -15.449119,
+                        28.130125
+                  ]
+            },
+            {
+                  "name": "Museo Canario",
+                  "text": "A specialized museum documenting the lives of the Guanches, the original inhabitants of the islands, including a notable collection of mummies.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -15.415428,
+                        28.099578
+                  ]
+            },
+            {
+                  "name": "Doramas Park",
+                  "text": "A lush urban oasis featuring tropical plants, fountains, and monuments, located in the heart of the historic Garden City neighborhood.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -15.42707,
+                        28.12161
+                  ]
+            },
+            {
+                  "name": "Batería de San Juan",
+                  "text": "A historic artillery battery on the heights of Las Palmas, once part of the city's coastal defense system.",
+                  "category": "fortress",
+                  "coords": [
+                        -15.422475,
+                        28.091729
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santo Domingo",
+                  "text": "Historic church building in the Vegueta district, known for its 16th-century architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -15.41594,
+                        28.098429
+                  ]
+            },
+            {
+                  "name": "Iglesia de San José",
+                  "text": "A Roman Catholic church in the traditional San José neighborhood, considered an important local monument.",
+                  "category": "historical",
+                  "coords": [
+                        -15.418506,
+                        28.094737
+                  ]
+            },
+            {
+                  "name": "Playa del Confital",
+                  "text": "Playa del Confital is tucked away as a pleasant, natural stretch of coastline in Las Palmas De Gran Canaria. With its rugged beauty, it offers an authentic and tranquil atmosphere far removed from the city's main hustle. Visitors can enjoy leisurely coastal walks, soak up the sunshine, and find a quick refreshment in the natural rock pools. It is a smart idea to bring a few snacks along to enjoy an undisturbed afternoon by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -15.435981,
+                        28.159486
+                  ]
+            }
+      ]
+}
   },
   {"id": "spain-santa-cruz-de-tenerife-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-16.2518, 28.4636], "population": 209194, "tier": 1, "name": {"de": "Santa Cruz de Tenerife", "hu": "Santa Cruz de Tenerife", "ro": "Santa Cruz de Tenerife", "en": "Santa Cruz de Tenerife"}, "description": {"de": "Die Hauptstadt Teneriffas besticht durch moderne Architektur wie das Auditorio de Tenerife und einen der weltweit größten Karnevals.", "hu": "Tenerife fővárosa, amely modern építészetéről, mint az Auditorio de Tenerife, és a világ egyik legnagyobb karneváljáról híres.", "ro": "Capitala insulei Tenerife impresionează prin arhitectura modernă precum Auditorio de Tenerife și unul dintre cele mai mari carnavaluri din lume.", "en": "The capital of Tenerife is famous for its avant-garde architecture, including the Auditorio de Tenerife, and hosting one of the world's largest Carnivals."}, "descriptionAdvanced": {"de": "Santa Cruz de Tenerife liegt im Nordosten der Insel und ist ein wichtiger Hafenstandort im Atlantik. Das moderne Gesicht der Stadt wird durch das Auditorio de Tenerife geprägt, ein futuristisches Werk des Architekten Santiago Calatrava, das oft mit dem Opernhaus von Sydney verglichen wird. Die Plaza de España im Zentrum beherbergt einen künstlichen See und liegt über den Überresten der alten Festung San Cristóbal, die im unterirdischen Museum besichtigt werden können.\n\nGrüne Lungen der Stadt sind der Parque García Sanabria mit seinen exotischen Pflanzen und der Palmetum, ein botanischer Garten auf einer ehemaligen Müllkippe, der die weltweit größte Palmensammlung beherbergt. Wenige Kilometer außerhalb des Zentrums liegt die Playa de las Teresitas, ein goldener Sandstrand, für den der Sand extra aus der Sahara herbeigeschafft wurde. Santa Cruz ist weltberühmt für seinen Karneval im Februar, der in Ausmaß und Pracht nur von Rio de Janeiro übertroffen wird. Die Anreise erfolgt meist über den Nordflughafen (TFN) oder den Südflughafen (TFS), während Fähren die Stadt mit den Nachbarinseln und dem Festland verbinden.", "hu": "Santa Cruz de Tenerife az Atlanti-óceán egyik fontos kikötővárosa és Tenerife szigetének közigazgatási központja. A város látképét meghatározza a Santiago Calatrava által tervezett Auditorio de Tenerife, amely modern, hullámot formázó tetőszerkezetével a város szimbólumává vált. A város szíve a Plaza de España, ahol egy hatalmas mesterséges tó található, alatta pedig a régi San Cristóbal erőd romjai tekinthetők meg egy interaktív múzeumban.\n\nA természetkedvelőknek a Parque García Sanabria kínál trópusi növényeket, a Palmetum pedig a világ egyik leggazdagabb pálmagyűjteményét mutatja be. A központtól 7 km-re fekszik a Playa de las Teresitas, amely sárga homokját a Szaharából hozták. A város februári karneválja nemzetközi hírű, hatalmas jelmezes felvonulásokkal és táncmulatságokkal. Santa Cruz kiváló bázis a sziget északi részének, például az Anaga-hegységnek a felfedezéséhez. A város két repülőtérrel és egy forgalmas kikötővel rendelkezik, így könnyen elérhető bárhonnan.", "ro": "Santa Cruz de Tenerife, situat în nord-estul insulei, este un port vital și un centru cultural vibrant. Orașul este recunoscut imediat după silueta spectaculoasă a Auditoriului de Tenerife, proiectat de Santiago Calatrava, o emblemă a arhitecturii contemporane. În centru, Plaza de España impresionează prin lacul său artificial și prin muzeul subteran care adăpostește zidurile vechiului castel San Cristóbal.\n\nOrașul dispune de spații verzi generoase, cum ar fi Parcul García Sanabria și Palmetum, o grădină botanică specializată în palmieri construită pe un fost depozit de deșeuri. La mică distanță de oraș se află plaja Las Teresitas, faimoasă pentru nisipul auriu adus din deșertul Sahara. Carnavalul din Santa Cruz este declarat de interes turistic internațional și este considerat al doilea ca mărime din lume după cel din Rio. Gastronomia locală poate fi savurată în Mercado de Nuestra Señora de África, o piață tradițională cu produse proaspete. Aeroportul Tenerife Nord (TFN) deservește în principal zborurile inter-insulare și naționale.", "en": "Santa Cruz de Tenerife is a bustling port city and the capital of Tenerife. Its skyline is defined by the Auditorio de Tenerife, a futuristic wave-like structure designed by Santiago Calatrava. The central Plaza de España features a large saltwater lake and an underground museum showcasing the remains of the historic Castillo de San Cristóbal. The city is a blend of traditional Canarian charm and modern urban development.\n\nNature lovers enjoy the García Sanabria Park and the Palmetum, a botanical garden with one of the world's most extensive palm collections. Just a short drive away lies Playa de las Teresitas, a golden sand beach unique to the island because its sand was imported from the Sahara Desert. Santa Cruz is most famous for its vibrant Carnival in February, an explosion of color and music that rivals Rio de Janeiro. The city is served by two airports, Tenerife North (TFN) and Tenerife South (TFS), and remains a key ferry terminal for trips to other islands and the Spanish mainland."}, "facts": {"de": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Karneval von Santa Cruz", "209.194 Einwohner", "Parque García Sanabria", "Palmetum (Palmenpark)", "Mercado de África"], "hu": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Santa Cruz-i karnevál", "209 194 lakos", "Parque García Sanabria", "Palmetum botanikus kert", "San Cristóbal erőd romjai"], "ro": ["Auditorio de Tenerife", "Plaza de España", "Plaja Las Teresitas", "Carnavalul din Santa Cruz", "209.194 locuitori", "Parcul García Sanabria", "Palmetum", "Castelul San Cristóbal"], "en": ["Auditorio de Tenerife", "Plaza de España", "Playa de las Teresitas", "Santa Cruz Carnival", "209,194 residents", "García Sanabria Park", "Palmetum Botanic Garden", "San Cristóbal Castle ruins"]}, "imageHint": "The futuristic white structure of the Auditorio de Tenerife by the sea under a clear blue sky.", "image": "/poi-images/spain-santa-cruz-de-tenerife-cities-v2.webp",
-    "sights": {"de": [{"name": "Auditorio de Tenerife", "text": "Das Auditorio de Tenerife ist ein ikonisches expressionistisches Gebäude und Wahrzeichen der Stadt, berühmt für sein weißes Wellendach.", "category": "theatres/cultural centres", "confidence": "high", "coords": [-16.251278, 28.456067]}, {"name": "Plaza de España", "text": "Die Plaza de España formt als größter Platz der Kanarischen Inseln das urbane Herzstück von Santa Cruz de Tenerife. Durch den eindrucksvollen künstlichen See und markante Monumente entsteht hier eine weitläufige, belebte und zugleich majestätische Atmosphäre. Besucher können wunderbar am Wasser flanieren, die imposante Architektur betrachten und das kanarische Lebensgefühl aufsaugen. Ein abendlicher Besuch ist besonders reizvoll, wenn die Lichter der Stadt sich im See spiegeln.", "category": "squares/old-town", "confidence": "high", "coords": [-16.247202, 28.467234]}, {"name": "Parque García Sanabria", "text": "Dieser große Stadtpark ist eine grüne Oase im Zentrum, bekannt für seine exotischen Pflanzen, Skulpturen und die berühmte Blumenuhr.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-16.25412, 28.472319]}, {"name": "Iglesia de la Concepción", "text": "Die wichtigste Kirche der Stadt besticht durch ihren markanten Glockenturm und eine kunstvolle Holzdecke im Mudéjar-Stil.", "category": "churches/cathedrals", "confidence": "high", "coords": [-16.24894, 28.46444]}, {"name": "TEA Tenerife Espacio de las Artes", "text": "Ein modernes Kulturzentrum und Museum, das zeitgenössische Kunst präsentiert und durch seine avantgardistische Architektur besticht.", "category": "museums", "confidence": "high", "coords": [-16.251389, 28.464167]}, {"name": "Mercado de Nuestra Señora de África", "text": "Ein lebhafter Markt in einem Gebäude im Kolonialstil, der frische lokale Produkte, Gewürze und kanarische Spezialitäten anbietet.", "category": "markets", "confidence": "high", "coords": [-16.251667, 28.463056]}, {"name": "MUNA - Museo de la Naturaleza y la Arqueología", "text": "In diesem Museum erfahren Besucher alles über die Naturgeschichte der Inseln und die Kultur der Ureinwohner, der Guanchen.", "category": "museums", "confidence": "high", "coords": [-16.249478, 28.463865]}, {"name": "Palmetum de Santa Cruz de Tenerife", "text": "Ein botanischer Garten auf einem ehemaligen Hügel, der die weltweit größte Sammlung von Palmen in einer künstlichen Oase beherbergt.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-16.255833, 28.451944]}], "hu": [{"name": "Auditorio de Tenerife", "text": "Az Auditorio de Tenerife egy ikonikus expresszionista épület és a város jelképe, amely hatalmas fehér hullám alakú tetőívéről híres.", "category": "theatres/cultural centres", "confidence": "high", "coords": [-16.251278, 28.456067]}, {"name": "Plaza de España", "text": "A Plaza de España, a Kanári-szigetek legnagyobb tereként, Santa Cruz de Tenerife igazi városi szíve. A lenyűgöző mesterséges tó és a feltűnő műemlékek tágas, élénk, ugyanakkor fenséges légkört teremtenek. A látogatók kellemesen sétálhatnak a víz mentén, megcsodálhatják az impozáns építészetet, és magukba szívhatják a kanári életérzést. Az esti látogatás különösen varázslatos, amikor a város fényei tükröződnek a tavon.", "category": "squares/old-town", "confidence": "high", "coords": [-16.247202, 28.467234]}, {"name": "Parque García Sanabria", "text": "Ez a nagy városi park egy zöld oázis a központban, amely egzotikus növényeiről, szobrairól és a híres virágórájáról ismert.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-16.25412, 28.472319]}, {"name": "Iglesia de Nuestra Señora de la Concepción", "text": "A város legfontosabb temploma, amely jellegzetes harangtornyáról és gazdagon díszített mudéjar stílusú famennyezetéről nevezetes.", "category": "churches/cathedrals", "confidence": "high", "coords": [-16.24894, 28.46444]}, {"name": "TEA Tenerife Espacio de las Artes", "text": "Modern művészeti és kulturális központ, amely kortárs kiállításoknak ad otthont egy avantgárd építészeti remekműben.", "category": "museums", "confidence": "high", "coords": [-16.251389, 28.464167]}, {"name": "Mercado de Nuestra Señora de África", "text": "Élettel teli piac egy gyarmati stílusú épületben, ahol friss helyi termékeket, fűszereket és kanári specialitásokat árulnak.", "category": "markets", "confidence": "high", "coords": [-16.251667, 28.463056]}, {"name": "MUNA - Museo de la Naturaleza y la Arqueología", "text": "Ez a múzeum a szigetek természetrajzát és az őslakos guancsok kultúráját mutatja be, híres múmiagyűjteményével együtt.", "category": "museums", "confidence": "high", "coords": [-16.249478, 28.463865]}, {"name": "Palmetum", "text": "Botanikus kert egy korábbi hulladéklerakó helyén, amely a világ egyik leggazdagabb pálmagyűjteményének ad otthont.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-16.255833, 28.451944]}], "ro": [{"name": "Auditorio de Tenerife", "text": "Auditorio de Tenerife este o clădire expresionistă iconică și un simbol al orașului, faimoasă pentru acoperișul său mare în formă de val.", "category": "theatres/cultural centres", "confidence": "high", "coords": [-16.251278, 28.456067]}, {"name": "Plaza de España", "text": "Plaza de España formează inima urbană a orașului Santa Cruz de Tenerife, fiind cea mai mare piață din Insulele Canare. Prin lacul artificial impresionant și monumentele sale remarcabile, aici se creează o atmosferă vastă, plină de viață și în același timp maiestuoasă. Vizitatorii se pot plimba minunat pe malul apei, pot admira arhitectura impunătoare și pot absorbi modul de viață canarian. O vizită seara este deosebit de atrăgătoare, când luminile orașului se oglindesc în lac.", "category": "squares/old-town", "confidence": "high", "coords": [-16.247202, 28.467234]}, {"name": "Parque García Sanabria", "text": "Acest parc urban mare este o oază verde în centrul orașului, cunoscut pentru plantele exotice, sculpturile și celebrul ceas floral.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-16.25412, 28.472319]}, {"name": "Iglesia de la Concepción", "text": "Cea mai importantă biserică din oraș, remarcabilă prin turnul său clopotniță și tavanul casetat în stil mudéjar.", "category": "churches/cathedrals", "confidence": "high", "coords": [-16.24894, 28.46444]}, {"name": "TEA Tenerife Espacio de las Artes", "text": "Un centru cultural și muzeu modern care prezintă artă contemporană, remarcându-se prin arhitectura sa avangardistă.", "category": "museums", "confidence": "high", "coords": [-16.251389, 28.464167]}, {"name": "Mercado de Nuestra Señora de África", "text": "O piață vibrantă într-o clădire în stil colonial, oferind produse locale proaspete, condimente și specialități canariene.", "category": "markets", "confidence": "high", "coords": [-16.251667, 28.463056]}, {"name": "MUNA - Museo de la Naturaleza y la Arqueología", "text": "Acest muzeu prezintă istoria naturală a insulelor și cultura aborigenilor guanși, inclusiv celebrele lor mumii.", "category": "museums", "confidence": "high", "coords": [-16.249478, 28.463865]}, {"name": "Palmetum", "text": "O grădină botanică situată pe un fost deal de deșeuri, care găzduiește cea mai mare colecție de palmieri din lume.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-16.255833, 28.451944]}], "en": [{"name": "Auditorio de Tenerife", "text": "The Auditorio de Tenerife is an iconic expressionist building and a symbol of the city, famous for its grand white wave-like roof.", "category": "theatres/cultural centres", "confidence": "high", "coords": [-16.251278, 28.456067]}, {"name": "Plaza de España", "text": "Plaza de España serves as the vibrant urban heart of Santa Cruz de Tenerife, holding the title of the largest square in the Canary Islands. The presence of an impressive artificial lake and striking monuments creates an expansive, lively, and truly majestic atmosphere. Visitors can enjoy wonderful strolls by the water, admire the imposing architecture, and soak up the local Canarian lifestyle. An evening visit is particularly captivating when the city lights beautifully reflect on the lake.", "category": "squares/old-town", "confidence": "high", "coords": [-16.247202, 28.467234]}, {"name": "Parque García Sanabria", "text": "This large urban park is a green oasis in the city center, known for its exotic plants, sculptures, and the famous floral clock.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-16.25412, 28.472319]}, {"name": "Church of the Immaculate Conception", "text": "The city's main historic church, featuring a distinctive bell tower and a beautiful Mudéjar-style wooden ceiling.", "category": "churches/cathedrals", "confidence": "high", "coords": [-16.24894, 28.46444]}, {"name": "TEA Tenerife Espacio de las Artes", "text": "A modern cultural center and museum that showcases contemporary art, known for its stunning avant-garde architecture.", "category": "museums", "confidence": "high", "coords": [-16.251389, 28.464167]}, {"name": "Mercado de Nuestra Señora de África", "text": "A vibrant market housed in a colonial-style building, offering fresh local produce, spices, and traditional Canarian food.", "category": "markets", "confidence": "high", "coords": [-16.251667, 28.463056]}, {"name": "MUNA - Museum of Nature and Archaeology", "text": "This museum explores the natural history of the islands and the culture of the indigenous Guanches, featuring ancient mummies.", "category": "museums", "confidence": "high", "coords": [-16.249478, 28.463865]}, {"name": "Palmetum", "text": "A botanical garden specialized in palm trees, transformed from a landfill into a lush oasis with views over the Atlantic.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-16.255833, 28.451944]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Auditorio de Tenerife",
+                  "text": "Das Auditorio de Tenerife ist ein ikonisches expressionistisches Gebäude und Wahrzeichen der Stadt, berühmt für sein weißes Wellendach.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251278,
+                        28.456067
+                  ]
+            },
+            {
+                  "name": "Plaza de España",
+                  "text": "Die Plaza de España formt als größter Platz der Kanarischen Inseln das urbane Herzstück von Santa Cruz de Tenerife. Durch den eindrucksvollen künstlichen See und markante Monumente entsteht hier eine weitläufige, belebte und zugleich majestätische Atmosphäre. Besucher können wunderbar am Wasser flanieren, die imposante Architektur betrachten und das kanarische Lebensgefühl aufsaugen. Ein abendlicher Besuch ist besonders reizvoll, wenn die Lichter der Stadt sich im See spiegeln.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -16.247202,
+                        28.467234
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Concepción",
+                  "text": "Die wichtigste Kirche der Stadt besticht durch ihren markanten Glockenturm und eine kunstvolle Holzdecke im Mudéjar-Stil.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        -16.24894,
+                        28.46444
+                  ]
+            },
+            {
+                  "name": "TEA Tenerife Espacio de las Artes",
+                  "text": "Ein modernes Kulturzentrum und Museum, das zeitgenössische Kunst präsentiert und durch seine avantgardistische Architektur besticht.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251389,
+                        28.464167
+                  ]
+            },
+            {
+                  "name": "Mercado de Nuestra Señora de África",
+                  "text": "Ein lebhafter Markt in einem Gebäude im Kolonialstil, der frische lokale Produkte, Gewürze und kanarische Spezialitäten anbietet.",
+                  "category": "markets",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251667,
+                        28.463056
+                  ]
+            },
+            {
+                  "name": "MUNA - Museo de la Naturaleza y la Arqueología",
+                  "text": "In diesem Museum erfahren Besucher alles über die Naturgeschichte der Inseln und die Kultur der Ureinwohner, der Guanchen.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -16.249478,
+                        28.463865
+                  ]
+            },
+            {
+                  "name": "Palmetum de Santa Cruz de Tenerife",
+                  "text": "Ein botanischer Garten auf einem ehemaligen Hügel, der die weltweit größte Sammlung von Palmen in einer künstlichen Oase beherbergt.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -16.255833,
+                        28.451944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Auditorio de Tenerife",
+                  "text": "Az Auditorio de Tenerife egy ikonikus expresszionista épület és a város jelképe, amely hatalmas fehér hullám alakú tetőívéről híres.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251278,
+                        28.456067
+                  ]
+            },
+            {
+                  "name": "Plaza de España",
+                  "text": "A Plaza de España, a Kanári-szigetek legnagyobb tereként, Santa Cruz de Tenerife igazi városi szíve. A lenyűgöző mesterséges tó és a feltűnő műemlékek tágas, élénk, ugyanakkor fenséges légkört teremtenek. A látogatók kellemesen sétálhatnak a víz mentén, megcsodálhatják az impozáns építészetet, és magukba szívhatják a kanári életérzést. Az esti látogatás különösen varázslatos, amikor a város fényei tükröződnek a tavon.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -16.247202,
+                        28.467234
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Concepción",
+                  "text": "A város legfontosabb temploma, amely jellegzetes harangtornyáról és gazdagon díszített mudéjar stílusú famennyezetéről nevezetes.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        -16.24894,
+                        28.46444
+                  ]
+            },
+            {
+                  "name": "TEA Tenerife Espacio de las Artes",
+                  "text": "Modern művészeti és kulturális központ, amely kortárs kiállításoknak ad otthont egy avantgárd építészeti remekműben.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251389,
+                        28.464167
+                  ]
+            },
+            {
+                  "name": "Mercado de Nuestra Señora de África",
+                  "text": "Élettel teli piac egy gyarmati stílusú épületben, ahol friss helyi termékeket, fűszereket és kanári specialitásokat árulnak.",
+                  "category": "markets",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251667,
+                        28.463056
+                  ]
+            },
+            {
+                  "name": "MUNA - Museo de la Naturaleza y la Arqueología",
+                  "text": "Ez a múzeum a szigetek természetrajzát és az őslakos guancsok kultúráját mutatja be, híres múmiagyűjteményével együtt.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -16.249478,
+                        28.463865
+                  ]
+            },
+            {
+                  "name": "Palmetum",
+                  "text": "Botanikus kert egy korábbi hulladéklerakó helyén, amely a világ egyik leggazdagabb pálmagyűjteményének ad otthont.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -16.255833,
+                        28.451944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Auditorio de Tenerife",
+                  "text": "Auditorio de Tenerife este o clădire expresionistă iconică și un simbol al orașului, faimoasă pentru acoperișul său mare în formă de val.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251278,
+                        28.456067
+                  ]
+            },
+            {
+                  "name": "Plaza de España",
+                  "text": "Plaza de España formează inima urbană a orașului Santa Cruz de Tenerife, fiind cea mai mare piață din Insulele Canare. Prin lacul artificial impresionant și monumentele sale remarcabile, aici se creează o atmosferă vastă, plină de viață și în același timp maiestuoasă. Vizitatorii se pot plimba minunat pe malul apei, pot admira arhitectura impunătoare și pot absorbi modul de viață canarian. O vizită seara este deosebit de atrăgătoare, când luminile orașului se oglindesc în lac.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -16.247202,
+                        28.467234
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Concepción",
+                  "text": "Cea mai importantă biserică din oraș, remarcabilă prin turnul său clopotniță și tavanul casetat în stil mudéjar.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        -16.24894,
+                        28.46444
+                  ]
+            },
+            {
+                  "name": "TEA Tenerife Espacio de las Artes",
+                  "text": "Un centru cultural și muzeu modern care prezintă artă contemporană, remarcându-se prin arhitectura sa avangardistă.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251389,
+                        28.464167
+                  ]
+            },
+            {
+                  "name": "Mercado de Nuestra Señora de África",
+                  "text": "O piață vibrantă într-o clădire în stil colonial, oferind produse locale proaspete, condimente și specialități canariene.",
+                  "category": "markets",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251667,
+                        28.463056
+                  ]
+            },
+            {
+                  "name": "MUNA - Museo de la Naturaleza y la Arqueología",
+                  "text": "Acest muzeu prezintă istoria naturală a insulelor și cultura aborigenilor guanși, inclusiv celebrele lor mumii.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -16.249478,
+                        28.463865
+                  ]
+            },
+            {
+                  "name": "Palmetum",
+                  "text": "O grădină botanică situată pe un fost deal de deșeuri, care găzduiește cea mai mare colecție de palmieri din lume.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -16.255833,
+                        28.451944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Auditorio de Tenerife",
+                  "text": "The Auditorio de Tenerife is an iconic expressionist building and a symbol of the city, famous for its grand white wave-like roof.",
+                  "category": "theatres/cultural centres",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251278,
+                        28.456067
+                  ]
+            },
+            {
+                  "name": "Plaza de España",
+                  "text": "Plaza de España serves as the vibrant urban heart of Santa Cruz de Tenerife, holding the title of the largest square in the Canary Islands. The presence of an impressive artificial lake and striking monuments creates an expansive, lively, and truly majestic atmosphere. Visitors can enjoy wonderful strolls by the water, admire the imposing architecture, and soak up the local Canarian lifestyle. An evening visit is particularly captivating when the city lights beautifully reflect on the lake.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -16.247202,
+                        28.467234
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception",
+                  "text": "The city's main historic church, featuring a distinctive bell tower and a beautiful Mudéjar-style wooden ceiling.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        -16.24894,
+                        28.46444
+                  ]
+            },
+            {
+                  "name": "TEA Tenerife Espacio de las Artes",
+                  "text": "A modern cultural center and museum that showcases contemporary art, known for its stunning avant-garde architecture.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251389,
+                        28.464167
+                  ]
+            },
+            {
+                  "name": "Mercado de Nuestra Señora de África",
+                  "text": "A vibrant market housed in a colonial-style building, offering fresh local produce, spices, and traditional Canarian food.",
+                  "category": "markets",
+                  "confidence": "high",
+                  "coords": [
+                        -16.251667,
+                        28.463056
+                  ]
+            },
+            {
+                  "name": "MUNA - Museum of Nature and Archaeology",
+                  "text": "This museum explores the natural history of the islands and the culture of the indigenous Guanches, featuring ancient mummies.",
+                  "category": "museums",
+                  "confidence": "high",
+                  "coords": [
+                        -16.249478,
+                        28.463865
+                  ]
+            },
+            {
+                  "name": "Palmetum",
+                  "text": "A botanical garden specialized in palm trees, transformed from a landfill into a lush oasis with views over the Atlantic.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -16.255833,
+                        28.451944
+                  ]
+            }
+      ]
+}
   },
   {"id": "spain-la-laguna-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-16.3159, 28.4874], "population": 157503, "tier": 2, "name": {"de": "San Cristóbal de La Laguna", "hu": "San Cristóbal de La Laguna", "ro": "San Cristóbal de La Laguna", "en": "San Cristóbal de La Laguna"}, "description": {"de": "Diese UNESCO-Welterbestadt war das Vorbild für viele Kolonialstädte in Amerika und beherbergt die älteste Universität der Kanaren.", "hu": "Ez az UNESCO világörökségi város szolgált mintául számos amerikai koloniális városnak, és itt található a Kanári-szigetek legrégebbi egyeteme.", "ro": "Acest oraș din patrimoniul UNESCO a fost modelul pentru multe orașe coloniale din America și găzduiește cea mai veche universitate din Canare.", "en": "A UNESCO World Heritage city that served as the blueprint for many colonial cities in the Americas, home to the oldest university in the Canaries."}, "descriptionAdvanced": {"de": "San Cristóbal de La Laguna, oft einfach La Laguna genannt, war die erste Hauptstadt Teneriffas und liegt im Aguere-Tal. Die Stadt wurde 1496 gegründet und ist ein herausragendes Beispiel für eine nicht befestigte Stadtplanung nach einem gitterförmigen Grundriss – ein Modell, das später für Städte wie Havanna oder San Juan in der Karibik übernommen wurde. Aufgrund dieses historischen Wertes wurde das Zentrum 1999 zum UNESCO-Welterbe erklärt. Die Straßen sind gesäumt von farbenfrohen Herrenhäusern aus dem 16. bis 18. Jahrhundert mit kunstvoll geschnitzten Holzbalkonen und prächtigen Innenhöfen.\n\nZu den bedeutendsten Bauwerken zählen die Kathedrale von La Laguna und die Kirche Nuestra Señora de la Concepción mit ihrem markanten Glockenturm. Als Sitz der Universität La Laguna (gegründet 1701) herrscht hier eine lebendige studentische Atmosphäre mit zahlreichen Cafés und Buchläden. Da die Stadt auf etwa 550 Metern Höhe liegt, ist das Klima deutlich kühler und oft feuchter als an der Küste. Die Stadt ist nur wenige Kilometer vom Nordflughafen Teneriffas entfernt und dient als Tor zum Anaga-Gebirge, einem geologisch alten Teil der Insel mit dichten Lorbeerwäldern.", "hu": "San Cristóbal de La Laguna Tenerife egykori fővárosa, amely az Aguere-völgyben fekszik. Az 1496-ban alapított város különlegessége, hogy ez volt az első erődítmény nélküli, rácshálós alaprajzú spanyol koloniális város. Ez a városszerkezet szolgált mintául az amerikai kontinens spanyol városaihoz, például Havannához vagy San Juanhoz, amiért 1999-ben az UNESCO világörökség részévé nyilvánították. A történelmi központban 16-18. századi színes nemesi kúriák, faragott faerkélyek és virágos belső udvarok láthatók.\n\nA legfontosabb látnivalók közé tartozik a La Laguna-i katedrális és a Nuestra Señora de la Concepción templom, melynek harangtornyából belátni a várost. Itt található a szigetek legrégebbi egyeteme (Universidad de La Laguna), ami fiatalos, pezsgő hangulatot kölcsönöz a településnek. A város 550 méteres tengerszint feletti magassága miatt éghajlata hűvösebb és párásabb, mint a tengerparti városoké. Kiváló kiindulópont az Anaga-hegység és annak ősi babérerdőinek felfedezéséhez. A Tenerife Norte repülőtér (TFN) közvetlenül a város határában található.", "ro": "San Cristóbal de La Laguna, cunoscut simplu ca La Laguna, a fost prima capitală a insulei Tenerife. Fondat în 1496, este un exemplu remarcabil de oraș colonial fără ziduri de apărare, construit după un plan în rețea care a influențat direct urbanismul din Lumea Nouă, inclusiv orașe precum Havana. Din acest motiv, centrul său istoric este inclus în patrimoniul mondial UNESCO din 1999. Plimbarea pe străzile pietonale dezvăluie fațade colorate, balcoane din lemn de pin canarian și curți interioare pline de vegetație.\n\nReperele principale includ Catedrala din La Laguna și Biserica Nuestra Señora de la Concepción, cu faimosul său turn din piatră. Orașul este și un centru universitar important, găzduind Universidad de La Laguna, ceea ce îi conferă o atmosferă culturală activă. Situat la o altitudine de peste 500 de metri, La Laguna are un climat mai răcoros decât stațiunile de pe coastă. Este situat strategic lângă Aeroportul Tenerife Nord și constituie punctul de plecare către munții Anaga, zonă renumită pentru pădurile de lauri preistorice. Gastronomia locală include produse de patiserie tradiționale și vinuri de regiune.", "en": "San Cristóbal de La Laguna, the former capital of Tenerife, is a historical gem located in the Aguere Valley. Founded in 1496, it was the first non-fortified Spanish colonial city, designed with a grid system that became the template for major American cities like Havana and San Juan. This architectural and historical importance earned it a spot on the UNESCO World Heritage list in 1999. Its pedestrian streets are lined with brightly colored mansions, some dating back to the 16th century, featuring exquisite wooden balconies and peaceful inner courtyards.\n\nKey landmarks include the Cathedral of La Laguna and the Church of the Immaculate Conception, which offers panoramic views from its iconic bell tower. As the seat of the University of La Laguna (founded in 1701), the city boasts a lively student population and a thriving cultural scene. Due to its elevation (550m), the weather here is noticeably cooler and mistier than the coastal areas. The city is located right next to Tenerife North Airport (TFN) and serves as the gateway to the ancient laurel forests of the Anaga Rural Park."}, "facts": {"de": ["UNESCO-Welterbe seit 1999", "Erste Hauptstadt Teneriffas", "Universität La Laguna (1701)", "Kirche de la Concepción", "157.503 Einwohner", "Gitterförmiger Stadtplan", "Koloniale Herrenhäuser", "Nähe zum Anaga-Gebirge"], "hu": ["UNESCO világörökség (1999)", "Tenerife első fővárosa", "La Laguna-i Egyetem (1701)", "Nuestra Señora de la Concepción", "157 503 lakos", "Rácshálós városszerkezet", "Koloniális kúriák", "Tenerife Norte repülőtér"], "ro": ["Patrimoniu UNESCO (1999)", "Prima capitală a insulei", "Universitatea La Laguna", "Biserica de la Concepción", "157.503 locuitori", "Plan urbanistic în rețea", "Case coloniale cu balcoane", "Poarta către Munții Anaga"], "en": ["UNESCO World Heritage Site", "First capital of Tenerife", "University of La Laguna", "Concepción Church tower", "157,503 residents", "Colonial grid layout", "Traditional Canarian patios", "Proximity to Anaga Rural Park"]}, "imageHint": "A narrow pedestrian street in La Laguna with colorful colonial house facades and traditional wooden balconies.", "image": "/poi-images/spain-la-laguna-cities-v2.webp",
     "sights": {
@@ -83684,15 +83107,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.363871,
                         28.50963
-                  ]
-            },
-            {
-                  "name": "Depósito Tristán",
-                  "text": "Ein funktionales Wasserbecken in San Cristobal De La Laguna in einer natürlichen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        -16.278328,
-                        28.458198
                   ]
             },
             {
@@ -84129,15 +83543,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Depósito Tristán",
-                  "text": "Egy funkcionális víztározó San Cristobal De La Laguna területén, természetes környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        -16.278328,
-                        28.458198
-                  ]
-            },
-            {
                   "name": "Presa de Tahodio",
                   "text": "Tározó a Tahodio-gát által létrehozva San Cristóbal de La Lagunában.",
                   "category": "natural",
@@ -84568,15 +83973,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         -16.363871,
                         28.50963
-                  ]
-            },
-            {
-                  "name": "Depósito Tristán",
-                  "text": "Un bazin de apă funcțional în San Cristobal De La Laguna, într-un mediu natural.",
-                  "category": "natural",
-                  "coords": [
-                        -16.278328,
-                        28.458198
                   ]
             },
             {
@@ -85013,15 +84409,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Depósito Tristán",
-                  "text": "A functional water basin in San Cristobal De La Laguna in a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        -16.278328,
-                        28.458198
-                  ]
-            },
-            {
                   "name": "Presa de Tahodio",
                   "text": "Reservoir formed by the Tahodio dam in San Cristóbal de La Laguna.",
                   "category": "natural",
@@ -85391,16 +84778,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ermita de Santa Cristina",
-                  "text": "Eine neoklassizistische Kapelle aus dem 18. Jahrhundert, die der Schutzpatronin von Lloret de Mar gewidmet ist.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        2.816148,
-                        41.687784
-                  ]
-            },
-            {
                   "name": "Santuari de Sant Pere del Bosc",
                   "text": "Ein ehemaliges Kloster, das im 19. Jahrhundert von Puig i Cadafalch in ein prächtiges modernistisches Gebäude umgebaut wurde.",
                   "category": "famous buildings/residences",
@@ -85411,39 +84788,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poblat Ibèric de Puig de Castellet",
-                  "text": "Eine archäologische Stätte einer iberischen Siedlung aus dem 3. Jahrhundert v. Chr. in Lloret de Mar.",
-                  "category": "historical",
-                  "coords": [
-                        2.848086,
-                        41.716082
-                  ]
-            },
-            {
                   "name": "Castell d'en Plaja",
                   "text": "Das Castell d'en Plaja erhebt sich majestätisch als ikonische Privatburg im neugotischen Stil direkt am Ufer von Lloret de Mar. Seine markante Lage an der Küste verleiht der gesamten Bucht eine romantische und leicht geheimnisvolle Atmosphäre. Obwohl das Innere privat ist, können Besucher das prächtige Gebäude von außen bewundern und den angrenzenden Küstenweg für Spaziergänge nutzen. Ein Fotostopp am späten Nachmittag rückt die Burg in ein besonders schönes Licht.",
                   "category": "castle",
                   "coords": [
                         2.859579,
                         41.699371
-                  ]
-            },
-            {
-                  "name": "Teatre Municipal de Lloret",
-                  "text": "Das städtische Theater von Lloret de Mar bietet ein vielfältiges Programm an kulturellen Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        2.847679,
-                        41.705024
-                  ]
-            },
-            {
-                  "name": "Masia de Can Saragossa",
-                  "text": "Ein historisches Landhaus in Lloret de Mar, das heute als Museum für lokale Geschichte dient.",
-                  "category": "museum",
-                  "coords": [
-                        2.846314,
-                        41.704519
                   ]
             },
             {
@@ -85462,33 +84812,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.812033,
                         41.711371
-                  ]
-            },
-            {
-                  "name": "Family Lagoon",
-                  "text": "Ein Familienschwimmbad in Lloret De Mar, das speziell auf die Bedürfnisse von Familien zugeschnitten ist.",
-                  "category": "family",
-                  "coords": [
-                        2.828361,
-                        41.706395
-                  ]
-            },
-            {
-                  "name": "Llac Relax",
-                  "text": "Ein entspannendes Schwimmbecken in Lloret De Mar für ruhige Momente im Wasser.",
-                  "category": "family",
-                  "coords": [
-                        2.827381,
-                        41.707889
-                  ]
-            },
-            {
-                  "name": "Llac infantil",
-                  "text": "Ein spezielles Kinderbecken in Lloret De Mar für sicheres und fröhliches Baden.",
-                  "category": "family",
-                  "coords": [
-                        2.829031,
-                        41.707786
                   ]
             },
             {
@@ -85569,16 +84892,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ermita de Santa Cristina",
-                  "text": "18. századi neoklasszicista kápolna, amely Lloret de Mar védőszentjének tiszteletére épült egy tengerparti dombon.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        2.816148,
-                        41.687784
-                  ]
-            },
-            {
                   "name": "Santuari de Sant Pere del Bosc",
                   "text": "Egykori kolostor, amelyet a 19. században Puig i Cadafalch épített át pompás modernista stílusú épületté.",
                   "category": "famous buildings/residences",
@@ -85589,39 +84902,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poblat Ibèric de Puig de Castellet",
-                  "text": "Egy 3. századi ibér település régészeti lelőhelye Lloret de Marban.",
-                  "category": "historical",
-                  "coords": [
-                        2.848086,
-                        41.716082
-                  ]
-            },
-            {
                   "name": "Castell d'en Plaja",
                   "text": "A Castell d'en Plaja fenségesen magasodik ikonikus, neogótikus stílusú magánvárként közvetlenül Lloret de Mar partján. A part menti feltűnő elhelyezkedése romantikus és kissé titokzatos légkört kölcsönöz az egész öbölnek. Bár a belső tér privát, a látogatók kívülről megcsodálhatják a pompás épületet, és a szomszédos parti sétányon tehetnek egy nagy sétát. Késő délután érdemes fotózni, amikor a vár különösen szép fényben fürdik.",
                   "category": "castle",
                   "coords": [
                         2.859579,
                         41.699371
-                  ]
-            },
-            {
-                  "name": "Teatre Municipal de Lloret",
-                  "text": "Lloret de Mar városi színháza, amely változatos kulturális előadásokat és eseményeket kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        2.847679,
-                        41.705024
-                  ]
-            },
-            {
-                  "name": "Masia de Can Saragossa",
-                  "text": "Egy történelmi udvarház Lloret de Marban, amely ma helytörténeti múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        2.846314,
-                        41.704519
                   ]
             },
             {
@@ -85640,33 +84926,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.812033,
                         41.711371
-                  ]
-            },
-            {
-                  "name": "Family Lagoon",
-                  "text": "Családi úszómedence Lloret De Marban, amelyet kifejezetten a családok igényeire terveztek.",
-                  "category": "family",
-                  "coords": [
-                        2.828361,
-                        41.706395
-                  ]
-            },
-            {
-                  "name": "Llac Relax",
-                  "text": "Egy pihentető úszómedence Lloret De Marban a nyugodt pillanatokhoz a vízben.",
-                  "category": "family",
-                  "coords": [
-                        2.827381,
-                        41.707889
-                  ]
-            },
-            {
-                  "name": "Llac infantil",
-                  "text": "Egy speciális gyermekmedence Lloret De Marban a biztonságos és vidám fürdőzéshez.",
-                  "category": "family",
-                  "coords": [
-                        2.829031,
-                        41.707786
                   ]
             },
             {
@@ -85747,16 +85006,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ermita de Santa Cristina",
-                  "text": "O capelă neoclasică din secolul al XVIII-lea, dedicată protectoarei spirituale a orașului Lloret de Mar.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        2.816148,
-                        41.687784
-                  ]
-            },
-            {
                   "name": "Santuari de Sant Pere del Bosc",
                   "text": "O fostă mănăstire transformată în secolul al XIX-lea de Puig i Cadafalch într-o clădire modernistă grandioasă.",
                   "category": "famous buildings/residences",
@@ -85767,39 +85016,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poblat Ibèric de Puig de Castellet",
-                  "text": "Un sit arheologic al unei așezări iberice din secolul al III-lea î.Hr. în Lloret de Mar.",
-                  "category": "historical",
-                  "coords": [
-                        2.848086,
-                        41.716082
-                  ]
-            },
-            {
                   "name": "Castell d'en Plaja",
                   "text": "Castell d'en Plaja se înalță maiestuos ca un castel privat iconic, în stil neogotic, chiar pe malul orașului Lloret de Mar. Poziția sa proeminentă pe coastă conferă întregului golf o atmosferă romantică și ușor misterioasă. Deși interiorul este privat, vizitatorii pot admira această clădire magnifică din exterior și pot folosi poteca de coastă alăturată pentru plimbări. O scurtă oprire pentru fotografii la sfârșitul după-amiezii va surprinde castelul într-o lumină deosebit de frumoasă.",
                   "category": "castle",
                   "coords": [
                         2.859579,
                         41.699371
-                  ]
-            },
-            {
-                  "name": "Teatre Municipal de Lloret",
-                  "text": "Teatrul municipal din Lloret de Mar oferă un program variat de spectacole culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        2.847679,
-                        41.705024
-                  ]
-            },
-            {
-                  "name": "Masia de Can Saragossa",
-                  "text": "O casă istorică din Lloret de Mar, care astăzi servește drept muzeu de istorie locală.",
-                  "category": "museum",
-                  "coords": [
-                        2.846314,
-                        41.704519
                   ]
             },
             {
@@ -85818,33 +85040,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.812033,
                         41.711371
-                  ]
-            },
-            {
-                  "name": "Family Lagoon",
-                  "text": "O piscină pentru familii în Lloret De Mar, concepută special pentru nevoile familiilor.",
-                  "category": "family",
-                  "coords": [
-                        2.828361,
-                        41.706395
-                  ]
-            },
-            {
-                  "name": "Llac Relax",
-                  "text": "O piscină relaxantă în Lloret De Mar pentru momente liniștite în apă.",
-                  "category": "family",
-                  "coords": [
-                        2.827381,
-                        41.707889
-                  ]
-            },
-            {
-                  "name": "Llac infantil",
-                  "text": "O piscină specială pentru copii în Lloret De Mar pentru scăldat în siguranță și veselie.",
-                  "category": "family",
-                  "coords": [
-                        2.829031,
-                        41.707786
                   ]
             },
             {
@@ -85925,16 +85120,6 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ermita de Santa Cristina",
-                  "text": "An 18th-century neoclassical chapel dedicated to the patron saint of Lloret, set in a scenic coastal location.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        2.816148,
-                        41.687784
-                  ]
-            },
-            {
                   "name": "Santuari de Sant Pere del Bosc",
                   "text": "A former monastery renovated by Puig i Cadafalch in the 19th century into a magnificent modernist building.",
                   "category": "famous buildings/residences",
@@ -85945,39 +85130,12 @@ export const poiExtraEsV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poblat Ibèric de Puig de Castellet",
-                  "text": "An archaeological site of an Iberian settlement from the 3rd century BC in Lloret de Mar.",
-                  "category": "historical",
-                  "coords": [
-                        2.848086,
-                        41.716082
-                  ]
-            },
-            {
                   "name": "Castell d'en Plaja",
                   "text": "Castell d'en Plaja rises majestically as an iconic neo-Gothic private castle right on the shores of Lloret de Mar. Its prominent coastal position lends the entire bay a deeply romantic and slightly mysterious atmosphere. Although the interior remains private, visitors can admire the magnificent structure from the outside and enjoy walking along the adjacent coastal path. A photo stop in the late afternoon captures the castle in exceptionally beautiful light.",
                   "category": "castle",
                   "coords": [
                         2.859579,
                         41.699371
-                  ]
-            },
-            {
-                  "name": "Teatre Municipal de Lloret",
-                  "text": "The municipal theatre of Lloret de Mar offers a diverse program of cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        2.847679,
-                        41.705024
-                  ]
-            },
-            {
-                  "name": "Masia de Can Saragossa",
-                  "text": "A historical farmhouse in Lloret de Mar that now serves as a museum for local history.",
-                  "category": "museum",
-                  "coords": [
-                        2.846314,
-                        41.704519
                   ]
             },
             {
@@ -85996,33 +85154,6 @@ export const poiExtraEsV2: POI[] = [
                   "coords": [
                         2.812033,
                         41.711371
-                  ]
-            },
-            {
-                  "name": "Family Lagoon",
-                  "text": "A family swimming pool in Lloret De Mar designed specifically for family needs.",
-                  "category": "family",
-                  "coords": [
-                        2.828361,
-                        41.706395
-                  ]
-            },
-            {
-                  "name": "Llac Relax",
-                  "text": "A relaxing swimming pool in Lloret De Mar for quiet moments in the water.",
-                  "category": "family",
-                  "coords": [
-                        2.827381,
-                        41.707889
-                  ]
-            },
-            {
-                  "name": "Llac infantil",
-                  "text": "A special children's pool in Lloret De Mar for safe and happy swimming.",
-                  "category": "family",
-                  "coords": [
-                        2.829031,
-                        41.707786
                   ]
             },
             {
@@ -86074,7 +85205,652 @@ export const poiExtraEsV2: POI[] = [
 }
   },
   {"id": "spain-corralejo-cities-v2", "type": "city", "parent": "ES-CN", "coords": [-13.8675, 28.73], "population": 16403, "tier": 2, "name": {"de": "Corralejo", "hu": "Corralejo", "ro": "Corralejo", "en": "Corralejo"}, "description": {"de": "Ein ehemaliges Fischerdorf auf Fuerteventura, das heute für seinen Naturpark mit riesigen Wanderdünen und kristallklarem Wasser bekannt ist.", "hu": "Fuerteventura egykori halászfaluja, amely ma hatalmas vándorhomok-dűnéiről és kristálytiszta vizű strandjairól híres.", "ro": "Un fost sat pescăresc din Fuerteventura, cunoscut astăzi pentru parcul său natural cu dune imense de nisip și ape cristaline.", "en": "A former fishing village on Fuerteventura, now famous for its natural park of massive sand dunes and turquoise waters."}, "descriptionAdvanced": {"de": "Corralejo liegt an der Nordspitze der Insel Fuerteventura und ist eines der beliebtesten Touristenzentren der Insel. Das absolute Highlight ist der Parque Natural de las Dunas de Corralejo, ein etwa 11 km langes Gebiet aus feinem, weißem Sand, der aus zerriebenen Muschelschalen besteht. Die Dünen erstrecken sich bis zum Meer und bilden die berühmten „Grandes Playas“. Das Gebiet ist ein Paradies für Surfer, Windsurfer und Kitesurfer, da die Passatwinde hier ideale Bedingungen schaffen.\n\nVom Hafen in Corralejo legen regelmäßig Fähren zur unbewohnten Isla de Lobos ab, einem Naturschutzgebiet, das ideal zum Wandern und Schnorcheln ist. Auch die Nachbarinsel Lanzarote ist per Schnellfähre in nur 25 Minuten erreichbar. Der alte Stadtkern von Corralejo hat sich den Charme eines Fischerortes bewahrt, mit gemütlichen Restaurants direkt am Wasser, die frischen Fisch und „Papas arrugadas“ (Runzelkartoffeln) servieren. Die Hauptstraße bietet zahlreiche Einkaufsmöglichkeiten und Bars. Corralejo ist etwa 40 km vom Inselflughafen Fuerteventura (FUE) entfernt und bietet eine entspannte Atmosphäre abseits des Massentourismus.", "hu": "Corralejo Fuerteventura északi részén található, és a sziget egyik legvonzóbb települése. Legfőbb vonzereje a Corralejo Natúrpark, ahol több kilométer hosszan elnyúló, fehér homokos dűnék találkoznak az azúrkék óceánnal. Ezek a dűnék nem a Szaharából, hanem elporladt tengeri kagylókból származnak. A part menti „Grandes Playas” strandok kiválóak napozásra, a szelesebb szakaszok pedig a szörfösök és sárkányhajósok paradicsomát jelentik.\n\nA kikötőből rendszeresen indulnak kishajók a közeli Isla de Lobos (Fóka-sziget) felé, amely egy lakatlan természetvédelmi terület kristálytiszta lagúnákkal. Szintén innen érhető el komppal a szomszédos Lanzarote szigete is. Corralejo óvárosa megőrizte eredeti halászfalu jellegét, ahol a látogatók friss tengeri ételeket kóstolhatnak a hangulatos teraszokon. A város főutcáján, az Avenida Nuestra Señora del Carmen-en számos üzlet és szórakozóhely található. A repülőtér (FUE) mintegy 30 perces autóútra fekszik, és a város jól kapcsolódik a sziget többi részéhez buszjáratokkal is.", "ro": "Corralejo este situat în extremitatea nordică a insulei Fuerteventura, fiind o destinație de top pentru iubitorii de natură și sporturi nautice. Atracția principală este Parcul Natural Corralejo, care adăpostește cele mai mari dune de nisip din Insulele Canare. Acest deșert în miniatură se întinde până la malul Oceanului Atlantic, formând plaje cu nisip alb și fin, cunoscute sub numele de Grandes Playas. Datorită vânturilor constante, zona este celebră în întreaga lume pentru windsurf și kitesurf.\n\nDin portul orașului se poate lua feribotul către Isla de Lobos, o mică insulă vulcanică nelocuită, ideală pentru o zi de explorare și snorkeling în apele sale turcoaz. De asemenea, insula vecină Lanzarote este la doar 25 de minute distanță cu feribotul rapid. Centrul vechi al orașului păstrează o atmosferă relaxată, cu baruri de tapas și restaurante ce servesc pește proaspăt. Viața de noapte este animată, dar mai puțin comercială decât în alte insule. Orașul este situat la aproximativ 40 km de Aeroportul Fuerteventura (FUE). Gastronomia locală se bazează pe brânza de capră Majorero și sosul picant mojo.", "en": "Corralejo, situated on the northern tip of Fuerteventura, is a haven for beach lovers and water sports enthusiasts. Its most iconic feature is the Corralejo Natural Park, home to vast, rolling sand dunes made of pulverized seashells that meet the turquoise Atlantic. These dunes create a desert-like landscape known as the Grandes Playas, offering miles of pristine coastline. The area is world-renowned for windsurfing, kitesurfing, and surfing due to the consistent trade winds.\n\nFrom Corralejo harbor, you can hop on a ferry to the nearby Isla de Lobos, an uninhabited volcanic islet perfect for hiking and snorkeling in crystal-clear lagoons. The harbor also connects Fuerteventura to Lanzarote, a mere 25-minute ferry ride away. The town center retains its old fishing village vibe, with excellent seafood restaurants lining the waterfront and a pedestrian main street full of shops and bars. Corralejo is roughly a 35-minute drive from Fuerteventura Airport (FUE) and provides a perfect base for exploring the wild landscapes of the island's northern reaches."}, "facts": {"de": ["Dunas de Corralejo Naturpark", "Isla de Lobos (Fähre)", "Große Strände (Grandes Playas)", "Surfer-Paradies", "16.403 Einwohner", "Blick auf Lanzarote", "Alter Fischereihafen", "Wassersport-Zentrum"], "hu": ["Corralejo Natúrpark", "Isla de Lobos kirándulás", "Grandes Playas strandok", "Szörfösök kedvence", "16 403 lakos", "Kilátás Lanzarote szigetére", "Régi halászkikötő", "Avenida del Carmen shopping"], "ro": ["Parcul Natural Corralejo", "Insula de Lobos", "Dunele de nisip", "Kitesurfing și Windsurfing", "16.403 locuitori", "Feribot către Lanzarote", "Portul tradițional", "Plaje cu nisip alb"], "en": ["Corralejo Natural Park", "Isla de Lobos ferry", "Grandes Playas beaches", "Surfing & Kitesurfing hub", "16,403 residents", "View of Lanzarote", "Old fishing harbor", "White sand dunes"]}, "imageHint": "Golden sand dunes of Corralejo Natural Park meeting the bright turquoise ocean under a clear sky.", "image": "/poi-images/spain-corralejo-cities-v2.webp",
-    "sights": {"de": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "Ein riesiges Naturschutzgebiet mit weißen Sanddünen, das sich entlang der Küste von Fuerteventura erstreckt.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "Eine kleine, unbewohnte Insel vor Corralejo, die ein geschütztes Naturparadies für Wanderer und Taucher ist.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.82149, 28.75169]}, {"name": "Hafen von Corralejo", "text": "Der lebendige Hafen der Stadt, von dem aus Fähren nach Lanzarote und Ausflugsboote zur Insel Lobos ablegen.", "category": "port", "confidence": "high", "coords": [-13.871252, 28.730582]}, {"name": "Plaza de Patricio Calero", "text": "Die Plaza de Patricio Calero bildet den lebhaften Hauptplatz im Herzen der charmanten Altstadt von Corralejo. Die entspannte, lokale Atmosphäre lädt Einheimische wie Touristen dazu ein, das milde Klima und das gesellige Treiben zu genießen. Besucher erwartet ein authentisches Flair mit regelmäßigen kleinen Veranstaltungen und gemütlichen Möglichkeiten zum Verweilen. Ein kurzer Stopp hier ist ideal, um vor dem Abendessen das authentische Inselleben zu spüren.", "category": "squares/old-town", "confidence": "high", "coords": [-13.868337, 28.738965]}, {"name": "El Campanario Glockenturm", "text": "Ein Aussichtsturm im Kolonialstil, der einen weiten Blick über die Stadt und die umliegenden Dünen bietet.", "category": "viewpoints", "confidence": "high", "coords": [-13.864607, 28.728932]}, {"name": "Muelle Chico", "text": "Der historische kleine Pier, der den ursprünglichen Kern des alten Fischerdorfes Corralejo markiert.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.86752, 28.73563]}, {"name": "Paseo Marítimo", "text": "Die Uferpromenade mit zahlreichen Restaurants, die einen direkten Blick auf das Meer und die Insel Lobos bietet.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.862851, 28.740707]}, {"name": "Dunas de Corralejo", "text": "Ein weitläufiger Naturpark mit beeindruckenden Wanderdünen aus weißem Sand direkt am Atlantik.", "category": "recreational", "coords": [-13.839299, 28.715246]}, {"name": "Playa las Agujas", "text": "Die Playa las Agujas schmiegt sich als ruhiger Sandstrand sanft in die Küstenlinie von Corralejo. Abseits der großen Massen bietet dieser Strandabschnitt eine friedliche Atmosphäre, die zur puren Erholung einlädt. Badegäste können hier im Sand entspannen, spazieren gehen und den großartigen Blick hinüber zur Insel Los Lobos bewundern. Kommen Sie am Vormittag, um die vollkommene Ruhe des Strandes zu erleben.", "category": "recreational", "coords": [-13.853994, 28.728365]}, {"name": "Bajo del Medio", "text": "Ein kleinerer Strandabschnitt, der für sein klares Wasser und die guten Bedingungen zum Schnorcheln bekannt ist.", "category": "recreational", "coords": [-13.860105, 28.731357]}, {"name": "Playa de la Calera", "text": "Die Playa de la Calera offenbart sich als wunderbar friedlicher Küstenbereich etwas abseits des großen Trubels von Corralejo. Hier herrscht eine unaufgeregte, beinahe intime Atmosphäre, die besonders Ruhesuchende zu schätzen wissen. Spaziergänger und Sonnenanbeter können dem Rauschen der Wellen lauschen und den feinen Sand unter den Füßen genießen. Es ist der perfekte Rückzugsort, um dem Alltag mit einem guten Buch zu entfliehen.", "category": "recreational", "coords": [-13.827578, 28.741485]}, {"name": "Playa del Bajo de la Burra", "text": "Die Playa del Bajo de la Burra fasziniert durch ihre spektakuläre Beschaffenheit an der Küste von Corralejo. Bekannt für weiße, wie Popcorn aussehende Algenstrukturen, strahlt der Strand eine nahezu surreale und sehr entspannte Atmosphäre aus. Gäste verbringen hier gerne Zeit damit, das außergewöhnliche Naturphänomen zu betrachten und faszinierende Urlaubsfotos zu schießen. Um die besondere Schönheit ungestört zu genießen, lohnt sich ein Besuch in den frühen Morgenstunden.", "category": "recreational", "coords": [-13.900112, 28.752311]}, {"name": "Playa del Pozo", "text": "Die Playa del Pozo erstreckt sich als grandioser, weitläufiger Strand inmitten der eindrucksvollen Landschaft des Naturparks. Angetrieben von einer stetigen Brise bietet dieser Ort eine aktive, offene Atmosphäre, die von Windsurfern hoch geschätzt wird. Besucher finden hier viel Raum für entspannte Spaziergänge am Ufer, ausgiebiges Sonnenbaden oder das Beobachten der bunten Segel auf dem Wasser. Es empfiehlt sich, einen Windschutz mitzubringen, falls Sie längere Zeit gemütlich im Sand verweilen möchten.", "category": "recreational", "coords": [-13.843533, 28.723254]}, {"name": "El Viejo", "text": "Ein weitläufiger Sandstrand bei Corralejo, bekannt für sein klares Wasser und die Nähe zu den Dünen.", "category": "recreational", "coords": [-13.839437, 28.716289]}, {"name": "Generoso", "text": "Ein ruhiger Sandstrand in Corralejo, der eine entspannte Atmosphäre zum Sonnenbaden bietet.", "category": "recreational", "coords": [-13.878101, 28.751143]}, {"name": "Acua Water Park", "text": "Ein familienfreundlicher Wasserpark auf Fuerteventura mit verschiedenen Rutschen und Pools.", "category": "family", "coords": [-13.870609, 28.727379]}, {"name": "Popcorn Beach", "text": "Der Popcorn Beach in Corralejo hält, was sein Name verspricht, und beeindruckt mit einer einzigartigen Küstenlinie. Das berühmte Ufer aus weißen Algenfragmenten verleiht dem Ort eine verblüffende und außergewöhnlich faszinierende Atmosphäre. Anstatt auf weichem Sand zu liegen, bestaunen die meisten Besucher hier das Naturwunder bei einem gemütlichen Spaziergang. Vergessen Sie Ihre Kamera nicht, denn dieses maritime Phänomen bietet ein unvergleichliches Fotomotiv.", "category": "recreational", "coords": [-13.863429, 28.731502]}, {"name": "Playa del Caserón", "text": "Die Playa del Caserón entfaltet ihre unberührte Schönheit als weißer Sandstrand tief im Naturpark Corralejo. Hier umgibt Ruhesuchende eine herrlich entspannte und naturbelassene Atmosphäre weitab vom touristischen Alltag. Sonnenbaden und ausgedehnte Barfußspaziergänge am sanft abfallenden Ufer gehören hier zu den größten Freuden. Nehmen Sie sich ausreichend Wasser und Snacks mit, um unbeschwert die pure Natur zu genießen.", "category": "recreational", "coords": [-13.837839, 28.707928]}], "hu": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "Hatalmas természetvédelmi terület fehér homokdűnékkel, amely Fuerteventura partjai mentén húzódik.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "Kicsi, lakatlan sziget Corralejo közelében, amely védett paradicsom a túrázók és a búvárok számára.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.82149, 28.75169]}, {"name": "Corralejo kikötője", "text": "A város nyüzsgő kikötője, ahonnan kompok indulnak Lanzarotéra és kirándulóhajók a Lobos-szigetre.", "category": "port", "confidence": "high", "coords": [-13.871252, 28.730582]}, {"name": "Plaza de Patricio Calero", "text": "A Plaza de Patricio Calero egy nyüzsgő főtér Corralejo hangulatos óvárosának szívében. A nyugodt, helyi atmoszféra mind a lakosokat, mind a turistákat arra csábítja, hogy élvezzék a kellemes éghajlatot és a társasági életet. A látogatókat autentikus hangulat, rendszeres kisebb rendezvények és kényelmes pihenési lehetőségek várják. Vacsora előtt egy rövid megálló itt tökéletes alkalom arra, hogy átéljük a sziget hamisítatlan mindennapjait.", "category": "squares/old-town", "confidence": "high", "coords": [-13.868337, 28.738965]}, {"name": "El Campanario harangtorony", "text": "Koloniális stílusú kilátótorony, ahonnan pazar kilátás nyílik a városra és a közeli homokdűnékre.", "category": "viewpoints", "confidence": "high", "coords": [-13.864607, 28.728932]}, {"name": "Muelle Chico", "text": "A történelmi kis móló, amely Corralejo egykori halászfalu eredeti központját jelöli.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.86752, 28.73563]}, {"name": "Paseo Marítimo", "text": "Tengerparti sétány éttermekkel, ahonnan közvetlen kilátás nyílik az óceánra és a Lobos-szigetre.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.862851, 28.740707]}, {"name": "Dunas de Corralejo", "text": "Hatalmas natúrpark lenyűgöző, fehér homokból álló vándoridűnékkel közvetlenül az Atlanti-óceán partján.", "category": "recreational", "coords": [-13.839299, 28.715246]}, {"name": "Playa las Agujas", "text": "A Playa las Agujas nyugodt homokos strandként simul Corralejo festői partvonalába. A nagy tömegektől távol ez a partszakasz békés légkört kínál, amely tiszta kikapcsolódásra csábít. A fürdőzők itt a homokban pihenhetnek, sétálhatnak, és megcsodálhatják a Los Lobos szigetére nyíló fantasztikus kilátást. Érdemes délelőtt érkezni, hogy megtapasztaljuk a strand tökéletes nyugalmát.", "category": "recreational", "coords": [-13.853994, 28.728365]}, {"name": "Bajo del Medio", "text": "Kisebb tengerparti szakasz, amely tiszta vizéről és a búvárkodáshoz kedvező adottságairól ismert.", "category": "recreational", "coords": [-13.860105, 28.731357]}, {"name": "Playa de la Calera", "text": "A Playa de la Calera egy csodálatosan békés tengerparti részként tárul elénk, kissé távolabb Corralejo nagy nyüzsgésétől. Itt egy nyugodt, szinte intim légkör uralkodik, amelyet különösen a csendre vágyók értékelnek. A sétálók és a napozni vágyók hallgathatják a hullámok morajlását, és élvezhetik a finom homokot a lábuk alatt. Tökéletes menedék ez, ha egy jó könyvvel szeretnénk elszakadni a mindennapoktól.", "category": "recreational", "coords": [-13.827578, 28.741485]}, {"name": "Playa del Bajo de la Burra", "text": "A Playa del Bajo de la Burra lenyűgöző tengerparti adottságaival kápráztat el mindenkit Corralejo partjainál. A pattogatott kukoricára hasonlító fehér alga-struktúráiról híres strand szinte szürreális, de rendkívül nyugodt légkört áraszt. A vendégek szívesen töltenek itt időt a különleges természeti jelenség megfigyelésével és izgalmas nyaralási fotók készítésével. Hogy zavartalanul élvezhessük ezt a páratlan szépséget, érdemes a kora reggeli órákban ellátogatni ide.", "category": "recreational", "coords": [-13.900112, 28.752311]}, {"name": "Playa del Pozo", "text": "A Playa del Pozo nagyszerű, hatalmas strandként terül el a natúrpark lenyűgöző tájának szívében. A folyamatos szellő által hajtott hely aktív, nyitott légkört biztosít, amelyet a szörfösök is nagyra értékelnek. A látogatók bőséges helyet találnak itt a pihentető tengerparti sétákhoz, a kiterjedt napozáshoz, vagy a vízen sikló színes vitorlák megfigyeléséhez. Érdemes szélfogót hozni, ha hosszabb időt szeretnénk kényelmesen a homokban tölteni.", "category": "recreational", "coords": [-13.843533, 28.723254]}, {"name": "El Viejo", "text": "Hosszú, homokos tengerpart Corralejo mellett, amely kristálytiszta vizéről és dűnéiről nevezetes.", "category": "recreational", "coords": [-13.839437, 28.716289]}, {"name": "Generoso", "text": "Nyugodt homokos strand Corralejo területén, amely ideális a pihenésre és napozásra.", "category": "recreational", "coords": [-13.878101, 28.751143]}, {"name": "Acua Water Park", "text": "Családbarát vízi park Fuerteventurán, számos csúszdával és élménymedencével.", "category": "family", "coords": [-13.870609, 28.727379]}, {"name": "Popcorn Beach", "text": "A corralejoi Popcorn Beach beváltja a nevéhez fűzött reményeket, és egyedülálló partvonalával lenyűgöz mindenkit. A pattogatott kukoricára hasonlító fehér alga-töredékekből álló híres part elképesztő és rendkívül lenyűgöző atmoszférát teremt. Ahelyett, hogy a puha homokban feküdnének, a legtöbb látogató kényelmes séta közben csodálja meg ezt a természeti csodát. Ne felejtse otthon a fényképezőgépét, hiszen ez a tengeri jelenség páratlan fotótémát nyújt.", "category": "recreational", "coords": [-13.863429, 28.731502]}, {"name": "Playa del Caserón", "text": "A Playa del Caserón érintetlen szépségével, fehér homokos strandként hódít a Corralejo Natúrpark mélyén. Itt a csendre vágyókat egy csodálatosan nyugodt és természetes légkör öleli körül, távol a mindennapi turizmus zajától. A finoman lejtő parton a napozás és a hosszas mezítlábas séták jelentik a legnagyobb örömet. Vigyen magával elegendő vizet és rágcsálnivalót, hogy gondtalanul élvezhesse a tiszta természetet.", "category": "recreational", "coords": [-13.837839, 28.707928]}], "ro": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "O rezervație naturală vastă cu dune de nisip alb, care se întinde de-a lungul coastei insulei Fuerteventura.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "O mică insulă nelocuită lângă Corralejo, un paradis natural protejat ideal pentru drumeții și snorkeling.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.82149, 28.75169]}, {"name": "Portul Corralejo", "text": "Portul vibrant al orașului, punct de plecare pentru feriboturile spre Lanzarote și bărcile spre Insula Lobos.", "category": "port", "confidence": "high", "coords": [-13.871252, 28.730582]}, {"name": "Plaza de Patricio Calero", "text": "Plaza de Patricio Calero formează piața principală vibrantă din inima orașului vechi și fermecător Corralejo. Atmosfera locală și relaxată invită atât rezidenții, cât și turiștii să se bucure de clima blândă și de agitația prietenoasă. Oaspeții se pot aștepta la o notă autentică, la mici evenimente locale și la oportunități plăcute de relaxare. O scurtă oprire aici este ideală pentru a simți viața autentică a insulei înainte de cină.", "category": "squares/old-town", "confidence": "high", "coords": [-13.868337, 28.738965]}, {"name": "Turnul El Campanario", "text": "Un turn de observație în stil colonial care oferă vederi largi asupra orașului și dunelor înconjurătoare.", "category": "viewpoints", "confidence": "high", "coords": [-13.864607, 28.728932]}, {"name": "Muelle Chico", "text": "Micul dig istoric care marchează nucleul original al vechiului sat de pescari Corralejo.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.86752, 28.73563]}, {"name": "Paseo Marítimo", "text": "Promenada de la malul mării plină de restaurante, oferind o vedere directă spre ocean și Insula Lobos.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.862851, 28.740707]}, {"name": "Dunas de Corralejo", "text": "Un parc natural vast, cu dune de nisip alb impresionante, situat direct pe malul Oceanului Atlantic.", "category": "recreational", "coords": [-13.839299, 28.715246]}, {"name": "Playa las Agujas", "text": "Playa las Agujas se cuibărește ca o plajă de nisip liniștită în linia de coastă a orașului Corralejo. Departe de mulțimile mari, această secțiune de plajă oferă o atmosferă pașnică, care te invită la relaxare pură. Oaspeții se pot odihni aici pe nisip, se pot plimba și pot admira priveliștea minunată spre insula Los Lobos. Veniți dimineața pentru a experimenta liniștea absolută a acestei plaje.", "category": "recreational", "coords": [-13.853994, 28.728365]}, {"name": "Bajo del Medio", "text": "O secțiune de plajă mai mică, cunoscută pentru apele sale clare și condițiile bune pentru snorkeling.", "category": "recreational", "coords": [-13.860105, 28.731357]}, {"name": "Playa de la Calera", "text": "Playa de la Calera se dezvăluie ca o zonă de coastă minunat de pașnică, oarecum departe de forfota turistică din Corralejo. Aici domnește o atmosferă calmă, aproape intimă, foarte apreciată de cei care caută liniște. Plimbăreții și iubitorii de soare pot asculta sunetul valurilor și se pot bucura de nisipul fin sub picioare. Este refugiul perfect pentru a evada din cotidian împreună cu o carte bună.", "category": "recreational", "coords": [-13.827578, 28.741485]}, {"name": "Playa del Bajo de la Burra", "text": "Playa del Bajo de la Burra fascinează prin aspectul său spectaculos pe coasta din Corralejo. Cunoscută pentru structurile albe de alge, care seamănă izbitor cu floricelele de porumb, plaja emană o atmosferă aproape ireală și foarte relaxantă. Oaspeților le place să-și petreacă timpul aici analizând acest fenomen natural neobișnuit și făcând fotografii de vacanță fascinante. Pentru a te bucura netulburat de frumusețea sa, o vizită la primele ore ale dimineții merită cu siguranță.", "category": "recreational", "coords": [-13.900112, 28.752311]}, {"name": "Playa del Pozo", "text": "Playa del Pozo se întinde ca o plajă grandioasă și vastă în mijlocul peisajului impresionant al parcului natural. Condus de o briză constantă, acest loc oferă o atmosferă activă și deschisă, fiind foarte apreciat de practicanții de windsurfing. Vizitatorii găsesc aici spațiu suficient pentru plimbări relaxante pe țărm, băi lungi de soare sau pur și simplu pentru a privi velele colorate de pe apă. Este recomandat să aduceți un paravânt dacă doriți să zăboviți mai mult timp confortabil pe nisip.", "category": "recreational", "coords": [-13.843533, 28.723254]}, {"name": "El Viejo", "text": "O plajă lungă cu nisip fin lângă Corralejo, apreciată pentru apele sale limpezi și dunele din apropiere.", "category": "recreational", "coords": [-13.839437, 28.716289]}, {"name": "Generoso", "text": "O plajă liniștită cu nisip în Corralejo, oferind o atmosferă relaxată pentru plajă.", "category": "recreational", "coords": [-13.878101, 28.751143]}, {"name": "Acua Water Park", "text": "Un parc acvatic pentru familii în Fuerteventura, cu diverse tobogane și piscine.", "category": "family", "coords": [-13.870609, 28.727379]}, {"name": "Popcorn Beach", "text": "Popcorn Beach din Corralejo se ridică la înălțimea numelui său și impresionează cu o linie de coastă absolut unică. Celebrul țărm, format din fragmente albe de alge, conferă locului o atmosferă uimitoare și excepțional de fascinantă. În loc să stea pe nisip moale, majoritatea vizitatorilor se minunează de această minune naturală în timpul unei plimbări relaxante. Nu vă uitați aparatul foto, deoarece acest fenomen maritim oferă un motiv fotografic incomparabil.", "category": "recreational", "coords": [-13.863429, 28.731502]}, {"name": "Playa del Caserón", "text": "Playa del Caserón își desfășoară frumusețea curată ca o plajă cu nisip alb, adânc în parcul natural Corralejo. Aici, cei care caută liniște sunt înconjurați de o atmosferă minunat de relaxată și naturală, departe de turismul de zi cu zi. Plaja și plimbările lungi desculț pe țărmul ușor înclinat sunt printre cele mai mari bucurii de aici. Luați cu dumneavoastră suficientă apă și gustări pentru a vă bucura de natura pură fără griji.", "category": "recreational", "coords": [-13.837839, 28.707928]}], "en": [{"name": "Parque Natural de las Dunas de Corralejo", "text": "A vast natural park of white sand dunes stretching along the coastline of Fuerteventura.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.886135, 28.727343]}, {"name": "Isla de Lobos", "text": "A small, uninhabited island off Corralejo, serving as a protected natural paradise for hikers and divers.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.82149, 28.75169]}, {"name": "Port of Corralejo", "text": "The town's busy harbor, where ferries depart for Lanzarote and excursion boats leave for Lobos Island.", "category": "port", "confidence": "high", "coords": [-13.871252, 28.730582]}, {"name": "Plaza de Patricio Calero", "text": "Plaza de Patricio Calero forms the vibrant main square in the heart of Corralejo's charming old town. The relaxed, local atmosphere invites both residents and tourists to enjoy the mild climate and sociable buzz. Visitors can expect an authentic flair, often accompanied by small community events and comfortable spots to simply linger. A quick stop here is ideal for experiencing the island's genuine daily life just before dinner.", "category": "squares/old-town", "confidence": "high", "coords": [-13.868337, 28.738965]}, {"name": "El Campanario Bell Tower", "text": "A colonial-style observation tower providing sweeping views of the town and the nearby sand dunes.", "category": "viewpoints", "confidence": "high", "coords": [-13.864607, 28.728932]}, {"name": "Muelle Chico", "text": "The historic small pier that marks the original core of the old fishing village of Corralejo.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.86752, 28.73563]}, {"name": "Paseo Marítimo", "text": "The seaside promenade lined with restaurants, offering direct views of the ocean and Lobos Island.", "category": "parks/promenades/lakes", "confidence": "high", "coords": [-13.862851, 28.740707]}, {"name": "Dunas de Corralejo", "text": "A vast natural park featuring impressive white sand dunes located directly on the Atlantic coast.", "category": "recreational", "coords": [-13.839299, 28.715246]}, {"name": "Playa las Agujas", "text": "Playa las Agujas nestles gently into the coastline of Corralejo as a quietly beautiful sandy beach. Away from the larger crowds, this stretch offers a profoundly peaceful atmosphere that invites pure relaxation. Beachgoers can unwind on the sand, take leisurely walks, and admire the magnificent view stretching over to the island of Los Lobos. Arriving in the morning allows you to experience the complete tranquility of the shore.", "category": "recreational", "coords": [-13.853994, 28.728365]}, {"name": "Bajo del Medio", "text": "A smaller beach section known for its clear waters and good conditions for snorkeling.", "category": "recreational", "coords": [-13.860105, 28.731357]}, {"name": "Playa de la Calera", "text": "Playa de la Calera reveals itself as a wonderfully peaceful coastal area just slightly removed from Corralejo's main tourist bustle. An understated, almost intimate atmosphere prevails here, which is especially appreciated by those seeking quietude. Walkers and sunbathers can listen to the gentle sound of the waves while enjoying the fine sand beneath their feet. It is the perfect coastal retreat to escape the daily routine with a good book.", "category": "recreational", "coords": [-13.827578, 28.741485]}, {"name": "Playa del Bajo de la Burra", "text": "Playa del Bajo de la Burra fascinates with its highly spectacular composition along the coast of Corralejo. Famous for white algae structures that look uncannily like popcorn, the beach exudes an almost surreal and highly relaxed atmosphere. Guests love spending time here observing this unusual natural phenomenon and snapping highly memorable holiday photos. To enjoy its singular beauty without the crowds, an early morning visit is very rewarding.", "category": "recreational", "coords": [-13.900112, 28.752311]}, {"name": "Playa del Pozo", "text": "Playa del Pozo expands as a grandiose, sprawling beach nestled within the impressive landscape of the nature park. Driven by a steady breeze, this destination offers an active, open atmosphere that is highly prized by windsurfers. Visitors will find plenty of space for relaxing walks along the shoreline, extensive sunbathing, or simply watching the colorful sails dance on the water. Bringing a windbreak is a wise choice if you plan to spend an extended period comfortably lounging on the sand.", "category": "recreational", "coords": [-13.843533, 28.723254]}, {"name": "El Viejo", "text": "A long, sandy beach near the dunes of Corralejo, popular for its clear waters and golden sand.", "category": "recreational", "coords": [-13.839437, 28.716289]}, {"name": "Generoso", "text": "A quiet sandy beach in Corralejo, offering a relaxed atmosphere for sunbathing and swimming.", "category": "recreational", "coords": [-13.878101, 28.751143]}, {"name": "Acua Water Park", "text": "A family-friendly water park in Fuerteventura featuring various slides, wave pools, and relaxation areas.", "category": "family", "coords": [-13.870609, 28.727379]}, {"name": "Popcorn Beach", "text": "Popcorn Beach in Corralejo entirely lives up to its playful name, impressing all with a truly unique coastline. The famous shore, composed of white algae fragments, lends the location an astonishing and exceptionally fascinating atmosphere. Rather than lounging on soft sand, most visitors prefer to marvel at this natural wonder during a leisurely walk. Do not forget to bring your camera, as this quirky maritime phenomenon provides an incomparable photo opportunity.", "category": "recreational", "coords": [-13.863429, 28.731502]}, {"name": "Playa del Caserón", "text": "Playa del Caserón unfolds its pristine beauty as a white sandy beach nestled deep within the Corralejo Nature Park. Those seeking absolute tranquility are surrounded by a wonderfully relaxed and natural atmosphere, far removed from everyday tourism. Sunbathing and taking long barefoot walks along the gently sloping shore are among the greatest pleasures to be had here. Pack plenty of water and snacks to fully and completely enjoy this slice of pure nature.", "category": "recreational", "coords": [-13.837839, 28.707928]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Parque Natural de las Dunas de Corralejo",
+                  "text": "Ein riesiges Naturschutzgebiet mit weißen Sanddünen, das sich entlang der Küste von Fuerteventura erstreckt.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.886135,
+                        28.727343
+                  ]
+            },
+            {
+                  "name": "Hafen von Corralejo",
+                  "text": "Der lebendige Hafen der Stadt, von dem aus Fähren nach Lanzarote und Ausflugsboote zur Insel Lobos ablegen.",
+                  "category": "port",
+                  "confidence": "high",
+                  "coords": [
+                        -13.871252,
+                        28.730582
+                  ]
+            },
+            {
+                  "name": "Plaza de Patricio Calero",
+                  "text": "Die Plaza de Patricio Calero bildet den lebhaften Hauptplatz im Herzen der charmanten Altstadt von Corralejo. Die entspannte, lokale Atmosphäre lädt Einheimische wie Touristen dazu ein, das milde Klima und das gesellige Treiben zu genießen. Besucher erwartet ein authentisches Flair mit regelmäßigen kleinen Veranstaltungen und gemütlichen Möglichkeiten zum Verweilen. Ein kurzer Stopp hier ist ideal, um vor dem Abendessen das authentische Inselleben zu spüren.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -13.868337,
+                        28.738965
+                  ]
+            },
+            {
+                  "name": "El Campanario Glockenturm",
+                  "text": "Ein Aussichtsturm im Kolonialstil, der einen weiten Blick über die Stadt und die umliegenden Dünen bietet.",
+                  "category": "viewpoints",
+                  "confidence": "high",
+                  "coords": [
+                        -13.864607,
+                        28.728932
+                  ]
+            },
+            {
+                  "name": "Muelle Chico",
+                  "text": "Der historische kleine Pier, der den ursprünglichen Kern des alten Fischerdorfes Corralejo markiert.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.86752,
+                        28.73563
+                  ]
+            },
+            {
+                  "name": "Paseo Marítimo",
+                  "text": "Die Uferpromenade mit zahlreichen Restaurants, die einen direkten Blick auf das Meer und die Insel Lobos bietet.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.862851,
+                        28.740707
+                  ]
+            },
+            {
+                  "name": "Dunas de Corralejo",
+                  "text": "Ein weitläufiger Naturpark mit beeindruckenden Wanderdünen aus weißem Sand direkt am Atlantik.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839299,
+                        28.715246
+                  ]
+            },
+            {
+                  "name": "Playa las Agujas",
+                  "text": "Die Playa las Agujas schmiegt sich als ruhiger Sandstrand sanft in die Küstenlinie von Corralejo. Abseits der großen Massen bietet dieser Strandabschnitt eine friedliche Atmosphäre, die zur puren Erholung einlädt. Badegäste können hier im Sand entspannen, spazieren gehen und den großartigen Blick hinüber zur Insel Los Lobos bewundern. Kommen Sie am Vormittag, um die vollkommene Ruhe des Strandes zu erleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.853994,
+                        28.728365
+                  ]
+            },
+            {
+                  "name": "Bajo del Medio",
+                  "text": "Ein kleinerer Strandabschnitt, der für sein klares Wasser und die guten Bedingungen zum Schnorcheln bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.860105,
+                        28.731357
+                  ]
+            },
+            {
+                  "name": "Playa de la Calera",
+                  "text": "Die Playa de la Calera offenbart sich als wunderbar friedlicher Küstenbereich etwas abseits des großen Trubels von Corralejo. Hier herrscht eine unaufgeregte, beinahe intime Atmosphäre, die besonders Ruhesuchende zu schätzen wissen. Spaziergänger und Sonnenanbeter können dem Rauschen der Wellen lauschen und den feinen Sand unter den Füßen genießen. Es ist der perfekte Rückzugsort, um dem Alltag mit einem guten Buch zu entfliehen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.827578,
+                        28.741485
+                  ]
+            },
+            {
+                  "name": "Playa del Bajo de la Burra",
+                  "text": "Die Playa del Bajo de la Burra fasziniert durch ihre spektakuläre Beschaffenheit an der Küste von Corralejo. Bekannt für weiße, wie Popcorn aussehende Algenstrukturen, strahlt der Strand eine nahezu surreale und sehr entspannte Atmosphäre aus. Gäste verbringen hier gerne Zeit damit, das außergewöhnliche Naturphänomen zu betrachten und faszinierende Urlaubsfotos zu schießen. Um die besondere Schönheit ungestört zu genießen, lohnt sich ein Besuch in den frühen Morgenstunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.900112,
+                        28.752311
+                  ]
+            },
+            {
+                  "name": "Playa del Pozo",
+                  "text": "Die Playa del Pozo erstreckt sich als grandioser, weitläufiger Strand inmitten der eindrucksvollen Landschaft des Naturparks. Angetrieben von einer stetigen Brise bietet dieser Ort eine aktive, offene Atmosphäre, die von Windsurfern hoch geschätzt wird. Besucher finden hier viel Raum für entspannte Spaziergänge am Ufer, ausgiebiges Sonnenbaden oder das Beobachten der bunten Segel auf dem Wasser. Es empfiehlt sich, einen Windschutz mitzubringen, falls Sie längere Zeit gemütlich im Sand verweilen möchten.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.843533,
+                        28.723254
+                  ]
+            },
+            {
+                  "name": "El Viejo",
+                  "text": "Ein weitläufiger Sandstrand bei Corralejo, bekannt für sein klares Wasser und die Nähe zu den Dünen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839437,
+                        28.716289
+                  ]
+            },
+            {
+                  "name": "Generoso",
+                  "text": "Ein ruhiger Sandstrand in Corralejo, der eine entspannte Atmosphäre zum Sonnenbaden bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.878101,
+                        28.751143
+                  ]
+            },
+            {
+                  "name": "Acua Water Park",
+                  "text": "Ein familienfreundlicher Wasserpark auf Fuerteventura mit verschiedenen Rutschen und Pools.",
+                  "category": "family",
+                  "coords": [
+                        -13.870609,
+                        28.727379
+                  ]
+            },
+            {
+                  "name": "Popcorn Beach",
+                  "text": "Der Popcorn Beach in Corralejo hält, was sein Name verspricht, und beeindruckt mit einer einzigartigen Küstenlinie. Das berühmte Ufer aus weißen Algenfragmenten verleiht dem Ort eine verblüffende und außergewöhnlich faszinierende Atmosphäre. Anstatt auf weichem Sand zu liegen, bestaunen die meisten Besucher hier das Naturwunder bei einem gemütlichen Spaziergang. Vergessen Sie Ihre Kamera nicht, denn dieses maritime Phänomen bietet ein unvergleichliches Fotomotiv.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.863429,
+                        28.731502
+                  ]
+            },
+            {
+                  "name": "Playa del Caserón",
+                  "text": "Die Playa del Caserón entfaltet ihre unberührte Schönheit als weißer Sandstrand tief im Naturpark Corralejo. Hier umgibt Ruhesuchende eine herrlich entspannte und naturbelassene Atmosphäre weitab vom touristischen Alltag. Sonnenbaden und ausgedehnte Barfußspaziergänge am sanft abfallenden Ufer gehören hier zu den größten Freuden. Nehmen Sie sich ausreichend Wasser und Snacks mit, um unbeschwert die pure Natur zu genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.837839,
+                        28.707928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural de las Dunas de Corralejo",
+                  "text": "Hatalmas természetvédelmi terület fehér homokdűnékkel, amely Fuerteventura partjai mentén húzódik.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.886135,
+                        28.727343
+                  ]
+            },
+            {
+                  "name": "Corralejo kikötője",
+                  "text": "A város nyüzsgő kikötője, ahonnan kompok indulnak Lanzarotéra és kirándulóhajók a Lobos-szigetre.",
+                  "category": "port",
+                  "confidence": "high",
+                  "coords": [
+                        -13.871252,
+                        28.730582
+                  ]
+            },
+            {
+                  "name": "Plaza de Patricio Calero",
+                  "text": "A Plaza de Patricio Calero egy nyüzsgő főtér Corralejo hangulatos óvárosának szívében. A nyugodt, helyi atmoszféra mind a lakosokat, mind a turistákat arra csábítja, hogy élvezzék a kellemes éghajlatot és a társasági életet. A látogatókat autentikus hangulat, rendszeres kisebb rendezvények és kényelmes pihenési lehetőségek várják. Vacsora előtt egy rövid megálló itt tökéletes alkalom arra, hogy átéljük a sziget hamisítatlan mindennapjait.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -13.868337,
+                        28.738965
+                  ]
+            },
+            {
+                  "name": "El Campanario harangtorony",
+                  "text": "Koloniális stílusú kilátótorony, ahonnan pazar kilátás nyílik a városra és a közeli homokdűnékre.",
+                  "category": "viewpoints",
+                  "confidence": "high",
+                  "coords": [
+                        -13.864607,
+                        28.728932
+                  ]
+            },
+            {
+                  "name": "Muelle Chico",
+                  "text": "A történelmi kis móló, amely Corralejo egykori halászfalu eredeti központját jelöli.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.86752,
+                        28.73563
+                  ]
+            },
+            {
+                  "name": "Paseo Marítimo",
+                  "text": "Tengerparti sétány éttermekkel, ahonnan közvetlen kilátás nyílik az óceánra és a Lobos-szigetre.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.862851,
+                        28.740707
+                  ]
+            },
+            {
+                  "name": "Dunas de Corralejo",
+                  "text": "Hatalmas natúrpark lenyűgöző, fehér homokból álló vándoridűnékkel közvetlenül az Atlanti-óceán partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839299,
+                        28.715246
+                  ]
+            },
+            {
+                  "name": "Playa las Agujas",
+                  "text": "A Playa las Agujas nyugodt homokos strandként simul Corralejo festői partvonalába. A nagy tömegektől távol ez a partszakasz békés légkört kínál, amely tiszta kikapcsolódásra csábít. A fürdőzők itt a homokban pihenhetnek, sétálhatnak, és megcsodálhatják a Los Lobos szigetére nyíló fantasztikus kilátást. Érdemes délelőtt érkezni, hogy megtapasztaljuk a strand tökéletes nyugalmát.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.853994,
+                        28.728365
+                  ]
+            },
+            {
+                  "name": "Bajo del Medio",
+                  "text": "Kisebb tengerparti szakasz, amely tiszta vizéről és a búvárkodáshoz kedvező adottságairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.860105,
+                        28.731357
+                  ]
+            },
+            {
+                  "name": "Playa de la Calera",
+                  "text": "A Playa de la Calera egy csodálatosan békés tengerparti részként tárul elénk, kissé távolabb Corralejo nagy nyüzsgésétől. Itt egy nyugodt, szinte intim légkör uralkodik, amelyet különösen a csendre vágyók értékelnek. A sétálók és a napozni vágyók hallgathatják a hullámok morajlását, és élvezhetik a finom homokot a lábuk alatt. Tökéletes menedék ez, ha egy jó könyvvel szeretnénk elszakadni a mindennapoktól.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.827578,
+                        28.741485
+                  ]
+            },
+            {
+                  "name": "Playa del Bajo de la Burra",
+                  "text": "A Playa del Bajo de la Burra lenyűgöző tengerparti adottságaival kápráztat el mindenkit Corralejo partjainál. A pattogatott kukoricára hasonlító fehér alga-struktúráiról híres strand szinte szürreális, de rendkívül nyugodt légkört áraszt. A vendégek szívesen töltenek itt időt a különleges természeti jelenség megfigyelésével és izgalmas nyaralási fotók készítésével. Hogy zavartalanul élvezhessük ezt a páratlan szépséget, érdemes a kora reggeli órákban ellátogatni ide.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.900112,
+                        28.752311
+                  ]
+            },
+            {
+                  "name": "Playa del Pozo",
+                  "text": "A Playa del Pozo nagyszerű, hatalmas strandként terül el a natúrpark lenyűgöző tájának szívében. A folyamatos szellő által hajtott hely aktív, nyitott légkört biztosít, amelyet a szörfösök is nagyra értékelnek. A látogatók bőséges helyet találnak itt a pihentető tengerparti sétákhoz, a kiterjedt napozáshoz, vagy a vízen sikló színes vitorlák megfigyeléséhez. Érdemes szélfogót hozni, ha hosszabb időt szeretnénk kényelmesen a homokban tölteni.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.843533,
+                        28.723254
+                  ]
+            },
+            {
+                  "name": "El Viejo",
+                  "text": "Hosszú, homokos tengerpart Corralejo mellett, amely kristálytiszta vizéről és dűnéiről nevezetes.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839437,
+                        28.716289
+                  ]
+            },
+            {
+                  "name": "Generoso",
+                  "text": "Nyugodt homokos strand Corralejo területén, amely ideális a pihenésre és napozásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.878101,
+                        28.751143
+                  ]
+            },
+            {
+                  "name": "Acua Water Park",
+                  "text": "Családbarát vízi park Fuerteventurán, számos csúszdával és élménymedencével.",
+                  "category": "family",
+                  "coords": [
+                        -13.870609,
+                        28.727379
+                  ]
+            },
+            {
+                  "name": "Popcorn Beach",
+                  "text": "A corralejoi Popcorn Beach beváltja a nevéhez fűzött reményeket, és egyedülálló partvonalával lenyűgöz mindenkit. A pattogatott kukoricára hasonlító fehér alga-töredékekből álló híres part elképesztő és rendkívül lenyűgöző atmoszférát teremt. Ahelyett, hogy a puha homokban feküdnének, a legtöbb látogató kényelmes séta közben csodálja meg ezt a természeti csodát. Ne felejtse otthon a fényképezőgépét, hiszen ez a tengeri jelenség páratlan fotótémát nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.863429,
+                        28.731502
+                  ]
+            },
+            {
+                  "name": "Playa del Caserón",
+                  "text": "A Playa del Caserón érintetlen szépségével, fehér homokos strandként hódít a Corralejo Natúrpark mélyén. Itt a csendre vágyókat egy csodálatosan nyugodt és természetes légkör öleli körül, távol a mindennapi turizmus zajától. A finoman lejtő parton a napozás és a hosszas mezítlábas séták jelentik a legnagyobb örömet. Vigyen magával elegendő vizet és rágcsálnivalót, hogy gondtalanul élvezhesse a tiszta természetet.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.837839,
+                        28.707928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural de las Dunas de Corralejo",
+                  "text": "O rezervație naturală vastă cu dune de nisip alb, care se întinde de-a lungul coastei insulei Fuerteventura.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.886135,
+                        28.727343
+                  ]
+            },
+            {
+                  "name": "Portul Corralejo",
+                  "text": "Portul vibrant al orașului, punct de plecare pentru feriboturile spre Lanzarote și bărcile spre Insula Lobos.",
+                  "category": "port",
+                  "confidence": "high",
+                  "coords": [
+                        -13.871252,
+                        28.730582
+                  ]
+            },
+            {
+                  "name": "Plaza de Patricio Calero",
+                  "text": "Plaza de Patricio Calero formează piața principală vibrantă din inima orașului vechi și fermecător Corralejo. Atmosfera locală și relaxată invită atât rezidenții, cât și turiștii să se bucure de clima blândă și de agitația prietenoasă. Oaspeții se pot aștepta la o notă autentică, la mici evenimente locale și la oportunități plăcute de relaxare. O scurtă oprire aici este ideală pentru a simți viața autentică a insulei înainte de cină.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -13.868337,
+                        28.738965
+                  ]
+            },
+            {
+                  "name": "Turnul El Campanario",
+                  "text": "Un turn de observație în stil colonial care oferă vederi largi asupra orașului și dunelor înconjurătoare.",
+                  "category": "viewpoints",
+                  "confidence": "high",
+                  "coords": [
+                        -13.864607,
+                        28.728932
+                  ]
+            },
+            {
+                  "name": "Muelle Chico",
+                  "text": "Micul dig istoric care marchează nucleul original al vechiului sat de pescari Corralejo.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.86752,
+                        28.73563
+                  ]
+            },
+            {
+                  "name": "Paseo Marítimo",
+                  "text": "Promenada de la malul mării plină de restaurante, oferind o vedere directă spre ocean și Insula Lobos.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.862851,
+                        28.740707
+                  ]
+            },
+            {
+                  "name": "Dunas de Corralejo",
+                  "text": "Un parc natural vast, cu dune de nisip alb impresionante, situat direct pe malul Oceanului Atlantic.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839299,
+                        28.715246
+                  ]
+            },
+            {
+                  "name": "Playa las Agujas",
+                  "text": "Playa las Agujas se cuibărește ca o plajă de nisip liniștită în linia de coastă a orașului Corralejo. Departe de mulțimile mari, această secțiune de plajă oferă o atmosferă pașnică, care te invită la relaxare pură. Oaspeții se pot odihni aici pe nisip, se pot plimba și pot admira priveliștea minunată spre insula Los Lobos. Veniți dimineața pentru a experimenta liniștea absolută a acestei plaje.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.853994,
+                        28.728365
+                  ]
+            },
+            {
+                  "name": "Bajo del Medio",
+                  "text": "O secțiune de plajă mai mică, cunoscută pentru apele sale clare și condițiile bune pentru snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.860105,
+                        28.731357
+                  ]
+            },
+            {
+                  "name": "Playa de la Calera",
+                  "text": "Playa de la Calera se dezvăluie ca o zonă de coastă minunat de pașnică, oarecum departe de forfota turistică din Corralejo. Aici domnește o atmosferă calmă, aproape intimă, foarte apreciată de cei care caută liniște. Plimbăreții și iubitorii de soare pot asculta sunetul valurilor și se pot bucura de nisipul fin sub picioare. Este refugiul perfect pentru a evada din cotidian împreună cu o carte bună.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.827578,
+                        28.741485
+                  ]
+            },
+            {
+                  "name": "Playa del Bajo de la Burra",
+                  "text": "Playa del Bajo de la Burra fascinează prin aspectul său spectaculos pe coasta din Corralejo. Cunoscută pentru structurile albe de alge, care seamănă izbitor cu floricelele de porumb, plaja emană o atmosferă aproape ireală și foarte relaxantă. Oaspeților le place să-și petreacă timpul aici analizând acest fenomen natural neobișnuit și făcând fotografii de vacanță fascinante. Pentru a te bucura netulburat de frumusețea sa, o vizită la primele ore ale dimineții merită cu siguranță.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.900112,
+                        28.752311
+                  ]
+            },
+            {
+                  "name": "Playa del Pozo",
+                  "text": "Playa del Pozo se întinde ca o plajă grandioasă și vastă în mijlocul peisajului impresionant al parcului natural. Condus de o briză constantă, acest loc oferă o atmosferă activă și deschisă, fiind foarte apreciat de practicanții de windsurfing. Vizitatorii găsesc aici spațiu suficient pentru plimbări relaxante pe țărm, băi lungi de soare sau pur și simplu pentru a privi velele colorate de pe apă. Este recomandat să aduceți un paravânt dacă doriți să zăboviți mai mult timp confortabil pe nisip.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.843533,
+                        28.723254
+                  ]
+            },
+            {
+                  "name": "El Viejo",
+                  "text": "O plajă lungă cu nisip fin lângă Corralejo, apreciată pentru apele sale limpezi și dunele din apropiere.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839437,
+                        28.716289
+                  ]
+            },
+            {
+                  "name": "Generoso",
+                  "text": "O plajă liniștită cu nisip în Corralejo, oferind o atmosferă relaxată pentru plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.878101,
+                        28.751143
+                  ]
+            },
+            {
+                  "name": "Acua Water Park",
+                  "text": "Un parc acvatic pentru familii în Fuerteventura, cu diverse tobogane și piscine.",
+                  "category": "family",
+                  "coords": [
+                        -13.870609,
+                        28.727379
+                  ]
+            },
+            {
+                  "name": "Popcorn Beach",
+                  "text": "Popcorn Beach din Corralejo se ridică la înălțimea numelui său și impresionează cu o linie de coastă absolut unică. Celebrul țărm, format din fragmente albe de alge, conferă locului o atmosferă uimitoare și excepțional de fascinantă. În loc să stea pe nisip moale, majoritatea vizitatorilor se minunează de această minune naturală în timpul unei plimbări relaxante. Nu vă uitați aparatul foto, deoarece acest fenomen maritim oferă un motiv fotografic incomparabil.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.863429,
+                        28.731502
+                  ]
+            },
+            {
+                  "name": "Playa del Caserón",
+                  "text": "Playa del Caserón își desfășoară frumusețea curată ca o plajă cu nisip alb, adânc în parcul natural Corralejo. Aici, cei care caută liniște sunt înconjurați de o atmosferă minunat de relaxată și naturală, departe de turismul de zi cu zi. Plaja și plimbările lungi desculț pe țărmul ușor înclinat sunt printre cele mai mari bucurii de aici. Luați cu dumneavoastră suficientă apă și gustări pentru a vă bucura de natura pură fără griji.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.837839,
+                        28.707928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Natural de las Dunas de Corralejo",
+                  "text": "A vast natural park of white sand dunes stretching along the coastline of Fuerteventura.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.886135,
+                        28.727343
+                  ]
+            },
+            {
+                  "name": "Port of Corralejo",
+                  "text": "The town's busy harbor, where ferries depart for Lanzarote and excursion boats leave for Lobos Island.",
+                  "category": "port",
+                  "confidence": "high",
+                  "coords": [
+                        -13.871252,
+                        28.730582
+                  ]
+            },
+            {
+                  "name": "Plaza de Patricio Calero",
+                  "text": "Plaza de Patricio Calero forms the vibrant main square in the heart of Corralejo's charming old town. The relaxed, local atmosphere invites both residents and tourists to enjoy the mild climate and sociable buzz. Visitors can expect an authentic flair, often accompanied by small community events and comfortable spots to simply linger. A quick stop here is ideal for experiencing the island's genuine daily life just before dinner.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        -13.868337,
+                        28.738965
+                  ]
+            },
+            {
+                  "name": "El Campanario Bell Tower",
+                  "text": "A colonial-style observation tower providing sweeping views of the town and the nearby sand dunes.",
+                  "category": "viewpoints",
+                  "confidence": "high",
+                  "coords": [
+                        -13.864607,
+                        28.728932
+                  ]
+            },
+            {
+                  "name": "Muelle Chico",
+                  "text": "The historic small pier that marks the original core of the old fishing village of Corralejo.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.86752,
+                        28.73563
+                  ]
+            },
+            {
+                  "name": "Paseo Marítimo",
+                  "text": "The seaside promenade lined with restaurants, offering direct views of the ocean and Lobos Island.",
+                  "category": "parks/promenades/lakes",
+                  "confidence": "high",
+                  "coords": [
+                        -13.862851,
+                        28.740707
+                  ]
+            },
+            {
+                  "name": "Dunas de Corralejo",
+                  "text": "A vast natural park featuring impressive white sand dunes located directly on the Atlantic coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839299,
+                        28.715246
+                  ]
+            },
+            {
+                  "name": "Playa las Agujas",
+                  "text": "Playa las Agujas nestles gently into the coastline of Corralejo as a quietly beautiful sandy beach. Away from the larger crowds, this stretch offers a profoundly peaceful atmosphere that invites pure relaxation. Beachgoers can unwind on the sand, take leisurely walks, and admire the magnificent view stretching over to the island of Los Lobos. Arriving in the morning allows you to experience the complete tranquility of the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.853994,
+                        28.728365
+                  ]
+            },
+            {
+                  "name": "Bajo del Medio",
+                  "text": "A smaller beach section known for its clear waters and good conditions for snorkeling.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.860105,
+                        28.731357
+                  ]
+            },
+            {
+                  "name": "Playa de la Calera",
+                  "text": "Playa de la Calera reveals itself as a wonderfully peaceful coastal area just slightly removed from Corralejo's main tourist bustle. An understated, almost intimate atmosphere prevails here, which is especially appreciated by those seeking quietude. Walkers and sunbathers can listen to the gentle sound of the waves while enjoying the fine sand beneath their feet. It is the perfect coastal retreat to escape the daily routine with a good book.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.827578,
+                        28.741485
+                  ]
+            },
+            {
+                  "name": "Playa del Bajo de la Burra",
+                  "text": "Playa del Bajo de la Burra fascinates with its highly spectacular composition along the coast of Corralejo. Famous for white algae structures that look uncannily like popcorn, the beach exudes an almost surreal and highly relaxed atmosphere. Guests love spending time here observing this unusual natural phenomenon and snapping highly memorable holiday photos. To enjoy its singular beauty without the crowds, an early morning visit is very rewarding.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.900112,
+                        28.752311
+                  ]
+            },
+            {
+                  "name": "Playa del Pozo",
+                  "text": "Playa del Pozo expands as a grandiose, sprawling beach nestled within the impressive landscape of the nature park. Driven by a steady breeze, this destination offers an active, open atmosphere that is highly prized by windsurfers. Visitors will find plenty of space for relaxing walks along the shoreline, extensive sunbathing, or simply watching the colorful sails dance on the water. Bringing a windbreak is a wise choice if you plan to spend an extended period comfortably lounging on the sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.843533,
+                        28.723254
+                  ]
+            },
+            {
+                  "name": "El Viejo",
+                  "text": "A long, sandy beach near the dunes of Corralejo, popular for its clear waters and golden sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.839437,
+                        28.716289
+                  ]
+            },
+            {
+                  "name": "Generoso",
+                  "text": "A quiet sandy beach in Corralejo, offering a relaxed atmosphere for sunbathing and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.878101,
+                        28.751143
+                  ]
+            },
+            {
+                  "name": "Acua Water Park",
+                  "text": "A family-friendly water park in Fuerteventura featuring various slides, wave pools, and relaxation areas.",
+                  "category": "family",
+                  "coords": [
+                        -13.870609,
+                        28.727379
+                  ]
+            },
+            {
+                  "name": "Popcorn Beach",
+                  "text": "Popcorn Beach in Corralejo entirely lives up to its playful name, impressing all with a truly unique coastline. The famous shore, composed of white algae fragments, lends the location an astonishing and exceptionally fascinating atmosphere. Rather than lounging on soft sand, most visitors prefer to marvel at this natural wonder during a leisurely walk. Do not forget to bring your camera, as this quirky maritime phenomenon provides an incomparable photo opportunity.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.863429,
+                        28.731502
+                  ]
+            },
+            {
+                  "name": "Playa del Caserón",
+                  "text": "Playa del Caserón unfolds its pristine beauty as a white sandy beach nestled deep within the Corralejo Nature Park. Those seeking absolute tranquility are surrounded by a wonderfully relaxed and natural atmosphere, far removed from everyday tourism. Sunbathing and taking long barefoot walks along the gently sloping shore are among the greatest pleasures to be had here. Pack plenty of water and snacks to fully and completely enjoy this slice of pure nature.",
+                  "category": "recreational",
+                  "coords": [
+                        -13.837839,
+                        28.707928
+                  ]
+            }
+      ]
+}
   },
 
 ];

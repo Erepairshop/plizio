@@ -330,15 +330,6 @@ export const irelandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salterbridge House",
-                  "text": "Salterbridge House, ein historisches Landhaus nahe Lismore Castle im georgianischen Stil.",
-                  "category": "historical",
-                  "coords": [
-                        -7.880428,
-                        52.14897
-                  ]
-            },
-            {
                   "name": "Saint Carthage's Church",
                   "text": "Eine Kirche der Church of Ireland, die dem heiligen Carthage in Lismore geweiht ist.",
                   "category": "religious",
@@ -383,15 +374,6 @@ export const irelandLandmarksV2: POI[] = [
                   "coords": [
                         -7.963055,
                         52.147257
-                  ]
-            },
-            {
-                  "name": "Salterbridge House",
-                  "text": "Salterbridge House, egy történelmi kúria Lismore kastély közelében, grúz stílusban.",
-                  "category": "historical",
-                  "coords": [
-                        -7.880428,
-                        52.14897
                   ]
             },
             {
@@ -442,15 +424,6 @@ export const irelandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salterbridge House",
-                  "text": "Salterbridge House, o casă de țară istorică lângă Castelul Lismore, în stil georgian.",
-                  "category": "historical",
-                  "coords": [
-                        -7.880428,
-                        52.14897
-                  ]
-            },
-            {
                   "name": "Saint Carthage's Church",
                   "text": "O biserică a Bisericii Irlandei dedicată Sfântului Carthage în Lismore.",
                   "category": "religious",
@@ -495,15 +468,6 @@ export const irelandLandmarksV2: POI[] = [
                   "coords": [
                         -7.963055,
                         52.147257
-                  ]
-            },
-            {
-                  "name": "Salterbridge House",
-                  "text": "Salterbridge House, a historic country house near Lismore Castle in Georgian style.",
-                  "category": "historical",
-                  "coords": [
-                        -7.880428,
-                        52.14897
                   ]
             },
             {

@@ -852,39 +852,12 @@ export const tongaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "George Art Portraits",
-                  "text": "Ein Kunstzentrum in Nuku'alofa, das lokale Porträtkunst präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
-            },
-            {
-                  "name": "Siasi 'o Tonga",
-                  "text": "Eine Freikirche von Tonga an der Uferpromenade von Nukuʻalofa.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201098,
-                        -21.138752
-                  ]
-            },
-            {
                   "name": "Kathedrale zur Unbefleckten Empfängnis",
                   "text": "Eine bedeutende katholische Kirche an der Uferpromenade von Nuku'alofa.",
                   "category": "religious",
                   "coords": [
                         -175.181745,
                         -21.140823
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Anthony of Padua",
-                  "text": "Die Antonius-Basilika an der Uferpromenade von Nukuʻalofa.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201857,
-                        -21.136834
                   ]
             }
       ],
@@ -926,39 +899,12 @@ export const tongaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "George Art Portraits",
-                  "text": "Művészeti központ Nuku'alofában, amely helyi portréművészetet mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
-            },
-            {
-                  "name": "Siasi 'o Tonga",
-                  "text": "Egy Tongai Szabad Egyház a nukuʻalofai vízparti sétányon.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201098,
-                        -21.138752
-                  ]
-            },
-            {
                   "name": "Malia Tupu Imakulata Cathedral",
                   "text": "Jelentős katolikus templom Nuku'alofa vízparti övezetében.",
                   "category": "religious",
                   "coords": [
                         -175.181745,
                         -21.140823
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Anthony of Padua",
-                  "text": "Az Antal-bazilika a nukuʻalofai vízparti sétányon.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201857,
-                        -21.136834
                   ]
             }
       ],
@@ -1000,39 +946,12 @@ export const tongaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "George Art Portraits",
-                  "text": "Un centru de artă din Nuku'alofa, care prezintă portrete artistice locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
-            },
-            {
-                  "name": "Siasi 'o Tonga",
-                  "text": "O Biserică Liberă a Tongăi pe faleza comercială din Nukuʻalofa.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201098,
-                        -21.138752
-                  ]
-            },
-            {
                   "name": "Malia Tupu Imakulata Cathedral",
                   "text": "O importantă biserică catolică situată pe faleza din Nuku'alofa.",
                   "category": "religious",
                   "coords": [
                         -175.181745,
                         -21.140823
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Anthony of Padua",
-                  "text": "Basilica Sfântului Anton pe faleza comercială din Nukuʻalofa.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201857,
-                        -21.136834
                   ]
             }
       ],
@@ -1074,39 +993,12 @@ export const tongaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "George Art Portraits",
-                  "text": "An arts centre in Nuku'alofa showcasing local portrait artistry.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
-            },
-            {
-                  "name": "Siasi 'o Tonga",
-                  "text": "A Free Church of Tonga on the Nukuʻalofa waterfront commercial area.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201098,
-                        -21.138752
-                  ]
-            },
-            {
                   "name": "Cathedral of the Immaculate Conception of Mary",
                   "text": "A significant Catholic church located on the Nuku'alofa waterfront.",
                   "category": "religious",
                   "coords": [
                         -175.181745,
                         -21.140823
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Anthony of Padua",
-                  "text": "The Basilica of St. Anthony on the Nukuʻalofa waterfront commercial area.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201857,
-                        -21.136834
                   ]
             }
       ]

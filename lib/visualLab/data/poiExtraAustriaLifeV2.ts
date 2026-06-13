@@ -6,15 +6,6 @@ export const austriaLifeV2: POI[] = [
     id: "austria-nationalpark-gesaeuse-life-v2", "sights": {
       "de": [
             {
-                  "name": "Nationalparkpavilion",
-                  "text": "Ein Informationszentrum, das Einblicke in die Artenvielfalt des Nationalparks Gesäuse bietet.",
-                  "category": "museum",
-                  "coords": [
-                        14.636356,
-                        47.591637
-                  ]
-            },
-            {
                   "name": "Hochtor",
                   "text": "Der höchste Gipfel der Ennstaler Alpen, bekannt für seine anspruchsvollen Kletterrouten.",
                   "category": "landmark",
@@ -67,27 +58,9 @@ export const austriaLifeV2: POI[] = [
                         14.612601,
                         47.55401
                   ]
-            },
-            {
-                  "name": "Gstatterstein",
-                  "text": "Ein Berggipfel mit malerischer Aussicht auf die umliegende Gesäuse-Landschaft.",
-                  "category": "landmark",
-                  "coords": [
-                        14.664592,
-                        47.597251
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Nationalparkpavilion",
-                  "text": "Információs központ, amely betekintést nyújt a Gesäuse Nemzeti Park élővilágába.",
-                  "category": "museum",
-                  "coords": [
-                        14.636356,
-                        47.591637
-                  ]
-            },
             {
                   "name": "Hochtor",
                   "text": "Az Ennstaler-Alpok legmagasabb csúcsa, amely kihívást jelentő mászóútvonalairól ismert.",
@@ -141,27 +114,9 @@ export const austriaLifeV2: POI[] = [
                         14.612601,
                         47.55401
                   ]
-            },
-            {
-                  "name": "Gstatterstein",
-                  "text": "Hegycsúcs, amely festői kilátást nyújt a környező Gesäuse-tájra.",
-                  "category": "landmark",
-                  "coords": [
-                        14.664592,
-                        47.597251
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Nationalparkpavilion",
-                  "text": "Un centru de informare care oferă detalii despre biodiversitatea Parcului Național Gesäuse.",
-                  "category": "museum",
-                  "coords": [
-                        14.636356,
-                        47.591637
-                  ]
-            },
             {
                   "name": "Hochtor",
                   "text": "Cel mai înalt vârf din Alpii Ennstaler, cunoscut pentru traseele sale de cățărare dificile.",
@@ -215,27 +170,9 @@ export const austriaLifeV2: POI[] = [
                         14.612601,
                         47.55401
                   ]
-            },
-            {
-                  "name": "Gstatterstein",
-                  "text": "Un vârf muntos care oferă vederi pitorești asupra peisajului înconjurător din Gesäuse.",
-                  "category": "landmark",
-                  "coords": [
-                        14.664592,
-                        47.597251
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Nationalparkpavilion",
-                  "text": "An information center providing insights into the biodiversity of the Gesäuse National Park.",
-                  "category": "museum",
-                  "coords": [
-                        14.636356,
-                        47.591637
-                  ]
-            },
             {
                   "name": "Hochtor",
                   "text": "The highest summit of the Ennstaler Alps, known for its challenging climbing routes.",
@@ -288,15 +225,6 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         14.612601,
                         47.55401
-                  ]
-            },
-            {
-                  "name": "Gstatterstein",
-                  "text": "A mountain peak providing scenic views over the surrounding Gesäuse landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        14.664592,
-                        47.597251
                   ]
             }
       ]
@@ -1959,39 +1887,12 @@ export const austriaLifeV2: POI[] = [
     id: "austria-wildpark-ernstbrunn-life-v2", "sights": {
       "de": [
             {
-                  "name": "Oberleiser Berg",
-                  "text": "Eine archäologische Fundstätte und ein Aussichtspunkt im Weinviertel.",
-                  "category": "historical",
-                  "coords": [
-                        16.371998,
-                        48.559007
-                  ]
-            },
-            {
                   "name": "Schloss Ernstbrunn",
                   "text": "Ein imposantes Schloss im Weinviertel, Sitz der Familie Reuss.",
                   "category": "castle",
                   "coords": [
                         16.347584,
                         48.540969
-                  ]
-            },
-            {
-                  "name": "Schloss Niederleis",
-                  "text": "Schloss in Niederleis, Österreich, erbaut im 16. Jahrhundert.",
-                  "category": "castle",
-                  "coords": [
-                        16.395996,
-                        48.558103
-                  ]
-            },
-            {
-                  "name": "Schloss Klement",
-                  "text": "Ein historisches Schloss in der Nähe des Wildparks Ernstbrunn.",
-                  "category": "castle",
-                  "coords": [
-                        16.362333,
-                        48.568194
                   ]
             },
             {
@@ -2024,39 +1925,12 @@ export const austriaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Oberleiser Berg",
-                  "text": "Régészeti lelőhely és kilátópont a Weinviertel régióban.",
-                  "category": "historical",
-                  "coords": [
-                        16.371998,
-                        48.559007
-                  ]
-            },
-            {
                   "name": "Schloss Ernstbrunn",
                   "text": "Impozáns kastély a Weinviertel területén, a Reuss család székhelye.",
                   "category": "castle",
                   "coords": [
                         16.347584,
                         48.540969
-                  ]
-            },
-            {
-                  "name": "Schloss Niederleis",
-                  "text": "Kastély Niederleisben, Ausztriában, a 16. században épült.",
-                  "category": "castle",
-                  "coords": [
-                        16.395996,
-                        48.558103
-                  ]
-            },
-            {
-                  "name": "Schloss Klement",
-                  "text": "Történelmi kastély az ernstbrunni vadaspark közelében.",
-                  "category": "castle",
-                  "coords": [
-                        16.362333,
-                        48.568194
                   ]
             },
             {
@@ -2089,39 +1963,12 @@ export const austriaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Oberleiser Berg",
-                  "text": "Un sit arheologic și punct de observație în regiunea Weinviertel.",
-                  "category": "historical",
-                  "coords": [
-                        16.371998,
-                        48.559007
-                  ]
-            },
-            {
                   "name": "Schloss Ernstbrunn",
                   "text": "Un castel impunător în Weinviertel, reședința familiei Reuss.",
                   "category": "castle",
                   "coords": [
                         16.347584,
                         48.540969
-                  ]
-            },
-            {
-                  "name": "Schloss Niederleis",
-                  "text": "Castel în Niederleis, Austria, construit în secolul al XVI-lea.",
-                  "category": "castle",
-                  "coords": [
-                        16.395996,
-                        48.558103
-                  ]
-            },
-            {
-                  "name": "Schloss Klement",
-                  "text": "Un castel istoric situat lângă parcul de animale sălbatice Ernstbrunn.",
-                  "category": "castle",
-                  "coords": [
-                        16.362333,
-                        48.568194
                   ]
             },
             {
@@ -2154,39 +2001,12 @@ export const austriaLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Oberleiser Berg",
-                  "text": "An archaeological site and viewpoint in the Weinviertel region.",
-                  "category": "historical",
-                  "coords": [
-                        16.371998,
-                        48.559007
-                  ]
-            },
-            {
                   "name": "Schloss Ernstbrunn",
                   "text": "An impressive castle in the Weinviertel, seat of the Reuss family.",
                   "category": "castle",
                   "coords": [
                         16.347584,
                         48.540969
-                  ]
-            },
-            {
-                  "name": "Schloss Niederleis",
-                  "text": "Castle in Niederleis, Austria, built in the 16th century.",
-                  "category": "castle",
-                  "coords": [
-                        16.395996,
-                        48.558103
-                  ]
-            },
-            {
-                  "name": "Schloss Klement",
-                  "text": "A historical castle located near the Ernstbrunn Wildlife Park.",
-                  "category": "castle",
-                  "coords": [
-                        16.362333,
-                        48.568194
                   ]
             },
             {
@@ -2841,15 +2661,6 @@ export const austriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Ernstbrunn",
-                  "text": "Ein historisches Schloss in Ernstbrunn, bekannt für seine weitläufige Parkanlage.",
-                  "category": "castle",
-                  "coords": [
-                        16.347584,
-                        48.540969
-                  ]
-            },
-            {
                   "name": "Schloss Niederleis",
                   "text": "Ein gut erhaltenes Wasserschloss im Naturpark Leiser Berge.",
                   "category": "castle",
@@ -2865,15 +2676,6 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         16.362333,
                         48.568194
-                  ]
-            },
-            {
-                  "name": "Wildpark Ernstbrunn",
-                  "text": "Ein Wildpark, der heimische Tierarten und das Wolf Science Center beherbergt.",
-                  "category": "recreational",
-                  "coords": [
-                        16.348153,
-                        48.544794
                   ]
             },
             {
@@ -2906,15 +2708,6 @@ export const austriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Ernstbrunn",
-                  "text": "Történelmi kastély Ernstbrunnban, amely kiterjedt parkjáról ismert.",
-                  "category": "castle",
-                  "coords": [
-                        16.347584,
-                        48.540969
-                  ]
-            },
-            {
                   "name": "Schloss Niederleis",
                   "text": "Jó állapotban fennmaradt vízi kastély a Leiser Berge Natúrparkban.",
                   "category": "castle",
@@ -2930,15 +2723,6 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         16.362333,
                         48.568194
-                  ]
-            },
-            {
-                  "name": "Wildpark Ernstbrunn",
-                  "text": "Vadaspark, amely hazai állatfajoknak és a Farkaskutató Központnak ad otthont.",
-                  "category": "recreational",
-                  "coords": [
-                        16.348153,
-                        48.544794
                   ]
             },
             {
@@ -2971,15 +2755,6 @@ export const austriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Ernstbrunn",
-                  "text": "Un castel istoric în Ernstbrunn, cunoscut pentru parcul său vast.",
-                  "category": "castle",
-                  "coords": [
-                        16.347584,
-                        48.540969
-                  ]
-            },
-            {
                   "name": "Schloss Niederleis",
                   "text": "Un castel cu apă bine conservat în Parcul Natural Leiser Berge.",
                   "category": "castle",
@@ -2995,15 +2770,6 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         16.362333,
                         48.568194
-                  ]
-            },
-            {
-                  "name": "Wildpark Ernstbrunn",
-                  "text": "Un parc natural care găzduiește specii de animale locale și Centrul de Cercetare a Lupilor.",
-                  "category": "recreational",
-                  "coords": [
-                        16.348153,
-                        48.544794
                   ]
             },
             {
@@ -3036,15 +2802,6 @@ export const austriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Ernstbrunn",
-                  "text": "A historic castle in Ernstbrunn, known for its extensive park landscape.",
-                  "category": "castle",
-                  "coords": [
-                        16.347584,
-                        48.540969
-                  ]
-            },
-            {
                   "name": "Schloss Niederleis",
                   "text": "A well-preserved moated castle in the Leiser Berge Nature Park.",
                   "category": "castle",
@@ -3060,15 +2817,6 @@ export const austriaLifeV2: POI[] = [
                   "coords": [
                         16.362333,
                         48.568194
-                  ]
-            },
-            {
-                  "name": "Wildpark Ernstbrunn",
-                  "text": "A wildlife park offering a natural environment for local species and the Wolf Science Center.",
-                  "category": "recreational",
-                  "coords": [
-                        16.348153,
-                        48.544794
                   ]
             },
             {

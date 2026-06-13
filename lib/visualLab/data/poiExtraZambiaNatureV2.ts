@@ -20,15 +20,6 @@ export const poiExtraZambiaNatureV2: POI[] = [
     id: "victoria-falls-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Zambezi Horse Trails",
-                  "text": "Eine geführte Reitattraktion, die Besuchern malerische Reitwege durch die üppige Wildnis entlang des Sambesi bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        25.83757,
-                        -17.919781
-                  ]
-            },
-            {
                   "name": "Zambezi river view point",
                   "text": "Eine ruhige Aussichtsplattform, die sich über die Flussufer erhebt und perfekt geeignet ist, um das sanfte Fließen des breiten Sambesi zu betrachten, bevor er die Wasserfälle erreicht.",
                   "category": "natural",
@@ -111,15 +102,6 @@ export const poiExtraZambiaNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zambezi Horse Trails",
-                  "text": "Egy vezetett lovas látványosság, amely festői lovastúra-útvonalakat kínál a látogatóknak a Zambézi-folyót szegélyező buja vadonban.",
-                  "category": "landmark",
-                  "coords": [
-                        25.83757,
-                        -17.919781
-                  ]
-            },
             {
                   "name": "Zambezi river view point",
                   "text": "A folyópartok felett emelkedő nyugodt kilátóterasz, amely tökéletes a széles Zambézi-folyó szelíd áramlásának megfigyelésére, mielőtt az elérné a vízesést.",
@@ -204,15 +186,6 @@ export const poiExtraZambiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zambezi Horse Trails",
-                  "text": "O atracție ecvestră ghidată care oferă vizitatorilor trasee pitorești de călărie prin sălbăticia luxuriantă care se învecinează cu râul Zambezi.",
-                  "category": "landmark",
-                  "coords": [
-                        25.83757,
-                        -17.919781
-                  ]
-            },
-            {
                   "name": "Zambezi river view point",
                   "text": "O platformă de observație senină ridicată deasupra malurilor râului, perfectă pentru a privi curgerea blândă a largului râu Zambezi înainte de a ajunge la cascadă.",
                   "category": "natural",
@@ -295,15 +268,6 @@ export const poiExtraZambiaNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Zambezi Horse Trails",
-                  "text": "A guided equestrian attraction offering visitors scenic horseback riding trails through the lush wilderness bordering the Zambezi River.",
-                  "category": "landmark",
-                  "coords": [
-                        25.83757,
-                        -17.919781
-                  ]
-            },
             {
                   "name": "Zambezi river view point",
                   "text": "A serene observation deck elevated above the riverbanks, perfect for gazing at the gentle flow of the wide Zambezi River before it reaches the falls.",

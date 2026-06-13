@@ -1274,24 +1274,6 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
     id: "lithuania-aukstojas-hill-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Schloss Medinkai",
-                  "text": "Eine bedeutende mittelalterliche Backsteinburg in der Nähe von Vilnius.",
-                  "category": "castle",
-                  "coords": [
-                        25.650005,
-                        54.539627
-                  ]
-            },
-            {
-                  "name": "Pasieniečių muziejus",
-                  "text": "Ein Museum, das der Geschichte des Grenzschutzes in Litauen gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.667053,
-                        54.551175
-                  ]
-            },
-            {
                   "name": "Aukštojas",
                   "text": "Der höchste Berg Litauens mit einer Höhe von etwa 294 Metern.",
                   "category": "landmark",
@@ -1299,63 +1281,9 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
                         25.625687,
                         54.526959
                   ]
-            },
-            {
-                  "name": "Josephinenberg",
-                  "text": "Ein Hügel und Aussichtspunkt nahe dem höchsten Punkt Litauens.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Ein Aussichtspunkt auf dem Juozapinė-Hügel mit weitem Blick über die Region.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Dritter Aussichtspunkt auf dem Juozapinė-Hügel nahe dem Aukštojas-Hügel.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Ein Aussichtspunkt auf dem Aukštojas-Hügel, dem höchsten Punkt Litauens.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Medininkų pilis",
-                  "text": "Jelentős középkori téglavár Vilnius közelében.",
-                  "category": "castle",
-                  "coords": [
-                        25.650005,
-                        54.539627
-                  ]
-            },
-            {
-                  "name": "Pasieniečių muziejus",
-                  "text": "A litván határőrség történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        25.667053,
-                        54.551175
-                  ]
-            },
             {
                   "name": "Aukštojas",
                   "text": "Litvánia legmagasabb pontja, körülbelül 294 méteres magassággal.",
@@ -1364,63 +1292,9 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
                         25.625687,
                         54.526959
                   ]
-            },
-            {
-                  "name": "Juozapinės kalnas",
-                  "text": "Domb és kilátóhely Litvánia legmagasabb pontjának közelében.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Kilátóhely a Juozapinė-dombon, széles rálátással a régióra.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Harmadik kilátó a Juozapinė-dombon, az Aukštojas-domb közelében.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Kilátópont az Aukštojas-dombon, Litvánia legmagasabb pontján.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Medininkų pilis",
-                  "text": "O cetate medievală importantă din cărămidă, situată lângă Vilnius.",
-                  "category": "castle",
-                  "coords": [
-                        25.650005,
-                        54.539627
-                  ]
-            },
-            {
-                  "name": "Pasieniečių muziejus",
-                  "text": "Un muzeu dedicat istoriei pazei de frontieră din Lituania.",
-                  "category": "museum",
-                  "coords": [
-                        25.667053,
-                        54.551175
-                  ]
-            },
             {
                   "name": "Aukštojas",
                   "text": "Cel mai înalt vârf din Lituania, având o înălțime de aproximativ 294 de metri.",
@@ -1429,63 +1303,9 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
                         25.625687,
                         54.526959
                   ]
-            },
-            {
-                  "name": "Juozapinės kalnas",
-                  "text": "Un deal și punct de observație situat lângă cel mai înalt punct din Lituania.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Un punct de observare pe dealul Juozapinė, oferind o vedere largă asupra regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Al treilea punct de observare pe Dealul Juozapinė lângă Dealul Aukštojas.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Un punct de observație situat pe dealul Aukštojas, cel mai înalt punct din Lituania.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Medininkų pilis",
-                  "text": "A significant medieval brick castle located near Vilnius.",
-                  "category": "castle",
-                  "coords": [
-                        25.650005,
-                        54.539627
-                  ]
-            },
-            {
-                  "name": "Borderguard museum",
-                  "text": "A museum dedicated to the history of border guarding in Lithuania.",
-                  "category": "museum",
-                  "coords": [
-                        25.667053,
-                        54.551175
-                  ]
-            },
             {
                   "name": "Aukštojas",
                   "text": "The highest peak in Lithuania, reaching an elevation of approximately 294 metres.",
@@ -1493,42 +1313,6 @@ imageHint: "Lighthouse and bird traps at Vente Cape",
                   "coords": [
                         25.625687,
                         54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinė Hill",
-                  "text": "A hill and viewpoint near the highest point of Lithuania.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "A viewpoint on Juozapinė Hill offering broad views of the region.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Third observation point on Juozapinė Hill near Aukštojas Hill.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "A scenic viewpoint located on Aukštojas Hill, the highest point in Lithuania.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
                   ]
             }
       ]
@@ -1643,60 +1427,6 @@ imageHint: "Aerial view of Lake Galve with Trakai Castle",
                         22.750137,
                         54.427953
                   ]
-            },
-            {
-                  "name": "Šilelio pažintinis takas",
-                  "text": "Ein Lehrpfad durch den Wald, der die Natur rund um den Vištytis-See zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        22.763734,
-                        54.407702
-                  ]
-            },
-            {
-                  "name": "Skardis ir Vištyčio vaizdas",
-                  "text": "Ein Aussichtspunkt, der einen weiten Blick über den Vištytis-See bietet.",
-                  "category": "natural",
-                  "coords": [
-                        22.760452,
-                        54.40633
-                  ]
-            },
-            {
-                  "name": "Vištyčio vėjo malūnas",
-                  "text": "Eine historische Windmühle, ein technisches Denkmal in der Nähe von Vištytis.",
-                  "category": "landmark",
-                  "coords": [
-                        22.739458,
-                        54.454648
-                  ]
-            },
-            {
-                  "name": "Vištyčio seniūnija",
-                  "text": "Das Verwaltungszentrum und Rathaus der Gemeinde Vištytis.",
-                  "category": "landmark",
-                  "coords": [
-                        22.711609,
-                        54.454414
-                  ]
-            },
-            {
-                  "name": "Vištyčio Švč. Trejybės bažnyčia",
-                  "text": "Die katholische Dreifaltigkeitskirche ist ein markantes Bauwerk in Vištytis.",
-                  "category": "religious",
-                  "coords": [
-                        22.70972,
-                        54.456178
-                  ]
-            },
-            {
-                  "name": "Evangelisch-Lutherische Kirche Vištytis",
-                  "text": "Eine historische evangelisch-lutherische Kirche am Vištytis-See.",
-                  "category": "religious",
-                  "coords": [
-                        22.730659,
-                        54.454723
-                  ]
             }
       ],
       "hu": [
@@ -1716,60 +1446,6 @@ imageHint: "Aerial view of Lake Galve with Trakai Castle",
                   "coords": [
                         22.750137,
                         54.427953
-                  ]
-            },
-            {
-                  "name": "Šilelio pažintinis takas",
-                  "text": "Tanösvény az erdőn keresztül, amely a Vištytis-tó környéki természetet mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        22.763734,
-                        54.407702
-                  ]
-            },
-            {
-                  "name": "Skardis ir Vištyčio vaizdas",
-                  "text": "Kilátópont, ahonnan széles körkilátás nyílik a Vištytis-tóra.",
-                  "category": "natural",
-                  "coords": [
-                        22.760452,
-                        54.40633
-                  ]
-            },
-            {
-                  "name": "Vištyčio vėjo malūnas",
-                  "text": "Történelmi szélmalom, ipari műemlék Vištytis közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        22.739458,
-                        54.454648
-                  ]
-            },
-            {
-                  "name": "Vištyčio seniūnija",
-                  "text": "Vištytis község adminisztratív központja és városháza.",
-                  "category": "landmark",
-                  "coords": [
-                        22.711609,
-                        54.454414
-                  ]
-            },
-            {
-                  "name": "Vištyčio Švč. Trejybės bažnyčia",
-                  "text": "A katolikus Szentháromság-templom Vištytis egyik jellegzetes épülete.",
-                  "category": "religious",
-                  "coords": [
-                        22.70972,
-                        54.456178
-                  ]
-            },
-            {
-                  "name": "Vištyčio evangelikų liuteronų bažnyčia",
-                  "text": "Történelmi evangélikus templom a Vištytis-tó partján.",
-                  "category": "religious",
-                  "coords": [
-                        22.730659,
-                        54.454723
                   ]
             }
       ],
@@ -1791,60 +1467,6 @@ imageHint: "Aerial view of Lake Galve with Trakai Castle",
                         22.750137,
                         54.427953
                   ]
-            },
-            {
-                  "name": "Šilelio pažintinis takas",
-                  "text": "O potecă educațională prin pădure care prezintă natura din jurul lacului Vištytis.",
-                  "category": "landmark",
-                  "coords": [
-                        22.763734,
-                        54.407702
-                  ]
-            },
-            {
-                  "name": "Skardis ir Vištyčio vaizdas",
-                  "text": "Un punct de observație care ofer保护 un panorama largă asupra lacului Vištytis.",
-                  "category": "natural",
-                  "coords": [
-                        22.760452,
-                        54.40633
-                  ]
-            },
-            {
-                  "name": "Vištyčio vėjo malūnas",
-                  "text": "O moară de vânt istorică, monument tehnic situat lângă Vištytis.",
-                  "category": "landmark",
-                  "coords": [
-                        22.739458,
-                        54.454648
-                  ]
-            },
-            {
-                  "name": "Vištyčio seniūnija",
-                  "text": "Centrul administrativ și primăria comunei Vištytis.",
-                  "category": "landmark",
-                  "coords": [
-                        22.711609,
-                        54.454414
-                  ]
-            },
-            {
-                  "name": "Vištyčio Švč. Trejybės bažnyčia",
-                  "text": "Biserica catolică Sfânta Treime este o clădire proeminentă în Vištytis.",
-                  "category": "religious",
-                  "coords": [
-                        22.70972,
-                        54.456178
-                  ]
-            },
-            {
-                  "name": "Vištyčio evangelikų liuteronų bažnyčia",
-                  "text": "O biserică istorică evanghelică luterană de pe malul lacului Vištytis.",
-                  "category": "religious",
-                  "coords": [
-                        22.730659,
-                        54.454723
-                  ]
             }
       ],
       "en": [
@@ -1864,60 +1486,6 @@ imageHint: "Aerial view of Lake Galve with Trakai Castle",
                   "coords": [
                         22.750137,
                         54.427953
-                  ]
-            },
-            {
-                  "name": "Šilelio pažintinis takas",
-                  "text": "An educational trail through the forest showcasing nature around Lake Vištytis.",
-                  "category": "landmark",
-                  "coords": [
-                        22.763734,
-                        54.407702
-                  ]
-            },
-            {
-                  "name": "Skardis ir Vištyčio vaizdas",
-                  "text": "A viewpoint offering a wide panoramic view over Lake Vištytis.",
-                  "category": "natural",
-                  "coords": [
-                        22.760452,
-                        54.40633
-                  ]
-            },
-            {
-                  "name": "Vištyčio vėjo malūnas",
-                  "text": "A historic windmill and technical monument located near Vištytis.",
-                  "category": "landmark",
-                  "coords": [
-                        22.739458,
-                        54.454648
-                  ]
-            },
-            {
-                  "name": "Vištyčio seniūnija",
-                  "text": "The administrative center and town hall of the Vištytis municipality.",
-                  "category": "landmark",
-                  "coords": [
-                        22.711609,
-                        54.454414
-                  ]
-            },
-            {
-                  "name": "Vištyčio Švč. Trejybės bažnyčia",
-                  "text": "The Catholic Holy Trinity Church is a prominent building in Vištytis.",
-                  "category": "religious",
-                  "coords": [
-                        22.70972,
-                        54.456178
-                  ]
-            },
-            {
-                  "name": "Vištyčio evangelikų liuteronų bažnyčia",
-                  "text": "A historic Evangelical Lutheran church on the shores of Lake Vištytis.",
-                  "category": "religious",
-                  "coords": [
-                        22.730659,
-                        54.454723
                   ]
             }
       ]
@@ -2016,51 +1584,6 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
     id: "lithuania-sartai-lake-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Veliukiškių I piliakalnis",
-                  "text": "Eine Hügelburg am Nordufer des Sartai-Sees.",
-                  "category": "historical",
-                  "coords": [
-                        25.847528,
-                        55.833611
-                  ]
-            },
-            {
-                  "name": "Bradesių piliakalnis",
-                  "text": "Eine Hügelburg nahe Bradesiai am Sartai-See.",
-                  "category": "historical",
-                  "coords": [
-                        25.853278,
-                        55.83675
-                  ]
-            },
-            {
-                  "name": "Pakačinių piliakalnis",
-                  "text": "Eine Hügelburg nahe Pakačiniai am Sartai-See.",
-                  "category": "historical",
-                  "coords": [
-                        25.885194,
-                        55.813417
-                  ]
-            },
-            {
-                  "name": "Velikuškių II piliakalnis",
-                  "text": "Die zweite Hügelburg nördlich von Velikuškės am Sartai-See.",
-                  "category": "historical",
-                  "coords": [
-                        25.868056,
-                        55.827194
-                  ]
-            },
-            {
-                  "name": "Bradesių ąžuolas",
-                  "text": "Bradesių ąžuolas ist eine markante Eiche und Attraktion am Sartai-See.",
-                  "category": "landmark",
-                  "coords": [
-                        25.877468,
-                        55.831608
-                  ]
-            },
-            {
                   "name": "Pažintinis Dusetų girios takas",
                   "text": "Lehrpfad im Wald von Dusetos am Sartai-See.",
                   "category": "landmark",
@@ -2068,72 +1591,9 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
                         25.7882,
                         55.7911
                   ]
-            },
-            {
-                  "name": "Sartų apžvalgos bokštas",
-                  "text": "Aussichtsturm am Sartai-See.",
-                  "category": "natural",
-                  "coords": [
-                        25.838496,
-                        55.840976
-                  ]
-            },
-            {
-                  "name": "Antazavės šilo mūšio vieta, partizanų žeminės",
-                  "text": "Dies ist eine historische Stätte mit Partisanenbunkern am Sartai-See.",
-                  "category": "landmark",
-                  "coords": [
-                        25.8951,
-                        55.8151
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Veliukiškių I piliakalnis",
-                  "text": "Egy földvár a Sartai-tó északi partján.",
-                  "category": "historical",
-                  "coords": [
-                        25.847528,
-                        55.833611
-                  ]
-            },
-            {
-                  "name": "Bradesių piliakalnis",
-                  "text": "Egy földvár Bradesiai közelében a Sartai-tónál.",
-                  "category": "historical",
-                  "coords": [
-                        25.853278,
-                        55.83675
-                  ]
-            },
-            {
-                  "name": "Pakačinių piliakalnis",
-                  "text": "Egy földvár Pakačiniai közelében a Sartai-tónál.",
-                  "category": "historical",
-                  "coords": [
-                        25.885194,
-                        55.813417
-                  ]
-            },
-            {
-                  "name": "Velikuškių II piliakalnis",
-                  "text": "A második földvár Velikuškėstől északra a Sartai-tónál.",
-                  "category": "historical",
-                  "coords": [
-                        25.868056,
-                        55.827194
-                  ]
-            },
-            {
-                  "name": "Bradesių ąžuolas",
-                  "text": "A Bradesių ąžuolas egy nevezetes tölgyfa és látványosság a Sartai-tónál.",
-                  "category": "landmark",
-                  "coords": [
-                        25.877468,
-                        55.831608
-                  ]
-            },
             {
                   "name": "Pažintinis Dusetų girios takas",
                   "text": "Tanösvény a Dusetos-erdőben a Sartai-tó mellett.",
@@ -2142,72 +1602,9 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
                         25.7882,
                         55.7911
                   ]
-            },
-            {
-                  "name": "Sartų apžvalgos bokštas",
-                  "text": "Kilátótorony a Sartai-tónál.",
-                  "category": "natural",
-                  "coords": [
-                        25.838496,
-                        55.840976
-                  ]
-            },
-            {
-                  "name": "Antazavės šilo mūšio vieta, partizanų žeminės",
-                  "text": "Ez egy történelmi emlékhely partizánbunkerekkel a Sartai-tónál.",
-                  "category": "landmark",
-                  "coords": [
-                        25.8951,
-                        55.8151
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Veliukiškių I piliakalnis",
-                  "text": "O fortificație de deal pe malul nordic al Lacului Sartai.",
-                  "category": "historical",
-                  "coords": [
-                        25.847528,
-                        55.833611
-                  ]
-            },
-            {
-                  "name": "Bradesių piliakalnis",
-                  "text": "O fortificație de deal lângă Bradesiai, pe Lacul Sartai.",
-                  "category": "historical",
-                  "coords": [
-                        25.853278,
-                        55.83675
-                  ]
-            },
-            {
-                  "name": "Pakačinių piliakalnis",
-                  "text": "O fortificație de deal lângă Pakačiniai, pe Lacul Sartai.",
-                  "category": "historical",
-                  "coords": [
-                        25.885194,
-                        55.813417
-                  ]
-            },
-            {
-                  "name": "Velikuškių II piliakalnis",
-                  "text": "A doua fortificație de deal la nord de Velikuškės, pe Lacul Sartai.",
-                  "category": "historical",
-                  "coords": [
-                        25.868056,
-                        55.827194
-                  ]
-            },
-            {
-                  "name": "Bradesių ąžuolas",
-                  "text": "Bradesių ąžuolas este un stejar secular și o atracție lângă lacul Sartai.",
-                  "category": "landmark",
-                  "coords": [
-                        25.877468,
-                        55.831608
-                  ]
-            },
             {
                   "name": "Pažintinis Dusetų girios takas",
                   "text": "Traseu didactic în Pădurea Dusetos lângă Lacul Sartai.",
@@ -2216,72 +1613,9 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
                         25.7882,
                         55.7911
                   ]
-            },
-            {
-                  "name": "Sartų apžvalgos bokštas",
-                  "text": "Turn de observare la Lacul Sartai.",
-                  "category": "natural",
-                  "coords": [
-                        25.838496,
-                        55.840976
-                  ]
-            },
-            {
-                  "name": "Antazavės šilo mūšio vieta, partizanų žeminės",
-                  "text": "Acesta este un loc istoric cu buncăre de partizani lângă lacul Sartai.",
-                  "category": "landmark",
-                  "coords": [
-                        25.8951,
-                        55.8151
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Veliukiškių I piliakalnis",
-                  "text": "A hillfort on the north shore of Lake Sartai.",
-                  "category": "historical",
-                  "coords": [
-                        25.847528,
-                        55.833611
-                  ]
-            },
-            {
-                  "name": "Bradesių piliakalnis",
-                  "text": "A hillfort near Bradesiai on Lake Sartai.",
-                  "category": "historical",
-                  "coords": [
-                        25.853278,
-                        55.83675
-                  ]
-            },
-            {
-                  "name": "Pakačinių piliakalnis",
-                  "text": "A hillfort near Pakačiniai on Lake Sartai.",
-                  "category": "historical",
-                  "coords": [
-                        25.885194,
-                        55.813417
-                  ]
-            },
-            {
-                  "name": "Velikuškių II piliakalnis",
-                  "text": "The second hillfort north of Velikuškės on Lake Sartai.",
-                  "category": "historical",
-                  "coords": [
-                        25.868056,
-                        55.827194
-                  ]
-            },
-            {
-                  "name": "Bradesių ąžuolas",
-                  "text": "Bradesių ąžuolas is a notable oak tree and attraction near Lake Sartai.",
-                  "category": "landmark",
-                  "coords": [
-                        25.877468,
-                        55.831608
-                  ]
-            },
             {
                   "name": "Pažintinis Dusetų girios takas",
                   "text": "Educational trail in Dusetos Forest near Lake Sartai.",
@@ -2289,24 +1623,6 @@ imageHint: "Sandy beach of Lake Dusia in Lithuania",
                   "coords": [
                         25.7882,
                         55.7911
-                  ]
-            },
-            {
-                  "name": "Sartų apžvalgos bokštas",
-                  "text": "Observation tower at Lake Sartai.",
-                  "category": "natural",
-                  "coords": [
-                        25.838496,
-                        55.840976
-                  ]
-            },
-            {
-                  "name": "Antazavės šilo mūšio vieta, partizanų žeminės",
-                  "text": "This is a historical site featuring partisan bunkers near Lake Sartai.",
-                  "category": "landmark",
-                  "coords": [
-                        25.8951,
-                        55.8151
                   ]
             }
       ]
@@ -2359,39 +1675,12 @@ imageHint: "Winter horse racing on the frozen Lake Sartai",
     id: "lithuania-plateliai-lake-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Museum des Kalten Krieges",
-                  "text": "Dieses Museum befindet sich in einem ehemaligen sowjetischen Atomraketenstützpunkt am Plateliai-See.",
-                  "category": "museum",
-                  "coords": [
-                        21.906289,
-                        56.032266
-                  ]
-            },
-            {
-                  "name": "Užpelkių piliakalnis",
-                  "text": "Užpelkių piliakalnis ist eine antike Wallburg in der Nähe des Plateliai-Sees in Litauen.",
-                  "category": "historical",
-                  "coords": [
-                        21.823556,
-                        56.071306
-                  ]
-            },
-            {
                   "name": "Die Scheune des Platelia-Herrenhauses",
                   "text": "Dieses Museum ist im historischen Speicher des ehemaligen Herrenhauses von Plateliai untergebracht.",
                   "category": "museum",
                   "coords": [
                         21.814317,
                         56.03825
-                  ]
-            },
-            {
-                  "name": "Paplatelės tako apžvalgos bokštas",
-                  "text": "Ein Aussichtsturm am Paplatelė-Wanderweg mit Blick auf die umliegende Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        21.895352,
-                        56.045571
                   ]
             },
             {
@@ -2415,39 +1704,12 @@ imageHint: "Winter horse racing on the frozen Lake Sartai",
       ],
       "hu": [
             {
-                  "name": "Šaltojo Karo muziejus",
-                  "text": "Ez a múzeum egy egykori szovjet nukleáris rakétabázison található a Plateliai-tó közelében.",
-                  "category": "museum",
-                  "coords": [
-                        21.906289,
-                        56.032266
-                  ]
-            },
-            {
-                  "name": "Užpelkių piliakalnis",
-                  "text": "Az Užpelkių piliakalnis egy ősi földvárhelyszín Litvániában, a Plateliai-tó közelében.",
-                  "category": "historical",
-                  "coords": [
-                        21.823556,
-                        56.071306
-                  ]
-            },
-            {
                   "name": "Platelių dvaro svirnas",
                   "text": "Ez a múzeum az egykori plateliai udvarház történelmi magtárában kapott helyet.",
                   "category": "museum",
                   "coords": [
                         21.814317,
                         56.03825
-                  ]
-            },
-            {
-                  "name": "Paplatelės tako apžvalgos bokštas",
-                  "text": "A Paplatelė-ösvényen található kilátótorony, ahonnan kilátás nyílik a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        21.895352,
-                        56.045571
                   ]
             },
             {
@@ -2471,39 +1733,12 @@ imageHint: "Winter horse racing on the frozen Lake Sartai",
       ],
       "ro": [
             {
-                  "name": "Šaltojo Karo muziejus",
-                  "text": "Acest muzeu este situat într-o fostă bază sovietică de rachete nucleare de lângă lacul Plateliai.",
-                  "category": "museum",
-                  "coords": [
-                        21.906289,
-                        56.032266
-                  ]
-            },
-            {
-                  "name": "Užpelkių piliakalnis",
-                  "text": "Užpelkių piliakalnis este un sit arheologic al unei cetăți antice situat lângă lacul Plateliai în Lituania.",
-                  "category": "historical",
-                  "coords": [
-                        21.823556,
-                        56.071306
-                  ]
-            },
-            {
                   "name": "Platelių dvaro svirnas",
                   "text": "Acest muzeu este găzduit în fostul grânar al conacului istoric Plateliai.",
                   "category": "museum",
                   "coords": [
                         21.814317,
                         56.03825
-                  ]
-            },
-            {
-                  "name": "Paplatelės tako apžvalgos bokštas",
-                  "text": "Un turn de observare pe traseul Paplatelė care oferă vedere spre peisajul înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        21.895352,
-                        56.045571
                   ]
             },
             {
@@ -2527,39 +1762,12 @@ imageHint: "Winter horse racing on the frozen Lake Sartai",
       ],
       "en": [
             {
-                  "name": "Museum of Cold War",
-                  "text": "This museum is located in a former Soviet nuclear missile base near Lake Plateliai.",
-                  "category": "museum",
-                  "coords": [
-                        21.906289,
-                        56.032266
-                  ]
-            },
-            {
-                  "name": "Užpelkių piliakalnis",
-                  "text": "Užpelkių piliakalnis is an ancient hillfort site located near Lake Plateliai in Lithuania.",
-                  "category": "historical",
-                  "coords": [
-                        21.823556,
-                        56.071306
-                  ]
-            },
-            {
                   "name": "Platelių dvaro svirnas",
                   "text": "This museum is housed in the historic granary of the former Plateliai Manor.",
                   "category": "museum",
                   "coords": [
                         21.814317,
                         56.03825
-                  ]
-            },
-            {
-                  "name": "Paplatelės tako apžvalgos bokštas",
-                  "text": "An observation tower on the Paplatelė trail offering views of the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        21.895352,
-                        56.045571
                   ]
             },
             {
@@ -2740,30 +1948,12 @@ imageHint: "Wooden walkway through the Cepkeliai raised bog",
                   ]
             },
             {
-                  "name": "Šiaurės Rytų partizanų srities visuomeninės dalies vadavietė",
-                  "text": "Ein historisches Denkmal an der Stelle eines ehemaligen Partisanenhauptquartiers.",
-                  "category": "landmark",
-                  "coords": [
-                        25.73458,
-                        55.28247
-                  ]
-            },
-            {
                   "name": "Labanoro pažintinis takas",
                   "text": "Ein Lehrpfad, der die Natur und Geschichte des Labanoras-Waldes vorstellt.",
                   "category": "landmark",
                   "coords": [
                         25.821196,
                         55.263664
-                  ]
-            },
-            {
-                  "name": "Labanoro Švč. Mergelės Marijos Gimimo bažnyčia",
-                  "text": "Eine katholische Holzkirche im Labanoras-Wald, die der Geburt Mariens gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        25.774737,
-                        55.266124
                   ]
             }
       ],
@@ -2787,30 +1977,12 @@ imageHint: "Wooden walkway through the Cepkeliai raised bog",
                   ]
             },
             {
-                  "name": "Šiaurės Rytų partizanų srities visuomeninės dalies vadavietė",
-                  "text": "Történelmi emlékhely egy egykori partizánparancsnokság helyén.",
-                  "category": "landmark",
-                  "coords": [
-                        25.73458,
-                        55.28247
-                  ]
-            },
-            {
                   "name": "Labanoro pažintinis takas",
                   "text": "Tanösvény, amely a Labanoras-erdő természetét és történelmét mutatja be.",
                   "category": "landmark",
                   "coords": [
                         25.821196,
                         55.263664
-                  ]
-            },
-            {
-                  "name": "Labanoro Švč. Mergelės Marijos Gimimo bažnyčia",
-                  "text": "Mária születésének szentelt katolikus fatemplom a Labanoras-erdőben.",
-                  "category": "religious",
-                  "coords": [
-                        25.774737,
-                        55.266124
                   ]
             }
       ],
@@ -2834,30 +2006,12 @@ imageHint: "Wooden walkway through the Cepkeliai raised bog",
                   ]
             },
             {
-                  "name": "Šiaurės Rytų partizanų srities visuomeninės dalies vadavietė",
-                  "text": "Un monument istoric pe locul unui fost cartier general de partizani.",
-                  "category": "landmark",
-                  "coords": [
-                        25.73458,
-                        55.28247
-                  ]
-            },
-            {
                   "name": "Labanoro pažintinis takas",
                   "text": "Un traseu interpretativ care prezintă natura și istoria pădurii Labanoras.",
                   "category": "landmark",
                   "coords": [
                         25.821196,
                         55.263664
-                  ]
-            },
-            {
-                  "name": "Labanoro Švč. Mergelės Marijos Gimimo bažnyčia",
-                  "text": "O biserică catolică de lemn dedicată Nașterii Maicii Domnului în pădurea Labanoras.",
-                  "category": "religious",
-                  "coords": [
-                        25.774737,
-                        55.266124
                   ]
             }
       ],
@@ -2881,30 +2035,12 @@ imageHint: "Wooden walkway through the Cepkeliai raised bog",
                   ]
             },
             {
-                  "name": "Šiaurės Rytų partizanų srities visuomeninės dalies vadavietė",
-                  "text": "A historical monument at the site of a former partisan headquarters.",
-                  "category": "landmark",
-                  "coords": [
-                        25.73458,
-                        55.28247
-                  ]
-            },
-            {
                   "name": "Labanoro pažintinis takas",
                   "text": "An educational trail showcasing the nature and history of the Labanoras Forest.",
                   "category": "landmark",
                   "coords": [
                         25.821196,
                         55.263664
-                  ]
-            },
-            {
-                  "name": "Labanoro Švč. Mergelės Marijos Gimimo bažnyčia",
-                  "text": "A Catholic wooden church dedicated to the Nativity of Mary in the Labanoras Forest.",
-                  "category": "religious",
-                  "coords": [
-                        25.774737,
-                        55.266124
                   ]
             }
       ]
@@ -3928,33 +3064,6 @@ imageHint: "Calm Sesupe river at the border area",
     id: "lithuania-lusiai-lake-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Ginučiai-Hügel",
-                  "text": "Ein bedeutender historischer Burgberg im Aukštaitija-Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        25.985028,
-                        55.373694
-                  ]
-            },
-            {
-                  "name": "Papiliakalne-Hügel",
-                  "text": "Eine Hügelburg am Ufer des Lusiai-Sees.",
-                  "category": "historical",
-                  "coords": [
-                        25.983472,
-                        55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "Ein alter litauischer Burgberg mit Blick auf die umliegenden Seen.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
                   "name": "Puziniškio piliakalnis",
                   "text": "Eine Hügelburg nahe Puziniškis am Lusiai-See.",
                   "category": "historical",
@@ -3962,72 +3071,9 @@ imageHint: "Calm Sesupe river at the border area",
                         26.013972,
                         55.361111
                   ]
-            },
-            {
-                  "name": "Paukščių kaimas",
-                  "text": "Ein Erlebnishof mit verschiedenen Vogelarten und Aktivitäten.",
-                  "category": "recreational",
-                  "coords": [
-                        25.988435,
-                        55.324478
-                  ]
-            },
-            {
-                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Steinzeitliche Siedlung Kimbariškės am See Lūšiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.983653,
-                        55.359847
-                  ]
-            },
-            {
-                  "name": "Pabiržės senovės gyvenvietė",
-                  "text": "Alte Siedlung Pabiržė am See Lūšiai.",
-                  "category": "historical",
-                  "coords": [
-                        26.030528,
-                        55.336502
-                  ]
-            },
-            {
-                  "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "Strand an der Ginučiai-Wassermühle am See Lūšiai.",
-                  "category": "recreational",
-                  "coords": [
-                        25.994654,
-                        55.385604
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Ginučių piliakalnis",
-                  "text": "Jelentős történelmi várhely az Aukštaitija Nemzeti Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        25.985028,
-                        55.373694
-                  ]
-            },
-            {
-                  "name": "Papiliakalnės piliakalnis",
-                  "text": "Egy földvár a Lusiai-tó partján.",
-                  "category": "historical",
-                  "coords": [
-                        25.983472,
-                        55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "Régi litván várhely kilátással a környező tavakra.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
             {
                   "name": "Puziniškio piliakalnis",
                   "text": "Egy földvár Puziniškis közelében a Lusiai-tónál.",
@@ -4036,72 +3082,9 @@ imageHint: "Calm Sesupe river at the border area",
                         26.013972,
                         55.361111
                   ]
-            },
-            {
-                  "name": "Paukščių kaimas",
-                  "text": "Élménygazdaság különböző madárfajokkal és programokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        25.988435,
-                        55.324478
-                  ]
-            },
-            {
-                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Kőkori település Kimbariškės a Lūšiai-tónál.",
-                  "category": "historical",
-                  "coords": [
-                        25.983653,
-                        55.359847
-                  ]
-            },
-            {
-                  "name": "Pabiržės senovės gyvenvietė",
-                  "text": "Ősi település Pabiržė a Lūšiai-tónál.",
-                  "category": "historical",
-                  "coords": [
-                        26.030528,
-                        55.336502
-                  ]
-            },
-            {
-                  "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "Strand a Ginučiai vízimalomnál a Lūšiai-tó mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        25.994654,
-                        55.385604
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Ginučių piliakalnis",
-                  "text": "O colină fortificată istorică importantă în Parcul Național Aukštaitija.",
-                  "category": "historical",
-                  "coords": [
-                        25.985028,
-                        55.373694
-                  ]
-            },
-            {
-                  "name": "Papiliakalnės piliakalnis",
-                  "text": "O fortificație de deal pe malul Lacului Lusiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.983472,
-                        55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "O veche colină fortificată lituaniană cu vedere spre lacurile din jur.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
             {
                   "name": "Puziniškio piliakalnis",
                   "text": "O fortificație de deal lângă Puziniškis, pe Lacul Lusiai.",
@@ -4110,72 +3093,9 @@ imageHint: "Calm Sesupe river at the border area",
                         26.013972,
                         55.361111
                   ]
-            },
-            {
-                  "name": "Paukščių kaimas",
-                  "text": "O fermă educațională cu diverse specii de păsări și activități.",
-                  "category": "recreational",
-                  "coords": [
-                        25.988435,
-                        55.324478
-                  ]
-            },
-            {
-                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Așezare din epoca de piatră Kimbariškės lângă Lacul Lūšiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.983653,
-                        55.359847
-                  ]
-            },
-            {
-                  "name": "Pabiržės senovės gyvenvietė",
-                  "text": "Așezare antică Pabiržė lângă Lacul Lūšiai.",
-                  "category": "historical",
-                  "coords": [
-                        26.030528,
-                        55.336502
-                  ]
-            },
-            {
-                  "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "Plajă la moara de apă Ginučiai lângă Lacul Lūšiai.",
-                  "category": "recreational",
-                  "coords": [
-                        25.994654,
-                        55.385604
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Ginučių piliakalnis",
-                  "text": "A significant historical hillfort in the Aukštaitija National Park.",
-                  "category": "historical",
-                  "coords": [
-                        25.985028,
-                        55.373694
-                  ]
-            },
-            {
-                  "name": "Papiliakalnės piliakalnis",
-                  "text": "A hillfort on the shore of Lake Lusiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.983472,
-                        55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "An ancient Lithuanian hillfort overlooking the surrounding lakes.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
             {
                   "name": "Puziniškio piliakalnis",
                   "text": "A hillfort near Puziniškis on Lake Lusiai.",
@@ -4183,42 +3103,6 @@ imageHint: "Calm Sesupe river at the border area",
                   "coords": [
                         26.013972,
                         55.361111
-                  ]
-            },
-            {
-                  "name": "Paukščių kaimas",
-                  "text": "An educational farm featuring various bird species and activities.",
-                  "category": "recreational",
-                  "coords": [
-                        25.988435,
-                        55.324478
-                  ]
-            },
-            {
-                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Stone Age settlement Kimbariškės near Lake Lūšiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.983653,
-                        55.359847
-                  ]
-            },
-            {
-                  "name": "Pabiržės senovės gyvenvietė",
-                  "text": "Ancient settlement Pabiržė near Lake Lūšiai.",
-                  "category": "historical",
-                  "coords": [
-                        26.030528,
-                        55.336502
-                  ]
-            },
-            {
-                  "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "Beach at Ginučiai water mill near Lake Lūšiai.",
-                  "category": "recreational",
-                  "coords": [
-                        25.994654,
-                        55.385604
                   ]
             }
       ]
@@ -4930,15 +3814,6 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
                   ]
             },
             {
-                  "name": "Martyno Jankaus muziejus",
-                  "text": "Ein Museum, das dem litauischen Verleger Martynas Jankus gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        22.047767,
-                        55.082884
-                  ]
-            },
-            {
                   "name": "Rombinus",
                   "text": "Ein heiliger Hügel und bekannter Aussichtspunkt am Fluss Memel.",
                   "category": "natural",
@@ -4982,15 +3857,6 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
                         22.027798,
                         55.086648
                   ]
-            },
-            {
-                  "name": "Gandru kolonija",
-                  "text": "Ein Beobachtungsort für eine lokale Storchenkolonie bei Rambynas Hill.",
-                  "category": "landmark",
-                  "coords": [
-                        22.04376,
-                        55.081267
-                  ]
             }
       ],
       "hu": [
@@ -5001,15 +3867,6 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
                   "coords": [
                         22.020915,
                         55.086716
-                  ]
-            },
-            {
-                  "name": "Martyno Jankaus muziejus",
-                  "text": "Múzeum, amelyet Martynas Jankus litván nyomdász emlékének szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        22.047767,
-                        55.082884
                   ]
             },
             {
@@ -5056,15 +3913,6 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
                         22.027798,
                         55.086648
                   ]
-            },
-            {
-                  "name": "Gandru kolonija",
-                  "text": "Helyi gólyakolónia megfigyelőhelye a Rambynas-domb közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        22.04376,
-                        55.081267
-                  ]
             }
       ],
       "ro": [
@@ -5075,15 +3923,6 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
                   "coords": [
                         22.020915,
                         55.086716
-                  ]
-            },
-            {
-                  "name": "Martyno Jankaus muziejus",
-                  "text": "Un muzeu dedicat editorului lituanian Martynas Jankus.",
-                  "category": "museum",
-                  "coords": [
-                        22.047767,
-                        55.082884
                   ]
             },
             {
@@ -5130,15 +3969,6 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
                         22.027798,
                         55.086648
                   ]
-            },
-            {
-                  "name": "Gandru kolonija",
-                  "text": "Un loc de observare pentru o colonie locală de berze lângă Rambynas Hill.",
-                  "category": "landmark",
-                  "coords": [
-                        22.04376,
-                        55.081267
-                  ]
             }
       ],
       "en": [
@@ -5149,15 +3979,6 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
                   "coords": [
                         22.020915,
                         55.086716
-                  ]
-            },
-            {
-                  "name": "Martyno Jankaus muziejus",
-                  "text": "A museum dedicated to the Lithuanian publisher Martynas Jankus.",
-                  "category": "museum",
-                  "coords": [
-                        22.047767,
-                        55.082884
                   ]
             },
             {
@@ -5203,15 +4024,6 @@ imageHint: "Steep sandy cliff at the Baltic Sea shore",
                   "coords": [
                         22.027798,
                         55.086648
-                  ]
-            },
-            {
-                  "name": "Gandru kolonija",
-                  "text": "An observation site for a local stork colony near Rambynas Hill.",
-                  "category": "landmark",
-                  "coords": [
-                        22.04376,
-                        55.081267
                   ]
             }
       ]

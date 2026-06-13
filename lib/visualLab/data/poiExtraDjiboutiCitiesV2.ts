@@ -1538,50 +1538,10 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }, image: "/poi-images/balho-cities-v2.webp"},
   {
     id: "khor-angar-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Boûri San",
-                  "text": "Vulkanischer Hügelkamm bei Angar, Djibouti.",
-                  "category": "natural",
-                  "coords": [
-                        43.3293,
-                        12.364328
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Boûri San",
-                  "text": "Vulkanikus gerinc Angar közelében, Dzsibuti.",
-                  "category": "natural",
-                  "coords": [
-                        43.3293,
-                        12.364328
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Boûri San",
-                  "text": "Creastă vulcanică lângă Angar, Djibouti.",
-                  "category": "natural",
-                  "coords": [
-                        43.3293,
-                        12.364328
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Boûri San",
-                  "text": "Volcanic ridge near Angar, Djibouti.",
-                  "category": "natural",
-                  "coords": [
-                        43.3293,
-                        12.364328
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "DJ-OB",
@@ -1762,15 +1722,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     id: "assamo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Fort Assamo",
-                  "text": "Historische Festung in Assamo.",
-                  "category": "fortress",
-                  "coords": [
-                        42.83925,
-                        10.985424
-                  ]
-            },
-            {
                   "name": "Golẖol",
                   "text": "Runder Hügel im Trockental von Assamo, Djibouti.",
                   "category": "natural",
@@ -1790,15 +1741,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Fort Assamo",
-                  "text": "Történelmi erőd Assamóban.",
-                  "category": "fortress",
-                  "coords": [
-                        42.83925,
-                        10.985424
-                  ]
-            },
             {
                   "name": "Golẖol",
                   "text": "Kerek domb az Assamo száraz völgyében, Dzsibuti.",
@@ -1820,15 +1762,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Fort Assamo",
-                  "text": "Fortăreață istorică în Assamo.",
-                  "category": "fortress",
-                  "coords": [
-                        42.83925,
-                        10.985424
-                  ]
-            },
-            {
                   "name": "Golẖol",
                   "text": "Deal rotund în valea secată a Assamo, Djibouti.",
                   "category": "natural",
@@ -1848,15 +1781,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Fort Assamo",
-                  "text": "Historic fortress in Assamo.",
-                  "category": "fortress",
-                  "coords": [
-                        42.83925,
-                        10.985424
-                  ]
-            },
             {
                   "name": "Golẖol",
                   "text": "Round hill in the dry valley of Assamo, Djibouti.",
@@ -2726,50 +2650,10 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }, image: "/poi-images/daoudaouya-cities-v2.webp"},
   {
     id: "doumera-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gabla",
-                  "text": "Hügel nahe der Salzpfannen von Doumera.",
-                  "category": "natural",
-                  "coords": [
-                        43.134631,
-                        12.711255
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gabla",
-                  "text": "Domb a Doumera-i sómedencék közelében.",
-                  "category": "natural",
-                  "coords": [
-                        43.134631,
-                        12.711255
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gabla",
-                  "text": "Deal în apropierea tăvilor de sare de la Doumera.",
-                  "category": "natural",
-                  "coords": [
-                        43.134631,
-                        12.711255
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gabla",
-                  "text": "Hill near the salt pans of Doumera.",
-                  "category": "natural",
-                  "coords": [
-                        43.134631,
-                        12.711255
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "DJ-OB",
@@ -4125,15 +4009,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nostra",
-                  "text": "Wahrzeichen namens \"Nostra\" in der Stadt A.",
-                  "category": "landmark",
-                  "coords": [
-                        42.822124,
-                        11.495607
-                  ]
-            },
-            {
                   "name": "UNITE MIDNIMO",
                   "text": "Wahrzeichen mit der Aufschrift \"UNITE MIDNIMO\" in der Stadt A.",
                   "category": "landmark",
@@ -4214,15 +4089,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
                   "coords": [
                         42.823348,
                         11.494665
-                  ]
-            },
-            {
-                  "name": "Nostra",
-                  "text": "\"Nostra\" nevű nevezetesség A városában.",
-                  "category": "landmark",
-                  "coords": [
-                        42.822124,
-                        11.495607
                   ]
             },
             {
@@ -4309,15 +4175,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nostra",
-                  "text": "Reper numit \"Nostra\" în orașul A.",
-                  "category": "landmark",
-                  "coords": [
-                        42.822124,
-                        11.495607
-                  ]
-            },
-            {
                   "name": "UNITE MIDNIMO",
                   "text": "Reper cu inscripția \"UNITE MIDNIMO\" în orașul A.",
                   "category": "landmark",
@@ -4398,15 +4255,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
                   "coords": [
                         42.823348,
                         11.494665
-                  ]
-            },
-            {
-                  "name": "Nostra",
-                  "text": "Landmark called \"Nostra\" in the city of A.",
-                  "category": "landmark",
-                  "coords": [
-                        42.822124,
-                        11.495607
                   ]
             },
             {
@@ -4603,15 +4451,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     id: "ali-adde-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ḏaba‘as",
-                  "text": "Der Berggipfel Ḏaba‘as erhebt sich schroff in der Wüstenlandschaft nahe Ali Addé.",
-                  "category": "natural",
-                  "coords": [
-                        42.866667,
-                        11.116667
-                  ]
-            },
-            {
                   "name": "Fort d'Ali-Addé",
                   "text": "Das historische Fort d'Ali-Addé diente einst der militärischen Kontrolle der Region um Ali Addé.",
                   "category": "landmark",
@@ -4622,15 +4461,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ḏaba‘as",
-                  "text": "A Ḏaba‘as hegycsúcs meredeken magasodik az Ali Addé közeli sivatagi tájon.",
-                  "category": "natural",
-                  "coords": [
-                        42.866667,
-                        11.116667
-                  ]
-            },
             {
                   "name": "Fort d'Ali-Addé",
                   "text": "A történelmi Fort d'Ali-Addé egykor az Ali Addé körüli régió katonai ellenőrzésére szolgált.",
@@ -4643,15 +4473,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ḏaba‘as",
-                  "text": "Vârful Ḏaba‘as se ridică abrupt în peisajul deșertic din apropiere de Ali Addé.",
-                  "category": "natural",
-                  "coords": [
-                        42.866667,
-                        11.116667
-                  ]
-            },
-            {
                   "name": "Fort d'Ali-Addé",
                   "text": "Istoricul Fort d'Ali-Addé servea cândva pentru controlul militar al regiunii din jurul orașului Ali Addé.",
                   "category": "landmark",
@@ -4662,15 +4483,6 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ḏaba‘as",
-                  "text": "The Ḏaba‘as peak rises abruptly in the desert landscape near Ali Addé.",
-                  "category": "natural",
-                  "coords": [
-                        42.866667,
-                        11.116667
-                  ]
-            },
             {
                   "name": "Fort d'Ali-Addé",
                   "text": "The historic Fort d'Ali-Addé once served as a military control point in the region around Ali Addé.",
@@ -5015,122 +4827,10 @@ export const poiExtraDjiboutiCitiesV2: POI[] = [
     }, image: "/poi-images/galileh-cities-v2.webp"},
   {
     id: "negad-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Air Ops",
-                  "text": "Ehemaliges Luftoperationszentrum in Negad.",
-                  "category": "landmark",
-                  "coords": [
-                        43.148235,
-                        11.543866
-                  ]
-            },
-            {
-                  "name": "Air Djibouti",
-                  "text": "Ehemaliger Hauptsitz von Air Djibouti in Negad.",
-                  "category": "historical",
-                  "coords": [
-                        43.146374,
-                        11.558739
-                  ]
-            },
-            {
-                  "name": "Beechcraft Model 18",
-                  "text": "Die Beechcraft Model 18 ist ein Denkmal in Negad.",
-                  "category": "historical",
-                  "coords": [
-                        43.149993,
-                        11.552931
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Air Ops",
-                  "text": "Egykori légiműveleti központ Negadban.",
-                  "category": "landmark",
-                  "coords": [
-                        43.148235,
-                        11.543866
-                  ]
-            },
-            {
-                  "name": "Air Djibouti",
-                  "text": "Az Air Djibouti egykori központja Negadban.",
-                  "category": "historical",
-                  "coords": [
-                        43.146374,
-                        11.558739
-                  ]
-            },
-            {
-                  "name": "Beechcraft Model 18",
-                  "text": "A Beechcraft Model 18 egy emlékmű Negad városában.",
-                  "category": "historical",
-                  "coords": [
-                        43.149993,
-                        11.552931
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Air Ops",
-                  "text": "Fost centru de operațiuni aeriene în Negad.",
-                  "category": "landmark",
-                  "coords": [
-                        43.148235,
-                        11.543866
-                  ]
-            },
-            {
-                  "name": "Air Djibouti",
-                  "text": "Fostul sediu al Air Djibouti în Negad.",
-                  "category": "historical",
-                  "coords": [
-                        43.146374,
-                        11.558739
-                  ]
-            },
-            {
-                  "name": "Beechcraft Model 18",
-                  "text": "Beechcraft Model 18 este un monument situat în Negad.",
-                  "category": "historical",
-                  "coords": [
-                        43.149993,
-                        11.552931
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Air Ops",
-                  "text": "Former air operations center in Negad.",
-                  "category": "landmark",
-                  "coords": [
-                        43.148235,
-                        11.543866
-                  ]
-            },
-            {
-                  "name": "Air Djibouti",
-                  "text": "Former headquarters of Air Djibouti in Negad.",
-                  "category": "historical",
-                  "coords": [
-                        43.146374,
-                        11.558739
-                  ]
-            },
-            {
-                  "name": "Beechcraft Model 18",
-                  "text": "Beechcraft Model 18 is an aviation-themed monument located in Negad.",
-                  "category": "historical",
-                  "coords": [
-                        43.149993,
-                        11.552931
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "DJ-AR",

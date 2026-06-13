@@ -159,24 +159,6 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     id: "taleh-fort-history-v2", "sights": {
       "de": [
             {
-                  "name": "Silsilat",
-                  "text": "Diese steinerne Festung ist ein wesentlicher Bestandteil der historischen Derwisch-Verteidigungsanlagen in Taleh.",
-                  "category": "castle",
-                  "coords": [
-                        48.420301,
-                        9.149898
-                  ]
-            },
-            {
-                  "name": "Dar Ilalo",
-                  "text": "Diese historische Burgruine gehört zu den steinernen Wehranlagen der Derwisch-Bewegung in Taleh.",
-                  "category": "castle",
-                  "coords": [
-                        48.421051,
-                        9.150995
-                  ]
-            },
-            {
                   "name": "Falat",
                   "text": "Die Überreste dieser Burg zeugen von der militärischen Architektur der Derwische in der Region Taleh.",
                   "category": "castle",
@@ -187,24 +169,6 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Silsilat",
-                  "text": "Ez a kőerőd a Talehben található történelmi dervis védelmi rendszer egyik fontos eleme.",
-                  "category": "castle",
-                  "coords": [
-                        48.420301,
-                        9.149898
-                  ]
-            },
-            {
-                  "name": "Dar Ilalo",
-                  "text": "Ez a történelmi várrom a talehi dervis mozgalom kőből épült védműveihez tartozik.",
-                  "category": "castle",
-                  "coords": [
-                        48.421051,
-                        9.150995
-                  ]
-            },
             {
                   "name": "Falat",
                   "text": "Ennek a várnak a romjai a dervisek katonai építészetéről tanúskodnak a Taleh régióban.",
@@ -217,24 +181,6 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Silsilat",
-                  "text": "Această fortăreață de piatră este o parte integrantă a complexului istoric defensiv al dervișilor din Taleh.",
-                  "category": "castle",
-                  "coords": [
-                        48.420301,
-                        9.149898
-                  ]
-            },
-            {
-                  "name": "Dar Ilalo",
-                  "text": "Această ruină istorică a unui castel aparține fortificațiilor de piatră ale mișcării dervișilor din Taleh.",
-                  "category": "castle",
-                  "coords": [
-                        48.421051,
-                        9.150995
-                  ]
-            },
-            {
                   "name": "Falat",
                   "text": "Rămășițele acestui castel stau mărturie arhitecturii militare a dervișilor din regiunea Taleh.",
                   "category": "castle",
@@ -245,24 +191,6 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Silsilat",
-                  "text": "This stone fortress forms an integral part of the historic Dervish defensive complex in Taleh.",
-                  "category": "castle",
-                  "coords": [
-                        48.420301,
-                        9.149898
-                  ]
-            },
-            {
-                  "name": "Dar Ilalo",
-                  "text": "This historic castle ruin is part of the stone fortifications built by the Dervish movement in Taleh.",
-                  "category": "castle",
-                  "coords": [
-                        48.421051,
-                        9.150995
-                  ]
-            },
             {
                   "name": "Falat",
                   "text": "The remnants of this castle showcase the military architecture of the Dervish state in the Taleh region.",

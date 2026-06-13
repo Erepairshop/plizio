@@ -1242,24 +1242,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
     id: "mokpo-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
-                  "text": "Die Gibbeumssingkeugongjang Ausstellungshalle ist ein Museum in der Industriezone von City.",
-                  "category": "museum",
-                  "coords": [
-                        126.376749,
-                        34.807924
-                  ]
-            },
-            {
-                  "name": "Art Theater Warehouse",
-                  "text": "Das Kunsttheater Warehouse ist ein kulturelles Theaterlager im Künstlerviertel von City.",
-                  "category": "cultural",
-                  "coords": [
-                        126.38502,
-                        34.794168
-                  ]
-            },
-            {
                   "name": "Yangeulsan",
                   "text": "Yangeulsan, ein Berggipfel mit felsigen Aufschlüssen und Panoramablick.",
                   "category": "natural",
@@ -1278,15 +1260,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mokpo Marine Cable Car",
-                  "text": "Die Mokpo Marine Cable Car ist eine Seilbahn über den Hafen von City.",
-                  "category": "landmark",
-                  "coords": [
-                        126.369709,
-                        34.799152
-                  ]
-            },
-            {
                   "name": "Mokpo Catholic Shrine",
                   "text": "Der Mokpo Katholische Schrein ist ein katholischer Schrein auf einem Hügel in City.",
                   "category": "landmark",
@@ -1297,24 +1270,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
-                  "text": "A Gibbeumssingkeugongjang Kiállítócsarnok egy múzeum a City ipari negyedében.",
-                  "category": "museum",
-                  "coords": [
-                        126.376749,
-                        34.807924
-                  ]
-            },
-            {
-                  "name": "Art Theater Warehouse",
-                  "text": "Az Art Theater Warehouse egy kulturális színházi raktár a City művészeti negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        126.38502,
-                        34.794168
-                  ]
-            },
             {
                   "name": "Jangeulszan",
                   "text": "Yangeulsan, egy hegycsúcs sziklás kibúvásokkal és panorámás kilátással.",
@@ -1334,15 +1289,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mokpo Marine Cable Car",
-                  "text": "A Mokpo Tengeri Sikló egy tengeri sikló, amely áthalad a City kikötőjén.",
-                  "category": "landmark",
-                  "coords": [
-                        126.369709,
-                        34.799152
-                  ]
-            },
-            {
                   "name": "Mokpo Catholic Shrine",
                   "text": "A Mokpo Katolikus Kegyhely egy katolikus szentély egy dombon Cityben.",
                   "category": "landmark",
@@ -1353,24 +1299,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
-                  "text": "Sala de Expoziții Gibbeumssingkeugongjang este un muzeu în zona industrială a orașului City.",
-                  "category": "museum",
-                  "coords": [
-                        126.376749,
-                        34.807924
-                  ]
-            },
-            {
-                  "name": "Art Theater Warehouse",
-                  "text": "Teatrul Depozit de Artă este un depozit teatral cultural în cartierul artistic din City.",
-                  "category": "cultural",
-                  "coords": [
-                        126.38502,
-                        34.794168
-                  ]
-            },
             {
                   "name": "Yangeulsan",
                   "text": "Yangeulsan, un vârf montan cu aflorimente stâncoase și vederi panoramice.",
@@ -1390,15 +1318,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mokpo Marine Cable Car",
-                  "text": "Telecabina Marină Mokpo este o telecabină care traversează portul orașului City.",
-                  "category": "landmark",
-                  "coords": [
-                        126.369709,
-                        34.799152
-                  ]
-            },
-            {
                   "name": "Mokpo Catholic Shrine",
                   "text": "Altarul Catolic Mokpo este un altar catolic pe un deal din City.",
                   "category": "landmark",
@@ -1409,24 +1328,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Gibbeumssingkeugongjang Exhibition Hall",
-                  "text": "Gibbeumssingkeugongjang Exhibition Hall is a museum in City's industrial zone.",
-                  "category": "museum",
-                  "coords": [
-                        126.376749,
-                        34.807924
-                  ]
-            },
-            {
-                  "name": "Art Theater Warehouse",
-                  "text": "Art Theater Warehouse is a cultural theater warehouse in City's arts quarter.",
-                  "category": "cultural",
-                  "coords": [
-                        126.38502,
-                        34.794168
-                  ]
-            },
             {
                   "name": "Yangeulsan",
                   "text": "Yangeulsan, a mountain peak with rocky outcrops and panoramic views.",
@@ -1443,15 +1344,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   "coords": [
                         126.416747,
                         34.813181
-                  ]
-            },
-            {
-                  "name": "Mokpo Marine Cable Car",
-                  "text": "Mokpo Marine Cable Car is a scenic cable car crossing City's harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        126.369709,
-                        34.799152
                   ]
             },
             {
@@ -4938,15 +4830,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miranda Spa Plus",
-                  "text": "Familien-Spa mit Thermalbecken und Saunen in Icheon.",
-                  "category": "family",
-                  "coords": [
-                        127.451148,
-                        37.276215
-                  ]
-            },
-            {
                   "name": "Seolbongsan Mountain",
                   "text": "Ein bekannter Berg in Icheon mit verschiedenen Wanderwegen.",
                   "category": "natural",
@@ -5036,15 +4919,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   "coords": [
                         127.427268,
                         37.274892
-                  ]
-            },
-            {
-                  "name": "Miranda Spa Plus",
-                  "text": "Családi wellness központ termálmedencékkel és szaunákkal Icheonban.",
-                  "category": "family",
-                  "coords": [
-                        127.451148,
-                        37.276215
                   ]
             },
             {
@@ -5140,15 +5014,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miranda Spa Plus",
-                  "text": "Spa de familie cu piscine termale și saune în Icheon.",
-                  "category": "family",
-                  "coords": [
-                        127.451148,
-                        37.276215
-                  ]
-            },
-            {
                   "name": "Seolbongsan Mountain",
                   "text": "Un munte cunoscut în Icheon cu diverse trasee de drumeție.",
                   "category": "natural",
@@ -5238,15 +5103,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   "coords": [
                         127.427268,
                         37.274892
-                  ]
-            },
-            {
-                  "name": "Miranda Spa Plus",
-                  "text": "Family spa with thermal pools and saunas in Icheon.",
-                  "category": "family",
-                  "coords": [
-                        127.451148,
-                        37.276215
                   ]
             },
             {
@@ -5620,15 +5476,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Nine Royal Tombs, Guri",
-                  "text": "Nouă morminte regale ale dinastiei Joseon în Guri, cu movile acoperite cu iarbă.",
-                  "category": "landmark",
-                  "coords": [
-                        127.131921,
-                        37.618957
-                  ]
-            },
-            {
                   "name": "Gyeonggi Pyeonghaegil Trail Course 1 Stamp (Mangu Pass)",
                   "text": "Stație de ștampilă pentru traseul de drumeție Gyeonggi Pyeonghaegil la trecătoarea Mangu.",
                   "category": "landmark",
@@ -5718,15 +5565,6 @@ export const poiExtraSouthkoreaCitiesV2: POI[] = [
                   "coords": [
                         127.130497,
                         37.597078
-                  ]
-            },
-            {
-                  "name": "East Nine Royal Tombs, Guri",
-                  "text": "Nine royal tombs of the Joseon dynasty in Guri with grass-covered mounds.",
-                  "category": "landmark",
-                  "coords": [
-                        127.131921,
-                        37.618957
                   ]
             },
             {

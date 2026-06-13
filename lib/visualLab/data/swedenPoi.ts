@@ -531,48 +531,12 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ösbysjön",
-                  "text": "Der Ösbysjön in Stockholm ist ein beliebter See für Naturliebhaber und Wanderer.",
-                  "category": "natural",
-                  "coords": [
-                        18.06346,
-                        59.402278
-                  ]
-            },
-            {
                   "name": "Svandammen",
                   "text": "Swan Pond ist ein kleiner See in Stockholm, der zum Beobachten der Natur einlädt.",
                   "category": "natural",
                   "coords": [
                         18.104536,
                         59.326962
-                  ]
-            },
-            {
-                  "name": "Långsjön",
-                  "text": "Långsjön ist ein See in Stockholm, der ideale Bedingungen zum Wandern und Entspannen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.188934,
-                        59.306921
-                  ]
-            },
-            {
-                  "name": "Ulvsjön",
-                  "text": "Der Ulvsjön in Stockholm ist ein ruhiger See, der sich gut für Ausflüge in die Natur eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.163939,
-                        59.277158
-                  ]
-            },
-            {
-                  "name": "Lillsjön",
-                  "text": "Lillsjön ist ein See in Stockholm, der von schöner Natur für Spaziergänge umgeben ist.",
-                  "category": "natural",
-                  "coords": [
-                        17.957366,
-                        59.340979
                   ]
             },
             {
@@ -585,69 +549,6 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Näckrosdammen",
-                  "text": "Näckrosdammen ist ein malerischer See in Stockholm, bekannt für seine ruhige Atmosphäre.",
-                  "category": "natural",
-                  "coords": [
-                        17.986662,
-                        59.368501
-                  ]
-            },
-            {
-                  "name": "Bastusjön",
-                  "text": "Der Bastusjön in Stockholm bietet eine schöne Umgebung für Aktivitäten im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        18.209083,
-                        59.317061
-                  ]
-            },
-            {
-                  "name": "Söderbysjön",
-                  "text": "Der Söderbysjön ist ein See in Stockholm, der zum Wandern und Genießen der Landschaft einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.149375,
-                        59.282706
-                  ]
-            },
-            {
-                  "name": "Husarviken",
-                  "text": "Husarviken ist ein See in Stockholm, der sich gut für erholsame Spaziergänge am Wasser eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.091428,
-                        59.359442
-                  ]
-            },
-            {
-                  "name": "Ekholmsnässjön",
-                  "text": "Ekholmsnässjön ist ein See in Stockholm, der eine attraktive Kulisse für Naturerlebnisse bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.199703,
-                        59.361356
-                  ]
-            },
-            {
-                  "name": "Gråviken",
-                  "text": "Gråviken ist ein See in Stockholm, der ideal für ruhige Momente in der Natur ist.",
-                  "category": "natural",
-                  "coords": [
-                        18.19292,
-                        59.367066
-                  ]
-            },
-            {
-                  "name": "Kolbottensjön",
-                  "text": "Der Kolbottensjön in Stockholm bietet eine natürliche Umgebung für Spaziergänge und Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        18.193798,
-                        59.300366
-                  ]
-            },
-            {
                   "name": "Källtorpssjön",
                   "text": "Der Källtorpssjön ist ein See in Stockholm, der für seine Wanderwege und Naturschönheit bekannt ist.",
                   "category": "natural",
@@ -657,57 +558,12 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mälarsee",
-                  "text": "Mälaren ist ein großer See in Stockholm, der zahlreiche Möglichkeiten für Wassersport und Erholung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        17.039325,
-                        59.494738
-                  ]
-            },
-            {
-                  "name": "Råstasjön",
-                  "text": "Der Råstasjön in Stockholm ist ein See, der für seine Vogelwelt und Spazierwege beliebt ist.",
-                  "category": "natural",
-                  "coords": [
-                        17.988997,
-                        59.372169
-                  ]
-            },
-            {
-                  "name": "Edsviken",
-                  "text": "Edsviken ist ein See in Stockholm, der eine schöne Uferlandschaft für Freizeitaktivitäten bietet.",
-                  "category": "natural",
-                  "coords": [
-                        17.994309,
-                        59.41461
-                  ]
-            },
-            {
                   "name": "Dammtorpssjön",
                   "text": "Dammtorpssjön ist ein See in Stockholm, ideal für Naturbeobachtungen und ruhige Spaziergänge.",
                   "category": "natural",
                   "coords": [
                         18.148198,
                         59.290506
-                  ]
-            },
-            {
-                  "name": "Lappkärret",
-                  "text": "Lappkärret ist ein kleiner See in Stockholm, der eine naturnahe Atmosphäre bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.068433,
-                        59.368685
-                  ]
-            },
-            {
-                  "name": "Olovslundsdammen",
-                  "text": "Der Olovslundsdammen in Stockholm ist ein ruhiges Gewässer, das zum Entspannen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        17.940851,
-                        59.329808
                   ]
             },
             {
@@ -726,15 +582,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.162204,
                         59.30306
-                  ]
-            },
-            {
-                  "name": "Lötsjön",
-                  "text": "Lötsjön ist ein See in Stockholm, der von Parkanlagen umgeben und beliebt für Spaziergänge ist.",
-                  "category": "natural",
-                  "coords": [
-                        17.967545,
-                        59.371636
                   ]
             },
             {
@@ -798,15 +645,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.072063,
                         59.304763
-                  ]
-            },
-            {
-                  "name": "Smedsuddbadet",
-                  "text": "Ein beliebter Sandstrand im Stadtteil Kungsholmen in Stockholm.",
-                  "category": "recreational",
-                  "coords": [
-                        18.021073,
-                        59.324945
                   ]
             }
       ],
@@ -1298,48 +1136,12 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ösbysjön",
-                  "text": "Az Ösbysjön egy népszerű tó Stockholmban a természetkedvelők és kirándulók körében.",
-                  "category": "natural",
-                  "coords": [
-                        18.06346,
-                        59.402278
-                  ]
-            },
-            {
                   "name": "Svandammen",
                   "text": "A Swan Pond egy kis tó Stockholmban, amely a természet megfigyelésére invitál.",
                   "category": "natural",
                   "coords": [
                         18.104536,
                         59.326962
-                  ]
-            },
-            {
-                  "name": "Långsjön",
-                  "text": "Långsjön egy tó Stockholmban, amely ideális feltételeket biztosít a túrázáshoz és pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        18.188934,
-                        59.306921
-                  ]
-            },
-            {
-                  "name": "Ulvsjön",
-                  "text": "Az Ulvsjön egy csendes tó Stockholmban, amely alkalmas természeti kirándulásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.163939,
-                        59.277158
-                  ]
-            },
-            {
-                  "name": "Lillsjön",
-                  "text": "Lillsjön egy tó Stockholmban, amelyet szép természet vesz körül a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        17.957366,
-                        59.340979
                   ]
             },
             {
@@ -1352,69 +1154,6 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Näckrosdammen",
-                  "text": "A Näckrosdammen egy festői tó Stockholmban, amely nyugodt légköréről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        17.986662,
-                        59.368501
-                  ]
-            },
-            {
-                  "name": "Bastusjön",
-                  "text": "A Bastusjön Stockholmban szép környezetet kínál a szabadtéri tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        18.209083,
-                        59.317061
-                  ]
-            },
-            {
-                  "name": "Söderbysjön",
-                  "text": "A Söderbysjön egy tó Stockholmban, amely túrázásra és a táj élvezetére invitál.",
-                  "category": "natural",
-                  "coords": [
-                        18.149375,
-                        59.282706
-                  ]
-            },
-            {
-                  "name": "Husarviken",
-                  "text": "Husarviken egy tó Stockholmban, amely alkalmas pihentető sétákra a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        18.091428,
-                        59.359442
-                  ]
-            },
-            {
-                  "name": "Ekholmsnässjön",
-                  "text": "Az Ekholmsnässjön egy tó Stockholmban, amely vonzó környezetet biztosít a természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.199703,
-                        59.361356
-                  ]
-            },
-            {
-                  "name": "Gråviken",
-                  "text": "A Gråviken egy tó Stockholmban, amely ideális a természetben töltött csendes pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.19292,
-                        59.367066
-                  ]
-            },
-            {
-                  "name": "Kolbottensjön",
-                  "text": "A Kolbottensjön Stockholmban természetes környezetet kínál a sétákhoz és a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.193798,
-                        59.300366
-                  ]
-            },
-            {
                   "name": "Källtorpssjön",
                   "text": "A Källtorpssjön egy tó Stockholmban, amely túraútvonalairól és természeti szépségéről ismert.",
                   "category": "natural",
@@ -1424,57 +1163,12 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mälaren",
-                  "text": "A Mälaren egy nagy tó Stockholmban, amely számos vízisport- és kikapcsolódási lehetőséget kínál.",
-                  "category": "natural",
-                  "coords": [
-                        17.039325,
-                        59.494738
-                  ]
-            },
-            {
-                  "name": "Råstasjön",
-                  "text": "A Råstasjön Stockholmban egy tó, amely madárvilágáról és sétányairól kedvelt.",
-                  "category": "natural",
-                  "coords": [
-                        17.988997,
-                        59.372169
-                  ]
-            },
-            {
-                  "name": "Edsviken",
-                  "text": "Az Edsviken egy tó Stockholmban, amely szép vízparti tájat kínál a szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        17.994309,
-                        59.41461
-                  ]
-            },
-            {
                   "name": "Dammtorpssjön",
                   "text": "A Dammtorpssjön egy tó Stockholmban, amely ideális természetmegfigyelésre és csendes sétákra.",
                   "category": "natural",
                   "coords": [
                         18.148198,
                         59.290506
-                  ]
-            },
-            {
-                  "name": "Lappkärret",
-                  "text": "Lappkärret egy kis tó Stockholmban, amely természetközeli hangulatot áraszt.",
-                  "category": "natural",
-                  "coords": [
-                        18.068433,
-                        59.368685
-                  ]
-            },
-            {
-                  "name": "Olovslundsdammen",
-                  "text": "Az Olovslundsdammen Stockholmban egy csendes vízfelület, amely pihenésre invitál.",
-                  "category": "natural",
-                  "coords": [
-                        17.940851,
-                        59.329808
                   ]
             },
             {
@@ -1493,15 +1187,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.162204,
                         59.30306
-                  ]
-            },
-            {
-                  "name": "Lötsjön",
-                  "text": "Lötsjön egy tó Stockholmban, amelyet parkok vesznek körül, és kedvelt a sétálók körében.",
-                  "category": "natural",
-                  "coords": [
-                        17.967545,
-                        59.371636
                   ]
             },
             {
@@ -1565,15 +1250,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.072063,
                         59.304763
-                  ]
-            },
-            {
-                  "name": "Smedsuddbadet",
-                  "text": "Népszerű homokos strand Stockholm Kungsholmen negyedében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.021073,
-                        59.324945
                   ]
             }
       ],
@@ -2065,48 +1741,12 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ösbysjön",
-                  "text": "Ösbysjön din Stockholm este un lac popular pentru iubitorii de natură și drumeții.",
-                  "category": "natural",
-                  "coords": [
-                        18.06346,
-                        59.402278
-                  ]
-            },
-            {
                   "name": "Svandammen",
                   "text": "Swan Pond este un lac mic în Stockholm, care invită la observarea naturii.",
                   "category": "natural",
                   "coords": [
                         18.104536,
                         59.326962
-                  ]
-            },
-            {
-                  "name": "Långsjön",
-                  "text": "Långsjön este un lac în Stockholm, oferind condiții ideale pentru drumeții și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        18.188934,
-                        59.306921
-                  ]
-            },
-            {
-                  "name": "Ulvsjön",
-                  "text": "Ulvsjön din Stockholm este un lac liniștit, potrivit pentru excursii în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.163939,
-                        59.277158
-                  ]
-            },
-            {
-                  "name": "Lillsjön",
-                  "text": "Lillsjön este un lac în Stockholm, înconjurat de natură frumoasă pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        17.957366,
-                        59.340979
                   ]
             },
             {
@@ -2119,69 +1759,6 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Näckrosdammen",
-                  "text": "Näckrosdammen este un lac pitoresc în Stockholm, cunoscut pentru atmosfera sa liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        17.986662,
-                        59.368501
-                  ]
-            },
-            {
-                  "name": "Bastusjön",
-                  "text": "Bastusjön din Stockholm oferă un cadru frumos pentru activități în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        18.209083,
-                        59.317061
-                  ]
-            },
-            {
-                  "name": "Söderbysjön",
-                  "text": "Söderbysjön este un lac în Stockholm, care invită la drumeții și la admirarea peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        18.149375,
-                        59.282706
-                  ]
-            },
-            {
-                  "name": "Husarviken",
-                  "text": "Husarviken este un lac în Stockholm, potrivit pentru plimbări relaxante pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        18.091428,
-                        59.359442
-                  ]
-            },
-            {
-                  "name": "Ekholmsnässjön",
-                  "text": "Ekholmsnässjön este un lac în Stockholm, oferind un cadru atractiv pentru experiențe în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.199703,
-                        59.361356
-                  ]
-            },
-            {
-                  "name": "Gråviken",
-                  "text": "Gråviken este un lac în Stockholm, ideal pentru momente de liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.19292,
-                        59.367066
-                  ]
-            },
-            {
-                  "name": "Kolbottensjön",
-                  "text": "Kolbottensjön din Stockholm oferă un cadru natural pentru plimbări și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        18.193798,
-                        59.300366
-                  ]
-            },
-            {
                   "name": "Källtorpssjön",
                   "text": "Källtorpssjön este un lac în Stockholm, cunoscut pentru traseele sale de drumeție și frumusețea naturală.",
                   "category": "natural",
@@ -2191,57 +1768,12 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mälaren",
-                  "text": "Mälaren este un lac mare în Stockholm, oferind numeroase oportunități pentru sporturi nautice și recreere.",
-                  "category": "natural",
-                  "coords": [
-                        17.039325,
-                        59.494738
-                  ]
-            },
-            {
-                  "name": "Råstasjön",
-                  "text": "Råstasjön din Stockholm este un lac popular pentru fauna sa ornitologică și aleile de plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        17.988997,
-                        59.372169
-                  ]
-            },
-            {
-                  "name": "Edsviken",
-                  "text": "Edsviken este un lac în Stockholm, oferind un peisaj frumos la malul apei pentru activități de agrement.",
-                  "category": "natural",
-                  "coords": [
-                        17.994309,
-                        59.41461
-                  ]
-            },
-            {
                   "name": "Dammtorpssjön",
                   "text": "Dammtorpssjön este un lac în Stockholm, ideal pentru observarea naturii și plimbări liniștite.",
                   "category": "natural",
                   "coords": [
                         18.148198,
                         59.290506
-                  ]
-            },
-            {
-                  "name": "Lappkärret",
-                  "text": "Lappkärret este un lac mic în Stockholm, oferind o atmosferă apropiată de natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.068433,
-                        59.368685
-                  ]
-            },
-            {
-                  "name": "Olovslundsdammen",
-                  "text": "Olovslundsdammen din Stockholm este un ochi de apă liniștit, care invită la relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        17.940851,
-                        59.329808
                   ]
             },
             {
@@ -2260,15 +1792,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.162204,
                         59.30306
-                  ]
-            },
-            {
-                  "name": "Lötsjön",
-                  "text": "Lötsjön este un lac în Stockholm, înconjurat de parcuri și popular pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        17.967545,
-                        59.371636
                   ]
             },
             {
@@ -2332,15 +1855,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.072063,
                         59.304763
-                  ]
-            },
-            {
-                  "name": "Smedsuddbadet",
-                  "text": "O plajă populară cu nisip în districtul Kungsholmen din Stockholm.",
-                  "category": "recreational",
-                  "coords": [
-                        18.021073,
-                        59.324945
                   ]
             }
       ],
@@ -2832,48 +2346,12 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ösbysjön",
-                  "text": "Ösbysjön in Stockholm is a popular lake for nature lovers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        18.06346,
-                        59.402278
-                  ]
-            },
-            {
                   "name": "Swan Pond",
                   "text": "Swan Pond is a small lake in Stockholm, inviting visitors to observe nature and enjoy the view.",
                   "category": "natural",
                   "coords": [
                         18.104536,
                         59.326962
-                  ]
-            },
-            {
-                  "name": "Långsjön",
-                  "text": "Långsjön is a lake in Stockholm, providing ideal conditions for hiking and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        18.188934,
-                        59.306921
-                  ]
-            },
-            {
-                  "name": "Ulvsjön",
-                  "text": "Ulvsjön in Stockholm is a quiet lake, suitable for nature excursions and peaceful walks.",
-                  "category": "natural",
-                  "coords": [
-                        18.163939,
-                        59.277158
-                  ]
-            },
-            {
-                  "name": "Lillsjön",
-                  "text": "Lillsjön is a lake in Stockholm, surrounded by beautiful nature for walks and outdoor activities.",
-                  "category": "natural",
-                  "coords": [
-                        17.957366,
-                        59.340979
                   ]
             },
             {
@@ -2886,69 +2364,6 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Näckrosdammen",
-                  "text": "Näckrosdammen is a scenic lake in Stockholm, known for its peaceful atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        17.986662,
-                        59.368501
-                  ]
-            },
-            {
-                  "name": "Bastusjön",
-                  "text": "Bastusjön in Stockholm offers a lovely environment for outdoor activities and nature walks.",
-                  "category": "natural",
-                  "coords": [
-                        18.209083,
-                        59.317061
-                  ]
-            },
-            {
-                  "name": "Söderbysjön",
-                  "text": "Söderbysjön is a lake in Stockholm, inviting visitors to hike and enjoy the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        18.149375,
-                        59.282706
-                  ]
-            },
-            {
-                  "name": "Husarviken",
-                  "text": "Husarviken is a lake in Stockholm, suitable for relaxing walks along the waterfront.",
-                  "category": "natural",
-                  "coords": [
-                        18.091428,
-                        59.359442
-                  ]
-            },
-            {
-                  "name": "Ekholmsnässjön",
-                  "text": "Ekholmsnässjön is a lake in Stockholm, providing an attractive backdrop for nature experiences.",
-                  "category": "natural",
-                  "coords": [
-                        18.199703,
-                        59.361356
-                  ]
-            },
-            {
-                  "name": "Gråviken",
-                  "text": "Gråviken is a lake in Stockholm, ideal for quiet moments in nature and scenic views.",
-                  "category": "natural",
-                  "coords": [
-                        18.19292,
-                        59.367066
-                  ]
-            },
-            {
-                  "name": "Kolbottensjön",
-                  "text": "Kolbottensjön in Stockholm offers a natural environment for walking and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        18.193798,
-                        59.300366
-                  ]
-            },
-            {
                   "name": "Källtorpssjön",
                   "text": "Källtorpssjön is a lake in Stockholm, known for its hiking trails and natural beauty.",
                   "category": "natural",
@@ -2958,57 +2373,12 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mälaren",
-                  "text": "Mälaren is a large lake in Stockholm, offering many opportunities for water sports and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        17.039325,
-                        59.494738
-                  ]
-            },
-            {
-                  "name": "Råstasjön",
-                  "text": "Råstasjön in Stockholm is a lake popular for its birdlife and scenic walking paths.",
-                  "category": "natural",
-                  "coords": [
-                        17.988997,
-                        59.372169
-                  ]
-            },
-            {
-                  "name": "Edsviken",
-                  "text": "Edsviken is a lake in Stockholm, offering a beautiful shoreline landscape for leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        17.994309,
-                        59.41461
-                  ]
-            },
-            {
                   "name": "Dammtorpssjön",
                   "text": "Dammtorpssjön is a lake in Stockholm, ideal for nature observation and quiet walks.",
                   "category": "natural",
                   "coords": [
                         18.148198,
                         59.290506
-                  ]
-            },
-            {
-                  "name": "Lappkärret",
-                  "text": "Lappkärret is a small lake in Stockholm, offering a nature-oriented atmosphere for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        18.068433,
-                        59.368685
-                  ]
-            },
-            {
-                  "name": "Olovslundsdammen",
-                  "text": "Olovslundsdammen in Stockholm is a quiet body of water that invites visitors to relax.",
-                  "category": "natural",
-                  "coords": [
-                        17.940851,
-                        59.329808
                   ]
             },
             {
@@ -3027,15 +2397,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.162204,
                         59.30306
-                  ]
-            },
-            {
-                  "name": "Lötsjön",
-                  "text": "Lötsjön is a lake in Stockholm, surrounded by parkland and popular for scenic walks.",
-                  "category": "natural",
-                  "coords": [
-                        17.967545,
-                        59.371636
                   ]
             },
             {
@@ -3099,15 +2460,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         18.072063,
                         59.304763
-                  ]
-            },
-            {
-                  "name": "Smedsuddbadet",
-                  "text": "A popular sandy beach in the Kungsholmen district of Stockholm.",
-                  "category": "recreational",
-                  "coords": [
-                        18.021073,
-                        59.324945
                   ]
             }
       ]
@@ -5822,15 +5174,6 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ribersborgsstranden",
-                  "text": "Ein beliebter Sandstrand mit Badehäusern in Malmö.",
-                  "category": "recreational",
-                  "coords": [
-                        12.960453,
-                        55.602398
-                  ]
-            },
-            {
                   "name": "Malmö Museer Slottsholmen",
                   "text": "Der Hauptteil der Museen von Malmö in der historischen Burg.",
                   "category": "museum",
@@ -6544,15 +5887,6 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ribersborgsstranden",
-                  "text": "Népszerű homokos strand fürdőházakkal Malmőben.",
-                  "category": "recreational",
-                  "coords": [
-                        12.960453,
-                        55.602398
-                  ]
-            },
-            {
                   "name": "Malmö Museer Slottsholmen",
                   "text": "A malmői múzeumok fő része a történelmi várban.",
                   "category": "museum",
@@ -7263,15 +6597,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         12.975995,
                         55.594949
-                  ]
-            },
-            {
-                  "name": "Ribersborgsstranden",
-                  "text": "O plajă de nisip populară cu cabine de baie în Malmö.",
-                  "category": "recreational",
-                  "coords": [
-                        12.960453,
-                        55.602398
                   ]
             },
             {
@@ -8889,15 +8214,6 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mälarsee",
-                  "text": "Mälaren bei Uppsala ist ein beliebtes Ziel für Bootsausflüge und Freizeitaktivitäten am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        17.039325,
-                        59.494738
-                  ]
-            },
-            {
                   "name": "Röbo naturlekplats",
                   "text": "Röbo naturlekplats ist ein Naturspielplatz in Uppsala, der Kindern ein naturnahes Spielerlebnis bietet.",
                   "category": "family",
@@ -9572,15 +8888,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         17.620313,
                         59.893687
-                  ]
-            },
-            {
-                  "name": "Mälaren",
-                  "text": "A Mälaren Uppsala közelében a hajókirándulások és vízparti tevékenységek kedvelt célpontja.",
-                  "category": "natural",
-                  "coords": [
-                        17.039325,
-                        59.494738
                   ]
             },
             {
@@ -10261,15 +9568,6 @@ export const swedenRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mälaren",
-                  "text": "Mälaren lângă Uppsala este o destinație populară pentru excursii cu barca și activități la malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        17.039325,
-                        59.494738
-                  ]
-            },
-            {
                   "name": "Röbo naturlekplats",
                   "text": "Röbo naturlekplats este un loc de joacă în natură în Uppsala, oferind copiilor o experiență de joacă autentică.",
                   "category": "family",
@@ -10944,15 +10242,6 @@ export const swedenRegions: POI[] = [
                   "coords": [
                         17.620313,
                         59.893687
-                  ]
-            },
-            {
-                  "name": "Mälaren",
-                  "text": "Mälaren near Uppsala is a popular destination for boat trips and waterfront activities.",
-                  "category": "natural",
-                  "coords": [
-                        17.039325,
-                        59.494738
                   ]
             },
             {
@@ -25830,15 +25119,6 @@ export const swedenCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vätternsee",
-                  "text": "Der Vättern ist ein bedeutender See in Joenkoeping. Er lädt zu Spaziergängen am Ufer und zum Genießen der weiten Landschaft ein.",
-                  "category": "natural",
-                  "coords": [
-                        14.568165,
-                        58.322726
-                  ]
-            },
-            {
                   "name": "Rocksjön",
                   "text": "Rocksjön ist ein See in Joenkoeping. Die Umgebung eignet sich hervorragend für Spaziergänge und Naturbeobachtungen.",
                   "category": "natural",
@@ -26054,15 +25334,6 @@ export const swedenCities: POI[] = [
                   "coords": [
                         14.072837,
                         57.790761
-                  ]
-            },
-            {
-                  "name": "Vättern",
-                  "text": "A Vättern egy jelentős tó Joenkoepingben. Part menti sétákra és a tágas táj élvezetére invitál.",
-                  "category": "natural",
-                  "coords": [
-                        14.568165,
-                        58.322726
                   ]
             },
             {
@@ -26284,15 +25555,6 @@ export const swedenCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vättern",
-                  "text": "Vättern este un lac important în Joenkoeping. Acesta invită la plimbări pe mal și la admirarea peisajului vast.",
-                  "category": "natural",
-                  "coords": [
-                        14.568165,
-                        58.322726
-                  ]
-            },
-            {
                   "name": "Rocksjön",
                   "text": "Rocksjön este un lac în Joenkoeping. Zona este excelentă pentru plimbări și observarea naturii.",
                   "category": "natural",
@@ -26508,15 +25770,6 @@ export const swedenCities: POI[] = [
                   "coords": [
                         14.072837,
                         57.790761
-                  ]
-            },
-            {
-                  "name": "Vättern",
-                  "text": "Vättern is a major lake in Joenkoeping. It invites for walks along the shore and enjoying the vast scenery.",
-                  "category": "natural",
-                  "coords": [
-                        14.568165,
-                        58.322726
                   ]
             },
             {
@@ -28185,338 +27438,10 @@ export const swedenNature: POI[] = [
   },
   {
     id: "nat-gotland", "sights": {
-      "de": [
-            {
-                  "name": "Gotlands konstmuseum",
-                  "text": "Das Kunstmuseum in Visby präsentiert zeitgenössische und historische Kunstwerke von der Insel Gotland.",
-                  "category": "museum",
-                  "coords": [
-                        18.29363,
-                        57.63942
-                  ]
-            },
-            {
-                  "name": "Södra hällarnas naturreservat",
-                  "text": "Ein Naturschutzgebiet auf Gotland, das für seine Klippen, Küstenlandschaften und Wanderwege bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        18.260766,
-                        57.616486
-                  ]
-            },
-            {
-                  "name": "Bergbetningen",
-                  "text": "Ein Naturschutzgebiet in Visby, das seltene Pflanzenarten und eine geschützte Küstenflora beherbergt.",
-                  "category": "natural",
-                  "coords": [
-                        18.326066,
-                        57.662982
-                  ]
-            },
-            {
-                  "name": "Länsteatern",
-                  "text": "Das Regionaltheater von Gotland in Visby bietet ein vielfältiges Programm an Bühnenaufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        18.292121,
-                        57.636613
-                  ]
-            },
-            {
-                  "name": "Fenomenalen",
-                  "text": "Ein interaktives Wissenschaftszentrum in Visby, das spielerisches Lernen für Kinder und Familien ermöglicht.",
-                  "category": "museum",
-                  "coords": [
-                        18.287053,
-                        57.636887
-                  ]
-            },
-            {
-                  "name": "Gotlands Museum",
-                  "text": "Das Museum vermittelt einen umfassenden Einblick in die reiche Geschichte und Kultur der Insel Gotland.",
-                  "category": "museum",
-                  "coords": [
-                        18.292413,
-                        57.639641
-                  ]
-            },
-            {
-                  "name": "Bilmuseum Gotland",
-                  "text": "Ein Museum auf Gotland, das eine Sammlung historischer Fahrzeuge und Oldtimer aus verschiedenen Epochen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        18.251428,
-                        57.607681
-                  ]
-            },
-            {
-                  "name": "Kallbadhuset",
-                  "text": "Ein traditionelles Kaltbadehaus an der Küste von Gotland.",
-                  "category": "recreational",
-                  "coords": [
-                        18.287149,
-                        57.640435
-                  ]
-            },
-            {
-                  "name": "Äventyrsträsket",
-                  "text": "Ein Abenteuerschwimmbad mit Freizeitaktivitäten auf Gotland.",
-                  "category": "recreational",
-                  "coords": [
-                        18.244321,
-                        57.608743
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gotlands konstmuseum",
-                  "text": "A visby-i művészeti múzeum Gotland szigetéről származó kortárs és történelmi alkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        18.29363,
-                        57.63942
-                  ]
-            },
-            {
-                  "name": "Södra hällarnas naturreservat",
-                  "text": "Természetvédelmi terület Gotlandon, amely szikláiról, tengerparti tájairól és túraútvonalairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        18.260766,
-                        57.616486
-                  ]
-            },
-            {
-                  "name": "Bergbetningen",
-                  "text": "Természetvédelmi terület Visbyben, amely ritka növényfajoknak és védett parti flórának ad otthont.",
-                  "category": "natural",
-                  "coords": [
-                        18.326066,
-                        57.662982
-                  ]
-            },
-            {
-                  "name": "Länsteatern",
-                  "text": "Gotland regionális színháza Visbyben, amely változatos színpadi előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        18.292121,
-                        57.636613
-                  ]
-            },
-            {
-                  "name": "Fenomenalen",
-                  "text": "Interaktív tudományos központ Visbyben, amely játékos tanulási lehetőséget kínál gyerekeknek és családoknak.",
-                  "category": "museum",
-                  "coords": [
-                        18.287053,
-                        57.636887
-                  ]
-            },
-            {
-                  "name": "Gotlands Museum",
-                  "text": "A múzeum átfogó betekintést nyújt Gotland szigetének gazdag történelmébe és kultúrájába.",
-                  "category": "museum",
-                  "coords": [
-                        18.292413,
-                        57.639641
-                  ]
-            },
-            {
-                  "name": "Bilmuseum Gotland",
-                  "text": "Gotlandi múzeum, amely különböző korszakokból származó veterán járműveket és autókat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        18.251428,
-                        57.607681
-                  ]
-            },
-            {
-                  "name": "Kallbadhuset",
-                  "text": "Tradicionális hidegfürdő Gotland partjainál.",
-                  "category": "recreational",
-                  "coords": [
-                        18.287149,
-                        57.640435
-                  ]
-            },
-            {
-                  "name": "Äventyrsträsket",
-                  "text": "Élményfürdő szabadidős tevékenységekkel Gotland szigetén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.244321,
-                        57.608743
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gotlands konstmuseum",
-                  "text": "Muzeul de artă din Visby prezintă opere de artă contemporane și istorice de pe insula Gotland.",
-                  "category": "museum",
-                  "coords": [
-                        18.29363,
-                        57.63942
-                  ]
-            },
-            {
-                  "name": "Södra hällarnas naturreservat",
-                  "text": "O rezervație naturală pe Gotland, cunoscută pentru faleza sa, peisajele de coastă și traseele de drumeție.",
-                  "category": "natural",
-                  "coords": [
-                        18.260766,
-                        57.616486
-                  ]
-            },
-            {
-                  "name": "Bergbetningen",
-                  "text": "O rezervație naturală din Visby care adăpostește specii rare de plante și o floră de coastă protejată.",
-                  "category": "natural",
-                  "coords": [
-                        18.326066,
-                        57.662982
-                  ]
-            },
-            {
-                  "name": "Länsteatern",
-                  "text": "Teatrul regional din Gotland, situat în Visby, oferă un program variat de spectacole scenice.",
-                  "category": "cultural",
-                  "coords": [
-                        18.292121,
-                        57.636613
-                  ]
-            },
-            {
-                  "name": "Fenomenalen",
-                  "text": "Un centru științific interactiv din Visby care oferă experiențe de învățare ludice pentru copii și familii.",
-                  "category": "museum",
-                  "coords": [
-                        18.287053,
-                        57.636887
-                  ]
-            },
-            {
-                  "name": "Gotlands Museum",
-                  "text": "Muzeul oferă o perspectivă cuprinzătoare asupra istoriei și culturii bogate a insulei Gotland.",
-                  "category": "museum",
-                  "coords": [
-                        18.292413,
-                        57.639641
-                  ]
-            },
-            {
-                  "name": "Bilmuseum Gotland",
-                  "text": "Un muzeu de pe Gotland care expune o colecție de vehicule istorice și mașini de epocă din diverse perioade.",
-                  "category": "museum",
-                  "coords": [
-                        18.251428,
-                        57.607681
-                  ]
-            },
-            {
-                  "name": "Kallbadhuset",
-                  "text": "O baie tradițională cu apă rece pe coasta insulei Gotland.",
-                  "category": "recreational",
-                  "coords": [
-                        18.287149,
-                        57.640435
-                  ]
-            },
-            {
-                  "name": "Äventyrsträsket",
-                  "text": "O piscină de aventură cu activități recreative în Gotland.",
-                  "category": "recreational",
-                  "coords": [
-                        18.244321,
-                        57.608743
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gotland art museum",
-                  "text": "The art museum in Visby showcases contemporary and historical artworks from the island of Gotland.",
-                  "category": "museum",
-                  "coords": [
-                        18.29363,
-                        57.63942
-                  ]
-            },
-            {
-                  "name": "Södra hällarnas naturreservat",
-                  "text": "A nature reserve on Gotland known for its cliffs, coastal landscapes, and hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        18.260766,
-                        57.616486
-                  ]
-            },
-            {
-                  "name": "Bergbetningen",
-                  "text": "A nature reserve in Visby that is home to rare plant species and protected coastal flora.",
-                  "category": "natural",
-                  "coords": [
-                        18.326066,
-                        57.662982
-                  ]
-            },
-            {
-                  "name": "Länsteatern",
-                  "text": "The regional theatre of Gotland in Visby offers a diverse program of stage performances.",
-                  "category": "cultural",
-                  "coords": [
-                        18.292121,
-                        57.636613
-                  ]
-            },
-            {
-                  "name": "Fenomenalen",
-                  "text": "An interactive science center in Visby providing playful learning experiences for children and families.",
-                  "category": "museum",
-                  "coords": [
-                        18.287053,
-                        57.636887
-                  ]
-            },
-            {
-                  "name": "Gotlands Museum",
-                  "text": "The museum provides a comprehensive insight into the rich history and culture of the island of Gotland.",
-                  "category": "museum",
-                  "coords": [
-                        18.292413,
-                        57.639641
-                  ]
-            },
-            {
-                  "name": "Bilmuseum Gotland",
-                  "text": "A museum on Gotland displaying a collection of historical vehicles and vintage cars from different eras.",
-                  "category": "museum",
-                  "coords": [
-                        18.251428,
-                        57.607681
-                  ]
-            },
-            {
-                  "name": "Kallbadhuset",
-                  "text": "A traditional open-air cold bathhouse on the coast of Gotland.",
-                  "category": "recreational",
-                  "coords": [
-                        18.287149,
-                        57.640435
-                  ]
-            },
-            {
-                  "name": "Äventyrsträsket",
-                  "text": "An adventure swimming pool with recreational activities on Gotland.",
-                  "category": "recreational",
-                  "coords": [
-                        18.244321,
-                        57.608743
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "sweden",

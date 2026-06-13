@@ -1131,15 +1131,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Satezeles pilskalns",
-                  "text": "Ein historischer Burgwall in Sigulda, einst eine Festung der alten Liven.",
-                  "category": "historical",
-                  "coords": [
-                        24.870701,
-                        57.171613
-                  ]
-            },
-            {
                   "name": "Vikmestes pilskalns",
                   "text": "Eine alte archäologische Stätte und ein Burgwall in der malerischen Region Sigulda.",
                   "category": "historical",
@@ -1167,30 +1158,12 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nurmižu gravu rezervāts",
-                  "text": "Ein Naturschutzgebiet mit einer beeindruckenden Schlucht bei Sigulda.",
-                  "category": "natural",
-                  "coords": [
-                        24.903222,
-                        57.194381
-                  ]
-            },
-            {
                   "name": "Gaujas plostnieku stāsts",
                   "text": "Im Herzen des Sigulda Tourism Hub befindet sich das Museum Gaujas plostnieku stāsts. Die Ausstellung dokumentiert detailliert die spannende Geschichte der Flößerei auf dem Fluss Gauja. Museumsbesucher können hier in Lettland die Traditionen und Herausforderungen der einstigen Flößer nachempfinden.",
                   "category": "museum",
                   "coords": [
                         24.836454,
                         57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "Ein beliebter Strandabschnitt am Ufer der Gauja in Sigulda.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
                   ]
             },
             {
@@ -1230,15 +1203,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kraukļu aiza",
-                  "text": "Eine markante Schlucht in der Nähe von Sigulda, die für Wanderungen beliebt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        24.867386,
-                        57.173981
-                  ]
-            },
-            {
                   "name": "skats uz Velnalu",
                   "text": "Im Bereich des Sigulda Tourism Hub lädt der Naturort skats uz Velnalu zum Verweilen ein. Der Aussichtspunkt besticht durch seinen ungehinderten Blick auf die sagenumwobene Teufelshöhle. Es ist der perfekte Ort in Lettland, um landschaftliche Schönheit mit mythischer Ausstrahlung zu verbinden.",
                   "category": "natural",
@@ -1254,15 +1218,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.823627,
                         57.142742
-                  ]
-            },
-            {
-                  "name": "Saltavots",
-                  "text": "Saltavots, eine natürliche Salzwasserquelle in Sigulda, bekannt für ihr Mineralwasser.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850724,
-                        57.131348
                   ]
             },
             {
@@ -1284,15 +1239,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Satezeles kanjons",
-                  "text": "Ein kleiner Kanyon mit Sandsteinformationen in der Region Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.868609,
-                        57.171783
-                  ]
-            },
-            {
                   "name": "Skats uz Gaujas senleju",
                   "text": "Ein Aussichtspunkt mit weitem Panorama über das antike Flusstal der Gauja.",
                   "category": "natural",
@@ -1308,24 +1254,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.845736,
                         57.164547
-                  ]
-            },
-            {
-                  "name": "Dzintaru darbnīca",
-                  "text": "Eine Werkstatt in Sigulda, in der Kunsthandwerk aus Bernstein hergestellt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850758,
-                        57.149877
-                  ]
-            },
-            {
-                  "name": "Paradīzes kalns",
-                  "text": "Paradieshügel in Sigulda, bietet Panoramablick auf das Gauja-Tal.",
-                  "category": "natural",
-                  "coords": [
-                        24.86574,
-                        57.175034
                   ]
             },
             {
@@ -1353,15 +1281,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.8291,
                         57.143582
-                  ]
-            },
-            {
-                  "name": "bijušais tramplīns",
-                  "text": "Ehemalige Skisprungschanze in Sigulda, jetzt Aussichtspunkt.",
-                  "category": "landmark",
-                  "coords": [
-                        24.870748,
-                        57.176293
                   ]
             },
             {
@@ -1401,24 +1320,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Siguldas Katoļu baznīca",
-                  "text": "Die katholische Kirche von Sigulda, ein bedeutender Ort der Verehrung.",
-                  "category": "religious",
-                  "coords": [
-                        24.857003,
-                        57.150919
-                  ]
-            },
-            {
-                  "name": "SSC peldbaseins",
-                  "text": "Ein öffentlicher Schwimmbereich in Sigulda Tourism Hub, der sich für Sport und Entspannung eignet.",
-                  "category": "family",
-                  "coords": [
-                        24.859638,
-                        57.159248
-                  ]
-            },
-            {
                   "name": "Sigulda Zoo",
                   "text": "Ein Tierpark in Sigulda Tourism Hub, in dem Familien verschiedene Tierarten entdecken können.",
                   "category": "family",
@@ -1445,15 +1346,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.832307,
                         57.170859
-                  ]
-            },
-            {
-                  "name": "Satezeles pilskalns",
-                  "text": "Történelmi várhely Siguldában, amely egykor az ősi lívek erődítménye volt.",
-                  "category": "historical",
-                  "coords": [
-                        24.870701,
-                        57.171613
                   ]
             },
             {
@@ -1484,30 +1376,12 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nurmižu gravu rezervāts",
-                  "text": "Természetvédelmi terület lenyűgöző szurdokkal Sigulda közelében.",
-                  "category": "natural",
-                  "coords": [
-                        24.903222,
-                        57.194381
-                  ]
-            },
-            {
                   "name": "Gaujas plostnieku stāsts",
                   "text": "A Sigulda Tourism Hub szívében található a Gaujas plostnieku stāsts múzeum. A kiállítás részletesen dokumentálja a Gauja folyón zajló tutajozás izgalmas történetét. A múzeumlátogatók itt Lettországban átélhetik az egykori tutajozók hagyományait és kihívásait.",
                   "category": "museum",
                   "coords": [
                         24.836454,
                         57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "Népszerű strand szakasz a Gauja folyó partján Siguldában.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
                   ]
             },
             {
@@ -1547,15 +1421,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kraukļu aiza",
-                  "text": "Jellegzetes szurdok Sigulda közelében, amely népszerű a túrázók körében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.867386,
-                        57.173981
-                  ]
-            },
-            {
                   "name": "skats uz Velnalu",
                   "text": "A Sigulda Tourism Hub területén a skats uz Velnalu természeti helyszín elidőzésre hívogat. A kilátó a legendás Ördög-barlangra nyíló akadálytalan kilátásával bűvöli el a látogatókat. Tökéletes hely Lettországban a táj szépségének és a mitikus kisugárzásnak az összekapcsolására.",
                   "category": "natural",
@@ -1571,15 +1436,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.823627,
                         57.142742
-                  ]
-            },
-            {
-                  "name": "Saltavots",
-                  "text": "Saltavots, természetes sós forrás Siguldában, ásványvíztartalmáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850724,
-                        57.131348
                   ]
             },
             {
@@ -1601,15 +1457,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Satezeles kanjons",
-                  "text": "Homokkő képződményekkel teli kis kanyon Sigulda régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.868609,
-                        57.171783
-                  ]
-            },
-            {
                   "name": "Skats uz Gaujas senleju",
                   "text": "Kilátóhely széles panorámával a Gauja ősi folyóvölgyére.",
                   "category": "natural",
@@ -1625,24 +1472,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.845736,
                         57.164547
-                  ]
-            },
-            {
-                  "name": "Dzintaru darbnīca",
-                  "text": "Siguldai műhely, ahol borostyánból készült kézműves termékeket készítenek.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850758,
-                        57.149877
-                  ]
-            },
-            {
-                  "name": "Paradīzes kalns",
-                  "text": "Paradicsom-hegy Siguldában, panorámás kilátással a Gauja-völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        24.86574,
-                        57.175034
                   ]
             },
             {
@@ -1670,15 +1499,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.8291,
                         57.143582
-                  ]
-            },
-            {
-                  "name": "bijušais tramplīns",
-                  "text": "Egykori síugrósánc Siguldában, ma kilátóhely.",
-                  "category": "landmark",
-                  "coords": [
-                        24.870748,
-                        57.176293
                   ]
             },
             {
@@ -1718,24 +1538,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Siguldas Katoļu baznīca",
-                  "text": "Sigulda katolikus temploma, jelentős vallási helyszín.",
-                  "category": "religious",
-                  "coords": [
-                        24.857003,
-                        57.150919
-                  ]
-            },
-            {
-                  "name": "SSC peldbaseins",
-                  "text": "Egy nyilvános úszóhely Sigulda Tourism Hub városában, amely alkalmas sportolásra és kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        24.859638,
-                        57.159248
-                  ]
-            },
-            {
                   "name": "Sigulda Zoo",
                   "text": "Egy állatpark Sigulda Tourism Hub városában, ahol a családok különféle fajokat fedezhetnek fel.",
                   "category": "family",
@@ -1762,15 +1564,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.832307,
                         57.170859
-                  ]
-            },
-            {
-                  "name": "Satezeles pilskalns",
-                  "text": "O cetate istorică din Sigulda, odinioară o fortăreață a vechilor livonieni.",
-                  "category": "historical",
-                  "coords": [
-                        24.870701,
-                        57.171613
                   ]
             },
             {
@@ -1801,30 +1594,12 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nurmižu gravu rezervāts",
-                  "text": "O rezervație naturală cu un canion impresionant lângă Sigulda.",
-                  "category": "natural",
-                  "coords": [
-                        24.903222,
-                        57.194381
-                  ]
-            },
-            {
                   "name": "Gaujas plostnieku stāsts",
                   "text": "În inima Sigulda Tourism Hub se află muzeul Gaujas plostnieku stāsts. Expoziția documentează în detaliu istoria fascinantă a plutăritului pe râul Gauja. Aici, în Letonia, vizitatorii muzeului pot înțelege tradițiile și provocările foștilor plutași.",
                   "category": "museum",
                   "coords": [
                         24.836454,
                         57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "O porțiune populară de plajă pe malul râului Gauja în Sigulda.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
                   ]
             },
             {
@@ -1864,15 +1639,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kraukļu aiza",
-                  "text": "O râpă distinctivă lângă Sigulda, populară pentru drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        24.867386,
-                        57.173981
-                  ]
-            },
-            {
                   "name": "skats uz Velnalu",
                   "text": "În zona Sigulda Tourism Hub, locația naturală skats uz Velnalu invită la popas. Punctul de observație captivează prin vederea neobstrucționată asupra legendarei Peșteri a Diavolului. Este locul perfect din Letonia pentru a îmbina frumusețea peisajului cu un aer mitic.",
                   "category": "natural",
@@ -1888,15 +1654,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.823627,
                         57.142742
-                  ]
-            },
-            {
-                  "name": "Saltavots",
-                  "text": "Saltavots, un izvor natural sărat în Sigulda, cunoscut pentru apa minerală.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850724,
-                        57.131348
                   ]
             },
             {
@@ -1918,15 +1675,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Satezeles kanjons",
-                  "text": "Un mic canion cu formațiuni de gresie în regiunea Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.868609,
-                        57.171783
-                  ]
-            },
-            {
                   "name": "Skats uz Gaujas senleju",
                   "text": "Un punct de belvedere cu o panoramă largă asupra văii antice a râului Gauja.",
                   "category": "natural",
@@ -1942,24 +1690,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.845736,
                         57.164547
-                  ]
-            },
-            {
-                  "name": "Dzintaru darbnīca",
-                  "text": "Un atelier în Sigulda unde se realizează obiecte de artizanat din chihlimbar.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850758,
-                        57.149877
-                  ]
-            },
-            {
-                  "name": "Paradīzes kalns",
-                  "text": "Dealul Paradisului în Sigulda, oferă vedere panoramică asupra văii Gauja.",
-                  "category": "natural",
-                  "coords": [
-                        24.86574,
-                        57.175034
                   ]
             },
             {
@@ -1987,15 +1717,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.8291,
                         57.143582
-                  ]
-            },
-            {
-                  "name": "bijušais tramplīns",
-                  "text": "Fosta trambulină de sărituri cu schiurile în Sigulda, acum punct de observație.",
-                  "category": "landmark",
-                  "coords": [
-                        24.870748,
-                        57.176293
                   ]
             },
             {
@@ -2035,24 +1756,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Siguldas Katoļu baznīca",
-                  "text": "Biserica Catolică din Sigulda, un loc important de cult.",
-                  "category": "religious",
-                  "coords": [
-                        24.857003,
-                        57.150919
-                  ]
-            },
-            {
-                  "name": "SSC peldbaseins",
-                  "text": "O zonă publică de înot în Sigulda Tourism Hub potrivită pentru sport și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        24.859638,
-                        57.159248
-                  ]
-            },
-            {
                   "name": "Sigulda Zoo",
                   "text": "Un parc de animale în Sigulda Tourism Hub unde familiile pot descoperi diverse specii.",
                   "category": "family",
@@ -2082,15 +1785,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Satezeles pilskalns",
-                  "text": "A historic hillfort in Sigulda, once a stronghold of the ancient Liv people.",
-                  "category": "historical",
-                  "coords": [
-                        24.870701,
-                        57.171613
-                  ]
-            },
-            {
                   "name": "Vikmestes pilskalns",
                   "text": "An ancient archaeological site and hillfort located in the scenic Sigulda region.",
                   "category": "historical",
@@ -2115,15 +1809,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.848331,
                         57.167754
-                  ]
-            },
-            {
-                  "name": "Nurmižu gravu rezervāts",
-                  "text": "A nature reserve featuring an impressive ravine near Sigulda.",
-                  "category": "natural",
-                  "coords": [
-                        24.903222,
-                        57.194381
                   ]
             },
             {
@@ -2181,15 +1866,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kraukļu aiza",
-                  "text": "A distinctive ravine near Sigulda that is popular for hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        24.867386,
-                        57.173981
-                  ]
-            },
-            {
                   "name": "skats uz Velnalu",
                   "text": "In the area of the Sigulda Tourism Hub, the natural spot skats uz Velnalu invites you to linger. The viewpoint captivates with its unobstructed view of the legendary Devil's Cave. It is the perfect place in Latvia to combine scenic beauty with mythical charisma.",
                   "category": "natural",
@@ -2205,15 +1881,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.823627,
                         57.142742
-                  ]
-            },
-            {
-                  "name": "Saltavots",
-                  "text": "Saltavots, a natural salt spring in Sigulda, known for its mineral-rich water.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850724,
-                        57.131348
                   ]
             },
             {
@@ -2235,15 +1902,6 @@ export const latviaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Satezeles kanjons",
-                  "text": "A small canyon featuring sandstone formations in the Sigulda region.",
-                  "category": "landmark",
-                  "coords": [
-                        24.868609,
-                        57.171783
-                  ]
-            },
-            {
                   "name": "Skats uz Gaujas senleju",
                   "text": "A viewpoint with a wide panorama over the ancient Gauja river valley.",
                   "category": "natural",
@@ -2259,24 +1917,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.845736,
                         57.164547
-                  ]
-            },
-            {
-                  "name": "Dzintaru darbnīca",
-                  "text": "A workshop in Sigulda where amber handicrafts are created.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850758,
-                        57.149877
-                  ]
-            },
-            {
-                  "name": "Paradise hill",
-                  "text": "Paradise hill in Sigulda offers panoramic views over the Gauja valley.",
-                  "category": "natural",
-                  "coords": [
-                        24.86574,
-                        57.175034
                   ]
             },
             {
@@ -2304,15 +1944,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.8291,
                         57.143582
-                  ]
-            },
-            {
-                  "name": "bijušais tramplīns",
-                  "text": "Former ski jump in Sigulda, now a lookout point.",
-                  "category": "landmark",
-                  "coords": [
-                        24.870748,
-                        57.176293
                   ]
             },
             {
@@ -2349,24 +1980,6 @@ export const latviaEconomicV2: POI[] = [
                   "coords": [
                         24.828482,
                         57.144959
-                  ]
-            },
-            {
-                  "name": "Siguldas Katoļu baznīca",
-                  "text": "The Catholic church of Sigulda, a significant place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        24.857003,
-                        57.150919
-                  ]
-            },
-            {
-                  "name": "SSC peldbaseins",
-                  "text": "A public swimming area in Sigulda Tourism Hub suitable for sports and relaxation.",
-                  "category": "family",
-                  "coords": [
-                        24.859638,
-                        57.159248
                   ]
             },
             {

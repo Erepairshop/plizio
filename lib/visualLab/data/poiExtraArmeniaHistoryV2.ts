@@ -3048,15 +3048,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aramyants Castle / Mansion",
-                  "text": "Ein elegantes Herrenhaus im Stil eines Schweizer Schlosses, das Anfang des 20. Jahrhunderts für den Industriellen Mikael Aramjants erbaut wurde.",
-                  "category": "historical",
-                  "coords": [
-                        44.788783,
-                        41.152303
-                  ]
-            },
-            {
                   "name": "Kloster Haghpat",
                   "text": "Dieses UNESCO-Weltkulturerbe aus dem 10. Jahrhundert gilt als ein Meisterwerk der klassischen armenischen Kirchenarchitektur.",
                   "category": "religious",
@@ -3164,15 +3155,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
                   "coords": [
                         44.764525,
                         41.150564
-                  ]
-            },
-            {
-                  "name": "Aramyants Castle / Mansion",
-                  "text": "Elegáns, svájci kastély stílusú kúria, amely a 20. század elején épült Mikael Aramjants iparmágnás számára.",
-                  "category": "historical",
-                  "coords": [
-                        44.788783,
-                        41.152303
                   ]
             },
             {
@@ -3286,15 +3268,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aramyants Castle / Mansion",
-                  "text": "Un conac elegant în stilul unui castel elvețian, construit la începutul secolului al XX-lea pentru industriașul Mikael Aramyants.",
-                  "category": "historical",
-                  "coords": [
-                        44.788783,
-                        41.152303
-                  ]
-            },
-            {
                   "name": "Հաղպատ վանք",
                   "text": "Acest sit din secolul al X-lea, inclus în patrimoniul mondial UNESCO, este considerat o capodoperă a arhitecturii religioase armene clasice.",
                   "category": "religious",
@@ -3393,24 +3366,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
                   "coords": [
                         44.704375,
                         41.096479
-                  ]
-            },
-            {
-                  "name": "Akhtala Monastery",
-                  "text": "A 10th-century fortified monastery famous for its exceptionally well-preserved Byzantine-style frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        44.764525,
-                        41.150564
-                  ]
-            },
-            {
-                  "name": "Aramyants Castle / Mansion",
-                  "text": "An elegant Swiss chalet-style manor built in the early 20th century for the industrialist Mikael Aramyants.",
-                  "category": "historical",
-                  "coords": [
-                        44.788783,
-                        41.152303
                   ]
             },
             {
@@ -5478,15 +5433,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     id: "akhtala-monastery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Aramyants Castle / Mansion",
-                  "text": "Aramyants-Schloss – ein herrschaftliches Anwesen mit markanter Fassade im Ort Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        44.788783,
-                        41.152303
-                  ]
-            },
-            {
                   "name": "Սուրբ Գևորգ Եկեղեցի",
                   "text": "Ein befestigtes Kloster aus dem 10. Jahrhundert mit bedeutenden Fresken.",
                   "category": "religious",
@@ -5497,15 +5443,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Aramyants Castle / Mansion",
-                  "text": "Aramyants-kastély – reprezentatív kúria jellegzetes homlokzattal a Monastery településen.",
-                  "category": "historical",
-                  "coords": [
-                        44.788783,
-                        41.152303
-                  ]
-            },
             {
                   "name": "Սուրբ Գևորգ Եկեղեցի",
                   "text": "10. századi erődített kolostor jelentős freskókkal.",
@@ -5518,15 +5455,6 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Aramyants Castle / Mansion",
-                  "text": "Castelul Aramyants – un conac impunător cu fațadă distinctivă în localitatea Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        44.788783,
-                        41.152303
-                  ]
-            },
-            {
                   "name": "Սուրբ Գևորգ Եկեղեցի",
                   "text": "O mănăstire fortificată din secolul al X-lea, cu fresce importante.",
                   "category": "religious",
@@ -5536,26 +5464,7 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Aramyants Castle / Mansion",
-                  "text": "Aramyants Castle – a grand mansion with a distinctive facade in the town of Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        44.788783,
-                        41.152303
-                  ]
-            },
-            {
-                  "name": "Akhtala Monastery",
-                  "text": "A 10th-century fortified monastery known for its significant frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        44.764525,
-                        41.150564
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "historical-site",
     parent: "AM-LO",

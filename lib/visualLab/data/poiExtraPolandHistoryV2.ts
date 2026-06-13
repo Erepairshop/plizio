@@ -1104,42 +1104,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Sakralne Katedry Zamojskiej",
-                  "text": "Dieses Museum in der Altstadt von Zamość zeigt eine Sammlung sakraler Kunst, die mit der örtlichen Kathedrale verbunden ist.",
-                  "category": "museum",
-                  "coords": [
-                        23.250506,
-                        50.716138
-                  ]
-            },
-            {
-                  "name": "Pałac Zamoyskich",
-                  "text": "Der Zamoyski-Palast ist eine markante historische Residenz in der Altstadt von Zamość.",
-                  "category": "castle",
-                  "coords": [
-                        23.248787,
-                        50.717646
-                  ]
-            },
-            {
-                  "name": "Stara Brama Lubelska",
-                  "text": "Altes Lubliner Tor, denkmalgeschützt in der Zamośćer Altstadt.",
-                  "category": "castle",
-                  "coords": [
-                        23.250234,
-                        50.718753
-                  ]
-            },
-            {
-                  "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Rotunde – Museum des Martyriums der Region Zamość, denkmalgeschützt in der Zamośćer Altstadt.",
-                  "category": "museum",
-                  "coords": [
-                        23.247223,
-                        50.710777
-                  ]
-            },
-            {
                   "name": "Orkiestra Symfoniczna im. Karola Namysłowskiego",
                   "text": "Diese Einrichtung beherbergt das Karol-Namysłowski-Sinfonieorchester in der Altstadt von Zamość.",
                   "category": "cultural",
@@ -1155,15 +1119,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.253909,
                         50.715029
-                  ]
-            },
-            {
-                  "name": "Zbór Kościoła Ewangelicznych Chrześcijan",
-                  "text": "Dies ist eine Gemeinde der Evangelischen Christlichen Kirche in der Altstadt von Zamość.",
-                  "category": "religious",
-                  "coords": [
-                        23.229931,
-                        50.716826
                   ]
             },
             {
@@ -1203,30 +1158,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brama Szczebrzeska",
-                  "text": "Das Szczebrzeszyn-Tor ist ein historischer Teil der Befestigungsanlagen in der Altstadt von Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.24913,
-                        50.716125
-                  ]
-            },
-            {
                   "name": "Nowa Brama Lubelska",
                   "text": "Das Neue Lubliner Tor ist ein historisches Stadttor und eine Attraktion in der Altstadt von Zamość.",
                   "category": "landmark",
                   "coords": [
                         23.254199,
                         50.71905
-                  ]
-            },
-            {
-                  "name": "Ogród Zoologiczny w Zamościu",
-                  "text": "Ogród Zoologiczny w Zamościu ist ein bekannter zoologischer Garten in der Altstadt von Zamość.",
-                  "category": "family",
-                  "coords": [
-                        23.237887,
-                        50.716839
                   ]
             },
             {
@@ -1266,15 +1203,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościół pw. Świętej Bożej Opatrzności",
-                  "text": "Kościół pw. Świętej Bożej Opatrzności ist eine Kultstätte in der Altstadt von Zamość.",
-                  "category": "religious",
-                  "coords": [
-                        23.221877,
-                        50.720439
-                  ]
-            },
-            {
                   "name": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego",
                   "text": "Museum mit Skulpturen von Prof. Marian Konieczny in der Zamośćer Altstadt.",
                   "category": "museum",
@@ -1290,15 +1218,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.252076,
                         50.728933
-                  ]
-            },
-            {
-                  "name": "Muzeum Fortyfikacji i Broni ARSENAŁ",
-                  "text": "Museum für Festungsbau und Waffen in einem historischen Arsenalgebäude.",
-                  "category": "museum",
-                  "coords": [
-                        23.247524,
-                        50.716638
                   ]
             },
             {
@@ -1329,24 +1248,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wzgórze \"Zamczysko\"",
-                  "text": "Wzgórze \"Zamczysko\" ist eine archäologische Stätte in der Altstadt von Zamość.",
-                  "category": "historical",
-                  "coords": [
-                        23.247366,
-                        50.702494
-                  ]
-            },
-            {
-                  "name": "Świetlica wiejska w Skokówce",
-                  "text": "Świetlica wiejska w Skokówce ist ein Kunstzentrum in der Altstadt von Zamość.",
-                  "category": "cultural",
-                  "coords": [
-                        23.23893,
-                        50.692181
-                  ]
-            },
-            {
                   "name": "Zamojski Dom Kultury",
                   "text": "Zamojski Dom Kultury ist ein Kunstzentrum in der Altstadt von Zamość.",
                   "category": "cultural",
@@ -1356,84 +1257,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bastion III",
-                  "text": "Ein Bastion der Zamośćer Festung aus dem 16. Jahrhundert.",
-                  "category": "landmark",
-                  "coords": [
-                        23.246076,
-                        50.716474
-                  ]
-            },
-            {
-                  "name": "Bastion IV",
-                  "text": "Ein weiterer Bastion der Zamośćer Festung.",
-                  "category": "landmark",
-                  "coords": [
-                        23.248025,
-                        50.719394
-                  ]
-            },
-            {
                   "name": "Bastion VI",
                   "text": "Ein weiterer Bastion der Zamośćer Festung.",
                   "category": "landmark",
                   "coords": [
                         23.256055,
                         50.719242
-                  ]
-            },
-            {
-                  "name": "Zimowisko i woliera dla ptaków wodnych",
-                  "text": "Winterquartier und Voliere für Wasservögel im Zoo Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240266,
-                        50.716223
-                  ]
-            },
-            {
-                  "name": "Woliery sów",
-                  "text": "Volieren mit verschiedenen Eulenarten im Zoo Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240563,
-                        50.714989
-                  ]
-            },
-            {
-                  "name": "Pawilon z wolierami dla ptaków grzebiących",
-                  "text": "Pavillon mit Volieren für Hühnervögel im Zoo Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240811,
-                        50.717455
-                  ]
-            },
-            {
-                  "name": "Stajnia i wybieg dla wielbłąda",
-                  "text": "Stall und Gehege für ein Kamel im Zoo Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.238785,
-                        50.717812
-                  ]
-            },
-            {
-                  "name": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki",
-                  "text": "Pavillon und Gehege für Giraffen und andere afrikanische Tiere im Zoo Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.236829,
-                        50.715665
-                  ]
-            },
-            {
-                  "name": "Stajnia i wybieg dla antylop",
-                  "text": "Stall und Gehege für Antilopen im Zoo Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.238983,
-                        50.716166
                   ]
             }
       ],
@@ -1445,42 +1274,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.253079,
                         50.717625
-                  ]
-            },
-            {
-                  "name": "Muzeum Sakralne Katedry Zamojskiej",
-                  "text": "Ez a múzeum Zamość óvárosában a helyi katedrálishoz kapcsolódó szakrális művészeti gyűjteményt mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        23.250506,
-                        50.716138
-                  ]
-            },
-            {
-                  "name": "Pałac Zamoyskich",
-                  "text": "A Zamoyski-palota egy kiemelkedő történelmi rezidencia Zamość óvárosában.",
-                  "category": "castle",
-                  "coords": [
-                        23.248787,
-                        50.717646
-                  ]
-            },
-            {
-                  "name": "Stara Brama Lubelska",
-                  "text": "Régi Lublini kapu, műemlék Zamość óvárosában.",
-                  "category": "castle",
-                  "coords": [
-                        23.250234,
-                        50.718753
-                  ]
-            },
-            {
-                  "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Rotunda – Zamośći régió mártíromságának múzeuma, műemlék Zamość óvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        23.247223,
-                        50.710777
                   ]
             },
             {
@@ -1499,15 +1292,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.253909,
                         50.715029
-                  ]
-            },
-            {
-                  "name": "Zbór Kościoła Ewangelicznych Chrześcijan",
-                  "text": "Ez az Evangéliumi Keresztény Egyház egy gyülekezete Zamość óvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        23.229931,
-                        50.716826
                   ]
             },
             {
@@ -1547,30 +1331,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brama Szczebrzeska",
-                  "text": "A Szczebrzeszyn-kapu a zamośći óváros erődítményeinek egyik történelmi része.",
-                  "category": "landmark",
-                  "coords": [
-                        23.24913,
-                        50.716125
-                  ]
-            },
-            {
                   "name": "Nowa Brama Lubelska",
                   "text": "Az Új Lublini-kapu egy történelmi városkapu és látványosság Zamość óvárosában.",
                   "category": "landmark",
                   "coords": [
                         23.254199,
                         50.71905
-                  ]
-            },
-            {
-                  "name": "Ogród Zoologiczny w Zamościu",
-                  "text": "Az Ogród Zoologiczny w Zamościu egy ismert állatkert az Altstadt von Zamość területén.",
-                  "category": "family",
-                  "coords": [
-                        23.237887,
-                        50.716839
                   ]
             },
             {
@@ -1610,15 +1376,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościół pw. Świętej Bożej Opatrzności",
-                  "text": "A Kościół pw. Świętej Bożej Opatrzności egy istentiszteleti hely az Altstadt von Zamość területén.",
-                  "category": "religious",
-                  "coords": [
-                        23.221877,
-                        50.720439
-                  ]
-            },
-            {
                   "name": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego",
                   "text": "Múzeum Marian Konieczny szobraival a zamosc óvárosban.",
                   "category": "museum",
@@ -1634,15 +1391,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.252076,
                         50.728933
-                  ]
-            },
-            {
-                  "name": "Muzeum Fortyfikacji i Broni ARSENAŁ",
-                  "text": "Erődítés- és fegyvermúzeum egy történelmi arzenálépületben.",
-                  "category": "museum",
-                  "coords": [
-                        23.247524,
-                        50.716638
                   ]
             },
             {
@@ -1673,24 +1421,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wzgórze \"Zamczysko\"",
-                  "text": "A Wzgórze \"Zamczysko\" egy régészeti lelőhely az Altstadt von Zamość területén.",
-                  "category": "historical",
-                  "coords": [
-                        23.247366,
-                        50.702494
-                  ]
-            },
-            {
-                  "name": "Świetlica wiejska w Skokówce",
-                  "text": "A Świetlica wiejska w Skokówce egy művészeti központ az Altstadt von Zamość területén.",
-                  "category": "cultural",
-                  "coords": [
-                        23.23893,
-                        50.692181
-                  ]
-            },
-            {
                   "name": "Zamojski Dom Kultury",
                   "text": "A Zamojski Dom Kultury egy művészeti központ az Altstadt von Zamość területén.",
                   "category": "cultural",
@@ -1700,84 +1430,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bastion III",
-                  "text": "A zamosc-i erőd egyik 16. századi bástyája.",
-                  "category": "landmark",
-                  "coords": [
-                        23.246076,
-                        50.716474
-                  ]
-            },
-            {
-                  "name": "Bastion IV",
-                  "text": "A zamosc-i erőd egy másik bástyája.",
-                  "category": "landmark",
-                  "coords": [
-                        23.248025,
-                        50.719394
-                  ]
-            },
-            {
                   "name": "Bastion VI",
                   "text": "A zamosc-i erőd egy másik bástyája.",
                   "category": "landmark",
                   "coords": [
                         23.256055,
                         50.719242
-                  ]
-            },
-            {
-                  "name": "Zimowisko i woliera dla ptaków wodnych",
-                  "text": "Téli szállás és madárház vízimadarak számára a zamosc-i állatkertben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240266,
-                        50.716223
-                  ]
-            },
-            {
-                  "name": "Woliery sów",
-                  "text": "Bagolyröpdék különböző bagolyfajokkal a zamosc-i állatkertben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240563,
-                        50.714989
-                  ]
-            },
-            {
-                  "name": "Pawilon z wolierami dla ptaków grzebiących",
-                  "text": "Pavilon röpképtelen madarak számára a zamosc-i állatkertben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240811,
-                        50.717455
-                  ]
-            },
-            {
-                  "name": "Stajnia i wybieg dla wielbłąda",
-                  "text": "Teveistálló és -kifutó a zamosc-i állatkertben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.238785,
-                        50.717812
-                  ]
-            },
-            {
-                  "name": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki",
-                  "text": "Zsiráfok és más afrikai állatok pavilonja és kifutója a zamosc-i állatkertben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.236829,
-                        50.715665
-                  ]
-            },
-            {
-                  "name": "Stajnia i wybieg dla antylop",
-                  "text": "Antilopistálló és -kifutó a zamosc-i állatkertben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.238983,
-                        50.716166
                   ]
             }
       ],
@@ -1789,42 +1447,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.253079,
                         50.717625
-                  ]
-            },
-            {
-                  "name": "Muzeum Sakralne Katedry Zamojskiej",
-                  "text": "Acest muzeu din centrul vechi al orașului Zamość expune o colecție de artă sacră legată de catedrala locală.",
-                  "category": "museum",
-                  "coords": [
-                        23.250506,
-                        50.716138
-                  ]
-            },
-            {
-                  "name": "Pałac Zamoyskich",
-                  "text": "Palatul Zamoyski este o reședință istorică proeminentă situată în orașul vechi din Zamość.",
-                  "category": "castle",
-                  "coords": [
-                        23.248787,
-                        50.717646
-                  ]
-            },
-            {
-                  "name": "Stara Brama Lubelska",
-                  "text": "Poarta Veche de la Lublin, monument protejat în Orașul Vechi Zamość.",
-                  "category": "castle",
-                  "coords": [
-                        23.250234,
-                        50.718753
-                  ]
-            },
-            {
-                  "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Rotonda – Muzeul Martiriului Regiunii Zamość, monument protejat în Orașul Vechi Zamość.",
-                  "category": "museum",
-                  "coords": [
-                        23.247223,
-                        50.710777
                   ]
             },
             {
@@ -1843,15 +1465,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.253909,
                         50.715029
-                  ]
-            },
-            {
-                  "name": "Zbór Kościoła Ewangelicznych Chrześcijan",
-                  "text": "Aceasta este o congregație a Bisericii Creștine Evanghelice situată în Orașul Vechi din Zamość.",
-                  "category": "religious",
-                  "coords": [
-                        23.229931,
-                        50.716826
                   ]
             },
             {
@@ -1891,30 +1504,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brama Szczebrzeska",
-                  "text": "Poarta Szczebrzeszyn este o parte istorică a fortificațiilor din Orașul Vechi din Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.24913,
-                        50.716125
-                  ]
-            },
-            {
                   "name": "Nowa Brama Lubelska",
                   "text": "Noua Poartă a Lublinului este o poartă istorică a orașului și o atracție în Orașul Vechi din Zamość.",
                   "category": "landmark",
                   "coords": [
                         23.254199,
                         50.71905
-                  ]
-            },
-            {
-                  "name": "Ogród Zoologiczny w Zamościu",
-                  "text": "Ogród Zoologiczny w Zamościu este o grădină zoologică recunoscută situată în Altstadt von Zamość.",
-                  "category": "family",
-                  "coords": [
-                        23.237887,
-                        50.716839
                   ]
             },
             {
@@ -1954,15 +1549,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościół pw. Świętej Bożej Opatrzności",
-                  "text": "Kościół pw. Świętej Bożej Opatrzności este un lăcaș de cult situat în Altstadt von Zamość.",
-                  "category": "religious",
-                  "coords": [
-                        23.221877,
-                        50.720439
-                  ]
-            },
-            {
                   "name": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego",
                   "text": "Muzeu cu sculpturi ale profesorului Marian Konieczny în orașul vechi Zamość.",
                   "category": "museum",
@@ -1978,15 +1564,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.252076,
                         50.728933
-                  ]
-            },
-            {
-                  "name": "Muzeum Fortyfikacji i Broni ARSENAŁ",
-                  "text": "Muzeu de fortificații și arme într-o clădire istorică de arsenal.",
-                  "category": "museum",
-                  "coords": [
-                        23.247524,
-                        50.716638
                   ]
             },
             {
@@ -2017,24 +1594,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wzgórze \"Zamczysko\"",
-                  "text": "Wzgórze \"Zamczysko\" este un sit arheologic situat în Altstadt von Zamość.",
-                  "category": "historical",
-                  "coords": [
-                        23.247366,
-                        50.702494
-                  ]
-            },
-            {
-                  "name": "Świetlica wiejska w Skokówce",
-                  "text": "Świetlica wiejska w Skokówce este un centru de artă situat în Altstadt von Zamość.",
-                  "category": "cultural",
-                  "coords": [
-                        23.23893,
-                        50.692181
-                  ]
-            },
-            {
                   "name": "Zamojski Dom Kultury",
                   "text": "Zamojski Dom Kultury este un centru de artă situat în Altstadt von Zamość.",
                   "category": "cultural",
@@ -2044,84 +1603,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bastion III",
-                  "text": "Un bastion al fortăreței Zamość din secolul al XVI-lea.",
-                  "category": "landmark",
-                  "coords": [
-                        23.246076,
-                        50.716474
-                  ]
-            },
-            {
-                  "name": "Bastion IV",
-                  "text": "Un alt bastion al fortăreței Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.248025,
-                        50.719394
-                  ]
-            },
-            {
                   "name": "Bastion VI",
                   "text": "Un alt bastion al fortăreței Zamość.",
                   "category": "landmark",
                   "coords": [
                         23.256055,
                         50.719242
-                  ]
-            },
-            {
-                  "name": "Zimowisko i woliera dla ptaków wodnych",
-                  "text": "Adăpost de iarnă și volieră pentru păsări acvatice în grădina zoologică Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240266,
-                        50.716223
-                  ]
-            },
-            {
-                  "name": "Woliery sów",
-                  "text": "Voliere cu diverse specii de bufnițe în grădina zoologică Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240563,
-                        50.714989
-                  ]
-            },
-            {
-                  "name": "Pawilon z wolierami dla ptaków grzebiących",
-                  "text": "Pavilion cu voliere pentru păsări galinacee în grădina zoologică Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240811,
-                        50.717455
-                  ]
-            },
-            {
-                  "name": "Stajnia i wybieg dla wielbłąda",
-                  "text": "Grajd și țarc pentru o cămilă în grădina zoologică Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.238785,
-                        50.717812
-                  ]
-            },
-            {
-                  "name": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki",
-                  "text": "Pavilion și țarc pentru girafe și alte animale africane în grădina zoologică Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.236829,
-                        50.715665
-                  ]
-            },
-            {
-                  "name": "Stajnia i wybieg dla antylop",
-                  "text": "Grajd și țarc pentru antilope în grădina zoologică Zamość.",
-                  "category": "landmark",
-                  "coords": [
-                        23.238983,
-                        50.716166
                   ]
             }
       ],
@@ -2133,42 +1620,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.253079,
                         50.717625
-                  ]
-            },
-            {
-                  "name": "Muzeum Sakralne Katedry Zamojskiej",
-                  "text": "This museum in Zamość's Old Town displays a collection of sacred art linked to the local cathedral.",
-                  "category": "museum",
-                  "coords": [
-                        23.250506,
-                        50.716138
-                  ]
-            },
-            {
-                  "name": "Zamoyski Palace",
-                  "text": "The Zamoyski Palace is a prominent historic residence located in the Old Town of Zamość.",
-                  "category": "castle",
-                  "coords": [
-                        23.248787,
-                        50.717646
-                  ]
-            },
-            {
-                  "name": "The Old Lublin Gate",
-                  "text": "Old Lublin Gate, a listed monument in Zamość Old Town.",
-                  "category": "castle",
-                  "coords": [
-                        23.250234,
-                        50.718753
-                  ]
-            },
-            {
-                  "name": "Rotunda - Muzeum Martyrologii Zamojszczyzny",
-                  "text": "Rotunda – Museum of Martyrdom of the Zamość Region, a listed museum in Zamość Old Town.",
-                  "category": "museum",
-                  "coords": [
-                        23.247223,
-                        50.710777
                   ]
             },
             {
@@ -2187,15 +1638,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.253909,
                         50.715029
-                  ]
-            },
-            {
-                  "name": "Zbór Kościoła Ewangelicznych Chrześcijan",
-                  "text": "This is a congregation of the Evangelical Christian Church located in the Old Town of Zamość.",
-                  "category": "religious",
-                  "coords": [
-                        23.229931,
-                        50.716826
                   ]
             },
             {
@@ -2235,30 +1677,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Szczebrzeszyn Gate",
-                  "text": "The Szczebrzeszyn Gate is a historic part of the fortifications in Zamość's Old Town.",
-                  "category": "landmark",
-                  "coords": [
-                        23.24913,
-                        50.716125
-                  ]
-            },
-            {
                   "name": "The New Lublin Gate",
                   "text": "The New Lublin Gate is a historic city gate and attraction in the Old Town of Zamość.",
                   "category": "landmark",
                   "coords": [
                         23.254199,
                         50.71905
-                  ]
-            },
-            {
-                  "name": "Ogród Zoologiczny w Zamościu",
-                  "text": "Ogród Zoologiczny w Zamościu is a recognized zoological garden located in Altstadt von Zamość.",
-                  "category": "family",
-                  "coords": [
-                        23.237887,
-                        50.716839
                   ]
             },
             {
@@ -2298,15 +1722,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościół pw. Świętej Bożej Opatrzności",
-                  "text": "Kościół pw. Świętej Bożej Opatrzności is a place of worship located in Altstadt von Zamość.",
-                  "category": "religious",
-                  "coords": [
-                        23.221877,
-                        50.720439
-                  ]
-            },
-            {
                   "name": "Muzeum Zamojskie Galeria Rzeźby prof. Mariana Koniecznego",
                   "text": "Museum featuring sculptures by Prof. Marian Konieczny in Zamość Old Town.",
                   "category": "museum",
@@ -2322,15 +1737,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         23.252076,
                         50.728933
-                  ]
-            },
-            {
-                  "name": "Muzeum Fortyfikacji i Broni ARSENAŁ",
-                  "text": "Museum of fortifications and arms in a historic arsenal building.",
-                  "category": "museum",
-                  "coords": [
-                        23.247524,
-                        50.716638
                   ]
             },
             {
@@ -2361,24 +1767,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wzgórze \"Zamczysko\"",
-                  "text": "Wzgórze \"Zamczysko\" is an archaeological site located in Altstadt von Zamość.",
-                  "category": "historical",
-                  "coords": [
-                        23.247366,
-                        50.702494
-                  ]
-            },
-            {
-                  "name": "Świetlica wiejska w Skokówce",
-                  "text": "Świetlica wiejska w Skokówce is an arts centre located in Altstadt von Zamość.",
-                  "category": "cultural",
-                  "coords": [
-                        23.23893,
-                        50.692181
-                  ]
-            },
-            {
                   "name": "Zamojski Dom Kultury",
                   "text": "Zamojski Dom Kultury is an arts centre located in Altstadt von Zamość.",
                   "category": "cultural",
@@ -2388,84 +1776,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bastion III",
-                  "text": "A 16th-century bastion of the Zamość fortress.",
-                  "category": "landmark",
-                  "coords": [
-                        23.246076,
-                        50.716474
-                  ]
-            },
-            {
-                  "name": "Bastion IV",
-                  "text": "Another bastion of the Zamość fortress.",
-                  "category": "landmark",
-                  "coords": [
-                        23.248025,
-                        50.719394
-                  ]
-            },
-            {
                   "name": "Bastion VI",
                   "text": "Another bastion of the Zamość fortress.",
                   "category": "landmark",
                   "coords": [
                         23.256055,
                         50.719242
-                  ]
-            },
-            {
-                  "name": "Zimowisko i woliera dla ptaków wodnych",
-                  "text": "Wintering facility and aviary for water birds in Zamość Zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240266,
-                        50.716223
-                  ]
-            },
-            {
-                  "name": "Woliery sów",
-                  "text": "Aviaries housing various owl species in Zamość Zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240563,
-                        50.714989
-                  ]
-            },
-            {
-                  "name": "Pawilon z wolierami dla ptaków grzebiących",
-                  "text": "Pavilion with aviaries for gallinaceous birds in Zamość Zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        23.240811,
-                        50.717455
-                  ]
-            },
-            {
-                  "name": "Stajnia i wybieg dla wielbłąda",
-                  "text": "Stable and enclosure for a camel in Zamość Zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        23.238785,
-                        50.717812
-                  ]
-            },
-            {
-                  "name": "Pawilon i wybieg dla żyraf oraz innych zwierząt Afryki",
-                  "text": "Pavilion and enclosure for giraffes and other African animals in Zamość Zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        23.236829,
-                        50.715665
-                  ]
-            },
-            {
-                  "name": "Stajnia i wybieg dla antylop",
-                  "text": "Stable and enclosure for antelopes in Zamość Zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        23.238983,
-                        50.716166
                   ]
             }
       ]
@@ -3354,15 +2670,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Techniki i Inżynierii Komunalnej Torunia",
-                  "text": "Museum für Technik und kommunale Ingenieurskunst in Toruń.",
-                  "category": "museum",
-                  "coords": [
-                        18.584407,
-                        53.027181
-                  ]
-            },
-            {
                   "name": "Altes Schloss",
                   "text": "Die Ruinen der mittelalterlichen Kreuzritterburg in Toruń.",
                   "category": "castle",
@@ -3378,15 +2685,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.600019,
                         53.001167
-                  ]
-            },
-            {
-                  "name": "Muzeum Etnograficzne",
-                  "text": "Das Ethnografische Museum in der Toruńer Altstadt ist nach Maria Znamierowska-Prüfferowa benannt.",
-                  "category": "museum",
-                  "coords": [
-                        18.604367,
-                        53.014455
                   ]
             },
             {
@@ -3414,15 +2712,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.624282,
                         53.013628
-                  ]
-            },
-            {
-                  "name": "Fort X Bateria Nadbrzeżna",
-                  "text": "Teil der historischen Festung Toruń, eine ehemalige Küstenbatterie.",
-                  "category": "fortress",
-                  "coords": [
-                        18.569179,
-                        52.998365
                   ]
             },
             {
@@ -3750,15 +3039,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoobotanischer Garten",
-                  "text": "Zoologischer und botanischer Garten in einem, nahe der Toruner Altstadt.",
-                  "category": "family",
-                  "coords": [
-                        18.590644,
-                        53.008954
-                  ]
-            },
-            {
                   "name": "Kaplica Narodzenia Najświętszej Maryi Panny",
                   "text": "Die Kapelle Mariä Geburt in der Toruńer Altstadt steht nahe der Stadtmauer.",
                   "category": "religious",
@@ -3824,15 +3104,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Techniki i Inżynierii Komunalnej Torunia",
-                  "text": "Technikai és közműmérnöki múzeum Toruńban.",
-                  "category": "museum",
-                  "coords": [
-                        18.584407,
-                        53.027181
-                  ]
-            },
-            {
                   "name": "Zamek Krzyżacki w Toruniu",
                   "text": "A középkori keresztes lovagok várának romjai Toruńban.",
                   "category": "castle",
@@ -3848,15 +3119,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.600019,
                         53.001167
-                  ]
-            },
-            {
-                  "name": "Muzeum Etnograficzne",
-                  "text": "A Toruń óvárosi Néprajzi Múzeumot Maria Znamierowska-Prüfferowáról nevezték el.",
-                  "category": "museum",
-                  "coords": [
-                        18.604367,
-                        53.014455
                   ]
             },
             {
@@ -3884,15 +3146,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.624282,
                         53.013628
-                  ]
-            },
-            {
-                  "name": "Fort X Bateria Nadbrzeżna",
-                  "text": "A toruńi erőd része, egykori parti üteg.",
-                  "category": "fortress",
-                  "coords": [
-                        18.569179,
-                        52.998365
                   ]
             },
             {
@@ -4220,15 +3473,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ogród Zoobotaniczny w Toruniu",
-                  "text": "Állatkert és botanikus kert egyben, Toruń óvárosa közelében.",
-                  "category": "family",
-                  "coords": [
-                        18.590644,
-                        53.008954
-                  ]
-            },
-            {
                   "name": "Kaplica Narodzenia Najświętszej Maryi Panny",
                   "text": "Szűz Mária Születése-kápolna Toruń óvárosában, a városfal közelében.",
                   "category": "religious",
@@ -4294,15 +3538,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Techniki i Inżynierii Komunalnej Torunia",
-                  "text": "Muzeul tehnicii și ingineriei municipale din Toruń.",
-                  "category": "museum",
-                  "coords": [
-                        18.584407,
-                        53.027181
-                  ]
-            },
-            {
                   "name": "Zamek Krzyżacki w Toruniu",
                   "text": "Ruinele castelului medieval al cavalerilor teutoni din Toruń.",
                   "category": "castle",
@@ -4318,15 +3553,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.600019,
                         53.001167
-                  ]
-            },
-            {
-                  "name": "Muzeum Etnograficzne",
-                  "text": "Muzeul Etnografic din orașul vechi Toruń poartă numele Mariei Znamierowska-Prüfferowa.",
-                  "category": "museum",
-                  "coords": [
-                        18.604367,
-                        53.014455
                   ]
             },
             {
@@ -4354,15 +3580,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.624282,
                         53.013628
-                  ]
-            },
-            {
-                  "name": "Fort X Bateria Nadbrzeżna",
-                  "text": "Parte a cetății istorice Toruń, o fostă baterie de coastă.",
-                  "category": "fortress",
-                  "coords": [
-                        18.569179,
-                        52.998365
                   ]
             },
             {
@@ -4690,15 +3907,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ogród Zoobotaniczny w Toruniu",
-                  "text": "Grădină zoologică și botanică într-unul singur, lângă orașul vechi Toruń.",
-                  "category": "family",
-                  "coords": [
-                        18.590644,
-                        53.008954
-                  ]
-            },
-            {
                   "name": "Kaplica Narodzenia Najświętszej Maryi Panny",
                   "text": "Capela Nașterii Sfintei Fecioare Maria în Orașul Vechi din Toruń, lângă zidurile cetății.",
                   "category": "religious",
@@ -4764,15 +3972,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Techniki i Inżynierii Komunalnej Torunia",
-                  "text": "Museum of technology and municipal engineering in Toruń.",
-                  "category": "museum",
-                  "coords": [
-                        18.584407,
-                        53.027181
-                  ]
-            },
-            {
                   "name": "Zamek Krzyżacki w Toruniu",
                   "text": "The ruins of the medieval Teutonic Knights' castle in Toruń.",
                   "category": "castle",
@@ -4788,15 +3987,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.600019,
                         53.001167
-                  ]
-            },
-            {
-                  "name": "Muzeum Etnograficzne",
-                  "text": "The Ethnographic Museum in Toruń Old Town is named after Maria Znamierowska-Prüfferowa.",
-                  "category": "museum",
-                  "coords": [
-                        18.604367,
-                        53.014455
                   ]
             },
             {
@@ -4824,15 +4014,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.624282,
                         53.013628
-                  ]
-            },
-            {
-                  "name": "Fort X Bateria Nadbrzeżna",
-                  "text": "Part of the historic Toruń fortress, a former coastal battery.",
-                  "category": "fortress",
-                  "coords": [
-                        18.569179,
-                        52.998365
                   ]
             },
             {
@@ -5157,15 +4338,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.578585,
                         53.027396
-                  ]
-            },
-            {
-                  "name": "Ogród Zoobotaniczny w Toruniu",
-                  "text": "A zoo and botanical garden combined, near Torun Old Town.",
-                  "category": "family",
-                  "coords": [
-                        18.590644,
-                        53.008954
                   ]
             },
             {
@@ -8792,15 +7964,6 @@ export const polandHistoryV2: POI[] = [
     id: "poland-piotrkow-trybunalski-old-town-history-v2", "sights": {
       "de": [
             {
-                  "name": "Zamek Królewski w Piotrkowie Trybunalskim",
-                  "text": "Königsschloss aus dem 16. Jahrhundert, Sitz polnischer Reichstage (Sejms), in Piotrków Trybunalski.",
-                  "category": "castle",
-                  "coords": [
-                        19.700764,
-                        51.409106
-                  ]
-            },
-            {
                   "name": "Centrum Edukacji Browarniczej",
                   "text": "Bildungszentrum für Brauereikunst in Piotrków Trybunalski.",
                   "category": "museum",
@@ -8816,15 +7979,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.696354,
                         51.407954
-                  ]
-            },
-            {
-                  "name": "Słoneczko",
-                  "text": "Freibad und Freizeitanlage „Słoneczko” in der Altstadt von Piotrków Trybunalski.",
-                  "category": "recreational",
-                  "coords": [
-                        19.727001,
-                        51.408741
                   ]
             },
             {
@@ -8990,15 +8144,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zalew Bugaj",
-                  "text": "Zalew Bugaj ist ein See in Piotrkow Trybunalski Old Town, ideal für eine Pause vom Stadtleben.",
-                  "category": "natural",
-                  "coords": [
-                        19.728786,
-                        51.410494
-                  ]
-            },
-            {
                   "name": "oczy doliny",
                   "text": "oczy doliny ist ein See in Piotrkow Trybunalski Old Town, der eine ruhige Kulisse bietet.",
                   "category": "natural",
@@ -9028,15 +8173,6 @@ export const polandHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Zamek Królewski w Piotrkowie Trybunalskim",
-                  "text": "16. századi királyi kastély, a lengyel országgyűlések (szejmek) helyszíne Piotrków Trybunalskiban.",
-                  "category": "castle",
-                  "coords": [
-                        19.700764,
-                        51.409106
-                  ]
-            },
-            {
                   "name": "Centrum Edukacji Browarniczej",
                   "text": "Sörfőzési oktatóközpont Piotrków Trybunalskiban.",
                   "category": "museum",
@@ -9052,15 +8188,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.696354,
                         51.407954
-                  ]
-            },
-            {
-                  "name": "Słoneczko",
-                  "text": "„Słoneczko” szabadtéri fürdő és szabadidőközpont Piotrków Trybunalski óvárosában.",
-                  "category": "recreational",
-                  "coords": [
-                        19.727001,
-                        51.408741
                   ]
             },
             {
@@ -9226,15 +8353,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zalew Bugaj",
-                  "text": "A Zalew Bugaj egy tó Piotrkow Trybunalski Old Town területén, ideális a városi életből való kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        19.728786,
-                        51.410494
-                  ]
-            },
-            {
                   "name": "oczy doliny",
                   "text": "Az oczy doliny egy tó Piotrkow Trybunalski Old Town területén, amely nyugodt környezetet biztosít.",
                   "category": "natural",
@@ -9264,15 +8382,6 @@ export const polandHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zamek Królewski w Piotrkowie Trybunalskim",
-                  "text": "Castel regal din secolul al XVI-lea, loc de desfășurare a dietei poloneze (sejmuri) în Piotrków Trybunalski.",
-                  "category": "castle",
-                  "coords": [
-                        19.700764,
-                        51.409106
-                  ]
-            },
-            {
                   "name": "Centrum Edukacji Browarniczej",
                   "text": "Centru educațional pentru arta berii în Piotrków Trybunalski.",
                   "category": "museum",
@@ -9288,15 +8397,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.696354,
                         51.407954
-                  ]
-            },
-            {
-                  "name": "Słoneczko",
-                  "text": "Complex de agrement „Słoneczko” cu piscină în aer liber în orașul vechi Piotrków Trybunalski.",
-                  "category": "recreational",
-                  "coords": [
-                        19.727001,
-                        51.408741
                   ]
             },
             {
@@ -9462,15 +8562,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zalew Bugaj",
-                  "text": "Zalew Bugaj este un lac în Piotrkow Trybunalski Old Town, ideal pentru o pauză de la viața urbană.",
-                  "category": "natural",
-                  "coords": [
-                        19.728786,
-                        51.410494
-                  ]
-            },
-            {
                   "name": "oczy doliny",
                   "text": "oczy doliny este un lac în Piotrkow Trybunalski Old Town, oferind un cadru liniștit.",
                   "category": "natural",
@@ -9500,15 +8591,6 @@ export const polandHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Zamek Królewski w Piotrkowie Trybunalskim",
-                  "text": "16th-century royal castle that hosted Polish parliaments (sejms) in Piotrków Trybunalski.",
-                  "category": "castle",
-                  "coords": [
-                        19.700764,
-                        51.409106
-                  ]
-            },
-            {
                   "name": "Centrum Edukacji Browarniczej",
                   "text": "Educational center for the art of brewing in Piotrków Trybunalski.",
                   "category": "museum",
@@ -9524,15 +8606,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.696354,
                         51.407954
-                  ]
-            },
-            {
-                  "name": "Słoneczko",
-                  "text": "„Słoneczko” outdoor swimming and leisure complex in Piotrków Trybunalski Old Town.",
-                  "category": "recreational",
-                  "coords": [
-                        19.727001,
-                        51.408741
                   ]
             },
             {
@@ -9695,15 +8768,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.674886,
                         51.423615
-                  ]
-            },
-            {
-                  "name": "Zalew Bugaj",
-                  "text": "Zalew Bugaj is a lake in Piotrkow Trybunalski Old Town, ideal for a break from city life.",
-                  "category": "natural",
-                  "coords": [
-                        19.728786,
-                        51.410494
                   ]
             },
             {
@@ -10439,42 +9503,6 @@ export const polandHistoryV2: POI[] = [
     id: "poland-arkadia-park-history-v2", "sights": {
       "de": [
             {
-                  "name": "Pałac w Nieborowie",
-                  "text": "Ein bedeutender barocker Palast mit einer reichen Kunstsammlung.",
-                  "category": "castle",
-                  "coords": [
-                        20.070168,
-                        52.066609
-                  ]
-            },
-            {
-                  "name": "Muzeum Starych Pojazdów",
-                  "text": "Dieses Museum zeigt eine Sammlung historischer Fahrzeuge.",
-                  "category": "museum",
-                  "coords": [
-                        20.063525,
-                        52.06319
-                  ]
-            },
-            {
-                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
-                  "text": "Landschaftspark mit Schloss und romantischem Garten, Teil des Arkadia-Park-Ensembles in Nieborów.",
-                  "category": "natural",
-                  "coords": [
-                        20.072832,
-                        52.059711
-                  ]
-            },
-            {
-                  "name": "Manufaktura Majoliki",
-                  "text": "Ein Museum, das der Geschichte und Herstellung von Majolika-Keramik gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.069113,
-                        52.068009
-                  ]
-            },
-            {
                   "name": "Park romantyczny",
                   "text": "Ein weitläufiger Landschaftspark im romantischen Stil mit verschiedenen Bauwerken.",
                   "category": "park",
@@ -10494,42 +9522,6 @@ export const polandHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Pałac w Nieborowie",
-                  "text": "Jelentős barokk palota gazdag művészeti gyűjteménnyel.",
-                  "category": "castle",
-                  "coords": [
-                        20.070168,
-                        52.066609
-                  ]
-            },
-            {
-                  "name": "Muzeum Starych Pojazdów",
-                  "text": "Ez a múzeum történelmi járművek gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.063525,
-                        52.06319
-                  ]
-            },
-            {
-                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
-                  "text": "Tájpark kastéllyal és romantikus kerttel, a Nieborówi Arkadia Park része.",
-                  "category": "natural",
-                  "coords": [
-                        20.072832,
-                        52.059711
-                  ]
-            },
-            {
-                  "name": "Manufaktura Majoliki",
-                  "text": "A majolika kerámiák történetének és gyártásának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.069113,
-                        52.068009
-                  ]
-            },
             {
                   "name": "Park romantyczny",
                   "text": "Kiterjedt romantikus stílusú tájképi park különböző építményekkel.",
@@ -10551,42 +9543,6 @@ export const polandHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Pałac w Nieborowie",
-                  "text": "Un palat baroc important care adăpostește o colecție bogată de artă.",
-                  "category": "castle",
-                  "coords": [
-                        20.070168,
-                        52.066609
-                  ]
-            },
-            {
-                  "name": "Muzeum Starych Pojazdów",
-                  "text": "Acest muzeu prezintă o colecție de vehicule istorice.",
-                  "category": "museum",
-                  "coords": [
-                        20.063525,
-                        52.06319
-                  ]
-            },
-            {
-                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
-                  "text": "Parcul peisagistic cu palat și grădină romantică, parte a ansamblului Parcul Arkadia din Nieborów.",
-                  "category": "natural",
-                  "coords": [
-                        20.072832,
-                        52.059711
-                  ]
-            },
-            {
-                  "name": "Manufaktura Majoliki",
-                  "text": "Un muzeu dedicat istoriei și fabricării ceramicii de majolică.",
-                  "category": "museum",
-                  "coords": [
-                        20.069113,
-                        52.068009
-                  ]
-            },
-            {
                   "name": "Park romantyczny",
                   "text": "Un parc peisagistic extins în stil romantic, cu diverse structuri.",
                   "category": "park",
@@ -10606,42 +9562,6 @@ export const polandHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Pałac w Nieborowie",
-                  "text": "A significant Baroque palace housing a rich art collection.",
-                  "category": "castle",
-                  "coords": [
-                        20.070168,
-                        52.066609
-                  ]
-            },
-            {
-                  "name": "Muzeum Starych Pojazdów",
-                  "text": "This museum displays a collection of historical vehicles.",
-                  "category": "museum",
-                  "coords": [
-                        20.063525,
-                        52.06319
-                  ]
-            },
-            {
-                  "name": "Zespół Przyrodniczo-Krajobrazowy \"Nieborów\"",
-                  "text": "Landscape park with a palace and romantic garden, part of the Arkadia Park complex in Nieborów.",
-                  "category": "natural",
-                  "coords": [
-                        20.072832,
-                        52.059711
-                  ]
-            },
-            {
-                  "name": "Manufaktura Majoliki",
-                  "text": "A museum dedicated to the history and production of majolica ceramics.",
-                  "category": "museum",
-                  "coords": [
-                        20.069113,
-                        52.068009
-                  ]
-            },
             {
                   "name": "Park romantyczny",
                   "text": "An extensive romantic-style landscape park with various structures.",
@@ -10745,15 +9665,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bohaterom Poległym za Ojczyznę",
-                  "text": "Ein Denkmal zu Ehren der für das Vaterland gefallenen Helden in Brzeg.",
-                  "category": "historical",
-                  "coords": [
-                        17.486981,
-                        50.858096
-                  ]
-            },
-            {
                   "name": "Brama Odrzańska",
                   "text": "Ein erhaltenes historisches Stadttor im Renaissancestil in Brzeg.",
                   "category": "fortress",
@@ -10798,15 +9709,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.456575,
                         50.870928
-                  ]
-            },
-            {
-                  "name": "Bohaterom Poległym za Ojczyznę",
-                  "text": "A hazáért elesett hősök tiszteletére emelt emlékmű Brzegben.",
-                  "category": "historical",
-                  "coords": [
-                        17.486981,
-                        50.858096
                   ]
             },
             {
@@ -10857,15 +9759,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bohaterom Poległym za Ojczyznę",
-                  "text": "Un monument ridicat în cinstea eroilor căzuți pentru patrie în Brzeg.",
-                  "category": "historical",
-                  "coords": [
-                        17.486981,
-                        50.858096
-                  ]
-            },
-            {
                   "name": "Brama Odrzańska",
                   "text": "O poartă istorică a orașului construită în stil renascentist în Brzeg.",
                   "category": "fortress",
@@ -10910,15 +9803,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.456575,
                         50.870928
-                  ]
-            },
-            {
-                  "name": "Bohaterom Poległym za Ojczyznę",
-                  "text": "A monument dedicated to the heroes who fell for their homeland in Brzeg.",
-                  "category": "historical",
-                  "coords": [
-                        17.486981,
-                        50.858096
                   ]
             },
             {
@@ -11310,15 +10194,6 @@ export const polandHistoryV2: POI[] = [
                         19.744914,
                         49.998613
                   ]
-            },
-            {
-                  "name": "Basen Piekary",
-                  "text": "Eine Schwimmeinrichtung im Stadtteil Piekary in der Nähe des Schlosses Tyniec.",
-                  "category": "recreational",
-                  "coords": [
-                        19.787985,
-                        50.019935
-                  ]
             }
       ],
       "hu": [
@@ -11347,15 +10222,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.744914,
                         49.998613
-                  ]
-            },
-            {
-                  "name": "Basen Piekary",
-                  "text": "Úszólétesítmény Piekary kerületben, a tyinieci vár közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.787985,
-                        50.019935
                   ]
             }
       ],
@@ -11386,15 +10252,6 @@ export const polandHistoryV2: POI[] = [
                         19.744914,
                         49.998613
                   ]
-            },
-            {
-                  "name": "Basen Piekary",
-                  "text": "O facilitate de înot situată în districtul Piekary, lângă Castelul Tyniec.",
-                  "category": "recreational",
-                  "coords": [
-                        19.787985,
-                        50.019935
-                  ]
             }
       ],
       "en": [
@@ -11423,15 +10280,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         19.744914,
                         49.998613
-                  ]
-            },
-            {
-                  "name": "Basen Piekary",
-                  "text": "A swimming facility located in the Piekary district near Tyniec Castle.",
-                  "category": "recreational",
-                  "coords": [
-                        19.787985,
-                        50.019935
                   ]
             }
       ]
@@ -12671,87 +11519,6 @@ export const polandHistoryV2: POI[] = [
     id: "poland-chojnice-old-town-history-v2", "sights": {
       "de": [
             {
-                  "name": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach",
-                  "text": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach ist ein bedeutendes Regionalmuseum in der Altstadt von Chojnice.",
-                  "category": "museum",
-                  "coords": [
-                        17.573545,
-                        53.690427
-                  ]
-            },
-            {
-                  "name": "Park Wodny",
-                  "text": "Hallenbad (Park Wodny) in der Chojnicer Altstadt.",
-                  "category": "family",
-                  "coords": [
-                        17.567953,
-                        53.69898
-                  ]
-            },
-            {
-                  "name": "Muzeum Historyczno-Etnograficzne w Chojnicach",
-                  "text": "Historisch-ethnografisches Museum in einem Patrizierhaus der Chojnicer Altstadt.",
-                  "category": "museum",
-                  "coords": [
-                        17.559154,
-                        53.695357
-                  ]
-            },
-            {
-                  "name": "Eksperymentarium",
-                  "text": "Interaktives Wissenschaftsmuseum (Eksperymentarium) in der Chojnicer Altstadt.",
-                  "category": "museum",
-                  "coords": [
-                        17.56757,
-                        53.691428
-                  ]
-            },
-            {
-                  "name": "Galeria Muzeum Janusza Trzebiatowskiego",
-                  "text": "Galerie-Museum Janusz Trzebiatowski in der Chojnicer Altstadt.",
-                  "category": "museum",
-                  "coords": [
-                        17.560805,
-                        53.694293
-                  ]
-            },
-            {
-                  "name": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945",
-                  "text": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945 ist ein Denkmal in der Altstadt von Chojnice.",
-                  "category": "historical",
-                  "coords": [
-                        17.567112,
-                        53.694715
-                  ]
-            },
-            {
-                  "name": "W hołdzie M. Kopernikowi",
-                  "text": "Nikolaus-Kopernikus-Denkmal in der Chojnicer Altstadt.",
-                  "category": "historical",
-                  "coords": [
-                        17.562569,
-                        53.692341
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Matki Bożej Królowej Polski",
-                  "text": "Kościół pw. Matki Bożej Królowej Polski ist eine Kultstätte in der Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.575214,
-                        53.697677
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
-                  "text": "Kościół pw. Ścięcia Świętego Jana Chrzciciela ist eine historische Basilika in der Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.56342,
-                        53.695228
-                  ]
-            },
-            {
                   "name": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier",
                   "text": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier ist eine anerkannte Kultstätte in der Altstadt von Chojnice.",
                   "category": "religious",
@@ -12759,99 +11526,9 @@ export const polandHistoryV2: POI[] = [
                         17.551312,
                         53.688906
                   ]
-            },
-            {
-                  "name": "Kościół pw. Świętej Jadwigi Królowej",
-                  "text": "Kościół pw. Świętej Jadwigi Królowej ist eine Kultstätte in der Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.54845,
-                        53.708366
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach",
-                  "text": "A Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach egy jelentős regionális múzeum az Altstadt von Chojnice területén.",
-                  "category": "museum",
-                  "coords": [
-                        17.573545,
-                        53.690427
-                  ]
-            },
-            {
-                  "name": "Park Wodny",
-                  "text": "Fedett uszoda (Park Wodny) Chojnice óvárosában.",
-                  "category": "family",
-                  "coords": [
-                        17.567953,
-                        53.69898
-                  ]
-            },
-            {
-                  "name": "Muzeum Historyczno-Etnograficzne w Chojnicach",
-                  "text": "Történeti-néprajzi múzeum egy patríciusházban Chojnice óvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        17.559154,
-                        53.695357
-                  ]
-            },
-            {
-                  "name": "Eksperymentarium",
-                  "text": "Interaktív tudományos múzeum (Eksperymentarium) Chojnice óvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        17.56757,
-                        53.691428
-                  ]
-            },
-            {
-                  "name": "Galeria Muzeum Janusza Trzebiatowskiego",
-                  "text": "Janusz Trzebiatowski Galéria Múzeum Chojnice óvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        17.560805,
-                        53.694293
-                  ]
-            },
-            {
-                  "name": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945",
-                  "text": "A Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945 egy emlékmű az Altstadt von Chojnice területén.",
-                  "category": "historical",
-                  "coords": [
-                        17.567112,
-                        53.694715
-                  ]
-            },
-            {
-                  "name": "W hołdzie M. Kopernikowi",
-                  "text": "Kopernikusz-emlékmű Chojnice óvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        17.562569,
-                        53.692341
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Matki Bożej Królowej Polski",
-                  "text": "A Kościół pw. Matki Bożej Królowej Polski egy istentiszteleti hely az Altstadt von Chojnice területén.",
-                  "category": "religious",
-                  "coords": [
-                        17.575214,
-                        53.697677
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
-                  "text": "A Kościół pw. Ścięcia Świętego Jana Chrzciciela egy történelmi bazilika az Altstadt von Chojnice területén.",
-                  "category": "religious",
-                  "coords": [
-                        17.56342,
-                        53.695228
-                  ]
-            },
             {
                   "name": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier",
                   "text": "A Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier egy ismert istentiszteleti hely az Altstadt von Chojnice területén.",
@@ -12860,99 +11537,9 @@ export const polandHistoryV2: POI[] = [
                         17.551312,
                         53.688906
                   ]
-            },
-            {
-                  "name": "Kościół pw. Świętej Jadwigi Królowej",
-                  "text": "A Kościół pw. Świętej Jadwigi Królowej egy istentiszteleti hely az Altstadt von Chojnice területén.",
-                  "category": "religious",
-                  "coords": [
-                        17.54845,
-                        53.708366
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach",
-                  "text": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach este un muzeu regional important situat în Altstadt von Chojnice.",
-                  "category": "museum",
-                  "coords": [
-                        17.573545,
-                        53.690427
-                  ]
-            },
-            {
-                  "name": "Park Wodny",
-                  "text": "Parc acvatic acoperit în centrul vechi al orașului Chojnice.",
-                  "category": "family",
-                  "coords": [
-                        17.567953,
-                        53.69898
-                  ]
-            },
-            {
-                  "name": "Muzeum Historyczno-Etnograficzne w Chojnicach",
-                  "text": "Muzeul istorico-etnografic într-o casă patriciană din centrul vechi al orașului Chojnice.",
-                  "category": "museum",
-                  "coords": [
-                        17.559154,
-                        53.695357
-                  ]
-            },
-            {
-                  "name": "Eksperymentarium",
-                  "text": "Muzeu interactiv de știință (Eksperymentarium) în centrul vechi al orașului Chojnice.",
-                  "category": "museum",
-                  "coords": [
-                        17.56757,
-                        53.691428
-                  ]
-            },
-            {
-                  "name": "Galeria Muzeum Janusza Trzebiatowskiego",
-                  "text": "Galeria-Muzeu Janusz Trzebiatowski în centrul vechi al orașului Chojnice.",
-                  "category": "museum",
-                  "coords": [
-                        17.560805,
-                        53.694293
-                  ]
-            },
-            {
-                  "name": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945",
-                  "text": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945 este un monument situat în Altstadt von Chojnice.",
-                  "category": "historical",
-                  "coords": [
-                        17.567112,
-                        53.694715
-                  ]
-            },
-            {
-                  "name": "W hołdzie M. Kopernikowi",
-                  "text": "Monument al lui Nicolaus Copernic în centrul vechi al orașului Chojnice.",
-                  "category": "historical",
-                  "coords": [
-                        17.562569,
-                        53.692341
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Matki Bożej Królowej Polski",
-                  "text": "Kościół pw. Matki Bożej Królowej Polski este un lăcaș de cult situat în Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.575214,
-                        53.697677
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
-                  "text": "Kościół pw. Ścięcia Świętego Jana Chrzciciela este o biserică istorică tip bazilică situată în Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.56342,
-                        53.695228
-                  ]
-            },
             {
                   "name": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier",
                   "text": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier este un lăcaș de cult recunoscut situat în Altstadt von Chojnice.",
@@ -12961,99 +11548,9 @@ export const polandHistoryV2: POI[] = [
                         17.551312,
                         53.688906
                   ]
-            },
-            {
-                  "name": "Kościół pw. Świętej Jadwigi Królowej",
-                  "text": "Kościół pw. Świętej Jadwigi Królowej este un lăcaș de cult situat în Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.54845,
-                        53.708366
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach",
-                  "text": "Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach is an important regional museum located in Altstadt von Chojnice.",
-                  "category": "museum",
-                  "coords": [
-                        17.573545,
-                        53.690427
-                  ]
-            },
-            {
-                  "name": "Park Wodny",
-                  "text": "Indoor water park in Chojnice Old Town.",
-                  "category": "family",
-                  "coords": [
-                        17.567953,
-                        53.69898
-                  ]
-            },
-            {
-                  "name": "Muzeum Historyczno-Etnograficzne w Chojnicach",
-                  "text": "Historical-ethnographic museum in a patrician house in Chojnice Old Town.",
-                  "category": "museum",
-                  "coords": [
-                        17.559154,
-                        53.695357
-                  ]
-            },
-            {
-                  "name": "Eksperymentarium",
-                  "text": "Interactive science museum (Eksperymentarium) in Chojnice Old Town.",
-                  "category": "museum",
-                  "coords": [
-                        17.56757,
-                        53.691428
-                  ]
-            },
-            {
-                  "name": "Galeria Muzeum Janusza Trzebiatowskiego",
-                  "text": "Janusz Trzebiatowski Gallery-Museum in Chojnice Old Town.",
-                  "category": "museum",
-                  "coords": [
-                        17.560805,
-                        53.694293
-                  ]
-            },
-            {
-                  "name": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945",
-                  "text": "Poległym ofiarom faszyzmu hitlerowskiego w latach 1939-1945 is a monument located in Altstadt von Chojnice.",
-                  "category": "historical",
-                  "coords": [
-                        17.567112,
-                        53.694715
-                  ]
-            },
-            {
-                  "name": "W hołdzie M. Kopernikowi",
-                  "text": "Monument to Nicolaus Copernicus in Chojnice Old Town.",
-                  "category": "historical",
-                  "coords": [
-                        17.562569,
-                        53.692341
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Matki Bożej Królowej Polski",
-                  "text": "Kościół pw. Matki Bożej Królowej Polski is a place of worship located in Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.575214,
-                        53.697677
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Ścięcia Świętego Jana Chrzciciela",
-                  "text": "Kościół pw. Ścięcia Świętego Jana Chrzciciela is a historic basilica church located in Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.56342,
-                        53.695228
-                  ]
-            },
             {
                   "name": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier",
                   "text": "Kościół pw. Chrystusa Króla i Błogosławionego Ojca Daniela Brottier is a recognized place of worship located in Altstadt von Chojnice.",
@@ -13061,15 +11558,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.551312,
                         53.688906
-                  ]
-            },
-            {
-                  "name": "Kościół pw. Świętej Jadwigi Królowej",
-                  "text": "Kościół pw. Świętej Jadwigi Królowej is a place of worship located in Altstadt von Chojnice.",
-                  "category": "religious",
-                  "coords": [
-                        17.54845,
-                        53.708366
                   ]
             }
       ]
@@ -13607,15 +12095,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jan Paweł II",
-                  "text": "Denkmal für Papst Johannes Paul II. in der Krosnoer Altstadt.",
-                  "category": "historical",
-                  "coords": [
-                        21.771616,
-                        49.678452
-                  ]
-            },
-            {
                   "name": "Pomnik męczenników Matki Bożej",
                   "text": "Denkmal für die Märtyrer der Gottesmutter in der Krosnoer Altstadt.",
                   "category": "historical",
@@ -13658,15 +12137,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.745043,
                         49.708017
-                  ]
-            },
-            {
-                  "name": "Samolot Su-22",
-                  "text": "Ausgestellter Kampfjet Su-22 als Denkmal in der Krosnoer Altstadt.",
-                  "category": "landmark",
-                  "coords": [
-                        21.746758,
-                        49.686275
                   ]
             },
             {
@@ -13825,15 +12295,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jan Paweł II",
-                  "text": "II. János Pál pápa emlékműve Krosno óvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        21.771616,
-                        49.678452
-                  ]
-            },
-            {
                   "name": "Pomnik męczenników Matki Bożej",
                   "text": "Az Istenanya vértanúinak emlékműve Krosno óvárosában.",
                   "category": "historical",
@@ -13876,15 +12337,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.745043,
                         49.708017
-                  ]
-            },
-            {
-                  "name": "Samolot Su-22",
-                  "text": "Kiállított Su-22-es vadászgép emlékműként Krosno óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        21.746758,
-                        49.686275
                   ]
             },
             {
@@ -14043,15 +12495,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jan Paweł II",
-                  "text": "Monumentul Papei Ioan Paul al II-lea în centrul vechi al orașului Krosno.",
-                  "category": "historical",
-                  "coords": [
-                        21.771616,
-                        49.678452
-                  ]
-            },
-            {
                   "name": "Pomnik męczenników Matki Bożej",
                   "text": "Monumentul martirilor Maicii Domnului în centrul vechi al orașului Krosno.",
                   "category": "historical",
@@ -14094,15 +12537,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.745043,
                         49.708017
-                  ]
-            },
-            {
-                  "name": "Samolot Su-22",
-                  "text": "Avion de luptă Su-22 expus ca monument în centrul vechi al orașului Krosno.",
-                  "category": "landmark",
-                  "coords": [
-                        21.746758,
-                        49.686275
                   ]
             },
             {
@@ -14261,15 +12695,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jan Paweł II",
-                  "text": "Monument to Pope John Paul II in Krosno Old Town.",
-                  "category": "historical",
-                  "coords": [
-                        21.771616,
-                        49.678452
-                  ]
-            },
-            {
                   "name": "Pomnik męczenników Matki Bożej",
                   "text": "Monument to the martyrs of the Mother of God in Krosno Old Town.",
                   "category": "historical",
@@ -14312,15 +12737,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         21.745043,
                         49.708017
-                  ]
-            },
-            {
-                  "name": "Samolot Su-22",
-                  "text": "Su-22 fighter jet on display as a monument in Krosno Old Town.",
-                  "category": "landmark",
-                  "coords": [
-                        21.746758,
-                        49.686275
                   ]
             },
             {
@@ -14804,15 +13220,6 @@ export const polandHistoryV2: POI[] = [
     id: "poland-nysa-old-town-history-v2", "sights": {
       "de": [
             {
-                  "name": "Fort II",
-                  "text": "Das Fort II in der Nysaer Altstadt ist eine preußische Festungsanlage aus dem 19. Jahrhundert.",
-                  "category": "fortress",
-                  "coords": [
-                        17.325272,
-                        50.491967
-                  ]
-            },
-            {
                   "name": "Skarbiec św. Jakuba",
                   "text": "Der Schatz des heiligen Jakobus in Nysa ist ein Museum für sakrale Kunst im ehemaligen Jesuitenkolleg.",
                   "category": "museum",
@@ -14840,57 +13247,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapuziner Redoute",
-                  "text": "Die Kapuzinerredoute in Nysa ist eine Festungsredoute aus dem 19. Jahrhundert, ein eingetragenes Denkmal.",
-                  "category": "fortress",
-                  "coords": [
-                        17.332469,
-                        50.480248
-                  ]
-            },
-            {
-                  "name": "Fort I",
-                  "text": "Fort I – eines der Außenforts der Festung Nysa aus dem 19. Jahrhundert.",
-                  "category": "fortress",
-                  "coords": [
-                        17.336846,
-                        50.488388
-                  ]
-            },
-            {
-                  "name": "Hohe Batterie",
-                  "text": "Hochbatterie (Wysoka Bateria) – eine erhöhte Artilleriestellung der Festung Nysa.",
-                  "category": "fortress",
-                  "coords": [
-                        17.311854,
-                        50.479386
-                  ]
-            },
-            {
                   "name": "Flesza Nowa",
                   "text": "Neue Flesche (Flesza Nowa) – eine Feldschanze der Festung Nysa.",
                   "category": "historical",
                   "coords": [
                         17.326845,
                         50.466578
-                  ]
-            },
-            {
-                  "name": "Społeczne Muzeum Energetyki",
-                  "text": "Gesellschaftliches Energiemuseum (Społeczne Muzeum Energetyki) zur Geschichte der Stromerzeugung in der Nysaer Altstadt.",
-                  "category": "museum",
-                  "coords": [
-                        17.337579,
-                        50.481897
-                  ]
-            },
-            {
-                  "name": "Hoher Redan",
-                  "text": "Hohes Redan (Wysoki Redan) – eine Redoute der Festung Nysa.",
-                  "category": "fortress",
-                  "coords": [
-                        17.312407,
-                        50.480615
                   ]
             },
             {
@@ -14930,57 +13292,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kąpielisko Miejskie „Frajda”",
-                  "text": "Kąpielisko Miejskie „Frajda” ist ein Wasserpark in der Altstadt von Nysa.",
-                  "category": "family",
-                  "coords": [
-                        17.318755,
-                        50.477274
-                  ]
-            },
-            {
                   "name": "Bastei der Hl. Hedwig",
                   "text": "Eine Bastion der Nysaer Altstadtbefestigungen, benannt nach der heiligen Hedwig.",
                   "category": "fortress",
                   "coords": [
                         17.331683,
                         50.476164
-                  ]
-            },
-            {
-                  "name": "Jerusalemer Redoute",
-                  "text": "Eine Redoute in den Nysaer Altstadtbefestigungen, genannt Jerusalem-Redoute.",
-                  "category": "fortress",
-                  "coords": [
-                        17.319105,
-                        50.478875
-                  ]
-            },
-            {
-                  "name": "Kaninchen Redoute",
-                  "text": "Eine Redoute der Nysaer Altstadtbefestigungen, benannt nach dem Hasen (Królicza).",
-                  "category": "fortress",
-                  "coords": [
-                        17.306865,
-                        50.479689
-                  ]
-            },
-            {
-                  "name": "Bombardier-Fort",
-                  "text": "Ein Fort in Nysa, benannt nach den Bombardieren (Artilleristen).",
-                  "category": "fortress",
-                  "coords": [
-                        17.323227,
-                        50.481903
-                  ]
-            },
-            {
-                  "name": "Fort Preussen",
-                  "text": "Ein Fort in Nysa, genannt Preußen-Fort (Fort Prusy).",
-                  "category": "fortress",
-                  "coords": [
-                        17.317699,
-                        50.483596
                   ]
             },
             {
@@ -15011,30 +13328,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "POSEJDON Spływy kajakowe i pontonowe Nysa",
-                  "text": "Ein Verleih für Kajak- und Schlauchboottouren auf der Glatzer Neiße (Nysa Kłodzka).",
-                  "category": "landmark",
-                  "coords": [
-                        17.363883,
-                        50.487786
-                  ]
-            },
-            {
                   "name": "Kula armatnia z 1807",
                   "text": "Kula armatnia z 1807 ist eine historische Sehenswürdigkeit in der Altstadt von Nysa.",
                   "category": "landmark",
                   "coords": [
                         17.332868,
                         50.4732
-                  ]
-            },
-            {
-                  "name": "Altana Eichendorffa",
-                  "text": "Ein Joseph-von-Eichendorff-Gedenkpavillon, errichtet 2007 in der Nysaer Altstadt.",
-                  "category": "natural",
-                  "coords": [
-                        17.307053,
-                        50.478528
                   ]
             },
             {
@@ -15053,15 +13352,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.335963,
                         50.469273
-                  ]
-            },
-            {
-                  "name": "Kościół Świętego Krzyża",
-                  "text": "Denkmalgeschützte Heilig-Kreuz-Kirche in der Altstadt von Nysa.",
-                  "category": "religious",
-                  "coords": [
-                        17.316501,
-                        50.480514
                   ]
             },
             {
@@ -15101,48 +13391,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościół pw. Świętego Dominika",
-                  "text": "Die Dominikuskirche in Nysa ist eine gotische Kirche aus dem 13. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        17.321496,
-                        50.47885
-                  ]
-            },
-            {
                   "name": "Kościół parafialny pw. Matki Boskiej Bolesnej",
                   "text": "Kościół parafialny pw. Matki Boskiej Bolesnej ist eine Kultstätte in der Altstadt von Nysa.",
                   "category": "religious",
                   "coords": [
                         17.330406,
                         50.46021
-                  ]
-            },
-            {
-                  "name": "Kościół parafialny pw. św. Franciszka z Asyżu",
-                  "text": "Die Pfarrkirche St. Franziskus von Assisi in Nysa ist ein barocker Bau aus dem 18. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        17.336482,
-                        50.483071
-                  ]
-            },
-            {
-                  "name": "Kościół cmentarny św. Rocha i św. Sebastiana",
-                  "text": "Die Friedhofskirche St. Rochus und St. Sebastian in Nysa ist eine Kapelle aus dem 17. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        17.356722,
-                        50.489319
-                  ]
-            },
-            {
-                  "name": "Kościół parafialny pw. św. Elżbiety Węgierskiej",
-                  "text": "Kościół parafialny pw. św. Elżbiety Węgierskiej ist eine Pfarrkirche in der Altstadt von Nysa.",
-                  "category": "religious",
-                  "coords": [
-                        17.34778,
-                        50.483682
                   ]
             },
             {
@@ -15156,15 +13410,6 @@ export const polandHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Fort II",
-                  "text": "A II. erőd Nysa óvárosában egy 19. századi porosz erődítmény.",
-                  "category": "fortress",
-                  "coords": [
-                        17.325272,
-                        50.491967
-                  ]
-            },
             {
                   "name": "Skarbiec św. Jakuba",
                   "text": "A Nysa-i Szent Jakab-kincs szakrális művészeti múzeum a volt jezsuita kollégiumban.",
@@ -15193,57 +13438,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reduta Kapucyńska",
-                  "text": "A Nysa-i Kapucinus Redut egy 19. századi erődredut, műemléki védelem alatt áll.",
-                  "category": "fortress",
-                  "coords": [
-                        17.332469,
-                        50.480248
-                  ]
-            },
-            {
-                  "name": "Fort I",
-                  "text": "I. erőd – a nysai erődrendszer egyik 19. századi külső erődje.",
-                  "category": "fortress",
-                  "coords": [
-                        17.336846,
-                        50.488388
-                  ]
-            },
-            {
-                  "name": "Wysoka Bateria",
-                  "text": "Magas üteg (Wysoka Bateria) – a nysai erőd egyik emelt tüzérségi állása.",
-                  "category": "fortress",
-                  "coords": [
-                        17.311854,
-                        50.479386
-                  ]
-            },
-            {
                   "name": "Flesza Nowa",
                   "text": "Új sánc (Flesza Nowa) – a nysai erőd egyik mezei sánca.",
                   "category": "historical",
                   "coords": [
                         17.326845,
                         50.466578
-                  ]
-            },
-            {
-                  "name": "Społeczne Muzeum Energetyki",
-                  "text": "Társadalmi Energiaügyi Múzeum (Społeczne Muzeum Energetyki) az áramtermelés történetéről Nysa óvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        17.337579,
-                        50.481897
-                  ]
-            },
-            {
-                  "name": "Wysoki Redan",
-                  "text": "Magas redan (Wysoki Redan) – a nysai erőd egyik redutja.",
-                  "category": "fortress",
-                  "coords": [
-                        17.312407,
-                        50.480615
                   ]
             },
             {
@@ -15283,57 +13483,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kąpielisko Miejskie „Frajda”",
-                  "text": "A Kąpielisko Miejskie „Frajda” egy vízipark Altstadt von Nysában.",
-                  "category": "family",
-                  "coords": [
-                        17.318755,
-                        50.477274
-                  ]
-            },
-            {
                   "name": "Bastion świętej Jadwigi",
                   "text": "Bástya Nysa óvárosának erődítményrendszerében, Szent Hedvigről elnevezve.",
                   "category": "fortress",
                   "coords": [
                         17.331683,
                         50.476164
-                  ]
-            },
-            {
-                  "name": "Reduta Jerozolimska",
-                  "text": "Reduta Nysa óvárosának erődítményeiben, Jeruzsálem-reduta néven.",
-                  "category": "fortress",
-                  "coords": [
-                        17.319105,
-                        50.478875
-                  ]
-            },
-            {
-                  "name": "Reduta Królicza",
-                  "text": "Reduta Nysa óvárosának erődítményeiben, a Nyúlról (Królicza) elnevezve.",
-                  "category": "fortress",
-                  "coords": [
-                        17.306865,
-                        50.479689
-                  ]
-            },
-            {
-                  "name": "Fort Bombardier",
-                  "text": "Erőd Nysában, a bombázókról (tüzérekről) elnevezve.",
-                  "category": "fortress",
-                  "coords": [
-                        17.323227,
-                        50.481903
-                  ]
-            },
-            {
-                  "name": "Fort Prusy",
-                  "text": "Erőd Nysában, Porosz-erőd (Fort Prusy) néven.",
-                  "category": "fortress",
-                  "coords": [
-                        17.317699,
-                        50.483596
                   ]
             },
             {
@@ -15364,30 +13519,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "POSEJDON Spływy kajakowe i pontonowe Nysa",
-                  "text": "Kajak- és gumicsónak-túrák kölcsönzője a Glatzer Neiße (Nysa Kłodzka) folyón.",
-                  "category": "landmark",
-                  "coords": [
-                        17.363883,
-                        50.487786
-                  ]
-            },
-            {
                   "name": "Kula armatnia z 1807",
                   "text": "A Kula armatnia z 1807 egy történelmi látványosság Altstadt von Nysában.",
                   "category": "landmark",
                   "coords": [
                         17.332868,
                         50.4732
-                  ]
-            },
-            {
-                  "name": "Altana Eichendorffa",
-                  "text": "Eichendorff-emlék lugas, 2007-ben állítva Nysa óvárosában.",
-                  "category": "natural",
-                  "coords": [
-                        17.307053,
-                        50.478528
                   ]
             },
             {
@@ -15406,15 +13543,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.335963,
                         50.469273
-                  ]
-            },
-            {
-                  "name": "Kościół Świętego Krzyża",
-                  "text": "Műemlék Szent Kereszt-templom Nysa óvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        17.316501,
-                        50.480514
                   ]
             },
             {
@@ -15454,48 +13582,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościół pw. Świętego Dominika",
-                  "text": "A Nysa-i Szent Domonkos-templom egy 13. századi gótikus templom.",
-                  "category": "religious",
-                  "coords": [
-                        17.321496,
-                        50.47885
-                  ]
-            },
-            {
                   "name": "Kościół parafialny pw. Matki Boskiej Bolesnej",
                   "text": "A Kościół parafialny pw. Matki Boskiej Bolesnej egy istentiszteleti hely Altstadt von Nysában.",
                   "category": "religious",
                   "coords": [
                         17.330406,
                         50.46021
-                  ]
-            },
-            {
-                  "name": "Kościół parafialny pw. św. Franciszka z Asyżu",
-                  "text": "A Nysa-i Szent Ferenc-plébániatemplom egy 18. századi barokk épület.",
-                  "category": "religious",
-                  "coords": [
-                        17.336482,
-                        50.483071
-                  ]
-            },
-            {
-                  "name": "Kościół cmentarny św. Rocha i św. Sebastiana",
-                  "text": "A Nysa-i Szent Rókus és Szent Sebestyén temetőkápolna egy 17. századi kápolna.",
-                  "category": "religious",
-                  "coords": [
-                        17.356722,
-                        50.489319
-                  ]
-            },
-            {
-                  "name": "Kościół parafialny pw. św. Elżbiety Węgierskiej",
-                  "text": "A Kościół parafialny pw. św. Elżbiety Węgierskiej egy plébániatemplom Altstadt von Nysában.",
-                  "category": "religious",
-                  "coords": [
-                        17.34778,
-                        50.483682
                   ]
             },
             {
@@ -15509,15 +13601,6 @@ export const polandHistoryV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Fort II",
-                  "text": "Fortul II din Orașul Vechi Nysa, o fortificație prusacă din secolul al XIX-lea.",
-                  "category": "fortress",
-                  "coords": [
-                        17.325272,
-                        50.491967
-                  ]
-            },
             {
                   "name": "Skarbiec św. Jakuba",
                   "text": "Tezaurul Sfântului Iacob din Nysa este un muzeu de artă sacră în fostul colegiu iezuit.",
@@ -15546,57 +13629,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reduta Kapucyńska",
-                  "text": "Reduta Capucinilor din Nysa este o redută de fortăreață din secolul al XIX-lea, monument istoric.",
-                  "category": "fortress",
-                  "coords": [
-                        17.332469,
-                        50.480248
-                  ]
-            },
-            {
-                  "name": "Fort I",
-                  "text": "Fortul I – unul dintre forturile exterioare ale cetății Nysa din secolul al XIX-lea.",
-                  "category": "fortress",
-                  "coords": [
-                        17.336846,
-                        50.488388
-                  ]
-            },
-            {
-                  "name": "Wysoka Bateria",
-                  "text": "Bateria Înaltă (Wysoka Bateria) – o poziție de artilerie ridicată a cetății Nysa.",
-                  "category": "fortress",
-                  "coords": [
-                        17.311854,
-                        50.479386
-                  ]
-            },
-            {
                   "name": "Flesza Nowa",
                   "text": "Fleșa Nouă (Flesza Nowa) – un șanț de apărare al cetății Nysa.",
                   "category": "historical",
                   "coords": [
                         17.326845,
                         50.466578
-                  ]
-            },
-            {
-                  "name": "Społeczne Muzeum Energetyki",
-                  "text": "Muzeul Social al Energiei (Społeczne Muzeum Energetyki) despre istoria producerii energiei electrice în centrul vechi al orașului Nysa.",
-                  "category": "museum",
-                  "coords": [
-                        17.337579,
-                        50.481897
-                  ]
-            },
-            {
-                  "name": "Wysoki Redan",
-                  "text": "Redanul Înalt (Wysoki Redan) – un redută a cetății Nysa.",
-                  "category": "fortress",
-                  "coords": [
-                        17.312407,
-                        50.480615
                   ]
             },
             {
@@ -15636,57 +13674,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kąpielisko Miejskie „Frajda”",
-                  "text": "Kąpielisko Miejskie „Frajda” este un parc acvatic în Altstadt von Nysa.",
-                  "category": "family",
-                  "coords": [
-                        17.318755,
-                        50.477274
-                  ]
-            },
-            {
                   "name": "Bastion świętej Jadwigi",
                   "text": "Un bastion din fortificațiile orașului vechi Nysa, numit după Sfânta Hedviga.",
                   "category": "fortress",
                   "coords": [
                         17.331683,
                         50.476164
-                  ]
-            },
-            {
-                  "name": "Reduta Jerozolimska",
-                  "text": "O redută în fortificațiile orașului vechi Nysa, numită Reduta Ierusalimului.",
-                  "category": "fortress",
-                  "coords": [
-                        17.319105,
-                        50.478875
-                  ]
-            },
-            {
-                  "name": "Reduta Królicza",
-                  "text": "O redută în fortificațiile orașului vechi Nysa, numită după iepure (Królicza).",
-                  "category": "fortress",
-                  "coords": [
-                        17.306865,
-                        50.479689
-                  ]
-            },
-            {
-                  "name": "Fort Bombardier",
-                  "text": "Un fort în Nysa, numit după bombardieri (artileriști).",
-                  "category": "fortress",
-                  "coords": [
-                        17.323227,
-                        50.481903
-                  ]
-            },
-            {
-                  "name": "Fort Prusy",
-                  "text": "Un fort în Nysa, numit Fortul Prusiei (Fort Prusy).",
-                  "category": "fortress",
-                  "coords": [
-                        17.317699,
-                        50.483596
                   ]
             },
             {
@@ -15717,30 +13710,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "POSEJDON Spływy kajakowe i pontonowe Nysa",
-                  "text": "O închiriere pentru plimbări cu caiacul și barca pneumatică pe râul Nysa Kłodzka.",
-                  "category": "landmark",
-                  "coords": [
-                        17.363883,
-                        50.487786
-                  ]
-            },
-            {
                   "name": "Kula armatnia z 1807",
                   "text": "Kula armatnia z 1807 este o atracție turistică din Altstadt von Nysa.",
                   "category": "landmark",
                   "coords": [
                         17.332868,
                         50.4732
-                  ]
-            },
-            {
-                  "name": "Altana Eichendorffa",
-                  "text": "Un foișor comemorativ Joseph von Eichendorff, ridicat în 2007 în orașul vechi Nysa.",
-                  "category": "natural",
-                  "coords": [
-                        17.307053,
-                        50.478528
                   ]
             },
             {
@@ -15759,15 +13734,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.335963,
                         50.469273
-                  ]
-            },
-            {
-                  "name": "Kościół Świętego Krzyża",
-                  "text": "Biserica Sfânta Cruce, monument istoric, în Orașul Vechi Nysa.",
-                  "category": "religious",
-                  "coords": [
-                        17.316501,
-                        50.480514
                   ]
             },
             {
@@ -15807,48 +13773,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościół pw. Świętego Dominika",
-                  "text": "Biserica Sfântul Dominic din Nysa este o biserică gotică din secolul al XIII-lea.",
-                  "category": "religious",
-                  "coords": [
-                        17.321496,
-                        50.47885
-                  ]
-            },
-            {
                   "name": "Kościół parafialny pw. Matki Boskiej Bolesnej",
                   "text": "Kościół parafialny pw. Matki Boskiej Bolesnej este o biserică parohială în Altstadt von Nysa.",
                   "category": "religious",
                   "coords": [
                         17.330406,
                         50.46021
-                  ]
-            },
-            {
-                  "name": "Kościół parafialny pw. św. Franciszka z Asyżu",
-                  "text": "Biserica parohială Sfântul Francisc de Assisi din Nysa este o construcție barocă din secolul al XVIII-lea.",
-                  "category": "religious",
-                  "coords": [
-                        17.336482,
-                        50.483071
-                  ]
-            },
-            {
-                  "name": "Kościół cmentarny św. Rocha i św. Sebastiana",
-                  "text": "Capela cimitirului Sfinții Roche și Sebastian din Nysa este o capelă din secolul al XVII-lea.",
-                  "category": "religious",
-                  "coords": [
-                        17.356722,
-                        50.489319
-                  ]
-            },
-            {
-                  "name": "Kościół parafialny pw. św. Elżbiety Węgierskiej",
-                  "text": "Kościół parafialny pw. św. Elżbiety Węgierskiej este o biserică parohială în Altstadt von Nysa.",
-                  "category": "religious",
-                  "coords": [
-                        17.34778,
-                        50.483682
                   ]
             },
             {
@@ -15862,15 +13792,6 @@ export const polandHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Fort II",
-                  "text": "Fort II in Nysa Old Town, a 19th-century Prussian fortification.",
-                  "category": "fortress",
-                  "coords": [
-                        17.325272,
-                        50.491967
-                  ]
-            },
             {
                   "name": "Skarbiec św. Jakuba",
                   "text": "Treasury of St. James in Nysa is a museum of sacred art in the former Jesuit college.",
@@ -15899,57 +13820,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reduta Kapucyńska",
-                  "text": "Capuchin Redoubt in Nysa is a 19th-century fortress redoubt, a listed monument.",
-                  "category": "fortress",
-                  "coords": [
-                        17.332469,
-                        50.480248
-                  ]
-            },
-            {
-                  "name": "Fort I",
-                  "text": "Fort I – one of the 19th-century outer forts of the Nysa fortress.",
-                  "category": "fortress",
-                  "coords": [
-                        17.336846,
-                        50.488388
-                  ]
-            },
-            {
-                  "name": "Wysoka Bateria",
-                  "text": "High Battery (Wysoka Bateria) – a raised artillery position of the Nysa fortress.",
-                  "category": "fortress",
-                  "coords": [
-                        17.311854,
-                        50.479386
-                  ]
-            },
-            {
                   "name": "Flesza Nowa",
                   "text": "New Flèche (Flesza Nowa) – a field fortification of the Nysa fortress.",
                   "category": "historical",
                   "coords": [
                         17.326845,
                         50.466578
-                  ]
-            },
-            {
-                  "name": "Społeczne Muzeum Energetyki",
-                  "text": "Social Museum of Energy (Społeczne Muzeum Energetyki) on the history of power generation in Nysa Old Town.",
-                  "category": "museum",
-                  "coords": [
-                        17.337579,
-                        50.481897
-                  ]
-            },
-            {
-                  "name": "Wysoki Redan",
-                  "text": "High Redan (Wysoki Redan) – a redoubt of the Nysa fortress.",
-                  "category": "fortress",
-                  "coords": [
-                        17.312407,
-                        50.480615
                   ]
             },
             {
@@ -15989,57 +13865,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kąpielisko Miejskie „Frajda”",
-                  "text": "Kąpielisko Miejskie „Frajda” is a water park situated in the Altstadt von Nysa.",
-                  "category": "family",
-                  "coords": [
-                        17.318755,
-                        50.477274
-                  ]
-            },
-            {
                   "name": "Bastion świętej Jadwigi",
                   "text": "A bastion in Nysa's old town fortifications, named after St. Hedwig.",
                   "category": "fortress",
                   "coords": [
                         17.331683,
                         50.476164
-                  ]
-            },
-            {
-                  "name": "Reduta Jerozolimska",
-                  "text": "A redoubt in Nysa's old town fortifications, called the Jerusalem Redoubt.",
-                  "category": "fortress",
-                  "coords": [
-                        17.319105,
-                        50.478875
-                  ]
-            },
-            {
-                  "name": "Reduta Królicza",
-                  "text": "A redoubt in Nysa's old town fortifications, named after the rabbit (Królicza).",
-                  "category": "fortress",
-                  "coords": [
-                        17.306865,
-                        50.479689
-                  ]
-            },
-            {
-                  "name": "Fort Bombardier",
-                  "text": "A fort in Nysa, named after the bombardiers (artillerymen).",
-                  "category": "fortress",
-                  "coords": [
-                        17.323227,
-                        50.481903
-                  ]
-            },
-            {
-                  "name": "Fort Prusy",
-                  "text": "A fort in Nysa, called the Prussia Fort (Fort Prusy).",
-                  "category": "fortress",
-                  "coords": [
-                        17.317699,
-                        50.483596
                   ]
             },
             {
@@ -16070,30 +13901,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "POSEJDON Spływy kajakowe i pontonowe Nysa",
-                  "text": "A rental for kayak and rafting trips on the Nysa Kłodzka river.",
-                  "category": "landmark",
-                  "coords": [
-                        17.363883,
-                        50.487786
-                  ]
-            },
-            {
                   "name": "Kula armatnia z 1807",
                   "text": "Kula armatnia z 1807 is an attraction located in the Altstadt von Nysa.",
                   "category": "landmark",
                   "coords": [
                         17.332868,
                         50.4732
-                  ]
-            },
-            {
-                  "name": "Altana Eichendorffa",
-                  "text": "A gazebo dedicated to Joseph von Eichendorff, erected in 2007 in Nysa Old Town.",
-                  "category": "natural",
-                  "coords": [
-                        17.307053,
-                        50.478528
                   ]
             },
             {
@@ -16112,15 +13925,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.335963,
                         50.469273
-                  ]
-            },
-            {
-                  "name": "Kościół Świętego Krzyża",
-                  "text": "Heritage-listed Holy Cross Church in Nysa Old Town.",
-                  "category": "religious",
-                  "coords": [
-                        17.316501,
-                        50.480514
                   ]
             },
             {
@@ -16160,48 +13964,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościół pw. Świętego Dominika",
-                  "text": "Church of St. Dominic in Nysa is a 13th-century Gothic church.",
-                  "category": "religious",
-                  "coords": [
-                        17.321496,
-                        50.47885
-                  ]
-            },
-            {
                   "name": "Kościół parafialny pw. Matki Boskiej Bolesnej",
                   "text": "Kościół parafialny pw. Matki Boskiej Bolesnej is a parish church and place of worship in the Altstadt von Nysa.",
                   "category": "religious",
                   "coords": [
                         17.330406,
                         50.46021
-                  ]
-            },
-            {
-                  "name": "Kościół parafialny pw. św. Franciszka z Asyżu",
-                  "text": "Parish church of St. Francis of Assisi in Nysa is an 18th-century Baroque building.",
-                  "category": "religious",
-                  "coords": [
-                        17.336482,
-                        50.483071
-                  ]
-            },
-            {
-                  "name": "Kościół cmentarny św. Rocha i św. Sebastiana",
-                  "text": "Cemetery church of St. Roch and St. Sebastian in Nysa is a 17th-century chapel.",
-                  "category": "religious",
-                  "coords": [
-                        17.356722,
-                        50.489319
-                  ]
-            },
-            {
-                  "name": "Kościół parafialny pw. św. Elżbiety Węgierskiej",
-                  "text": "Kościół parafialny pw. św. Elżbiety Węgierskiej is a parish church and place of worship in the Altstadt von Nysa.",
-                  "category": "religious",
-                  "coords": [
-                        17.34778,
-                        50.483682
                   ]
             },
             {
@@ -16262,15 +14030,6 @@ export const polandHistoryV2: POI[] = [
     id: "poland-legnica-old-town-history-v2", "sights": {
       "de": [
             {
-                  "name": "Kąpielisko Północne",
-                  "text": "Ein lokales Freibad oder See in Legnica, perfekt für sommerliche Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        16.152386,
-                        51.217035
-                  ]
-            },
-            {
                   "name": "Piramida Viessmann",
                   "text": "Ein markanter Spielplatz in Legnica, der Kindern vielseitige Klettermöglichkeiten bietet.",
                   "category": "family",
@@ -16316,15 +14075,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kormoran",
-                  "text": "Ein Erholungsgebiet in der Liegnitzer Altstadt, benannt nach dem Kormoran.",
-                  "category": "recreational",
-                  "coords": [
-                        16.152127,
-                        51.215367
-                  ]
-            },
-            {
                   "name": "Glinki w Lasku Złotoryjskim",
                   "text": "Glinki ist ein Naturschutzgebiet im Złotoryja-Wald bei Legnica.",
                   "category": "natural",
@@ -16362,15 +14112,6 @@ export const polandHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Kąpielisko Północne",
-                  "text": "Egy helyi strand vagy tó Legnicában, amely tökéletes a nyári kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.152386,
-                        51.217035
-                  ]
-            },
             {
                   "name": "Piramida Viessmann",
                   "text": "Egy jellegzetes játszótér Legnicában, amely sokoldalú mászási lehetőséget kínál a gyerekeknek.",
@@ -16417,15 +14158,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kormoran",
-                  "text": "Pihenőhely Legnica óvárosában, a kormoránról elnevezve.",
-                  "category": "recreational",
-                  "coords": [
-                        16.152127,
-                        51.215367
-                  ]
-            },
-            {
                   "name": "Glinki w Lasku Złotoryjskim",
                   "text": "A Glinki egy természetvédelmi terület a Legnica melletti Złotoryja-erdőben.",
                   "category": "natural",
@@ -16463,15 +14195,6 @@ export const polandHistoryV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Kąpielisko Północne",
-                  "text": "Un ștrand sau lac local în Legnica, perfect pentru recreere estivală.",
-                  "category": "natural",
-                  "coords": [
-                        16.152386,
-                        51.217035
-                  ]
-            },
             {
                   "name": "Piramida Viessmann",
                   "text": "Un loc de joacă distinctiv în Legnica care oferă copiilor posibilități variate de cățărare.",
@@ -16518,15 +14241,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kormoran",
-                  "text": "O zonă de agrement în orașul vechi Legnica, numită după cormoran.",
-                  "category": "recreational",
-                  "coords": [
-                        16.152127,
-                        51.215367
-                  ]
-            },
-            {
                   "name": "Glinki w Lasku Złotoryjskim",
                   "text": "Glinki este o rezervație naturală situată în pădurea Złotoryja de lângă Legnica.",
                   "category": "natural",
@@ -16564,15 +14278,6 @@ export const polandHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kąpielisko Północne",
-                  "text": "A local swimming area or lake in Legnica, perfect for summer recreation.",
-                  "category": "natural",
-                  "coords": [
-                        16.152386,
-                        51.217035
-                  ]
-            },
             {
                   "name": "Piramida Viessmann",
                   "text": "A distinctive playground in Legnica offering children versatile climbing possibilities.",
@@ -16616,15 +14321,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         16.160698,
                         51.207443
-                  ]
-            },
-            {
-                  "name": "Kormoran",
-                  "text": "A recreational area in Legnica's old town, named after the cormorant.",
-                  "category": "recreational",
-                  "coords": [
-                        16.152127,
-                        51.215367
                   ]
             },
             {
@@ -16856,30 +14552,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park Orderu Uśmiechu",
-                  "text": "Ein Park in Kandrzin-Cosel, der dem Orden des Lächelns gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        18.225126,
-                        50.346284
-                  ]
-            },
-            {
                   "name": "Ofiarom II Wojny Światowej",
                   "text": "Ein Denkmal für die Opfer des Zweiten Weltkriegs in Kędzierzyn.",
                   "category": "historical",
                   "coords": [
                         18.213002,
                         50.347649
-                  ]
-            },
-            {
-                  "name": "Syfon Kłodnicy",
-                  "text": "Ein Siphonbauwerk am Klodnitzkanal (Kanał Kłodnicki) in Kandrzin-Cosel.",
-                  "category": "landmark",
-                  "coords": [
-                        18.22838,
-                        50.357382
                   ]
             },
             {
@@ -16901,30 +14579,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruiny śluzy nr 5 dawnego Kanału Kłodnickiego",
-                  "text": "Ruinen der Schleuse Nr. 5 des ehemaligen Klodnitzkanals in Kandrzin-Cosel.",
-                  "category": "historical",
-                  "coords": [
-                        18.244493,
-                        50.357194
-                  ]
-            },
-            {
                   "name": "Parowóz Ty2-2118",
                   "text": "Eine ausgestellte Dampflokomotive der Baureihe Ty2-2118 in Kandrzin-Cosel.",
                   "category": "historical",
                   "coords": [
                         18.20693,
                         50.343753
-                  ]
-            },
-            {
-                  "name": "Tężnia solankowa",
-                  "text": "Ein Gradierwerk (Saline) in Kandrzin-Cosel zur Salzgewinnung.",
-                  "category": "landmark",
-                  "coords": [
-                        18.233877,
-                        50.345418
                   ]
             },
             {
@@ -16966,30 +14626,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park Orderu Uśmiechu",
-                  "text": "Park Kędzierzynben, a Mosoly Rendjének szentelve.",
-                  "category": "park",
-                  "coords": [
-                        18.225126,
-                        50.346284
-                  ]
-            },
-            {
                   "name": "Ofiarom II Wojny Światowej",
                   "text": "A második világháború áldozatainak emlékműve Kędzierzynben.",
                   "category": "historical",
                   "coords": [
                         18.213002,
                         50.347649
-                  ]
-            },
-            {
-                  "name": "Syfon Kłodnicy",
-                  "text": "Szifon építmény a Klodnitz-csatornán (Kanał Kłodnicki) Kędzierzynben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.22838,
-                        50.357382
                   ]
             },
             {
@@ -17011,30 +14653,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruiny śluzy nr 5 dawnego Kanału Kłodnickiego",
-                  "text": "Az egykori Klodnitz-csatorna 5. számú zsilipjének romjai Kędzierzynben.",
-                  "category": "historical",
-                  "coords": [
-                        18.244493,
-                        50.357194
-                  ]
-            },
-            {
                   "name": "Parowóz Ty2-2118",
                   "text": "Kiállított Ty2-2118 típusú gőzmozdony Kędzierzynben.",
                   "category": "historical",
                   "coords": [
                         18.20693,
                         50.343753
-                  ]
-            },
-            {
-                  "name": "Tężnia solankowa",
-                  "text": "Sótorony (gradáló mű) Kędzierzynben a só előállításához.",
-                  "category": "landmark",
-                  "coords": [
-                        18.233877,
-                        50.345418
                   ]
             },
             {
@@ -17076,30 +14700,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park Orderu Uśmiechu",
-                  "text": "Un parc în Kędzierzyn, dedicat Ordinului Zâmbetului.",
-                  "category": "park",
-                  "coords": [
-                        18.225126,
-                        50.346284
-                  ]
-            },
-            {
                   "name": "Ofiarom II Wojny Światowej",
                   "text": "Un monument dedicat victimelor celui de-al Doilea Război Mondial în Kędzierzyn.",
                   "category": "historical",
                   "coords": [
                         18.213002,
                         50.347649
-                  ]
-            },
-            {
-                  "name": "Syfon Kłodnicy",
-                  "text": "Un sifon pe canalul Kłodnicki din Kędzierzyn.",
-                  "category": "landmark",
-                  "coords": [
-                        18.22838,
-                        50.357382
                   ]
             },
             {
@@ -17121,30 +14727,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruiny śluzy nr 5 dawnego Kanału Kłodnickiego",
-                  "text": "Ruinele ecluzei nr. 5 a fostului canal Kłodnicki în Kędzierzyn.",
-                  "category": "historical",
-                  "coords": [
-                        18.244493,
-                        50.357194
-                  ]
-            },
-            {
                   "name": "Parowóz Ty2-2118",
                   "text": "O locomotivă cu abur expusă, tip Ty2-2118, în Kędzierzyn.",
                   "category": "historical",
                   "coords": [
                         18.20693,
                         50.343753
-                  ]
-            },
-            {
-                  "name": "Tężnia solankowa",
-                  "text": "Un foișor de sărat (gradier) în Kędzierzyn pentru producția de sare.",
-                  "category": "landmark",
-                  "coords": [
-                        18.233877,
-                        50.345418
                   ]
             },
             {
@@ -17186,30 +14774,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park Orderu Uśmiechu",
-                  "text": "A park in Kędzierzyn, dedicated to the Order of the Smile.",
-                  "category": "park",
-                  "coords": [
-                        18.225126,
-                        50.346284
-                  ]
-            },
-            {
                   "name": "Ofiarom II Wojny Światowej",
                   "text": "A monument to the victims of the Second World War in Kędzierzyn.",
                   "category": "historical",
                   "coords": [
                         18.213002,
                         50.347649
-                  ]
-            },
-            {
-                  "name": "Syfon Kłodnicy",
-                  "text": "A siphon structure on the Kłodnica Canal in Kędzierzyn.",
-                  "category": "landmark",
-                  "coords": [
-                        18.22838,
-                        50.357382
                   ]
             },
             {
@@ -17231,30 +14801,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruiny śluzy nr 5 dawnego Kanału Kłodnickiego",
-                  "text": "Ruins of lock no. 5 of the former Kłodnica Canal in Kędzierzyn.",
-                  "category": "historical",
-                  "coords": [
-                        18.244493,
-                        50.357194
-                  ]
-            },
-            {
                   "name": "Parowóz Ty2-2118",
                   "text": "A displayed steam locomotive, Ty2-2118, in Kędzierzyn.",
                   "category": "historical",
                   "coords": [
                         18.20693,
                         50.343753
-                  ]
-            },
-            {
-                  "name": "Tężnia solankowa",
-                  "text": "A brine graduation tower in Kędzierzyn used for salt production.",
-                  "category": "landmark",
-                  "coords": [
-                        18.233877,
-                        50.345418
                   ]
             },
             {
@@ -17864,84 +15416,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Staw Pod Topolami",
-                  "text": "Der Staw Pod Topolami ist ein ruhiger See in Bytom Old Town, umgeben von schöner Natur.",
-                  "category": "natural",
-                  "coords": [
-                        18.895604,
-                        50.363863
-                  ]
-            },
-            {
-                  "name": "Staw Smrodlok",
-                  "text": "Der Staw Smrodlok ist ein See in Bytom Old Town, der einen ruhigen Rückzugsort im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.883245,
-                        50.306994
-                  ]
-            },
-            {
-                  "name": "Staw Glombik",
-                  "text": "Der Staw Glombik ist ein Gewässer in Bytom Old Town, ideal für einen entspannten Moment in der Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        18.885549,
-                        50.307381
-                  ]
-            },
-            {
-                  "name": "Pod Kasztanami",
-                  "text": "Pod Kasztanami ist ein malerischer See in Bytom Old Town, der zu einem kurzen Spaziergang einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.889255,
-                        50.373903
-                  ]
-            },
-            {
                   "name": "Źródełko",
                   "text": "Źródełko ist ein friedlicher See in Bytom Old Town, der eine natürliche Kulisse für Erholung bietet.",
                   "category": "natural",
                   "coords": [
                         18.95613,
                         50.360137
-                  ]
-            },
-            {
-                  "name": "Staw Zapadliskowy",
-                  "text": "Der Staw Zapadliskowy ist ein interessanter See in Bytom Old Town, eingebettet in die lokale Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        18.865527,
-                        50.362259
-                  ]
-            },
-            {
-                  "name": "Brantka",
-                  "text": "Brantka ist ein kleiner See in Bytom Old Town, der eine ruhige Atmosphäre für Besucher ausstrahlt.",
-                  "category": "natural",
-                  "coords": [
-                        18.867553,
-                        50.368135
-                  ]
-            },
-            {
-                  "name": "Getto",
-                  "text": "Getto ist ein Spielplatz in Bytom Old Town, der Kindern einen Ort zum gemeinsamen Spielen bietet.",
-                  "category": "family",
-                  "coords": [
-                        18.9024,
-                        50.341635
-                  ]
-            },
-            {
-                  "name": "Ruiny basenu",
-                  "text": "Diese Stätte in Bytom markiert die Überreste eines historischen Familienschwimmbads.",
-                  "category": "family",
-                  "coords": [
-                        18.956921,
-                        50.325742
                   ]
             }
       ],
@@ -18343,84 +15823,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Staw Pod Topolami",
-                  "text": "A Staw Pod Topolami egy nyugodt tó Bytom óvárosában, gyönyörű természettel körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        18.895604,
-                        50.363863
-                  ]
-            },
-            {
-                  "name": "Staw Smrodlok",
-                  "text": "A Staw Smrodlok egy tó Bytom óvárosában, amely nyugodt szabadtéri menedéket kínál.",
-                  "category": "natural",
-                  "coords": [
-                        18.883245,
-                        50.306994
-                  ]
-            },
-            {
-                  "name": "Staw Glombik",
-                  "text": "A Staw Glombik egy vízfelület Bytom óvárosában, ideális egy pihentető pillanatra a városban.",
-                  "category": "natural",
-                  "coords": [
-                        18.885549,
-                        50.307381
-                  ]
-            },
-            {
-                  "name": "Pod Kasztanami",
-                  "text": "A Pod Kasztanami egy festői tó Bytom óvárosában, amely egy rövid sétára hív.",
-                  "category": "natural",
-                  "coords": [
-                        18.889255,
-                        50.373903
-                  ]
-            },
-            {
                   "name": "Źródełko",
                   "text": "A Źródełko egy békés tó Bytom óvárosában, amely természetes környezetet biztosít a pihenéshez.",
                   "category": "natural",
                   "coords": [
                         18.95613,
                         50.360137
-                  ]
-            },
-            {
-                  "name": "Staw Zapadliskowy",
-                  "text": "A Staw Zapadliskowy egy érdekes tó Bytom óvárosában, a helyi tájba ágyazva.",
-                  "category": "natural",
-                  "coords": [
-                        18.865527,
-                        50.362259
-                  ]
-            },
-            {
-                  "name": "Brantka",
-                  "text": "A Brantka egy kis tó Bytom óvárosában, amely nyugodt légkört áraszt a látogatók számára.",
-                  "category": "natural",
-                  "coords": [
-                        18.867553,
-                        50.368135
-                  ]
-            },
-            {
-                  "name": "Getto",
-                  "text": "A Getto egy játszótér Bytom óvárosában, amely helyet biztosít a gyerekeknek a közös játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        18.9024,
-                        50.341635
-                  ]
-            },
-            {
-                  "name": "Ruiny basenu",
-                  "text": "Ez a bytoni helyszín egy történelmi családi uszoda maradványait jelzi.",
-                  "category": "family",
-                  "coords": [
-                        18.956921,
-                        50.325742
                   ]
             }
       ],
@@ -18822,84 +16230,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Staw Pod Topolami",
-                  "text": "Staw Pod Topolami este un lac liniștit în Centrul Vechi din Bytom, înconjurat de o natură frumoasă.",
-                  "category": "natural",
-                  "coords": [
-                        18.895604,
-                        50.363863
-                  ]
-            },
-            {
-                  "name": "Staw Smrodlok",
-                  "text": "Staw Smrodlok este un lac din Centrul Vechi din Bytom, oferind un refugiu liniștit în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        18.883245,
-                        50.306994
-                  ]
-            },
-            {
-                  "name": "Staw Glombik",
-                  "text": "Staw Glombik este o apă în Centrul Vechi din Bytom, ideală pentru un moment de relaxare în oraș.",
-                  "category": "natural",
-                  "coords": [
-                        18.885549,
-                        50.307381
-                  ]
-            },
-            {
-                  "name": "Pod Kasztanami",
-                  "text": "Pod Kasztanami este un lac pitoresc în Centrul Vechi din Bytom, care invită la o scurtă plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        18.889255,
-                        50.373903
-                  ]
-            },
-            {
                   "name": "Źródełko",
                   "text": "Źródełko este un lac liniștit în Centrul Vechi din Bytom, oferind un cadru natural pentru relaxare.",
                   "category": "natural",
                   "coords": [
                         18.95613,
                         50.360137
-                  ]
-            },
-            {
-                  "name": "Staw Zapadliskowy",
-                  "text": "Staw Zapadliskowy este un lac interesant în Centrul Vechi din Bytom, integrat în peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        18.865527,
-                        50.362259
-                  ]
-            },
-            {
-                  "name": "Brantka",
-                  "text": "Brantka este un lac mic în Centrul Vechi din Bytom, care emană o atmosferă liniștită pentru vizitatori.",
-                  "category": "natural",
-                  "coords": [
-                        18.867553,
-                        50.368135
-                  ]
-            },
-            {
-                  "name": "Getto",
-                  "text": "Getto este un loc de joacă în Centrul Vechi din Bytom, oferind copiilor un spațiu pentru joacă.",
-                  "category": "family",
-                  "coords": [
-                        18.9024,
-                        50.341635
-                  ]
-            },
-            {
-                  "name": "Ruiny basenu",
-                  "text": "Acest sit din Bytom marchează rămășițele unei piscine istorice de familie.",
-                  "category": "family",
-                  "coords": [
-                        18.956921,
-                        50.325742
                   ]
             }
       ],
@@ -19301,84 +16637,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Staw Pod Topolami",
-                  "text": "Staw Pod Topolami is a peaceful lake in Bytom Old Town, surrounded by beautiful nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.895604,
-                        50.363863
-                  ]
-            },
-            {
-                  "name": "Staw Smrodlok",
-                  "text": "Staw Smrodlok is a lake in Bytom Old Town, offering a quiet outdoor retreat.",
-                  "category": "natural",
-                  "coords": [
-                        18.883245,
-                        50.306994
-                  ]
-            },
-            {
-                  "name": "Staw Glombik",
-                  "text": "Staw Glombik is a body of water in Bytom Old Town, ideal for a relaxed moment in the city.",
-                  "category": "natural",
-                  "coords": [
-                        18.885549,
-                        50.307381
-                  ]
-            },
-            {
-                  "name": "Pod Kasztanami",
-                  "text": "Pod Kasztanami is a scenic lake in Bytom Old Town, perfect for a short walk.",
-                  "category": "natural",
-                  "coords": [
-                        18.889255,
-                        50.373903
-                  ]
-            },
-            {
                   "name": "Źródełko",
                   "text": "Źródełko is a peaceful lake in Bytom Old Town, providing a natural setting for recreation.",
                   "category": "natural",
                   "coords": [
                         18.95613,
                         50.360137
-                  ]
-            },
-            {
-                  "name": "Staw Zapadliskowy",
-                  "text": "Staw Zapadliskowy is an interesting lake in Bytom Old Town, nestled in the local landscape.",
-                  "category": "natural",
-                  "coords": [
-                        18.865527,
-                        50.362259
-                  ]
-            },
-            {
-                  "name": "Brantka",
-                  "text": "Brantka is a small lake in Bytom Old Town, radiating a calm atmosphere for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        18.867553,
-                        50.368135
-                  ]
-            },
-            {
-                  "name": "Getto",
-                  "text": "Getto is a playground in Bytom Old Town, providing children with a place for shared play.",
-                  "category": "family",
-                  "coords": [
-                        18.9024,
-                        50.341635
-                  ]
-            },
-            {
-                  "name": "Ruiny basenu",
-                  "text": "This site in Bytom marks the remains of a historic family swimming pool.",
-                  "category": "family",
-                  "coords": [
-                        18.956921,
-                        50.325742
                   ]
             }
       ]
@@ -19616,15 +16880,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.599254,
                         52.528211
-                  ]
-            },
-            {
-                  "name": "Muzeum Początków Państwa Polskiego",
-                  "text": "Muzeum Początków Państwa Polskiego ist ein bedeutendes Museum zur Geschichte der Anfänge des polnischen Staates in der Altstadt von Gnesen.",
-                  "category": "museum",
-                  "coords": [
-                        17.583207,
-                        52.53392
                   ]
             },
             {
@@ -19873,15 +17128,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Początków Państwa Polskiego",
-                  "text": "A Muzeum Początków Państwa Polskiego a lengyel állam eredetét bemutató jelentős múzeum az Altstadt von Gnesen területén.",
-                  "category": "museum",
-                  "coords": [
-                        17.583207,
-                        52.53392
-                  ]
-            },
-            {
                   "name": "Amfiteatr Estede",
                   "text": "Szabadtéri színpad (amfiteátrum) Gnieznóban, Estede néven.",
                   "category": "cultural",
@@ -20127,15 +17373,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Początków Państwa Polskiego",
-                  "text": "Muzeum Początków Państwa Polskiego este un muzeu notabil care documentează originile statului polonez, situat în Altstadt von Gnesen.",
-                  "category": "museum",
-                  "coords": [
-                        17.583207,
-                        52.53392
-                  ]
-            },
-            {
                   "name": "Amfiteatr Estede",
                   "text": "Un amfiteatru în aer liber în Gniezno, numit Estede.",
                   "category": "cultural",
@@ -20378,15 +17615,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         17.599254,
                         52.528211
-                  ]
-            },
-            {
-                  "name": "Muzeum Początków Państwa Polskiego",
-                  "text": "Muzeum Początków Państwa Polskiego is a notable museum documenting the origins of the Polish State, located in Altstadt von Gnesen.",
-                  "category": "museum",
-                  "coords": [
-                        17.583207,
-                        52.53392
                   ]
             },
             {
@@ -21104,30 +18332,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zbiornik retencyjny",
-                  "text": "Ein Rückhaltebecken in Bydgoszcz, das eine ruhige Umgebung für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.066399,
-                        53.083902
-                  ]
-            },
-            {
                   "name": "Motylek",
                   "text": "Ein charmanter Spielplatz in Bydgoszcz, der Kindern eine bunte Welt zum Spielen eröffnet.",
                   "category": "family",
                   "coords": [
                         17.96982,
                         53.132028
-                  ]
-            },
-            {
-                  "name": "Muzyczny Plac Zabaw",
-                  "text": "Ein musikalischer Spielplatz in Bydgoszcz, der Kinder zum kreativen Experimentieren anregt.",
-                  "category": "family",
-                  "coords": [
-                        18.011532,
-                        53.130354
                   ]
             },
             {
@@ -21158,39 +18368,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park 17 - park trampolin",
-                  "text": "Ein Trampolinpark in der Altstadt von Bydgoszcz, der aktive Unterhaltung für alle Altersgruppen bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        18.018264,
-                        53.133984
-                  ]
-            },
-            {
                   "name": "Pływalnia \"Czwórka\"",
                   "text": "Ein Schwimmbad in Bydgoszcz, das Trainings- und Freizeitschwimmen ermöglicht.",
                   "category": "recreational",
                   "coords": [
                         17.967243,
                         53.12037
-                  ]
-            },
-            {
-                  "name": "Basen Neptun",
-                  "text": "Eine Schwimmeinrichtung in der Altstadt von Bydgoszcz, benannt nach dem Meeresgott.",
-                  "category": "recreational",
-                  "coords": [
-                        18.045779,
-                        53.121566
-                  ]
-            },
-            {
-                  "name": "Perła",
-                  "text": "Ein lokales Schwimmbad in Bydgoszcz, das Möglichkeiten zur sportlichen Betätigung bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        18.034332,
-                        53.111145
                   ]
             },
             {
@@ -21592,30 +18775,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zbiornik retencyjny",
-                  "text": "Egy víztározó Bydgoszczban, amely nyugodt környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.066399,
-                        53.083902
-                  ]
-            },
-            {
                   "name": "Motylek",
                   "text": "Egy bájos játszótér Bydgoszczban, amely színes világot nyit meg a gyerekeknek a játékhoz.",
                   "category": "family",
                   "coords": [
                         17.96982,
                         53.132028
-                  ]
-            },
-            {
-                  "name": "Muzyczny Plac Zabaw",
-                  "text": "Egy zenei játszótér Bydgoszczban, amely kreatív kísérletezésre ösztönzi a gyerekeket.",
-                  "category": "family",
-                  "coords": [
-                        18.011532,
-                        53.130354
                   ]
             },
             {
@@ -21646,39 +18811,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park 17 - park trampolin",
-                  "text": "Trambulinpark Bydgoszcz óvárosában, amely aktív szórakozást nyújt minden korosztálynak.",
-                  "category": "recreational",
-                  "coords": [
-                        18.018264,
-                        53.133984
-                  ]
-            },
-            {
                   "name": "Pływalnia \"Czwórka\"",
                   "text": "Uszoda Bydgoszczban, amely lehetőséget biztosít edzésre és szabadidős úszásra.",
                   "category": "recreational",
                   "coords": [
                         17.967243,
                         53.12037
-                  ]
-            },
-            {
-                  "name": "Basen Neptun",
-                  "text": "Uszoda Bydgoszcz óvárosában, amelyet a tenger istenéről neveztek el.",
-                  "category": "recreational",
-                  "coords": [
-                        18.045779,
-                        53.121566
-                  ]
-            },
-            {
-                  "name": "Perła",
-                  "text": "Helyi uszoda Bydgoszczban, amely sportolási lehetőségeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        18.034332,
-                        53.111145
                   ]
             },
             {
@@ -22080,30 +19218,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zbiornik retencyjny",
-                  "text": "Un bazin de retenție în Bydgoszcz care oferă un mediu liniștit pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        18.066399,
-                        53.083902
-                  ]
-            },
-            {
                   "name": "Motylek",
                   "text": "Un loc de joacă fermecător în Bydgoszcz care deschide o lume colorată pentru joaca copiilor.",
                   "category": "family",
                   "coords": [
                         17.96982,
                         53.132028
-                  ]
-            },
-            {
-                  "name": "Muzyczny Plac Zabaw",
-                  "text": "Un loc de joacă muzical în Bydgoszcz care încurajează copiii la experimente creative.",
-                  "category": "family",
-                  "coords": [
-                        18.011532,
-                        53.130354
                   ]
             },
             {
@@ -22134,39 +19254,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park 17 - park trampolin",
-                  "text": "Un parc de trambuline în centrul vechi din Bydgoszcz, oferind divertisment activ pentru toate vârstele.",
-                  "category": "recreational",
-                  "coords": [
-                        18.018264,
-                        53.133984
-                  ]
-            },
-            {
                   "name": "Pływalnia \"Czwórka\"",
                   "text": "O piscină în Bydgoszcz care permite înotul recreativ și de antrenament.",
                   "category": "recreational",
                   "coords": [
                         17.967243,
                         53.12037
-                  ]
-            },
-            {
-                  "name": "Basen Neptun",
-                  "text": "O facilitate de înot în centrul vechi din Bydgoszcz, numită după zeul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        18.045779,
-                        53.121566
-                  ]
-            },
-            {
-                  "name": "Perła",
-                  "text": "O piscină locală în Bydgoszcz, oferind oportunități pentru activități sportive.",
-                  "category": "recreational",
-                  "coords": [
-                        18.034332,
-                        53.111145
                   ]
             },
             {
@@ -22568,30 +19661,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zbiornik retencyjny",
-                  "text": "A retention reservoir in Bydgoszcz offering a quiet environment for walks.",
-                  "category": "natural",
-                  "coords": [
-                        18.066399,
-                        53.083902
-                  ]
-            },
-            {
                   "name": "Motylek",
                   "text": "A charming playground in Bydgoszcz opening a colorful world for children's play.",
                   "category": "family",
                   "coords": [
                         17.96982,
                         53.132028
-                  ]
-            },
-            {
-                  "name": "Muzyczny Plac Zabaw",
-                  "text": "A musical playground in Bydgoszcz encouraging children to experiment creatively.",
-                  "category": "family",
-                  "coords": [
-                        18.011532,
-                        53.130354
                   ]
             },
             {
@@ -22622,39 +19697,12 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park 17 - park trampolin",
-                  "text": "A trampoline park in Bydgoszcz's Old Town offering active entertainment for all ages.",
-                  "category": "recreational",
-                  "coords": [
-                        18.018264,
-                        53.133984
-                  ]
-            },
-            {
                   "name": "Pływalnia \"Czwórka\"",
                   "text": "A swimming pool in Bydgoszcz that facilitates training and recreational swimming.",
                   "category": "recreational",
                   "coords": [
                         17.967243,
                         53.12037
-                  ]
-            },
-            {
-                  "name": "Basen Neptun",
-                  "text": "A swimming facility in Bydgoszcz's Old Town, named after the god of the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        18.045779,
-                        53.121566
-                  ]
-            },
-            {
-                  "name": "Perła",
-                  "text": "A local swimming pool in Bydgoszcz offering opportunities for sports activities.",
-                  "category": "recreational",
-                  "coords": [
-                        18.034332,
-                        53.111145
                   ]
             },
             {
@@ -22793,15 +19841,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.633823,
                         49.747774
-                  ]
-            },
-            {
-                  "name": "Teatr im. Adama Mickiewicza",
-                  "text": "Ein bedeutendes Theatergebäude aus dem frühen 20. Jahrhundert in der Altstadt von Teschen.",
-                  "category": "cultural",
-                  "coords": [
-                        18.630493,
-                        49.74993
                   ]
             },
             {
@@ -23077,15 +20116,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatr im. Adama Mickiewicza",
-                  "text": "Egy jelentős színházépület a 20. század elejéről Cieszyn óvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        18.630493,
-                        49.74993
-                  ]
-            },
-            {
                   "name": "Rezerwat Lasek Miejski nad Olzą",
                   "text": "Egy természetvédelmi terület Cieszyn óvárosában, amely az Olza folyó melletti lombhullató erdőt védi.",
                   "category": "natural",
@@ -23358,15 +20388,6 @@ export const polandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatr im. Adama Mickiewicza",
-                  "text": "Un teatru important construit la începutul secolului al XX-lea în orașul vechi din Cieszyn.",
-                  "category": "cultural",
-                  "coords": [
-                        18.630493,
-                        49.74993
-                  ]
-            },
-            {
                   "name": "Rezerwat Lasek Miejski nad Olzą",
                   "text": "O rezervație naturală în orașul vechi Cieszyn care protejează o pădure de foioase pe malul râului Olza.",
                   "category": "natural",
@@ -23636,15 +20657,6 @@ export const polandHistoryV2: POI[] = [
                   "coords": [
                         18.633823,
                         49.747774
-                  ]
-            },
-            {
-                  "name": "Teatr im. Adama Mickiewicza",
-                  "text": "A prominent theatre built at the beginning of the 20th century in the Old Town of Cieszyn.",
-                  "category": "cultural",
-                  "coords": [
-                        18.630493,
-                        49.74993
                   ]
             },
             {

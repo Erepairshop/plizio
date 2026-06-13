@@ -7447,24 +7447,6 @@ export const poiExtraIsraelNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old Roman Church",
-                  "text": "Historische Überreste einer byzantinischen Kirche an der antiken römischen Straße.",
-                  "category": "historical",
-                  "coords": [
-                        35.06892,
-                        31.397386
-                  ]
-            },
-            {
-                  "name": "Masbh Al Wady",
-                  "text": "Aussichtspunkt mit weitem Panorama über die Täler des Yatir-Waldes in der Wüste.",
-                  "category": "natural",
-                  "coords": [
-                        35.069243,
-                        31.400887
-                  ]
-            },
-            {
                   "name": "Tel Qeriyyot",
                   "text": "Überreste der biblischen Stadt Kerijot in den südlichen Hebroner Bergen.",
                   "category": "historical",
@@ -7527,24 +7509,6 @@ export const poiExtraIsraelNatureV2: POI[] = [
                   "coords": [
                         35.051948,
                         31.34507
-                  ]
-            },
-            {
-                  "name": "Old Roman Church",
-                  "text": "Egy bizánci kori templom történelmi maradványai az ókori római út mentén.",
-                  "category": "historical",
-                  "coords": [
-                        35.06892,
-                        31.397386
-                  ]
-            },
-            {
-                  "name": "Masbh Al Wady",
-                  "text": "Kilátópont, amelyről széles panoráma nyílik a Jatir-erdő sivatagi völgyeire.",
-                  "category": "natural",
-                  "coords": [
-                        35.069243,
-                        31.400887
                   ]
             },
             {
@@ -7613,24 +7577,6 @@ export const poiExtraIsraelNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old Roman Church",
-                  "text": "Rămășițe istorice ale unei biserici din epoca bizantină situate de-a lungul vechiului drum roman.",
-                  "category": "historical",
-                  "coords": [
-                        35.06892,
-                        31.397386
-                  ]
-            },
-            {
-                  "name": "Masbh Al Wady",
-                  "text": "Punct de observație care oferă o panoramă largă asupra văilor deșertice ale pădurii Yatir.",
-                  "category": "natural",
-                  "coords": [
-                        35.069243,
-                        31.400887
-                  ]
-            },
-            {
                   "name": "Tel Qeriyyot",
                   "text": "Ruinele orașului biblic Kerioth, situate în sudul munților Hebron.",
                   "category": "historical",
@@ -7693,24 +7639,6 @@ export const poiExtraIsraelNatureV2: POI[] = [
                   "coords": [
                         35.051948,
                         31.34507
-                  ]
-            },
-            {
-                  "name": "Old Roman Church",
-                  "text": "Historic remains of a Byzantine-era church situated along the ancient Roman road.",
-                  "category": "historical",
-                  "coords": [
-                        35.06892,
-                        31.397386
-                  ]
-            },
-            {
-                  "name": "Masbh Al Wady",
-                  "text": "A scenic lookout providing wide views over the desert valleys of the Yatir Forest.",
-                  "category": "natural",
-                  "coords": [
-                        35.069243,
-                        31.400887
                   ]
             },
             {

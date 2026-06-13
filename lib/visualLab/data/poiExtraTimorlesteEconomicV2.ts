@@ -1788,15 +1788,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Herois",
-                  "text": "Herois ist ein historisches Denkmal in lospalos-timber-mill-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        126.986537,
-                        -8.512433
-                  ]
-            },
-            {
                   "name": "Capela Santo Antonio de Titilary",
                   "text": "Capela Santo Antonio de Titilary ist eine Kultstätte in lospalos-timber-mill-economic-v2.",
                   "category": "religious",
@@ -1814,15 +1805,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
                   "coords": [
                         127.003503,
                         -8.51095
-                  ]
-            },
-            {
-                  "name": "Herois",
-                  "text": "A Herois egy történelmi emlékmű lospalos-timber-mill-economic-v2 városában.",
-                  "category": "historical",
-                  "coords": [
-                        126.986537,
-                        -8.512433
                   ]
             },
             {
@@ -1846,15 +1828,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Herois",
-                  "text": "Herois este un monument cu valoare istorică din lospalos-timber-mill-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        126.986537,
-                        -8.512433
-                  ]
-            },
-            {
                   "name": "Capela Santo Antonio de Titilary",
                   "text": "Capela Santo Antonio de Titilary este un lăcaș de cult situat în lospalos-timber-mill-economic-v2.",
                   "category": "religious",
@@ -1872,15 +1845,6 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
                   "coords": [
                         127.003503,
                         -8.51095
-                  ]
-            },
-            {
-                  "name": "Herois",
-                  "text": "Herois is a monument commemorating history in lospalos-timber-mill-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        126.986537,
-                        -8.512433
                   ]
             },
             {

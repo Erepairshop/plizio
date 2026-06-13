@@ -51,24 +51,6 @@ export const irelandEconomicV2: POI[] = [
     id: "ireland-ballymahon-fiber-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Noughaval Cemetery",
-                  "text": "Ein historischer Friedhof mit den Ruinen einer alten Kirche bei Ballymahon.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Eine Kirche in der Townland Tang bei Ballymahon.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            },
-            {
                   "name": "St. Matthew's Church",
                   "text": "Eine Kirche der Church of Ireland im Gebiet Tang.",
                   "category": "religious",
@@ -106,24 +88,6 @@ export const irelandEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Történelmi temető egy régi templom romjaival Ballymahon közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Templom Tang településrészen, Ballymahon közelében.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            },
             {
                   "name": "St. Matthew's Church",
                   "text": "A Church of Ireland temploma Tang körzetében.",
@@ -163,24 +127,6 @@ export const irelandEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Noughaval Cemetery",
-                  "text": "Un cimitir istoric cu ruinele unei vechi biserici lângă Ballymahon.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "O biserică situată în townlandul Tang, lângă Ballymahon.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            },
-            {
                   "name": "St. Matthew's Church",
                   "text": "O biserică a Bisericii Irlandei în zona Tang.",
                   "category": "religious",
@@ -218,24 +164,6 @@ export const irelandEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "A historical cemetery with the ruins of an old church near Ballymahon.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "A church located in the townland of Tang, near Ballymahon.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            },
             {
                   "name": "St. Matthew's Church",
                   "text": "A Church of Ireland church in the Tang area.",

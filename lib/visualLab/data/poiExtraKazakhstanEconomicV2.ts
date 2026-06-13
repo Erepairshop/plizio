@@ -123,42 +123,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Obelisk pogranichnikam Kazakhstana",
-                  "text": "Ein hoher Obelisk, der den Grenzschützern Kasachstans gewidmet ist, direkt an der Küste von Aktau.",
-                  "category": "historical",
-                  "coords": [
-                        51.172308,
-                        43.63448
-                  ]
-            },
-            {
-                  "name": "'I LOVE AKTAU'",
-                  "text": "Ein beliebter Fotopunkt mit einem großen Schriftzug an der Strandpromenade von Aktau.",
-                  "category": "historical",
-                  "coords": [
-                        51.14649,
-                        43.645907
-                  ]
-            },
-            {
-                  "name": "Istoriko-kraevedcheskii muzei",
-                  "text": "Dieses Regionalmuseum zeigt archäologische Funde und Exponate zur Geschichte der Halbinsel Mangischlak.",
-                  "category": "museum",
-                  "coords": [
-                        51.154307,
-                        43.64929
-                  ]
-            },
-            {
-                  "name": "Yntymak",
-                  "text": "Ein Denkmal auf dem zentralen Platz von Aktau, das Einigkeit und Frieden symbolisiert.",
-                  "category": "historical",
-                  "coords": [
-                        51.149761,
-                        43.654379
-                  ]
-            },
-            {
                   "name": "Rear Dir Front Port Aktau",
                   "text": "Ein einzigartiger Leuchtturm, der direkt auf dem Dach eines Wohnhauses errichtet wurde.",
                   "category": "landmark",
@@ -192,15 +156,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         51.160739,
                         43.650781
-                  ]
-            },
-            {
-                  "name": "Flagshtok",
-                  "text": "Ein massiver Flaggenmast an der Küste von Aktau, der die Nationalflagge weithin sichtbar trägt.",
-                  "category": "landmark",
-                  "coords": [
-                        51.147972,
-                        43.656153
                   ]
             },
             {
@@ -314,42 +269,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Obelisk pogranichnikam Kazakhstana",
-                  "text": "Kazahsztán határőreinek szentelt magas obeliszk Aktau tengerpartján.",
-                  "category": "historical",
-                  "coords": [
-                        51.172308,
-                        43.63448
-                  ]
-            },
-            {
-                  "name": "'I LOVE AKTAU'",
-                  "text": "Népszerű fotóhelyszín nagy felirattal Aktau tengerparti sétányán.",
-                  "category": "historical",
-                  "coords": [
-                        51.14649,
-                        43.645907
-                  ]
-            },
-            {
-                  "name": "Istoriko-kraevedcheskii muzei",
-                  "text": "Regionális múzeum, amely a Mangistau-félsziget régészeti leleteit és történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        51.154307,
-                        43.64929
-                  ]
-            },
-            {
-                  "name": "Yntymak",
-                  "text": "Emlékmű Aktau központi terén, amely az egységet és a békét jelképezi.",
-                  "category": "historical",
-                  "coords": [
-                        51.149761,
-                        43.654379
-                  ]
-            },
-            {
                   "name": "Rear Dir Front Port Aktau",
                   "text": "Különleges világítótorony, amely egy lakóépület tetején kapott helyet.",
                   "category": "landmark",
@@ -383,15 +302,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         51.160739,
                         43.650781
-                  ]
-            },
-            {
-                  "name": "Flagshtok",
-                  "text": "Hatalmas zászlórúd Aktau partján, amelyen messziről látható a nemzeti lobogó.",
-                  "category": "landmark",
-                  "coords": [
-                        51.147972,
-                        43.656153
                   ]
             },
             {
@@ -505,42 +415,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Obelisk pogranichnikam Kazakhstana",
-                  "text": "Un obelisc înalt dedicat grănicerilor din Kazahstan, situat pe coasta din Aktau.",
-                  "category": "historical",
-                  "coords": [
-                        51.172308,
-                        43.63448
-                  ]
-            },
-            {
-                  "name": "'I LOVE AKTAU'",
-                  "text": "Un punct popular pentru fotografii, cu un semn mare situat pe faleza din Aktau.",
-                  "category": "historical",
-                  "coords": [
-                        51.14649,
-                        43.645907
-                  ]
-            },
-            {
-                  "name": "Istoriko-kraevedcheskii muzei",
-                  "text": "Muzeu regional care prezintă descoperiri arheologice și istoria peninsulei Mangystau.",
-                  "category": "museum",
-                  "coords": [
-                        51.154307,
-                        43.64929
-                  ]
-            },
-            {
-                  "name": "Yntymak",
-                  "text": "Un monument situat în piața centrală din Aktau, simbolizând unitatea și pacea.",
-                  "category": "historical",
-                  "coords": [
-                        51.149761,
-                        43.654379
-                  ]
-            },
-            {
                   "name": "Rear Dir Front Port Aktau",
                   "text": "Un far unic situat direct pe acoperișul unui bloc de locuințe.",
                   "category": "landmark",
@@ -574,15 +448,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         51.160739,
                         43.650781
-                  ]
-            },
-            {
-                  "name": "Flagshtok",
-                  "text": "Un catarg masiv pe coasta din Aktau, care arborează drapelul național vizibil de la distanță.",
-                  "category": "landmark",
-                  "coords": [
-                        51.147972,
-                        43.656153
                   ]
             },
             {
@@ -696,57 +561,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Obelisk pogranichnikam Kazakhstana",
-                  "text": "A tall obelisk dedicated to the border guards of Kazakhstan on the Aktau coast.",
-                  "category": "historical",
-                  "coords": [
-                        51.172308,
-                        43.63448
-                  ]
-            },
-            {
-                  "name": "'I LOVE AKTAU'",
-                  "text": "A popular photo spot featuring a large 'I Love Aktau' sign on the city's waterfront.",
-                  "category": "historical",
-                  "coords": [
-                        51.14649,
-                        43.645907
-                  ]
-            },
-            {
-                  "name": "Istoriko-kraevedcheskii muzei",
-                  "text": "Regional museum displaying archaeological finds and the history of the Mangystau Peninsula.",
-                  "category": "museum",
-                  "coords": [
-                        51.154307,
-                        43.64929
-                  ]
-            },
-            {
-                  "name": "Yntymak",
-                  "text": "A monument in Aktau's central square symbolizing unity and peace.",
-                  "category": "historical",
-                  "coords": [
-                        51.149761,
-                        43.654379
-                  ]
-            },
-            {
                   "name": "Rear Dir Front Port Aktau",
                   "text": "A unique lighthouse located directly on the roof of a residential apartment building.",
                   "category": "landmark",
                   "coords": [
                         51.218731,
                         43.604784
-                  ]
-            },
-            {
-                  "name": "Oblast Philharmonic Concert Hall",
-                  "text": "A cultural venue in Aktau hosting classical and traditional music concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        51.157726,
-                        43.636444
                   ]
             },
             {
@@ -765,15 +585,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         51.160739,
                         43.650781
-                  ]
-            },
-            {
-                  "name": "Flagshtok",
-                  "text": "A massive flagpole on the Aktau shore flying the national flag visible from afar.",
-                  "category": "landmark",
-                  "coords": [
-                        51.147972,
-                        43.656153
                   ]
             },
             {
@@ -1005,15 +816,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Istoriko-kraevedcheskii muzei",
-                  "text": "Dieses Heimatmuseum dokumentiert die industrielle Entwicklung und die Geschichte des Kohleabbaus in der Region Ekibastus.",
-                  "category": "museum",
-                  "coords": [
-                        75.317677,
-                        51.734069
-                  ]
-            },
-            {
                   "name": "Abk",
                   "text": "Ein technisches Museum im Verwaltungsgebäude der Bogatyr-Mine, das Einblicke in den größten Kohle-Tagebau der Welt gewährt.",
                   "category": "museum",
@@ -1029,24 +831,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         75.321774,
                         51.721041
-                  ]
-            },
-            {
-                  "name": "Meshiti",
-                  "text": "Eine moderne Moschee in Ekibastus, die durch ihre zeitgenössische islamische Architektur und ihre schlanken Minarette besticht.",
-                  "category": "religious",
-                  "coords": [
-                        75.309278,
-                        51.713119
-                  ]
-            },
-            {
-                  "name": "GTsK \"Oner\"",
-                  "text": "Das zentrale Kulturhaus 'Oner' dient als wichtigster Veranstaltungsort für Konzerte und traditionelle kasachische Theateraufführungen in der Bergbaustadt.",
-                  "category": "cultural",
-                  "coords": [
-                        75.293721,
-                        51.722429
                   ]
             },
             {
@@ -1106,15 +890,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Istoriko-kraevedcheskii muzei",
-                  "text": "Ez a helytörténeti múzeum az ekibasztuzi régió ipari fejlődését és a szénbányászat történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        75.317677,
-                        51.734069
-                  ]
-            },
-            {
                   "name": "Abk",
                   "text": "A Bogatir-bánya igazgatósági épületében található múzeum betekintést nyújt a világ egyik legnagyobb külszíni szénbányájának működésébe.",
                   "category": "museum",
@@ -1130,24 +905,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         75.321774,
                         51.721041
-                  ]
-            },
-            {
-                  "name": "Meshiti",
-                  "text": "Ekibasztuz egyik modern mecsetje, amely letisztult iszlám építészetével és karcsú minaretjeivel hívja fel magára a figyelmet.",
-                  "category": "religious",
-                  "coords": [
-                        75.309278,
-                        51.713119
-                  ]
-            },
-            {
-                  "name": "GTsK \"Oner\"",
-                  "text": "Az 'Oner' központi kulturális palota koncerteknek és hagyományos kazah színházi előadásoknak ad otthont a bányászvárosban.",
-                  "category": "cultural",
-                  "coords": [
-                        75.293721,
-                        51.722429
                   ]
             },
             {
@@ -1207,15 +964,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Istoriko-kraevedcheskii muzei",
-                  "text": "Acest muzeu de istorie locală documentează dezvoltarea industrială și moștenirea mineritului de cărbune din regiunea Ekibastuz.",
-                  "category": "museum",
-                  "coords": [
-                        75.317677,
-                        51.734069
-                  ]
-            },
-            {
                   "name": "Abk",
                   "text": "Un muzeu tehnic situat în clădirea administrativă a minei Bogatyr, oferind detalii despre cea mai mare exploatare de cărbune din lume.",
                   "category": "museum",
@@ -1231,24 +979,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         75.321774,
                         51.721041
-                  ]
-            },
-            {
-                  "name": "Meshiti",
-                  "text": "O moschee modernă în Ekibastuz, remarcabilă prin arhitectura sa islamică contemporană și minaretele zvelte.",
-                  "category": "religious",
-                  "coords": [
-                        75.309278,
-                        51.713119
-                  ]
-            },
-            {
-                  "name": "GTsK \"Oner\"",
-                  "text": "Centrul cultural 'Oner' servește drept principala locație pentru concerte și spectacole de teatru tradițional kazah din orașul minier.",
-                  "category": "cultural",
-                  "coords": [
-                        75.293721,
-                        51.722429
                   ]
             },
             {
@@ -1308,15 +1038,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Istoriko-kraevedcheskii muzei",
-                  "text": "This local history museum in Ekibastuz documents the industrial development and heritage of the regional coal mining industry.",
-                  "category": "museum",
-                  "coords": [
-                        75.317677,
-                        51.734069
-                  ]
-            },
-            {
                   "name": "Abk",
                   "text": "A technical museum located in the Bogatyr mine administration building, showcasing the history of the world's largest open-cast coal mine.",
                   "category": "museum",
@@ -1332,24 +1053,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         75.321774,
                         51.721041
-                  ]
-            },
-            {
-                  "name": "Meshiti",
-                  "text": "A modern mosque in Ekibastuz, noted for its contemporary Islamic architecture and slender minarets.",
-                  "category": "religious",
-                  "coords": [
-                        75.309278,
-                        51.713119
-                  ]
-            },
-            {
-                  "name": "GTsK \"Oner\"",
-                  "text": "The 'Oner' central cultural palace serves as the primary venue for concerts and traditional Kazakh theater performances in the mining city.",
-                  "category": "cultural",
-                  "coords": [
-                        75.293721,
-                        51.722429
                   ]
             },
             {
@@ -1563,24 +1266,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gorodskoi kraevedcheskii muzei",
-                  "text": "Ein Museum, das die industrielle Geschichte und das Erbe der Stahlstadt Temirtau dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        72.964271,
-                        50.053583
-                  ]
-            },
-            {
-                  "name": "Neizvestnyi soldat",
-                  "text": "Ein Denkmal für die gefallenen Soldaten in der industriell geprägten Stadt Temirtau.",
-                  "category": "historical",
-                  "coords": [
-                        72.952466,
-                        50.061288
-                  ]
-            },
-            {
                   "name": "TIuZ",
                   "text": "Ein Theater, das speziell auf Aufführungen für Kinder und Jugendliche in Temirtau ausgerichtet ist.",
                   "category": "cultural",
@@ -1688,24 +1373,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         72.970145,
                         50.065747
-                  ]
-            },
-            {
-                  "name": "Gorodskoi kraevedcheskii muzei",
-                  "text": "A város ipari múltját és örökségét bemutató helytörténeti múzeum Temirtauban.",
-                  "category": "museum",
-                  "coords": [
-                        72.964271,
-                        50.053583
-                  ]
-            },
-            {
-                  "name": "Neizvestnyi soldat",
-                  "text": "Az ismeretlen katona emlékműve a közép-kazahsztáni ipari város szívében.",
-                  "category": "historical",
-                  "coords": [
-                        72.952466,
-                        50.061288
                   ]
             },
             {
@@ -1819,24 +1486,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gorodskoi kraevedcheskii muzei",
-                  "text": "Un muzeu de istorie locală ce documentează patrimoniul industrial al orașului Temirtau.",
-                  "category": "museum",
-                  "coords": [
-                        72.964271,
-                        50.053583
-                  ]
-            },
-            {
-                  "name": "Neizvestnyi soldat",
-                  "text": "Memorialul soldatului necunoscut, dedicat eroilor căzuți în orașul industrial Temirtau.",
-                  "category": "historical",
-                  "coords": [
-                        72.952466,
-                        50.061288
-                  ]
-            },
-            {
                   "name": "TIuZ",
                   "text": "Un teatru dedicat special spectacolelor pentru copii și tineret din Temirtau.",
                   "category": "cultural",
@@ -1944,24 +1593,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         72.970145,
                         50.065747
-                  ]
-            },
-            {
-                  "name": "Gorodskoi kraevedcheskii muzei",
-                  "text": "A local lore museum documenting the industrial history and heritage of the steel city.",
-                  "category": "museum",
-                  "coords": [
-                        72.964271,
-                        50.053583
-                  ]
-            },
-            {
-                  "name": "Neizvestnyi soldat",
-                  "text": "An unknown soldier memorial dedicated to fallen heroes in the industrial city of Temirtau.",
-                  "category": "historical",
-                  "coords": [
-                        72.952466,
-                        50.061288
                   ]
             },
             {
@@ -3741,15 +3372,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     id: "balkhash-copper-smelter-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Muzei",
-                  "text": "Ein lokales Museum in Balchasch mit Exponaten zum Kupferbergbau-Erbe der Stadt und zur Ökologie des Sees.",
-                  "category": "museum",
-                  "coords": [
-                        74.97665,
-                        46.847248
-                  ]
-            },
-            {
                   "name": "Stroiteliam Balkhasha",
                   "text": "Ein Denkmal zu Ehren der Arbeiter, die die Industriestadt Balchasch in der trockenen Steppe Kasachstans errichteten.",
                   "category": "historical",
@@ -3786,39 +3408,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paradoks",
-                  "text": "Ein zeitgenössisches Skulptur-Denkmal, das dem Stadtbild von Balchasch eine moderne künstlerische Note verleiht.",
-                  "category": "historical",
-                  "coords": [
-                        74.978011,
-                        46.838608
-                  ]
-            },
-            {
                   "name": "Sag'at",
                   "text": "Ein zentraler Uhrenturm, der als markantes Wahrzeichen und beliebter Treffpunkt im Stadtzentrum von Balchasch dient.",
                   "category": "landmark",
                   "coords": [
                         74.982431,
                         46.845415
-                  ]
-            },
-            {
-                  "name": "Chechengora",
-                  "text": "Ein Aussichtspunkt auf einem Hügel, der einen weiten Blick über den Balchaschsee und die Industrielandschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        74.966956,
-                        46.82954
-                  ]
-            },
-            {
-                  "name": "Attraktsiony",
-                  "text": "Ein Freizeitpark mit verschiedenen Fahrgeschäften direkt am Nordufer des Balchaschsees.",
-                  "category": "recreational",
-                  "coords": [
-                        74.97808,
-                        46.833999
                   ]
             },
             {
@@ -3905,15 +3500,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Muzei",
-                  "text": "Helytörténeti múzeum Balhasban, amely a város rézbányászati örökségét és a tó ökológiáját bemutató kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        74.97665,
-                        46.847248
-                  ]
-            },
-            {
                   "name": "Stroiteliam Balkhasha",
                   "text": "A kazah sztyeppén felépült Balhas iparváros építőinek tiszteletére emelt emlékmű.",
                   "category": "historical",
@@ -3950,39 +3536,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paradoks",
-                  "text": "Kortárs szobrászati alkotás, amely modern művészeti jelleget kölcsönöz Balhas városképének.",
-                  "category": "historical",
-                  "coords": [
-                        74.978011,
-                        46.838608
-                  ]
-            },
-            {
                   "name": "Sag'at",
                   "text": "Központi óratorony, amely jellegzetes építmény és népszerű találkozóhely Balhas belvárosában.",
                   "category": "landmark",
                   "coords": [
                         74.982431,
                         46.845415
-                  ]
-            },
-            {
-                  "name": "Chechengora",
-                  "text": "Egy dombtetőn lévő kilátópont, ahonnan panorámás kilátás nyílik a Balkas-tóra és a közeli gyárvárosra.",
-                  "category": "natural",
-                  "coords": [
-                        74.966956,
-                        46.82954
-                  ]
-            },
-            {
-                  "name": "Attraktsiony",
-                  "text": "Vidámpark különféle játékokkal és attrakciókkal a Balkas-tó északi partjának közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        74.97808,
-                        46.833999
                   ]
             },
             {
@@ -4069,15 +3628,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzei",
-                  "text": "Un muzeu local din Balhaș, cu exponate despre moștenirea minieră a cuprului din oraș și ecologia lacului.",
-                  "category": "museum",
-                  "coords": [
-                        74.97665,
-                        46.847248
-                  ]
-            },
-            {
                   "name": "Stroiteliam Balkhasha",
                   "text": "Un monument în onoarea muncitorilor care au construit orașul industrial Balhaș în stepa aridă a Kazahstanului.",
                   "category": "historical",
@@ -4114,39 +3664,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paradoks",
-                  "text": "Un monument sculptural contemporan care adaugă o notă artistică modernă peisajului urban din Balhaș.",
-                  "category": "historical",
-                  "coords": [
-                        74.978011,
-                        46.838608
-                  ]
-            },
-            {
                   "name": "Sag'at",
                   "text": "Un turn cu ceas central care servește ca reper proeminent și punct de întâlnire popular în centrul orașului Balhaș.",
                   "category": "landmark",
                   "coords": [
                         74.982431,
                         46.845415
-                  ]
-            },
-            {
-                  "name": "Chechengora",
-                  "text": "Un punct de observație situat pe deal, oferind o vedere panoramică asupra lacului Balhaș și a peisajului industrial.",
-                  "category": "natural",
-                  "coords": [
-                        74.966956,
-                        46.82954
-                  ]
-            },
-            {
-                  "name": "Attraktsiony",
-                  "text": "Un parc de distracții cu diverse atracții situat în apropierea malului nordic al lacului Balhaș.",
-                  "category": "recreational",
-                  "coords": [
-                        74.97808,
-                        46.833999
                   ]
             },
             {
@@ -4233,15 +3756,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Muzei",
-                  "text": "A local museum in Balkhash showcasing exhibits on the city's copper mining heritage and the lake's ecology.",
-                  "category": "museum",
-                  "coords": [
-                        74.97665,
-                        46.847248
-                  ]
-            },
-            {
                   "name": "Stroiteliam Balkhasha",
                   "text": "A monument honoring the workers who built the industrial city of Balkhash in the arid Kazakh steppe.",
                   "category": "historical",
@@ -4278,39 +3792,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paradoks",
-                  "text": "A contemporary sculptural monument adding a modern artistic touch to the urban landscape of Balkhash.",
-                  "category": "historical",
-                  "coords": [
-                        74.978011,
-                        46.838608
-                  ]
-            },
-            {
                   "name": "Sag'at",
                   "text": "A central clock tower that serves as a prominent landmark and popular meeting point in downtown Balkhash.",
                   "category": "landmark",
                   "coords": [
                         74.982431,
                         46.845415
-                  ]
-            },
-            {
-                  "name": "Chechengora",
-                  "text": "A high vantage point offering panoramic views of Lake Balkhash and the nearby industrial landscape.",
-                  "category": "natural",
-                  "coords": [
-                        74.966956,
-                        46.82954
-                  ]
-            },
-            {
-                  "name": "Attraktsiony",
-                  "text": "A recreational park with various amusement rides located near the northern shores of Lake Balkhash.",
-                  "category": "recreational",
-                  "coords": [
-                        74.97808,
-                        46.833999
                   ]
             },
             {
@@ -4443,33 +3930,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pavlodarskii oblastnoi khudozhestvennyi muzei",
-                  "text": "Diese regionale Kunstgalerie zeigt eine vielfältige Auswahl an Gemälden und Skulpturen kasachischer und internationaler Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        76.939121,
-                        52.296718
-                  ]
-            },
-            {
-                  "name": "Asharshylyk kurbandaryna tagzym",
-                  "text": "Ein feierliches Denkmal, das dem Gedenken an die Opfer der Massenhungersnot in Kasachstan gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        76.925119,
-                        52.307309
-                  ]
-            },
-            {
-                  "name": "Pavlodarskii oblastnoi teatr dramy imeni A. P. Chekhova",
-                  "text": "Ein klassisches Dramentheater in einem historischen Gebäude, benannt zu Ehren des Schriftstellers Anton Tschechow.",
-                  "category": "cultural",
-                  "coords": [
-                        76.938769,
-                        52.276735
-                  ]
-            },
-            {
                   "name": "Viking Land",
                   "text": "Ein Outdoor-Freizeitpark mit Holz-Themenstrukturen, Fahrgeschäften und Aktivitäten für Kinder und Familien.",
                   "category": "recreational",
@@ -4506,48 +3966,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei voinskoi slavy",
-                  "text": "Ein militärhistorisches Museum, das Waffen, Uniformen und Fotografien aus dem Zweiten Weltkrieg zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        76.948346,
-                        52.300148
-                  ]
-            },
-            {
-                  "name": "Shanyrak",
-                  "text": "Ein Kulturzentrum für Volkskunst, benannt nach dem ikonischen kreisförmigen Dach einer kasachischen Jurte.",
-                  "category": "cultural",
-                  "coords": [
-                        76.945479,
-                        52.297125
-                  ]
-            },
-            {
-                  "name": "Blagoveshchensk Shirkeui",
-                  "text": "Die Mariä-Verkündigungs-Kathedrale ist eine prachtvolle orthodoxe Kirche am Irtysch-Ufer mit fünf markanten goldenen Kuppeln.",
-                  "category": "religious",
-                  "coords": [
-                        76.928377,
-                        52.295849
-                  ]
-            },
-            {
                   "name": "Tsentral'nyi pliazh",
                   "text": "Der wichtigste Sandstrand der Stadt, gelegen an der malerischen Uferpromenade des Flusses Irtysch.",
                   "category": "recreational",
                   "coords": [
                         76.935351,
                         52.286214
-                  ]
-            },
-            {
-                  "name": "Ertis",
-                  "text": "Ein modernes Multimedia-Museum, das die Geologie, Geschichte und natürliche Umgebung der Irtysch-Region erläutert.",
-                  "category": "museum",
-                  "coords": [
-                        76.935737,
-                        52.279077
                   ]
             },
             {
@@ -4697,33 +4121,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pavlodarskii oblastnoi khudozhestvennyi muzei",
-                  "text": "Ez a regionális művészeti galéria kazah és nemzetközi művészek festményeinek és szobrainak változatos választékát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        76.939121,
-                        52.296718
-                  ]
-            },
-            {
-                  "name": "Asharshylyk kurbandaryna tagzym",
-                  "text": "Ünnepélyes emlékmű, amelyet a kazahsztáni tömeges éhínség áldozatainak emlékére állítottak.",
-                  "category": "historical",
-                  "coords": [
-                        76.925119,
-                        52.307309
-                  ]
-            },
-            {
-                  "name": "Pavlodarskii oblastnoi teatr dramy imeni A. P. Chekhova",
-                  "text": "Történelmi épületben működő klasszikus drámai színház, amelyet Anton Csehov író tiszteletére neveztek el.",
-                  "category": "cultural",
-                  "coords": [
-                        76.938769,
-                        52.276735
-                  ]
-            },
-            {
                   "name": "Viking Land",
                   "text": "Szabadtéri vidámpark fából készült tematikus építményekkel, játékokkal és tevékenységekkel gyerekeknek és családoknak.",
                   "category": "recreational",
@@ -4760,48 +4157,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei voinskoi slavy",
-                  "text": "Hadtörténeti múzeum, amely a második világháború fegyvereit, egyenruháit és fényképeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        76.948346,
-                        52.300148
-                  ]
-            },
-            {
-                  "name": "Shanyrak",
-                  "text": "A népi alkotóművészetnek szentelt kulturális helyszín, amely a kazah jurta jellegzetes kör alakú tetejéről kapta a nevét.",
-                  "category": "cultural",
-                  "coords": [
-                        76.945479,
-                        52.297125
-                  ]
-            },
-            {
-                  "name": "Blagoveshchensk Shirkeui",
-                  "text": "Az Örömhír-székesegyház egy impozáns ortodox templom az Irtis partján, öt jellegzetes aranykupolával.",
-                  "category": "religious",
-                  "coords": [
-                        76.928377,
-                        52.295849
-                  ]
-            },
-            {
                   "name": "Tsentral'nyi pliazh",
                   "text": "A város fő homokos strandja, amely az Irtis-folyó festői partján található.",
                   "category": "recreational",
                   "coords": [
                         76.935351,
                         52.286214
-                  ]
-            },
-            {
-                  "name": "Ertis",
-                  "text": "Modern multimédiás múzeum, amely az Irtis-vidék geológiáját, történelmét és természeti környezetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        76.935737,
-                        52.279077
                   ]
             },
             {
@@ -4951,33 +4312,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pavlodarskii oblastnoi khudozhestvennyi muzei",
-                  "text": "Această galerie de artă regională expune o gamă diversă de picturi și sculpturi realizate de artiști kazahi și internaționali.",
-                  "category": "museum",
-                  "coords": [
-                        76.939121,
-                        52.296718
-                  ]
-            },
-            {
-                  "name": "Asharshylyk kurbandaryna tagzym",
-                  "text": "Un monument solemn dedicat memoriei victimelor care au suferit în timpul foametei în masă din Kazahstan.",
-                  "category": "historical",
-                  "coords": [
-                        76.925119,
-                        52.307309
-                  ]
-            },
-            {
-                  "name": "Pavlodarskii oblastnoi teatr dramy imeni A. P. Chekhova",
-                  "text": "Un teatru de dramă clasică găzduit într-o clădire istorică, numit în onoarea scriitorului Anton Cehov.",
-                  "category": "cultural",
-                  "coords": [
-                        76.938769,
-                        52.276735
-                  ]
-            },
-            {
                   "name": "Viking Land",
                   "text": "Un parc de distracții în aer liber cu structuri tematice din lemn, atracții și activități pentru copii și familii.",
                   "category": "recreational",
@@ -5014,48 +4348,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei voinskoi slavy",
-                  "text": "Un muzeu de istorie militară care expune arme, uniforme și fotografii din cel de-al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        76.948346,
-                        52.300148
-                  ]
-            },
-            {
-                  "name": "Shanyrak",
-                  "text": "Un centru cultural axat pe creativitatea populară, numit după vârful circular iconic al unei iurte kazahe.",
-                  "category": "cultural",
-                  "coords": [
-                        76.945479,
-                        52.297125
-                  ]
-            },
-            {
-                  "name": "Blagoveshchensk Shirkeui",
-                  "text": "Catedrala Bunei Vestiri este o biserică ortodoxă impunătoare pe malul Irtîșului, cu cinci cupole aurii proeminente.",
-                  "category": "religious",
-                  "coords": [
-                        76.928377,
-                        52.295849
-                  ]
-            },
-            {
                   "name": "Tsentral'nyi pliazh",
                   "text": "Principala plajă cu nisip a orașului, situată de-a lungul falezei pitorești a râului Irtîș.",
                   "category": "recreational",
                   "coords": [
                         76.935351,
                         52.286214
-                  ]
-            },
-            {
-                  "name": "Ertis",
-                  "text": "Un muzeu multimedia modern care detaliază geologia, istoria și mediul natural al regiunii Irtîș.",
-                  "category": "museum",
-                  "coords": [
-                        76.935737,
-                        52.279077
                   ]
             },
             {
@@ -5205,33 +4503,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pavlodarskii oblastnoi khudozhestvennyi muzei",
-                  "text": "This regional art gallery displays a diverse range of paintings and sculptures by Kazakh and international artists.",
-                  "category": "museum",
-                  "coords": [
-                        76.939121,
-                        52.296718
-                  ]
-            },
-            {
-                  "name": "Asharshylyk kurbandaryna tagzym",
-                  "text": "A solemn monument dedicated to the memory of the victims who suffered during the mass famine in Kazakhstan.",
-                  "category": "historical",
-                  "coords": [
-                        76.925119,
-                        52.307309
-                  ]
-            },
-            {
-                  "name": "Pavlodarskii oblastnoi teatr dramy imeni A. P. Chekhova",
-                  "text": "A classical drama theatre housed in a historic building, named in honor of the writer Anton Chekhov.",
-                  "category": "cultural",
-                  "coords": [
-                        76.938769,
-                        52.276735
-                  ]
-            },
-            {
                   "name": "Viking Land",
                   "text": "An outdoor amusement park with wooden themed structures, rides, and activities for children and families.",
                   "category": "recreational",
@@ -5268,48 +4539,12 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei voinskoi slavy",
-                  "text": "A military history museum showcasing weapons, uniforms, and photographs from World War II.",
-                  "category": "museum",
-                  "coords": [
-                        76.948346,
-                        52.300148
-                  ]
-            },
-            {
-                  "name": "Shanyrak",
-                  "text": "A cultural venue focused on folk creativity, named after the iconic circular top of a Kazakh yurt.",
-                  "category": "cultural",
-                  "coords": [
-                        76.945479,
-                        52.297125
-                  ]
-            },
-            {
-                  "name": "Blagoveshchensk Shirkeui",
-                  "text": "The Annunciation Cathedral is a grand Orthodox church on the Irtysh bank with five prominent golden domes.",
-                  "category": "religious",
-                  "coords": [
-                        76.928377,
-                        52.295849
-                  ]
-            },
-            {
                   "name": "Tsentral'nyi pliazh",
                   "text": "The main sandy beach of the city, located along the scenic embankment of the Irtysh River.",
                   "category": "recreational",
                   "coords": [
                         76.935351,
                         52.286214
-                  ]
-            },
-            {
-                  "name": "Ertis",
-                  "text": "A modern multimedia museum that details the geology, history, and natural environment of the Irtysh region.",
-                  "category": "museum",
-                  "coords": [
-                        76.935737,
-                        52.279077
                   ]
             },
             {
@@ -5355,15 +4590,6 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
                   "coords": [
                         76.94371,
                         52.282638
-                  ]
-            },
-            {
-                  "name": "Mashkhur Jusup Mosque",
-                  "text": "An architectural landmark featuring a sky-blue dome shaped like an eight-pointed star and four tall minarets.",
-                  "category": "religious",
-                  "coords": [
-                        76.962304,
-                        52.286491
                   ]
             },
             {

@@ -187,15 +187,6 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
                   ]
             },
             {
-                  "name": "Balneario La Alameda",
-                  "text": "Ein historisches Thermalbad in Valencia mit langer Tradition.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.361989,
-                        39.473495
-                  ]
-            },
-            {
                   "name": "Piscina Municipal",
                   "text": "Ein städtisches Schwimmbad, das der Öffentlichkeit für Sport zur Verfügung steht.",
                   "category": "recreational",
@@ -330,15 +321,6 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
                   "coords": [
                         -0.323725,
                         39.478941
-                  ]
-            },
-            {
-                  "name": "Balneario La Alameda",
-                  "text": "Nagy múltú, történelmi termálfürdő Valenciában.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.361989,
-                        39.473495
                   ]
             },
             {
@@ -479,15 +461,6 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
                   ]
             },
             {
-                  "name": "Balneario La Alameda",
-                  "text": "O baie termală istorică din Valencia, cu o lungă tradiție.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.361989,
-                        39.473495
-                  ]
-            },
-            {
                   "name": "Piscina Municipal",
                   "text": "O piscină municipală disponibilă publicului pentru sport.",
                   "category": "recreational",
@@ -622,15 +595,6 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
                   "coords": [
                         -0.323725,
                         39.478941
-                  ]
-            },
-            {
-                  "name": "Balneario La Alameda",
-                  "text": "A historical thermal bath in Valencia with a long tradition.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.361989,
-                        39.473495
                   ]
             },
             {

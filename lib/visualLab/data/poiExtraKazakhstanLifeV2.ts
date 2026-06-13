@@ -4368,24 +4368,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nazir Torekululy muzei",
-                  "text": "Ein Gedenkmuseum für den Diplomaten Nazir Torekululy, gelegen im historischen Turkestan.",
-                  "category": "museum",
-                  "coords": [
-                        68.276146,
-                        43.30148
-                  ]
-            },
-            {
-                  "name": "Muzei turkologii im. B.Kenzhebaiuly",
-                  "text": "Dieses nach B. Kenzhebaiuly benannte Museum befasst sich mit der Erforschung der Turkvölker.",
-                  "category": "museum",
-                  "coords": [
-                        68.293118,
-                        43.291588
-                  ]
-            },
-            {
                   "name": "K'ozha Akhmet Iasaui mu'razhaiy",
                   "text": "Ein Museum, das das spirituelle Erbe und die Lehren des Sufi-Meisters Khoja Ahmed Yasawi dokumentiert.",
                   "category": "museum",
@@ -4557,15 +4539,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khan Ordasy",
-                  "text": "Das rekonstruierte Hauptquartier der kasachischen Khane innerhalb der historischen Zitadelle von Turkistan.",
-                  "category": "landmark",
-                  "coords": [
-                        68.265983,
-                        43.297655
-                  ]
-            },
-            {
                   "name": "Namazkhana",
                   "text": "Ein traditioneller Gebetsraum, der Gläubigen in der Nähe der großen Pilgerstätten einen Ort der Ruhe bietet.",
                   "category": "landmark",
@@ -4637,24 +4610,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   "coords": [
                         68.275594,
                         43.29951
-                  ]
-            },
-            {
-                  "name": "Nazir Torekululy muzei",
-                  "text": "Nazir Torekululy diplomata emlékének szentelt múzeum a történelmi Turkesztánban.",
-                  "category": "museum",
-                  "coords": [
-                        68.276146,
-                        43.30148
-                  ]
-            },
-            {
-                  "name": "Muzei turkologii im. B.Kenzhebaiuly",
-                  "text": "Ez a B. Kenzhebaiuly-ról elnevezett múzeum a türk népek kutatásával foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        68.293118,
-                        43.291588
                   ]
             },
             {
@@ -4829,15 +4784,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khan Ordasy",
-                  "text": "A kazah kánok rekonstruált székhelye Turkesztán történelmi citadelláján belül.",
-                  "category": "landmark",
-                  "coords": [
-                        68.265983,
-                        43.297655
-                  ]
-            },
-            {
                   "name": "Namazkhana",
                   "text": "Hagyományos imaszoba, amely nyugalmat kínál a hívőknek a nagy zarándokhelyek közelében.",
                   "category": "landmark",
@@ -4909,24 +4855,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   "coords": [
                         68.275594,
                         43.29951
-                  ]
-            },
-            {
-                  "name": "Nazir Torekululy muzei",
-                  "text": "Un muzeu memorial dedicat diplomatului Nazir Torekululy, situat în zona istorică a orașului Turkistan.",
-                  "category": "museum",
-                  "coords": [
-                        68.276146,
-                        43.30148
-                  ]
-            },
-            {
-                  "name": "Muzei turkologii im. B.Kenzhebaiuly",
-                  "text": "Acest muzeu, numit după B. Kenzhebaiuly, se ocupă cu cercetarea popoarelor turcice.",
-                  "category": "museum",
-                  "coords": [
-                        68.293118,
-                        43.291588
                   ]
             },
             {
@@ -5101,15 +5029,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khan Ordasy",
-                  "text": "Sediul reconstruit al hanilor kazahi în interiorul citadelei istorice din Turkistan.",
-                  "category": "landmark",
-                  "coords": [
-                        68.265983,
-                        43.297655
-                  ]
-            },
-            {
                   "name": "Namazkhana",
                   "text": "O sală de rugăciune tradițională, care oferă credincioșilor un loc de liniște în apropierea marilor locuri de pelerinaj.",
                   "category": "landmark",
@@ -5157,15 +5076,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Great Steppe Country Center",
-                  "text": "This cultural center in Turkistan is dedicated to the history and heritage of the Great Steppe.",
-                  "category": "museum",
-                  "coords": [
-                        68.275795,
-                        43.296129
-                  ]
-            },
-            {
                   "name": "Shyg'ys Monshasy",
                   "text": "This museum is housed in a restored oriental bathhouse and showcases bathing traditions.",
                   "category": "museum",
@@ -5181,24 +5091,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   "coords": [
                         68.275594,
                         43.29951
-                  ]
-            },
-            {
-                  "name": "Nazir Torekululy muzei",
-                  "text": "A memorial museum for the diplomat Nazir Torekululy, located in historic Turkistan.",
-                  "category": "museum",
-                  "coords": [
-                        68.276146,
-                        43.30148
-                  ]
-            },
-            {
-                  "name": "Muzei turkologii im. B.Kenzhebaiuly",
-                  "text": "This museum named after B. Kenzhebaiuly deals with the study of Turkic peoples.",
-                  "category": "museum",
-                  "coords": [
-                        68.293118,
-                        43.291588
                   ]
             },
             {
@@ -5301,15 +5193,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Turkestan Music and Drama Theater",
-                  "text": "A modern theater building in the historic Silk Road city, serving as a cultural hub for southern Kazakhstan.",
-                  "category": "cultural",
-                  "coords": [
-                        68.278694,
-                        43.297332
-                  ]
-            },
-            {
                   "name": "Altyn Samu'ryk' teatry",
                   "text": "Named after the mythical Kazakh phoenix, this theater stands out with its symbolic architecture.",
                   "category": "cultural",
@@ -5370,15 +5253,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   "coords": [
                         68.268894,
                         43.297545
-                  ]
-            },
-            {
-                  "name": "Khan Ordasy",
-                  "text": "The reconstructed headquarters of the Kazakh Khans within the historic citadel of Turkistan.",
-                  "category": "landmark",
-                  "coords": [
-                        68.265983,
-                        43.297655
                   ]
             },
             {
@@ -5481,30 +5355,12 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Munaitpasov Khadzhimukan",
-                  "text": "Ein Denkmal zu Ehren des legendären kasachischen Ringers Khadzhimukan Munaitpasov.",
-                  "category": "historical",
-                  "coords": [
-                        69.593562,
-                        42.333134
-                  ]
-            },
-            {
                   "name": "K'oshk'ar-Ata",
                   "text": "Dieser Park in Schymkent liegt an der Quelle des Flusses Koshkar-Ata, der für sein klares Wasser bekannt ist.",
                   "category": "park",
                   "coords": [
                         69.606462,
                         42.30444
-                  ]
-            },
-            {
-                  "name": "Muzei zhertv politicheskikh repressii",
-                  "text": "Das Museum dokumentiert das Schicksal der Opfer stalinistischer Verfolgungen in Kasachstan.",
-                  "category": "museum",
-                  "coords": [
-                        69.592552,
-                        42.328873
                   ]
             },
             {
@@ -5526,48 +5382,12 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mavzolei Koshkar-Ata",
-                  "text": "Ein religiöser Ort und Mausoleum, das dem Schutzpatron der Stadt, Koshkar-Ata, gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        69.601728,
-                        42.307519
-                  ]
-            },
-            {
-                  "name": "Obelisk Veteranam VOV",
-                  "text": "Ein klassischer Obelisk im Stadtzentrum zum Gedenken an die Veteranen des Großen Vaterländischen Krieges.",
-                  "category": "historical",
-                  "coords": [
-                        69.591622,
-                        42.329243
-                  ]
-            },
-            {
-                  "name": "Oblastnoi teatr opery i baleta",
-                  "text": "Ein bedeutendes Kulturzentrum in Schymkent, das klassische Opern- und Ballettproduktionen zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        69.57267,
-                        42.319667
-                  ]
-            },
-            {
                   "name": "Shymkentskii gorodskoi russkii dramaticheskii teatr",
                   "text": "Das russische Dramatheater bietet ein breites Repertoire an klassischen und modernen Bühnenstücken.",
                   "category": "cultural",
                   "coords": [
                         69.586349,
                         42.315955
-                  ]
-            },
-            {
-                  "name": "Dom druzhby narodov",
-                  "text": "Dieses Gebäude dient als Begegnungsstätte für die verschiedenen ethnischen Gruppen der Region.",
-                  "category": "cultural",
-                  "coords": [
-                        69.590276,
-                        42.317513
                   ]
             },
             {
@@ -5697,24 +5517,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aviatoram-uchastnikam Velikoi Otechestvennoi voiny",
-                  "text": "Ein Denkmal in Schymkent, das den Piloten des Zweiten Weltkriegs gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        69.5874,
-                        42.330234
-                  ]
-            },
-            {
-                  "name": "Universitet <<Miras>>",
-                  "text": "Der Campus der Miras-Universität ist eine moderne Bildungseinrichtung im Herzen von Schymkent.",
-                  "category": "landmark",
-                  "coords": [
-                        69.564539,
-                        42.313804
-                  ]
-            },
-            {
                   "name": "Tserkov' Nikolaia Chudotvortsa",
                   "text": "Eine russisch-orthodoxe Kirche in Schymkent, die dem Heiligen Nikolaus dem Wundertäter gewidmet ist.",
                   "category": "landmark",
@@ -5789,30 +5591,12 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Munaitpasov Khadzhimukan",
-                  "text": "Emlékmű a legendás kazah birkózó, Hadzsimukan Munaitpaszov tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        69.593562,
-                        42.333134
-                  ]
-            },
-            {
                   "name": "K'oshk'ar-Ata",
                   "text": "Ez a simkenti park a Koskar-Ata folyó forrásánál fekszik, amely tiszta vizéről ismert.",
                   "category": "park",
                   "coords": [
                         69.606462,
                         42.30444
-                  ]
-            },
-            {
-                  "name": "Muzei zhertv politicheskikh repressii",
-                  "text": "A múzeum a sztálini üldöztetések kazahsztáni áldozatainak sorsát dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        69.592552,
-                        42.328873
                   ]
             },
             {
@@ -5834,48 +5618,12 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mavzolei Koshkar-Ata",
-                  "text": "Vallási helyszín és mauzóleum, amelyet a város védőszentjének, Koskar-Atának szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        69.601728,
-                        42.307519
-                  ]
-            },
-            {
-                  "name": "Obelisk Veteranam VOV",
-                  "text": "Klasszikus obeliszk a városközpontban, a Nagy Honvédő Háború veteránjainak emlékére.",
-                  "category": "historical",
-                  "coords": [
-                        69.591622,
-                        42.329243
-                  ]
-            },
-            {
-                  "name": "Oblastnoi teatr opery i baleta",
-                  "text": "Jelentős kulturális központ Simkentben, ahol klasszikus opera- és balettelőadásokat tartanak.",
-                  "category": "cultural",
-                  "coords": [
-                        69.57267,
-                        42.319667
-                  ]
-            },
-            {
                   "name": "Shymkentskii gorodskoi russkii dramaticheskii teatr",
                   "text": "Az orosz drámai színház klasszikus és modern színdarabok széles repertoárját kínálja.",
                   "category": "cultural",
                   "coords": [
                         69.586349,
                         42.315955
-                  ]
-            },
-            {
-                  "name": "Dom druzhby narodov",
-                  "text": "Ez az épület a régió különböző etnikai csoportjainak találkozóhelyeként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        69.590276,
-                        42.317513
                   ]
             },
             {
@@ -6005,24 +5753,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aviatoram-uchastnikam Velikoi Otechestvennoi voiny",
-                  "text": "Egy emlékmű Simkentben, amelyet a második világháború pilótáinak szenteltek.",
-                  "category": "landmark",
-                  "coords": [
-                        69.5874,
-                        42.330234
-                  ]
-            },
-            {
-                  "name": "Universitet <<Miras>>",
-                  "text": "A Miras Egyetem campusa egy modern oktatási intézmény Simkent szívében.",
-                  "category": "landmark",
-                  "coords": [
-                        69.564539,
-                        42.313804
-                  ]
-            },
-            {
                   "name": "Tserkov' Nikolaia Chudotvortsa",
                   "text": "Egy orosz ortodox templom Simkentben, amelyet Csodatevő Szent Miklósnak szenteltek.",
                   "category": "landmark",
@@ -6097,30 +5827,12 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Munaitpasov Khadzhimukan",
-                  "text": "Un monument în onoarea legendarului luptător kazah Hadjimukan Munaitpasov.",
-                  "category": "historical",
-                  "coords": [
-                        69.593562,
-                        42.333134
-                  ]
-            },
-            {
                   "name": "K'oshk'ar-Ata",
                   "text": "Acest parc din Șimkent este situat la izvorul râului Koșkar-Ata, cunoscut pentru apa sa limpede.",
                   "category": "park",
                   "coords": [
                         69.606462,
                         42.30444
-                  ]
-            },
-            {
-                  "name": "Muzei zhertv politicheskikh repressii",
-                  "text": "Muzeul documentează soarta victimelor persecuțiilor staliniste din Kazahstan.",
-                  "category": "museum",
-                  "coords": [
-                        69.592552,
-                        42.328873
                   ]
             },
             {
@@ -6142,48 +5854,12 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mavzolei Koshkar-Ata",
-                  "text": "Un sit religios și mausoleu dedicat sfântului protector al orașului, Koșkar-Ata.",
-                  "category": "historical",
-                  "coords": [
-                        69.601728,
-                        42.307519
-                  ]
-            },
-            {
-                  "name": "Obelisk Veteranam VOV",
-                  "text": "Un obelisc clasic în centrul orașului, dedicat veteranilor Marelui Război pentru Apărarea Patriei.",
-                  "category": "historical",
-                  "coords": [
-                        69.591622,
-                        42.329243
-                  ]
-            },
-            {
-                  "name": "Oblastnoi teatr opery i baleta",
-                  "text": "Un important centru cultural din Șimkent, care prezintă producții clasice de operă și balet.",
-                  "category": "cultural",
-                  "coords": [
-                        69.57267,
-                        42.319667
-                  ]
-            },
-            {
                   "name": "Shymkentskii gorodskoi russkii dramaticheskii teatr",
                   "text": "Teatrul dramatic rus oferă un repertoriu larg de piese de teatru clasice și moderne.",
                   "category": "cultural",
                   "coords": [
                         69.586349,
                         42.315955
-                  ]
-            },
-            {
-                  "name": "Dom druzhby narodov",
-                  "text": "Această clădire servește drept loc de întâlnire pentru diversele grupuri etnice din regiune.",
-                  "category": "cultural",
-                  "coords": [
-                        69.590276,
-                        42.317513
                   ]
             },
             {
@@ -6313,24 +5989,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aviatoram-uchastnikam Velikoi Otechestvennoi voiny",
-                  "text": "Un monument în Șimkent dedicat piloților din cel de-al Doilea Război Mondial.",
-                  "category": "landmark",
-                  "coords": [
-                        69.5874,
-                        42.330234
-                  ]
-            },
-            {
-                  "name": "Universitet <<Miras>>",
-                  "text": "Campusul Universității Miras este o instituție de învățământ modernă în inima orașului Șimkent.",
-                  "category": "landmark",
-                  "coords": [
-                        69.564539,
-                        42.313804
-                  ]
-            },
-            {
                   "name": "Tserkov' Nikolaia Chudotvortsa",
                   "text": "O biserică ortodoxă rusă din Șimkent, dedicată Sfântului Nicolae Făcătorul de Minuni.",
                   "category": "landmark",
@@ -6378,15 +6036,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Independence Monument",
-                  "text": "A tall monument in Shymkent symbolizing Kazakhstan's freedom with a golden eagle.",
-                  "category": "historical",
-                  "coords": [
-                        69.600249,
-                        42.309543
-                  ]
-            },
-            {
                   "name": "Shymkent memlekettik dendrologiialyk' saiabag'y",
                   "text": "A 120-hectare park in Shymkent featuring over 600 tree species and an artificial lake.",
                   "category": "park",
@@ -6405,30 +6054,12 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Munaitpasov Khadzhimukan",
-                  "text": "A monument honoring the legendary Kazakh wrestler Khadzhimukan Munaitpasov.",
-                  "category": "historical",
-                  "coords": [
-                        69.593562,
-                        42.333134
-                  ]
-            },
-            {
                   "name": "K'oshk'ar-Ata",
                   "text": "This park in Shymkent is located at the source of the Koshkar-Ata River, known for its clear water.",
                   "category": "park",
                   "coords": [
                         69.606462,
                         42.30444
-                  ]
-            },
-            {
-                  "name": "Muzei zhertv politicheskikh repressii",
-                  "text": "The museum documents the fate of the victims of Stalinist persecutions in Kazakhstan.",
-                  "category": "museum",
-                  "coords": [
-                        69.592552,
-                        42.328873
                   ]
             },
             {
@@ -6450,48 +6081,12 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mavzolei Koshkar-Ata",
-                  "text": "A religious site and mausoleum dedicated to the city's patron saint, Koshkar-Ata.",
-                  "category": "historical",
-                  "coords": [
-                        69.601728,
-                        42.307519
-                  ]
-            },
-            {
-                  "name": "Obelisk Veteranam VOV",
-                  "text": "A classic obelisk in the city center commemorating the veterans of the Great Patriotic War.",
-                  "category": "historical",
-                  "coords": [
-                        69.591622,
-                        42.329243
-                  ]
-            },
-            {
-                  "name": "Oblastnoi teatr opery i baleta",
-                  "text": "A major cultural center in Shymkent showcasing classical opera and ballet productions.",
-                  "category": "cultural",
-                  "coords": [
-                        69.57267,
-                        42.319667
-                  ]
-            },
-            {
                   "name": "Shymkentskii gorodskoi russkii dramaticheskii teatr",
                   "text": "The Russian Drama Theatre offers a wide repertoire of classical and modern stage plays.",
                   "category": "cultural",
                   "coords": [
                         69.586349,
                         42.315955
-                  ]
-            },
-            {
-                  "name": "Dom druzhby narodov",
-                  "text": "This building serves as a meeting place for the various ethnic groups of the region.",
-                  "category": "cultural",
-                  "coords": [
-                        69.590276,
-                        42.317513
                   ]
             },
             {
@@ -6618,24 +6213,6 @@ export const poiExtraKazakhstanLifeV2: POI[] = [
                   "coords": [
                         69.628089,
                         42.376971
-                  ]
-            },
-            {
-                  "name": "Aviatoram-uchastnikam Velikoi Otechestvennoi voiny",
-                  "text": "A monument in Shymkent dedicated to the aviators of World War II.",
-                  "category": "landmark",
-                  "coords": [
-                        69.5874,
-                        42.330234
-                  ]
-            },
-            {
-                  "name": "Universitet <<Miras>>",
-                  "text": "The Miras University campus is a modern educational institution in the heart of Shymkent.",
-                  "category": "landmark",
-                  "coords": [
-                        69.564539,
-                        42.313804
                   ]
             },
             {

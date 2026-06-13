@@ -7880,24 +7880,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Talsperre Einsiedel",
-                  "text": "Ein ruhiger See bei Chemnitz, ideal zum Spazierengehen und Entspannen.",
-                  "category": "natural",
-                  "coords": [
-                        12.983599,
-                        50.77535
-                  ]
-            },
-            {
-                  "name": "Stausee Rabenstein",
-                  "text": "Ein schönes Gewässer bei Chemnitz mit malerischer Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        12.811561,
-                        50.837469
-                  ]
-            },
-            {
                   "name": "Eibsee",
                   "text": "Der Eibsee in Chemnitz ist ein kleiner See im Küchwaldpark mit Spazierwegen.",
                   "category": "natural",
@@ -8343,24 +8325,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.961574,
                         50.823081
-                  ]
-            },
-            {
-                  "name": "Talsperre Einsiedel",
-                  "text": "Egy nyugodt tó Chemnitz közelében, amely ideális sétáláshoz és kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        12.983599,
-                        50.77535
-                  ]
-            },
-            {
-                  "name": "Stausee Rabenstein",
-                  "text": "Szép vízfelület Chemnitz közelében, festői környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        12.811561,
-                        50.837469
                   ]
             },
             {
@@ -8812,24 +8776,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Talsperre Einsiedel",
-                  "text": "Un lac liniștit lângă Chemnitz, perfect pentru plimbări și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        12.983599,
-                        50.77535
-                  ]
-            },
-            {
-                  "name": "Stausee Rabenstein",
-                  "text": "O zonă cu apă frumoasă lângă Chemnitz, într-un cadru pitoresc.",
-                  "category": "natural",
-                  "coords": [
-                        12.811561,
-                        50.837469
-                  ]
-            },
-            {
                   "name": "Eibsee",
                   "text": "Eibsee din Chemnitz este un mic lac din parcul Küchwald cu alei de plimbare.",
                   "category": "natural",
@@ -9278,24 +9224,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Talsperre Einsiedel",
-                  "text": "A peaceful lake near Chemnitz, perfect for walking and relaxing.",
-                  "category": "natural",
-                  "coords": [
-                        12.983599,
-                        50.77535
-                  ]
-            },
-            {
-                  "name": "Stausee Rabenstein",
-                  "text": "A beautiful lake near Chemnitz with picturesque surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        12.811561,
-                        50.837469
-                  ]
-            },
-            {
                   "name": "Eibsee",
                   "text": "Eibsee in Chemnitz is a small lake in Küchwald Park with walking paths.",
                   "category": "natural",
@@ -9606,15 +9534,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Güllegrube",
-                  "text": "Ein ruhiges Gewässer in Zwickau, das zur lokalen Szenerie gehört.",
-                  "category": "natural",
-                  "coords": [
-                        12.514923,
-                        50.78018
-                  ]
-            },
-            {
                   "name": "Kleiner Spielplatz mit Balancier und Hüpfmöglichkeit",
                   "text": "Ein Spielplatz in Zwickau mit Balancier- und Hüpfmöglichkeiten für aktive Kinder.",
                   "category": "family",
@@ -9808,15 +9727,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.503447,
                         50.694178
-                  ]
-            },
-            {
-                  "name": "Güllegrube",
-                  "text": "Csendes vízfelület Zwickauban, amely a helyi látkép része.",
-                  "category": "natural",
-                  "coords": [
-                        12.514923,
-                        50.78018
                   ]
             },
             {
@@ -10016,15 +9926,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Güllegrube",
-                  "text": "O apă liniștită în Zwickau, care face parte din peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        12.514923,
-                        50.78018
-                  ]
-            },
-            {
                   "name": "Kleiner Spielplatz mit Balancier und Hüpfmöglichkeit",
                   "text": "Un loc de joacă în Zwickau cu posibilități de echilibristică și sărituri pentru copii activi.",
                   "category": "family",
@@ -10221,15 +10122,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Güllegrube",
-                  "text": "A calm body of water in Zwickau that is part of the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.514923,
-                        50.78018
-                  ]
-            },
-            {
                   "name": "Kleiner Spielplatz mit Balancier und Hüpfmöglichkeit",
                   "text": "A playground in Zwickau with balancing and jumping options for active children.",
                   "category": "family",
@@ -10409,15 +10301,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Meeresaquarium am Fichtelberg",
-                  "text": "Ein Aquarium in Oberwiesenthal, das eine Vielzahl von Meeresbewohnern im Erzgebirge zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        12.968922,
-                        50.427668
-                  ]
-            },
-            {
                   "name": "Fichtelberg",
                   "text": "Mit 1215 Metern der höchste Berg Sachsens im deutschen Teil des Erzgebirges.",
                   "category": "landmark",
@@ -10480,15 +10363,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.973661,
                         50.480078
-                  ]
-            },
-            {
-                  "name": "Meeresaquarium am Fichtelberg",
-                  "text": "Egy akvárium az Érchegységben, amely számos tengeri élőlényt mutat be.",
-                  "category": "recreational",
-                  "coords": [
-                        12.968922,
-                        50.427668
                   ]
             },
             {
@@ -10557,15 +10431,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Meeresaquarium am Fichtelberg",
-                  "text": "Un acvariu din Munții Metaliferi care prezintă o varietate de creaturi marine.",
-                  "category": "recreational",
-                  "coords": [
-                        12.968922,
-                        50.427668
-                  ]
-            },
-            {
                   "name": "Fichtelberg",
                   "text": "Cel mai înalt vârf din Saxonia, situat în Munții Metaliferi la o altitudine de 1215 metri.",
                   "category": "landmark",
@@ -10628,15 +10493,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         12.973661,
                         50.480078
-                  ]
-            },
-            {
-                  "name": "Meeresaquarium am Fichtelberg",
-                  "text": "An aquarium in the Ore Mountains showcasing a variety of marine life.",
-                  "category": "recreational",
-                  "coords": [
-                        12.968922,
-                        50.427668
                   ]
             },
             {
@@ -12569,15 +12425,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "Direkt an der Mosel gelegen, bringt dieser charmante Stadtstrand eine entspannte Urlaubsatmosphäre nach Koblenz. Besucher können hier bei einem kühlen Getränk aus der Außengastronomie die vorbeiziehenden Schiffe beobachten und die Sonne genießen. Die vielfältigen Freizeitangebote sorgen dafür, dass weder bei Familien noch bei Freunden Langeweile aufkommt. Ein Besuch zum Sonnenuntergang verspricht eine besonders romantische Stimmung am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            },
-            {
                   "name": "Löwentor",
                   "text": "Das monumentale Haupttor der Festung Ehrenbreitstein, geschmückt mit Löwenfiguren.",
                   "category": "castle",
@@ -12674,15 +12521,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         7.61235,
                         50.35711
-                  ]
-            },
-            {
-                  "name": "Kahle Loch",
-                  "text": "Ein ruhiger See bei Koblenz, ideal zum Entspannen in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        7.543719,
-                        50.418923
                   ]
             },
             {
@@ -12954,15 +12792,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "Népszerű városi strand a Mosel partján, szabadidős lehetőségekkel és szabadtéri vendéglátással.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            },
-            {
                   "name": "Löwentor",
                   "text": "Az Ehrenbreitstein-erőd monumentális főkapuja, amelyet oroszlánfigurák díszítenek.",
                   "category": "castle",
@@ -13059,15 +12888,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         7.61235,
                         50.35711
-                  ]
-            },
-            {
-                  "name": "Kahle Loch",
-                  "text": "Egy nyugodt tó Koblenz közelében, ideális pihenésre a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        7.543719,
-                        50.418923
                   ]
             },
             {
@@ -13339,15 +13159,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "O plajă urbană populară pe malul Moselei, cu facilități de agrement și gastronomie în aer liber.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            },
-            {
                   "name": "Löwentor",
                   "text": "Poarta principală monumentală a fortreței Ehrenbreitstein, decorată cu figuri de lei.",
                   "category": "castle",
@@ -13444,15 +13255,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         7.61235,
                         50.35711
-                  ]
-            },
-            {
-                  "name": "Kahle Loch",
-                  "text": "Un lac liniștit lângă Koblenz, perfect pentru relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.543719,
-                        50.418923
                   ]
             },
             {
@@ -13724,15 +13526,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Statt-Strand-Koblenz",
-                  "text": "A popular urban beach on the Moselle with leisure facilities and outdoor dining.",
-                  "category": "recreational",
-                  "coords": [
-                        7.563724,
-                        50.362186
-                  ]
-            },
-            {
                   "name": "Löwentor",
                   "text": "The monumental main gate of the Ehrenbreitstein Fortress, decorated with lion figures.",
                   "category": "castle",
@@ -13829,15 +13622,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         7.61235,
                         50.35711
-                  ]
-            },
-            {
-                  "name": "Kahle Loch",
-                  "text": "A peaceful lake near Koblenz, perfect for relaxing in nature.",
-                  "category": "natural",
-                  "coords": [
-                        7.543719,
-                        50.418923
                   ]
             },
             {
@@ -14072,26 +13856,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Ebertpark",
-                  "text": "Eine grüne Oase im Stadtzentrum mit Themengärten, Brunnen und dem historischen Park-Restaurant zur Erholung.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high",
-                  "coords": [
-                        8.421123,
-                        49.49156
-                  ]
-            },
-            {
-                  "name": "BASF Besucherzentrum",
-                  "text": "Interaktive Ausstellungen über die Geschichte und Innovationen des weltweit größten Chemieunternehmens.",
-                  "category": "Local industry heritage",
-                  "confidence": "high",
-                  "coords": [
-                        8.431089,
-                        49.496049
-                  ]
-            },
-            {
                   "name": "Friedenskirche",
                   "text": "Ein ungewöhnlicher Kirchenbau im Zentrum, der durch seine moderne Architektur und religiöse Bedeutung besticht.",
                   "category": "Churches & monasteries",
@@ -14114,15 +13878,6 @@ export const poiExtraDe2: POI[] = [
                   "confidence": "high"
             },
             {
-                  "name": "Prinzregenten Theater",
-                  "text": "Ein privates Theater in Ludwigshafen, bekannt für sein vielseitiges Unterhaltungsprogramm.",
-                  "category": "cultural",
-                  "coords": [
-                        8.438148,
-                        49.489327
-                  ]
-            },
-            {
                   "name": "Staatsphilharmonie Rheinland-Pfalz",
                   "text": "Das größte Sinfonieorchester des Landes Rheinland-Pfalz mit Sitz in Ludwigshafen.",
                   "category": "cultural",
@@ -14132,48 +13887,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Marchivum",
-                  "text": "Ein modernes Archiv und Museum in einem ehemaligen Hochbunker, das Stadtgeschichte präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        8.461482,
-                        49.500093
-                  ]
-            },
-            {
                   "name": "Pfalzbau",
                   "text": "Ein bedeutendes Theater- und Konzerthaus in Ludwigshafen für Gastspiele und Festivals.",
                   "category": "cultural",
                   "coords": [
                         8.446036,
                         49.479327
-                  ]
-            },
-            {
-                  "name": "Zephyr - Museum für Photographie",
-                  "text": "Ein Ausstellungsraum in Mannheim, der sich zeitgenössischer Fotografie und moderner Kunst widmet.",
-                  "category": "museum",
-                  "coords": [
-                        8.462637,
-                        49.48793
-                  ]
-            },
-            {
-                  "name": "Werkhaus",
-                  "text": "Experimentelle Spielstätte und Studiobühne des Nationaltheaters Mannheim.",
-                  "category": "cultural",
-                  "coords": [
-                        8.47896,
-                        49.489567
-                  ]
-            },
-            {
-                  "name": "Reiss-Engelhorn-Museum",
-                  "text": "Bedeutender Museumskomplex für Archäologie, Weltkulturen und Fotografie.",
-                  "category": "museum",
-                  "coords": [
-                        8.462074,
-                        49.488843
                   ]
             },
             {
@@ -14195,42 +13914,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "TheaterhausG7",
-                  "text": "Freies Theaterhaus im Stadtzentrum, das zeitgenössische Produktionen präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        8.462019,
-                        49.491641
-                  ]
-            },
-            {
-                  "name": "Kunsthalle Mannheim",
-                  "text": "Eines der bedeutendsten Museen für moderne und zeitgenössische Kunst mit markantem Neubau.",
-                  "category": "museum",
-                  "coords": [
-                        8.4752,
-                        49.482606
-                  ]
-            },
-            {
-                  "name": "John Deere Forum",
-                  "text": "Besucherzentrum und Museum zur Geschichte und Technik der Landmaschinen.",
-                  "category": "museum",
-                  "coords": [
-                        8.475586,
-                        49.472826
-                  ]
-            },
-            {
-                  "name": "Schlossmuseum",
-                  "text": "Museum im Barockschloss zur Geschichte der pfälzischen Kurfürsten.",
-                  "category": "museum",
-                  "coords": [
-                        8.462182,
-                        49.48285
-                  ]
-            },
-            {
                   "name": "Die 4 Elemente",
                   "text": "Thematische Ausstellung der Reiss-Engelhorn-Museen zur Kulturgeschichte.",
                   "category": "museum",
@@ -14249,15 +13932,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturfreibad Blies",
-                  "text": "Ein natürliches Freibad am Bliessee, das Erholung im Freien bietet.",
-                  "category": "family",
-                  "coords": [
-                        8.415949,
-                        49.474904
-                  ]
-            },
-            {
                   "name": "Friedenspark",
                   "text": "Ein öffentlicher Stadtpark in Ludwigshafen, der als Grünanlage zur Erholung dient.",
                   "category": "park",
@@ -14273,15 +13947,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.445114,
                         49.48129
-                  ]
-            },
-            {
-                  "name": "Sternwarte A4",
-                  "text": "Ein historischer Turm der ehemaligen kurpfälzischen Sternwarte in der Nähe.",
-                  "category": "tower",
-                  "coords": [
-                        8.459701,
-                        49.486492
                   ]
             },
             {
@@ -14312,75 +13977,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Schlicht",
-                  "text": "Der See Schlicht in Ludwigshafen ist ein beliebtes Ziel für Erholungssuchende in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        8.445085,
-                        49.409939
-                  ]
-            },
-            {
-                  "name": "Wolfgangsee",
-                  "text": "Der Wolfgangsee in Ludwigshafen bietet eine ruhige Atmosphäre am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        8.447294,
-                        49.405685
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "Der Waldsee in Ludwigshafen ist von Bäumen umgeben und lädt zum Naturgenuss ein.",
-                  "category": "natural",
-                  "coords": [
-                        8.482808,
-                        49.412424
-                  ]
-            },
-            {
-                  "name": "Schreiberweiher",
-                  "text": "Der Schreiberweiher ist ein kleines Gewässer in Ludwigshafen für ruhige Momente.",
-                  "category": "natural",
-                  "coords": [
-                        8.38896,
-                        49.460833
-                  ]
-            },
-            {
-                  "name": "Scheller Weiher",
-                  "text": "Ein ruhiger Weiher in Ludwigshafen, der zum Beobachten der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        8.35779,
-                        49.468868
-                  ]
-            },
-            {
-                  "name": "An der Steinernen Brücke",
-                  "text": "Das Gewässer an der Steinernen Brücke in Ludwigshafen liegt malerisch in der Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        8.4164,
-                        49.415661
-                  ]
-            },
-            {
                   "name": "Karpfenweiher",
                   "text": "Der Karpfenweiher in Ludwigshafen ist ein friedliches Gewässer in der lokalen Landschaft.",
                   "category": "natural",
                   "coords": [
                         8.462048,
                         49.421927
-                  ]
-            },
-            {
-                  "name": "Backsteinweiher",
-                  "text": "Der Backsteinweiher in Ludwigshafen bietet eine ruhige Umgebung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        8.375087,
-                        49.484417
                   ]
             },
             {
@@ -14420,111 +14022,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Zehnmorgenweiher",
-                  "text": "Der Zehnmorgenweiher in Ludwigshafen bietet eine ruhige Kulisse für Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        8.40038,
-                        49.494343
-                  ]
-            },
-            {
-                  "name": "Pfingstbergweiher",
-                  "text": "Der Pfingstbergweiher in Ludwigshafen ist ein Badesee mit Liegewiese und Steg.",
-                  "category": "natural",
-                  "coords": [
-                        8.52972,
-                        49.447655
-                  ]
-            },
-            {
-                  "name": "Begütenweiher",
-                  "text": "Der Begütenweiher in Ludwigshafen ist ein Naturweiher mit Karpfenbesatz.",
-                  "category": "natural",
-                  "coords": [
-                        8.388704,
-                        49.500439
-                  ]
-            },
-            {
-                  "name": "Großparthweiher",
-                  "text": "Der Großparthweiher in Ludwigshafen ist ein Angelgewässer mit Parkplatz und Bänken.",
-                  "category": "natural",
-                  "coords": [
-                        8.38657,
-                        49.497372
-                  ]
-            },
-            {
-                  "name": "Kratz'scher Weiher",
-                  "text": "Der Kratz'sche Weiher bietet in Ludwigshafen eine friedliche Atmosphäre.",
-                  "category": "natural",
-                  "coords": [
-                        8.391404,
-                        49.495923
-                  ]
-            },
-            {
-                  "name": "Melm",
-                  "text": "Der Melm in Ludwigshafen ist ein bekanntes Naherholungsgebiet am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        8.377115,
-                        49.504799
-                  ]
-            },
-            {
-                  "name": "Stricklerweiher",
-                  "text": "Der Stricklerweiher ist ein weiteres ruhiges Gewässer im Stadtgebiet von Ludwigshafen.",
-                  "category": "natural",
-                  "coords": [
-                        8.401267,
-                        49.531432
-                  ]
-            },
-            {
-                  "name": "Bastenhorstweiher",
-                  "text": "Der Bastenhorstweiher in Ludwigshafen ist ein Biotopweiher mit Amphibienvorkommen.",
-                  "category": "natural",
-                  "coords": [
-                        8.398975,
-                        49.493518
-                  ]
-            },
-            {
-                  "name": "Au-Gewässer",
-                  "text": "Die Au-Gewässer in Ludwigshafen sind Teil der natürlichen Flusslandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        8.515173,
-                        49.496703
-                  ]
-            },
-            {
                   "name": "Adriaweiher - Blaue Adria",
                   "text": "Die Blaue Adria bei Ludwigshafen ist ein beliebtes Badegewässer mit Urlaubsflair.",
                   "category": "natural",
                   "coords": [
                         8.461895,
                         49.424946
-                  ]
-            },
-            {
-                  "name": "Große Blies",
-                  "text": "Die Große Blies in Ludwigshafen ist ein Abschnitt des Flusses Blies mit Uferwanderweg.",
-                  "category": "natural",
-                  "coords": [
-                        8.417009,
-                        49.472338
-                  ]
-            },
-            {
-                  "name": "Herzogenriedbad",
-                  "text": "Das Herzogenriedbad in Ludwigshafen ist ein weitläufiger Wasserpark für Familien und Sportbegeisterte.",
-                  "category": "family",
-                  "coords": [
-                        8.479934,
-                        49.503085
                   ]
             },
             {
@@ -14553,15 +14056,6 @@ export const poiExtraDe2: POI[] = [
                         8.468917,
                         49.454265
                   ]
-            },
-            {
-                  "name": "Flamingos",
-                  "text": "Das Flamingo-Gehege in Ludwigshafen ermöglicht die Beobachtung dieser farbenfrohen Vögel.",
-                  "category": "family",
-                  "coords": [
-                        8.491934,
-                        49.484698
-                  ]
             }
       ],
       "hu": [
@@ -14573,16 +14067,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.44407,
                         49.4801
-                  ]
-            },
-            {
-                  "name": "Ebertpark",
-                  "text": "Gyönyörű park a város szívében kertekkel, szökőkutakkal és szabadidős lehetőségekkel minden korosztálynak.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high",
-                  "coords": [
-                        8.421123,
-                        49.49156
                   ]
             },
             {
@@ -14606,15 +14090,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Prinzregenten Theater",
-                  "text": "Magánszínház Ludwigshafenben, amely sokszínű szórakoztató műsorairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        8.438148,
-                        49.489327
-                  ]
-            },
-            {
                   "name": "Staatsphilharmonie Rheinland-Pfalz",
                   "text": "Rajna-vidék-Pfalz tartomány legnagyobb szimfonikus zenekara, amelynek székhelye Ludwigshafen.",
                   "category": "cultural",
@@ -14624,48 +14099,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Marchivum",
-                  "text": "Modern archívum és múzeum egy egykori légoltalmi bunkerben, amely a város történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.461482,
-                        49.500093
-                  ]
-            },
-            {
                   "name": "Pfalzbau",
                   "text": "Ludwigshafen jelentős színház- és hangversenyterme, amely vendégjátékoknak és fesztiváloknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         8.446036,
                         49.479327
-                  ]
-            },
-            {
-                  "name": "Zephyr - Museum für Photographie",
-                  "text": "Kortárs fotográfiának és modern művészetnek szentelt kiállítótér Mannheim területén.",
-                  "category": "museum",
-                  "coords": [
-                        8.462637,
-                        49.48793
-                  ]
-            },
-            {
-                  "name": "Werkhaus",
-                  "text": "A Mannheimi Nemzeti Színház kísérleti játszóhelye és stúdiószínpada.",
-                  "category": "cultural",
-                  "coords": [
-                        8.47896,
-                        49.489567
-                  ]
-            },
-            {
-                  "name": "Reiss-Engelhorn-Museum",
-                  "text": "Jelentős múzeumi komplexum, amely régészettel, világkultúrákkal és fotográfiával foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        8.462074,
-                        49.488843
                   ]
             },
             {
@@ -14687,42 +14126,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "TheaterhausG7",
-                  "text": "Független színház a városközpontban, amely kortárs produkciókat mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        8.462019,
-                        49.491641
-                  ]
-            },
-            {
-                  "name": "Kunsthalle Mannheim",
-                  "text": "A modern és kortárs művészet egyik legjelentősebb múzeuma jellegzetes új épülettel.",
-                  "category": "museum",
-                  "coords": [
-                        8.4752,
-                        49.482606
-                  ]
-            },
-            {
-                  "name": "John Deere Forum",
-                  "text": "Látogatóközpont és múzeum a mezőgazdasági gépek történetéről és technikájáról.",
-                  "category": "museum",
-                  "coords": [
-                        8.475586,
-                        49.472826
-                  ]
-            },
-            {
-                  "name": "Schlossmuseum",
-                  "text": "Múzeum a barokk kastélyban, amely a palotai választófejedelmek történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.462182,
-                        49.48285
-                  ]
-            },
-            {
                   "name": "Die 4 Elemente",
                   "text": "A Reiss-Engelhorn-Museen kultúrtörténeti tematikus kiállítása.",
                   "category": "museum",
@@ -14741,15 +14144,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturfreibad Blies",
-                  "text": "Természetes szabadtéri strand a Blies-tónál, amely kikapcsolódást kínál.",
-                  "category": "family",
-                  "coords": [
-                        8.415949,
-                        49.474904
-                  ]
-            },
-            {
                   "name": "Friedenspark",
                   "text": "Közpark Ludwigshafenben, amely zöldterületként szolgál a kikapcsolódáshoz.",
                   "category": "park",
@@ -14765,15 +14159,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.445114,
                         49.48129
-                  ]
-            },
-            {
-                  "name": "Sternwarte A4",
-                  "text": "Az egykori választófejedelmi csillagvizsgáló történelmi tornya a közelben.",
-                  "category": "tower",
-                  "coords": [
-                        8.459701,
-                        49.486492
                   ]
             },
             {
@@ -14804,75 +14189,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Schlicht",
-                  "text": "A ludwigshafeni Schlicht-tó népszerű úti cél a természetben kikapcsolódni vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        8.445085,
-                        49.409939
-                  ]
-            },
-            {
-                  "name": "Wolfgangsee",
-                  "text": "A ludwigshafeni Wolfgangsee nyugodt vízparti hangulatot kínál.",
-                  "category": "natural",
-                  "coords": [
-                        8.447294,
-                        49.405685
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "A ludwigshafeni Waldsee fákkal körülvett tó, amely a természet élvezetére hív.",
-                  "category": "natural",
-                  "coords": [
-                        8.482808,
-                        49.412424
-                  ]
-            },
-            {
-                  "name": "Schreiberweiher",
-                  "text": "A Schreiberweiher egy kis ludwigshafeni tó a csendes pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        8.38896,
-                        49.460833
-                  ]
-            },
-            {
-                  "name": "Scheller Weiher",
-                  "text": "Csendes tó Ludwigshafenben, amely a természet megfigyelésére hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        8.35779,
-                        49.468868
-                  ]
-            },
-            {
-                  "name": "An der Steinernen Brücke",
-                  "text": "A ludwigshafeni Kőhídnál (Steinerne Brücke) található vízfelület festői környezetben fekszik.",
-                  "category": "natural",
-                  "coords": [
-                        8.4164,
-                        49.415661
-                  ]
-            },
-            {
                   "name": "Karpfenweiher",
                   "text": "A ludwigshafeni Karpfenweiher egy békés tó a helyi tájban.",
                   "category": "natural",
                   "coords": [
                         8.462048,
                         49.421927
-                  ]
-            },
-            {
-                  "name": "Backsteinweiher",
-                  "text": "A ludwigshafeni Backsteinweiher nyugodt környezetet biztosít a víz partján.",
-                  "category": "natural",
-                  "coords": [
-                        8.375087,
-                        49.484417
                   ]
             },
             {
@@ -14912,111 +14234,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Zehnmorgenweiher",
-                  "text": "A ludwigshafeni Zehnmorgenweiher nyugodt hátteret biztosít a természetkedvelőknek.",
-                  "category": "natural",
-                  "coords": [
-                        8.40038,
-                        49.494343
-                  ]
-            },
-            {
-                  "name": "Pfingstbergweiher",
-                  "text": "A ludwigshafeni Pfingstbergweiher egy fürdőtó napozórétrel és stéggel.",
-                  "category": "natural",
-                  "coords": [
-                        8.52972,
-                        49.447655
-                  ]
-            },
-            {
-                  "name": "Begütenweiher",
-                  "text": "A ludwigshafeni Begütenweiher egy természetes tó pontyállománnyal.",
-                  "category": "natural",
-                  "coords": [
-                        8.388704,
-                        49.500439
-                  ]
-            },
-            {
-                  "name": "Großparthweiher",
-                  "text": "A ludwigshafeni Großparthweiher egy horgászvíz parkolóval és padokkal.",
-                  "category": "natural",
-                  "coords": [
-                        8.38657,
-                        49.497372
-                  ]
-            },
-            {
-                  "name": "Kratz'scher Weiher",
-                  "text": "A Kratz'sche Weiher békés hangulatot kínál Ludwigshafenben.",
-                  "category": "natural",
-                  "coords": [
-                        8.391404,
-                        49.495923
-                  ]
-            },
-            {
-                  "name": "Melm",
-                  "text": "A ludwigshafeni Melm egy ismert vízparti pihenőövezet.",
-                  "category": "natural",
-                  "coords": [
-                        8.377115,
-                        49.504799
-                  ]
-            },
-            {
-                  "name": "Stricklerweiher",
-                  "text": "A Stricklerweiher egy másik csendes tó Ludwigshafen város területén.",
-                  "category": "natural",
-                  "coords": [
-                        8.401267,
-                        49.531432
-                  ]
-            },
-            {
-                  "name": "Bastenhorstweiher",
-                  "text": "A ludwigshafeni Bastenhorstweiher egy biotóp tó kétéltűekkel.",
-                  "category": "natural",
-                  "coords": [
-                        8.398975,
-                        49.493518
-                  ]
-            },
-            {
-                  "name": "Au-Gewässer",
-                  "text": "A ludwigshafeni Au-vizek a természetes folyóparti táj részét képezik.",
-                  "category": "natural",
-                  "coords": [
-                        8.515173,
-                        49.496703
-                  ]
-            },
-            {
                   "name": "Adriaweiher - Blaue Adria",
                   "text": "A ludwigshafeni Kék Adria (Blaue Adria) népszerű fürdőhely, nyaralási hangulattal.",
                   "category": "natural",
                   "coords": [
                         8.461895,
                         49.424946
-                  ]
-            },
-            {
-                  "name": "Große Blies",
-                  "text": "A ludwigshafeni Große Blies a Blies folyó egy szakasza parti sétánnyal.",
-                  "category": "natural",
-                  "coords": [
-                        8.417009,
-                        49.472338
-                  ]
-            },
-            {
-                  "name": "Herzogenriedbad",
-                  "text": "A ludwigshafeni Herzogenriedbad egy tágas élményfürdő családok és a sport kedvelői számára.",
-                  "category": "family",
-                  "coords": [
-                        8.479934,
-                        49.503085
                   ]
             },
             {
@@ -15044,15 +14267,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.468917,
                         49.454265
-                  ]
-            },
-            {
-                  "name": "Flamingos",
-                  "text": "A ludwigshafeni flamingó-kifutó lehetővé teszi ezen színes madarak megfigyelését.",
-                  "category": "family",
-                  "coords": [
-                        8.491934,
-                        49.484698
                   ]
             }
       ],
@@ -15098,15 +14312,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Prinzregenten Theater",
-                  "text": "Un teatru privat în Ludwigshafen, cunoscut pentru programul său variat de divertisment.",
-                  "category": "cultural",
-                  "coords": [
-                        8.438148,
-                        49.489327
-                  ]
-            },
-            {
                   "name": "Staatsphilharmonie Rheinland-Pfalz",
                   "text": "Cea mai mare orchestră simfonică din landul Renania-Palatinat, cu sediul în Ludwigshafen.",
                   "category": "cultural",
@@ -15116,48 +14321,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Marchivum",
-                  "text": "Un arhivă și muzeu modern într-un fost buncăr, prezentând istoria orașului.",
-                  "category": "museum",
-                  "coords": [
-                        8.461482,
-                        49.500093
-                  ]
-            },
-            {
                   "name": "Pfalzbau",
                   "text": "O importantă sală de teatru și concerte din Ludwigshafen pentru spectacole invitate și festivaluri.",
                   "category": "cultural",
                   "coords": [
                         8.446036,
                         49.479327
-                  ]
-            },
-            {
-                  "name": "Zephyr - Museum für Photographie",
-                  "text": "Un spațiu expozițional dedicat fotografiei contemporane și artei moderne din Mannheim.",
-                  "category": "museum",
-                  "coords": [
-                        8.462637,
-                        49.48793
-                  ]
-            },
-            {
-                  "name": "Werkhaus",
-                  "text": "Spațiu experimental și scenă de studio a Teatrului Național din Mannheim.",
-                  "category": "cultural",
-                  "coords": [
-                        8.47896,
-                        49.489567
-                  ]
-            },
-            {
-                  "name": "Reiss-Engelhorn-Museum",
-                  "text": "Un complex muzeal major dedicat arheologiei, culturilor lumii și fotografiei.",
-                  "category": "museum",
-                  "coords": [
-                        8.462074,
-                        49.488843
                   ]
             },
             {
@@ -15179,42 +14348,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "TheaterhausG7",
-                  "text": "Teatru independent situat în centrul orașului, prezentând producții contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        8.462019,
-                        49.491641
-                  ]
-            },
-            {
-                  "name": "Kunsthalle Mannheim",
-                  "text": "Unul dintre cele mai importante muzee de artă modernă și contemporană, cu o extensie modernă distinctă.",
-                  "category": "museum",
-                  "coords": [
-                        8.4752,
-                        49.482606
-                  ]
-            },
-            {
-                  "name": "John Deere Forum",
-                  "text": "Centru pentru vizitatori și muzeu dedicat istoriei și tehnologiei utilajelor agricole.",
-                  "category": "museum",
-                  "coords": [
-                        8.475586,
-                        49.472826
-                  ]
-            },
-            {
-                  "name": "Schlossmuseum",
-                  "text": "Muzeu în palatul baroc dedicat istoriei prinților electori ai Palatinatului.",
-                  "category": "museum",
-                  "coords": [
-                        8.462182,
-                        49.48285
-                  ]
-            },
-            {
                   "name": "Die 4 Elemente",
                   "text": "Expoziție tematică a muzeelor Reiss-Engelhorn dedicată istoriei culturale.",
                   "category": "museum",
@@ -15233,15 +14366,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturfreibad Blies",
-                  "text": "Un ștrand natural pe malul lacului Blies, oferind recreere în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        8.415949,
-                        49.474904
-                  ]
-            },
-            {
                   "name": "Friedenspark",
                   "text": "Un parc public în Ludwigshafen, care servește drept zonă verde pentru recreere.",
                   "category": "park",
@@ -15257,15 +14381,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.445114,
                         49.48129
-                  ]
-            },
-            {
-                  "name": "Sternwarte A4",
-                  "text": "Un turn istoric al fostului observator astronomic din apropiere.",
-                  "category": "tower",
-                  "coords": [
-                        8.459701,
-                        49.486492
                   ]
             },
             {
@@ -15296,75 +14411,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Schlicht",
-                  "text": "Lacul Schlicht din Ludwigshafen este o destinație populară pentru cei care caută recreere în natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.445085,
-                        49.409939
-                  ]
-            },
-            {
-                  "name": "Wolfgangsee",
-                  "text": "Wolfgangsee din Ludwigshafen oferă o atmosferă liniștită pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        8.447294,
-                        49.405685
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "Waldsee din Ludwigshafen este înconjurat de copaci și invită la bucuria naturii.",
-                  "category": "natural",
-                  "coords": [
-                        8.482808,
-                        49.412424
-                  ]
-            },
-            {
-                  "name": "Schreiberweiher",
-                  "text": "Schreiberweiher este o mică apă în Ludwigshafen pentru momente de liniște.",
-                  "category": "natural",
-                  "coords": [
-                        8.38896,
-                        49.460833
-                  ]
-            },
-            {
-                  "name": "Scheller Weiher",
-                  "text": "Un iaz liniștit în Ludwigshafen, care invită la observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        8.35779,
-                        49.468868
-                  ]
-            },
-            {
-                  "name": "An der Steinernen Brücke",
-                  "text": "Apa de la „Podul de Piatră” din Ludwigshafen este situată pitoresc în zonă.",
-                  "category": "natural",
-                  "coords": [
-                        8.4164,
-                        49.415661
-                  ]
-            },
-            {
                   "name": "Karpfenweiher",
                   "text": "Karpfenweiher din Ludwigshafen este o apă liniștită în peisajul local.",
                   "category": "natural",
                   "coords": [
                         8.462048,
                         49.421927
-                  ]
-            },
-            {
-                  "name": "Backsteinweiher",
-                  "text": "Backsteinweiher din Ludwigshafen oferă un cadru liniștit la malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        8.375087,
-                        49.484417
                   ]
             },
             {
@@ -15404,111 +14456,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Zehnmorgenweiher",
-                  "text": "Zehnmorgenweiher din Ludwigshafen oferă un cadru liniștit pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.40038,
-                        49.494343
-                  ]
-            },
-            {
-                  "name": "Pfingstbergweiher",
-                  "text": "Pfingstbergweiher din Ludwigshafen este un lac de scăldat cu iarbă de plajă și debarcader.",
-                  "category": "natural",
-                  "coords": [
-                        8.52972,
-                        49.447655
-                  ]
-            },
-            {
-                  "name": "Begütenweiher",
-                  "text": "Begütenweiher din Ludwigshafen este un iaz natural cu populație de crapi.",
-                  "category": "natural",
-                  "coords": [
-                        8.388704,
-                        49.500439
-                  ]
-            },
-            {
-                  "name": "Großparthweiher",
-                  "text": "Großparthweiher din Ludwigshafen este un bazin de pescuit cu parcare și bănci.",
-                  "category": "natural",
-                  "coords": [
-                        8.38657,
-                        49.497372
-                  ]
-            },
-            {
-                  "name": "Kratz'scher Weiher",
-                  "text": "Kratz'sche Weiher oferă o atmosferă pașnică în Ludwigshafen.",
-                  "category": "natural",
-                  "coords": [
-                        8.391404,
-                        49.495923
-                  ]
-            },
-            {
-                  "name": "Melm",
-                  "text": "Melm din Ludwigshafen este o zonă de recreere cunoscută pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        8.377115,
-                        49.504799
-                  ]
-            },
-            {
-                  "name": "Stricklerweiher",
-                  "text": "Stricklerweiher este o altă apă liniștită din zona urbană a Ludwigshafen.",
-                  "category": "natural",
-                  "coords": [
-                        8.401267,
-                        49.531432
-                  ]
-            },
-            {
-                  "name": "Bastenhorstweiher",
-                  "text": "Bastenhorstweiher din Ludwigshafen este un iaz de biotop cu amfibieni.",
-                  "category": "natural",
-                  "coords": [
-                        8.398975,
-                        49.493518
-                  ]
-            },
-            {
-                  "name": "Au-Gewässer",
-                  "text": "Apele Au din Ludwigshafen fac parte din peisajul fluvial natural.",
-                  "category": "natural",
-                  "coords": [
-                        8.515173,
-                        49.496703
-                  ]
-            },
-            {
                   "name": "Adriaweiher - Blaue Adria",
                   "text": "„Adria Albastră” de lângă Ludwigshafen este o apă populară pentru scăldat, cu aer de vacanță.",
                   "category": "natural",
                   "coords": [
                         8.461895,
                         49.424946
-                  ]
-            },
-            {
-                  "name": "Große Blies",
-                  "text": "Große Blies din Ludwigshafen este o secțiune a râului Blies cu potecă de mal.",
-                  "category": "natural",
-                  "coords": [
-                        8.417009,
-                        49.472338
-                  ]
-            },
-            {
-                  "name": "Herzogenriedbad",
-                  "text": "Herzogenriedbad din Ludwigshafen este un parc acvatic spațios pentru familii și pasionații de sport.",
-                  "category": "family",
-                  "coords": [
-                        8.479934,
-                        49.503085
                   ]
             },
             {
@@ -15537,15 +14490,6 @@ export const poiExtraDe2: POI[] = [
                         8.468917,
                         49.454265
                   ]
-            },
-            {
-                  "name": "Flamingos",
-                  "text": "Țarcul de flamingo din Ludwigshafen permite observarea acestor păsări colorate.",
-                  "category": "family",
-                  "coords": [
-                        8.491934,
-                        49.484698
-                  ]
             }
       ],
       "en": [
@@ -15560,26 +14504,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Ebertpark",
-                  "text": "A popular city park featuring a rose garden, fountains, and diverse event spaces for leisure and culture.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "confidence": "high",
-                  "coords": [
-                        8.421123,
-                        49.49156
-                  ]
-            },
-            {
-                  "name": "BASF Visitor Center",
-                  "text": "An educational exhibition center showcasing the world of chemistry and the history of the massive industrial plant.",
-                  "category": "Local industry heritage",
-                  "confidence": "high",
-                  "coords": [
-                        8.431089,
-                        49.496049
-                  ]
-            },
-            {
                   "name": "Ernst Bloch Center",
                   "text": "A cultural institute dedicated to the life and work of the philosopher Ernst Bloch, who was born in the city.",
                   "category": "Museums",
@@ -15587,15 +14511,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.48125,
                         49.4778
-                  ]
-            },
-            {
-                  "name": "Prinzregenten Theater",
-                  "text": "A private theatre in Ludwigshafen known for its versatile entertainment program.",
-                  "category": "cultural",
-                  "coords": [
-                        8.438148,
-                        49.489327
                   ]
             },
             {
@@ -15608,48 +14523,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Marchivum",
-                  "text": "A modern archive and museum housed in a former high-rise bunker, showcasing city history.",
-                  "category": "museum",
-                  "coords": [
-                        8.461482,
-                        49.500093
-                  ]
-            },
-            {
                   "name": "Pfalzbau",
                   "text": "A major theatre and concert hall in Ludwigshafen hosting guest performances and festivals.",
                   "category": "cultural",
                   "coords": [
                         8.446036,
                         49.479327
-                  ]
-            },
-            {
-                  "name": "Zephyr - Museum für Photographie",
-                  "text": "An exhibition space in Mannheim dedicated to contemporary photography and modern art.",
-                  "category": "museum",
-                  "coords": [
-                        8.462637,
-                        49.48793
-                  ]
-            },
-            {
-                  "name": "Werkhaus",
-                  "text": "Experimental venue and studio stage of the National Theatre Mannheim.",
-                  "category": "cultural",
-                  "coords": [
-                        8.47896,
-                        49.489567
-                  ]
-            },
-            {
-                  "name": "Reiss-Engelhorn-Museum",
-                  "text": "A major museum complex focused on archaeology, world cultures, and photography.",
-                  "category": "museum",
-                  "coords": [
-                        8.462074,
-                        49.488843
                   ]
             },
             {
@@ -15671,42 +14550,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "TheaterhausG7",
-                  "text": "Independent theatre house in the city center presenting contemporary productions.",
-                  "category": "cultural",
-                  "coords": [
-                        8.462019,
-                        49.491641
-                  ]
-            },
-            {
-                  "name": "Kunsthalle Mannheim",
-                  "text": "One of the most important museums for modern and contemporary art, featuring a striking new building.",
-                  "category": "museum",
-                  "coords": [
-                        8.4752,
-                        49.482606
-                  ]
-            },
-            {
-                  "name": "John Deere Forum",
-                  "text": "Visitor center and museum showcasing the history and technology of agricultural machinery.",
-                  "category": "museum",
-                  "coords": [
-                        8.475586,
-                        49.472826
-                  ]
-            },
-            {
-                  "name": "Schlossmuseum",
-                  "text": "Museum in the Baroque palace documenting the history of the Electors of the Palatinate.",
-                  "category": "museum",
-                  "coords": [
-                        8.462182,
-                        49.48285
-                  ]
-            },
-            {
                   "name": "Die 4 Elemente",
                   "text": "Thematic exhibition of the Reiss-Engelhorn-Museen on cultural history.",
                   "category": "museum",
@@ -15725,15 +14568,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturfreibad Blies",
-                  "text": "A natural outdoor swimming area at Lake Blies offering outdoor recreation.",
-                  "category": "family",
-                  "coords": [
-                        8.415949,
-                        49.474904
-                  ]
-            },
-            {
                   "name": "Friedenspark",
                   "text": "A public city park in Ludwigshafen serving as a green area for recreation.",
                   "category": "park",
@@ -15749,15 +14583,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.445114,
                         49.48129
-                  ]
-            },
-            {
-                  "name": "Sternwarte A4",
-                  "text": "A historic tower of the former electoral observatory located nearby.",
-                  "category": "tower",
-                  "coords": [
-                        8.459701,
-                        49.486492
                   ]
             },
             {
@@ -15788,75 +14613,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Schlicht",
-                  "text": "The Schlicht lake in Ludwigshafen is a popular destination for those seeking recreation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.445085,
-                        49.409939
-                  ]
-            },
-            {
-                  "name": "Wolfgangsee",
-                  "text": "The Wolfgangsee in Ludwigshafen offers a peaceful atmosphere by the water.",
-                  "category": "natural",
-                  "coords": [
-                        8.447294,
-                        49.405685
-                  ]
-            },
-            {
-                  "name": "Waldsee",
-                  "text": "The Waldsee in Ludwigshafen is surrounded by trees and invites you to enjoy nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.482808,
-                        49.412424
-                  ]
-            },
-            {
-                  "name": "Schreiberweiher",
-                  "text": "The Schreiberweiher is a small body of water in Ludwigshafen for quiet moments.",
-                  "category": "natural",
-                  "coords": [
-                        8.38896,
-                        49.460833
-                  ]
-            },
-            {
-                  "name": "Scheller Weiher",
-                  "text": "A peaceful pond in Ludwigshafen that invites you to observe nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.35779,
-                        49.468868
-                  ]
-            },
-            {
-                  "name": "An der Steinernen Brücke",
-                  "text": "The body of water at the Stone Bridge in Ludwigshafen is picturesquely situated in the area.",
-                  "category": "natural",
-                  "coords": [
-                        8.4164,
-                        49.415661
-                  ]
-            },
-            {
                   "name": "Karpfenweiher",
                   "text": "The Karpfenweiher in Ludwigshafen is a peaceful body of water in the local landscape.",
                   "category": "natural",
                   "coords": [
                         8.462048,
                         49.421927
-                  ]
-            },
-            {
-                  "name": "Backsteinweiher",
-                  "text": "The Backsteinweiher in Ludwigshafen offers a peaceful setting by the water.",
-                  "category": "natural",
-                  "coords": [
-                        8.375087,
-                        49.484417
                   ]
             },
             {
@@ -15896,111 +14658,12 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Zehnmorgenweiher",
-                  "text": "The Zehnmorgenweiher in Ludwigshafen offers a peaceful backdrop for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        8.40038,
-                        49.494343
-                  ]
-            },
-            {
-                  "name": "Pfingstbergweiher",
-                  "text": "Pfingstbergweiher in Ludwigshafen is a swimming lake with sunbathing lawn and jetty.",
-                  "category": "natural",
-                  "coords": [
-                        8.52972,
-                        49.447655
-                  ]
-            },
-            {
-                  "name": "Begütenweiher",
-                  "text": "Begütenweiher in Ludwigshafen is a natural pond stocked with carp.",
-                  "category": "natural",
-                  "coords": [
-                        8.388704,
-                        49.500439
-                  ]
-            },
-            {
-                  "name": "Großparthweiher",
-                  "text": "Großparthweiher in Ludwigshafen is a fishing water with parking and benches.",
-                  "category": "natural",
-                  "coords": [
-                        8.38657,
-                        49.497372
-                  ]
-            },
-            {
-                  "name": "Kratz'scher Weiher",
-                  "text": "The Kratz'sche Weiher offers a peaceful atmosphere in Ludwigshafen.",
-                  "category": "natural",
-                  "coords": [
-                        8.391404,
-                        49.495923
-                  ]
-            },
-            {
-                  "name": "Melm",
-                  "text": "The Melm in Ludwigshafen is a well-known local recreation area by the water.",
-                  "category": "natural",
-                  "coords": [
-                        8.377115,
-                        49.504799
-                  ]
-            },
-            {
-                  "name": "Stricklerweiher",
-                  "text": "The Stricklerweiher is another peaceful body of water in the urban area of Ludwigshafen.",
-                  "category": "natural",
-                  "coords": [
-                        8.401267,
-                        49.531432
-                  ]
-            },
-            {
-                  "name": "Bastenhorstweiher",
-                  "text": "Bastenhorstweiher in Ludwigshafen is a biotope pond with amphibian populations.",
-                  "category": "natural",
-                  "coords": [
-                        8.398975,
-                        49.493518
-                  ]
-            },
-            {
-                  "name": "Au-Gewässer",
-                  "text": "The Au waters in Ludwigshafen are part of the natural river landscape.",
-                  "category": "natural",
-                  "coords": [
-                        8.515173,
-                        49.496703
-                  ]
-            },
-            {
                   "name": "Adriaweiher - Blaue Adria",
                   "text": "The Blue Adria near Ludwigshafen is a popular bathing water with a holiday flair.",
                   "category": "natural",
                   "coords": [
                         8.461895,
                         49.424946
-                  ]
-            },
-            {
-                  "name": "Große Blies",
-                  "text": "Große Blies in Ludwigshafen is a section of the Blies river with a riverside walking path.",
-                  "category": "natural",
-                  "coords": [
-                        8.417009,
-                        49.472338
-                  ]
-            },
-            {
-                  "name": "Herzogenriedbad",
-                  "text": "The Herzogenriedbad in Ludwigshafen is a spacious water park for families and sports enthusiasts.",
-                  "category": "family",
-                  "coords": [
-                        8.479934,
-                        49.503085
                   ]
             },
             {
@@ -16029,15 +14692,6 @@ export const poiExtraDe2: POI[] = [
                         8.468917,
                         49.454265
                   ]
-            },
-            {
-                  "name": "Flamingos",
-                  "text": "The flamingo enclosure in Ludwigshafen allows for the observation of these colorful birds.",
-                  "category": "family",
-                  "coords": [
-                        8.491934,
-                        49.484698
-                  ]
             }
       ],
       "tr": [
@@ -16048,15 +14702,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.44407,
                         49.4801
-                  ]
-            },
-            {
-                  "name": "Ebertpark",
-                  "text": "Şehir merkezinde tematik bahçeleri, fıskiyeleri ve tarihi restoranıyla bir dinlenme vahasıdır.",
-                  "category": "Parks, gardens, lakes nearby",
-                  "coords": [
-                        8.421123,
-                        49.49156
                   ]
             },
             {
@@ -17044,338 +15689,10 @@ export const poiExtraDe2: POI[] = [
       "tr": ["Katedralin toplam uzunluğu 134 metredir.", "Ana nef 33 metre yüksekliğindedir.", "İmparatorluk kriptasında 8 imparator ve kral ile 4 kraliçe yatmaktadır.", "Katedral 1981'de UNESCO Dünya Mirası Listesi'ne giren ikinci Alman anıtı olmuştur.", "Katedralin kriptası, Avrupa'nın korunmuş en büyük Romanesk salon kriptasıdır.", "Ana portalın önündeki 'Domnapf' yaklaşık 1.580 litre kapasiteye sahiptir ve eskiden piskopos değişikliklerinde şarapla doldurulurdu."]}, image: "/poi-images/hist-speyer-dom-extra.webp"},
   {
     id: "landmark-loreley-rp-extra", "sights": {
-      "de": [
-            {
-                  "name": "Burgruine Niederburg",
-                  "text": "Die Ruine einer mittelalterlichen Burganlage im UNESCO-Welterbe Oberes Mittelrheintal bei der Loreley.",
-                  "category": "castle",
-                  "coords": [
-                        7.693529,
-                        50.118451
-                  ]
-            },
-            {
-                  "name": "Burg Katz",
-                  "text": "Diese markante Burg aus dem 14. Jahrhundert thront hoch über St. Goarshausen am Rhein.",
-                  "category": "castle",
-                  "coords": [
-                        7.724153,
-                        50.152111
-                  ]
-            },
-            {
-                  "name": "Burg Herzogenstein",
-                  "text": "Die Überreste einer ehemaligen Befestigung in der Nähe des Loreley-Felsens am Mittelrhein.",
-                  "category": "castle",
-                  "coords": [
-                        7.736837,
-                        50.118589
-                  ]
-            },
-            {
-                  "name": "Burg Rheinfels",
-                  "text": "Die imposante Ruine einer der größten Festungsanlagen am Mittelrhein, gelegen über der Stadt St. Goar.",
-                  "category": "castle",
-                  "coords": [
-                        7.704831,
-                        50.154068
-                  ]
-            },
-            {
-                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
-                  "text": "Ein geschütztes Naturgebiet am Rhein, das sich durch seine wertvollen Steilhänge und Flora auszeichnet.",
-                  "category": "natural",
-                  "coords": [
-                        7.750114,
-                        50.112103
-                  ]
-            },
-            {
-                  "name": "Burg Reichenberg",
-                  "text": "Eine spätgotische Burgruine mit außergewöhnlicher Architektur, die im Hinterland der Loreley liegt.",
-                  "category": "castle",
-                  "coords": [
-                        7.759981,
-                        50.158601
-                  ]
-            },
-            {
-                  "name": "Schönburg",
-                  "text": "Eine mehrgliedrige Burganlage über Oberwesel, die heute als Hotel und für ihre Aussicht bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        7.73207,
-                        50.101005
-                  ]
-            },
-            {
-                  "name": "Hallenbad der Loreleyschule",
-                  "text": "Das Hallenbad der Loreleyschule in der Loreley-Region ist ein Schulschwimmbad mit 25-Meter-Becken.",
-                  "category": "recreational",
-                  "coords": [
-                        7.7289,
-                        50.152661
-                  ]
-            },
-            {
-                  "name": "Rheingoldbad Werlau",
-                  "text": "Ein Freibad in Werlau mit Blick auf den Rhein.",
-                  "category": "recreational",
-                  "coords": [
-                        7.695637,
-                        50.153712
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Burgruine Niederburg",
-                  "text": "Egy középkori várrom az UNESCO világörökség részét képező Felső-Közép-Rajna-völgyben, a Loreley közelében.",
-                  "category": "castle",
-                  "coords": [
-                        7.693529,
-                        50.118451
-                  ]
-            },
-            {
-                  "name": "Burg Katz",
-                  "text": "Ez a jellegzetes 14. századi vár magasan Szent Goarshausen felett, a Rajna mentén emelkedik.",
-                  "category": "castle",
-                  "coords": [
-                        7.724153,
-                        50.152111
-                  ]
-            },
-            {
-                  "name": "Burg Herzogenstein",
-                  "text": "Egy egykori erődítmény maradványai a Loreley-szikla közelében, a Közép-Rajna mentén.",
-                  "category": "castle",
-                  "coords": [
-                        7.736837,
-                        50.118589
-                  ]
-            },
-            {
-                  "name": "Burg Rheinfels",
-                  "text": "A Közép-Rajna egyik legnagyobb erődítményének impozáns romja, St. Goar városa felett.",
-                  "category": "castle",
-                  "coords": [
-                        7.704831,
-                        50.154068
-                  ]
-            },
-            {
-                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
-                  "text": "Védett természeti terület a Rajna mentén, amely értékes meredek lejtőiről és flórájáról nevezetes.",
-                  "category": "natural",
-                  "coords": [
-                        7.750114,
-                        50.112103
-                  ]
-            },
-            {
-                  "name": "Burg Reichenberg",
-                  "text": "Különleges építészetű késő gótikus várrom, amely a Loreley hátországában található.",
-                  "category": "castle",
-                  "coords": [
-                        7.759981,
-                        50.158601
-                  ]
-            },
-            {
-                  "name": "Schönburg",
-                  "text": "Több részből álló várkomplexum Oberwesel felett, amely ma szállodaként és kilátásáról ismert.",
-                  "category": "castle",
-                  "coords": [
-                        7.73207,
-                        50.101005
-                  ]
-            },
-            {
-                  "name": "Hallenbad der Loreleyschule",
-                  "text": "A loreleyi régióban lévő Loreleyschule fedett uszodája egy 25 méteres medencével rendelkező iskolai uszoda.",
-                  "category": "recreational",
-                  "coords": [
-                        7.7289,
-                        50.152661
-                  ]
-            },
-            {
-                  "name": "Rheingoldbad Werlau",
-                  "text": "Szabadtéri élményfürdő Werlauban, kilátással a Rajnára.",
-                  "category": "recreational",
-                  "coords": [
-                        7.695637,
-                        50.153712
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Burgruine Niederburg",
-                  "text": "Ruina unui castel medieval din Valea Rinului Mijlociu Superior, inclusă în patrimoniul UNESCO, lângă Loreley.",
-                  "category": "castle",
-                  "coords": [
-                        7.693529,
-                        50.118451
-                  ]
-            },
-            {
-                  "name": "Burg Katz",
-                  "text": "Acest castel distinctiv din secolul al XIV-lea tronează deasupra orașului St. Goarshausen de pe Rin.",
-                  "category": "castle",
-                  "coords": [
-                        7.724153,
-                        50.152111
-                  ]
-            },
-            {
-                  "name": "Burg Herzogenstein",
-                  "text": "Rămășițele unei foste fortificații în apropierea stâncii Loreley de pe Rinul Mijlociu.",
-                  "category": "castle",
-                  "coords": [
-                        7.736837,
-                        50.118589
-                  ]
-            },
-            {
-                  "name": "Burg Rheinfels",
-                  "text": "Ruina impunătoare a uneia dintre cele mai mari fortificații de pe Rinul Mijlociu, situată deasupra orașului St. Goar.",
-                  "category": "castle",
-                  "coords": [
-                        7.704831,
-                        50.154068
-                  ]
-            },
-            {
-                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
-                  "text": "O zonă naturală protejată pe malul Rinului, remarcabilă prin versanții săi abrupți și floră.",
-                  "category": "natural",
-                  "coords": [
-                        7.750114,
-                        50.112103
-                  ]
-            },
-            {
-                  "name": "Burg Reichenberg",
-                  "text": "O ruină de castel în stil gotic târziu, cu o arhitectură neobișnuită, situată în hinterlandul Loreley.",
-                  "category": "castle",
-                  "coords": [
-                        7.759981,
-                        50.158601
-                  ]
-            },
-            {
-                  "name": "Schönburg",
-                  "text": "Un complex de castel format din mai multe părți deasupra orașului Oberwesel, cunoscut astăzi ca hotel și pentru priveliștea sa.",
-                  "category": "castle",
-                  "coords": [
-                        7.73207,
-                        50.101005
-                  ]
-            },
-            {
-                  "name": "Hallenbad der Loreleyschule",
-                  "text": "Piscina interioară a școlii Loreley din regiunea Loreley este o piscină școlară cu un bazin de 25 de metri.",
-                  "category": "recreational",
-                  "coords": [
-                        7.7289,
-                        50.152661
-                  ]
-            },
-            {
-                  "name": "Rheingoldbad Werlau",
-                  "text": "Un parc acvatic în aer liber în Werlau, cu vedere la Rin.",
-                  "category": "recreational",
-                  "coords": [
-                        7.695637,
-                        50.153712
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Burgruine Niederburg",
-                  "text": "The ruins of a medieval castle in the UNESCO World Heritage Upper Middle Rhine Valley near the Loreley.",
-                  "category": "castle",
-                  "coords": [
-                        7.693529,
-                        50.118451
-                  ]
-            },
-            {
-                  "name": "Katz Castle",
-                  "text": "This striking 14th-century castle towers high above St. Goarshausen on the Rhine.",
-                  "category": "castle",
-                  "coords": [
-                        7.724153,
-                        50.152111
-                  ]
-            },
-            {
-                  "name": "Burg Herzogenstein",
-                  "text": "The remains of a former fortification near the Loreley rock on the Middle Rhine.",
-                  "category": "castle",
-                  "coords": [
-                        7.736837,
-                        50.118589
-                  ]
-            },
-            {
-                  "name": "Rheinfels Castle",
-                  "text": "The imposing ruins of one of the largest fortifications on the Middle Rhine, situated above the town of St. Goar.",
-                  "category": "castle",
-                  "coords": [
-                        7.704831,
-                        50.154068
-                  ]
-            },
-            {
-                  "name": "Rheinhänge von Burg Gutenfels bis zur Loreley",
-                  "text": "A protected nature area on the Rhine, notable for its valuable steep slopes and flora.",
-                  "category": "natural",
-                  "coords": [
-                        7.750114,
-                        50.112103
-                  ]
-            },
-            {
-                  "name": "Burg Reichenberg",
-                  "text": "A late-Gothic castle ruin with exceptional architecture, located in the Loreley hinterland.",
-                  "category": "castle",
-                  "coords": [
-                        7.759981,
-                        50.158601
-                  ]
-            },
-            {
-                  "name": "Schönburg",
-                  "text": "A multi-part castle complex above Oberwesel, now known as a hotel and for its views.",
-                  "category": "castle",
-                  "coords": [
-                        7.73207,
-                        50.101005
-                  ]
-            },
-            {
-                  "name": "Hallenbad der Loreleyschule",
-                  "text": "The indoor pool of the Loreley School in the Loreley region is a school swimming pool with a 25-meter pool.",
-                  "category": "recreational",
-                  "coords": [
-                        7.7289,
-                        50.152661
-                  ]
-            },
-            {
-                  "name": "Rheingoldbad Werlau",
-                  "text": "An outdoor water park in Werlau offering views of the Rhine.",
-                  "category": "recreational",
-                  "coords": [
-                        7.695637,
-                        50.153712
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "DE-RP",
@@ -17534,15 +15851,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Anglerveinigung 1924 e.V. Worms, Waldsee",
-                  "text": "Das Gewässer der Anglervereinigung 1924 e.V. Worms, Waldsee ist ein bewirtschafteter Weiher für Mitglieder.",
-                  "category": "natural",
-                  "coords": [
-                        8.399444,
-                        49.59456
-                  ]
-            },
-            {
                   "name": "Tamburinsee",
                   "text": "Der Tamburinsee in Worms lädt zum Verweilen am Wasser ein.",
                   "category": "natural",
@@ -17558,15 +15866,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.364316,
                         49.586858
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Der Silbersee bei Worms bietet eine weite Wasserfläche in landschaftlicher Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        8.3849,
-                        49.578926
                   ]
             },
             {
@@ -17711,15 +16010,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Anglerveinigung 1924 e.V. Worms, Waldsee",
-                  "text": "A wormsi Waldsee-i Anglervereinigung 1924 e.V. vize egy tagok számára fenntartott horgásztó.",
-                  "category": "natural",
-                  "coords": [
-                        8.399444,
-                        49.59456
-                  ]
-            },
-            {
                   "name": "Tamburinsee",
                   "text": "A wormsi Tamburinsee hívogató hely a vízparti pihenéshez.",
                   "category": "natural",
@@ -17735,15 +16025,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.364316,
                         49.586858
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "A Worms közeli Silbersee tágas vízfelületet kínál táji környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        8.3849,
-                        49.578926
                   ]
             },
             {
@@ -17888,15 +16169,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Anglerveinigung 1924 e.V. Worms, Waldsee",
-                  "text": "Apa Asociației Pescarilor 1924 e.V. Worms, Waldsee este un iaz gestionat pentru membri.",
-                  "category": "natural",
-                  "coords": [
-                        8.399444,
-                        49.59456
-                  ]
-            },
-            {
                   "name": "Tamburinsee",
                   "text": "Tamburinsee din Worms invită la relaxare lângă apă.",
                   "category": "natural",
@@ -17912,15 +16184,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.364316,
                         49.586858
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Silbersee de lângă Worms oferă o suprafață vastă de apă într-un cadru pitoresc.",
-                  "category": "natural",
-                  "coords": [
-                        8.3849,
-                        49.578926
                   ]
             },
             {
@@ -18065,15 +16328,6 @@ export const poiExtraDe2: POI[] = [
                   ]
             },
             {
-                  "name": "Anglerveinigung 1924 e.V. Worms, Waldsee",
-                  "text": "The water of the Anglers' Association 1924 e.V. Worms, Waldsee is a managed pond for members.",
-                  "category": "natural",
-                  "coords": [
-                        8.399444,
-                        49.59456
-                  ]
-            },
-            {
                   "name": "Tamburinsee",
                   "text": "Tamburinsee in Worms invites you to spend time by the water.",
                   "category": "natural",
@@ -18089,15 +16343,6 @@ export const poiExtraDe2: POI[] = [
                   "coords": [
                         8.364316,
                         49.586858
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "The Silbersee near Worms offers a wide stretch of water in scenic surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        8.3849,
-                        49.578926
                   ]
             },
             {

@@ -771,15 +771,6 @@ export const poiExtraTogoHistoryV2: POI[] = [
     id: "grottes-maproug-history-v2", "sights": {
       "de": [
             {
-                  "name": "Fosse aux lions",
-                  "text": "Die Fosse aux lions ist ein anerkanntes Naturschutzgebiet mit dichten Waldgebieten und wichtigen natürlichen Lebensräumen für die regionale Tierwelt.",
-                  "category": "natural",
-                  "coords": [
-                        0.196555,
-                        10.765178
-                  ]
-            },
-            {
                   "name": "ZAAP de Dalwak",
                   "text": "ZAAP de Dalwak ist eine weitläufige landwirtschaftliche Entwicklungszone, die die modernen Feldinitiativen und die ländliche Organisation der Region hervorhebt.",
                   "category": "landmark",
@@ -790,15 +781,6 @@ export const poiExtraTogoHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Fosse aux lions",
-                  "text": "A Fosse aux lions egy elismert természetvédelmi terület, amely sűrű erdőségekkel és a regionális vadvilág számára létfontosságú természetes élőhelyekkel rendelkezik.",
-                  "category": "natural",
-                  "coords": [
-                        0.196555,
-                        10.765178
-                  ]
-            },
             {
                   "name": "ZAAP de Dalwak",
                   "text": "A ZAAP de Dalwak egy kiterjedt mezőgazdasági fejlesztési övezet, amely bemutatja a régió modern szántóföldi kezdeményezéseit és vidéki szerveződését.",
@@ -811,15 +793,6 @@ export const poiExtraTogoHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Fosse aux lions",
-                  "text": "Fosse aux lions este o rezervație naturală recunoscută, cu zone dens împădurite și habitate naturale vitale pentru fauna regională.",
-                  "category": "natural",
-                  "coords": [
-                        0.196555,
-                        10.765178
-                  ]
-            },
-            {
                   "name": "ZAAP de Dalwak",
                   "text": "ZAAP de Dalwak este o zonă de dezvoltare agricolă extinsă care evidențiază inițiativele moderne de câmp și organizarea rurală a regiunii.",
                   "category": "landmark",
@@ -830,15 +803,6 @@ export const poiExtraTogoHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Fosse aux lions",
-                  "text": "The Fosse aux lions is a recognized nature reserve featuring dense forested areas and vital natural habitats for regional wildlife.",
-                  "category": "natural",
-                  "coords": [
-                        0.196555,
-                        10.765178
-                  ]
-            },
             {
                   "name": "ZAAP de Dalwak",
                   "text": "ZAAP de Dalwak is an expansive agricultural development zone that highlights the region's modern field initiatives and rural organization.",
@@ -1978,86 +1942,10 @@ export const poiExtraTogoHistoryV2: POI[] = [
   },
   {
     id: "fort-allemand-sansanne-mango-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Farver's house",
-                  "text": "Farver's House ist ein befestigter historischer Wohnsitz, der mit einer dicken Verteidigungsarchitektur aus der Kolonialzeit erbaut wurde.",
-                  "category": "castle",
-                  "coords": [
-                        0.453632,
-                        10.338769
-                  ]
-            },
-            {
-                  "name": "Farver's 2.0",
-                  "text": "Farver's 2.0 ist eine verbliebene historische Sehenswürdigkeit, die das Erbe der alten deutschen Festungsanlagen in Sansanné-Mango widerspiegelt.",
-                  "category": "landmark",
-                  "coords": [
-                        0.459585,
-                        10.338915
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Farver's house",
-                  "text": "A Farver-ház egy erődített történelmi rezidencia, amely a gyarmati korból származó vastag védelmi építészettel épült.",
-                  "category": "castle",
-                  "coords": [
-                        0.453632,
-                        10.338769
-                  ]
-            },
-            {
-                  "name": "Farver's 2.0",
-                  "text": "A Farver's 2.0 egy fennmaradt történelmi nevezetesség, amely a régi német erődítmények örökségét tükrözi Sansanné-Mangóban.",
-                  "category": "landmark",
-                  "coords": [
-                        0.459585,
-                        10.338915
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Farver's house",
-                  "text": "Casa lui Farver este o reședință istorică fortificată, construită cu o arhitectură defensivă groasă din epoca colonială.",
-                  "category": "castle",
-                  "coords": [
-                        0.453632,
-                        10.338769
-                  ]
-            },
-            {
-                  "name": "Farver's 2.0",
-                  "text": "Farver's 2.0 este un punct de atracție istoric rămas care reflectă moștenirea vechilor instalații ale fortului german din Sansanné-Mango.",
-                  "category": "landmark",
-                  "coords": [
-                        0.459585,
-                        10.338915
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Farver's house",
-                  "text": "Farver's house is a fortified historical residence built with thick defensive architecture from the colonial era.",
-                  "category": "castle",
-                  "coords": [
-                        0.453632,
-                        10.338769
-                  ]
-            },
-            {
-                  "name": "Farver's 2.0",
-                  "text": "Farver's 2.0 is a remnant historical point of interest reflecting the legacy of the old German fort installations in Sansanné-Mango.",
-                  "category": "landmark",
-                  "coords": [
-                        0.459585,
-                        10.338915
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "TG-S",

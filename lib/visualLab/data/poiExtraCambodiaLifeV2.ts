@@ -2016,66 +2016,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masa Studio - Damien Dufresne",
-                  "text": "Eine zeitgenössische Kunstgalerie, in der die beeindruckenden Werke und Fotografien von Damien Dufresne ausgestellt sind.",
-                  "category": "museum",
-                  "coords": [
-                        103.857411,
-                        13.347524
-                  ]
-            },
-            {
                   "name": "Diwo Gallery 2",
                   "text": "Eine Kunstgalerie in der Nähe von Chreav Village, die elegante kambodschanische Skulpturen und asiatische Artefakte präsentiert.",
                   "category": "museum",
                   "coords": [
                         103.854251,
                         13.353114
-                  ]
-            },
-            {
-                  "name": "Tribe",
-                  "text": "Eine Galerie für urbane und zeitgenössische Kunst, die aufstrebende lokale und internationale Künstler fördert.",
-                  "category": "museum",
-                  "coords": [
-                        103.856717,
-                        13.357023
-                  ]
-            },
-            {
-                  "name": "Artwork Gallery",
-                  "text": "Eine lokale Galerie, die traditionelle und moderne kambodschanische Kunstwerke ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        103.85401,
-                        13.35641
-                  ]
-            },
-            {
-                  "name": "Miniature Replicas of Angkor",
-                  "text": "Ein kleines Museum, das detailgetreue Miniaturmodelle der berühmten Angkor-Tempelanlagen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        103.86326,
-                        13.363751
-                  ]
-            },
-            {
-                  "name": "Angkor Artwork",
-                  "text": "Eine Werkstatt und Galerie, die hochwertige Handwerkskunst und traditionelle Khmer-Schnitzereien anbietet.",
-                  "category": "museum",
-                  "coords": [
-                        103.862585,
-                        13.343833
-                  ]
-            },
-            {
-                  "name": "Vishnu Roundabout",
-                  "text": "Ein Verkehrskreisel mit einer großen Statue des Hindu-Gottes Vishnu, die das Erbe der Region widerspiegelt.",
-                  "category": "historical",
-                  "coords": [
-                        103.856261,
-                        13.352933
                   ]
             },
             {
@@ -2088,24 +2034,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Breastfeeding Woman",
-                  "text": "Ein öffentliches Denkmal, das eine stillende Mutter zeigt und Mutterschaft sowie Fürsorge symbolisiert.",
-                  "category": "historical",
-                  "coords": [
-                        103.857957,
-                        13.356666
-                  ]
-            },
-            {
-                  "name": "Garuda",
-                  "text": "Eine Statue des mythischen vogelähnlichen Wesens Garuda, eines wichtigen Symbols in der Khmer-Kultur.",
-                  "category": "historical",
-                  "coords": [
-                        103.857292,
-                        13.361215
-                  ]
-            },
-            {
                   "name": "Prasat Vat Athvea",
                   "text": "Die Ruinen eines hinduistischen Tempels aus dem 12. Jahrhundert, der für seine klassischen Khmer-Architekturdetails bekannt ist.",
                   "category": "historical",
@@ -2115,48 +2043,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khmer Kids Art Gallery",
-                  "text": "Ein Kunstzentrum, das Zeichnungen und Gemälde von benachteiligten kambodschanischen Kindern ausstellt und unterstützt.",
-                  "category": "cultural",
-                  "coords": [
-                        103.856802,
-                        13.348586
-                  ]
-            },
-            {
-                  "name": "Garavek Traditional Storytelling Theatre",
-                  "text": "Ein intimes Theater, das traditionelle südostasiatische Mythen und Volksmärchen in fesselnden Erzählungen präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855452,
-                        13.354806
-                  ]
-            },
-            {
                   "name": "Colors of Cambodia",
                   "text": "Eine Kunstinitiative und Galerie, die kostenlosen Kunstunterricht für Kinder in der Region anbietet.",
                   "category": "cultural",
                   "coords": [
                         103.854173,
                         13.354395
-                  ]
-            },
-            {
-                  "name": "Diwo Gallery 1",
-                  "text": "Das Hauptgebäude der Galerie, das sich auf elegante Holzskulpturen und kambodschanisches Wohndesign spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853999,
-                        13.338268
-                  ]
-            },
-            {
-                  "name": "Apsara Theatre Wat Bo",
-                  "text": "Ein traditioneller Theatersaal im Wat Bo-Viertel, in dem klassische Khmer-Tanzaufführungen dargeboten werden.",
-                  "category": "cultural",
-                  "coords": [
-                        103.859445,
-                        13.353994
                   ]
             },
             {
@@ -2286,15 +2178,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artisans d'Angkor",
-                  "text": "Ein soziales Unternehmen und eine Werkstatt, die sich der Wiederbelebung traditioneller Khmer-Handwerkskünste wie Steinschnitzerei und Seidenweberei widmet.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851837,
-                        13.35262
-                  ]
-            },
-            {
                   "name": "Angkor Wat Putt Miniature Golf",
                   "text": "Ein 2012 eröffneter Minigolfplatz, der Miniaturnachbildungen der berühmten Angkor-Tempel bietet.",
                   "category": "landmark",
@@ -2342,66 +2225,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masa Studio - Damien Dufresne",
-                  "text": "Kortárs művészeti galéria, ahol Damien Dufresne lenyűgöző alkotásai és fényképei láthatók.",
-                  "category": "museum",
-                  "coords": [
-                        103.857411,
-                        13.347524
-                  ]
-            },
-            {
                   "name": "Diwo Gallery 2",
                   "text": "Chreav Village közelében található művészeti galéria, amely elegáns kambodzsai szobrokat és ázsiai műtárgyakat mutat be.",
                   "category": "museum",
                   "coords": [
                         103.854251,
                         13.353114
-                  ]
-            },
-            {
-                  "name": "Tribe",
-                  "text": "Városi és kortárs művészeti galéria, amely feltörekvő helyi és nemzetközi művészeket támogat.",
-                  "category": "museum",
-                  "coords": [
-                        103.856717,
-                        13.357023
-                  ]
-            },
-            {
-                  "name": "Artwork Gallery",
-                  "text": "Helyi galéria, amely hagyományos és modern kambodzsai műalkotásokat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        103.85401,
-                        13.35641
-                  ]
-            },
-            {
-                  "name": "Miniature Replicas of Angkor",
-                  "text": "Kis múzeum, amely a híres angkori templomkomplexumok részletes miniatűr modelljeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.86326,
-                        13.363751
-                  ]
-            },
-            {
-                  "name": "Angkor Artwork",
-                  "text": "Műhely és galéria, amely kiváló minőségű kézműves termékeket és hagyományos khmer faragványokat kínál.",
-                  "category": "museum",
-                  "coords": [
-                        103.862585,
-                        13.343833
-                  ]
-            },
-            {
-                  "name": "Vishnu Roundabout",
-                  "text": "Körforgalom, amelynek közepén a hindu Visnu isten nagy szobra áll, tükrözve a régió örökségét.",
-                  "category": "historical",
-                  "coords": [
-                        103.856261,
-                        13.352933
                   ]
             },
             {
@@ -2414,24 +2243,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Breastfeeding Woman",
-                  "text": "Szoptató anyát ábrázoló köztéri emlékmű, amely az anyaságot és a gondoskodást szimbolizálja.",
-                  "category": "historical",
-                  "coords": [
-                        103.857957,
-                        13.356666
-                  ]
-            },
-            {
-                  "name": "Garuda",
-                  "text": "A mitikus madárszerű lény, Garuda szobra, amely a khmer kultúra fontos szimbóluma.",
-                  "category": "historical",
-                  "coords": [
-                        103.857292,
-                        13.361215
-                  ]
-            },
-            {
                   "name": "Prasat Vat Athvea",
                   "text": "Egy 12. századi hindu templom romjai, amely klasszikus khmer építészeti részleteiről ismert.",
                   "category": "historical",
@@ -2441,48 +2252,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khmer Kids Art Gallery",
-                  "text": "Művészeti központ, amely hátrányos helyzetű kambodzsai gyermekek rajzait és festményeit állítja ki és támogatja.",
-                  "category": "cultural",
-                  "coords": [
-                        103.856802,
-                        13.348586
-                  ]
-            },
-            {
-                  "name": "Garavek Traditional Storytelling Theatre",
-                  "text": "Intim színház, amely hagyományos délkelet-ázsiai mítoszokat és népmeséket mutat be magával ragadó történetmeséléssel.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855452,
-                        13.354806
-                  ]
-            },
-            {
                   "name": "Colors of Cambodia",
                   "text": "Művészeti kezdeményezés és galéria, amely ingyenes művészeti oktatást nyújt a régió gyermekeinek.",
                   "category": "cultural",
                   "coords": [
                         103.854173,
                         13.354395
-                  ]
-            },
-            {
-                  "name": "Diwo Gallery 1",
-                  "text": "A galéria főépülete, amely elegáns faszobrokra és kambodzsai lakberendezésre specializálódott.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853999,
-                        13.338268
-                  ]
-            },
-            {
-                  "name": "Apsara Theatre Wat Bo",
-                  "text": "Hagyományos színházterem a Wat Bo negyedben, ahol klasszikus khmer táncelőadásokat tartanak.",
-                  "category": "cultural",
-                  "coords": [
-                        103.859445,
-                        13.353994
                   ]
             },
             {
@@ -2612,15 +2387,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artisans d'Angkor",
-                  "text": "Társadalmi vállalkozás és műhely, amely a hagyományos khmer kézművesség, például a kőfaragás és a selyemszövés újjáélesztésének szenteli magát.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851837,
-                        13.35262
-                  ]
-            },
-            {
                   "name": "Angkor Wat Putt Miniature Golf",
                   "text": "Egy 2012-ben megnyílt minigolfpálya, amely a híres Angkor templomok kicsinyített másait mutatja be.",
                   "category": "landmark",
@@ -2668,66 +2434,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masa Studio - Damien Dufresne",
-                  "text": "O galerie de artă contemporană care expune lucrările și fotografiile impresionante ale lui Damien Dufresne.",
-                  "category": "museum",
-                  "coords": [
-                        103.857411,
-                        13.347524
-                  ]
-            },
-            {
                   "name": "Diwo Gallery 2",
                   "text": "O galerie de artă lângă Chreav Village, care prezintă sculpturi cambodgiene elegante și artefacte asiatice.",
                   "category": "museum",
                   "coords": [
                         103.854251,
                         13.353114
-                  ]
-            },
-            {
-                  "name": "Tribe",
-                  "text": "O galerie de artă urbană și contemporană care promovează artiști locali și internaționali emergenți.",
-                  "category": "museum",
-                  "coords": [
-                        103.856717,
-                        13.357023
-                  ]
-            },
-            {
-                  "name": "Artwork Gallery",
-                  "text": "O galerie locală care expune opere de artă cambodgiene tradiționale și moderne.",
-                  "category": "museum",
-                  "coords": [
-                        103.85401,
-                        13.35641
-                  ]
-            },
-            {
-                  "name": "Miniature Replicas of Angkor",
-                  "text": "Un mic muzeu care prezintă modele în miniatură detaliate ale celebrelor complexe de temple din Angkor.",
-                  "category": "museum",
-                  "coords": [
-                        103.86326,
-                        13.363751
-                  ]
-            },
-            {
-                  "name": "Angkor Artwork",
-                  "text": "Un atelier și o galerie care oferă meșteșuguri de înaltă calitate și sculpturi tradiționale khmere.",
-                  "category": "museum",
-                  "coords": [
-                        103.862585,
-                        13.343833
-                  ]
-            },
-            {
-                  "name": "Vishnu Roundabout",
-                  "text": "Un sens giratoriu cu o statuie mare a zeului hindus Vishnu, reflectând moștenirea regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        103.856261,
-                        13.352933
                   ]
             },
             {
@@ -2740,24 +2452,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Breastfeeding Woman",
-                  "text": "Un monument public care înfățișează o mamă care alăptează, simbolizând maternitatea și grija.",
-                  "category": "historical",
-                  "coords": [
-                        103.857957,
-                        13.356666
-                  ]
-            },
-            {
-                  "name": "Garuda",
-                  "text": "O statuie a creaturii mitice asemănătoare unei păsări, Garuda, un simbol important în cultura khmeră.",
-                  "category": "historical",
-                  "coords": [
-                        103.857292,
-                        13.361215
-                  ]
-            },
-            {
                   "name": "Prasat Vat Athvea",
                   "text": "Ruinele unui templu hindus din secolul al XII-lea, cunoscut pentru detaliile sale arhitecturale clasice khmere.",
                   "category": "historical",
@@ -2767,48 +2461,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khmer Kids Art Gallery",
-                  "text": "Un centru de artă care expune și sprijină desenele și picturile copiilor cambodgieni defavorizați.",
-                  "category": "cultural",
-                  "coords": [
-                        103.856802,
-                        13.348586
-                  ]
-            },
-            {
-                  "name": "Garavek Traditional Storytelling Theatre",
-                  "text": "Un teatru intim care prezintă mituri tradiționale din Asia de Sud-Est și basme populare prin povești captivante.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855452,
-                        13.354806
-                  ]
-            },
-            {
                   "name": "Colors of Cambodia",
                   "text": "O inițiativă de artă și galerie care oferă educație artistică gratuită copiilor din regiune.",
                   "category": "cultural",
                   "coords": [
                         103.854173,
                         13.354395
-                  ]
-            },
-            {
-                  "name": "Diwo Gallery 1",
-                  "text": "Clădirea principală a galeriei, specializată în sculpturi elegante din lemn și design interior cambodgian.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853999,
-                        13.338268
-                  ]
-            },
-            {
-                  "name": "Apsara Theatre Wat Bo",
-                  "text": "O sală de teatru tradițională în cartierul Wat Bo, unde sunt prezentate spectacole de dans clasic khmer.",
-                  "category": "cultural",
-                  "coords": [
-                        103.859445,
-                        13.353994
                   ]
             },
             {
@@ -2938,15 +2596,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artisans d'Angkor",
-                  "text": "O întreprindere socială și un atelier dedicat revitalizării meșteșugurilor tradiționale khmere, cum ar fi sculptura în piatră și țesutul mătăsii.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851837,
-                        13.35262
-                  ]
-            },
-            {
                   "name": "Angkor Wat Putt Miniature Golf",
                   "text": "Un teren de minigolf deschis în 2012, care prezintă replici în miniatură ale templelor din Angkor.",
                   "category": "landmark",
@@ -2976,30 +2625,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Old Market",
-                  "text": "A historic and bustling market in central Siem Reap, renowned for fresh produce, souvenirs, and Cambodian street food.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855181,
-                        13.353869
-                  ]
-            },
-            {
                   "name": "ArtBox",
                   "text": "An interactive museum featuring impressive 3D illusions and trick-art paintings.",
                   "category": "museum",
                   "coords": [
                         103.832097,
                         13.361849
-                  ]
-            },
-            {
-                  "name": "Masa Studio - Damien Dufresne",
-                  "text": "A contemporary art gallery exhibiting the striking works and photography of Damien Dufresne.",
-                  "category": "museum",
-                  "coords": [
-                        103.857411,
-                        13.347524
                   ]
             },
             {
@@ -3012,78 +2643,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tribe",
-                  "text": "An urban and contemporary art gallery that promotes emerging local and international artists.",
-                  "category": "museum",
-                  "coords": [
-                        103.856717,
-                        13.357023
-                  ]
-            },
-            {
-                  "name": "Artwork Gallery",
-                  "text": "A local gallery exhibiting traditional and modern Cambodian artworks.",
-                  "category": "museum",
-                  "coords": [
-                        103.85401,
-                        13.35641
-                  ]
-            },
-            {
-                  "name": "Miniature Replicas of Angkor",
-                  "text": "A small museum showcasing detailed miniature models of the famous Angkor temple complexes.",
-                  "category": "museum",
-                  "coords": [
-                        103.86326,
-                        13.363751
-                  ]
-            },
-            {
-                  "name": "Angkor Artwork",
-                  "text": "A workshop and gallery offering high-quality craftsmanship and traditional Khmer carvings.",
-                  "category": "museum",
-                  "coords": [
-                        103.862585,
-                        13.343833
-                  ]
-            },
-            {
-                  "name": "Vishnu Roundabout",
-                  "text": "A traffic roundabout featuring a large statue of the Hindu god Vishnu, reflecting the region's heritage.",
-                  "category": "historical",
-                  "coords": [
-                        103.856261,
-                        13.352933
-                  ]
-            },
-            {
-                  "name": "Apsara Statue",
-                  "text": "An elegant statue depicting a celestial Apsara dancer from Hindu mythology.",
-                  "category": "historical",
-                  "coords": [
-                        103.859881,
-                        13.361694
-                  ]
-            },
-            {
-                  "name": "Breastfeeding Woman",
-                  "text": "A public monument depicting a nursing mother, symbolizing motherhood and care.",
-                  "category": "historical",
-                  "coords": [
-                        103.857957,
-                        13.356666
-                  ]
-            },
-            {
-                  "name": "Garuda",
-                  "text": "A statue of the mythical bird-like creature Garuda, an important symbol in Khmer culture.",
-                  "category": "historical",
-                  "coords": [
-                        103.857292,
-                        13.361215
-                  ]
-            },
-            {
                   "name": "Wat Athvear",
                   "text": "The ruins of a 12th-century Hindu temple known for its classic Khmer architectural details.",
                   "category": "historical",
@@ -3093,48 +2652,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khmer Kids Art Gallery",
-                  "text": "An arts centre that exhibits and supports the drawings and paintings of disadvantaged Cambodian children.",
-                  "category": "cultural",
-                  "coords": [
-                        103.856802,
-                        13.348586
-                  ]
-            },
-            {
-                  "name": "Garavek Traditional Storytelling Theatre",
-                  "text": "An intimate theatre presenting traditional Southeast Asian myths and folktales through captivating storytelling.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855452,
-                        13.354806
-                  ]
-            },
-            {
                   "name": "Colors of Cambodia",
                   "text": "An arts initiative and gallery that provides free art education to children in the region.",
                   "category": "cultural",
                   "coords": [
                         103.854173,
                         13.354395
-                  ]
-            },
-            {
-                  "name": "Diwo Gallery 1",
-                  "text": "The gallery's main building specializing in elegant wooden sculptures and Cambodian home design.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853999,
-                        13.338268
-                  ]
-            },
-            {
-                  "name": "Apsara Theatre Wat Bo",
-                  "text": "A traditional theatre hall in the Wat Bo neighborhood presenting classical Khmer dance performances.",
-                  "category": "cultural",
-                  "coords": [
-                        103.859445,
-                        13.353994
                   ]
             },
             {
@@ -3264,15 +2787,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artisans d'Angkor",
-                  "text": "A social enterprise and workshop dedicated to the revival of traditional Khmer crafts such as stone carving and silk weaving.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851837,
-                        13.35262
-                  ]
-            },
-            {
                   "name": "Angkor Wat Putt",
                   "text": "A miniature golf course opened in 2012 that features scale replicas of the famous Angkor temples.",
                   "category": "landmark",
@@ -3381,15 +2895,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Patio Pepper Plantation in Kep",
-                  "text": "Die Patio Pepper Plantation ermöglicht Besuchern, die Anbau- und Trocknungsprozesse des berühmten, aromatischen Kep-Pfeffers zu erleben.",
-                  "category": "landmark",
-                  "coords": [
-                        104.320232,
-                        10.503452
-                  ]
-            },
-            {
                   "name": "White Horse",
                   "text": "Die ursprüngliche Weiße Pferdestatue dient als markanter lokaler Orientierungspunkt auf einem gemauerten Sockel.",
                   "category": "historical",
@@ -3452,15 +2957,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   "coords": [
                         104.351518,
                         10.495808
-                  ]
-            },
-            {
-                  "name": "Patio Pepper Plantation in Kep",
-                  "text": "A Patio Pepper Plantation lehetővé teszi a látogatók számára, hogy megismerjék a híres, aromás kepi bors termesztési és szárítási folyamatait.",
-                  "category": "landmark",
-                  "coords": [
-                        104.320232,
-                        10.503452
                   ]
             },
             {
@@ -3529,15 +3025,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Patio Pepper Plantation in Kep",
-                  "text": "Plantația de piper Patio permite vizitatorilor să experimenteze procesele de cultivare și uscare ale faimosului și aromatului piper de Kep.",
-                  "category": "landmark",
-                  "coords": [
-                        104.320232,
-                        10.503452
-                  ]
-            },
-            {
                   "name": "White Horse",
                   "text": "Statuia originală a Calului Alb servește ca un punct de reper local distinctiv, așezată pe un piedestal din cărămidă.",
                   "category": "historical",
@@ -3600,15 +3087,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   "coords": [
                         104.351518,
                         10.495808
-                  ]
-            },
-            {
-                  "name": "Patio Pepper Plantation in Kep",
-                  "text": "The Patio Pepper Plantation allows visitors to experience the cultivation and drying processes of the famous, aromatic Kep pepper.",
-                  "category": "landmark",
-                  "coords": [
-                        104.320232,
-                        10.503452
                   ]
             },
             {
@@ -5997,15 +5475,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
     id: "mondulkiri-elephant-project-life-v2", "sights": {
       "de": [
             {
-                  "name": "Sen Monorom Waterfall",
-                  "text": "Dieser dreistufige Wasserfall ist von Bambuswäldern umgeben und bietet ein beliebtes Badebecken unterhalb der Kaskaden.",
-                  "category": "landmark",
-                  "coords": [
-                        107.159639,
-                        12.442024
-                  ]
-            },
-            {
                   "name": "Hill Top Viewpoint",
                   "text": "Von diesem erhöhten Aussichtspunkt aus eröffnet sich ein weites Panorama über die sanften, bewaldeten Hügel von Mondulkiri.",
                   "category": "natural",
@@ -6061,15 +5530,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Sen Monorom Waterfall",
-                  "text": "Ezt a háromszintes vízesést bambuszerdők veszik körül, és a zuhatagok alatt népszerű fürdőmedencével büszkélkedhet.",
-                  "category": "landmark",
-                  "coords": [
-                        107.159639,
-                        12.442024
-                  ]
-            },
             {
                   "name": "Hill Top Viewpoint",
                   "text": "Ebből a magasan fekvő kilátóból széles panoráma nyílik Mondulkiri lágyan hullámzó, erdős dombjaira.",
@@ -6127,15 +5587,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Sen Monorom Waterfall",
-                  "text": "Această cascadă cu trei trepte este înconjurată de păduri de bambus și oferă o piscină populară pentru înot sub cascade.",
-                  "category": "landmark",
-                  "coords": [
-                        107.159639,
-                        12.442024
-                  ]
-            },
-            {
                   "name": "Hill Top Viewpoint",
                   "text": "Din acest punct de observație înalt se deschide o panoramă largă asupra dealurilor împădurite și domoale din Mondulkiri.",
                   "category": "natural",
@@ -6192,30 +5643,12 @@ export const poiExtraCambodiaLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Sen Monorom Waterfall",
-                  "text": "This three-tiered waterfall is surrounded by bamboo forests and features a popular swimming pool beneath the cascades.",
-                  "category": "landmark",
-                  "coords": [
-                        107.159639,
-                        12.442024
-                  ]
-            },
-            {
                   "name": "Hill Top Viewpoint",
                   "text": "From this elevated viewpoint, a wide panorama opens up over the rolling, forested hills of Mondulkiri.",
                   "category": "natural",
                   "coords": [
                         107.174566,
                         12.479991
-                  ]
-            },
-            {
-                  "name": "Kouprey Roundabout",
-                  "text": "This roundabout monument features statues of the rare kouprey forest ox, the national animal of Cambodia.",
-                  "category": "historical",
-                  "coords": [
-                        107.185763,
-                        12.460188
                   ]
             },
             {
@@ -6465,15 +5898,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brick kilns",
-                  "text": "Diese traditionellen ländlichen Ziegelöfen demonstrieren die lokale handwerkliche Industrie und die Techniken des Tonbrennens in der Region.",
-                  "category": "landmark",
-                  "coords": [
-                        103.188934,
-                        13.087275
-                  ]
-            },
-            {
                   "name": "Green Park",
                   "text": "Der Green Park ist ein lebhafter lokaler Wasserpark, der Pools, Rutschen und Wasserspaß für Familien bietet.",
                   "category": "recreational",
@@ -6563,15 +5987,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   "coords": [
                         103.179779,
                         13.076076
-                  ]
-            },
-            {
-                  "name": "Brick kilns",
-                  "text": "Ezek a hagyományos vidéki téglaégetők a helyi ipari kézművességet és az agyagégetési technikákat mutatják be.",
-                  "category": "landmark",
-                  "coords": [
-                        103.188934,
-                        13.087275
                   ]
             },
             {
@@ -6667,15 +6082,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brick kilns",
-                  "text": "Aceste cuptoare tradiționale rurale de cărămidă demonstrează măiestria industrială locală și tehnicile de ardere a argilei.",
-                  "category": "landmark",
-                  "coords": [
-                        103.188934,
-                        13.087275
-                  ]
-            },
-            {
                   "name": "Green Park",
                   "text": "Green Park este un parc acvatic local plin de viață care oferă piscine, tobogane și recreere acvatică pentru familii.",
                   "category": "recreational",
@@ -6756,24 +6162,6 @@ export const poiExtraCambodiaLifeV2: POI[] = [
                   "coords": [
                         103.176599,
                         13.065834
-                  ]
-            },
-            {
-                  "name": "Neang Rumsay Soak Roundabout",
-                  "text": "This monument marks a prominent traffic intersection with a traditional statue commemorating a local Cambodian legend.",
-                  "category": "historical",
-                  "coords": [
-                        103.179779,
-                        13.076076
-                  ]
-            },
-            {
-                  "name": "Brick kilns",
-                  "text": "These traditional rural brick kilns demonstrate the area's local industrial craftsmanship and clay firing techniques.",
-                  "category": "landmark",
-                  "coords": [
-                        103.188934,
-                        13.087275
                   ]
             },
             {

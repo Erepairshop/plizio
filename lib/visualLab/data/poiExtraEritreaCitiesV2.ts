@@ -28,30 +28,12 @@ export const poiExtraEritreaCitiesV2: POI[] = [
     id: "massawa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Northern Red Sea Region Museum",
-                  "text": "Ein Museum in Massawa, das Artefakte von der eritreischen Küste des Roten Meeres ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        39.451783,
-                        15.605504
-                  ]
-            },
-            {
                   "name": "Stätte der Villa Melotti",
                   "text": "Die Überreste einer historischen italienischen Villa in Massawa aus der Kolonialzeit.",
                   "category": "landmark",
                   "coords": [
                         39.463176,
                         15.596331
-                  ]
-            },
-            {
-                  "name": "Azieb",
-                  "text": "Azieb ist eine Sehenswürdigkeit und Attraktion in der Stadt Massaua.",
-                  "category": "landmark",
-                  "coords": [
-                        39.475251,
-                        15.60819
                   ]
             },
             {
@@ -84,30 +66,12 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Northern Red Sea Region Museum",
-                  "text": "Múzeum Masszavában, az eritreai Vörös-tenger partvidékének tárgyaival.",
-                  "category": "museum",
-                  "coords": [
-                        39.451783,
-                        15.605504
-                  ]
-            },
-            {
                   "name": "Villa Melotti helyszíne",
                   "text": "Egy történelmi olasz villa maradványai Masszavában a gyarmati időkből.",
                   "category": "landmark",
                   "coords": [
                         39.463176,
                         15.596331
-                  ]
-            },
-            {
-                  "name": "Azieb",
-                  "text": "Az Azieb egy érdekes látványosság Massaua városában.",
-                  "category": "landmark",
-                  "coords": [
-                        39.475251,
-                        15.60819
                   ]
             },
             {
@@ -140,30 +104,12 @@ export const poiExtraEritreaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Northern Red Sea Region Museum",
-                  "text": "Un muzeu în Massawa, care expune artefacte de pe coasta eritreeană a Mării Roșii.",
-                  "category": "museum",
-                  "coords": [
-                        39.451783,
-                        15.605504
-                  ]
-            },
-            {
                   "name": "Situl Villa Melotti",
                   "text": "Rămășițele unei vile istorice italiene în Massawa din perioada colonială.",
                   "category": "landmark",
                   "coords": [
                         39.463176,
                         15.596331
-                  ]
-            },
-            {
-                  "name": "Azieb",
-                  "text": "Azieb este un punct de interes și o atracție situată în orașul Massaua.",
-                  "category": "landmark",
-                  "coords": [
-                        39.475251,
-                        15.60819
                   ]
             },
             {
@@ -195,51 +141,6 @@ export const poiExtraEritreaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Northern Red Sea Region Museum",
-                  "text": "A museum in Massawa displaying artifacts from the Eritrean Red Sea coast.",
-                  "category": "museum",
-                  "coords": [
-                        39.451783,
-                        15.605504
-                  ]
-            },
-            {
-                  "name": "Site of Villa Melotti",
-                  "text": "The remains of a historic Italian villa in Massawa from the colonial period.",
-                  "category": "landmark",
-                  "coords": [
-                        39.463176,
-                        15.596331
-                  ]
-            },
-            {
-                  "name": "Azieb",
-                  "text": "Azieb is a point of interest and attraction located in the city of Massaua.",
-                  "category": "landmark",
-                  "coords": [
-                        39.475251,
-                        15.60819
-                  ]
-            },
-            {
-                  "name": "Boat to Green Island",
-                  "text": "A boat that takes visitors to Green Island, a coral-rich island off Massawa.",
-                  "category": "landmark",
-                  "coords": [
-                        39.471448,
-                        15.607811
-                  ]
-            },
-            {
-                  "name": "Former Imperial Palace",
-                  "text": "The former palace of Emperor Haile Selassie in Massawa, now a landmark.",
-                  "category": "landmark",
-                  "coords": [
-                        39.468756,
-                        15.610405
-                  ]
-            },
             {
                   "name": "Old Mosque",
                   "text": "The ruins of المسجد القديم (the Old Mosque) represent a historical site in Massaua.",
@@ -273,50 +174,10 @@ export const poiExtraEritreaCitiesV2: POI[] = [
   },
   {
     id: "keren-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Fort Tigu",
-                  "text": "Eine historische Festung in Keren, bekannt für ihre Rolle in der Schlacht von Keren.",
-                  "category": "castle",
-                  "coords": [
-                        38.452188,
-                        15.78368
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Fort Tigu",
-                  "text": "Történelmi erőd Kerenchen, amely a Kereni csatában játszott szerepéről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        38.452188,
-                        15.78368
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Fort Tigu",
-                  "text": "O fortăreață istorică în Keren, cunoscută pentru rolul său în Bătălia de la Keren.",
-                  "category": "castle",
-                  "coords": [
-                        38.452188,
-                        15.78368
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Fort Tigu",
-                  "text": "A historic fort in Keren, known for its role in the Battle of Keren.",
-                  "category": "castle",
-                  "coords": [
-                        38.452188,
-                        15.78368
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "ER-AN",
@@ -340,50 +201,10 @@ export const poiExtraEritreaCitiesV2: POI[] = [
   },
   {
     id: "assab-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Arsinoé",
-                  "text": "Die Ruinen einer ptolemäischen Hafenstadt an der Küste des Roten Meeres.",
-                  "category": "historical",
-                  "coords": [
-                        42.736553,
-                        13.031371
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Arsinoé",
-                  "text": "Egy ptolemaioszi kikötőváros romjai a Vörös-tenger partján.",
-                  "category": "historical",
-                  "coords": [
-                        42.736553,
-                        13.031371
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Arsinoé",
-                  "text": "Ruinele unui oraș-port ptolemaic pe coasta Mării Roșii.",
-                  "category": "historical",
-                  "coords": [
-                        42.736553,
-                        13.031371
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Arsinoé",
-                  "text": "The ruins of a Ptolemaic port city on the Red Sea coast.",
-                  "category": "historical",
-                  "coords": [
-                        42.736553,
-                        13.031371
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "ER-DK",

@@ -603,15 +603,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Historical Museum",
-                  "text": "Historisches Museum Irbid – untergebracht in einem osmanischen Gebäude, präsentiert archäologische Funde aus Nordjordanien.",
-                  "category": "museum",
-                  "coords": [
-                        35.853838,
-                        32.535708
-                  ]
-            },
-            {
                   "name": "Ibrahim Al-Shaer",
                   "text": "Ibrahim-Al-Shaer-Denkmal in Irbid – Gedenkstätte für den lokalen Dichter Ibrahim Al-Shaer.",
                   "category": "landmark",
@@ -674,15 +665,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         35.848022,
                         32.557798
-                  ]
-            },
-            {
-                  "name": "Historical Museum",
-                  "text": "Irbid Történeti Múzeum – egy oszmán épületben kapott helyet, Észak-Jordánia régészeti leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        35.853838,
-                        32.535708
                   ]
             },
             {
@@ -751,15 +733,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Historical Museum",
-                  "text": "Muzeul Istoric Irbid – găzduit într-o clădire otomană, prezintă descoperiri arheologice din nordul Iordaniei.",
-                  "category": "museum",
-                  "coords": [
-                        35.853838,
-                        32.535708
-                  ]
-            },
-            {
                   "name": "Ibrahim Al-Shaer",
                   "text": "Monumentul Ibrahim Al-Shaer în Irbid – memorial pentru poetul local Ibrahim Al-Shaer.",
                   "category": "landmark",
@@ -822,15 +795,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         35.848022,
                         32.557798
-                  ]
-            },
-            {
-                  "name": "Historical Museum",
-                  "text": "Irbid Historical Museum – housed in an Ottoman building, showcasing archaeological finds from northern Jordan.",
-                  "category": "museum",
-                  "coords": [
-                        35.853838,
-                        32.535708
                   ]
             },
             {
@@ -936,15 +900,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "aqaba-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Festung Akaba",
-                  "text": "Mamlukische Festung aus dem 14. Jahrhundert am Roten Meer.",
-                  "category": "castle",
-                  "coords": [
-                        35.00204,
-                        29.521384
-                  ]
-            },
-            {
                   "name": "Ayla",
                   "text": "Ruinen der frühislamischen Hafenstadt Ayla aus dem 7. Jahrhundert.",
                   "category": "historical",
@@ -960,24 +915,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         34.999075,
                         29.533704
-                  ]
-            },
-            {
-                  "name": "Alghandour",
-                  "text": "Alghandour in Aqaba – Erholungsgebiet mit Swimmingpool und Sonnenliegen am Roten Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        35.000824,
-                        29.525028
-                  ]
-            },
-            {
-                  "name": "B12",
-                  "text": "B12 in Aqaba – Strandclub mit Beachvolleyball und Live-Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        34.983333,
-                        29.552185
                   ]
             },
             {
@@ -1017,15 +954,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aqaba Trail",
-                  "text": "Aqaba-Wanderweg – Küstenpfad entlang des Roten Meeres mit Aussicht auf Saudiarabien.",
-                  "category": "landmark",
-                  "coords": [
-                        35.007174,
-                        29.533143
-                  ]
-            },
-            {
                   "name": "Ahla Tallet Lookout",
                   "text": "Ahla Tallet Aussichtspunkt in Aqaba – beliebter Spot für Sonnenuntergänge über dem Golf von Aqaba.",
                   "category": "natural",
@@ -1055,15 +983,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Aqaba Castle",
-                  "text": "14. századi mameluk erőd a Vörös-tenger partján.",
-                  "category": "castle",
-                  "coords": [
-                        35.00204,
-                        29.521384
-                  ]
-            },
-            {
                   "name": "Ayla",
                   "text": "A 7. századi iszlám kikötőváros, Ayla romjai.",
                   "category": "historical",
@@ -1079,24 +998,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         34.999075,
                         29.533704
-                  ]
-            },
-            {
-                  "name": "Alghandour",
-                  "text": "Alghandour Aqaba-ban – pihenőhely medencével és napozóágyakkal a Vörös-tenger partján.",
-                  "category": "recreational",
-                  "coords": [
-                        35.000824,
-                        29.525028
-                  ]
-            },
-            {
-                  "name": "B12",
-                  "text": "B12 Aqaba-ban – strandklub strandröplabdával és élőzenével.",
-                  "category": "recreational",
-                  "coords": [
-                        34.983333,
-                        29.552185
                   ]
             },
             {
@@ -1136,15 +1037,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aqaba Trail",
-                  "text": "Aqaba túraútvonal – partmenti ösvény a Vörös-tenger mentén, Szaúd-Arábiára nyíló kilátással.",
-                  "category": "landmark",
-                  "coords": [
-                        35.007174,
-                        29.533143
-                  ]
-            },
-            {
                   "name": "Ahla Tallet Lookout",
                   "text": "Ahla Tallet kilátó Aqaba-ban – népszerű hely a naplementék megfigyelésére az Akabai-öböl felett.",
                   "category": "natural",
@@ -1174,15 +1066,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Aqaba Castle",
-                  "text": "Fortăreață mamelucă din secolul al XIV-lea pe Marea Roșie.",
-                  "category": "castle",
-                  "coords": [
-                        35.00204,
-                        29.521384
-                  ]
-            },
-            {
                   "name": "Ayla",
                   "text": "Ruinele orașului portuar islamic timpuriu Ayla, din secolul al VII-lea.",
                   "category": "historical",
@@ -1198,24 +1081,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         34.999075,
                         29.533704
-                  ]
-            },
-            {
-                  "name": "Alghandour",
-                  "text": "Alghandour în Aqaba – zonă de agrement cu piscină și șezlonguri la Marea Roșie.",
-                  "category": "recreational",
-                  "coords": [
-                        35.000824,
-                        29.525028
-                  ]
-            },
-            {
-                  "name": "B12",
-                  "text": "B12 în Aqaba – club de plajă cu volei pe plajă și muzică live.",
-                  "category": "recreational",
-                  "coords": [
-                        34.983333,
-                        29.552185
                   ]
             },
             {
@@ -1255,15 +1120,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aqaba Trail",
-                  "text": "Traseul Aqaba – potecă de coastă de-a lungul Mării Roșii, cu vedere spre Arabia Saudită.",
-                  "category": "landmark",
-                  "coords": [
-                        35.007174,
-                        29.533143
-                  ]
-            },
-            {
                   "name": "Ahla Tallet Lookout",
                   "text": "Punctul de belvedere Ahla Tallet din Aqaba – loc popular pentru apusuri deasupra Golfului Aqaba.",
                   "category": "natural",
@@ -1293,15 +1149,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Aqaba Castle",
-                  "text": "14th-century Mamluk fortress on the Red Sea.",
-                  "category": "castle",
-                  "coords": [
-                        35.00204,
-                        29.521384
-                  ]
-            },
-            {
                   "name": "Ayla",
                   "text": "Ruins of the 7th-century early Islamic port city of Ayla.",
                   "category": "historical",
@@ -1317,24 +1164,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         34.999075,
                         29.533704
-                  ]
-            },
-            {
-                  "name": "Alghandour",
-                  "text": "Alghandour in Aqaba – recreational area with a swimming pool and sun loungers by the Red Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        35.000824,
-                        29.525028
-                  ]
-            },
-            {
-                  "name": "B12",
-                  "text": "B12 in Aqaba – beach club with beach volleyball and live music.",
-                  "category": "recreational",
-                  "coords": [
-                        34.983333,
-                        29.552185
                   ]
             },
             {
@@ -1371,15 +1200,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         35.003267,
                         29.530147
-                  ]
-            },
-            {
-                  "name": "Aqaba Trail",
-                  "text": "Aqaba Trail – coastal path along the Red Sea with views of Saudi Arabia.",
-                  "category": "landmark",
-                  "coords": [
-                        35.007174,
-                        29.533143
                   ]
             },
             {
@@ -1881,51 +1701,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "karak-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Burg Kerak",
-                  "text": "Karak-Burg – mächtige Kreuzritterburg auf einem Hügel über der Stadt Karak, mit unterirdischen Gängen.",
-                  "category": "castle",
-                  "coords": [
-                        35.701669,
-                        31.180484
-                  ]
-            },
-            {
-                  "name": "Museum Al-Karak",
-                  "text": "Das Al-Karak Museum zeigt historische Artefakte in Karak.",
-                  "category": "museum",
-                  "coords": [
-                        35.701723,
-                        31.182161
-                  ]
-            },
-            {
-                  "name": "Khirbat al Kinnar",
-                  "text": "Khirbat al Kinnar in Karak – archäologische Stätte mit Resten einer nabatäischen Siedlung.",
-                  "category": "historical",
-                  "coords": [
-                        35.727222,
-                        31.191111
-                  ]
-            },
-            {
-                  "name": "Zahrat al Mataris",
-                  "text": "Eine historische Ruine auf einem Hügel mit Blick auf die Region Karak.",
-                  "category": "historical",
-                  "coords": [
-                        35.702778,
-                        31.174444
-                  ]
-            },
-            {
-                  "name": "Khirbat al Qurein",
-                  "text": "Ruinen einer alten Siedlung in der Landschaft von Karak.",
-                  "category": "historical",
-                  "coords": [
-                        35.710278,
-                        31.17
-                  ]
-            },
-            {
                   "name": "Karak Castle Panorama",
                   "text": "Panoramablick auf die Burg Karak.",
                   "category": "natural",
@@ -1946,15 +1721,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Karak Castle",
-                  "text": "Karak vára – hatalmas keresztes vár egy dombon Karak városa felett, földalatti járatokkal.",
-                  "category": "castle",
-                  "coords": [
-                        35.701669,
-                        31.180484
-                  ]
-            },
-            {
                   "name": "Karak Museum",
                   "text": "Az Al-Karak Museum történelmi tárgyakat mutat be Karakban.",
                   "category": "museum",
@@ -1970,24 +1736,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         35.727222,
                         31.191111
-                  ]
-            },
-            {
-                  "name": "Zahrat al-Mataris",
-                  "text": "Történelmi rom egy dombtetőn, innen kilátás a Karak régióra.",
-                  "category": "historical",
-                  "coords": [
-                        35.702778,
-                        31.174444
-                  ]
-            },
-            {
-                  "name": "Khirbat al-Qurein",
-                  "text": "Egy ősi település romjai Karak vidékén.",
-                  "category": "historical",
-                  "coords": [
-                        35.710278,
-                        31.17
                   ]
             },
             {
@@ -2038,24 +1786,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zahrat al-Mataris",
-                  "text": "O ruină istorică pe o colină cu vedere spre regiunea Karak.",
-                  "category": "historical",
-                  "coords": [
-                        35.702778,
-                        31.174444
-                  ]
-            },
-            {
-                  "name": "Khirbat al-Qurein",
-                  "text": "Ruinele unei așezări antice în zona rurală Karak.",
-                  "category": "historical",
-                  "coords": [
-                        35.710278,
-                        31.17
-                  ]
-            },
-            {
                   "name": "Karak Castle Panorama",
                   "text": "Punct de belvedere panoramic spre Castelul Karak.",
                   "category": "natural",
@@ -2075,51 +1805,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Karak Castle",
-                  "text": "Karak Castle – mighty Crusader castle on a hill above Karak, with underground passages.",
-                  "category": "castle",
-                  "coords": [
-                        35.701669,
-                        31.180484
-                  ]
-            },
-            {
-                  "name": "Al-Karak Museum",
-                  "text": "Al-Karak Museum showcases historical artifacts in Karak.",
-                  "category": "museum",
-                  "coords": [
-                        35.701723,
-                        31.182161
-                  ]
-            },
-            {
-                  "name": "Khirbat al Kinnar",
-                  "text": "Khirbat al Kinnar in Karak – archaeological site with remains of a Nabataean settlement.",
-                  "category": "historical",
-                  "coords": [
-                        35.727222,
-                        31.191111
-                  ]
-            },
-            {
-                  "name": "Zahrat al Mataris",
-                  "text": "A historical ruin atop a hill overlooking the Karak region.",
-                  "category": "historical",
-                  "coords": [
-                        35.702778,
-                        31.174444
-                  ]
-            },
-            {
-                  "name": "Khirbat al Qurein",
-                  "text": "Ruins of an ancient settlement in the Karak countryside.",
-                  "category": "historical",
-                  "coords": [
-                        35.710278,
-                        31.17
-                  ]
-            },
             {
                   "name": "Karak Castle Panorama",
                   "text": "Panoramic viewpoint overlooking Karak Castle.",
@@ -2358,15 +2043,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wadi Schuʿeib",
-                  "text": "Wadi Shuʿeib ist ein Tal und Gipfel in As-Salt, das mit dem Propheten Jethro verbunden ist.",
-                  "category": "natural",
-                  "coords": [
-                        35.730936,
-                        32.031388
-                  ]
-            },
-            {
                   "name": "Al Buqat",
                   "text": "Historische Stätte in der Altstadt von Salt.",
                   "category": "historical",
@@ -2411,15 +2087,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         35.725718,
                         32.039589
-                  ]
-            },
-            {
-                  "name": "Wadi Shuʿeib",
-                  "text": "A Wadi Shuʿeib egy völgy és hegycsúcs As-Salt városában, amely Jethro prófétához köthető.",
-                  "category": "natural",
-                  "coords": [
-                        35.730936,
-                        32.031388
                   ]
             },
             {
@@ -2470,15 +2137,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wadi Shuʿeib",
-                  "text": "Wadi Shuʿeib este o zonă de vale și un vârf asociat cu profetul Jethro în As-Salt.",
-                  "category": "natural",
-                  "coords": [
-                        35.730936,
-                        32.031388
-                  ]
-            },
-            {
                   "name": "Al Buqat",
                   "text": "Sit istoric în centrul vechi al orașului Salt.",
                   "category": "historical",
@@ -2523,15 +2181,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         35.725718,
                         32.039589
-                  ]
-            },
-            {
-                  "name": "Wadi Shuʿeib",
-                  "text": "Wadi Shuʿeib is a valley area and peak associated with the prophet Jethro in As-Salt.",
-                  "category": "natural",
-                  "coords": [
-                        35.730936,
-                        32.031388
                   ]
             },
             {
@@ -2619,15 +2268,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "sahab-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Al Khushshafiyah",
-                  "text": "Al Khushshafiyah umfasst historische Ruinen in der Gegend von Sahab.",
-                  "category": "historical",
-                  "coords": [
-                        36.034722,
-                        31.865556
-                  ]
-            },
-            {
                   "name": "Sahab Industrial City Mosque Lookout",
                   "text": "Aussichtspunkt an der Moschee der Industriestadt Sahab.",
                   "category": "natural",
@@ -2647,15 +2287,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Al-Khushshafiyah",
-                  "text": "Al Khushshafiyah ősi romokat foglal magába Sahab környékén.",
-                  "category": "historical",
-                  "coords": [
-                        36.034722,
-                        31.865556
-                  ]
-            },
             {
                   "name": "Sahab Industrial City Mosque Lookout",
                   "text": "Kilátó Sahab ipari város mecseténél.",
@@ -2677,15 +2308,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Al Khushshafiyah",
-                  "text": "Al Khushshafiyah este un loc cu ruine istorice aflat în zona Sahab.",
-                  "category": "historical",
-                  "coords": [
-                        36.034722,
-                        31.865556
-                  ]
-            },
-            {
                   "name": "Sahab Industrial City Mosque Lookout",
                   "text": "Punct de belvedere lângă moscheea orașului industrial Sahab.",
                   "category": "natural",
@@ -2705,15 +2327,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Al Khushshafiyah",
-                  "text": "Al Khushshafiyah features ancient ruins located in the area of Sahab.",
-                  "category": "historical",
-                  "coords": [
-                        36.034722,
-                        31.865556
-                  ]
-            },
             {
                   "name": "Sahab Industrial City Mosque Lookout",
                   "text": "Lookout near the mosque in Sahab's industrial city.",
@@ -4270,15 +3883,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
     id: "azraq-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Qasr Al-Azraq",
-                  "text": "Qasr Al-Azraq ist eine bedeutende große Festung und archäologische Stätte in Azraq, die für ihre schwarzen Basaltmauern bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        36.827256,
-                        31.880176
-                  ]
-            },
-            {
                   "name": "Azraq Wetland Reserve",
                   "text": "Die Azraq Wetland Reserve ist ein anerkanntes Naturschutzgebiet in Azraq, das zum Schutz einer Wüstenoase gegründet wurde.",
                   "category": "natural",
@@ -4286,45 +3890,9 @@ export const poiExtraJordanCitiesV2: POI[] = [
                         36.860459,
                         31.819416
                   ]
-            },
-            {
-                  "name": "Qasr Ain-es-Sil",
-                  "text": "Burg Qasr an der Quelle Ain-es-Sil bei Azraq.",
-                  "category": "castle",
-                  "coords": [
-                        36.845886,
-                        31.894215
-                  ]
-            },
-            {
-                  "name": "Azraq Old Town",
-                  "text": "Die Azraq Old Town besteht aus historischen Ruinen in der Umgebung von Azraq.",
-                  "category": "historical",
-                  "coords": [
-                        36.841786,
-                        31.879098
-                  ]
-            },
-            {
-                  "name": "Azraq oasis",
-                  "text": "Die Oase Azraq, eine bekannte Wasserstelle in der Wüste.",
-                  "category": "landmark",
-                  "coords": [
-                        36.830016,
-                        31.878968
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Qasr Al-Azraq",
-                  "text": "A Qasr Al-Azraq egy nevezetes, fekete bazaltfalairól híres nagy erőd és régészeti lelőhely Azraqban.",
-                  "category": "historical",
-                  "coords": [
-                        36.827256,
-                        31.880176
-                  ]
-            },
             {
                   "name": "Azraq Wetland Reserve",
                   "text": "Az Azraq Wetland Reserve egy elismert természetvédelmi terület Azraqban, amelyet egy sivatagi oázis védelmére hoztak létre.",
@@ -4333,45 +3901,9 @@ export const poiExtraJordanCitiesV2: POI[] = [
                         36.860459,
                         31.819416
                   ]
-            },
-            {
-                  "name": "Qasr Ain-es-Sil",
-                  "text": "Qasr vár az Ain-es-Sil forrásnál Azraq közelében.",
-                  "category": "castle",
-                  "coords": [
-                        36.845886,
-                        31.894215
-                  ]
-            },
-            {
-                  "name": "Azraq Old Town",
-                  "text": "Az Azraq Old Town történelmi romokat rejt Azraq területén.",
-                  "category": "historical",
-                  "coords": [
-                        36.841786,
-                        31.879098
-                  ]
-            },
-            {
-                  "name": "Azraq oasis",
-                  "text": "Az Azraq-oázis, egy ismert vízforrás a sivatagban.",
-                  "category": "landmark",
-                  "coords": [
-                        36.830016,
-                        31.878968
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Qasr Al-Azraq",
-                  "text": "Qasr Al-Azraq este o fortăreață notabilă și un sit arheologic în Azraq, renumit pentru zidurile sale din bazalt negru.",
-                  "category": "historical",
-                  "coords": [
-                        36.827256,
-                        31.880176
-                  ]
-            },
             {
                   "name": "Azraq Wetland Reserve",
                   "text": "Azraq Wetland Reserve este o rezervație naturală recunoscută din Azraq, creată pentru a proteja o oază din deșert.",
@@ -4380,45 +3912,9 @@ export const poiExtraJordanCitiesV2: POI[] = [
                         36.860459,
                         31.819416
                   ]
-            },
-            {
-                  "name": "Qasr Ain-es-Sil",
-                  "text": "Castelul Qasr la izvorul Ain-es-Sil lângă Azraq.",
-                  "category": "castle",
-                  "coords": [
-                        36.845886,
-                        31.894215
-                  ]
-            },
-            {
-                  "name": "Azraq Old Town",
-                  "text": "Azraq Old Town conține ruine istorice aflate în zona Azraq.",
-                  "category": "historical",
-                  "coords": [
-                        36.841786,
-                        31.879098
-                  ]
-            },
-            {
-                  "name": "Azraq oasis",
-                  "text": "Oaza Azraq, un cunoscut punct de apă în deșert.",
-                  "category": "landmark",
-                  "coords": [
-                        36.830016,
-                        31.878968
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Qasr Al-Azraq",
-                  "text": "Qasr Al-Azraq is a notable large fortress and archaeological site in Azraq, famous for its black basalt walls.",
-                  "category": "historical",
-                  "coords": [
-                        36.827256,
-                        31.880176
-                  ]
-            },
             {
                   "name": "Azraq Wetland Reserve",
                   "text": "Azraq Wetland Reserve is a recognized nature reserve in Azraq created to protect a precious desert oasis.",
@@ -4426,33 +3922,6 @@ export const poiExtraJordanCitiesV2: POI[] = [
                   "coords": [
                         36.860459,
                         31.819416
-                  ]
-            },
-            {
-                  "name": "Qasr Ain-es-Sil",
-                  "text": "Qasr castle at the Ain-es-Sil spring near Azraq.",
-                  "category": "castle",
-                  "coords": [
-                        36.845886,
-                        31.894215
-                  ]
-            },
-            {
-                  "name": "Azraq Old Town",
-                  "text": "Azraq Old Town consists of historical ruins found in the area of Azraq.",
-                  "category": "historical",
-                  "coords": [
-                        36.841786,
-                        31.879098
-                  ]
-            },
-            {
-                  "name": "Azraq oasis",
-                  "text": "The Azraq oasis, a famous water source in the desert.",
-                  "category": "landmark",
-                  "coords": [
-                        36.830016,
-                        31.878968
                   ]
             }
       ]

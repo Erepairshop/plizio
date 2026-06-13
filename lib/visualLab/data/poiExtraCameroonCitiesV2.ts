@@ -532,24 +532,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     id: "cameroon-kousseri-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Muse Sultanat",
-                  "text": "Museum in Kousseri mit Blick auf den Logone-Fluss, das die lokale Geschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        15.033168,
-                        12.080257
-                  ]
-            },
-            {
-                  "name": "Monument",
-                  "text": "Steinmonument auf dem Hauptplatz von Kousseri, ein Symbol der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        15.03315,
-                        12.081465
-                  ]
-            },
-            {
                   "name": "Connection",
                   "text": "Wahrzeichen, das die Verbindung zwischen Kamerun und dem Tschad in Kousseri darstellt.",
                   "category": "landmark",
@@ -569,24 +551,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Muse Sultanat",
-                  "text": "Múzeum Kousseriben a Logone folyóra néző kilátással, helyi történelemmel.",
-                  "category": "museum",
-                  "coords": [
-                        15.033168,
-                        12.080257
-                  ]
-            },
-            {
-                  "name": "Monument",
-                  "text": "Kőemlék Kousseri főterén, a város szimbóluma.",
-                  "category": "historical",
-                  "coords": [
-                        15.03315,
-                        12.081465
-                  ]
-            },
             {
                   "name": "Connection",
                   "text": "Tájékozódási pont, amely Kamerun és Csád közötti kapcsolatot jelképezi Kousseriben.",
@@ -608,24 +572,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muse Sultanat",
-                  "text": "Muzeu în Kousseri cu vedere la râul Logone, ce prezintă istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        15.033168,
-                        12.080257
-                  ]
-            },
-            {
-                  "name": "Monument",
-                  "text": "Monument de piatră în piața centrală a orașului Kousseri, simbol al orașului.",
-                  "category": "historical",
-                  "coords": [
-                        15.03315,
-                        12.081465
-                  ]
-            },
-            {
                   "name": "Connection",
                   "text": "Punct de reper ce simbolizează legătura dintre Camerun și Ciad în Kousseri.",
                   "category": "landmark",
@@ -645,24 +591,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Muse Sultanat",
-                  "text": "Museum in Kousseri overlooking the Logone River, displaying local history.",
-                  "category": "museum",
-                  "coords": [
-                        15.033168,
-                        12.080257
-                  ]
-            },
-            {
-                  "name": "Monument",
-                  "text": "Stone monument in Kousseri's main square, a city symbol.",
-                  "category": "historical",
-                  "coords": [
-                        15.03315,
-                        12.081465
-                  ]
-            },
             {
                   "name": "Connection",
                   "text": "Landmark symbolizing the connection between Cameroon and Chad in Kousseri.",
@@ -975,24 +903,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                         10.901194,
                         5.733027
                   ]
-            },
-            {
-                  "name": "Grand Tambour",
-                  "text": "Museum in Foumban, das einer großen Zeremonialtrommel der Bamoun gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        10.903027,
-                        5.732092
-                  ]
-            },
-            {
-                  "name": "Musée de Arts et Traditions Bamoun",
-                  "text": "Museum im historischen Bamoun-Palast in Foumban mit Kunst und Traditionen der Bamoun.",
-                  "category": "museum",
-                  "coords": [
-                        10.900755,
-                        5.723404
-                  ]
             }
       ],
       "hu": [
@@ -1003,24 +913,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                   "coords": [
                         10.901194,
                         5.733027
-                  ]
-            },
-            {
-                  "name": "Grand Tambour",
-                  "text": "Múzeum Foumbanban, egy hatalmas bamoun szertartásos dob bemutatásával.",
-                  "category": "museum",
-                  "coords": [
-                        10.903027,
-                        5.732092
-                  ]
-            },
-            {
-                  "name": "Musée de Arts et Traditions Bamoun",
-                  "text": "Múzeum a történelmi bamoun palotában Foumbanban, a bamoun művészet és hagyományok bemutatásával.",
-                  "category": "museum",
-                  "coords": [
-                        10.900755,
-                        5.723404
                   ]
             }
       ],
@@ -1033,24 +925,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                         10.901194,
                         5.733027
                   ]
-            },
-            {
-                  "name": "Grand Tambour",
-                  "text": "Muzeu în Foumban dedicat unei mari tobe ceremoniale Bamoun.",
-                  "category": "museum",
-                  "coords": [
-                        10.903027,
-                        5.732092
-                  ]
-            },
-            {
-                  "name": "Musée de Arts et Traditions Bamoun",
-                  "text": "Muzeu în palatul istoric Bamoun din Foumban, cu arta și tradițiile Bamoun.",
-                  "category": "museum",
-                  "coords": [
-                        10.900755,
-                        5.723404
-                  ]
             }
       ],
       "en": [
@@ -1061,24 +935,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                   "coords": [
                         10.901194,
                         5.733027
-                  ]
-            },
-            {
-                  "name": "Grand Tambour",
-                  "text": "Museum in Foumban dedicated to a giant ceremonial Bamoun drum.",
-                  "category": "museum",
-                  "coords": [
-                        10.903027,
-                        5.732092
-                  ]
-            },
-            {
-                  "name": "Musée de Arts et Traditions Bamoun",
-                  "text": "Museum in the historic Bamoun palace in Foumban, showcasing Bamoun art and traditions.",
-                  "category": "museum",
-                  "coords": [
-                        10.900755,
-                        5.723404
                   ]
             }
       ]
@@ -1339,15 +1195,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
     id: "cameroon-kribi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Phare de Kribi",
-                  "text": "Historischer Leuchtturm am Hafen von Kribi am Golf von Guinea.",
-                  "category": "landmark",
-                  "coords": [
-                        9.903982,
-                        2.939555
-                  ]
-            },
-            {
                   "name": "\"Boucanier\" Bibiana",
                   "text": "Piraten-Themenlokal am Strand von Kribi mit Meerblick.",
                   "category": "landmark",
@@ -1394,15 +1241,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Phare de Kribi",
-                  "text": "Történelmi világítótorony Kribi kikötőjében a Guineai-öböl partján.",
-                  "category": "landmark",
-                  "coords": [
-                        9.903982,
-                        2.939555
-                  ]
-            },
             {
                   "name": "\"Boucanier\" Bibiana",
                   "text": "Kalóz témájú étterem a kribi tengerparton, tengerre néző kilátással.",
@@ -1451,15 +1289,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Phare de Kribi",
-                  "text": "Farul istoric din portul Kribi, pe Golful Guineei.",
-                  "category": "landmark",
-                  "coords": [
-                        9.903982,
-                        2.939555
-                  ]
-            },
-            {
                   "name": "\"Boucanier\" Bibiana",
                   "text": "Local cu tematică de pirați pe plaja din Kribi, cu vedere la mare.",
                   "category": "landmark",
@@ -1506,15 +1335,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Phare de Kribi",
-                  "text": "Historic lighthouse at Kribi port on the Gulf of Guinea.",
-                  "category": "landmark",
-                  "coords": [
-                        9.903982,
-                        2.939555
-                  ]
-            },
             {
                   "name": "\"Boucanier\" Bibiana",
                   "text": "Pirate-themed restaurant on the beach in Kribi, overlooking the ocean.",
@@ -2496,60 +2316,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Jungle Village\" Open Air Theatre",
-                  "text": "Freilufttheater in einem Dschungelgarten in Limbe mit tropischer Atmosphäre.",
-                  "category": "cultural",
-                  "coords": [
-                        9.203954,
-                        4.01133
-                  ]
-            },
-            {
-                  "name": "Ambas Bay",
-                  "text": "Die Ambas Bay in Limbe, bekannt als ehemalige Hauptstadt der britischen Kolonie Süd-Kamerun.",
-                  "category": "landmark",
-                  "coords": [
-                        9.202659,
-                        4.002984
-                  ]
-            },
-            {
-                  "name": "Limbe Botanical Gardens",
-                  "text": "Der Botanische Garten in Limbe, einer der ältesten in Afrika.",
-                  "category": "landmark",
-                  "coords": [
-                        9.200329,
-                        4.012738
-                  ]
-            },
-            {
-                  "name": "Monument Alfred Saker",
-                  "text": "Denkmal für den Missionar Alfred Saker in Limbe, nahe der Küste.",
-                  "category": "historical",
-                  "coords": [
-                        9.208445,
-                        4.006304
-                  ]
-            },
-            {
-                  "name": "Tali Residence",
-                  "text": "Privates Anwesen mit großem Garten und Meerblick in Limbe.",
-                  "category": "natural",
-                  "coords": [
-                        9.200383,
-                        4.030241
-                  ]
-            },
-            {
-                  "name": "Enow A. Residence",
-                  "text": "Wohnhaus mit umliegender Natur und tropischer Vegetation in Limbe.",
-                  "category": "natural",
-                  "coords": [
-                        9.194415,
-                        4.019413
-                  ]
-            },
-            {
                   "name": "wimbum cultural and development association",
                   "text": "Kulturverein der Wimbum in Limbe zur Förderung ihrer Traditionen.",
                   "category": "cultural",
@@ -2567,60 +2333,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                   "coords": [
                         9.197516,
                         4.016889
-                  ]
-            },
-            {
-                  "name": "\"Jungle Village\" Open Air Theatre",
-                  "text": "Szabadtéri színház dzsungelkertben Limbe-ben, trópusi hangulattal.",
-                  "category": "cultural",
-                  "coords": [
-                        9.203954,
-                        4.01133
-                  ]
-            },
-            {
-                  "name": "Ambas Bay",
-                  "text": "Az Ambas-öböl Limbe városában, a Brit Dél-Kamerun egykori fővárosának helyszíne.",
-                  "category": "landmark",
-                  "coords": [
-                        9.202659,
-                        4.002984
-                  ]
-            },
-            {
-                  "name": "Limbe Botanical Gardens",
-                  "text": "A limbei botanikus kert, amely Afrika egyik legrégebbi ilyen létesítménye.",
-                  "category": "landmark",
-                  "coords": [
-                        9.200329,
-                        4.012738
-                  ]
-            },
-            {
-                  "name": "Monument Alfred Saker",
-                  "text": "Alfred Saker misszionárius emlékműve Limbe-ben, a tengerpart közelében.",
-                  "category": "historical",
-                  "coords": [
-                        9.208445,
-                        4.006304
-                  ]
-            },
-            {
-                  "name": "Tali Residence",
-                  "text": "Magánbirtok nagy kerttel és tengerre néző kilátással Limbe-ben.",
-                  "category": "natural",
-                  "coords": [
-                        9.200383,
-                        4.030241
-                  ]
-            },
-            {
-                  "name": "Enow A. Residence",
-                  "text": "Lakóház környező természettel és trópusi növényzettel Limbe-ben.",
-                  "category": "natural",
-                  "coords": [
-                        9.194415,
-                        4.019413
                   ]
             },
             {
@@ -2644,60 +2356,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Jungle Village\" Open Air Theatre",
-                  "text": "Teatru în aer liber într-o grădină de junglă în Limbe, cu atmosferă tropicală.",
-                  "category": "cultural",
-                  "coords": [
-                        9.203954,
-                        4.01133
-                  ]
-            },
-            {
-                  "name": "Ambas Bay",
-                  "text": "Golful Ambas din Limbe, fosta capitală a coloniei Camerunului de Sud.",
-                  "category": "landmark",
-                  "coords": [
-                        9.202659,
-                        4.002984
-                  ]
-            },
-            {
-                  "name": "Limbe Botanical Gardens",
-                  "text": "Grădina Botanică din Limbe, una dintre cele mai vechi din Africa.",
-                  "category": "landmark",
-                  "coords": [
-                        9.200329,
-                        4.012738
-                  ]
-            },
-            {
-                  "name": "Monument Alfred Saker",
-                  "text": "Monument al misionarului Alfred Saker în Limbe, lângă coastă.",
-                  "category": "historical",
-                  "coords": [
-                        9.208445,
-                        4.006304
-                  ]
-            },
-            {
-                  "name": "Tali Residence",
-                  "text": "Proprietate privată cu grădină mare și vedere la mare în Limbe.",
-                  "category": "natural",
-                  "coords": [
-                        9.200383,
-                        4.030241
-                  ]
-            },
-            {
-                  "name": "Enow A. Residence",
-                  "text": "Casă de locuit cu natură înconjurătoare și vegetație tropicală în Limbe.",
-                  "category": "natural",
-                  "coords": [
-                        9.194415,
-                        4.019413
-                  ]
-            },
-            {
                   "name": "wimbum cultural and development association",
                   "text": "Asociația culturală Wimbum în Limbe pentru promovarea tradițiilor lor.",
                   "category": "cultural",
@@ -2715,60 +2373,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                   "coords": [
                         9.197516,
                         4.016889
-                  ]
-            },
-            {
-                  "name": "\"Jungle Village\" Open Air Theatre",
-                  "text": "Open-air theatre in a jungle garden in Limbe, with a tropical atmosphere.",
-                  "category": "cultural",
-                  "coords": [
-                        9.203954,
-                        4.01133
-                  ]
-            },
-            {
-                  "name": "Ambas Bay",
-                  "text": "Ambas Bay in Limbe, historically the capital of the British Southern Cameroons colony.",
-                  "category": "landmark",
-                  "coords": [
-                        9.202659,
-                        4.002984
-                  ]
-            },
-            {
-                  "name": "Limbe Botanical Gardens",
-                  "text": "The Limbe Botanical Gardens, established as one of the oldest in Africa.",
-                  "category": "landmark",
-                  "coords": [
-                        9.200329,
-                        4.012738
-                  ]
-            },
-            {
-                  "name": "Monument Alfred Saker",
-                  "text": "Monument to missionary Alfred Saker in Limbe, near the coast.",
-                  "category": "historical",
-                  "coords": [
-                        9.208445,
-                        4.006304
-                  ]
-            },
-            {
-                  "name": "Tali Residence",
-                  "text": "Private estate with a large garden and ocean view in Limbe.",
-                  "category": "natural",
-                  "coords": [
-                        9.200383,
-                        4.030241
-                  ]
-            },
-            {
-                  "name": "Enow A. Residence",
-                  "text": "Residential house with surrounding nature and tropical vegetation in Limbe.",
-                  "category": "natural",
-                  "coords": [
-                        9.194415,
-                        4.019413
                   ]
             },
             {
@@ -3785,15 +3389,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                         10.409635,
                         5.34973
                   ]
-            },
-            {
-                  "name": "Roi KAMGA Joseph II",
-                  "text": "Denkmal für König Kamga Joseph II. im Häuptlingshof von Bandjoun.",
-                  "category": "historical",
-                  "coords": [
-                        10.408469,
-                        5.350232
-                  ]
             }
       ],
       "hu": [
@@ -3804,15 +3399,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                   "coords": [
                         10.409635,
                         5.34973
-                  ]
-            },
-            {
-                  "name": "Roi KAMGA Joseph II",
-                  "text": "Kamga Joseph II. király emlékműve a bandjouni főnöki udvarban.",
-                  "category": "historical",
-                  "coords": [
-                        10.408469,
-                        5.350232
                   ]
             }
       ],
@@ -3825,15 +3411,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                         10.409635,
                         5.34973
                   ]
-            },
-            {
-                  "name": "Roi KAMGA Joseph II",
-                  "text": "Monument al regelui Kamga Joseph al II-lea în curtea șefului din Bandjoun.",
-                  "category": "historical",
-                  "coords": [
-                        10.408469,
-                        5.350232
-                  ]
             }
       ],
       "en": [
@@ -3844,15 +3421,6 @@ export const poiExtraCameroonCitiesV2: POI[] = [
                   "coords": [
                         10.409635,
                         5.34973
-                  ]
-            },
-            {
-                  "name": "Roi KAMGA Joseph II",
-                  "text": "Monument to King Kamga Joseph II in the chieftaincy courtyard of Bandjoun.",
-                  "category": "historical",
-                  "coords": [
-                        10.408469,
-                        5.350232
                   ]
             }
       ]

@@ -1255,50 +1255,10 @@ export const poiExtraMozambiqueLifeV2: POI[] = [
   },
   {
     id: "vilankulo-marine-kid-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Sunset Dhow Safari",
-                  "text": "Erleben Sie einen traditionellen Segeltörn zum Sonnenuntergang auf einem hölzernen Dhau an der Küste von Vilankulo.",
-                  "category": "landmark",
-                  "coords": [
-                        35.319748,
-                        -22.009535
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Sunset Dhow Safari",
-                  "text": "Vegyen részt egy hagyományos naplementés vitorlázáson egy fából készült dhow hajón Vilankulo partjainál.",
-                  "category": "landmark",
-                  "coords": [
-                        35.319748,
-                        -22.009535
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Sunset Dhow Safari",
-                  "text": "Experimentați o excursie tradițională la apus de soare pe un dhow de lemn de-a lungul coastei din Vilankulo.",
-                  "category": "landmark",
-                  "coords": [
-                        35.319748,
-                        -22.009535
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Sunset Dhow Safari",
-                  "text": "Experience a traditional sunset sailing trip on a wooden dhow along the coast of Vilankulo.",
-                  "category": "landmark",
-                  "coords": [
-                        35.319748,
-                        -22.009535
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "kid-landmark",
     parent: "MZ-IN",

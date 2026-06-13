@@ -1033,15 +1033,6 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
                   ]
             },
             {
-                  "name": "Junker Jägares sten",
-                  "text": "Ein riesiger Findling im Tiveden-Nationalpark, der mit lokalen Volkssagen verbunden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        14.576377,
-                        58.73315
-                  ]
-            },
-            {
                   "name": "Stora Trollkyrkan",
                   "text": "Ein markanter Felsgipfel im Tiveden-Nationalpark mit weitem Blick über die Wildnis.",
                   "category": "landmark",
@@ -1104,15 +1095,6 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
                   "coords": [
                         14.584457,
                         58.720777
-                  ]
-            },
-            {
-                  "name": "Junker Jägares sten",
-                  "text": "Hatalmas vándorkő a Tiveden Nemzeti Parkban, amelyhez helyi népi legendák fűződnek.",
-                  "category": "landmark",
-                  "coords": [
-                        14.576377,
-                        58.73315
                   ]
             },
             {
@@ -1181,15 +1163,6 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
                   ]
             },
             {
-                  "name": "Junker Jägares sten",
-                  "text": "Un bolovan erratic masiv în Parcul Național Tiveden, asociat cu legende populare locale.",
-                  "category": "landmark",
-                  "coords": [
-                        14.576377,
-                        58.73315
-                  ]
-            },
-            {
                   "name": "Stora Trollkyrkan",
                   "text": "Un vârf stâncos proeminent în Parcul Național Tiveden, care oferă vederi vaste asupra sălbăticiei.",
                   "category": "landmark",
@@ -1252,15 +1225,6 @@ imageHint: "Kosterhavet National Park marine landscape and islands",
                   "coords": [
                         14.584457,
                         58.720777
-                  ]
-            },
-            {
-                  "name": "Junker Jägares sten",
-                  "text": "A massive erratic boulder in Tiveden National Park associated with local folk legends.",
-                  "category": "landmark",
-                  "coords": [
-                        14.576377,
-                        58.73315
                   ]
             },
             {
@@ -4116,33 +4080,6 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   ]
             },
             {
-                  "name": "Kullens fyr",
-                  "text": "Schwedens lichtstärkster Leuchtturm an der Spitze der Halbinsel Kullaberg.",
-                  "category": "landmark",
-                  "coords": [
-                        12.451522,
-                        56.301025
-                  ]
-            },
-            {
-                  "name": "Kullabergs naturreservat",
-                  "text": "Ein felsiges Naturschutzgebiet an der Küste mit reicher Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        12.46904,
-                        56.297218
-                  ]
-            },
-            {
-                  "name": "Kullamannens grav",
-                  "text": "Eine archäologische Stätte im Kullaberg-Reservat, die mit lokalen Legenden verbunden ist.",
-                  "category": "historical",
-                  "coords": [
-                        12.480276,
-                        56.294028
-                  ]
-            },
-            {
                   "name": "Silvergrottan",
                   "text": "Eine künstliche Höhle am Kullaberg, die einst zur Silbersuche angelegt wurde.",
                   "category": "landmark",
@@ -4152,39 +4089,12 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   ]
             },
             {
-                  "name": "Söftingsgrottan",
-                  "text": "Eine der vielen natürlichen Küstenhöhlen des Kullaberg-Massivs.",
-                  "category": "landmark",
-                  "coords": [
-                        12.505707,
-                        56.295537
-                  ]
-            },
-            {
                   "name": "Visitgrottan",
                   "text": "Eine bekannte Meereshöhle am Kullaberg, die bei Wanderern beliebt ist.",
                   "category": "landmark",
                   "coords": [
                         12.463367,
                         56.302228
-                  ]
-            },
-            {
-                  "name": "Nakenbad för damer",
-                  "text": "Ein spezieller Badebereich für Damen im Naturschutzgebiet Kullaberg.",
-                  "category": "recreational",
-                  "coords": [
-                        12.486002,
-                        56.288833
-                  ]
-            },
-            {
-                  "name": "Fågelviken",
-                  "text": "Ein Badeort an der Küste des Naturschutzgebiets Kullaberg.",
-                  "category": "recreational",
-                  "coords": [
-                        12.49717,
-                        56.279202
                   ]
             }
       ],
@@ -4199,33 +4109,6 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   ]
             },
             {
-                  "name": "Kullens fyr",
-                  "text": "Svédország legerősebb fényű világítótornya a Kullaberg-félsziget csúcsán.",
-                  "category": "landmark",
-                  "coords": [
-                        12.451522,
-                        56.301025
-                  ]
-            },
-            {
-                  "name": "Kullabergs naturreservat",
-                  "text": "Sziklás tengerparti természetvédelmi terület gazdag élővilággal.",
-                  "category": "natural",
-                  "coords": [
-                        12.46904,
-                        56.297218
-                  ]
-            },
-            {
-                  "name": "Kullamannens grav",
-                  "text": "Régészeti lelőhely a Kullaberg rezervátumban, helyi legendákhoz kötődve.",
-                  "category": "historical",
-                  "coords": [
-                        12.480276,
-                        56.294028
-                  ]
-            },
-            {
                   "name": "Silvergrottan",
                   "text": "Mesterséges barlang a Kullabergen, amelyet egykor ezüst után kutatva vájtak.",
                   "category": "landmark",
@@ -4235,39 +4118,12 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   ]
             },
             {
-                  "name": "Söftingsgrottan",
-                  "text": "A Kullaberg-masszívum számos természetes tengerparti barlangjának egyike.",
-                  "category": "landmark",
-                  "coords": [
-                        12.505707,
-                        56.295537
-                  ]
-            },
-            {
                   "name": "Visitgrottan",
                   "text": "Népszerű tengeri barlang a Kullabergen, a túrázók kedvelt célpontja.",
                   "category": "landmark",
                   "coords": [
                         12.463367,
                         56.302228
-                  ]
-            },
-            {
-                  "name": "Nakenbad för damer",
-                  "text": "Női strandrész a Kullaberg természetvédelmi területen.",
-                  "category": "recreational",
-                  "coords": [
-                        12.486002,
-                        56.288833
-                  ]
-            },
-            {
-                  "name": "Fågelviken",
-                  "text": "Fürdőhely a Kullaberg természetvédelmi terület partvidékén.",
-                  "category": "recreational",
-                  "coords": [
-                        12.49717,
-                        56.279202
                   ]
             }
       ],
@@ -4282,33 +4138,6 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   ]
             },
             {
-                  "name": "Kullens fyr",
-                  "text": "Cel mai puternic far din Suedia, situat în vârful peninsulei Kullaberg.",
-                  "category": "landmark",
-                  "coords": [
-                        12.451522,
-                        56.301025
-                  ]
-            },
-            {
-                  "name": "Kullabergs naturreservat",
-                  "text": "O rezervație naturală de coastă, stâncoasă, cu o floră și faună bogată.",
-                  "category": "natural",
-                  "coords": [
-                        12.46904,
-                        56.297218
-                  ]
-            },
-            {
-                  "name": "Kullamannens grav",
-                  "text": "Un sit arheologic în rezervația Kullaberg, legat de legende locale.",
-                  "category": "historical",
-                  "coords": [
-                        12.480276,
-                        56.294028
-                  ]
-            },
-            {
                   "name": "Silvergrottan",
                   "text": "O peșteră artificială la Kullaberg, săpată odinioară în căutarea argintului.",
                   "category": "landmark",
@@ -4318,39 +4147,12 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   ]
             },
             {
-                  "name": "Söftingsgrottan",
-                  "text": "Una dintre numeroasele peșteri naturale de coastă din masivul Kullaberg.",
-                  "category": "landmark",
-                  "coords": [
-                        12.505707,
-                        56.295537
-                  ]
-            },
-            {
                   "name": "Visitgrottan",
                   "text": "O peșteră marină cunoscută la Kullaberg, populară printre drumeți.",
                   "category": "landmark",
                   "coords": [
                         12.463367,
                         56.302228
-                  ]
-            },
-            {
-                  "name": "Nakenbad för damer",
-                  "text": "O zonă de scăldat dedicată doamnelor în rezervația naturală Kullaberg.",
-                  "category": "recreational",
-                  "coords": [
-                        12.486002,
-                        56.288833
-                  ]
-            },
-            {
-                  "name": "Fågelviken",
-                  "text": "O locație pentru scăldat pe coasta rezervației naturale Kullaberg.",
-                  "category": "recreational",
-                  "coords": [
-                        12.49717,
-                        56.279202
                   ]
             }
       ],
@@ -4365,33 +4167,6 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   ]
             },
             {
-                  "name": "Kullen Lighthouse",
-                  "text": "Sweden's most powerful lighthouse, located at the tip of the Kullaberg peninsula.",
-                  "category": "landmark",
-                  "coords": [
-                        12.451522,
-                        56.301025
-                  ]
-            },
-            {
-                  "name": "Kullabergs naturreservat",
-                  "text": "A rocky coastal nature reserve known for its diverse wildlife and hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        12.46904,
-                        56.297218
-                  ]
-            },
-            {
-                  "name": "Kullamannens grav",
-                  "text": "An archaeological site in the Kullaberg reserve associated with local legends.",
-                  "category": "historical",
-                  "coords": [
-                        12.480276,
-                        56.294028
-                  ]
-            },
-            {
                   "name": "Silvergrottan",
                   "text": "A man-made cave at Kullaberg, originally excavated during a search for silver.",
                   "category": "landmark",
@@ -4401,39 +4176,12 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   ]
             },
             {
-                  "name": "Söftingsgrottan",
-                  "text": "One of the several natural coastal caves found in the Kullaberg massif.",
-                  "category": "landmark",
-                  "coords": [
-                        12.505707,
-                        56.295537
-                  ]
-            },
-            {
                   "name": "Visitgrottan",
                   "text": "A well-known sea cave at Kullaberg, frequently visited by hikers.",
                   "category": "landmark",
                   "coords": [
                         12.463367,
                         56.302228
-                  ]
-            },
-            {
-                  "name": "Nude bath for Ladies",
-                  "text": "A designated swimming area for ladies within the Kullaberg Nature Reserve.",
-                  "category": "recreational",
-                  "coords": [
-                        12.486002,
-                        56.288833
-                  ]
-            },
-            {
-                  "name": "Fågelviken",
-                  "text": "A coastal bathing location in the Kullaberg Nature Reserve.",
-                  "category": "recreational",
-                  "coords": [
-                        12.49717,
-                        56.279202
                   ]
             }
       ]
@@ -4486,24 +4234,6 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
     id: "sweden-soderasen-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Nackarps naturreservat",
-                  "text": "Naturschutzgebiet mit dramatischer Landschaft und üppigen Wäldern in Söderåsen.",
-                  "category": "natural",
-                  "coords": [
-                        13.283201,
-                        56.008238
-                  ]
-            },
-            {
-                  "name": "Söderåsens Älgpark",
-                  "text": "Wildpark, in dem Besucher Elche in ihrem natürlichen Lebensraum beobachten können.",
-                  "category": "recreational",
-                  "coords": [
-                        13.23457,
-                        56.016966
-                  ]
-            },
-            {
                   "name": "Rårödspågen",
                   "text": "Aussichtspunkt mit weitem Blick über die Landschaft von Söderåsen.",
                   "category": "natural",
@@ -4547,36 +4277,9 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                         13.227427,
                         56.040115
                   ]
-            },
-            {
-                  "name": "Röstångabadet",
-                  "text": "Ein Wasserpark am Rande des Nationalparks Söderåsen in Schweden.",
-                  "category": "recreational",
-                  "coords": [
-                        13.280954,
-                        55.996255
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Nackarps naturreservat",
-                  "text": "Természetvédelmi terület látványos tájjal és sűrű erdőkkel a Söderåsen parkban.",
-                  "category": "natural",
-                  "coords": [
-                        13.283201,
-                        56.008238
-                  ]
-            },
-            {
-                  "name": "Söderåsens Älgpark",
-                  "text": "Vadaspark, ahol a látogatók természetes élőhelyükön figyelhetik meg a jávorszarvasokat.",
-                  "category": "recreational",
-                  "coords": [
-                        13.23457,
-                        56.016966
-                  ]
-            },
             {
                   "name": "Rårödspågen",
                   "text": "Kilátópont, ahonnan panoráma nyílik a Söderåsen tájaira.",
@@ -4621,36 +4324,9 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                         13.227427,
                         56.040115
                   ]
-            },
-            {
-                  "name": "Röstångabadet",
-                  "text": "Vízipark a svédországi Söderåsen Nemzeti Park szélén.",
-                  "category": "recreational",
-                  "coords": [
-                        13.280954,
-                        55.996255
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Nackarps naturreservat",
-                  "text": "Rezervație naturală cu peisaje dramatice și păduri dese în Söderåsen.",
-                  "category": "natural",
-                  "coords": [
-                        13.283201,
-                        56.008238
-                  ]
-            },
-            {
-                  "name": "Söderåsens Älgpark",
-                  "text": "Parc de animale sălbatice unde vizitatorii pot observa elani în habitatul lor natural.",
-                  "category": "recreational",
-                  "coords": [
-                        13.23457,
-                        56.016966
-                  ]
-            },
             {
                   "name": "Rårödspågen",
                   "text": "Punct de observație oferind panorame asupra peisajului Söderåsen.",
@@ -4695,36 +4371,9 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                         13.227427,
                         56.040115
                   ]
-            },
-            {
-                  "name": "Röstångabadet",
-                  "text": "Un parc acvatic situat la marginea Parcului Național Söderåsen din Suedia.",
-                  "category": "recreational",
-                  "coords": [
-                        13.280954,
-                        55.996255
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Nackarps naturreservat",
-                  "text": "Nature reserve featuring dramatic landscape and lush forests within Söderåsen.",
-                  "category": "natural",
-                  "coords": [
-                        13.283201,
-                        56.008238
-                  ]
-            },
-            {
-                  "name": "Söderåsens Älgpark",
-                  "text": "Wildlife park where visitors can observe elk in their natural habitat.",
-                  "category": "recreational",
-                  "coords": [
-                        13.23457,
-                        56.016966
-                  ]
-            },
             {
                   "name": "Rårödspågen",
                   "text": "Scenic viewpoint offering vistas over the Söderåsen landscape.",
@@ -4768,15 +4417,6 @@ imageHint: "Skansen Zoo brown bear in rocky enclosure",
                   "coords": [
                         13.227427,
                         56.040115
-                  ]
-            },
-            {
-                  "name": "Röstångabadet",
-                  "text": "A water park located at the edge of the Söderåsen National Park in Sweden.",
-                  "category": "recreational",
-                  "coords": [
-                        13.280954,
-                        55.996255
                   ]
             }
       ]

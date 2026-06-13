@@ -506,15 +506,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "np-kopan-monastery-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Narayan Gopal Chowk",
-                  "text": "Dieser belebte Platz ist nach dem legendären nepalesischen Sänger Narayan Gopal, dem „König der Melodien“, benannt.",
-                  "category": "historical",
-                  "coords": [
-                        85.33707,
-                        27.740023
-                  ]
-            },
-            {
                   "name": "Sankha",
                   "text": "Ein dekoratives Denkmal in Form einer heiligen Muschelschale, ein wichtiges Glückssymbol in der Hindukultur.",
                   "category": "historical",
@@ -575,15 +566,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   "coords": [
                         85.376483,
                         27.743529
-                  ]
-            },
-            {
-                  "name": "Er. Abeey Poudel Flat",
-                  "text": "Ein lokales markantes Gebäude im Wohngebiet in der Nähe des Kopan-Klosters.",
-                  "category": "landmark",
-                  "coords": [
-                        85.339763,
-                        27.749295
                   ]
             },
             {
@@ -787,15 +769,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Narayan Gopal Chowk",
-                  "text": "Ez a forgalmas tér a legendás nepáli énekesről, Narayan Gopalról, a „Dallamok Királyáról” kapta a nevét.",
-                  "category": "historical",
-                  "coords": [
-                        85.33707,
-                        27.740023
-                  ]
-            },
-            {
                   "name": "Sankha",
                   "text": "Szent kagylókürt formájú dekoratív emlékmű, amely a hindu kultúra egyik fontos szerencseszimbóluma.",
                   "category": "historical",
@@ -856,15 +829,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   "coords": [
                         85.376483,
                         27.743529
-                  ]
-            },
-            {
-                  "name": "Er. Abeey Poudel Flat",
-                  "text": "Helyi tájékozódási pontnak számító épület a Kopan-kolostor melletti lakónegyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        85.339763,
-                        27.749295
                   ]
             },
             {
@@ -1068,15 +1032,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Narayan Gopal Chowk",
-                  "text": "Această intersecție aglomerată poartă numele legendarului cântăreț nepalez Narayan Gopal, supranumit „Regele Melodiilor”.",
-                  "category": "historical",
-                  "coords": [
-                        85.33707,
-                        27.740023
-                  ]
-            },
-            {
                   "name": "Sankha",
                   "text": "Un monument decorativ în formă de cochilie sacră, un simbol important al norocului în cultura hindu.",
                   "category": "historical",
@@ -1137,15 +1092,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   "coords": [
                         85.376483,
                         27.743529
-                  ]
-            },
-            {
-                  "name": "Er. Abeey Poudel Flat",
-                  "text": "O clădire reper locală situată în zona rezidențială de lângă mănăstirea Kopan.",
-                  "category": "landmark",
-                  "coords": [
-                        85.339763,
-                        27.749295
                   ]
             },
             {
@@ -1349,15 +1295,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Narayan Gopal Chowk",
-                  "text": "This busy square is named after the legendary Nepali singer Narayan Gopal, known as the 'King of Melody'.",
-                  "category": "historical",
-                  "coords": [
-                        85.33707,
-                        27.740023
-                  ]
-            },
-            {
                   "name": "Sankha",
                   "text": "A decorative monument shaped like a sacred conch shell, an important symbol of luck in Hindu culture.",
                   "category": "historical",
@@ -1418,15 +1355,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   "coords": [
                         85.376483,
                         27.743529
-                  ]
-            },
-            {
-                  "name": "Er. Abhiyan Poudel Flat",
-                  "text": "A local landmark building situated in the residential area near Kopan Monastery.",
-                  "category": "landmark",
-                  "coords": [
-                        85.339763,
-                        27.749295
                   ]
             },
             {
@@ -7718,15 +7646,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Destination Art Gallery",
-                  "text": "Ein zeitgenössischer Kunstraum, in dem lokale nepalesische Gemälde und Kunsthandwerk ausgestellt werden.",
-                  "category": "museum",
-                  "coords": [
-                        85.328886,
-                        27.786863
-                  ]
-            },
-            {
                   "name": "Surya Chaur",
                   "text": "Ein hochgelegener Aussichtspunkt mit Panoramablick auf die Langtang-Himalaya-Kette und das Kathmandutal.",
                   "category": "natural",
@@ -7742,15 +7661,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   "coords": [
                         85.315592,
                         27.813554
-                  ]
-            },
-            {
-                  "name": "Jestha Nagarik Bishram Esthal",
-                  "text": "Ein ruhiger Gemeinschaftspark und Rastplatz, der speziell für Senioren konzipiert wurde.",
-                  "category": "recreational",
-                  "coords": [
-                        85.366307,
-                        27.762091
                   ]
             },
             {
@@ -7999,15 +7909,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Destination Art Gallery",
-                  "text": "Kortárs művészeti galéria, ahol helyi nepáli festményeket és kézműves tárgyakat mutatnak be.",
-                  "category": "museum",
-                  "coords": [
-                        85.328886,
-                        27.786863
-                  ]
-            },
-            {
                   "name": "Surya Chaur",
                   "text": "Magaslati kilátópont, ahonnan panorámás kilátás nyílik a Langtang-Himalája vonulataira és a Katmandu-völgyre.",
                   "category": "natural",
@@ -8023,15 +7924,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   "coords": [
                         85.315592,
                         27.813554
-                  ]
-            },
-            {
-                  "name": "Jestha Nagarik Bishram Esthal",
-                  "text": "Nyugodt közösségi park és pihenőhely, amelyet kifejezetten idősek számára alakítottak ki.",
-                  "category": "recreational",
-                  "coords": [
-                        85.366307,
-                        27.762091
                   ]
             },
             {
@@ -8280,15 +8172,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Destination Art Gallery",
-                  "text": "Un spațiu de artă contemporană care expune picturi și obiecte de artizanat locale nepaleze.",
-                  "category": "museum",
-                  "coords": [
-                        85.328886,
-                        27.786863
-                  ]
-            },
-            {
                   "name": "Surya Chaur",
                   "text": "Un punct de belvedere la mare altitudine, care oferă vederi panoramice asupra lanțului Himalayan Langtang și a văii Kathmandu.",
                   "category": "natural",
@@ -8304,15 +8187,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   "coords": [
                         85.315592,
                         27.813554
-                  ]
-            },
-            {
-                  "name": "Jestha Nagarik Bishram Esthal",
-                  "text": "Un parc comunitar liniștit și o zonă de odihnă concepute special pentru persoanele în vârstă.",
-                  "category": "recreational",
-                  "coords": [
-                        85.366307,
-                        27.762091
                   ]
             },
             {
@@ -8561,15 +8435,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Destination Art Gallery",
-                  "text": "A contemporary art space showcasing local Nepalese paintings and crafts.",
-                  "category": "museum",
-                  "coords": [
-                        85.328886,
-                        27.786863
-                  ]
-            },
-            {
                   "name": "Surya Chaur",
                   "text": "A high-altitude viewpoint offering panoramic vistas of the Langtang Himalayan range and Kathmandu Valley.",
                   "category": "natural",
@@ -8585,15 +8450,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
                   "coords": [
                         85.315592,
                         27.813554
-                  ]
-            },
-            {
-                  "name": "Jestha Nagarik Bishram Esthal",
-                  "text": "A tranquil community park and rest area designed specifically for senior citizens.",
-                  "category": "recreational",
-                  "coords": [
-                        85.366307,
-                        27.762091
                   ]
             },
             {
@@ -10705,15 +10561,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
     id: "np-guhyeshwari-temple-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Birendra Chwok",
-                  "text": "Ein öffentlicher Platz in Kathmandu, der nach dem verstorbenen König Birendra benannt ist und ein Denkmal zu seinen Ehren beherbergt.",
-                  "category": "historical",
-                  "coords": [
-                        85.373971,
-                        27.698713
-                  ]
-            },
-            {
                   "name": "Radha Krishna Temple",
                   "text": "Dieser Hindutempel ist Radha und Krishna gewidmet und zeichnet sich durch seine farbenfrohen Statuen und spirituellen Gesänge aus.",
                   "category": "religious",
@@ -10913,15 +10760,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Birendra Chwok",
-                  "text": "Központi tér Katmanduban, amelyet a néhai Birendra királyról neveztek el, és egy emlékmű áll rajta a tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        85.373971,
-                        27.698713
-                  ]
-            },
             {
                   "name": "Radha Krishna Temple",
                   "text": "Ez a hindu templom Radhának és Krisnának van szentelve, színes szobrai és spirituális énekei teszik különlegessé.",
@@ -11123,15 +10961,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Birendra Chwok",
-                  "text": "O piață publică în Kathmandu numită după regretatul rege Birendra, găzduind un monument în onoarea sa.",
-                  "category": "historical",
-                  "coords": [
-                        85.373971,
-                        27.698713
-                  ]
-            },
-            {
                   "name": "Radha Krishna Temple",
                   "text": "Acest templu hindu este dedicat lui Radha și Krishna, remarcându-se prin statuile sale colorate și cântările spirituale.",
                   "category": "religious",
@@ -11331,15 +11160,6 @@ export const poiExtraNepalLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Birendra Chwok",
-                  "text": "A public square in Kathmandu named after the late King Birendra, featuring a monument in his honor.",
-                  "category": "historical",
-                  "coords": [
-                        85.373971,
-                        27.698713
-                  ]
-            },
             {
                   "name": "Radha Krishna Temple",
                   "text": "This Hindu temple is dedicated to Radha and Krishna, characterized by its colorful statues and spiritual chants.",

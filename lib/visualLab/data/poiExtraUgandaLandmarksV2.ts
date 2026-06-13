@@ -372,15 +372,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naguru Hill",
-                  "text": "Dieser große Hügel erhebt sich markant über die Stadt und beherbergt gehobene Wohngebiete und Telekommunikationsmasten.",
-                  "category": "natural",
-                  "coords": [
-                        32.605012,
-                        0.346895
-                  ]
-            },
-            {
                   "name": "Ndere Centre",
                   "text": "Dieses lebendige Kulturtheater ist berühmt für seine spektakulären traditionellen ugandischen Musik- und Tanzaufführungen.",
                   "category": "cultural",
@@ -434,15 +425,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                   "coords": [
                         32.604151,
                         0.42663
-                  ]
-            },
-            {
-                  "name": "Naguru Hill",
-                  "text": "A város fölé magasodó domb exkluzív lakóövezeteknek és telekommunikációs árbocoknak ad otthont.",
-                  "category": "natural",
-                  "coords": [
-                        32.605012,
-                        0.346895
                   ]
             },
             {
@@ -502,15 +484,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naguru Hill",
-                  "text": "Ridicându-se proeminent deasupra orașului, acest deal major găzduiește zone rezidențiale de lux și antene de telecomunicații.",
-                  "category": "natural",
-                  "coords": [
-                        32.605012,
-                        0.346895
-                  ]
-            },
-            {
                   "name": "Ndere Centre",
                   "text": "Acest teatru cultural vibrant este renumit pentru spectaculoasele sale reprezentații de muzică și dans tradițional ugandez.",
                   "category": "cultural",
@@ -564,15 +537,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                   "coords": [
                         32.604151,
                         0.42663
-                  ]
-            },
-            {
-                  "name": "Naguru Hill",
-                  "text": "Rising prominently above the city, this major hill is home to upscale residential areas and telecommunication masts.",
-                  "category": "natural",
-                  "coords": [
-                        32.605012,
-                        0.346895
                   ]
             },
             {
@@ -793,15 +757,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                         32.612149,
                         0.329772
                   ]
-            },
-            {
-                  "name": "Lugogo Show Grounds",
-                  "text": "Das Lugogo Show Grounds ist ein weitläufiges Ausstellungs- und Kunstzentrum, das große Messen und Konzerte in Kampala veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        32.609065,
-                        0.326653
-                  ]
             }
       ],
       "hu": [
@@ -830,15 +785,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                   "coords": [
                         32.612149,
                         0.329772
-                  ]
-            },
-            {
-                  "name": "Lugogo Show Grounds",
-                  "text": "A Lugogo Show Grounds egy tágas kiállítási és művészeti központ, amely nagy szakmai vásároknak és koncerteknek ad otthont Kampalában.",
-                  "category": "cultural",
-                  "coords": [
-                        32.609065,
-                        0.326653
                   ]
             }
       ],
@@ -869,15 +815,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                         32.612149,
                         0.329772
                   ]
-            },
-            {
-                  "name": "Lugogo Show Grounds",
-                  "text": "Lugogo Show Grounds este un centru spațios de expoziții și arte, care găzduiește târguri comerciale majore și concerte în Kampala.",
-                  "category": "cultural",
-                  "coords": [
-                        32.609065,
-                        0.326653
-                  ]
             }
       ],
       "en": [
@@ -906,15 +843,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                   "coords": [
                         32.612149,
                         0.329772
-                  ]
-            },
-            {
-                  "name": "Lugogo Show Grounds",
-                  "text": "Lugogo Show Grounds is a spacious exhibition and arts center that hosts major trade fairs and concerts in Kampala.",
-                  "category": "cultural",
-                  "coords": [
-                        32.609065,
-                        0.326653
                   ]
             }
       ]
@@ -2286,15 +2214,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "ug-kibuli-mosque-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "URA MUSEUM",
-                  "text": "Dieses von der ugandischen Steuerbehörde betriebene Spezialmuseum zeigt die Geschichte der Steuern und des Handels im Land.",
-                  "category": "museum",
-                  "coords": [
-                        32.618759,
-                        0.329861
-                  ]
-            },
-            {
                   "name": "Afriart on 7th",
                   "text": "Diese prominente zeitgenössische Galerie in einem Industriegebiet präsentiert innovative Werke aufstrebender afrikanischer bildender Künstler.",
                   "category": "museum",
@@ -2323,15 +2242,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "URA MUSEUM",
-                  "text": "Az Ugandai Adóhatóság által fenntartott szakkülönlegességű múzeum a nemzet adózásának és kereskedelmének történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        32.618759,
-                        0.329861
-                  ]
-            },
             {
                   "name": "Afriart on 7th",
                   "text": "Az ipari övezetben található kiemelkedő kortárs galéria feltörekvő afrikai vizuális művészek innovatív alkotásait emeli ki.",
@@ -2362,15 +2272,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "URA MUSEUM",
-                  "text": "Administrat de Autoritatea Fiscală din Uganda, acest muzeu specializat prezintă istoria fiscalității și a comerțului din țară.",
-                  "category": "museum",
-                  "coords": [
-                        32.618759,
-                        0.329861
-                  ]
-            },
-            {
                   "name": "Afriart on 7th",
                   "text": "Situată într-o zonă industrială, această galerie contemporană proeminentă evidențiază lucrări inovatoare ale artiștilor vizuali africani emergenți.",
                   "category": "museum",
@@ -2399,15 +2300,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "URA MUSEUM",
-                  "text": "Run by the Uganda Revenue Authority, this specialized museum showcases the history of taxation and trade in the nation.",
-                  "category": "museum",
-                  "coords": [
-                        32.618759,
-                        0.329861
-                  ]
-            },
             {
                   "name": "Afriart on 7th",
                   "text": "Located in an industrial area, this prominent contemporary gallery highlights innovative works by emerging African visual artists.",
@@ -2841,15 +2733,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
     id: "ug-namiryango-college-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "HAM MUKASA MUSEUM",
-                  "text": "Dieses historische Museum bewahrt das Erbe und die persönlichen Artefakte des prominenten Buganda-Gelehrten Ham Mukasa.",
-                  "category": "museum",
-                  "coords": [
-                        32.756323,
-                        0.366729
-                  ]
-            },
-            {
                   "name": "Wakiso guest House",
                   "text": "Diese Pension dient als lokale Unterkunft und bietet Übernachtungsmöglichkeiten für Besucher, die den Bezirk Wakiso bereisen.",
                   "category": "landmark",
@@ -2857,27 +2740,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                         32.801485,
                         0.329963
                   ]
-            },
-            {
-                  "name": "law lib",
-                  "text": "Diese auf Rechtsgeschichte spezialisierte Bibliothek und Museum beherbergt bedeutende juristische Texte.",
-                  "category": "museum",
-                  "coords": [
-                        32.740927,
-                        0.357255
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "HAM MUKASA MUSEUM",
-                  "text": "Ez a történelmi múzeum a kiemelkedő bugandai tudós, Ham Mukasa örökségét és személyes tárgyait őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        32.756323,
-                        0.366729
-                  ]
-            },
             {
                   "name": "Wakiso guest House",
                   "text": "Helyi szálláshelyként funkcionáló vendégház, amely szállást kínál a Wakiso negyedbe látogatóknak.",
@@ -2886,27 +2751,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                         32.801485,
                         0.329963
                   ]
-            },
-            {
-                  "name": "law lib",
-                  "text": "A jogtörténet tárházaként működő szakkönyvtár és múzeum jelentős igazságügyi szövegeknek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        32.740927,
-                        0.357255
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "HAM MUKASA MUSEUM",
-                  "text": "Acest muzeu istoric păstrează moștenirea și artefactele personale ale proeminentului cărturar din Buganda, Ham Mukasa.",
-                  "category": "museum",
-                  "coords": [
-                        32.756323,
-                        0.366729
-                  ]
-            },
             {
                   "name": "Wakiso guest House",
                   "text": "Funcționând ca o pensiune locală, această casă de oaspeți oferă cazare vizitatorilor care vizitează districtul Wakiso.",
@@ -2915,27 +2762,9 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                         32.801485,
                         0.329963
                   ]
-            },
-            {
-                  "name": "law lib",
-                  "text": "Acționând ca un depozit de istorie juridică, această bibliotecă și muzeu specializat găzduiește texte judiciare semnificative.",
-                  "category": "museum",
-                  "coords": [
-                        32.740927,
-                        0.357255
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "HAM MUKASA MUSEUM",
-                  "text": "This historical museum preserves the legacy and personal artifacts of the prominent Buganda scholar Ham Mukasa.",
-                  "category": "museum",
-                  "coords": [
-                        32.756323,
-                        0.366729
-                  ]
-            },
             {
                   "name": "Wakiso guest House",
                   "text": "Functioning as a local lodging, this guest house offers accommodations for visitors touring the Wakiso district.",
@@ -2943,15 +2772,6 @@ export const poiExtraUgandaLandmarksV2: POI[] = [
                   "coords": [
                         32.801485,
                         0.329963
-                  ]
-            },
-            {
-                  "name": "law lib",
-                  "text": "Acting as a repository of legal history, this specialized library and museum houses significant judicial texts.",
-                  "category": "museum",
-                  "coords": [
-                        32.740927,
-                        0.357255
                   ]
             }
       ]

@@ -1293,24 +1293,6 @@ export const maldivesLifeV2: POI[] = [
     id: "maldives-madivaru-hammerhead-life-v2", "sights": {
       "de": [
             {
-                  "name": "Banyan Tree Trail",
-                  "text": "Ein Naturpfad auf Kuramathi, der durch dichten Dschungel zu gewaltigen, uralten Banyan-Feigen führt.",
-                  "category": "landmark",
-                  "coords": [
-                        72.983683,
-                        4.259424
-                  ]
-            },
-            {
-                  "name": "Kuramathi house reef",
-                  "text": "Das hauseigene Riff von Kuramathi ist bekannt für seine Korallenvielfalt und die dort lebenden Riffhaie.",
-                  "category": "landmark",
-                  "coords": [
-                        72.968215,
-                        4.259491
-                  ]
-            },
-            {
                   "name": "Kuramathi North",
                   "text": "Ein erstklassiges Tauchrevier im Norden der Insel Kuramathi, berühmt für seine Meeresbiologie.",
                   "category": "landmark",
@@ -1318,45 +1300,9 @@ export const maldivesLifeV2: POI[] = [
                         72.938879,
                         4.277636
                   ]
-            },
-            {
-                  "name": "Rasdhoo Madivaru Corner",
-                  "text": "Dieser Tauchplatz im Rasdhoo-Atoll ist weltberühmt für frühmorgendliche Sichtungen von Hammerhaien.",
-                  "category": "landmark",
-                  "coords": [
-                        72.999492,
-                        4.264251
-                  ]
-            },
-            {
-                  "name": "Bikini Beach",
-                  "text": "Ein Strand auf Rasdhoo, an dem Touristen offiziell Badekleidung tragen dürfen und klares Wasser genießen.",
-                  "category": "landmark",
-                  "coords": [
-                        72.992209,
-                        4.260684
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Banyan Tree Trail",
-                  "text": "Természeti ösvény Kuramathin, amely sűrű dzsungelen keresztül vezet a hatalmas, ősi banyánfákhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        72.983683,
-                        4.259424
-                  ]
-            },
-            {
-                  "name": "Kuramathi house reef",
-                  "text": "Kuramathi házi zátonya koralljainak változatosságáról és az ott élő szirti cápákról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        72.968215,
-                        4.259491
-                  ]
-            },
             {
                   "name": "Kuramathi North",
                   "text": "Elsőrangú merülőhely Kuramathi szigetének északi részén, amely tengerbiológiájáról híres.",
@@ -1365,45 +1311,9 @@ export const maldivesLifeV2: POI[] = [
                         72.938879,
                         4.277636
                   ]
-            },
-            {
-                  "name": "Rasdhoo Madivaru Corner",
-                  "text": "Ez a Rasdhoo-atollnál található merülőhely világhírű a kora reggeli pörölycápa-észlelésekről.",
-                  "category": "landmark",
-                  "coords": [
-                        72.999492,
-                        4.264251
-                  ]
-            },
-            {
-                  "name": "Bikini Beach",
-                  "text": "Rasdhoo egyik strandja, ahol a turisták hivatalosan is viselhetnek fürdőruhát és élvezhetik a tiszta vizet.",
-                  "category": "landmark",
-                  "coords": [
-                        72.992209,
-                        4.260684
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Banyan Tree Trail",
-                  "text": "O potecă naturală pe Kuramathi, care șerpuiește prin jungla densă spre smochini banyan uriași și antici.",
-                  "category": "landmark",
-                  "coords": [
-                        72.983683,
-                        4.259424
-                  ]
-            },
-            {
-                  "name": "Kuramathi house reef",
-                  "text": "Reciful casei din Kuramathi este cunoscut pentru diversitatea coralilor și rechinii de recif care trăiesc acolo.",
-                  "category": "landmark",
-                  "coords": [
-                        72.968215,
-                        4.259491
-                  ]
-            },
             {
                   "name": "Kuramathi North",
                   "text": "O zonă de scufundări de primă clasă în nordul insulei Kuramathi, renumită pentru biologia sa marină.",
@@ -1412,45 +1322,9 @@ export const maldivesLifeV2: POI[] = [
                         72.938879,
                         4.277636
                   ]
-            },
-            {
-                  "name": "Rasdhoo Madivaru Corner",
-                  "text": "Acest loc de scufundări din Atolul Rasdhoo este faimos în întreaga lume pentru observările de rechini ciocan de dimineață.",
-                  "category": "landmark",
-                  "coords": [
-                        72.999492,
-                        4.264251
-                  ]
-            },
-            {
-                  "name": "Bikini Beach",
-                  "text": "O plajă pe Rasdhoo unde turiștii pot purta oficial costume de baie și se pot bucura de apa limpede.",
-                  "category": "landmark",
-                  "coords": [
-                        72.992209,
-                        4.260684
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Banyan Tree Trail",
-                  "text": "A nature trail on Kuramathi winding through dense jungle to massive, ancient banyan trees.",
-                  "category": "landmark",
-                  "coords": [
-                        72.983683,
-                        4.259424
-                  ]
-            },
-            {
-                  "name": "Kuramathi house reef",
-                  "text": "Kuramathi's house reef is known for its coral diversity and the resident reef sharks found there.",
-                  "category": "landmark",
-                  "coords": [
-                        72.968215,
-                        4.259491
-                  ]
-            },
             {
                   "name": "Kuramathi North",
                   "text": "A premier diving area on the north of Kuramathi island, famous for its marine biology.",
@@ -1458,24 +1332,6 @@ export const maldivesLifeV2: POI[] = [
                   "coords": [
                         72.938879,
                         4.277636
-                  ]
-            },
-            {
-                  "name": "Rasdhoo Madivaru Corner",
-                  "text": "This dive site in Rasdhoo Atoll is world-famous for early morning sightings of hammerhead sharks.",
-                  "category": "landmark",
-                  "coords": [
-                        72.999492,
-                        4.264251
-                  ]
-            },
-            {
-                  "name": "Bikini Beach",
-                  "text": "A beach on Rasdhoo where tourists are officially allowed to wear swimwear and enjoy the clear waters.",
-                  "category": "landmark",
-                  "coords": [
-                        72.992209,
-                        4.260684
                   ]
             }
       ]
@@ -1896,15 +1752,6 @@ export const maldivesLifeV2: POI[] = [
     id: "maldives-guraidhoo-corner-life-v2", "sights": {
       "de": [
             {
-                  "name": "Guradoo South",
-                  "text": "Guradoo South ist eine Sehenswürdigkeit in maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.467287,
-                        3.889913
-                  ]
-            },
-            {
                   "name": "Guradoo North",
                   "text": "Guradoo North ist eine Touristenattraktion in maldives-guraidhoo-corner-life-v2.",
                   "category": "landmark",
@@ -1920,24 +1767,6 @@ export const maldivesLifeV2: POI[] = [
                   "coords": [
                         73.467558,
                         3.879147
-                  ]
-            },
-            {
-                  "name": "Emmadi Giri (Manta Point)",
-                  "text": "Emmadi Giri (Manta Point) ist eine Tauchattraktion in maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.456299,
-                        3.895817
-                  ]
-            },
-            {
-                  "name": "Guraidhoo Channel",
-                  "text": "Guraidhoo Channel ist eine Attraktion in maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.463521,
-                        3.896087
                   ]
             },
             {
@@ -2004,30 +1833,12 @@ export const maldivesLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naanu Beach",
-                  "text": "Naanu Beach ist ein Strand in maldives-guraidhoo-corner-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.46887,
-                        3.903598
-                  ]
-            },
-            {
                   "name": "Sihkko Beach",
                   "text": "Sihkko Beach bietet eine ruhige Küstenumgebung in maldives-guraidhoo-corner-life-v2.",
                   "category": "recreational",
                   "coords": [
                         73.469049,
                         3.90043
-                  ]
-            },
-            {
-                  "name": "Chow Beach",
-                  "text": "Chow Beach ist ein zugänglicher Strandabschnitt in maldives-guraidhoo-corner-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.465889,
-                        3.901132
                   ]
             },
             {
@@ -2078,15 +1889,6 @@ export const maldivesLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Guradoo South",
-                  "text": "A Guradoo South egy látványosság a maldives-guraidhoo-corner-life-v2 térségében.",
-                  "category": "landmark",
-                  "coords": [
-                        73.467287,
-                        3.889913
-                  ]
-            },
-            {
                   "name": "Guradoo North",
                   "text": "A Guradoo North egy turisztikai látványosság maldives-guraidhoo-corner-life-v2 területén.",
                   "category": "landmark",
@@ -2102,24 +1904,6 @@ export const maldivesLifeV2: POI[] = [
                   "coords": [
                         73.467558,
                         3.879147
-                  ]
-            },
-            {
-                  "name": "Emmadi Giri (Manta Point)",
-                  "text": "Az Emmadi Giri, más néven Manta Point, egy látványosság maldives-guraidhoo-corner-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        73.456299,
-                        3.895817
-                  ]
-            },
-            {
-                  "name": "Guraidhoo Channel",
-                  "text": "A Guraidhoo Channel egy látványosság a maldives-guraidhoo-corner-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        73.463521,
-                        3.896087
                   ]
             },
             {
@@ -2186,30 +1970,12 @@ export const maldivesLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naanu Beach",
-                  "text": "A Naanu Beach egy tengerparti helyszín maldives-guraidhoo-corner-life-v2 területén.",
-                  "category": "recreational",
-                  "coords": [
-                        73.46887,
-                        3.903598
-                  ]
-            },
-            {
                   "name": "Sihkko Beach",
                   "text": "A Sihkko Beach egy tengerparti szakasz maldives-guraidhoo-corner-life-v2 régiójában.",
                   "category": "recreational",
                   "coords": [
                         73.469049,
                         3.90043
-                  ]
-            },
-            {
-                  "name": "Chow Beach",
-                  "text": "A Chow Beach egy strandszakasz maldives-guraidhoo-corner-life-v2 területén.",
-                  "category": "recreational",
-                  "coords": [
-                        73.465889,
-                        3.901132
                   ]
             },
             {
@@ -2260,15 +2026,6 @@ export const maldivesLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Guradoo South",
-                  "text": "Guradoo South este o atracție din maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.467287,
-                        3.889913
-                  ]
-            },
-            {
                   "name": "Guradoo North",
                   "text": "Guradoo North este o atracție turistică în maldives-guraidhoo-corner-life-v2.",
                   "category": "landmark",
@@ -2284,24 +2041,6 @@ export const maldivesLifeV2: POI[] = [
                   "coords": [
                         73.467558,
                         3.879147
-                  ]
-            },
-            {
-                  "name": "Emmadi Giri (Manta Point)",
-                  "text": "Emmadi Giri (Manta Point) este o atracție din maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.456299,
-                        3.895817
-                  ]
-            },
-            {
-                  "name": "Guraidhoo Channel",
-                  "text": "Guraidhoo Channel este o atracție din maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.463521,
-                        3.896087
                   ]
             },
             {
@@ -2368,30 +2107,12 @@ export const maldivesLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naanu Beach",
-                  "text": "Naanu Beach este o plajă în maldives-guraidhoo-corner-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.46887,
-                        3.903598
-                  ]
-            },
-            {
                   "name": "Sihkko Beach",
                   "text": "Sihkko Beach este un mediu de coastă în maldives-guraidhoo-corner-life-v2.",
                   "category": "recreational",
                   "coords": [
                         73.469049,
                         3.90043
-                  ]
-            },
-            {
-                  "name": "Chow Beach",
-                  "text": "Chow Beach este o zonă de plajă din maldives-guraidhoo-corner-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.465889,
-                        3.901132
                   ]
             },
             {
@@ -2442,15 +2163,6 @@ export const maldivesLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Guradoo South",
-                  "text": "Guradoo South is an attraction found in maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.467287,
-                        3.889913
-                  ]
-            },
-            {
                   "name": "Guradoo North",
                   "text": "Guradoo North is a tourist attraction in maldives-guraidhoo-corner-life-v2.",
                   "category": "landmark",
@@ -2466,24 +2178,6 @@ export const maldivesLifeV2: POI[] = [
                   "coords": [
                         73.467558,
                         3.879147
-                  ]
-            },
-            {
-                  "name": "Emmadi Giri (Manta Point)",
-                  "text": "Emmadi Giri (Manta Point) is an attraction in maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.456299,
-                        3.895817
-                  ]
-            },
-            {
-                  "name": "Guraidhoo Channel",
-                  "text": "Guraidhoo Channel is an attraction situated in maldives-guraidhoo-corner-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.463521,
-                        3.896087
                   ]
             },
             {
@@ -2550,30 +2244,12 @@ export const maldivesLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naanu Beach",
-                  "text": "Naanu Beach is a beach location in maldives-guraidhoo-corner-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.46887,
-                        3.903598
-                  ]
-            },
-            {
                   "name": "Sihkko Beach",
                   "text": "Sihkko Beach is a coastal environment in maldives-guraidhoo-corner-life-v2.",
                   "category": "recreational",
                   "coords": [
                         73.469049,
                         3.90043
-                  ]
-            },
-            {
-                  "name": "Chow Beach",
-                  "text": "Chow Beach is a beach area in maldives-guraidhoo-corner-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.465889,
-                        3.901132
                   ]
             },
             {

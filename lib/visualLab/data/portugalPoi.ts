@@ -487,33 +487,6 @@ export const portugalCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Quinta do Vinagre",
-                  "text": "Ein historisches Anwesen und Herrenhaus in der Region von Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.436534,
-                        38.798921
-                  ]
-            },
-            {
-                  "name": "Parque Natural de Sintra-Cascais",
-                  "text": "Ein weitläufiges Schutzgebiet, das die Berge von Sintra und die Atlantikküste umfasst.",
-                  "category": "natural",
-                  "coords": [
-                        -9.432583,
-                        38.805011
-                  ]
-            },
-            {
-                  "name": "Nationalpalast Pena",
-                  "text": "Ein farbenfrohes Schloss der Romantik auf einem Berggipfel über Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
                   "name": "Nationalpalast von Sintra",
                   "text": "Ein gut erhaltener mittelalterlicher Königspalast im historischen Zentrum von Sintra.",
                   "category": "castle",
@@ -529,15 +502,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.382626,
                         38.803381
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros de Colares",
-                  "text": "Ein von der Feuerwehr betriebenes Schwimmbad in Colares, Sintra.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.445803,
-                        38.800838
                   ]
             }
       ],
@@ -570,33 +534,6 @@ export const portugalCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Quinta do Vinagre",
-                  "text": "Történelmi birtok és udvarház Sintra régiójában.",
-                  "category": "castle",
-                  "coords": [
-                        -9.436534,
-                        38.798921
-                  ]
-            },
-            {
-                  "name": "Parque Natural de Sintra-Cascais",
-                  "text": "Kiterjedt természetvédelmi terület, amely magában foglalja Sintra hegyeit és az atlanti partvidéket.",
-                  "category": "natural",
-                  "coords": [
-                        -9.432583,
-                        38.805011
-                  ]
-            },
-            {
-                  "name": "Palácio da Pena",
-                  "text": "Színpompás romantikus palota egy hegytetőn, Sintra városa felett.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
                   "name": "Palácio Nacional de Sintra",
                   "text": "Jó állapotban fennmaradt középkori királyi palota Sintra történelmi központjában.",
                   "category": "castle",
@@ -612,15 +549,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.382626,
                         38.803381
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros de Colares",
-                  "text": "A colaresi tűzoltók által üzemeltetett úszómedence Sintra területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.445803,
-                        38.800838
                   ]
             }
       ],
@@ -653,33 +581,6 @@ export const portugalCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Quinta do Vinagre",
-                  "text": "O proprietate istorică și conac situat în regiunea Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.436534,
-                        38.798921
-                  ]
-            },
-            {
-                  "name": "Parque Natural de Sintra-Cascais",
-                  "text": "O arie protejată vastă care cuprinde munții Sintra și coasta Atlanticului.",
-                  "category": "natural",
-                  "coords": [
-                        -9.432583,
-                        38.805011
-                  ]
-            },
-            {
-                  "name": "Palácio da Pena",
-                  "text": "Un palat romantic colorat, situat pe un vârf de munte deasupra Sintrei.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
                   "name": "Palácio Nacional de Sintra",
                   "text": "Un palat regal medieval bine conservat, situat în centrul istoric al Sintrei.",
                   "category": "castle",
@@ -695,15 +596,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.382626,
                         38.803381
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros de Colares",
-                  "text": "O piscină operată de pompierii din Colares, Sintra.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.445803,
-                        38.800838
                   ]
             }
       ],
@@ -736,33 +628,6 @@ export const portugalCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Quinta do Vinagre",
-                  "text": "A historic estate and manor house located in the Sintra region.",
-                  "category": "castle",
-                  "coords": [
-                        -9.436534,
-                        38.798921
-                  ]
-            },
-            {
-                  "name": "Sintra-Cascais Nature Park",
-                  "text": "A vast protected area encompassing the Sintra mountains and the Atlantic coast.",
-                  "category": "natural",
-                  "coords": [
-                        -9.432583,
-                        38.805011
-                  ]
-            },
-            {
-                  "name": "Pena National Palace",
-                  "text": "A colorful Romanticist palace situated on a hilltop overlooking Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
                   "name": "Sintra National Palace",
                   "text": "A well-preserved medieval royal palace located in the historic center of Sintra.",
                   "category": "castle",
@@ -778,15 +643,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.382626,
                         38.803381
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros de Colares",
-                  "text": "A swimming pool operated by the firefighters of Colares in Sintra.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.445803,
-                        38.800838
                   ]
             }
       ]
@@ -969,30 +825,12 @@ export const portugalCulture: POI[] = [
     id: "cult-guimaraes", "sights": {
       "de": [
             {
-                  "name": "Paço dos Duques de Bragança",
-                  "text": "Ein befestigter Palast aus dem 15. Jahrhundert und Residenz der Herzöge von Braganza, bekannt für seine markanten Schornsteine.",
-                  "category": "castle",
-                  "coords": [
-                        -8.291007,
-                        41.44646
-                  ]
-            },
-            {
                   "name": "Teatro Jordão",
                   "text": "Ein historisches Theater in Guimarães, das vor kurzem restauriert und für Kunst und Bildung umgewidmet wurde.",
                   "category": "cultural",
                   "coords": [
                         -8.294938,
                         41.438852
-                  ]
-            },
-            {
-                  "name": "Castelo de Guimarães",
-                  "text": "Eine mittelalterliche Burg, die oft als „Wiege Portugals“ bezeichnet wird und in der der erste König der Nation geboren wurde.",
-                  "category": "castle",
-                  "coords": [
-                        -8.290401,
-                        41.447906
                   ]
             },
             {
@@ -1030,27 +868,9 @@ export const portugalCulture: POI[] = [
                         -8.31954,
                         41.431152
                   ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
-                  "text": "Ein öffentliches Schwimmbad, das von der Freiwilligen Feuerwehr in Guimarães verwaltet wird.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.298556,
-                        41.447463
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Paço dos Duques de Bragança",
-                  "text": "A Bragança-hercegek 15. századi erődített palotája és rezidenciája, amely jellegzetes kéményeiről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        -8.291007,
-                        41.44646
-                  ]
-            },
             {
                   "name": "Teatro Jordão",
                   "text": "Történelmi színház Guimarãesben, amelyet a közelmúltban újítottak fel művészeti és oktatási célokra.",
@@ -1058,15 +878,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -8.294938,
                         41.438852
-                  ]
-            },
-            {
-                  "name": "Castelo de Guimarães",
-                  "text": "Középkori vár, amelyet gyakran „Portugália bölcsőjeként” emlegetnek, mivel itt született az ország első királya.",
-                  "category": "castle",
-                  "coords": [
-                        -8.290401,
-                        41.447906
                   ]
             },
             {
@@ -1104,27 +915,9 @@ export const portugalCulture: POI[] = [
                         -8.31954,
                         41.431152
                   ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
-                  "text": "A guimarãesi önkéntes tűzoltóság által kezelt nyilvános uszoda.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.298556,
-                        41.447463
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Paço dos Duques de Bragança",
-                  "text": "Un palat fortificat din secolul al XV-lea și reședință a ducilor de Bragança, cu hornuri distinctive.",
-                  "category": "castle",
-                  "coords": [
-                        -8.291007,
-                        41.44646
-                  ]
-            },
             {
                   "name": "Teatro Jordão",
                   "text": "Un teatru istoric din Guimarães, recent restaurat și reutilizat pentru artă și educație.",
@@ -1132,15 +925,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -8.294938,
                         41.438852
-                  ]
-            },
-            {
-                  "name": "Castelo de Guimarães",
-                  "text": "Un castel medieval numit adesea „leagănul Portugaliei”, unde s-a născut primul rege al națiunii.",
-                  "category": "castle",
-                  "coords": [
-                        -8.290401,
-                        41.447906
                   ]
             },
             {
@@ -1178,27 +962,9 @@ export const portugalCulture: POI[] = [
                         -8.31954,
                         41.431152
                   ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
-                  "text": "O piscină publică gestionată de pompierii voluntari din Guimarães.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.298556,
-                        41.447463
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Paço dos Duques de Bragança",
-                  "text": "A 15th-century fortified palace and residence of the Dukes of Braganza, featuring distinctive chimneys.",
-                  "category": "castle",
-                  "coords": [
-                        -8.291007,
-                        41.44646
-                  ]
-            },
             {
                   "name": "Teatro Jordão",
                   "text": "A historic theatre in Guimarães, recently restored and repurposed for arts and education.",
@@ -1206,15 +972,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -8.294938,
                         41.438852
-                  ]
-            },
-            {
-                  "name": "Castelo de Guimarães",
-                  "text": "A medieval castle often called the \"Cradle of Portugal,\" where the nation's first king was born.",
-                  "category": "castle",
-                  "coords": [
-                        -8.290401,
-                        41.447906
                   ]
             },
             {
@@ -1251,15 +1008,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -8.31954,
                         41.431152
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros Voluntários de Guimarães",
-                  "text": "A public pool managed by the voluntary fire department in Guimarães.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.298556,
-                        41.447463
                   ]
             }
       ]
@@ -1310,33 +1058,6 @@ export const portugalCulture: POI[] = [
     id: "cult-pena", "sights": {
       "de": [
             {
-                  "name": "Museu de História Natural",
-                  "text": "Ein Naturkundemuseum in Sintra, das verschiedene wissenschaftliche Sammlungen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "Ein Museum, das sich der Kunst und Pflege von Bonsai-Bäumen widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Eine prähistorische Grabstätte in der Nähe von Sintra.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
                   "name": "Nationalpalast Pena",
                   "text": "Ein farbenfrohes Schloss der Romantik auf einem Hügel über Sintra.",
                   "category": "castle",
@@ -1344,63 +1065,9 @@ export const portugalCulture: POI[] = [
                         -9.390493,
                         38.787583
                   ]
-            },
-            {
-                  "name": "Igreja da Penha Longa",
-                  "text": "Ein historisches Klostergebäude, das heute Teil eines luxuriösen Resorts ist.",
-                  "category": "religious",
-                  "coords": [
-                        -9.398116,
-                        38.762547
-                  ]
-            },
-            {
-                  "name": "Nationalpalast von Sintra",
-                  "text": "Ein gut erhaltenes mittelalterliches königliches Schloss im Zentrum von Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390919,
-                        38.797763
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Olga Cadaval",
-                  "text": "Ein wichtiges Kultur- und Performancezentrum in Sintra.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.382626,
-                        38.803381
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "Természettudományi múzeum Sintrában, amely különféle tudományos gyűjteményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "A bonszai fák művészetének és gondozásának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Praehisztorikus temetkezési hely Sintra közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
             {
                   "name": "Palácio da Pena",
                   "text": "Színes romantikus kastély egy dombtetőn Sintra felett.",
@@ -1409,63 +1076,9 @@ export const portugalCulture: POI[] = [
                         -9.390493,
                         38.787583
                   ]
-            },
-            {
-                  "name": "Igreja da Penha Longa",
-                  "text": "Történelmi kolostorépület, amely ma egy luxusszálloda része.",
-                  "category": "religious",
-                  "coords": [
-                        -9.398116,
-                        38.762547
-                  ]
-            },
-            {
-                  "name": "Palácio Nacional de Sintra",
-                  "text": "Jól megőrzött középkori királyi palota Sintra központjában.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390919,
-                        38.797763
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Olga Cadaval",
-                  "text": "Fontos kulturális és előadóművészeti központ Sintrában.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.382626,
-                        38.803381
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "Un muzeu de istorie naturală în Sintra, care expune diverse colecții științifice.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "Un muzeu dedicat artei și îngrijirii arborilor bonsai.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Un sit funerar preistoric situat în apropiere de Sintra.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
             {
                   "name": "Palácio da Pena",
                   "text": "Un palat romantic colorat situat pe un deal deasupra Sintrei.",
@@ -1474,63 +1087,9 @@ export const portugalCulture: POI[] = [
                         -9.390493,
                         38.787583
                   ]
-            },
-            {
-                  "name": "Igreja da Penha Longa",
-                  "text": "O clădire istorică de mănăstire, care face acum parte dintr-un complex de lux.",
-                  "category": "religious",
-                  "coords": [
-                        -9.398116,
-                        38.762547
-                  ]
-            },
-            {
-                  "name": "Palácio Nacional de Sintra",
-                  "text": "Un palat regal medieval bine conservat în centrul Sintrei.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390919,
-                        38.797763
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Olga Cadaval",
-                  "text": "Un important centru cultural și de spectacole din Sintra.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.382626,
-                        38.803381
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "A natural history museum in Sintra showcasing various scientific collections.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "A museum dedicated to the art and care of bonsai trees.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "A prehistoric burial site located near Sintra.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
             {
                   "name": "Pena National Palace",
                   "text": "A colorful Romanticist palace situated on a hilltop overlooking Sintra.",
@@ -1538,33 +1097,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.390493,
                         38.787583
-                  ]
-            },
-            {
-                  "name": "Igreja da Penha Longa",
-                  "text": "A historic monastery building that is now part of a luxury resort.",
-                  "category": "religious",
-                  "coords": [
-                        -9.398116,
-                        38.762547
-                  ]
-            },
-            {
-                  "name": "Sintra National Palace",
-                  "text": "A well-preserved medieval royal palace located in the center of Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390919,
-                        38.797763
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Olga Cadaval",
-                  "text": "A prominent cultural and performance center located in Sintra.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.382626,
-                        38.803381
                   ]
             }
       ]
@@ -1964,42 +1496,6 @@ export const portugalCulture: POI[] = [
     id: "cult-pena-palace", "sights": {
       "de": [
             {
-                  "name": "Museu de História Natural",
-                  "text": "Ein Museum in Sintra, das sich der Naturgeschichte und regionalen Fossilien widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "Ein spezialisiertes Museum in Sintra, das die Kunst der Bonsai-Zucht präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Eine prähistorische archäologische Grabstätte im Vale de São Martinho bei Sintra.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
-                  "name": "Nationalpalast Pena",
-                  "text": "Ein farbenfroher romantizistischer Palast und UNESCO-Welterbe auf den Hügeln von Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
                   "name": "Igreja da Penha Longa",
                   "text": "Ein historisches Kloster und eine Kirche in der Nähe der Kulturlandschaft von Sintra.",
                   "category": "religious",
@@ -2007,63 +1503,9 @@ export const portugalCulture: POI[] = [
                         -9.398116,
                         38.762547
                   ]
-            },
-            {
-                  "name": "Nationalpalast von Sintra",
-                  "text": "Der am besten erhaltene mittelalterliche königliche Palast Portugals im Zentrum von Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390919,
-                        38.797763
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Olga Cadaval",
-                  "text": "Ein bedeutendes Kulturzentrum und Theater in Sintra für Musik und darstellende Kunst.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.382626,
-                        38.803381
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "Sintrai múzeum, amely a természetrajzi emlékeket és helyi kövületeket mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "Speciális múzeum Sintrában, amely a bonsaiművészetet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Prehisztorikus régészeti lelőhely és nekropolisz a Sintra melletti Vale de São Martinho területén.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
-                  "name": "Palácio da Pena",
-                  "text": "Színpompás romantikus palota és UNESCO világörökségi helyszín Sintra dombjain.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
             {
                   "name": "Igreja da Penha Longa",
                   "text": "Történelmi kolostor és templom Sintra kultúrtájának közelében.",
@@ -2072,63 +1514,9 @@ export const portugalCulture: POI[] = [
                         -9.398116,
                         38.762547
                   ]
-            },
-            {
-                  "name": "Palácio Nacional de Sintra",
-                  "text": "Portugália legjobb állapotban fennmaradt középkori királyi palotája Sintra központjában.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390919,
-                        38.797763
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Olga Cadaval",
-                  "text": "Jelentős kulturális központ és színház Sintrában, amely koncerteknek és előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.382626,
-                        38.803381
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "Un muzeu din Sintra dedicat istoriei naturale și fosilelor regionale.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "Un muzeu specializat din Sintra care prezintă arta cultivării arborilor bonsai.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Un sit arheologic preistoric situat în Vale de São Martinho, lângă Sintra.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
-                  "name": "Palácio da Pena",
-                  "text": "Un palat romanticist colorat și sit al Patrimoniului Mondial UNESCO pe dealurile din Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
             {
                   "name": "Igreja da Penha Longa",
                   "text": "O mănăstire și biserică istorică situată în apropierea peisajului cultural din Sintra.",
@@ -2137,63 +1525,9 @@ export const portugalCulture: POI[] = [
                         -9.398116,
                         38.762547
                   ]
-            },
-            {
-                  "name": "Palácio Nacional de Sintra",
-                  "text": "Cel mai bine conservat palat regal medieval din Portugalia, situat în centrul orașului Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390919,
-                        38.797763
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Olga Cadaval",
-                  "text": "Un centru cultural și teatru important din Sintra pentru muzică și arte spectacolului.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.382626,
-                        38.803381
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "A museum in Sintra dedicated to natural history and regional fossil collections.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "A specialized museum in Sintra showcasing the art of bonsai cultivation.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "A prehistoric archaeological site and necropolis located in Vale de São Martinho near Sintra.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
-                  "name": "Pena National Palace",
-                  "text": "A colorful Romanticist palace and UNESCO World Heritage site standing on the Sintra hills.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
             {
                   "name": "Igreja da Penha Longa",
                   "text": "A historic monastery and church located near the cultural landscape of Sintra.",
@@ -2201,24 +1535,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -9.398116,
                         38.762547
-                  ]
-            },
-            {
-                  "name": "Sintra National Palace",
-                  "text": "The best-preserved medieval royal palace in Portugal, located in the center of Sintra.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390919,
-                        38.797763
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Olga Cadaval",
-                  "text": "A prominent cultural center and theatre in Sintra hosting music and performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.382626,
-                        38.803381
                   ]
             }
       ]
@@ -3698,33 +3014,6 @@ export const portugalCulture: POI[] = [
                         -8.880266,
                         37.959535
                   ]
-            },
-            {
-                  "name": "Monte Novo",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Region Sines.",
-                  "category": "historical",
-                  "coords": [
-                        -8.835872,
-                        37.950115
-                  ]
-            },
-            {
-                  "name": "Palmeirinha",
-                  "text": "Fundstätte antiker Überreste im Gebiet von Sines.",
-                  "category": "historical",
-                  "coords": [
-                        -8.826846,
-                        37.946761
-                  ]
-            },
-            {
-                  "name": "Quitéria (Povoado e Necrópole)",
-                  "text": "Eine antike Siedlung und Nekropole in der Nähe von Sines.",
-                  "category": "historical",
-                  "coords": [
-                        -8.832458,
-                        37.946195
-                  ]
             }
       ],
       "hu": [
@@ -3771,33 +3060,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -8.880266,
                         37.959535
-                  ]
-            },
-            {
-                  "name": "Monte Novo",
-                  "text": "Régészeti lelőhely Sines régiójában.",
-                  "category": "historical",
-                  "coords": [
-                        -8.835872,
-                        37.950115
-                  ]
-            },
-            {
-                  "name": "Palmeirinha",
-                  "text": "Ókori maradványok lelőhelye Sines területén.",
-                  "category": "historical",
-                  "coords": [
-                        -8.826846,
-                        37.946761
-                  ]
-            },
-            {
-                  "name": "Quitéria (Povoado e Necrópole)",
-                  "text": "Ókori település és nekropolisz Sines közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -8.832458,
-                        37.946195
                   ]
             }
       ],
@@ -3846,33 +3108,6 @@ export const portugalCulture: POI[] = [
                         -8.880266,
                         37.959535
                   ]
-            },
-            {
-                  "name": "Monte Novo",
-                  "text": "Un sit arheologic situat în regiunea Sines.",
-                  "category": "historical",
-                  "coords": [
-                        -8.835872,
-                        37.950115
-                  ]
-            },
-            {
-                  "name": "Palmeirinha",
-                  "text": "Situl unor vestigii antice în zona Sines.",
-                  "category": "historical",
-                  "coords": [
-                        -8.826846,
-                        37.946761
-                  ]
-            },
-            {
-                  "name": "Quitéria (Povoado e Necrópole)",
-                  "text": "O așezare și necropolă antică lângă Sines.",
-                  "category": "historical",
-                  "coords": [
-                        -8.832458,
-                        37.946195
-                  ]
             }
       ],
       "en": [
@@ -3919,33 +3154,6 @@ export const portugalCulture: POI[] = [
                   "coords": [
                         -8.880266,
                         37.959535
-                  ]
-            },
-            {
-                  "name": "Monte Novo",
-                  "text": "An archaeological site located in the Sines region.",
-                  "category": "historical",
-                  "coords": [
-                        -8.835872,
-                        37.950115
-                  ]
-            },
-            {
-                  "name": "Palmeirinha",
-                  "text": "Site of ancient remains in the Sines area.",
-                  "category": "historical",
-                  "coords": [
-                        -8.826846,
-                        37.946761
-                  ]
-            },
-            {
-                  "name": "Quitéria (Povoado e Necrópole)",
-                  "text": "An ancient settlement and necropolis near Sines.",
-                  "category": "historical",
-                  "coords": [
-                        -8.832458,
-                        37.946195
                   ]
             }
       ]
@@ -4318,30 +3526,12 @@ export const portugalCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Dólmen de S. Domingos",
-                  "text": "Eine prähistorische Megalithanlage in der malerischen Landschaft der Douro-Weinberge.",
-                  "category": "historical",
-                  "coords": [
-                        -7.524574,
-                        41.138454
-                  ]
-            },
-            {
                   "name": "Estátua-Menir do Alto da Escrita",
                   "text": "Eine archäologisch bedeutsame Menirstatue aus der Bronzezeit in der Nähe von Tabuaço.",
                   "category": "historical",
                   "coords": [
                         -7.567911,
                         41.116537
-                  ]
-            },
-            {
-                  "name": "Pelourinho de Valença do Douro",
-                  "text": "Ein steinernes Denkmal lokaler Autonomie in der Ortschaft Valença do Douro.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.558562,
-                        41.159312
                   ]
             },
             {
@@ -4374,30 +3564,12 @@ export const portugalCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Dólmen de S. Domingos",
-                  "text": "Prehisztorikus megalitikus építmény a Douro-völgy szőlőskertjeinek festői táján.",
-                  "category": "historical",
-                  "coords": [
-                        -7.524574,
-                        41.138454
-                  ]
-            },
-            {
                   "name": "Estátua-Menir do Alto da Escrita",
                   "text": "Régészetileg jelentős bronzkori menirszobor Tabuaço közelében.",
                   "category": "historical",
                   "coords": [
                         -7.567911,
                         41.116537
-                  ]
-            },
-            {
-                  "name": "Pelourinho de Valença do Douro",
-                  "text": "A helyi autonómia kőemléke Valença do Douro településen.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.558562,
-                        41.159312
                   ]
             },
             {
@@ -4430,30 +3602,12 @@ export const portugalCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Dólmen de S. Domingos",
-                  "text": "Un sit megalitic preistoric situat în peisajul pitoresc al podgoriilor din Douro.",
-                  "category": "historical",
-                  "coords": [
-                        -7.524574,
-                        41.138454
-                  ]
-            },
-            {
                   "name": "Estátua-Menir do Alto da Escrita",
                   "text": "O statuie-menhir de importanță arheologică din epoca bronzului, situată lângă Tabuaço.",
                   "category": "historical",
                   "coords": [
                         -7.567911,
                         41.116537
-                  ]
-            },
-            {
-                  "name": "Pelourinho de Valença do Douro",
-                  "text": "Un monument de piatră al autonomiei locale în satul Valença do Douro.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.558562,
-                        41.159312
                   ]
             },
             {
@@ -4486,30 +3640,12 @@ export const portugalCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Dólmen de S. Domingos",
-                  "text": "A prehistoric megalithic site located in the scenic landscape of the Douro vineyards.",
-                  "category": "historical",
-                  "coords": [
-                        -7.524574,
-                        41.138454
-                  ]
-            },
-            {
                   "name": "Estátua-Menir do Alto da Escrita",
                   "text": "An archaeologically significant Bronze Age statue-menhir located near Tabuaço.",
                   "category": "historical",
                   "coords": [
                         -7.567911,
                         41.116537
-                  ]
-            },
-            {
-                  "name": "Pelourinho de Valença do Douro",
-                  "text": "A stone monument of local autonomy in the village of Valença do Douro.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.558562,
-                        41.159312
                   ]
             },
             {
@@ -6686,51 +5822,6 @@ export const portugalNature: POI[] = [
     id: "nat-sintra-cascais", "sights": {
       "de": [
             {
-                  "name": "Museu de História Natural",
-                  "text": "Ein Naturkundemuseum in Sintra mit einer bedeutenden Sammlung von Fossilien und Mineralien.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "Ein einzigartiges Museum in Sintra, das der Ausstellung und der Kunst der Bonsai-Zucht gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Tholos do Monge",
-                  "text": "Eine antike megalithische Struktur und Grabstätte am höchsten Punkt des Sintra-Gebirges.",
-                  "category": "historical",
-                  "coords": [
-                        -9.44136,
-                        38.774224
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Eine prähistorische archäologische Stätte in Sintra mit mehreren antiken Gemeinschaftsgrabkammern.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
-                  "name": "Quinta do Vinagre",
-                  "text": "Ein historisches Anwesen und Herrenhaus in Sintra, bekannt für seine traditionelle Architektur und Weinproduktion.",
-                  "category": "castle",
-                  "coords": [
-                        -9.436534,
-                        38.798921
-                  ]
-            },
-            {
                   "name": "Parque Natural de Sintra-Cascais",
                   "text": "Ein riesiges Naturschutzgebiet, das das Sintra-Gebirge und die Küstenfelsen von Cascais umfasst.",
                   "category": "natural",
@@ -6738,81 +5829,9 @@ export const portugalNature: POI[] = [
                         -9.432583,
                         38.805011
                   ]
-            },
-            {
-                  "name": "Nationalpalast Pena",
-                  "text": "Ein romantischer Palast aus dem 19. Jahrhundert in Sintra, berühmt für seine farbenfrohen Fassaden und eklektischen Baustile.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
-                  "name": "Convento de Sant' Ana da Ordem do Carmo",
-                  "text": "Ein historischer Klosterkomplex in der malerischen Landschaft der Region Sintra-Cascais.",
-                  "category": "religious",
-                  "coords": [
-                        -9.443843,
-                        38.794013
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros de Colares",
-                  "text": "Ein öffentliches Schwimmbad, das von der örtlichen Feuerwehr in Colares betrieben wird.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.445803,
-                        38.800838
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "Természettudományi múzeum Sintrában, amely jelentős fosszília- és ásványgyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "Egyedülálló múzeum Sintrában, amely a bonsai fák bemutatásának és nevelésének művészetének szentelték.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Tholos do Monge",
-                  "text": "Ősi megalitikus építmény és temetkezési hely a Sintra-hegység legmagasabb pontján.",
-                  "category": "historical",
-                  "coords": [
-                        -9.44136,
-                        38.774224
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Őskori régészeti lelőhely Sintrában, több ősi közösségi sírkamrával.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
-                  "name": "Quinta do Vinagre",
-                  "text": "Történelmi birtok és udvarház Sintrában, amely hagyományos építészetéről és bortermeléséről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        -9.436534,
-                        38.798921
-                  ]
-            },
             {
                   "name": "Parque Natural de Sintra-Cascais",
                   "text": "Hatalmas védett terület, amely magában foglalja a Sintra-hegységet és Cascais tengerparti szikláit.",
@@ -6821,81 +5840,9 @@ export const portugalNature: POI[] = [
                         -9.432583,
                         38.805011
                   ]
-            },
-            {
-                  "name": "Palácio da Pena",
-                  "text": "19. századi romantikus palota Sintrában, amely színes homlokzatairól és eklektikus építészeti stílusairól híres.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
-                  "name": "Convento de Sant' Ana da Ordem do Carmo",
-                  "text": "Történelmi kolostorkomplexum a Sintra-Cascais régió festői táján.",
-                  "category": "religious",
-                  "coords": [
-                        -9.443843,
-                        38.794013
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros de Colares",
-                  "text": "A helyi tűzoltóság által üzemeltetett nyilvános uszoda Colaresben.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.445803,
-                        38.800838
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "Un muzeu de istorie naturală din Sintra, care deține o colecție importantă de fosile și minerale.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "Un muzeu unic din Sintra, dedicat expunerii și artei creșterii copacilor bonsai.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Tholos do Monge",
-                  "text": "O structură megalitică veche și un loc de înmormântare situat în cel mai înalt punct al munților Sintra.",
-                  "category": "historical",
-                  "coords": [
-                        -9.44136,
-                        38.774224
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "Un sit arheologic preistoric din Sintra, care cuprinde mai multe camere funerare colective antice.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
-                  "name": "Quinta do Vinagre",
-                  "text": "O proprietate istorică și un conac din Sintra, cunoscut pentru arhitectura sa tradițională și producția de vin.",
-                  "category": "castle",
-                  "coords": [
-                        -9.436534,
-                        38.798921
-                  ]
-            },
             {
                   "name": "Parque Natural de Sintra-Cascais",
                   "text": "O zonă protejată vastă care acoperă munții Sintra și stâncile de coastă din Cascais.",
@@ -6904,81 +5851,9 @@ export const portugalNature: POI[] = [
                         -9.432583,
                         38.805011
                   ]
-            },
-            {
-                  "name": "Palácio da Pena",
-                  "text": "Un palat romantism din secolul al XIX-lea în Sintra, faimos pentru fațadele sale colorate și stilurile arhitecturale eclectice.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
-                  "name": "Convento de Sant' Ana da Ordem do Carmo",
-                  "text": "Un complex monahal istoric situat în peisajul pitoresc al regiunii Sintra-Cascais.",
-                  "category": "religious",
-                  "coords": [
-                        -9.443843,
-                        38.794013
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros de Colares",
-                  "text": "O piscină publică administrată de pompierii locali din Colares.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.445803,
-                        38.800838
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museu de História Natural",
-                  "text": "A natural history museum in Sintra featuring an important collection of fossils and minerals.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
-                  "name": "Museu do Bonsai",
-                  "text": "A unique museum in Sintra dedicated to the display and art of growing bonsai trees.",
-                  "category": "museum",
-                  "coords": [
-                        -9.376454,
-                        38.795701
-                  ]
-            },
-            {
-                  "name": "Tholos do Monge",
-                  "text": "An ancient megalithic structure and burial site located at the highest point of the Sintra mountains.",
-                  "category": "historical",
-                  "coords": [
-                        -9.44136,
-                        38.774224
-                  ]
-            },
-            {
-                  "name": "Necrópole Pré-histórica do Vale de São Martinho",
-                  "text": "A prehistoric archaeological site in Sintra featuring multiple ancient collective burial chambers.",
-                  "category": "historical",
-                  "coords": [
-                        -9.382415,
-                        38.807037
-                  ]
-            },
-            {
-                  "name": "Quinta do Vinagre",
-                  "text": "A historic estate and manor house in Sintra known for its traditional architecture and wine production.",
-                  "category": "castle",
-                  "coords": [
-                        -9.436534,
-                        38.798921
-                  ]
-            },
             {
                   "name": "Sintra-Cascais Nature Park",
                   "text": "A vast protected area covering the Sintra mountains and the coastal cliffs of Cascais.",
@@ -6986,33 +5861,6 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -9.432583,
                         38.805011
-                  ]
-            },
-            {
-                  "name": "Pena National Palace",
-                  "text": "A 19th-century Romanticist palace in Sintra, famous for its colorful façades and eclectic architectural styles.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
-                  ]
-            },
-            {
-                  "name": "Convento de Sant' Ana da Ordem do Carmo",
-                  "text": "A historic monastery complex located within the scenic landscape of the Sintra-Cascais region.",
-                  "category": "religious",
-                  "coords": [
-                        -9.443843,
-                        38.794013
-                  ]
-            },
-            {
-                  "name": "Piscina dos Bombeiros de Colares",
-                  "text": "A public swimming pool operated by the local fire brigade in Colares.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.445803,
-                        38.800838
                   ]
             }
       ]
@@ -7853,39 +6701,12 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de interpretação Ambiental da Caldeira Velha",
-                  "text": "Ein Umweltinformationszentrum, das sich auf die lokalen thermischen und natürlichen Besonderheiten konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        -25.500241,
-                        37.782071
-                  ]
-            },
-            {
                   "name": "Miradouro da Cha da Macela",
                   "text": "Ein Aussichtspunkt mit Panoramablick auf die umliegende Landschaft von Lagoa do Fogo.",
                   "category": "natural",
                   "coords": [
                         -25.521633,
                         37.763749
-                  ]
-            },
-            {
-                  "name": "Miradouro da Bela Vista",
-                  "text": "Ein bekannter Aussichtspunkt, der für seine schöne Aussicht auf die Region bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -25.495521,
-                        37.778126
-                  ]
-            },
-            {
-                  "name": "Miradouro da Lagoa do Fogo",
-                  "text": "Ein Aussichtspunkt mit Blick auf den ikonischen Kratersee Lagoa do Fogo.",
-                  "category": "natural",
-                  "coords": [
-                        -25.488288,
-                        37.769416
                   ]
             },
             {
@@ -7936,39 +6757,12 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de interpretação Ambiental da Caldeira Velha",
-                  "text": "A helyi természeti és termál adottságokat bemutató környezetvédelmi látogatóközpont.",
-                  "category": "museum",
-                  "coords": [
-                        -25.500241,
-                        37.782071
-                  ]
-            },
-            {
                   "name": "Miradouro da Cha da Macela",
                   "text": "Kilátóhely, amely panorámás kilátást nyújt a Lagoa do Fogo környéki tájra.",
                   "category": "natural",
                   "coords": [
                         -25.521633,
                         37.763749
-                  ]
-            },
-            {
-                  "name": "Miradouro da Bela Vista",
-                  "text": "Népszerű kilátóhely, amely a régióra nyíló szép kilátásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -25.495521,
-                        37.778126
-                  ]
-            },
-            {
-                  "name": "Miradouro da Lagoa do Fogo",
-                  "text": "Kilátóhely, amely az ikonikus Lagoa do Fogo krátertóra néz.",
-                  "category": "natural",
-                  "coords": [
-                        -25.488288,
-                        37.769416
                   ]
             },
             {
@@ -8019,39 +6813,12 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de interpretação Ambiental da Caldeira Velha",
-                  "text": "Un centru de interpretare a mediului axat pe caracteristicile termale și naturale locale.",
-                  "category": "museum",
-                  "coords": [
-                        -25.500241,
-                        37.782071
-                  ]
-            },
-            {
                   "name": "Miradouro da Cha da Macela",
                   "text": "Un punct de belvedere care oferă vederi panoramice asupra peisajului din jurul Lagoa do Fogo.",
                   "category": "natural",
                   "coords": [
                         -25.521633,
                         37.763749
-                  ]
-            },
-            {
-                  "name": "Miradouro da Bela Vista",
-                  "text": "Un punct de belvedere popular, cunoscut pentru vederile frumoase asupra regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        -25.495521,
-                        37.778126
-                  ]
-            },
-            {
-                  "name": "Miradouro da Lagoa do Fogo",
-                  "text": "Un punct de belvedere cu vedere spre iconicul lac de crater Lagoa do Fogo.",
-                  "category": "natural",
-                  "coords": [
-                        -25.488288,
-                        37.769416
                   ]
             },
             {
@@ -8102,39 +6869,12 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de interpretação Ambiental da Caldeira Velha",
-                  "text": "An environmental interpretation center focused on the local thermal and natural features.",
-                  "category": "museum",
-                  "coords": [
-                        -25.500241,
-                        37.782071
-                  ]
-            },
-            {
                   "name": "Miradouro da Cha da Macela",
                   "text": "A scenic viewpoint offering panoramic views of the surrounding Lagoa do Fogo landscape.",
                   "category": "natural",
                   "coords": [
                         -25.521633,
                         37.763749
-                  ]
-            },
-            {
-                  "name": "Miradouro da Bela Vista",
-                  "text": "A popular viewpoint known for its beautiful vistas of the region.",
-                  "category": "natural",
-                  "coords": [
-                        -25.495521,
-                        37.778126
-                  ]
-            },
-            {
-                  "name": "Miradouro da Lagoa do Fogo",
-                  "text": "A scenic viewpoint overlooking the iconic volcanic crater lake Lagoa do Fogo.",
-                  "category": "natural",
-                  "coords": [
-                        -25.488288,
-                        37.769416
                   ]
             },
             {
@@ -8597,42 +7337,6 @@ export const portugalNature: POI[] = [
     id: "nat-berlengas-island", "sights": {
       "de": [
             {
-                  "name": "Farol da Berlenga",
-                  "text": "Ein historischer Leuchtturm auf der Insel Berlenga Grande, der den Atlantik überblickt.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.509254,
-                        39.415305
-                  ]
-            },
-            {
-                  "name": "Forte de São João Baptista",
-                  "text": "Eine beeindruckende Festung aus dem 17. Jahrhundert auf den Berlengas-Inseln direkt am Meer.",
-                  "category": "fortress",
-                  "coords": [
-                        -9.510066,
-                        39.41136
-                  ]
-            },
-            {
-                  "name": "Praia do Carreiro do Mosteiro",
-                  "text": "Der Hauptstrand der Berlengas-Inseln, bekannt für sein kristallklares Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.507258,
-                        39.415138
-                  ]
-            },
-            {
-                  "name": "Cerro da Velha",
-                  "text": "Der höchste Punkt der Insel Berlenga Grande mit Panoramablick über das Archipel.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.497527,
-                        39.419265
-                  ]
-            },
-            {
                   "name": "Pedra do Elefante",
                   "text": "Eine markante Felsformation auf den Berlengas-Inseln, die an die Form eines Elefanten erinnert.",
                   "category": "natural",
@@ -8643,42 +7347,6 @@ export const portugalNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Farol da Berlenga",
-                  "text": "Történelmi világítótorony a Berlenga Grande szigeten, amely az Atlanti-óceánra néz.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.509254,
-                        39.415305
-                  ]
-            },
-            {
-                  "name": "Forte de São João Baptista",
-                  "text": "Lenyűgöző 17. századi erőd a Berlengas-szigeteken, közvetlenül a tengerparton.",
-                  "category": "fortress",
-                  "coords": [
-                        -9.510066,
-                        39.41136
-                  ]
-            },
-            {
-                  "name": "Praia do Carreiro do Mosteiro",
-                  "text": "A Berlengas-szigetek fő strandja, amely kristálytiszta vizéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.507258,
-                        39.415138
-                  ]
-            },
-            {
-                  "name": "Cerro da Velha",
-                  "text": "A Berlenga Grande sziget legmagasabb pontja, panorámás kilátással a szigetcsoportra.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.497527,
-                        39.419265
-                  ]
-            },
             {
                   "name": "Pedra do Elefante",
                   "text": "Jellegzetes sziklaformáció a Berlengas-szigeteken, amely egy elefánt alakjára emlékeztet.",
@@ -8691,42 +7359,6 @@ export const portugalNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Farol da Berlenga",
-                  "text": "Un far istoric pe insula Berlenga Grande, care domină Oceanul Atlantic.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.509254,
-                        39.415305
-                  ]
-            },
-            {
-                  "name": "Forte de São João Baptista",
-                  "text": "O fortăreață impresionantă din secolul al XVII-lea pe insulele Berlengas, chiar lângă mare.",
-                  "category": "fortress",
-                  "coords": [
-                        -9.510066,
-                        39.41136
-                  ]
-            },
-            {
-                  "name": "Praia do Carreiro do Mosteiro",
-                  "text": "Plaja principală a insulelor Berlengas, cunoscută pentru apa sa cristalină.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.507258,
-                        39.415138
-                  ]
-            },
-            {
-                  "name": "Cerro da Velha",
-                  "text": "Cel mai înalt punct de pe insula Berlenga Grande, cu vedere panoramică asupra arhipelagului.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.497527,
-                        39.419265
-                  ]
-            },
-            {
                   "name": "Pedra do Elefante",
                   "text": "O formațiune stâncoasă proeminentă pe insulele Berlengas, care seamănă cu forma unui elefant.",
                   "category": "natural",
@@ -8737,42 +7369,6 @@ export const portugalNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Farol da Berlenga",
-                  "text": "A historic lighthouse on Berlenga Grande island, overlooking the Atlantic Ocean.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.509254,
-                        39.415305
-                  ]
-            },
-            {
-                  "name": "Forte de São João Baptista",
-                  "text": "An impressive 17th-century fort on the Berlengas Islands, situated right by the sea.",
-                  "category": "fortress",
-                  "coords": [
-                        -9.510066,
-                        39.41136
-                  ]
-            },
-            {
-                  "name": "Praia do Carreiro do Mosteiro",
-                  "text": "The main beach of the Berlengas Islands, known for its crystal clear water.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.507258,
-                        39.415138
-                  ]
-            },
-            {
-                  "name": "Cerro da Velha",
-                  "text": "The highest point on Berlenga Grande island, with panoramic views over the archipelago.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.497527,
-                        39.419265
-                  ]
-            },
             {
                   "name": "Pedra do Elefante",
                   "text": "A prominent rock formation on the Berlengas Islands, resembling the shape of an elephant.",
@@ -8830,15 +7426,6 @@ export const portugalNature: POI[] = [
     id: "nat-madeira-laurisilva", "sights": {
       "de": [
             {
-                  "name": "Parque Natural da Madeira",
-                  "text": "Ein Schutzgebiet, das einen Großteil der Insel Madeira umfasst.",
-                  "category": "natural",
-                  "coords": [
-                        -17.02195,
-                        32.759646
-                  ]
-            },
-            {
                   "name": "Núcleo Museológico - Rota da Cal",
                   "text": "Museum zur Geschichte der Kalkgewinnung auf Madeira.",
                   "category": "museum",
@@ -8884,15 +7471,6 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Lapa do Galho",
-                  "text": "Ein Aussichtspunkt in der Natur von Madeira.",
-                  "category": "natural",
-                  "coords": [
-                        -17.026509,
-                        32.751859
-                  ]
-            },
-            {
                   "name": "Piscinas do Calamar",
                   "text": "Piscinas do Calamar ist eine Schwimmbadanlage im Gebiet des Lorbeerwaldes von Madeira.",
                   "category": "recreational",
@@ -8903,15 +7481,6 @@ export const portugalNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Parque Natural da Madeira",
-                  "text": "Madeira szigetének nagy részét lefedő természetvédelmi terület.",
-                  "category": "natural",
-                  "coords": [
-                        -17.02195,
-                        32.759646
-                  ]
-            },
             {
                   "name": "Núcleo Museológico - Rota da Cal",
                   "text": "Madeira mésztermelésének történetét bemutató múzeum.",
@@ -8958,15 +7527,6 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Lapa do Galho",
-                  "text": "Természeti kilátóhely Madeirán.",
-                  "category": "natural",
-                  "coords": [
-                        -17.026509,
-                        32.751859
-                  ]
-            },
-            {
                   "name": "Piscinas do Calamar",
                   "text": "A Piscinas do Calamar egy úszómedence-létesítmény Madeira babérerdőjének területén.",
                   "category": "recreational",
@@ -8977,15 +7537,6 @@ export const portugalNature: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Parque Natural da Madeira",
-                  "text": "O arie protejată care cuprinde o mare parte din insula Madeira.",
-                  "category": "natural",
-                  "coords": [
-                        -17.02195,
-                        32.759646
-                  ]
-            },
             {
                   "name": "Núcleo Museológico - Rota da Cal",
                   "text": "Muzeu dedicat istoriei producției de var din Madeira.",
@@ -9032,15 +7583,6 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Lapa do Galho",
-                  "text": "Un punct de belvedere în natura din Madeira.",
-                  "category": "natural",
-                  "coords": [
-                        -17.026509,
-                        32.751859
-                  ]
-            },
-            {
                   "name": "Piscinas do Calamar",
                   "text": "Piscinas do Calamar este o unitate de înot situată în zona pădurii de lauri din Madeira.",
                   "category": "recreational",
@@ -9051,15 +7593,6 @@ export const portugalNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Madeira Natural Park",
-                  "text": "A protected area covering a large part of Madeira Island.",
-                  "category": "natural",
-                  "coords": [
-                        -17.02195,
-                        32.759646
-                  ]
-            },
             {
                   "name": "Núcleo Museológico - Rota da Cal",
                   "text": "Museum dedicated to the history of lime production in Madeira.",
@@ -9103,15 +7636,6 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -17.037609,
                         32.796708
-                  ]
-            },
-            {
-                  "name": "Lapa do Galho",
-                  "text": "A viewpoint located in the nature of Madeira.",
-                  "category": "natural",
-                  "coords": [
-                        -17.026509,
-                        32.751859
                   ]
             },
             {
@@ -9521,39 +8045,12 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Real Fábrica de Gelo da Serra de Montejunto",
-                  "text": "Eine ehemalige königliche Eisfabrik aus dem 18. Jahrhundert, in der Eis für den Hof in Lissabon gewonnen wurde.",
-                  "category": "historical",
-                  "coords": [
-                        -9.050637,
-                        39.177782
-                  ]
-            },
-            {
                   "name": "Castro de Pragança",
                   "text": "Eine bedeutende archäologische Stätte einer Höhensiedlung, die seit der Kupferzeit bewohnt war.",
                   "category": "historical",
                   "coords": [
                         -9.058899,
                         39.198532
-                  ]
-            },
-            {
-                  "name": "Anfiteatro",
-                  "text": "Ein Freilufttheater in der Serra de Montejunto, das für kulturelle Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.049897,
-                        39.179724
-                  ]
-            },
-            {
-                  "name": "Convento dos Dominicanos",
-                  "text": "Die Ruinen eines Klosters aus dem 13. Jahrhundert, das malerisch in der Gebirgskette liegt.",
-                  "category": "religious",
-                  "coords": [
-                        -9.059107,
-                        39.17475
                   ]
             }
       ],
@@ -9568,39 +8065,12 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Real Fábrica de Gelo da Serra de Montejunto",
-                  "text": "Egy egykori királyi jéggyár a 18. századból, ahol a lisszaboni udvar számára készítettek jeget.",
-                  "category": "historical",
-                  "coords": [
-                        -9.050637,
-                        39.177782
-                  ]
-            },
-            {
                   "name": "Castro de Pragança",
                   "text": "Egy magaslati település jelentős régészeti lelőhelye, amely már a rézkor óta lakott volt.",
                   "category": "historical",
                   "coords": [
                         -9.058899,
                         39.198532
-                  ]
-            },
-            {
-                  "name": "Anfiteatro",
-                  "text": "Egy szabadtéri színház a Serra de Montejunto hegységben, amelyet kulturális eseményekre használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.049897,
-                        39.179724
-                  ]
-            },
-            {
-                  "name": "Convento dos Dominicanos",
-                  "text": "Egy 13. századi kolostor romjai, amely festői környezetben fekszik a hegységben.",
-                  "category": "religious",
-                  "coords": [
-                        -9.059107,
-                        39.17475
                   ]
             }
       ],
@@ -9615,39 +8085,12 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Real Fábrica de Gelo da Serra de Montejunto",
-                  "text": "O fostă fabrică regală de gheață din secolul al XVIII-lea, unde se producea gheață pentru curtea din Lisabona.",
-                  "category": "historical",
-                  "coords": [
-                        -9.050637,
-                        39.177782
-                  ]
-            },
-            {
                   "name": "Castro de Pragança",
                   "text": "Un sit arheologic important al unei așezări fortificate, locuită încă din Epoca Cuprului.",
                   "category": "historical",
                   "coords": [
                         -9.058899,
                         39.198532
-                  ]
-            },
-            {
-                  "name": "Anfiteatro",
-                  "text": "Un amfiteatru în aer liber din Serra de Montejunto, utilizat pentru evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.049897,
-                        39.179724
-                  ]
-            },
-            {
-                  "name": "Convento dos Dominicanos",
-                  "text": "Ruinele unei mănăstiri din secolul al XIII-lea, situată pitoresc în lanțul muntos.",
-                  "category": "religious",
-                  "coords": [
-                        -9.059107,
-                        39.17475
                   ]
             }
       ],
@@ -9662,39 +8105,12 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Real Fábrica de Gelo da Serra de Montejunto",
-                  "text": "A former royal ice factory from the 18th century where ice was produced for the court in Lisbon.",
-                  "category": "historical",
-                  "coords": [
-                        -9.050637,
-                        39.177782
-                  ]
-            },
-            {
                   "name": "Castro de Pragança",
                   "text": "An important archaeological site of a hilltop settlement inhabited since the Copper Age.",
                   "category": "historical",
                   "coords": [
                         -9.058899,
                         39.198532
-                  ]
-            },
-            {
-                  "name": "Anfiteatro",
-                  "text": "An open-air theatre in the Montejunto Range used for various cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.049897,
-                        39.179724
-                  ]
-            },
-            {
-                  "name": "Convento dos Dominicanos",
-                  "text": "The ruins of a 13th-century monastery picturesquely situated in the mountain range.",
-                  "category": "religious",
-                  "coords": [
-                        -9.059107,
-                        39.17475
                   ]
             }
       ]
@@ -10445,24 +8861,6 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Muíño",
-                  "text": "Praia do Muíño ist ein charmanter, lokaler Strand in der Gegend von A Guarda, der von der Nähe des Flusses Minho geprägt ist. Mit seiner authentischen, lokalen Atmosphäre dient er als wunderbarer Treffpunkt für alle, die einen entspannten Nachmittag verbringen möchten. Besucher können hier wunderbar schwimmen, sich in der Sonne ausruhen oder Spaziergänge an den portugiesischen Gewässern unternehmen. Für das beste Stranderlebnis empfiehlt sich ein Besuch in den Sommermonaten.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.868549,
-                        41.872873
-                  ]
-            },
-            {
-                  "name": "Praia da Armona",
-                  "text": "Entdecken Sie die Schönheit der Praia da Armona, einem wunderbaren Sandstrand in A Guarda, Portugal. Die allgemeine Stimmung ist friedlich und beruhigend, was es leicht macht, den Stress des Alltags zu vergessen. Sonnenbaden, Schwimmen im erfrischenden Wasser und Strandspaziergänge sind hier die absoluten Höhepunkte. Wer früh am Morgen anreist, kann sich mühelos einen perfekten Platz im Sand sichern.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.856023,
-                        41.882528
-                  ]
-            },
-            {
                   "name": "Praia da Ribeira",
                   "text": "Ein Flussstrand am Minho, der eine erfrischende Bademöglichkeit bietet.",
                   "category": "recreational",
@@ -10498,24 +8896,6 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -8.876276,
                         41.908009
-                  ]
-            },
-            {
-                  "name": "Praia do Muíño",
-                  "text": "A Praia do Muíño egy bájos helyi strand az A Guarda térségben, amelyet a Minho folyó jelenléte tesz különlegessé. Autentikus helyi hangulatával csodálatos találkozóhelyként szolgál azok számára, akik egy laza délutánra vágynak. A látogatók kedvükre úszhatnak, pihenhetnek a napon, vagy sétálhatnak a portugál vizek mentén. A legjobb strandélmény érdekében kifejezetten ajánlott a nyári hónapokban ellátogatni ide.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.868549,
-                        41.872873
-                  ]
-            },
-            {
-                  "name": "Praia da Armona",
-                  "text": "Fedezze fel a Praia da Armona szépségét, amely egy szép homokos menedék a portugáliai A Guarda-ban. Az általános hangulat békés és megnyugtató, így könnyen elfelejthetjük a mindennapok stresszét. A napozás, a frissítő vízben való úszás és a tengerparti séták jelentik itt a főbb látványosságokat. Érdemes kora reggel érkezni, hogy lefoglaljuk a tökéletes helyet a homokban.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.856023,
-                        41.882528
                   ]
             },
             {
@@ -10557,24 +8937,6 @@ export const portugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Muíño",
-                  "text": "Praia do Muíño este o plajă locală fermecătoare, amplasată în zona A Guarda, conturată de prezența râului Minho. Cu atmosfera sa locală autentică, servește drept un loc minunat de adunare pentru cei care caută o după-amiază relaxantă. Vizitatorii pot înota fericiți, se pot odihni sub soare sau se pot bucura de plimbări de-a lungul apelor portugheze. Vizitarea în timpul lunilor de vară este foarte recomandată pentru cea mai bună experiență pe plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.868549,
-                        41.872873
-                  ]
-            },
-            {
-                  "name": "Praia da Armona",
-                  "text": "Descoperiți frumusețea Praia da Armona, un refugiu frumos de nisip situat în A Guarda, Portugalia. Atmosfera generală este pașnică și liniștitoare, fiind ușor să uitați de stresul vieții de zi cu zi. Plaja, înotul în apele răcoritoare și plimbările pe coastă sunt principalele atracții aici. Luați în considerare sosirea dis-de-dimineață pentru a vă asigura un loc perfect pe nisip.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.856023,
-                        41.882528
-                  ]
-            },
-            {
                   "name": "Praia da Ribeira",
                   "text": "O plajă fluvială pe râul Minho, oferind un loc revigorant pentru înot.",
                   "category": "recreational",
@@ -10610,24 +8972,6 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -8.876276,
                         41.908009
-                  ]
-            },
-            {
-                  "name": "Praia do Muíño",
-                  "text": "Praia do Muíño is a charming local beach nestled in the A Guarda area, shaped by the presence of the Minho River. With its authentic local atmosphere, it serves as a wonderful gathering place for those seeking a laid-back afternoon. Visitors can happily swim, rest under the sun, or enjoy walks along the Portuguese waters. Visiting during the summer months is highly recommended for the best beach experience.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.868549,
-                        41.872873
-                  ]
-            },
-            {
-                  "name": "Praia da Armona",
-                  "text": "Discover the beauty of Praia da Armona, a lovely sandy retreat located within A Guarda, Portugal. The overall mood is peaceful and soothing, making it easy to forget the stresses of everyday life. Sunbathing, swimming in the refreshing waters, and coastal walks are the main highlights here. Consider arriving early in the morning to claim a perfect spot on the sand.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.856023,
-                        41.882528
                   ]
             },
             {
@@ -11198,24 +9542,6 @@ export const portugalNature: POI[] = [
     id: "forest-mata-nacional-de-leiria", "sights": {
       "de": [
             {
-                  "name": "Museu do Vidro",
-                  "text": "Museum zur Geschichte der Glasherstellung in Marinha Grande.",
-                  "category": "museum",
-                  "coords": [
-                        -8.933513,
-                        39.749407
-                  ]
-            },
-            {
-                  "name": "Museu Joaquim Correia",
-                  "text": "Museum mit Werken des Bildhauers Joaquim Correia.",
-                  "category": "museum",
-                  "coords": [
-                        -8.930912,
-                        39.751571
-                  ]
-            },
-            {
                   "name": "Baloiço do Forno da Telha",
                   "text": "Panoramaschaukel mit Blick auf die umliegende Landschaft.",
                   "category": "landmark",
@@ -11241,36 +9567,9 @@ export const portugalNature: POI[] = [
                         -8.946361,
                         39.754
                   ]
-            },
-            {
-                  "name": "Antiga Vigia da Boavista",
-                  "text": "Historisches Ausguckgebäude im Waldgebiet.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.925076,
-                        39.759582
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museu do Vidro",
-                  "text": "Az üveggyártás történetét bemutató múzeum Marinha Grandéban.",
-                  "category": "museum",
-                  "coords": [
-                        -8.933513,
-                        39.749407
-                  ]
-            },
-            {
-                  "name": "Museu Joaquim Correia",
-                  "text": "Joaquim Correia szobrászművész alkotásait bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -8.930912,
-                        39.751571
-                  ]
-            },
             {
                   "name": "Baloiço do Forno da Telha",
                   "text": "Panorámás hinta kilátással a környező tájra.",
@@ -11297,36 +9596,9 @@ export const portugalNature: POI[] = [
                         -8.946361,
                         39.754
                   ]
-            },
-            {
-                  "name": "Antiga Vigia da Boavista",
-                  "text": "Történelmi kilátóépület az erdő területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.925076,
-                        39.759582
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museu do Vidro",
-                  "text": "Muzeu dedicat istoriei fabricării sticlei în Marinha Grande.",
-                  "category": "museum",
-                  "coords": [
-                        -8.933513,
-                        39.749407
-                  ]
-            },
-            {
-                  "name": "Museu Joaquim Correia",
-                  "text": "Muzeu ce expune lucrările sculptorului Joaquim Correia.",
-                  "category": "museum",
-                  "coords": [
-                        -8.930912,
-                        39.751571
-                  ]
-            },
             {
                   "name": "Baloiço do Forno da Telha",
                   "text": "Leagăn panoramic cu vedere asupra peisajului înconjurător.",
@@ -11353,36 +9625,9 @@ export const portugalNature: POI[] = [
                         -8.946361,
                         39.754
                   ]
-            },
-            {
-                  "name": "Antiga Vigia da Boavista",
-                  "text": "Clădire istorică de observație în zona pădurii.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.925076,
-                        39.759582
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museu do Vidro",
-                  "text": "Museum dedicated to the history of glassmaking in Marinha Grande.",
-                  "category": "museum",
-                  "coords": [
-                        -8.933513,
-                        39.749407
-                  ]
-            },
-            {
-                  "name": "Museu Joaquim Correia",
-                  "text": "Museum featuring works by the sculptor Joaquim Correia.",
-                  "category": "museum",
-                  "coords": [
-                        -8.930912,
-                        39.751571
-                  ]
-            },
             {
                   "name": "Baloiço do Forno da Telha",
                   "text": "Panoramic swing offering views of the surrounding landscape.",
@@ -11408,15 +9653,6 @@ export const portugalNature: POI[] = [
                   "coords": [
                         -8.946361,
                         39.754
-                  ]
-            },
-            {
-                  "name": "Antiga Vigia da Boavista",
-                  "text": "Historical lookout building in the forest area.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.925076,
-                        39.759582
                   ]
             }
       ]
@@ -13664,15 +11900,6 @@ export const portugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ria Formosa",
-                  "text": "Ria Formosa bei Faro ist ein beeindruckendes Gewässer, das für seine natürliche Schönheit bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -7.783467,
-                        37.062263
-                  ]
-            },
-            {
                   "name": "Game Over (Arcade)",
                   "text": "Game Over ist eine lebhafte Spielhalle in Faro, die Unterhaltung für alle Altersgruppen bietet.",
                   "category": "family",
@@ -13942,15 +12169,6 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.940428,
                         37.036108
-                  ]
-            },
-            {
-                  "name": "Ria Formosa",
-                  "text": "A Faro melletti Ria Formosa egy lenyűgöző vízfelület, amely természeti szépségéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -7.783467,
-                        37.062263
                   ]
             },
             {
@@ -14226,15 +12444,6 @@ export const portugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ria Formosa",
-                  "text": "Ria Formosa de lângă Faro este o zonă de apă impresionantă, cunoscută pentru frumusețea sa naturală.",
-                  "category": "natural",
-                  "coords": [
-                        -7.783467,
-                        37.062263
-                  ]
-            },
-            {
                   "name": "Game Over (Arcade)",
                   "text": "Game Over este o sală de jocuri plină de viață din Faro ce oferă divertisment pentru toate vârstele.",
                   "category": "family",
@@ -14504,15 +12713,6 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -7.940428,
                         37.036108
-                  ]
-            },
-            {
-                  "name": "Ria Formosa",
-                  "text": "Ria Formosa near Faro is an impressive body of water known for its natural beauty.",
-                  "category": "natural",
-                  "coords": [
-                        -7.783467,
-                        37.062263
                   ]
             },
             {
@@ -27631,7 +25831,916 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-tavira", "sights": {"de": [{"name": "Praia da Terra Estreita na Ilha de Tavira", "text": "Versteckt auf der malerischen Insel Tavira, präsentiert sich der Praia da Terra Estreita als ruhiger und schmaler Küstenstreifen. Wer die Abgeschiedenheit schätzt, wird diese friedliche Ecke der Algarve schnell ins Herz schließen. Die naturnahe Umgebung lädt zu ungestörtem Sonnenbaden und entspannten Momenten am Wasser ein. Ein Bootstransfer zur Insel macht diesen Ausflug zu einem wunderbaren Tagesprogramm im Sommer.", "category": "recreational", "coords": [-7.639625, 37.098588]}, {"name": "Forte do Rato", "text": "Die Ruinen einer Küstenfestung aus dem 18. Jahrhundert, die den Fluss Gilão in Tavira bewachte.", "category": "castle", "coords": [-7.621336, 37.121483]}, {"name": "Bairro Almóada do Convento da Graça", "text": "Eine archäologische Stätte in Tavira mit den Überresten eines islamischen Wohnviertels.", "category": "historical", "coords": [-7.652777, 37.125175]}, {"name": "Museu Islâmico", "text": "Ein Museum in Tavira, das dem islamischen Erbe und der Geschichte der Stadt gewidmet ist.", "category": "museum", "coords": [-7.650226, 37.125905]}, {"name": "Centro Ciência Viva de Tavira", "text": "Ein interaktives Wissenschaftszentrum in Tavira in einem ehemaligen Wasserpumpwerk.", "category": "museum", "coords": [-7.646031, 37.129091]}, {"name": "Praia da Ilha de Tavira", "text": "Als beliebter Sandstrand ist der Praia da Ilha de Tavira ein faszinierendes Ziel vor der portugiesischen Küste. Mit seiner lebendigen, einladenden Atmosphäre zieht er Erholungssuchende und Naturfreunde gleichermaßen an. Besucher erwartet ein weitläufiger Ort zum Schwimmen und für ausgedehnte Spaziergänge entlang der Brandung. Die kurze Bootsfahrt von der Stadt Tavira aus sollte man am besten schon vormittags antreten.", "category": "recreational", "coords": [-7.620998, 37.109911]}, {"name": "Praia Tavira-Ria", "text": "Wo der Fluss ins Meer mündet, offenbart sich der malerische Küstenabschnitt des Praia Tavira-Ria. Die besondere Lage sorgt für ein abwechslungsreiches Landschaftsbild und eine entspannte Stimmung am Wasser. Hier lassen sich ruhige Momente beim Betrachten der sanften Wellen und der umliegenden Natur verbringen. Ein Spaziergang am späten Nachmittag rückt dieses Flusspanorama in ein besonders schönes Licht.", "category": "recreational", "coords": [-7.623417, 37.115079]}, {"name": "Praia do Forte da Barra", "text": "In der Nähe historischer Überreste einer alten Festung erstreckt sich der Praia do Forte da Barra bei Tavira. Diese Kulisse verleiht dem Sandstrand einen Hauch von Geschichte und eine ganz eigene, beschauliche Atmosphäre. Besucher können hier wunderbar in der Sonne verweilen oder die Spuren der Vergangenheit erkunden. Festes Schuhwerk ist für einen kleinen Abstecher zu den Ruinen stets eine gute Idee.", "category": "recreational", "coords": [-7.61198, 37.120012]}, {"name": "Museu Municipal", "text": "Das städtische Hauptmuseum von Tavira, das die lokale Geschichte und Kunst erforscht.", "category": "museum", "coords": [-7.651402, 37.126027]}, {"name": "Praia do Rato", "text": "Die Küstenstadt Tavira an der Algarve beheimatet den malerischen Strand Praia do Rato. Umgeben von der charakteristischen portugiesischen Landschaft, bietet dieser Ort einen idyllischen Rückzugsort am Ozean. Hier kann man dem Rauschen der Brandung lauschen und den Sand unter den Füßen spüren. Für Sonnenanbeter empfiehlt sich ein Besuch während der wärmsten Mittagsstunden.", "category": "recreational", "coords": [-7.625204, 37.11859]}, {"name": "Museu da Antiga Armação de Pesca do Atum", "text": "Ein Museum in Tavira, das der Geschichte des traditionellen Thunfischfangs gewidmet ist.", "category": "museum", "coords": [-7.626941, 37.119256]}, {"name": "Parque Rodoviário", "text": "Ein lokaler Park in Tavira, der als erholsame Grünanlage dient.", "category": "park", "coords": [-7.654295, 37.130826]}, {"name": "Casa das Artes de Tavira", "text": "Ein Kulturzentrum in Tavira, das verschiedene Kunstausstellungen und Veranstaltungen fördert.", "category": "cultural", "coords": [-7.652299, 37.128894]}, {"name": "Parque de Feiras e Exposições de Tavira", "text": "Ein Veranstaltungsort in Tavira, der für lokale Messen und Ausstellungen genutzt wird.", "category": "landmark", "coords": [-7.644563, 37.140344]}, {"name": "Largo de Santa Ana", "text": "Ein malerischer Platz in Tavira, der als Aussichtspunkt auf die Umgebung dient.", "category": "natural", "coords": [-7.65136, 37.128617]}, {"name": "Igreja de São Pedro Gonçalves Telmo", "text": "Eine religiöse Stätte in Tavira, die traditionell mit der Seefahrergemeinschaft verbunden ist.", "category": "religious", "coords": [-7.648582, 37.125155]}, {"name": "Ermida de São Sebastião", "text": "Eine kleine Kapelle in Tavira, die dem Heiligen Sebastian gewidmet ist.", "category": "religious", "coords": [-7.647067, 37.122375]}, {"name": "Igreja do antigo convento de São Francisco", "text": "Eine historische Kirche in Tavira, die ursprünglich zu einem Franziskanerkloster gehörte.", "category": "religious", "coords": [-7.650892, 37.122878]}, {"name": "Igreja do Antigo Convento dos Eremitas de São Paulo", "text": "Die Kirche eines ehemaligen Klosters in Tavira, die der religiösen Geschichte der Region gewidmet ist.", "category": "religious", "coords": [-7.649741, 37.128855]}, {"name": "Capela de Nossa Senhora da Consolação", "text": "Eine kleine Kapelle in Tavira, die für ihre ruhige Atmosphäre und religiöse Bedeutung bekannt ist.", "category": "religious", "coords": [-7.650802, 37.12466]}, {"name": "Ermida de São Roque", "text": "Eine dem Heiligen Rochus gewidmete Kapelle in Tavira, die als lokales Kulturdenkmal gilt.", "category": "religious", "coords": [-7.654324, 37.125345]}, {"name": "Ermida de Nossa Senhora das Angústias", "text": "Eine kleine religiöse Kapelle in Tavira, die der Muttergottes der Ängste gewidmet ist.", "category": "religious", "coords": [-7.660473, 37.118696]}, {"name": "Ermida de Nossa Senhora do Livramento", "text": "Eine dem religiösen Gebet gewidmete Kapelle in der Umgebung von Tavira.", "category": "religious", "coords": [-7.644296, 37.128342]}, {"name": "Reservatório de Santo Estêvão", "text": "Das Reservatório de Santo Estêvão ist ein ruhiges Gewässer in Tavira, ideal für Naturbeobachtungen.", "category": "natural", "coords": [-7.707055, 37.13013]}, {"name": "Filtros", "text": "Filtros ist ein kleiner See in Tavira, der sich harmonisch in die umliegende Landschaft einfügt.", "category": "natural", "coords": [-7.704972, 37.145928]}, {"name": "Lago", "text": "Dieser See in Tavira bietet eine friedliche Atmosphäre für entspannte Momente am Wasser.", "category": "natural", "coords": [-7.677744, 37.094144]}, {"name": "Ria Formosa", "text": "Ria Formosa in Tavira ist ein bedeutendes Feuchtgebiet mit einer faszinierenden Wasserlandschaft.", "category": "natural", "coords": [-7.783467, 37.062263]}], "hu": [{"name": "Praia da Terra Estreita na Ilha de Tavira", "text": "A festői Tavira-szigeten megbúvó Praia da Terra Estreita egy csendes és keskeny partszakasz. Aki értékeli az elzártságot, az hamar a szívébe fogja zárni Algarve e békés szegletét. A természetközeli környezet zavartalan napozásra és pihentető vízparti pillanatokra hívogat. A szigetre induló hajóút csodálatos nyári egésznapos programmá teszi a kirándulást.", "category": "recreational", "coords": [-7.639625, 37.098588]}, {"name": "Forte do Rato", "text": "Egy 18. századi tengerparti erőd romjai, amely a Gilão-folyót őrizte Taviránál.", "category": "castle", "coords": [-7.621336, 37.121483]}, {"name": "Bairro Almóada do Convento da Graça", "text": "Régészeti lelőhely Taviránál, amely egy iszlám lakónegyed maradványait mutatja be.", "category": "historical", "coords": [-7.652777, 37.125175]}, {"name": "Museu Islâmico", "text": "Tavira múzeuma, amelyet a város iszlám örökségének és történelmének szenteltek.", "category": "museum", "coords": [-7.650226, 37.125905]}, {"name": "Centro Ciência Viva de Tavira", "text": "Interaktív tudományos központ Taviránál, egy egykori szivattyúállomás épületében.", "category": "museum", "coords": [-7.646031, 37.129091]}, {"name": "Praia da Ilha de Tavira", "text": "A népszerű homokos tengerpartként számon tartott Praia da Ilha de Tavira lenyűgöző célpont a portugál partoknál. Élettel teli, hívogató légkörével egyaránt vonzza a pihenni vágyókat és a természetbarátokat. A látogatókat tágas tér várja, ahol úszhatnak és hosszú sétákat tehetnek a hullámverés mentén. A Tavira városából induló rövid hajóutat a legjobb már a délelőtti órákban elkezdeni.", "category": "recreational", "coords": [-7.620998, 37.109911]}, {"name": "Praia Tavira-Ria", "text": "Ahol a folyó a tengerbe ömlik, ott tárul elénk a Praia Tavira-Ria festői partszakasza. Különleges fekvése változatos tájat és nyugodt vízparti hangulatot biztosít. Itt csendes pillanatokat tölthetünk el a lágy hullámok és a környező természet megfigyelésével. Egy késő délutáni séta különösen szép fényben mutatja meg ezt a folyóparti panorámát.", "category": "recreational", "coords": [-7.623417, 37.115079]}, {"name": "Praia do Forte da Barra", "text": "Egy régi erődítmény történelmi maradványainak közelében terül el a Tavira melletti Praia do Forte da Barra. Ez a háttér egy csipetnyi történelmet és egyedi, szemlélődő hangulatot kölcsönöz a homokos partnak. A látogatók csodálatosan elidőzhetnek itt a napon, vagy felfedezhetik a múlt nyomait. A masszív cipő mindig jó ötlet a romokhoz tett rövid kitérőhöz.", "category": "recreational", "coords": [-7.61198, 37.120012]}, {"name": "Museu Municipal", "text": "Tavira központi városi múzeuma, amely a helyi történelmet és művészetet mutatja be.", "category": "museum", "coords": [-7.651402, 37.126027]}, {"name": "Praia do Rato", "text": "Az algarve-i partmenti város, Tavira ad otthont a festői Praia do Rato strandnak. A jellegzetes portugál tájjal körülvett hely idilli óceánparti menedéket kínál. Itt meghallgathatjuk a hullámverés zúgását, és érezhetjük a homokot a talpunk alatt. A napozás szerelmeseinek a legmelegebb déli órákban ajánlott a látogatás.", "category": "recreational", "coords": [-7.625204, 37.11859]}, {"name": "Museu da Antiga Armação de Pesca do Atum", "text": "A hagyományos tonhalhalászat történetét bemutató múzeum Tavira városában.", "category": "museum", "coords": [-7.626941, 37.119256]}, {"name": "Parque Rodoviário", "text": "Helyi park Tavira városában, amely pihenésre alkalmas zöldterületként szolgál.", "category": "park", "coords": [-7.654295, 37.130826]}, {"name": "Casa das Artes de Tavira", "text": "Kulturális központ Tavira városában, amely különféle művészeti kiállításokat és eseményeket támogat.", "category": "cultural", "coords": [-7.652299, 37.128894]}, {"name": "Parque de Feiras e Exposições de Tavira", "text": "Tavira városának rendezvényhelyszíne, amelyet helyi vásárokra és kiállításokra használnak.", "category": "landmark", "coords": [-7.644563, 37.140344]}, {"name": "Largo de Santa Ana", "text": "Festői tér Tavira városában, amely kilátópontként szolgál a környező területre.", "category": "natural", "coords": [-7.65136, 37.128617]}, {"name": "Igreja de São Pedro Gonçalves Telmo", "text": "Vallási helyszín Tavira városában, amely hagyományosan a tengerész közösséghez kötődik.", "category": "religious", "coords": [-7.648582, 37.125155]}, {"name": "Ermida de São Sebastião", "text": "Szent Sebestyén tiszteletére szentelt kisméretű kápolna Tavira városában.", "category": "religious", "coords": [-7.647067, 37.122375]}, {"name": "Igreja do antigo convento de São Francisco", "text": "Történelmi templom Tavira városában, amely eredetileg egy ferences kolostor része volt.", "category": "religious", "coords": [-7.650892, 37.122878]}, {"name": "Igreja do Antigo Convento dos Eremitas de São Paulo", "text": "Egy egykori kolostor temploma Tavira városában, amely a régió vallástörténetét őrzi.", "category": "religious", "coords": [-7.649741, 37.128855]}, {"name": "Capela de Nossa Senhora da Consolação", "text": "Kisméretű kápolna Tavira városában, amely nyugodt légköréről és vallási jelentőségéről ismert.", "category": "religious", "coords": [-7.650802, 37.12466]}, {"name": "Ermida de São Roque", "text": "Szent Rókusnak szentelt kápolna Tavira városában, amely helyi műemléknek számít.", "category": "religious", "coords": [-7.654324, 37.125345]}, {"name": "Ermida de Nossa Senhora das Angústias", "text": "Kisméretű vallási kápolna Tavira városában, a Szorongó Szűzanyának szentelve.", "category": "religious", "coords": [-7.660473, 37.118696]}, {"name": "Ermida de Nossa Senhora do Livramento", "text": "Vallási áhítatnak szentelt kápolna Tavira környékén.", "category": "religious", "coords": [-7.644296, 37.128342]}, {"name": "Reservatório de Santo Estêvão", "text": "A Reservatório de Santo Estêvão egy csendes víztározó Tavirában, ideális a természet megfigyelésére.", "category": "natural", "coords": [-7.707055, 37.13013]}, {"name": "Filtros", "text": "A Filtros egy kis tó Tavirában, amely harmonikusan illeszkedik a környező tájba.", "category": "natural", "coords": [-7.704972, 37.145928]}, {"name": "Lago", "text": "Ez a tavirai tó békés légkört biztosít a vízparti pihenéshez.", "category": "natural", "coords": [-7.677744, 37.094144]}, {"name": "Ria Formosa", "text": "A Tavirában található Ria Formosa egy jelentős vizes élőhely lenyűgöző vízi tájjal.", "category": "natural", "coords": [-7.783467, 37.062263]}], "ro": [{"name": "Praia da Terra Estreita na Ilha de Tavira", "text": "Ascunsă pe pitoreasca insulă Tavira, Praia da Terra Estreita este o fâșie de coastă liniștită și îngustă. Cei care apreciază izolarea vor îndrăgi rapid acest colț pașnic al regiunii Algarve. Mediul natural vă invită la băi de soare netulburate și la momente de relaxare lângă apă. Un transfer cu barca către insulă face din această excursie un program minunat pentru o zi de vară.", "category": "recreational", "coords": [-7.639625, 37.098588]}, {"name": "Forte do Rato", "text": "Ruinele unui fort de coastă din secolul al XVIII-lea care păzea râul Gilão din Tavira.", "category": "castle", "coords": [-7.621336, 37.121483]}, {"name": "Bairro Almóada do Convento da Graça", "text": "Un sit arheologic din Tavira care prezintă rămășițele unui cartier rezidențial islamic.", "category": "historical", "coords": [-7.652777, 37.125175]}, {"name": "Museu Islâmico", "text": "Un muzeu din Tavira dedicat moștenirii islamice și istoriei orașului.", "category": "museum", "coords": [-7.650226, 37.125905]}, {"name": "Centro Ciência Viva de Tavira", "text": "Un centru de știință interactiv din Tavira, situat într-o fostă stație de pompare a apei.", "category": "museum", "coords": [-7.646031, 37.129091]}, {"name": "Praia da Ilha de Tavira", "text": "Ca plajă populară cu nisip, Praia da Ilha de Tavira este o destinație fascinantă pe coasta portugheză. Cu atmosfera sa plină de viață și primitoare, atrage atât persoanele în căutare de relaxare, cât și iubitorii de natură. Un spațiu vast îi așteaptă pe vizitatori pentru înot și plimbări lungi de-a lungul valurilor. Scurta plimbare cu barca din orașul Tavira se face cel mai bine dimineața.", "category": "recreational", "coords": [-7.620998, 37.109911]}, {"name": "Praia Tavira-Ria", "text": "Acolo unde râul se varsă în mare, se dezvăluie porțiunea de coastă pitorească de la Praia Tavira-Ria. Locația deosebită asigură un peisaj variat și o atmosferă relaxată la malul apei. Aici puteți petrece momente liniștite urmărind valurile blânde și natura înconjurătoare. O plimbare la sfârșitul după-amiezii pune această panoramă a râului într-o lumină deosebit de frumoasă.", "category": "recreational", "coords": [-7.623417, 37.115079]}, {"name": "Praia do Forte da Barra", "text": "Lângă rămășițele istorice ale unei vechi fortărețe se întinde Praia do Forte da Barra din Tavira. Acest fundal conferă plajei de nisip o notă de istorie și o atmosferă proprie, contemplativă. Vizitatorii pot zăbovi minunat la soare aici sau pot explora urmele trecutului. Încălțămintea rezistentă este întotdeauna o idee bună pentru un scurt ocol la ruine.", "category": "recreational", "coords": [-7.61198, 37.120012]}, {"name": "Museu Municipal", "text": "Principalul muzeu municipal din Tavira, care explorează istoria și arta locală.", "category": "museum", "coords": [-7.651402, 37.126027]}, {"name": "Praia do Rato", "text": "Orașul de coastă Tavira din Algarve găzduiește plaja pitorească Praia do Rato. Înconjurat de peisajul portughez caracteristic, acest loc oferă o retragere idilică lângă ocean. Aici puteți asculta sunetul valurilor și puteți simți nisipul sub picioare. Pentru iubitorii de soare, se recomandă o vizită în timpul celor mai calde ore ale prânzului.", "category": "recreational", "coords": [-7.625204, 37.11859]}, {"name": "Museu da Antiga Armação de Pesca do Atum", "text": "Un muzeu din Tavira dedicat istoriei pescuitului tradițional de ton.", "category": "museum", "coords": [-7.626941, 37.119256]}, {"name": "Parque Rodoviário", "text": "Un parc local din Tavira care servește ca zonă verde pentru recreere.", "category": "park", "coords": [-7.654295, 37.130826]}, {"name": "Casa das Artes de Tavira", "text": "Un centru cultural din Tavira care promovează diverse expoziții de artă și evenimente.", "category": "cultural", "coords": [-7.652299, 37.128894]}, {"name": "Parque de Feiras e Exposições de Tavira", "text": "Un spațiu de evenimente din Tavira utilizat pentru târguri locale și expoziții.", "category": "landmark", "coords": [-7.644563, 37.140344]}, {"name": "Largo de Santa Ana", "text": "O piață pitorească din Tavira care servește drept punct de belvedere asupra zonei înconjurătoare.", "category": "natural", "coords": [-7.65136, 37.128617]}, {"name": "Igreja de São Pedro Gonçalves Telmo", "text": "Un lăcaș de cult din Tavira, legat tradițional de comunitatea navigatorilor.", "category": "religious", "coords": [-7.648582, 37.125155]}, {"name": "Ermida de São Sebastião", "text": "O mică capelă din Tavira dedicată Sfântului Sebastian.", "category": "religious", "coords": [-7.647067, 37.122375]}, {"name": "Igreja do antigo convento de São Francisco", "text": "O biserică istorică din Tavira care a aparținut inițial unei mănăstiri franciscane.", "category": "religious", "coords": [-7.650892, 37.122878]}, {"name": "Igreja do Antigo Convento dos Eremitas de São Paulo", "text": "Biserica unei foste mănăstiri din Tavira, dedicată istoriei religioase a regiunii.", "category": "religious", "coords": [-7.649741, 37.128855]}, {"name": "Capela de Nossa Senhora da Consolação", "text": "O mică capelă din Tavira cunoscută pentru atmosfera sa liniștită și semnificația religioasă.", "category": "religious", "coords": [-7.650802, 37.12466]}, {"name": "Ermida de São Roque", "text": "O capelă dedicată Sfântului Rochus în Tavira, considerată monument cultural local.", "category": "religious", "coords": [-7.654324, 37.125345]}, {"name": "Ermida de Nossa Senhora das Angústias", "text": "O mică capelă religioasă din Tavira dedicată Maicii Domnului a Suferințelor.", "category": "religious", "coords": [-7.660473, 37.118696]}, {"name": "Ermida de Nossa Senhora do Livramento", "text": "O capelă dedicată rugăciunii religioase în zona Tavira.", "category": "religious", "coords": [-7.644296, 37.128342]}, {"name": "Reservatório de Santo Estêvão", "text": "Reservatório de Santo Estêvão este o acumulare de apă liniștită din Tavira, ideală pentru observarea naturii.", "category": "natural", "coords": [-7.707055, 37.13013]}, {"name": "Filtros", "text": "Filtros este un mic lac din Tavira care se integrează armonios în peisajul înconjurător.", "category": "natural", "coords": [-7.704972, 37.145928]}, {"name": "Lago", "text": "Acest lac din Tavira oferă o atmosferă pașnică pentru momente de relaxare lângă apă.", "category": "natural", "coords": [-7.677744, 37.094144]}, {"name": "Ria Formosa", "text": "Ria Formosa din Tavira este o zonă umedă importantă, cu un peisaj acvatic fascinant.", "category": "natural", "coords": [-7.783467, 37.062263]}], "en": [{"name": "Praia da Terra Estreita na Ilha de Tavira", "text": "Hidden on the picturesque island of Tavira, Praia da Terra Estreita is a quiet and narrow strip of coastline. Those who appreciate seclusion will quickly take this peaceful corner of the Algarve to their hearts. The natural surroundings invite you to undisturbed sunbathing and relaxing moments by the water. A boat transfer to the island makes this excursion a wonderful summer day program.", "category": "recreational", "coords": [-7.639625, 37.098588]}, {"name": "Forte do Rato", "text": "The ruins of an 18th-century coastal fort guarding the Gilão River in Tavira.", "category": "castle", "coords": [-7.621336, 37.121483]}, {"name": "Bairro Almóada do Convento da Graça", "text": "An archaeological site in Tavira showcasing the remains of an Islamic residential quarter.", "category": "historical", "coords": [-7.652777, 37.125175]}, {"name": "Museu Islâmico", "text": "A museum in Tavira dedicated to the city's Islamic heritage and history.", "category": "museum", "coords": [-7.650226, 37.125905]}, {"name": "Tavira Science Centre", "text": "An interactive science center in Tavira located in a former water pumping station.", "category": "museum", "coords": [-7.646031, 37.129091]}, {"name": "Praia da Ilha de Tavira", "text": "As a popular sandy beach, Praia da Ilha de Tavira is a fascinating destination off the Portuguese coast. With its lively, inviting atmosphere, it attracts relaxation seekers and nature lovers alike. A spacious place awaits visitors for swimming and long walks along the surf. The short boat ride from the town of Tavira is best taken in the morning.", "category": "recreational", "coords": [-7.620998, 37.109911]}, {"name": "Praia Tavira-Ria", "text": "Where the river meets the sea, the picturesque coastal stretch of Praia Tavira-Ria reveals itself. The special location ensures a varied landscape and a relaxed atmosphere by the water. Here you can spend quiet moments watching the gentle waves and the surrounding nature. A late afternoon walk puts this river panorama in a particularly beautiful light.", "category": "recreational", "coords": [-7.623417, 37.115079]}, {"name": "Praia do Forte da Barra", "text": "Near the historical remains of an old fortress stretches Praia do Forte da Barra near Tavira. This backdrop gives the sandy beach a touch of history and a very distinct, contemplative atmosphere. Visitors can linger wonderfully in the sun here or explore the traces of the past. Sturdy shoes are always a good idea for a short detour to the ruins.", "category": "recreational", "coords": [-7.61198, 37.120012]}, {"name": "Museu Municipal", "text": "The main municipal museum of Tavira, exploring local history and art.", "category": "museum", "coords": [-7.651402, 37.126027]}, {"name": "Praia do Rato", "text": "The coastal town of Tavira in the Algarve is home to the picturesque Praia do Rato beach. Surrounded by the characteristic Portuguese landscape, this place offers an idyllic retreat by the ocean. Here you can listen to the sound of the surf and feel the sand under your feet. For sun worshippers, a visit during the warmest midday hours is recommended.", "category": "recreational", "coords": [-7.625204, 37.11859]}, {"name": "Museum of the traditional tuna fishing", "text": "A museum in Tavira dedicated to the history of traditional tuna fishing.", "category": "museum", "coords": [-7.626941, 37.119256]}, {"name": "Parque Rodoviário", "text": "A local park in Tavira that serves as a relaxing green area.", "category": "park", "coords": [-7.654295, 37.130826]}, {"name": "Casa das Artes de Tavira", "text": "A cultural center in Tavira promoting various art exhibitions and events.", "category": "cultural", "coords": [-7.652299, 37.128894]}, {"name": "Parque de Feiras e Exposições de Tavira", "text": "An event venue in Tavira used for local fairs and exhibitions.", "category": "landmark", "coords": [-7.644563, 37.140344]}, {"name": "Largo de Santa Ana", "text": "A picturesque square in Tavira that serves as a viewpoint over the surrounding area.", "category": "natural", "coords": [-7.65136, 37.128617]}, {"name": "Igreja de São Pedro Gonçalves Telmo", "text": "A religious site in Tavira traditionally associated with the seafaring community.", "category": "religious", "coords": [-7.648582, 37.125155]}, {"name": "Ermida de São Sebastião", "text": "A small chapel in Tavira dedicated to Saint Sebastian.", "category": "religious", "coords": [-7.647067, 37.122375]}, {"name": "Igreja do antigo convento de São Francisco", "text": "A historic church in Tavira that originally belonged to a Franciscan convent.", "category": "religious", "coords": [-7.650892, 37.122878]}, {"name": "Igreja do Antigo Convento dos Eremitas de São Paulo", "text": "The church of a former convent in Tavira, dedicated to the religious history of the region.", "category": "religious", "coords": [-7.649741, 37.128855]}, {"name": "Capela de Nossa Senhora da Consolação", "text": "A small chapel in Tavira known for its calm atmosphere and religious significance.", "category": "religious", "coords": [-7.650802, 37.12466]}, {"name": "Ermida de São Roque", "text": "A chapel dedicated to Saint Roch in Tavira, considered a local cultural monument.", "category": "religious", "coords": [-7.654324, 37.125345]}, {"name": "Ermida de Nossa Senhora das Angústias", "text": "A small religious chapel in Tavira dedicated to Our Lady of Sorrows.", "category": "religious", "coords": [-7.660473, 37.118696]}, {"name": "Ermida de Nossa Senhora do Livramento", "text": "A chapel dedicated to religious devotion in the area of Tavira.", "category": "religious", "coords": [-7.644296, 37.128342]}, {"name": "Reservatório de Santo Estêvão", "text": "Reservatório de Santo Estêvão is a calm reservoir in Tavira, ideal for nature observation.", "category": "natural", "coords": [-7.707055, 37.13013]}, {"name": "Filtros", "text": "Filtros is a small lake in Tavira that blends harmoniously into the surrounding landscape.", "category": "natural", "coords": [-7.704972, 37.145928]}, {"name": "Lago", "text": "This lake in Tavira offers a peaceful atmosphere for relaxing moments by the water.", "category": "natural", "coords": [-7.677744, 37.094144]}, {"name": "Ria Formosa", "text": "Ria Formosa in Tavira is an important wetland with a fascinating aquatic landscape.", "category": "natural", "coords": [-7.783467, 37.062263]}]},
+    id: "city-tavira", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "Versteckt auf der malerischen Insel Tavira, präsentiert sich der Praia da Terra Estreita als ruhiger und schmaler Küstenstreifen. Wer die Abgeschiedenheit schätzt, wird diese friedliche Ecke der Algarve schnell ins Herz schließen. Die naturnahe Umgebung lädt zu ungestörtem Sonnenbaden und entspannten Momenten am Wasser ein. Ein Bootstransfer zur Insel macht diesen Ausflug zu einem wunderbaren Tagesprogramm im Sommer.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639625,
+                        37.098588
+                  ]
+            },
+            {
+                  "name": "Forte do Rato",
+                  "text": "Die Ruinen einer Küstenfestung aus dem 18. Jahrhundert, die den Fluss Gilão in Tavira bewachte.",
+                  "category": "castle",
+                  "coords": [
+                        -7.621336,
+                        37.121483
+                  ]
+            },
+            {
+                  "name": "Bairro Almóada do Convento da Graça",
+                  "text": "Eine archäologische Stätte in Tavira mit den Überresten eines islamischen Wohnviertels.",
+                  "category": "historical",
+                  "coords": [
+                        -7.652777,
+                        37.125175
+                  ]
+            },
+            {
+                  "name": "Museu Islâmico",
+                  "text": "Ein Museum in Tavira, das dem islamischen Erbe und der Geschichte der Stadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.650226,
+                        37.125905
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva de Tavira",
+                  "text": "Ein interaktives Wissenschaftszentrum in Tavira in einem ehemaligen Wasserpumpwerk.",
+                  "category": "museum",
+                  "coords": [
+                        -7.646031,
+                        37.129091
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "Wo der Fluss ins Meer mündet, offenbart sich der malerische Küstenabschnitt des Praia Tavira-Ria. Die besondere Lage sorgt für ein abwechslungsreiches Landschaftsbild und eine entspannte Stimmung am Wasser. Hier lassen sich ruhige Momente beim Betrachten der sanften Wellen und der umliegenden Natur verbringen. Ein Spaziergang am späten Nachmittag rückt dieses Flusspanorama in ein besonders schönes Licht.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623417,
+                        37.115079
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "In der Nähe historischer Überreste einer alten Festung erstreckt sich der Praia do Forte da Barra bei Tavira. Diese Kulisse verleiht dem Sandstrand einen Hauch von Geschichte und eine ganz eigene, beschauliche Atmosphäre. Besucher können hier wunderbar in der Sonne verweilen oder die Spuren der Vergangenheit erkunden. Festes Schuhwerk ist für einen kleinen Abstecher zu den Ruinen stets eine gute Idee.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.61198,
+                        37.120012
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "Das städtische Hauptmuseum von Tavira, das die lokale Geschichte und Kunst erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        -7.651402,
+                        37.126027
+                  ]
+            },
+            {
+                  "name": "Praia do Rato",
+                  "text": "Die Küstenstadt Tavira an der Algarve beheimatet den malerischen Strand Praia do Rato. Umgeben von der charakteristischen portugiesischen Landschaft, bietet dieser Ort einen idyllischen Rückzugsort am Ozean. Hier kann man dem Rauschen der Brandung lauschen und den Sand unter den Füßen spüren. Für Sonnenanbeter empfiehlt sich ein Besuch während der wärmsten Mittagsstunden.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.625204,
+                        37.11859
+                  ]
+            },
+            {
+                  "name": "Museu da Antiga Armação de Pesca do Atum",
+                  "text": "Ein Museum in Tavira, das der Geschichte des traditionellen Thunfischfangs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.626941,
+                        37.119256
+                  ]
+            },
+            {
+                  "name": "Parque Rodoviário",
+                  "text": "Ein lokaler Park in Tavira, der als erholsame Grünanlage dient.",
+                  "category": "park",
+                  "coords": [
+                        -7.654295,
+                        37.130826
+                  ]
+            },
+            {
+                  "name": "Casa das Artes de Tavira",
+                  "text": "Ein Kulturzentrum in Tavira, das verschiedene Kunstausstellungen und Veranstaltungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.652299,
+                        37.128894
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições de Tavira",
+                  "text": "Ein Veranstaltungsort in Tavira, der für lokale Messen und Ausstellungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.644563,
+                        37.140344
+                  ]
+            },
+            {
+                  "name": "Largo de Santa Ana",
+                  "text": "Ein malerischer Platz in Tavira, der als Aussichtspunkt auf die Umgebung dient.",
+                  "category": "natural",
+                  "coords": [
+                        -7.65136,
+                        37.128617
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro Gonçalves Telmo",
+                  "text": "Eine religiöse Stätte in Tavira, die traditionell mit der Seefahrergemeinschaft verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.648582,
+                        37.125155
+                  ]
+            },
+            {
+                  "name": "Ermida de São Sebastião",
+                  "text": "Eine kleine Kapelle in Tavira, die dem Heiligen Sebastian gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.647067,
+                        37.122375
+                  ]
+            },
+            {
+                  "name": "Igreja do antigo convento de São Francisco",
+                  "text": "Eine historische Kirche in Tavira, die ursprünglich zu einem Franziskanerkloster gehörte.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650892,
+                        37.122878
+                  ]
+            },
+            {
+                  "name": "Igreja do Antigo Convento dos Eremitas de São Paulo",
+                  "text": "Die Kirche eines ehemaligen Klosters in Tavira, die der religiösen Geschichte der Region gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.649741,
+                        37.128855
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "Eine kleine Kapelle in Tavira, die für ihre ruhige Atmosphäre und religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650802,
+                        37.12466
+                  ]
+            },
+            {
+                  "name": "Ermida de São Roque",
+                  "text": "Eine dem Heiligen Rochus gewidmete Kapelle in Tavira, die als lokales Kulturdenkmal gilt.",
+                  "category": "religious",
+                  "coords": [
+                        -7.654324,
+                        37.125345
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora das Angústias",
+                  "text": "Eine kleine religiöse Kapelle in Tavira, die der Muttergottes der Ängste gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.660473,
+                        37.118696
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Livramento",
+                  "text": "Eine dem religiösen Gebet gewidmete Kapelle in der Umgebung von Tavira.",
+                  "category": "religious",
+                  "coords": [
+                        -7.644296,
+                        37.128342
+                  ]
+            },
+            {
+                  "name": "Reservatório de Santo Estêvão",
+                  "text": "Das Reservatório de Santo Estêvão ist ein ruhiges Gewässer in Tavira, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -7.707055,
+                        37.13013
+                  ]
+            },
+            {
+                  "name": "Filtros",
+                  "text": "Filtros ist ein kleiner See in Tavira, der sich harmonisch in die umliegende Landschaft einfügt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.704972,
+                        37.145928
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Dieser See in Tavira bietet eine friedliche Atmosphäre für entspannte Momente am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -7.677744,
+                        37.094144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "A festői Tavira-szigeten megbúvó Praia da Terra Estreita egy csendes és keskeny partszakasz. Aki értékeli az elzártságot, az hamar a szívébe fogja zárni Algarve e békés szegletét. A természetközeli környezet zavartalan napozásra és pihentető vízparti pillanatokra hívogat. A szigetre induló hajóút csodálatos nyári egésznapos programmá teszi a kirándulást.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639625,
+                        37.098588
+                  ]
+            },
+            {
+                  "name": "Forte do Rato",
+                  "text": "Egy 18. századi tengerparti erőd romjai, amely a Gilão-folyót őrizte Taviránál.",
+                  "category": "castle",
+                  "coords": [
+                        -7.621336,
+                        37.121483
+                  ]
+            },
+            {
+                  "name": "Bairro Almóada do Convento da Graça",
+                  "text": "Régészeti lelőhely Taviránál, amely egy iszlám lakónegyed maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -7.652777,
+                        37.125175
+                  ]
+            },
+            {
+                  "name": "Museu Islâmico",
+                  "text": "Tavira múzeuma, amelyet a város iszlám örökségének és történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -7.650226,
+                        37.125905
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva de Tavira",
+                  "text": "Interaktív tudományos központ Taviránál, egy egykori szivattyúállomás épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -7.646031,
+                        37.129091
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "Ahol a folyó a tengerbe ömlik, ott tárul elénk a Praia Tavira-Ria festői partszakasza. Különleges fekvése változatos tájat és nyugodt vízparti hangulatot biztosít. Itt csendes pillanatokat tölthetünk el a lágy hullámok és a környező természet megfigyelésével. Egy késő délutáni séta különösen szép fényben mutatja meg ezt a folyóparti panorámát.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623417,
+                        37.115079
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "Egy régi erődítmény történelmi maradványainak közelében terül el a Tavira melletti Praia do Forte da Barra. Ez a háttér egy csipetnyi történelmet és egyedi, szemlélődő hangulatot kölcsönöz a homokos partnak. A látogatók csodálatosan elidőzhetnek itt a napon, vagy felfedezhetik a múlt nyomait. A masszív cipő mindig jó ötlet a romokhoz tett rövid kitérőhöz.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.61198,
+                        37.120012
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "Tavira központi városi múzeuma, amely a helyi történelmet és művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.651402,
+                        37.126027
+                  ]
+            },
+            {
+                  "name": "Praia do Rato",
+                  "text": "Az algarve-i partmenti város, Tavira ad otthont a festői Praia do Rato strandnak. A jellegzetes portugál tájjal körülvett hely idilli óceánparti menedéket kínál. Itt meghallgathatjuk a hullámverés zúgását, és érezhetjük a homokot a talpunk alatt. A napozás szerelmeseinek a legmelegebb déli órákban ajánlott a látogatás.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.625204,
+                        37.11859
+                  ]
+            },
+            {
+                  "name": "Museu da Antiga Armação de Pesca do Atum",
+                  "text": "A hagyományos tonhalhalászat történetét bemutató múzeum Tavira városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.626941,
+                        37.119256
+                  ]
+            },
+            {
+                  "name": "Parque Rodoviário",
+                  "text": "Helyi park Tavira városában, amely pihenésre alkalmas zöldterületként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        -7.654295,
+                        37.130826
+                  ]
+            },
+            {
+                  "name": "Casa das Artes de Tavira",
+                  "text": "Kulturális központ Tavira városában, amely különféle művészeti kiállításokat és eseményeket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.652299,
+                        37.128894
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições de Tavira",
+                  "text": "Tavira városának rendezvényhelyszíne, amelyet helyi vásárokra és kiállításokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.644563,
+                        37.140344
+                  ]
+            },
+            {
+                  "name": "Largo de Santa Ana",
+                  "text": "Festői tér Tavira városában, amely kilátópontként szolgál a környező területre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.65136,
+                        37.128617
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro Gonçalves Telmo",
+                  "text": "Vallási helyszín Tavira városában, amely hagyományosan a tengerész közösséghez kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        -7.648582,
+                        37.125155
+                  ]
+            },
+            {
+                  "name": "Ermida de São Sebastião",
+                  "text": "Szent Sebestyén tiszteletére szentelt kisméretű kápolna Tavira városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.647067,
+                        37.122375
+                  ]
+            },
+            {
+                  "name": "Igreja do antigo convento de São Francisco",
+                  "text": "Történelmi templom Tavira városában, amely eredetileg egy ferences kolostor része volt.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650892,
+                        37.122878
+                  ]
+            },
+            {
+                  "name": "Igreja do Antigo Convento dos Eremitas de São Paulo",
+                  "text": "Egy egykori kolostor temploma Tavira városában, amely a régió vallástörténetét őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        -7.649741,
+                        37.128855
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "Kisméretű kápolna Tavira városában, amely nyugodt légköréről és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650802,
+                        37.12466
+                  ]
+            },
+            {
+                  "name": "Ermida de São Roque",
+                  "text": "Szent Rókusnak szentelt kápolna Tavira városában, amely helyi műemléknek számít.",
+                  "category": "religious",
+                  "coords": [
+                        -7.654324,
+                        37.125345
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora das Angústias",
+                  "text": "Kisméretű vallási kápolna Tavira városában, a Szorongó Szűzanyának szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -7.660473,
+                        37.118696
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Livramento",
+                  "text": "Vallási áhítatnak szentelt kápolna Tavira környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.644296,
+                        37.128342
+                  ]
+            },
+            {
+                  "name": "Reservatório de Santo Estêvão",
+                  "text": "A Reservatório de Santo Estêvão egy csendes víztározó Tavirában, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        -7.707055,
+                        37.13013
+                  ]
+            },
+            {
+                  "name": "Filtros",
+                  "text": "A Filtros egy kis tó Tavirában, amely harmonikusan illeszkedik a környező tájba.",
+                  "category": "natural",
+                  "coords": [
+                        -7.704972,
+                        37.145928
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Ez a tavirai tó békés légkört biztosít a vízparti pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -7.677744,
+                        37.094144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "Ascunsă pe pitoreasca insulă Tavira, Praia da Terra Estreita este o fâșie de coastă liniștită și îngustă. Cei care apreciază izolarea vor îndrăgi rapid acest colț pașnic al regiunii Algarve. Mediul natural vă invită la băi de soare netulburate și la momente de relaxare lângă apă. Un transfer cu barca către insulă face din această excursie un program minunat pentru o zi de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639625,
+                        37.098588
+                  ]
+            },
+            {
+                  "name": "Forte do Rato",
+                  "text": "Ruinele unui fort de coastă din secolul al XVIII-lea care păzea râul Gilão din Tavira.",
+                  "category": "castle",
+                  "coords": [
+                        -7.621336,
+                        37.121483
+                  ]
+            },
+            {
+                  "name": "Bairro Almóada do Convento da Graça",
+                  "text": "Un sit arheologic din Tavira care prezintă rămășițele unui cartier rezidențial islamic.",
+                  "category": "historical",
+                  "coords": [
+                        -7.652777,
+                        37.125175
+                  ]
+            },
+            {
+                  "name": "Museu Islâmico",
+                  "text": "Un muzeu din Tavira dedicat moștenirii islamice și istoriei orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -7.650226,
+                        37.125905
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva de Tavira",
+                  "text": "Un centru de știință interactiv din Tavira, situat într-o fostă stație de pompare a apei.",
+                  "category": "museum",
+                  "coords": [
+                        -7.646031,
+                        37.129091
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "Acolo unde râul se varsă în mare, se dezvăluie porțiunea de coastă pitorească de la Praia Tavira-Ria. Locația deosebită asigură un peisaj variat și o atmosferă relaxată la malul apei. Aici puteți petrece momente liniștite urmărind valurile blânde și natura înconjurătoare. O plimbare la sfârșitul după-amiezii pune această panoramă a râului într-o lumină deosebit de frumoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623417,
+                        37.115079
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "Lângă rămășițele istorice ale unei vechi fortărețe se întinde Praia do Forte da Barra din Tavira. Acest fundal conferă plajei de nisip o notă de istorie și o atmosferă proprie, contemplativă. Vizitatorii pot zăbovi minunat la soare aici sau pot explora urmele trecutului. Încălțămintea rezistentă este întotdeauna o idee bună pentru un scurt ocol la ruine.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.61198,
+                        37.120012
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "Principalul muzeu municipal din Tavira, care explorează istoria și arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        -7.651402,
+                        37.126027
+                  ]
+            },
+            {
+                  "name": "Praia do Rato",
+                  "text": "Orașul de coastă Tavira din Algarve găzduiește plaja pitorească Praia do Rato. Înconjurat de peisajul portughez caracteristic, acest loc oferă o retragere idilică lângă ocean. Aici puteți asculta sunetul valurilor și puteți simți nisipul sub picioare. Pentru iubitorii de soare, se recomandă o vizită în timpul celor mai calde ore ale prânzului.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.625204,
+                        37.11859
+                  ]
+            },
+            {
+                  "name": "Museu da Antiga Armação de Pesca do Atum",
+                  "text": "Un muzeu din Tavira dedicat istoriei pescuitului tradițional de ton.",
+                  "category": "museum",
+                  "coords": [
+                        -7.626941,
+                        37.119256
+                  ]
+            },
+            {
+                  "name": "Parque Rodoviário",
+                  "text": "Un parc local din Tavira care servește ca zonă verde pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        -7.654295,
+                        37.130826
+                  ]
+            },
+            {
+                  "name": "Casa das Artes de Tavira",
+                  "text": "Un centru cultural din Tavira care promovează diverse expoziții de artă și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.652299,
+                        37.128894
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições de Tavira",
+                  "text": "Un spațiu de evenimente din Tavira utilizat pentru târguri locale și expoziții.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.644563,
+                        37.140344
+                  ]
+            },
+            {
+                  "name": "Largo de Santa Ana",
+                  "text": "O piață pitorească din Tavira care servește drept punct de belvedere asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -7.65136,
+                        37.128617
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro Gonçalves Telmo",
+                  "text": "Un lăcaș de cult din Tavira, legat tradițional de comunitatea navigatorilor.",
+                  "category": "religious",
+                  "coords": [
+                        -7.648582,
+                        37.125155
+                  ]
+            },
+            {
+                  "name": "Ermida de São Sebastião",
+                  "text": "O mică capelă din Tavira dedicată Sfântului Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        -7.647067,
+                        37.122375
+                  ]
+            },
+            {
+                  "name": "Igreja do antigo convento de São Francisco",
+                  "text": "O biserică istorică din Tavira care a aparținut inițial unei mănăstiri franciscane.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650892,
+                        37.122878
+                  ]
+            },
+            {
+                  "name": "Igreja do Antigo Convento dos Eremitas de São Paulo",
+                  "text": "Biserica unei foste mănăstiri din Tavira, dedicată istoriei religioase a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        -7.649741,
+                        37.128855
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "O mică capelă din Tavira cunoscută pentru atmosfera sa liniștită și semnificația religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650802,
+                        37.12466
+                  ]
+            },
+            {
+                  "name": "Ermida de São Roque",
+                  "text": "O capelă dedicată Sfântului Rochus în Tavira, considerată monument cultural local.",
+                  "category": "religious",
+                  "coords": [
+                        -7.654324,
+                        37.125345
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora das Angústias",
+                  "text": "O mică capelă religioasă din Tavira dedicată Maicii Domnului a Suferințelor.",
+                  "category": "religious",
+                  "coords": [
+                        -7.660473,
+                        37.118696
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Livramento",
+                  "text": "O capelă dedicată rugăciunii religioase în zona Tavira.",
+                  "category": "religious",
+                  "coords": [
+                        -7.644296,
+                        37.128342
+                  ]
+            },
+            {
+                  "name": "Reservatório de Santo Estêvão",
+                  "text": "Reservatório de Santo Estêvão este o acumulare de apă liniștită din Tavira, ideală pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -7.707055,
+                        37.13013
+                  ]
+            },
+            {
+                  "name": "Filtros",
+                  "text": "Filtros este un mic lac din Tavira care se integrează armonios în peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -7.704972,
+                        37.145928
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "Acest lac din Tavira oferă o atmosferă pașnică pentru momente de relaxare lângă apă.",
+                  "category": "natural",
+                  "coords": [
+                        -7.677744,
+                        37.094144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "Hidden on the picturesque island of Tavira, Praia da Terra Estreita is a quiet and narrow strip of coastline. Those who appreciate seclusion will quickly take this peaceful corner of the Algarve to their hearts. The natural surroundings invite you to undisturbed sunbathing and relaxing moments by the water. A boat transfer to the island makes this excursion a wonderful summer day program.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639625,
+                        37.098588
+                  ]
+            },
+            {
+                  "name": "Forte do Rato",
+                  "text": "The ruins of an 18th-century coastal fort guarding the Gilão River in Tavira.",
+                  "category": "castle",
+                  "coords": [
+                        -7.621336,
+                        37.121483
+                  ]
+            },
+            {
+                  "name": "Bairro Almóada do Convento da Graça",
+                  "text": "An archaeological site in Tavira showcasing the remains of an Islamic residential quarter.",
+                  "category": "historical",
+                  "coords": [
+                        -7.652777,
+                        37.125175
+                  ]
+            },
+            {
+                  "name": "Museu Islâmico",
+                  "text": "A museum in Tavira dedicated to the city's Islamic heritage and history.",
+                  "category": "museum",
+                  "coords": [
+                        -7.650226,
+                        37.125905
+                  ]
+            },
+            {
+                  "name": "Tavira Science Centre",
+                  "text": "An interactive science center in Tavira located in a former water pumping station.",
+                  "category": "museum",
+                  "coords": [
+                        -7.646031,
+                        37.129091
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "Where the river meets the sea, the picturesque coastal stretch of Praia Tavira-Ria reveals itself. The special location ensures a varied landscape and a relaxed atmosphere by the water. Here you can spend quiet moments watching the gentle waves and the surrounding nature. A late afternoon walk puts this river panorama in a particularly beautiful light.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623417,
+                        37.115079
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "Near the historical remains of an old fortress stretches Praia do Forte da Barra near Tavira. This backdrop gives the sandy beach a touch of history and a very distinct, contemplative atmosphere. Visitors can linger wonderfully in the sun here or explore the traces of the past. Sturdy shoes are always a good idea for a short detour to the ruins.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.61198,
+                        37.120012
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "The main municipal museum of Tavira, exploring local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        -7.651402,
+                        37.126027
+                  ]
+            },
+            {
+                  "name": "Praia do Rato",
+                  "text": "The coastal town of Tavira in the Algarve is home to the picturesque Praia do Rato beach. Surrounded by the characteristic Portuguese landscape, this place offers an idyllic retreat by the ocean. Here you can listen to the sound of the surf and feel the sand under your feet. For sun worshippers, a visit during the warmest midday hours is recommended.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.625204,
+                        37.11859
+                  ]
+            },
+            {
+                  "name": "Museum of the traditional tuna fishing",
+                  "text": "A museum in Tavira dedicated to the history of traditional tuna fishing.",
+                  "category": "museum",
+                  "coords": [
+                        -7.626941,
+                        37.119256
+                  ]
+            },
+            {
+                  "name": "Parque Rodoviário",
+                  "text": "A local park in Tavira that serves as a relaxing green area.",
+                  "category": "park",
+                  "coords": [
+                        -7.654295,
+                        37.130826
+                  ]
+            },
+            {
+                  "name": "Casa das Artes de Tavira",
+                  "text": "A cultural center in Tavira promoting various art exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.652299,
+                        37.128894
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições de Tavira",
+                  "text": "An event venue in Tavira used for local fairs and exhibitions.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.644563,
+                        37.140344
+                  ]
+            },
+            {
+                  "name": "Largo de Santa Ana",
+                  "text": "A picturesque square in Tavira that serves as a viewpoint over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -7.65136,
+                        37.128617
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro Gonçalves Telmo",
+                  "text": "A religious site in Tavira traditionally associated with the seafaring community.",
+                  "category": "religious",
+                  "coords": [
+                        -7.648582,
+                        37.125155
+                  ]
+            },
+            {
+                  "name": "Ermida de São Sebastião",
+                  "text": "A small chapel in Tavira dedicated to Saint Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        -7.647067,
+                        37.122375
+                  ]
+            },
+            {
+                  "name": "Igreja do antigo convento de São Francisco",
+                  "text": "A historic church in Tavira that originally belonged to a Franciscan convent.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650892,
+                        37.122878
+                  ]
+            },
+            {
+                  "name": "Igreja do Antigo Convento dos Eremitas de São Paulo",
+                  "text": "The church of a former convent in Tavira, dedicated to the religious history of the region.",
+                  "category": "religious",
+                  "coords": [
+                        -7.649741,
+                        37.128855
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "A small chapel in Tavira known for its calm atmosphere and religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650802,
+                        37.12466
+                  ]
+            },
+            {
+                  "name": "Ermida de São Roque",
+                  "text": "A chapel dedicated to Saint Roch in Tavira, considered a local cultural monument.",
+                  "category": "religious",
+                  "coords": [
+                        -7.654324,
+                        37.125345
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora das Angústias",
+                  "text": "A small religious chapel in Tavira dedicated to Our Lady of Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        -7.660473,
+                        37.118696
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Livramento",
+                  "text": "A chapel dedicated to religious devotion in the area of Tavira.",
+                  "category": "religious",
+                  "coords": [
+                        -7.644296,
+                        37.128342
+                  ]
+            },
+            {
+                  "name": "Reservatório de Santo Estêvão",
+                  "text": "Reservatório de Santo Estêvão is a calm reservoir in Tavira, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -7.707055,
+                        37.13013
+                  ]
+            },
+            {
+                  "name": "Filtros",
+                  "text": "Filtros is a small lake in Tavira that blends harmoniously into the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -7.704972,
+                        37.145928
+                  ]
+            },
+            {
+                  "name": "Lago",
+                  "text": "This lake in Tavira offers a peaceful atmosphere for relaxing moments by the water.",
+                  "category": "natural",
+                  "coords": [
+                        -7.677744,
+                        37.094144
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.6486, 37.1272],
@@ -28199,15 +27308,6 @@ export const portugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Albufeira do Morgado de Arge",
-                  "text": "Dieser Stausee bei Silves bietet eine malerische Kulisse inmitten der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        -8.52323,
-                        37.185646
-                  ]
-            },
-            {
                   "name": "Albufeira do Arade",
                   "text": "Ein bedeutender Stausee bei Silves, der für seine Landschaft und Ruhe bekannt ist.",
                   "category": "natural",
@@ -28288,15 +27388,6 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.43998,
                         37.18896
-                  ]
-            },
-            {
-                  "name": "Albufeira do Morgado de Arge",
-                  "text": "Ez a Silves melletti víztározó festői környezetet kínál a természet lágy ölén.",
-                  "category": "natural",
-                  "coords": [
-                        -8.52323,
-                        37.185646
                   ]
             },
             {
@@ -28383,15 +27474,6 @@ export const portugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Albufeira do Morgado de Arge",
-                  "text": "Acest lac de acumulare de lângă Silves oferă un cadru pitoresc în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        -8.52323,
-                        37.185646
-                  ]
-            },
-            {
                   "name": "Albufeira do Arade",
                   "text": "Un lac de acumulare important lângă Silves, cunoscut pentru peisajul și liniștea sa.",
                   "category": "natural",
@@ -28472,15 +27554,6 @@ export const portugalCities: POI[] = [
                   "coords": [
                         -8.43998,
                         37.18896
-                  ]
-            },
-            {
-                  "name": "Albufeira do Morgado de Arge",
-                  "text": "This reservoir near Silves offers a scenic backdrop in the heart of nature.",
-                  "category": "natural",
-                  "coords": [
-                        -8.52323,
-                        37.185646
                   ]
             },
             {
@@ -34438,51 +33511,6 @@ export const portugalCities: POI[] = [
     id: "industry-sines-petrochemical-complex", "sights": {
       "de": [
             {
-                  "name": "Castelo de Sines",
-                  "text": "Eine historische Burg in Sines, die als Geburtsort des Entdeckers Vasco da Gama bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        -8.866541,
-                        37.955177
-                  ]
-            },
-            {
-                  "name": "Forte de Nossa Senhora das Salvas",
-                  "text": "Eine Küstenfestung in Sines, die zum Schutz des Hafens und der Bucht errichtet wurde.",
-                  "category": "fortress",
-                  "coords": [
-                        -8.876365,
-                        37.951264
-                  ]
-            },
-            {
-                  "name": "Capela de Nossa Senhora das Salvas",
-                  "text": "Eine Kapelle und ein Museum in Sines, die mit der maritimen Geschichte der Stadt verbunden sind.",
-                  "category": "museum",
-                  "coords": [
-                        -8.874368,
-                        37.952703
-                  ]
-            },
-            {
-                  "name": "Praia Vasco da Gama",
-                  "text": "Ein beliebter Strand in Sines, benannt nach dem berühmten Seefahrer Vasco da Gama.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.866842,
-                        37.953339
-                  ]
-            },
-            {
-                  "name": "Farol do Cabo de Sines",
-                  "text": "Ein Leuchtturm in Sines, der den Schiffsverkehr entlang der portugiesischen Küste leitet.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.880266,
-                        37.959535
-                  ]
-            },
-            {
                   "name": "Monte Novo",
                   "text": "Eine archäologische Ausgrabungsstätte in Sines mit Überresten aus antiker Zeit.",
                   "category": "historical",
@@ -34529,51 +33557,6 @@ export const portugalCities: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Castelo de Sines",
-                  "text": "Sines történelmi vára, amely Vasco da Gama felfedező szülőhelyeként ismert.",
-                  "category": "castle",
-                  "coords": [
-                        -8.866541,
-                        37.955177
-                  ]
-            },
-            {
-                  "name": "Forte de Nossa Senhora das Salvas",
-                  "text": "Parti erődítmény Sinesben, amelyet a kikötő és az öböl védelmére építettek.",
-                  "category": "fortress",
-                  "coords": [
-                        -8.876365,
-                        37.951264
-                  ]
-            },
-            {
-                  "name": "Capela de Nossa Senhora das Salvas",
-                  "text": "Kápolna és múzeum Sinesben, amely a város tengerészeti múltjához kapcsolódik.",
-                  "category": "museum",
-                  "coords": [
-                        -8.874368,
-                        37.952703
-                  ]
-            },
-            {
-                  "name": "Praia Vasco da Gama",
-                  "text": "Népszerű strand Sinesben, amelyet a híres hajósról, Vasco da Gamáról neveztek el.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.866842,
-                        37.953339
-                  ]
-            },
-            {
-                  "name": "Farol do Cabo de Sines",
-                  "text": "Sines világítótornya, amely a portugál partok menti hajóforgalmat irányítja.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.880266,
-                        37.959535
-                  ]
-            },
             {
                   "name": "Monte Novo",
                   "text": "Régészeti lelőhely Sines területén, ókori maradványokkal.",
@@ -34622,51 +33605,6 @@ export const portugalCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Castelo de Sines",
-                  "text": "Un castel istoric din Sines, cunoscut ca locul de naștere al exploratorului Vasco da Gama.",
-                  "category": "castle",
-                  "coords": [
-                        -8.866541,
-                        37.955177
-                  ]
-            },
-            {
-                  "name": "Forte de Nossa Senhora das Salvas",
-                  "text": "O fortificație de coastă în Sines, construită pentru a proteja portul și golful.",
-                  "category": "fortress",
-                  "coords": [
-                        -8.876365,
-                        37.951264
-                  ]
-            },
-            {
-                  "name": "Capela de Nossa Senhora das Salvas",
-                  "text": "O capelă și muzeu în Sines, legate de istoria maritimă a orașului.",
-                  "category": "museum",
-                  "coords": [
-                        -8.874368,
-                        37.952703
-                  ]
-            },
-            {
-                  "name": "Praia Vasco da Gama",
-                  "text": "O plajă populară în Sines, numită după faimosul navigator Vasco da Gama.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.866842,
-                        37.953339
-                  ]
-            },
-            {
-                  "name": "Farol do Cabo de Sines",
-                  "text": "Un far în Sines care ghidează traficul maritim de-a lungul coastei portugheze.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.880266,
-                        37.959535
-                  ]
-            },
-            {
                   "name": "Monte Novo",
                   "text": "Un sit arheologic în zona Sines, care conține vestigii din perioada antică.",
                   "category": "historical",
@@ -34713,51 +33651,6 @@ export const portugalCities: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Castelo de Sines",
-                  "text": "A historic castle in Sines, famous as the birthplace of the explorer Vasco da Gama.",
-                  "category": "castle",
-                  "coords": [
-                        -8.866541,
-                        37.955177
-                  ]
-            },
-            {
-                  "name": "Forte de Nossa Senhora das Salvas",
-                  "text": "A coastal fort in Sines, built to protect the harbor and the bay.",
-                  "category": "fortress",
-                  "coords": [
-                        -8.876365,
-                        37.951264
-                  ]
-            },
-            {
-                  "name": "Capela de Nossa Senhora das Salvas",
-                  "text": "A chapel and museum in Sines, connected to the maritime history of the city.",
-                  "category": "museum",
-                  "coords": [
-                        -8.874368,
-                        37.952703
-                  ]
-            },
-            {
-                  "name": "Praia Vasco da Gama",
-                  "text": "A popular beach in Sines, named after the famous navigator Vasco da Gama.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.866842,
-                        37.953339
-                  ]
-            },
-            {
-                  "name": "Farol do Cabo de Sines",
-                  "text": "A lighthouse in Sines that guides maritime traffic along the Portuguese coast.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.880266,
-                        37.959535
-                  ]
-            },
             {
                   "name": "Monte Novo",
                   "text": "An archaeological site in the Sines area featuring remains from ancient times.",

@@ -4984,15 +4984,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                         -79.292637,
                         43.925041
                   ]
-            },
-            {
-                  "name": "Toronto Zoo",
-                  "text": "Der Toronto Zoo ist einer der größten Zoos Kanadas in Markham mit Tausenden von Tieren.",
-                  "category": "wildlife",
-                  "coords": [
-                        -79.184893,
-                        43.81997
-                  ]
             }
       ],
       "hu": [
@@ -5120,15 +5111,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.292637,
                         43.925041
-                  ]
-            },
-            {
-                  "name": "Toronto Zoo",
-                  "text": "A Toronto Zoo Kanada egyik legnagyobb állatkertje Markhamben, több ezer állatot mutat be.",
-                  "category": "wildlife",
-                  "coords": [
-                        -79.184893,
-                        43.81997
                   ]
             }
       ],
@@ -5258,15 +5240,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                         -79.292637,
                         43.925041
                   ]
-            },
-            {
-                  "name": "Toronto Zoo",
-                  "text": "Grădina Zoologică Toronto este una dintre cele mai mari grădini zoologice din Canada, situată în Markham, cu mii de animale.",
-                  "category": "wildlife",
-                  "coords": [
-                        -79.184893,
-                        43.81997
-                  ]
             }
       ],
       "en": [
@@ -5394,15 +5367,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.292637,
                         43.925041
-                  ]
-            },
-            {
-                  "name": "Toronto Zoo",
-                  "text": "Toronto Zoo is one of the largest zoos in Canada, located in Markham, featuring thousands of animals.",
-                  "category": "wildlife",
-                  "coords": [
-                        -79.184893,
-                        43.81997
                   ]
             }
       ]
@@ -6622,48 +6586,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bechtel Park",
-                  "text": "Park mit Naturmerkmalen, einschließlich Wegen und einem Teich in Kitchener, Ontario.",
-                  "category": "natural",
-                  "coords": [
-                        -80.492966,
-                        43.481644
-                  ]
-            },
-            {
-                  "name": "Kitchener-Waterloo Little Theatre",
-                  "text": "Gemeinschaftstheater mit Live-Aufführungen in Kitchener, Ontario.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.522074,
-                        43.466702
-                  ]
-            },
-            {
                   "name": "Union Lane Green",
                   "text": "Grünfläche in der Union Lane in Kitchener, Ontario, mit Sitzgelegenheiten und Pflanzen.",
                   "category": "natural",
                   "coords": [
                         -80.48583,
                         43.472808
-                  ]
-            },
-            {
-                  "name": "Springdale Green Natural Area",
-                  "text": "Naturgebiet mit einheimischer Vegetation und Spazierwegen in Kitchener, Ontario.",
-                  "category": "natural",
-                  "coords": [
-                        -80.491699,
-                        43.477282
-                  ]
-            },
-            {
-                  "name": "Button Factory",
-                  "text": "Die Button Factory ist eine ehemalige Knopffabrik, heute Kulturzentrum in Kitchener.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.52126,
-                        43.464319
                   ]
             },
             {
@@ -6700,15 +6628,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.493865,
                         43.448511
-                  ]
-            },
-            {
-                  "name": "The People's Gallery",
-                  "text": "Gemeinschaftskunstgalerie mit Werken lokaler Künstler in Kitchener, Ontario.",
-                  "category": "museum",
-                  "coords": [
-                        -80.522604,
-                        43.460965
                   ]
             },
             {
@@ -6757,57 +6676,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Redeemer Lutheran Church",
-                  "text": "Die Redeemer Lutheran Church ist eine lutherische Kirche in Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.52183,
-                        43.456068
-                  ]
-            },
-            {
-                  "name": "United Mennonite Church",
-                  "text": "Die United Mennonite Church ist eine mennonitische Kirche in Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.519137,
-                        43.461521
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Saviour",
-                  "text": "Die Church of the Holy Saviour ist eine angesehene religiöse Einrichtung in Kitchener, Kanada. Diese Kultstätte bietet der lokalen Gemeinde einen Ort für gemeinsames Gebet und Besinnung. Ihre würdevolle Architektur macht sie zu einer bemerkenswerten Anlaufstelle für Besucher der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        -80.51751,
-                        43.461261
-                  ]
-            },
-            {
-                  "name": "Waterloo City Centre",
-                  "text": "Das Waterloo City Centre ist ein historisches Gebäude in Kitchener.",
-                  "category": "historical",
-                  "coords": [
-                        -80.520123,
-                        43.463357
-                  ]
-            },
-            {
                   "name": "Sacred Heart Church",
                   "text": "Die Sacred Heart Church ist ein Ort der Besinnung und des Glaubens im kanadischen Kitchener. Besucher dieses religiösen Bauwerks erwartet eine spirituelle Atmosphäre, die zur inneren Einkehr einlädt.",
                   "category": "religious",
                   "coords": [
                         -80.502777,
                         43.456778
-                  ]
-            },
-            {
-                  "name": "Saint Agnes Catholic Church",
-                  "text": "Die Saint Agnes Catholic Church ist eine katholische Kirche in Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.50114,
-                        43.475841
                   ]
             },
             {
@@ -6916,15 +6790,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.501181,
                         43.449239
-                  ]
-            },
-            {
-                  "name": "Saint Louis Catholic Church",
-                  "text": "Die Saint Louis Catholic Church ist eine katholische Kirche in Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.516183,
-                        43.462178
                   ]
             },
             {
@@ -7056,48 +6921,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bechtel Park",
-                  "text": "Park természeti elemekkel, beleértve az ösvényeket és egy tavat Kitchenerben, Ontario.",
-                  "category": "natural",
-                  "coords": [
-                        -80.492966,
-                        43.481644
-                  ]
-            },
-            {
-                  "name": "Kitchener-Waterloo Little Theatre",
-                  "text": "Közösségi színház élő előadásokkal Kitchenerben, Ontario.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.522074,
-                        43.466702
-                  ]
-            },
-            {
                   "name": "Union Lane Green",
                   "text": "Zöldterület a Union Lane-en Kitchenerben, Ontario, ülőhelyekkel és növényekkel.",
                   "category": "natural",
                   "coords": [
                         -80.48583,
                         43.472808
-                  ]
-            },
-            {
-                  "name": "Springdale Green Natural Area",
-                  "text": "Természetes terület őshonos növényzettel és sétatúkkal Kitchenerben, Ontario.",
-                  "category": "natural",
-                  "coords": [
-                        -80.491699,
-                        43.477282
-                  ]
-            },
-            {
-                  "name": "Button Factory",
-                  "text": "A Button Factory egy egykori gombgyár, ma művészeti központ Kitchenerben.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.52126,
-                        43.464319
                   ]
             },
             {
@@ -7134,15 +6963,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.493865,
                         43.448511
-                  ]
-            },
-            {
-                  "name": "The People's Gallery",
-                  "text": "Közösségi művészeti galéria helyi művészek munkáival Kitchenerben, Ontario.",
-                  "category": "museum",
-                  "coords": [
-                        -80.522604,
-                        43.460965
                   ]
             },
             {
@@ -7191,57 +7011,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Redeemer Lutheran Church",
-                  "text": "A Redeemer Lutheran Church egy lutheránus templom Kitchenerben.",
-                  "category": "religious",
-                  "coords": [
-                        -80.52183,
-                        43.456068
-                  ]
-            },
-            {
-                  "name": "United Mennonite Church",
-                  "text": "A United Mennonite Church egy mennonita templom Kitchenerben.",
-                  "category": "religious",
-                  "coords": [
-                        -80.519137,
-                        43.461521
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Saviour",
-                  "text": "A Church of the Holy Saviour egy elismert vallási intézmény a kanadai Kitchenerben. Ez az istentiszteleti hely a helyi közösség számára a közös imádság és elmélkedés terét kínálja. Méltóságteljes építészete figyelemreméltó célponttá teszi a városba látogatók számára.",
-                  "category": "religious",
-                  "coords": [
-                        -80.51751,
-                        43.461261
-                  ]
-            },
-            {
-                  "name": "Waterloo City Centre",
-                  "text": "A Waterloo City Centre egy történelmi épület Kitchenerben.",
-                  "category": "historical",
-                  "coords": [
-                        -80.520123,
-                        43.463357
-                  ]
-            },
-            {
                   "name": "Sacred Heart Church",
                   "text": "A Sacred Heart Church egy vallási helyszín, amely a kanadai Kitchener városában található. Az ide látogatók nyugodt és elmélyült környezetre számíthatnak ebben a közösségi térben.",
                   "category": "religious",
                   "coords": [
                         -80.502777,
                         43.456778
-                  ]
-            },
-            {
-                  "name": "Saint Agnes Catholic Church",
-                  "text": "A Saint Agnes Catholic Church egy katolikus templom Kitchenerben.",
-                  "category": "religious",
-                  "coords": [
-                        -80.50114,
-                        43.475841
                   ]
             },
             {
@@ -7350,15 +7125,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.501181,
                         43.449239
-                  ]
-            },
-            {
-                  "name": "Saint Louis Catholic Church",
-                  "text": "A Saint Louis Catholic Church egy katolikus templom Kitchenerben.",
-                  "category": "religious",
-                  "coords": [
-                        -80.516183,
-                        43.462178
                   ]
             },
             {
@@ -7490,48 +7256,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bechtel Park",
-                  "text": "Parc cu elemente naturale, inclusiv poteci și un iaz în Kitchener, Ontario.",
-                  "category": "natural",
-                  "coords": [
-                        -80.492966,
-                        43.481644
-                  ]
-            },
-            {
-                  "name": "Kitchener-Waterloo Little Theatre",
-                  "text": "Teatru comunitar cu spectacole live în Kitchener, Ontario.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.522074,
-                        43.466702
-                  ]
-            },
-            {
                   "name": "Union Lane Green",
                   "text": "Spațiu verde pe Union Lane în Kitchener, Ontario, cu locuri de șezut și plante.",
                   "category": "natural",
                   "coords": [
                         -80.48583,
                         43.472808
-                  ]
-            },
-            {
-                  "name": "Springdale Green Natural Area",
-                  "text": "Zonă naturală cu vegetație nativă și alei de plimbare în Kitchener, Ontario.",
-                  "category": "natural",
-                  "coords": [
-                        -80.491699,
-                        43.477282
-                  ]
-            },
-            {
-                  "name": "Button Factory",
-                  "text": "Button Factory este o fostă fabrică de nasturi transformată în centru cultural în Kitchener.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.52126,
-                        43.464319
                   ]
             },
             {
@@ -7568,15 +7298,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.493865,
                         43.448511
-                  ]
-            },
-            {
-                  "name": "The People's Gallery",
-                  "text": "Galerie de artă comunitară care prezintă artiști locali în Kitchener, Ontario.",
-                  "category": "museum",
-                  "coords": [
-                        -80.522604,
-                        43.460965
                   ]
             },
             {
@@ -7625,57 +7346,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Redeemer Lutheran Church",
-                  "text": "Biserica Lutherană Redeemer este o biserică luterană din Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.52183,
-                        43.456068
-                  ]
-            },
-            {
-                  "name": "United Mennonite Church",
-                  "text": "Biserica Mennonită Unită este o biserică menonită din Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.519137,
-                        43.461521
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Saviour",
-                  "text": "Church of the Holy Saviour este o instituție religioasă respectată în Kitchener, Canada. Acest lăcaș de cult oferă comunității locale un loc pentru rugăciune și reflecție comună. Arhitectura sa demnă o face un punct de interes remarcabil pentru vizitatorii orașului.",
-                  "category": "religious",
-                  "coords": [
-                        -80.51751,
-                        43.461261
-                  ]
-            },
-            {
-                  "name": "Waterloo City Centre",
-                  "text": "Waterloo City Centre este o clădire istorică din Kitchener.",
-                  "category": "historical",
-                  "coords": [
-                        -80.520123,
-                        43.463357
-                  ]
-            },
-            {
                   "name": "Sacred Heart Church",
                   "text": "Sacred Heart Church este un lăcaș de cult situat în orașul canadian Kitchener. Aici, vizitatorii pot experimenta o atmosferă spirituală și de liniște în mijlocul agitației urbane.",
                   "category": "religious",
                   "coords": [
                         -80.502777,
                         43.456778
-                  ]
-            },
-            {
-                  "name": "Saint Agnes Catholic Church",
-                  "text": "Biserica Catolică Sfânta Agnes este o biserică catolică din Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.50114,
-                        43.475841
                   ]
             },
             {
@@ -7784,15 +7460,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.501181,
                         43.449239
-                  ]
-            },
-            {
-                  "name": "Saint Louis Catholic Church",
-                  "text": "Biserica Catolică Sfântul Ludovic este o biserică catolică din Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.516183,
-                        43.462178
                   ]
             },
             {
@@ -7924,48 +7591,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bechtel Park",
-                  "text": "Park with natural features, including trails and a pond in Kitchener, Ontario.",
-                  "category": "natural",
-                  "coords": [
-                        -80.492966,
-                        43.481644
-                  ]
-            },
-            {
-                  "name": "Kitchener-Waterloo Little Theatre",
-                  "text": "Community theatre presenting live performances in Kitchener, Ontario.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.522074,
-                        43.466702
-                  ]
-            },
-            {
                   "name": "Union Lane Green",
                   "text": "Green space on Union Lane in Kitchener, Ontario, with seating and plants.",
                   "category": "natural",
                   "coords": [
                         -80.48583,
                         43.472808
-                  ]
-            },
-            {
-                  "name": "Springdale Green Natural Area",
-                  "text": "Natural area with native vegetation and walking paths in Kitchener, Ontario.",
-                  "category": "natural",
-                  "coords": [
-                        -80.491699,
-                        43.477282
-                  ]
-            },
-            {
-                  "name": "Button Factory",
-                  "text": "Button Factory is a former button factory turned arts centre in Kitchener.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.52126,
-                        43.464319
                   ]
             },
             {
@@ -8002,15 +7633,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.493865,
                         43.448511
-                  ]
-            },
-            {
-                  "name": "The People's Gallery",
-                  "text": "Community art gallery showcasing local artists in Kitchener, Ontario.",
-                  "category": "museum",
-                  "coords": [
-                        -80.522604,
-                        43.460965
                   ]
             },
             {
@@ -8059,57 +7681,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Redeemer Lutheran Church",
-                  "text": "Redeemer Lutheran Church is a Lutheran church in Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.52183,
-                        43.456068
-                  ]
-            },
-            {
-                  "name": "United Mennonite Church",
-                  "text": "United Mennonite Church is a Mennonite church in Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.519137,
-                        43.461521
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Saviour",
-                  "text": "The Church of the Holy Saviour is a respected religious institution in Kitchener, Canada. This place of worship offers the local community a space for communal prayer and reflection. Its dignified architecture makes it a notable point of interest for visitors to the city.",
-                  "category": "religious",
-                  "coords": [
-                        -80.51751,
-                        43.461261
-                  ]
-            },
-            {
-                  "name": "Waterloo City Centre",
-                  "text": "Waterloo City Centre is a historic building in Kitchener.",
-                  "category": "historical",
-                  "coords": [
-                        -80.520123,
-                        43.463357
-                  ]
-            },
-            {
                   "name": "Sacred Heart Church",
                   "text": "The Sacred Heart Church serves as a religious sanctuary located within the city of Kitchener, Canada. Visitors to this site can experience a peaceful atmosphere meant for spiritual reflection.",
                   "category": "religious",
                   "coords": [
                         -80.502777,
                         43.456778
-                  ]
-            },
-            {
-                  "name": "Saint Agnes Catholic Church",
-                  "text": "Saint Agnes Catholic Church is a Catholic church in Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.50114,
-                        43.475841
                   ]
             },
             {
@@ -8218,15 +7795,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.501181,
                         43.449239
-                  ]
-            },
-            {
-                  "name": "Saint Louis Catholic Church",
-                  "text": "Saint Louis Catholic Church is a Catholic church in Kitchener.",
-                  "category": "religious",
-                  "coords": [
-                        -80.516183,
-                        43.462178
                   ]
             },
             {
@@ -8355,96 +7923,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gem Theatre",
-                  "text": "Ein historisches Kino, eröffnet 1926 im Zentrum von Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.04627,
-                        42.338526
-                  ]
-            },
-            {
-                  "name": "Century Theatre",
-                  "text": "Ein historisches Theater in Detroit, 1902 eröffnet, nahe der Grenze zu Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.046264,
-                        42.337581
-                  ]
-            },
-            {
-                  "name": "The Fillmore",
-                  "text": "Ein historischer Musikclub in Detroit, ursprünglich das State Theatre, nahe Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.051768,
-                        42.337833
-                  ]
-            },
-            {
-                  "name": "City Theatre",
-                  "text": "Erbaut 2004 in Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.052771,
-                        42.338916
-                  ]
-            },
-            {
-                  "name": "Detroit Opera House",
-                  "text": "Ein Opernhaus von 1922 in Detroit, direkt am Detroit River gegenüber von Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.048867,
-                        42.336466
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Hall",
-                  "text": "Eine historische Konzerthalle in Detroit, bekannt für elektronische Musikveranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.041597,
-                        42.33235
-                  ]
-            },
-            {
-                  "name": "Central United Methodist Church",
-                  "text": "Eine neugotische methodistische Kirche, erbaut 1866 in Detroit, nahe Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050474,
-                        42.337429
-                  ]
-            },
-            {
-                  "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Die älteste katholische Kirche Detroits, erbaut 1848, nahe Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038251,
-                        42.331961
-                  ]
-            },
-            {
-                  "name": "Christ Church, Detroit",
-                  "text": "Eine episkopale Kirche, erbaut 1861 in Detroit, nahe Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.034933,
-                        42.332445
-                  ]
-            },
-            {
-                  "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Die älteste Synagoge Michigans in Detroit, nahe Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050124,
-                        42.334445
-                  ]
-            },
-            {
                   "name": "Willistead Manor",
                   "text": "Ein Herrenhaus im Tudor-Stil, erbaut 1906 im Viertel Walkerville in Windsor.",
                   "category": "landmark",
@@ -8463,48 +7941,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hart Plaza",
-                  "text": "Der Hart Plaza in Windsor ist ein bekannter Stadtplatz, der durch seine Lage in unmittelbarer Nähe zum Wasser ein reizvolles urbanes Flair bietet. Hier können Besucher das geschäftige Treiben der Stadt genießen und zugleich den weiten Blick auf den nahegelegenen Flusslauf bewundern. Die gepflasterten Flächen eignen sich ideal für entspannte Spaziergänge an der frischen Luft. Es lohnt sich, nach einem Stadtbummel hier eine Pause einzulegen und das maritime Stadtbild zu betrachten.",
-                  "category": "park",
-                  "coords": [
-                        -83.044412,
-                        42.32743
-                  ]
-            },
-            {
-                  "name": "Campus Martius Park",
-                  "text": "Ein öffentlicher Platz im Zentrum von Detroit, nahe dem Ufer des Detroit River.",
-                  "category": "park",
-                  "coords": [
-                        -83.046646,
-                        42.331573
-                  ]
-            },
-            {
-                  "name": "William G. Milliken State Park",
-                  "text": "Park am Detroit River in Windsor, mit Yachthafen und Aussicht auf die Skyline.",
-                  "category": "park",
-                  "coords": [
-                        -83.027026,
-                        42.332032
-                  ]
-            },
-            {
                   "name": "Centennial Park",
                   "text": "Park am Wasser in Windsor, errichtet zum 100. Jahrestag der Stadtgründung.",
                   "category": "park",
                   "coords": [
                         -83.054716,
                         42.316053
-                  ]
-            },
-            {
-                  "name": "Cadillac Square Park",
-                  "text": "Der Cadillac Square Park ist ein Park am Cadillac Square in Windsor.",
-                  "category": "park",
-                  "coords": [
-                        -83.044815,
-                        42.331565
                   ]
             },
             {
@@ -8532,15 +7974,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -83.01646,
                         42.321699
-                  ]
-            },
-            {
-                  "name": "St. Mary Church",
-                  "text": "Die St. Mary Church ist eine katholische Kirche in Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.04046,
-                        42.335551
                   ]
             },
             {
@@ -8598,15 +8031,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Second Baptist Church",
-                  "text": "Second Baptist Church in Windsor, eine historische afroamerikanische Baptistengemeinde.",
-                  "category": "religious",
-                  "coords": [
-                        -83.043078,
-                        42.334928
-                  ]
-            },
-            {
                   "name": "Jackson Park",
                   "text": "Großer Park in Windsor mit einem historischen Springbrunnen und Konzertplatz.",
                   "category": "park",
@@ -8616,66 +8040,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lafayette Plaisance Park",
-                  "text": "Lafayette Plaisance Park in Windsor, ein Stadtpark mit Spielplatz und Grünflächen.",
-                  "category": "park",
-                  "coords": [
-                        -83.035547,
-                        42.340902
-                  ]
-            },
-            {
-                  "name": "Aretha Franklin Park",
-                  "text": "Aretha Franklin Park in Windsor, benannt nach der legendären Soulsängerin.",
-                  "category": "park",
-                  "coords": [
-                        -83.021335,
-                        42.334227
-                  ]
-            },
-            {
                   "name": "Legacy Beacon",
                   "text": "Museum in Windsor, das die Geschichte der Bürgerrechtsbewegung dokumentiert.",
                   "category": "museum",
                   "coords": [
                         -83.049627,
                         42.317693
-                  ]
-            },
-            {
-                  "name": "Library Street Collective",
-                  "text": "Galerie für zeitgenössische Kunst in Windsor, spezialisiert auf Straßenkunst.",
-                  "category": "museum",
-                  "coords": [
-                        -83.047118,
-                        42.334528
-                  ]
-            },
-            {
-                  "name": "DuMouchelles",
-                  "text": "Auktionshaus und Galerie in Windsor mit Schwerpunkt auf amerikanischem Kunsthandwerk.",
-                  "category": "museum",
-                  "coords": [
-                        -83.040911,
-                        42.330582
-                  ]
-            },
-            {
-                  "name": "Reyes | Finn",
-                  "text": "Galerie für zeitgenössische Fotografie und Mixed Media in Windsor.",
-                  "category": "museum",
-                  "coords": [
-                        -83.064759,
-                        42.328909
-                  ]
-            },
-            {
-                  "name": "Gateway to Freedom",
-                  "text": "Das ‚Gateway to Freedom‘-Denkmal in Windsor wurde am 20. Oktober 2001 enthüllt.",
-                  "category": "historical",
-                  "coords": [
-                        -83.043965,
-                        42.326402
                   ]
             },
             {
@@ -8789,96 +8159,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gem Theatre",
-                  "text": "Egy történelmi mozi, megnyílt 1926-ban Windsor belvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.04627,
-                        42.338526
-                  ]
-            },
-            {
-                  "name": "Century Theatre",
-                  "text": "Egy történelmi színház Detroitban, 1902-ben nyitották meg, Windsor közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.046264,
-                        42.337581
-                  ]
-            },
-            {
-                  "name": "The Fillmore",
-                  "text": "Egy történelmi zenei helyszín Detroitban, eredetileg State Theatre, Windsor közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.051768,
-                        42.337833
-                  ]
-            },
-            {
-                  "name": "City Theatre",
-                  "text": "Windsorban épült 2004-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.052771,
-                        42.338916
-                  ]
-            },
-            {
-                  "name": "Detroit Opera House",
-                  "text": "Egy 1922-es operaház Detroitban, a Detroit River partján, Windsorral szemben.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.048867,
-                        42.336466
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Hall",
-                  "text": "Egy történelmi koncertterem Detroitban, híres elektronikus zenei eseményekről.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.041597,
-                        42.33235
-                  ]
-            },
-            {
-                  "name": "Central United Methodist Church",
-                  "text": "Egy neogótikus metodista templom, épült 1866-ban Detroitban, Windsor közelében.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050474,
-                        42.337429
-                  ]
-            },
-            {
-                  "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Detroit legrégebbi katolikus temploma, épült 1848-ban, Windsor közelében.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038251,
-                        42.331961
-                  ]
-            },
-            {
-                  "name": "Christ Church, Detroit",
-                  "text": "Egy episzkopális templom, épült 1861-ben Detroitban, Windsor közelében.",
-                  "category": "religious",
-                  "coords": [
-                        -83.034933,
-                        42.332445
-                  ]
-            },
-            {
-                  "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Michigan legrégebbi zsinagógája Detroitban, Windsor közelében.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050124,
-                        42.334445
-                  ]
-            },
-            {
                   "name": "Willistead Manor",
                   "text": "Egy Tudor-stílusú kúria, épült 1906-ban Windsor Walkerville negyedében.",
                   "category": "landmark",
@@ -8897,48 +8177,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hart Plaza",
-                  "text": "A windsori Hart Plaza egy jól ismert városi tér, amely a víz közvetlen közelében lévő fekvésének köszönhetően vonzó urbánus hangulatot áraszt. A látogatók itt élvezhetik a város nyüzsgését, miközben a közeli folyóra nyíló tágas kilátásban is gyönyörködhetnek. A kövezett felületek ideálisak a friss levegőn tett pihentető sétákhoz. Érdemes egy városnézés után itt megpihenni, és szemügyre venni a tengeri hangulatú városképet.",
-                  "category": "park",
-                  "coords": [
-                        -83.044412,
-                        42.32743
-                  ]
-            },
-            {
-                  "name": "Campus Martius Park",
-                  "text": "Egy nyilvános tér Detroit belvárosában, a Detroit River partja közelében.",
-                  "category": "park",
-                  "coords": [
-                        -83.046646,
-                        42.331573
-                  ]
-            },
-            {
-                  "name": "William G. Milliken State Park",
-                  "text": "Park a Detroit folyó partján Windsorban, kikötővel és városképi kilátással.",
-                  "category": "park",
-                  "coords": [
-                        -83.027026,
-                        42.332032
-                  ]
-            },
-            {
                   "name": "Centennial Park",
                   "text": "Vízparti park Windsorban, a város alapításának 100. évfordulójára.",
                   "category": "park",
                   "coords": [
                         -83.054716,
                         42.316053
-                  ]
-            },
-            {
-                  "name": "Cadillac Square Park",
-                  "text": "A Cadillac Square Park egy park a Cadillac Square-en Windsorban.",
-                  "category": "park",
-                  "coords": [
-                        -83.044815,
-                        42.331565
                   ]
             },
             {
@@ -8966,15 +8210,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -83.01646,
                         42.321699
-                  ]
-            },
-            {
-                  "name": "St. Mary Church",
-                  "text": "A St. Mary Church egy katolikus templom Windsorban.",
-                  "category": "religious",
-                  "coords": [
-                        -83.04046,
-                        42.335551
                   ]
             },
             {
@@ -9032,15 +8267,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Second Baptist Church",
-                  "text": "Second Baptist Church Windsorban, egy történelmi afroamerikai baptista gyülekezet.",
-                  "category": "religious",
-                  "coords": [
-                        -83.043078,
-                        42.334928
-                  ]
-            },
-            {
                   "name": "Jackson Park",
                   "text": "Nagy park Windsorban, történelmi szökőkúttal és koncertszínpaddal.",
                   "category": "park",
@@ -9050,66 +8276,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lafayette Plaisance Park",
-                  "text": "Lafayette Plaisance Park Windsorban, városi park játszótérrel és zöldterületekkel.",
-                  "category": "park",
-                  "coords": [
-                        -83.035547,
-                        42.340902
-                  ]
-            },
-            {
-                  "name": "Aretha Franklin Park",
-                  "text": "Aretha Franklin Park Windsorban, a legendás soulénekesnőről elnevezve.",
-                  "category": "park",
-                  "coords": [
-                        -83.021335,
-                        42.334227
-                  ]
-            },
-            {
                   "name": "Legacy Beacon",
                   "text": "Múzeum Windsorban, a polgárjogi mozgalom történetét bemutatva.",
                   "category": "museum",
                   "coords": [
                         -83.049627,
                         42.317693
-                  ]
-            },
-            {
-                  "name": "Library Street Collective",
-                  "text": "Kortárs művészeti galéria Windsorban, street artra specializálódva.",
-                  "category": "museum",
-                  "coords": [
-                        -83.047118,
-                        42.334528
-                  ]
-            },
-            {
-                  "name": "DuMouchelles",
-                  "text": "Aukciós ház és galéria Windsorban, amerikai kézműves tárgyakra specializálódva.",
-                  "category": "museum",
-                  "coords": [
-                        -83.040911,
-                        42.330582
-                  ]
-            },
-            {
-                  "name": "Reyes | Finn",
-                  "text": "Kortárs fotográfia és vegyes technikájú művészeti galéria Windsorban.",
-                  "category": "museum",
-                  "coords": [
-                        -83.064759,
-                        42.328909
-                  ]
-            },
-            {
-                  "name": "Gateway to Freedom",
-                  "text": "A Windsor-i „Gateway to Freedom” emlékművet 2001. október 20-án avatták fel.",
-                  "category": "historical",
-                  "coords": [
-                        -83.043965,
-                        42.326402
                   ]
             },
             {
@@ -9223,96 +8395,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gem Theatre",
-                  "text": "Un cinematograf istoric deschis în 1926 în centrul orașului Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.04627,
-                        42.338526
-                  ]
-            },
-            {
-                  "name": "Century Theatre",
-                  "text": "Un teatru istoric în Detroit, deschis în 1902, aproape de granița cu Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.046264,
-                        42.337581
-                  ]
-            },
-            {
-                  "name": "The Fillmore",
-                  "text": "Un club de muzică istoric în Detroit, inițial State Theatre, aproape de Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.051768,
-                        42.337833
-                  ]
-            },
-            {
-                  "name": "City Theatre",
-                  "text": "Construit în 2004 în Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.052771,
-                        42.338916
-                  ]
-            },
-            {
-                  "name": "Detroit Opera House",
-                  "text": "O operă din 1922 în Detroit, pe malul râului Detroit, vizavi de Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.048867,
-                        42.336466
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Hall",
-                  "text": "O sală de concerte istorică în Detroit, cunoscută pentru evenimentele de muzică electronică.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.041597,
-                        42.33235
-                  ]
-            },
-            {
-                  "name": "Central United Methodist Church",
-                  "text": "O biserică metodistă în stil gotic revival construită în 1866 în Detroit, aproape de Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050474,
-                        42.337429
-                  ]
-            },
-            {
-                  "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Cea mai veche biserică catolică din Detroit, construită în 1848, aproape de Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038251,
-                        42.331961
-                  ]
-            },
-            {
-                  "name": "Christ Church, Detroit",
-                  "text": "O biserică episcopală construită în 1861 în Detroit, aproape de Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.034933,
-                        42.332445
-                  ]
-            },
-            {
-                  "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Cea mai veche sinagogă din Michigan, în Detroit, aproape de Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050124,
-                        42.334445
-                  ]
-            },
-            {
                   "name": "Willistead Manor",
                   "text": "Un conac în stil Tudor construit în 1906 în cartierul Walkerville din Windsor.",
                   "category": "landmark",
@@ -9331,48 +8413,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hart Plaza",
-                  "text": "Hart Plaza din Windsor este o piață urbană bine-cunoscută, care oferă un fler urban atractiv datorită locației sale în imediata apropiere a apei. Aici vizitatorii se pot bucura de agitația orașului, admirând în același timp vederea amplă a râului din apropiere. Suprafețele pavate sunt ideale pentru plimbări relaxante în aer liber. Merită să faceți o pauză aici după o plimbare prin oraș și să admirați peisajul urban cu accente maritime.",
-                  "category": "park",
-                  "coords": [
-                        -83.044412,
-                        42.32743
-                  ]
-            },
-            {
-                  "name": "Campus Martius Park",
-                  "text": "O piață publică în centrul orașului Detroit, aproape de malul râului Detroit.",
-                  "category": "park",
-                  "coords": [
-                        -83.046646,
-                        42.331573
-                  ]
-            },
-            {
-                  "name": "William G. Milliken State Park",
-                  "text": "Parcul William G. Milliken din Windsor, pe malul râului Detroit, cu port de agrement.",
-                  "category": "park",
-                  "coords": [
-                        -83.027026,
-                        42.332032
-                  ]
-            },
-            {
                   "name": "Centennial Park",
                   "text": "Parcul Centennial din Windsor, pe malul apei, construit pentru centenarul orașului.",
                   "category": "park",
                   "coords": [
                         -83.054716,
                         42.316053
-                  ]
-            },
-            {
-                  "name": "Cadillac Square Park",
-                  "text": "Parcul Cadillac Square este un parc în Piața Cadillac din Windsor.",
-                  "category": "park",
-                  "coords": [
-                        -83.044815,
-                        42.331565
                   ]
             },
             {
@@ -9400,15 +8446,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -83.01646,
                         42.321699
-                  ]
-            },
-            {
-                  "name": "St. Mary Church",
-                  "text": "Biserica Sfânta Maria este o biserică catolică din Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.04046,
-                        42.335551
                   ]
             },
             {
@@ -9466,15 +8503,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Second Baptist Church",
-                  "text": "Second Baptist Church din Windsor, o congregație baptistă afro-americană istorică.",
-                  "category": "religious",
-                  "coords": [
-                        -83.043078,
-                        42.334928
-                  ]
-            },
-            {
                   "name": "Jackson Park",
                   "text": "Parcul Jackson din Windsor, un parc vast cu o fântână arteziană istorică și scenă de concerte.",
                   "category": "park",
@@ -9484,66 +8512,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lafayette Plaisance Park",
-                  "text": "Parcul Lafayette Plaisance din Windsor, un parc urban cu loc de joacă și spații verzi.",
-                  "category": "park",
-                  "coords": [
-                        -83.035547,
-                        42.340902
-                  ]
-            },
-            {
-                  "name": "Aretha Franklin Park",
-                  "text": "Parcul Aretha Franklin din Windsor, numit după legendara cântăreață soul.",
-                  "category": "park",
-                  "coords": [
-                        -83.021335,
-                        42.334227
-                  ]
-            },
-            {
                   "name": "Legacy Beacon",
                   "text": "Muzeul Legacy Beacon din Windsor, dedicat istoriei mișcării pentru drepturi civile.",
                   "category": "museum",
                   "coords": [
                         -83.049627,
                         42.317693
-                  ]
-            },
-            {
-                  "name": "Library Street Collective",
-                  "text": "Galeria Library Street Collective din Windsor, specializată în artă stradală contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        -83.047118,
-                        42.334528
-                  ]
-            },
-            {
-                  "name": "DuMouchelles",
-                  "text": "Casa de licitații și galeria DuMouchelles din Windsor, specializată în artizanat american.",
-                  "category": "museum",
-                  "coords": [
-                        -83.040911,
-                        42.330582
-                  ]
-            },
-            {
-                  "name": "Reyes | Finn",
-                  "text": "Galeria Reyes | Finn din Windsor, dedicată fotografiei contemporane și artei mixte.",
-                  "category": "museum",
-                  "coords": [
-                        -83.064759,
-                        42.328909
-                  ]
-            },
-            {
-                  "name": "Gateway to Freedom",
-                  "text": "Monumentul „Gateway to Freedom” din Windsor a fost dezvelit la 20 octombrie 2001.",
-                  "category": "historical",
-                  "coords": [
-                        -83.043965,
-                        42.326402
                   ]
             },
             {
@@ -9657,96 +8631,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gem Theatre",
-                  "text": "A historic movie theatre opened in 1926 in downtown Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.04627,
-                        42.338526
-                  ]
-            },
-            {
-                  "name": "Century Theatre",
-                  "text": "A historic theatre in Detroit opened in 1902, near the Windsor border.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.046264,
-                        42.337581
-                  ]
-            },
-            {
-                  "name": "The Fillmore",
-                  "text": "A historic music venue in Detroit originally the State Theatre, near Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.051768,
-                        42.337833
-                  ]
-            },
-            {
-                  "name": "City Theatre",
-                  "text": "Built in 2004 in Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.052771,
-                        42.338916
-                  ]
-            },
-            {
-                  "name": "Detroit Opera House",
-                  "text": "A 1922 opera house in Detroit on the Detroit River, across from Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.048867,
-                        42.336466
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Hall",
-                  "text": "A historic concert hall in Detroit known for its electronic music events.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.041597,
-                        42.33235
-                  ]
-            },
-            {
-                  "name": "Central United Methodist Church",
-                  "text": "A Gothic Revival Methodist church built in 1866 in Detroit, near Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050474,
-                        42.337429
-                  ]
-            },
-            {
-                  "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Detroit's oldest Catholic church, built in 1848, near Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038251,
-                        42.331961
-                  ]
-            },
-            {
-                  "name": "Christ Church, Detroit",
-                  "text": "An Episcopal church built in 1861 in Detroit, near Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.034933,
-                        42.332445
-                  ]
-            },
-            {
-                  "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Michigan's oldest synagogue in Detroit, near Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050124,
-                        42.334445
-                  ]
-            },
-            {
                   "name": "Willistead Manor",
                   "text": "A Tudor-style mansion built in 1906 in Windsor's Walkerville neighbourhood.",
                   "category": "landmark",
@@ -9765,48 +8649,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hart Plaza",
-                  "text": "Hart Plaza in Windsor is a well-known city plaza that offers a charming urban flair due to its location right by the water. Visitors can enjoy the bustling city atmosphere here while admiring the sweeping views of the nearby river. The paved areas are perfectly suited for taking relaxing walks in the fresh air. It is well worth taking a break here after exploring the city to appreciate the beautiful waterfront cityscape.",
-                  "category": "park",
-                  "coords": [
-                        -83.044412,
-                        42.32743
-                  ]
-            },
-            {
-                  "name": "Campus Martius Park",
-                  "text": "A public square in downtown Detroit, near the riverfront.",
-                  "category": "park",
-                  "coords": [
-                        -83.046646,
-                        42.331573
-                  ]
-            },
-            {
-                  "name": "William G. Milliken State Park",
-                  "text": "William G. Milliken State Park in Windsor, on the Detroit River with a marina.",
-                  "category": "park",
-                  "coords": [
-                        -83.027026,
-                        42.332032
-                  ]
-            },
-            {
                   "name": "Centennial Park",
                   "text": "Centennial Park in Windsor, a waterfront park built for the city’s centennial.",
                   "category": "park",
                   "coords": [
                         -83.054716,
                         42.316053
-                  ]
-            },
-            {
-                  "name": "Cadillac Square Park",
-                  "text": "Cadillac Square Park is a park at Cadillac Square in Windsor.",
-                  "category": "park",
-                  "coords": [
-                        -83.044815,
-                        42.331565
                   ]
             },
             {
@@ -9834,15 +8682,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -83.01646,
                         42.321699
-                  ]
-            },
-            {
-                  "name": "St. Mary Church",
-                  "text": "St. Mary Church is a Catholic church in Windsor.",
-                  "category": "religious",
-                  "coords": [
-                        -83.04046,
-                        42.335551
                   ]
             },
             {
@@ -9900,15 +8739,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Second Baptist Church",
-                  "text": "Second Baptist Church in Windsor, a historic African American Baptist congregation.",
-                  "category": "religious",
-                  "coords": [
-                        -83.043078,
-                        42.334928
-                  ]
-            },
-            {
                   "name": "Jackson Park",
                   "text": "Jackson Park in Windsor, a large park featuring a historic fountain and bandshell.",
                   "category": "park",
@@ -9918,66 +8748,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lafayette Plaisance Park",
-                  "text": "Lafayette Plaisance Park in Windsor, a city park with playground and green spaces.",
-                  "category": "park",
-                  "coords": [
-                        -83.035547,
-                        42.340902
-                  ]
-            },
-            {
-                  "name": "Aretha Franklin Park",
-                  "text": "Aretha Franklin Park in Windsor, named after the legendary soul singer.",
-                  "category": "park",
-                  "coords": [
-                        -83.021335,
-                        42.334227
-                  ]
-            },
-            {
                   "name": "Legacy Beacon",
                   "text": "Legacy Beacon museum in Windsor, documenting the civil rights movement.",
                   "category": "museum",
                   "coords": [
                         -83.049627,
                         42.317693
-                  ]
-            },
-            {
-                  "name": "Library Street Collective",
-                  "text": "Library Street Collective in Windsor, a contemporary art gallery focused on street art.",
-                  "category": "museum",
-                  "coords": [
-                        -83.047118,
-                        42.334528
-                  ]
-            },
-            {
-                  "name": "DuMouchelles",
-                  "text": "DuMouchelles in Windsor, an auction house and gallery specializing in American folk art.",
-                  "category": "museum",
-                  "coords": [
-                        -83.040911,
-                        42.330582
-                  ]
-            },
-            {
-                  "name": "Reyes | Finn",
-                  "text": "Reyes | Finn in Windsor, a gallery for contemporary photography and mixed media.",
-                  "category": "museum",
-                  "coords": [
-                        -83.064759,
-                        42.328909
-                  ]
-            },
-            {
-                  "name": "Gateway to Freedom",
-                  "text": "The Gateway to Freedom monument in Windsor was unveiled on 20 October 2001.",
-                  "category": "historical",
-                  "coords": [
-                        -83.043965,
-                        42.326402
                   ]
             },
             {
@@ -11789,30 +10565,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     id: "coquitlam-cities-v2", "sights": {
       "de": [
             {
-                  "name": "PoCo Heritage Museum and Archives",
-                  "text": "Das PoCo Heritage Museum and Archives dokumentiert die lokale Geschichte in Coquitlam.",
-                  "category": "museum",
-                  "coords": [
-                        -122.779901,
-                        49.262155
-                  ]
-            },
-            {
                   "name": "TD Community Plaza",
                   "text": "Der TD Community Plaza in Coquitlam ist ein beliebter Veranstaltungsort, der oft eine lebhafte und gemeinschaftliche Atmosphäre versprüht. Die Freifläche am Wasser zieht Menschen jeden Alters an und bietet einen wunderbaren Rahmen für kulturelle Aufführungen im Freien. An veranstaltungsfreien Tagen lädt die Umgebung zu entspannten Spaziergängen mit Blick ins Grüne und auf nahes Gewässer ein. Man sollte sich im Vorfeld über anstehende Events informieren, um das volle Erlebnis zu genießen.",
                   "category": "cultural",
                   "coords": [
                         -122.787242,
                         49.287103
-                  ]
-            },
-            {
-                  "name": "Hyde Creek Nature Reserve",
-                  "text": "Naturschutzgebiet in Coquitlam mit einem Bach und Laubwald.",
-                  "category": "natural",
-                  "coords": [
-                        -122.747613,
-                        49.278199
                   ]
             },
             {
@@ -11881,30 +10639,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "PoCo Heritage Museum and Archives",
-                  "text": "A PoCo Heritage Museum and Archives a helyi történelmet mutatja be Coquitlamban.",
-                  "category": "museum",
-                  "coords": [
-                        -122.779901,
-                        49.262155
-                  ]
-            },
-            {
                   "name": "TD Community Plaza",
                   "text": "A coquitlami TD Community Plaza egy népszerű rendezvényhelyszín, amely gyakran élénk és közösségi hangulatot áraszt. A vízparti szabad tér minden korosztályt vonz, és csodálatos hátteret biztosít a szabadtéri kulturális előadásokhoz. A rendezvénymentes napokon a környék pihentető sétákra csábít, kilátással a zöldbe és a közeli vizekre. Érdemes előzetesen tájékozódni a közelgő eseményekről, hogy a teljes élményben lehessen részünk.",
                   "category": "cultural",
                   "coords": [
                         -122.787242,
                         49.287103
-                  ]
-            },
-            {
-                  "name": "Hyde Creek Nature Reserve",
-                  "text": "Természetvédelmi terület Coquitlamban, patakkal és lombhullató erdővel.",
-                  "category": "natural",
-                  "coords": [
-                        -122.747613,
-                        49.278199
                   ]
             },
             {
@@ -11973,30 +10713,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "PoCo Heritage Museum and Archives",
-                  "text": "PoCo Heritage Museum and Archives documentează istoria locală din Coquitlam.",
-                  "category": "museum",
-                  "coords": [
-                        -122.779901,
-                        49.262155
-                  ]
-            },
-            {
                   "name": "TD Community Plaza",
                   "text": "TD Community Plaza din Coquitlam este un loc de evenimente popular, care emană adesea o atmosferă plină de viață și de comunitate. Spațiul deschis de la malul apei atrage oameni de toate vârstele și oferă un cadru minunat pentru spectacole culturale în aer liber. În zilele fără evenimente, zona vă invită la plimbări relaxante, cu vedere la verdeață și la apele din apropiere. Ar trebui să vă informați în avans despre evenimentele viitoare pentru a vă bucura de experiența completă.",
                   "category": "cultural",
                   "coords": [
                         -122.787242,
                         49.287103
-                  ]
-            },
-            {
-                  "name": "Hyde Creek Nature Reserve",
-                  "text": "Rezervația Naturală Hyde Creek din Coquitlam, cu pârâu și pădure de foioase.",
-                  "category": "natural",
-                  "coords": [
-                        -122.747613,
-                        49.278199
                   ]
             },
             {
@@ -12065,30 +10787,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "PoCo Heritage Museum and Archives",
-                  "text": "PoCo Heritage Museum and Archives documents local history in Coquitlam.",
-                  "category": "museum",
-                  "coords": [
-                        -122.779901,
-                        49.262155
-                  ]
-            },
-            {
                   "name": "TD Community Plaza",
                   "text": "The TD Community Plaza in Coquitlam is a popular event venue that frequently radiates a lively and communal atmosphere. This open waterfront space attracts people of all ages and provides a wonderful setting for outdoor cultural performances. On days without events, the surrounding area warmly invites you for relaxing walks with views of the greenery and nearby water. Checking the schedule for upcoming events beforehand is a great way to enjoy the full experience.",
                   "category": "cultural",
                   "coords": [
                         -122.787242,
                         49.287103
-                  ]
-            },
-            {
-                  "name": "Hyde Creek Nature Reserve",
-                  "text": "Hyde Creek Nature Reserve in Coquitlam, with a creek and deciduous forest.",
-                  "category": "natural",
-                  "coords": [
-                        -122.747613,
-                        49.278199
                   ]
             },
             {
@@ -12202,30 +10906,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poplar point beach",
-                  "text": "Der Poplar Point Beach bietet einen erholsamen Rückzugsort direkt in der Stadt Kelowna. Dieser lokale Favorit verspricht eine ruhige Atmosphäre für alle, die am Wasser entspannen möchten. Besucher können friedlich sonnenbaden und gemütliche Spaziergänge am Ufer unternehmen. Ein Besuch in den wärmeren Sommermonaten garantiert das angenehmste Erlebnis.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.492595,
-                        49.913937
-                  ]
-            },
-            {
                   "name": "Okanagan Heritage Museum",
                   "text": "Das Okanagan Heritage Museum erforscht die lokale Geschichte und Kultur in Kelowna.",
                   "category": "museum",
                   "coords": [
                         -119.494406,
                         49.887688
-                  ]
-            },
-            {
-                  "name": "Tugboat Bay Beach",
-                  "text": "Der in Kelowna gelegene Tugboat Bay Beach ist ein äußerst beliebter Sandstrand, der Einheimische und Touristen gleichermaßen anzieht. Die lebhafte Atmosphäre macht ihn zu einem hervorragenden Ort, um Kontakte zu knüpfen und die kanadische Natur zu genießen. Es erwarten Sie hervorragende Möglichkeiten zum Schwimmen, Entspannen im Sand oder für malerische Spaziergänge. An sonnigen Tagen empfiehlt es sich, früh zu erscheinen, um einen guten Platz zu sichern.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.499635,
-                        49.894266
                   ]
             },
             {
@@ -12303,30 +10989,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poplar point beach",
-                  "text": "A Poplar Point Beach pihentető menedéket kínál Kelowna városában. Ez a helyiek által kedvelt partszakasz csendes légkört biztosít azoknak, akik a vízparton szeretnének kikapcsolódni. A látogatók békésen napozhatnak és kellemes sétákat tehetnek a parton. A legkellemesebb élmény érdekében érdemes a melegebb nyári hónapokban idelátogatni.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.492595,
-                        49.913937
-                  ]
-            },
-            {
                   "name": "Okanagan Heritage Museum",
                   "text": "Az Okanagan Heritage Museum a helyi történelmet és kultúrát mutatja be Kelownában.",
                   "category": "museum",
                   "coords": [
                         -119.494406,
                         49.887688
-                  ]
-            },
-            {
-                  "name": "Tugboat Bay Beach",
-                  "text": "A Kelownában található Tugboat Bay Beach egy rendkívül népszerű homokos partszakasz, amely a helyieket és a turistákat egyaránt vonzza. A nyüzsgő atmoszféra kiváló helyszínné teszi a társasági élethez és a kanadai természet élvezetéhez. Kiváló lehetőségek várják az úszni, a homokban pihenni vagy egy festői sétát tenni vágyókat. Napsütéses napokon érdemes korán érkezni, hogy jó helyet találjunk magunknak.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.499635,
-                        49.894266
                   ]
             },
             {
@@ -12404,30 +11072,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poplar point beach",
-                  "text": "Poplar Point Beach oferă un refugiu relaxant chiar în orașul Kelowna. Acest loc preferat de localnici asigură o atmosferă liniștită pentru cei care doresc să se relaxeze la malul apei. Vizitatorii se pot bucura de plajă în liniște și de plimbări domoale de-a lungul țărmului. O vizită în lunile calde de vară garantează cea mai plăcută experiență.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.492595,
-                        49.913937
-                  ]
-            },
-            {
                   "name": "Okanagan Heritage Museum",
                   "text": "Muzeul de Patrimoniu Okanagan explorează istoria și cultura locală din Kelowna.",
                   "category": "museum",
                   "coords": [
                         -119.494406,
                         49.887688
-                  ]
-            },
-            {
-                  "name": "Tugboat Bay Beach",
-                  "text": "Situată în Kelowna, Tugboat Bay Beach este o coastă de nisip foarte populară, care atrage atât localnici, cât și turiști. Atmosfera vibrantă o face un loc excelent pentru socializare și pentru a vă bucura de natura canadiană. Așteptați-vă la oportunități excelente de înot, de relaxare pe nisip sau de plimbări pitorești. Se recomandă să ajungeți devreme în zilele însorite pentru a vă asigura un loc bun.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.499635,
-                        49.894266
                   ]
             },
             {
@@ -12505,30 +11155,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poplar point beach",
-                  "text": "Poplar Point Beach offers a relaxing coastal retreat right in the city of Kelowna. This local favorite provides a quiet atmosphere for those looking to unwind by the water. Visitors can enjoy peaceful sunbathing and gentle walks along the shore. A visit during the warmer summer months guarantees the most pleasant experience.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.492595,
-                        49.913937
-                  ]
-            },
-            {
                   "name": "Okanagan Heritage Museum",
                   "text": "The Okanagan Heritage Museum explores local history and culture in Kelowna.",
                   "category": "museum",
                   "coords": [
                         -119.494406,
                         49.887688
-                  ]
-            },
-            {
-                  "name": "Tugboat Bay Beach",
-                  "text": "Located in Kelowna, Tugboat Bay Beach is a highly popular sandy shoreline that draws both locals and tourists. The vibrant atmosphere makes it an excellent spot for socializing and enjoying the Canadian outdoors. Expect excellent opportunities for swimming, relaxing on the sand, or taking scenic strolls. Arriving early on sunny days is recommended to secure a good spot.",
-                  "category": "recreational",
-                  "coords": [
-                        -119.499635,
-                        49.894266
                   ]
             },
             {
@@ -15022,15 +13654,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     id: "longueuil-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Modules Aquatiques",
-                  "text": "Ein Wasserpark in Longueuil mit interaktiven Wasserspielen, perfekt für Kinder und Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.524169,
-                        45.500529
-                  ]
-            },
-            {
                   "name": "Natation",
                   "text": "Ein Schwimmbad in Longueuil, das auf das Schwimmtraining und die Freizeitnutzung ausgerichtet ist.",
                   "category": "recreational",
@@ -15067,15 +13690,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Ronde",
-                  "text": "Der größte Vergnügungspark in Québec in Longueuil, mit Achterbahnen und Attraktionen für die ganze Familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.535268,
-                        45.523944
-                  ]
-            },
-            {
                   "name": "Piscine municipale",
                   "text": "Ein weiteres städtisches Schwimmbad in Longueuil, das Familien und Einwohnern offensteht.",
                   "category": "recreational",
@@ -15104,15 +13718,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Modules Aquatiques",
-                  "text": "Vidámpark Longueuil-ben interaktív vízi játékokkal, tökéletes gyerekeknek és családoknak.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.524169,
-                        45.500529
-                  ]
-            },
             {
                   "name": "Natation",
                   "text": "Egy uszoda Longueuil-ben, amely úszásoktatásra és szabadidős tevékenységekre szolgál.",
@@ -15150,15 +13755,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Ronde",
-                  "text": "Québec legnagyobb vidámparkja Longueuil-ben, hullámvasutakkal és családi attrakciókkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.535268,
-                        45.523944
-                  ]
-            },
-            {
                   "name": "Piscine municipale",
                   "text": "Egy másik városi uszoda Longueuil-ben, amely a családok és a lakosok rendelkezésére áll.",
                   "category": "recreational",
@@ -15187,15 +13783,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Modules Aquatiques",
-                  "text": "Un parc acvatic în Longueuil cu jocuri de apă interactive, perfect pentru copii și familii.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.524169,
-                        45.500529
-                  ]
-            },
             {
                   "name": "Natation",
                   "text": "O piscină în Longueuil, destinată antrenamentelor de înot și utilizării recreative.",
@@ -15233,15 +13820,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Ronde",
-                  "text": "Cel mai mare parc de distracții din Québec, în Longueuil, cu montagne russe și atracții pentru întreaga familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.535268,
-                        45.523944
-                  ]
-            },
-            {
                   "name": "Piscine municipale",
                   "text": "O altă piscină municipală în Longueuil, deschisă familiilor și rezidenților.",
                   "category": "recreational",
@@ -15270,15 +13848,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Modules Aquatiques",
-                  "text": "A water park in Longueuil with interactive water features, perfect for kids and families.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.524169,
-                        45.500529
-                  ]
-            },
             {
                   "name": "Natation",
                   "text": "A swimming pool in Longueuil focused on swimming training and recreational use.",
@@ -15313,15 +13882,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -73.538301,
                         45.553493
-                  ]
-            },
-            {
-                  "name": "La Ronde",
-                  "text": "The largest amusement park in Quebec, located in Longueuil, with roller coasters and attractions for the whole family.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.535268,
-                        45.523944
                   ]
             },
             {
@@ -20329,15 +18889,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                         -64.773744,
                         46.097115
                   ]
-            },
-            {
-                  "name": "Magnetic Hill Zoo",
-                  "text": "Zoologischer Garten in Moncton, bekannt für seine artenreiche Tierwelt und das Magnetic Hill Erlebnis.",
-                  "category": "wildlife",
-                  "coords": [
-                        -64.885115,
-                        46.137783
-                  ]
             }
       ],
       "hu": [
@@ -20492,15 +19043,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -64.773744,
                         46.097115
-                  ]
-            },
-            {
-                  "name": "Magnetic Hill Zoo",
-                  "text": "Állatkert Monctonban, híres változatos állatvilágáról és a Magnetic Hill élményről.",
-                  "category": "wildlife",
-                  "coords": [
-                        -64.885115,
-                        46.137783
                   ]
             }
       ],
@@ -20657,15 +19199,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                         -64.773744,
                         46.097115
                   ]
-            },
-            {
-                  "name": "Magnetic Hill Zoo",
-                  "text": "Grădină zoologică în Moncton, cunoscută pentru fauna diversă și experiența Magnetic Hill.",
-                  "category": "wildlife",
-                  "coords": [
-                        -64.885115,
-                        46.137783
-                  ]
             }
       ],
       "en": [
@@ -20821,15 +19354,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                         -64.773744,
                         46.097115
                   ]
-            },
-            {
-                  "name": "Magnetic Hill Zoo",
-                  "text": "A zoo in Moncton, known for its diverse animal collection and the Magnetic Hill attraction.",
-                  "category": "wildlife",
-                  "coords": [
-                        -64.885115,
-                        46.137783
-                  ]
             }
       ]
 },
@@ -20867,24 +19391,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     id: "saint-john-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Little River Beach",
-                  "text": "In der Nähe der Stadt Saint John gelegen, präsentiert sich der Little River Beach als charmanter Uferabschnitt. Die Umgebung ist vergleichsweise ruhig und bietet eine gelassene Alternative zum hektischen Stadtleben. Es ist ein idealer Ort, um die Füße ins Wasser zu tauchen oder einen friedlichen Spaziergang am Meer zu genießen. Ein morgendlicher Besuch ist besonders lohnend für alle, die absolute Stille suchen.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.025654,
-                        45.272425
-                  ]
-            },
-            {
-                  "name": "Imperial Theatre",
-                  "text": "Ein historisches Beaux-Arts-Theater, das 1913 eröffnet wurde und als National Historic Site of Canada gilt.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.057733,
-                        45.272708
-                  ]
-            },
-            {
                   "name": "Fort Howe",
                   "text": "Eine britische Festung aus dem Jahr 1777 auf einem Hügel mit Blick auf den Hafen von Saint John.",
                   "category": "fortress",
@@ -20909,15 +19415,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -66.072309,
                         45.272844
-                  ]
-            },
-            {
-                  "name": "Tin Can Beach",
-                  "text": "Der Tin Can Beach ist ein leicht zugänglicher öffentlicher Küstenabschnitt direkt in Saint John. Die Atmosphäre ist durchweg unprätentiös und stark mit der lokalen Gemeinschaft verbunden. Menschen kommen oft hierher, um auf das Wasser zu blicken, gemütliche Spaziergänge zu machen und die frische Luft zu genießen. Er bleibt in den wärmeren Monaten ein angenehmer Ort für einen kurzen Rückzug am Nachmittag.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.053884,
-                        45.263226
                   ]
             },
             {
@@ -20975,39 +19472,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old No. 2 Engine House Museum",
-                  "text": "Das Old No. 2 Engine House Museum bewahrt die Feuerwehrgeschichte von Saint John.",
-                  "category": "museum",
-                  "coords": [
-                        -66.056786,
-                        45.273457
-                  ]
-            },
-            {
-                  "name": "Saint John Jewish Historical Museum",
-                  "text": "Ein Museum zur jüdischen Geschichte in Saint John, untergebracht in einer ehemaligen Synagoge.",
-                  "category": "museum",
-                  "coords": [
-                        -66.053677,
-                        45.273697
-                  ]
-            },
-            {
                   "name": "Fisher Lake Beach",
                   "text": "Als ruhige Süßwasser-Alternative ist der Fisher Lake Beach ein beliebtes Erholungsgebiet in Saint John. Die friedliche Seeumgebung wirkt im Vergleich zum offenen Meer ausgesprochen natürlich und entspannend. Er eignet sich hervorragend für sanftes Schwimmen, Picknicks am Ufer und zum Abschalten unter freiem Himmel. Ein Besuch an einem sonnigen Wochenende verspricht einen herrlichen und erfrischenden Ausflug.",
                   "category": "recreational",
                   "coords": [
                         -66.056269,
                         45.296698
-                  ]
-            },
-            {
-                  "name": "Fort Dufferin",
-                  "text": "Eine Festung aus dem 19. Jahrhundert auf der Westseite des Hafens von Saint John.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.062822,
-                        45.24831
                   ]
             },
             {
@@ -21029,15 +19499,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wolastoq Park",
-                  "text": "Ein Park am Ufer des Wolastoq (Saint John River) in Saint John.",
-                  "category": "park",
-                  "coords": [
-                        -66.090176,
-                        45.25686
-                  ]
-            },
-            {
                   "name": "Crow Island",
                   "text": "Eine Insel im Saint John River, die zur Stadt Saint John gehört.",
                   "category": "landmark",
@@ -21047,39 +19508,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reversing Falls Lookout",
-                  "text": "Der Reversing Falls Lookout bietet einen beeindruckenden Ausblick in Saint John.",
-                  "category": "natural",
-                  "coords": [
-                        -66.085768,
-                        45.259614
-                  ]
-            },
-            {
                   "name": "Three Sisters Light",
                   "text": "Drei historische Leuchttürme, die die Einfahrt zum Hafen von Saint John markieren.",
                   "category": "landmark",
                   "coords": [
                         -66.060418,
                         45.267154
-                  ]
-            },
-            {
-                  "name": "Peter Buckland Gallery",
-                  "text": "Die Peter Buckland Gallery zeigt Kunstwerke in Saint John.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.060742,
-                        45.270032
-                  ]
-            },
-            {
-                  "name": "Cobalt Art Gallery",
-                  "text": "Eine Galerie für zeitgenössische Kunst im Uptown von Saint John, mit lokalen und aufstrebenden Künstlern.",
-                  "category": "museum",
-                  "coords": [
-                        -66.062054,
-                        45.27136
                   ]
             },
             {
@@ -21128,15 +19562,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reversing Falls Railway Bridge",
-                  "text": "Die Reversing Falls Railway Bridge überspannt den Fluss in Saint John.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.08675,
-                        45.259914
-                  ]
-            },
-            {
                   "name": "Harbour Bridge",
                   "text": "Eine Hochbrücke über den Saint John River, die die Stadt mit der Westseite verbindet.",
                   "category": "landmark",
@@ -21156,24 +19581,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Little River Beach",
-                  "text": "A Saint John városa közelében található Little River Beach egy bájos vízparti szakaszt tár a látogatók elé. A környezet viszonylag nyugodt, békés alternatívát nyújtva a nyüzsgő városi élethez képest. Ideális hely arra, hogy megmártsuk a lábunkat a vízben, vagy élvezzük a csendes tengerparti sétát. A reggeli látogatások különösen hálásak azok számára, akik teljes nyugalomra vágynak.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.025654,
-                        45.272425
-                  ]
-            },
-            {
-                  "name": "Imperial Theatre",
-                  "text": "Történelmi Beaux-Arts stílusú színház, 1913-ban nyílt meg, Kanada nemzeti történelmi helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.057733,
-                        45.272708
-                  ]
-            },
             {
                   "name": "Fort Howe",
                   "text": "Brit erőd 1777-ből, egy dombon, amely Saint John kikötőjére néz.",
@@ -21199,15 +19606,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -66.072309,
                         45.272844
-                  ]
-            },
-            {
-                  "name": "Tin Can Beach",
-                  "text": "A Tin Can Beach egy könnyen megközelíthető nyilvános partszakasz közvetlenül Saint Johnban. A légkör általában szerény, és erősen kötődik a helyi közösséghez. Az emberek gyakran jönnek ide, hogy nézzék a vizet, kényelmes sétákat tegyenek, és élvezzék a szabad levegőt. A melegebb hónapokban továbbra is kellemes hely egy rövid délutáni pihenéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.053884,
-                        45.263226
                   ]
             },
             {
@@ -21265,39 +19663,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old No. 2 Engine House Museum",
-                  "text": "Az Old No. 2 Engine House Museum Saint John tűzoltó történelmét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -66.056786,
-                        45.273457
-                  ]
-            },
-            {
-                  "name": "Saint John Jewish Historical Museum",
-                  "text": "Múzeum Saint John zsidó történelméről, egykori zsinagógában elhelyezve.",
-                  "category": "museum",
-                  "coords": [
-                        -66.053677,
-                        45.273697
-                  ]
-            },
-            {
                   "name": "Fisher Lake Beach",
                   "text": "A csendes édesvízi alternatívát kínáló Fisher Lake Beach egy kedvelt rekreációs terület Saint Johnban. A békés tavi környezet a nyílt tengerhez képest határozottan természetesebbnek és pihentetőbbnek hat. Tökéletesen alkalmas finom úszásra, parti piknikezésre és a szabad ég alatti kikapcsolódásra. Egy napsütéses hétvégi látogatás elragadó és frissítő napot ígér.",
                   "category": "recreational",
                   "coords": [
                         -66.056269,
                         45.296698
-                  ]
-            },
-            {
-                  "name": "Fort Dufferin",
-                  "text": "19. századi erőd Saint John kikötőjének nyugati oldalán.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.062822,
-                        45.24831
                   ]
             },
             {
@@ -21319,15 +19690,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wolastoq Park",
-                  "text": "Park a Wolastoq (Saint John-folyó) partján Saint Johnban.",
-                  "category": "park",
-                  "coords": [
-                        -66.090176,
-                        45.25686
-                  ]
-            },
-            {
                   "name": "Crow Island",
                   "text": "Egy sziget a Saint John folyóban, a Saint John városához tartozik.",
                   "category": "landmark",
@@ -21337,39 +19699,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reversing Falls Lookout",
-                  "text": "A Reversing Falls Lookout lenyűgöző kilátást nyújt Saint Johnban.",
-                  "category": "natural",
-                  "coords": [
-                        -66.085768,
-                        45.259614
-                  ]
-            },
-            {
                   "name": "Three Sisters Light",
                   "text": "Három történelmi világítótorony, amelyek a Saint John kikötő bejáratát jelzik.",
                   "category": "landmark",
                   "coords": [
                         -66.060418,
                         45.267154
-                  ]
-            },
-            {
-                  "name": "Peter Buckland Gallery",
-                  "text": "A Peter Buckland Gallery műalkotásokat mutat be Saint Johnban.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.060742,
-                        45.270032
-                  ]
-            },
-            {
-                  "name": "Cobalt Art Gallery",
-                  "text": "Kortárs művészeti galéria Saint John Uptown részében, helyi és feltörekvő művészek munkáival.",
-                  "category": "museum",
-                  "coords": [
-                        -66.062054,
-                        45.27136
                   ]
             },
             {
@@ -21418,15 +19753,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reversing Falls Railway Bridge",
-                  "text": "A Reversing Falls Railway Bridge átível a folyón Saint Johnban.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.08675,
-                        45.259914
-                  ]
-            },
-            {
                   "name": "Harbour Bridge",
                   "text": "Magashíd a Saint John folyó felett, amely összeköti a várost a nyugati oldallal.",
                   "category": "landmark",
@@ -21446,24 +19772,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Little River Beach",
-                  "text": "Situată în apropiere de orașul Saint John, Little River Beach prezintă o porțiune fermecătoare de coastă. Mediul este relativ liniștit, oferind o alternativă calmă la viața aglomerată a orașului. Este un loc ideal pentru a vă răcori picioarele în apă sau pentru a vă bucura de o plimbare tăcută pe malul mării. Vizitele matinale sunt deosebit de satisfăcătoare pentru cei care caută liniștea absolută.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.025654,
-                        45.272425
-                  ]
-            },
-            {
-                  "name": "Imperial Theatre",
-                  "text": "Un teatru istoric în stil Beaux-Arts, deschis în 1913, desemnat sit istoric național al Canadei.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.057733,
-                        45.272708
-                  ]
-            },
             {
                   "name": "Fort Howe",
                   "text": "Un fort britanic din 1777, pe un deal, cu vedere asupra portului Saint John.",
@@ -21489,15 +19797,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -66.072309,
                         45.272844
-                  ]
-            },
-            {
-                  "name": "Tin Can Beach",
-                  "text": "Tin Can Beach este o coastă publică ușor accesibilă, situată direct în Saint John. Atmosfera este în general lipsită de pretenții și puternic legată de contextul comunității locale. Oamenii vin adesea aici pentru a privi apa, pentru a face plimbări relaxante și pentru a se bucura de aer liber. Rămâne un loc plăcut pentru o scurtă retragere de după-amiază în timpul lunilor mai calde.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.053884,
-                        45.263226
                   ]
             },
             {
@@ -21555,39 +19854,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old No. 2 Engine House Museum",
-                  "text": "Old No. 2 Engine House Museum păstrează istoria pompierilor din Saint John.",
-                  "category": "museum",
-                  "coords": [
-                        -66.056786,
-                        45.273457
-                  ]
-            },
-            {
-                  "name": "Saint John Jewish Historical Museum",
-                  "text": "Un muzeu al istoriei evreiești din Saint John, găzduit într-o fostă sinagogă.",
-                  "category": "museum",
-                  "coords": [
-                        -66.053677,
-                        45.273697
-                  ]
-            },
-            {
                   "name": "Fisher Lake Beach",
                   "text": "Oferind o alternativă senină cu apă dulce, Fisher Lake Beach este o zonă de recreere favorită în Saint John. Mediul calm al lacului se simte distinct natural și relaxant în comparație cu marea deschisă. Este perfect adaptată pentru înot ușor, picnicuri pe mal și relaxare sub cerul liber. O vizită într-un weekend însorit asigură o zi de ieșire încântătoare și răcoritoare.",
                   "category": "recreational",
                   "coords": [
                         -66.056269,
                         45.296698
-                  ]
-            },
-            {
-                  "name": "Fort Dufferin",
-                  "text": "Un fort din secolul al XIX-lea pe partea de vest a portului Saint John.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.062822,
-                        45.24831
                   ]
             },
             {
@@ -21609,15 +19881,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wolastoq Park",
-                  "text": "Un parc pe malul râului Wolastoq (Saint John River) în Saint John.",
-                  "category": "park",
-                  "coords": [
-                        -66.090176,
-                        45.25686
-                  ]
-            },
-            {
                   "name": "Crow Island",
                   "text": "O insulă în râul Saint John, parte a orașului Saint John.",
                   "category": "landmark",
@@ -21627,39 +19890,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reversing Falls Lookout",
-                  "text": "Reversing Falls Lookout oferă o priveliște impresionantă în Saint John.",
-                  "category": "natural",
-                  "coords": [
-                        -66.085768,
-                        45.259614
-                  ]
-            },
-            {
                   "name": "Three Sisters Light",
                   "text": "Trei turnuri de far istorice care marchează intrarea în portul Saint John.",
                   "category": "landmark",
                   "coords": [
                         -66.060418,
                         45.267154
-                  ]
-            },
-            {
-                  "name": "Peter Buckland Gallery",
-                  "text": "Peter Buckland Gallery expune opere de artă în Saint John.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.060742,
-                        45.270032
-                  ]
-            },
-            {
-                  "name": "Cobalt Art Gallery",
-                  "text": "O galerie de artă contemporană în Uptown Saint John, cu lucrări ale artiștilor locali și emergenți.",
-                  "category": "museum",
-                  "coords": [
-                        -66.062054,
-                        45.27136
                   ]
             },
             {
@@ -21708,15 +19944,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reversing Falls Railway Bridge",
-                  "text": "Reversing Falls Railway Bridge traversează râul în Saint John.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.08675,
-                        45.259914
-                  ]
-            },
-            {
                   "name": "Harbour Bridge",
                   "text": "Un pod înalt peste râul Saint John, care leagă orașul de partea de vest.",
                   "category": "landmark",
@@ -21736,24 +19963,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Little River Beach",
-                  "text": "Situated near the city of Saint John, Little River Beach presents a charming stretch of waterfront. The environment is relatively tranquil, offering a calm alternative to bustling city life. It is an ideal spot for dipping your toes in the water or enjoying a quiet seaside stroll. Morning visits are particularly rewarding for those seeking absolute serenity.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.025654,
-                        45.272425
-                  ]
-            },
-            {
-                  "name": "Imperial Theatre",
-                  "text": "A historic Beaux-Arts theatre opened in 1913, a National Historic Site of Canada in Saint John.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.057733,
-                        45.272708
-                  ]
-            },
             {
                   "name": "Fort Howe",
                   "text": "A British fort from 1777 on a hill overlooking Saint John Harbour.",
@@ -21779,15 +19988,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -66.072309,
                         45.272844
-                  ]
-            },
-            {
-                  "name": "Tin Can Beach",
-                  "text": "Tin Can Beach is an easily accessible public shoreline located directly in Saint John. The atmosphere is generally unpretentious and strongly tied to the local community context. People often come here to watch the water, take leisurely walks, and enjoy the open air. It remains a pleasant spot for a brief afternoon retreat during the warmer months.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.053884,
-                        45.263226
                   ]
             },
             {
@@ -21845,39 +20045,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old No. 2 Engine House Museum",
-                  "text": "The Old No. 2 Engine House Museum preserves the firefighting history of Saint John.",
-                  "category": "museum",
-                  "coords": [
-                        -66.056786,
-                        45.273457
-                  ]
-            },
-            {
-                  "name": "Saint John Jewish Historical Museum",
-                  "text": "A museum documenting Jewish life in Saint John, housed in a former synagogue.",
-                  "category": "museum",
-                  "coords": [
-                        -66.053677,
-                        45.273697
-                  ]
-            },
-            {
                   "name": "Fisher Lake Beach",
                   "text": "Providing a serene freshwater alternative, Fisher Lake Beach is a favored recreational area in Saint John. The calm lake environment feels distinctly natural and relaxing compared to the open sea. It is perfectly suited for gentle swimming, picnicking on the shore, and unwinding under the open sky. Visiting on a sunny weekend makes for a delightful and refreshing day out.",
                   "category": "recreational",
                   "coords": [
                         -66.056269,
                         45.296698
-                  ]
-            },
-            {
-                  "name": "Fort Dufferin",
-                  "text": "A 19th-century fort on the west side of Saint John Harbour.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.062822,
-                        45.24831
                   ]
             },
             {
@@ -21899,15 +20072,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wolastoq Park",
-                  "text": "A riverfront park along the Wolastoq (Saint John River) in Saint John.",
-                  "category": "park",
-                  "coords": [
-                        -66.090176,
-                        45.25686
-                  ]
-            },
-            {
                   "name": "Crow Island",
                   "text": "An island in the Saint John River, part of the city of Saint John.",
                   "category": "landmark",
@@ -21917,39 +20081,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reversing Falls Lookout",
-                  "text": "The Reversing Falls Lookout offers an impressive view in Saint John.",
-                  "category": "natural",
-                  "coords": [
-                        -66.085768,
-                        45.259614
-                  ]
-            },
-            {
                   "name": "Three Sisters Light",
                   "text": "Three historic lighthouse towers marking the entrance to Saint John Harbour.",
                   "category": "landmark",
                   "coords": [
                         -66.060418,
                         45.267154
-                  ]
-            },
-            {
-                  "name": "Peter Buckland Gallery",
-                  "text": "The Peter Buckland Gallery displays artwork in Saint John.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.060742,
-                        45.270032
-                  ]
-            },
-            {
-                  "name": "Cobalt Art Gallery",
-                  "text": "A contemporary art gallery in uptown Saint John, featuring local and emerging artists.",
-                  "category": "museum",
-                  "coords": [
-                        -66.062054,
-                        45.27136
                   ]
             },
             {
@@ -21995,15 +20132,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -66.061578,
                         45.276171
-                  ]
-            },
-            {
-                  "name": "Reversing Falls Railway Bridge",
-                  "text": "The Reversing Falls Railway Bridge spans the river in Saint John.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.08675,
-                        45.259914
                   ]
             },
             {
@@ -24123,15 +22251,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "PumpHouse Museum",
-                  "text": "Museum in einem ehemaligen Pumpenhaus mit Motoren und Pumpen.",
-                  "category": "museum",
-                  "coords": [
-                        -76.484734,
-                        44.224135
-                  ]
-            },
-            {
                   "name": "Outdoor Aqua Park",
                   "text": "Aufblasbarer Wasserhindernisparcours auf dem See.",
                   "category": "family",
@@ -24147,24 +22266,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.479382,
                         44.23565
-                  ]
-            },
-            {
-                  "name": "Deadman Bay",
-                  "text": "Eine Bucht mit historischem Namen am Ontariosee bei Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.450859,
-                        44.232397
-                  ]
-            },
-            {
-                  "name": "Navy Bay",
-                  "text": "Eine Bucht, die historisch von der Royal Navy genutzt wurde, im Hafen von Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.464074,
-                        44.231301
                   ]
             },
             {
@@ -24201,15 +22302,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.481992,
                         44.231899
-                  ]
-            },
-            {
-                  "name": "Deck Gun",
-                  "text": "Historische Schiffsdeckkanone öffentlich ausgestellt.",
-                  "category": "historical",
-                  "coords": [
-                        -76.468448,
-                        44.232063
                   ]
             },
             {
@@ -24303,15 +22395,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Murney Tower",
-                  "text": "Erbaut 1846, dieser Martello-Turm ist eine historische Befestigung in Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.490413,
-                        44.222273
-                  ]
-            },
-            {
                   "name": "Frederick Tower",
                   "text": "Ein historischer Martello-Turm am Ufer von Kingston.",
                   "category": "landmark",
@@ -24336,15 +22419,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.478137,
                         44.228821
-                  ]
-            },
-            {
-                  "name": "Cathcart Tower",
-                  "text": "Ein runder Martello-Turm aus den Jahren 1846–1848 auf Cedar Island im Hafen von Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.454134,
-                        44.225423
                   ]
             },
             {
@@ -24467,15 +22541,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "PumpHouse Museum",
-                  "text": "Múzeum egy egykori szivattyúházban, motorokkal és szivattyúkkal.",
-                  "category": "museum",
-                  "coords": [
-                        -76.484734,
-                        44.224135
-                  ]
-            },
-            {
                   "name": "Outdoor Aqua Park",
                   "text": "Felfújható vízi akadálypálya a tavon.",
                   "category": "family",
@@ -24491,24 +22556,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.479382,
                         44.23565
-                  ]
-            },
-            {
-                  "name": "Deadman Bay",
-                  "text": "Egy történelmi nevű öböl az Ontario-tónál Kingston mellett.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.450859,
-                        44.232397
-                  ]
-            },
-            {
-                  "name": "Navy Bay",
-                  "text": "Egy öböl, amelyet a Királyi Haditengerészet használt, Kingston kikötőjében.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.464074,
-                        44.231301
                   ]
             },
             {
@@ -24545,15 +22592,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.481992,
                         44.231899
-                  ]
-            },
-            {
-                  "name": "Deck Gun",
-                  "text": "Történelmi fedélzeti ágyú közszemlére téve.",
-                  "category": "historical",
-                  "coords": [
-                        -76.468448,
-                        44.232063
                   ]
             },
             {
@@ -24647,15 +22685,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Murney Tower",
-                  "text": "1846-ban épült, ez a Martello-torony történelmi erődítmény Kingstonban.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.490413,
-                        44.222273
-                  ]
-            },
-            {
                   "name": "Frederick Tower",
                   "text": "Történelmi Martello-torony Kingston vízpartján.",
                   "category": "landmark",
@@ -24680,15 +22709,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.478137,
                         44.228821
-                  ]
-            },
-            {
-                  "name": "Cathcart Tower",
-                  "text": "Egy kerek Martello-torony 1846–1848-ból a Cedar Islanden a Kingston kikötőben.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.454134,
-                        44.225423
                   ]
             },
             {
@@ -24811,15 +22831,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "PumpHouse Museum",
-                  "text": "Muzeu într-o fostă stație de pompare cu motoare și pompe.",
-                  "category": "museum",
-                  "coords": [
-                        -76.484734,
-                        44.224135
-                  ]
-            },
-            {
                   "name": "Outdoor Aqua Park",
                   "text": "Parc acvatic gonflabil cu obstacole pe lac.",
                   "category": "family",
@@ -24835,24 +22846,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.479382,
                         44.23565
-                  ]
-            },
-            {
-                  "name": "Deadman Bay",
-                  "text": "Un golf cu nume istoric pe lacul Ontario lângă Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.450859,
-                        44.232397
-                  ]
-            },
-            {
-                  "name": "Navy Bay",
-                  "text": "Un golf folosit istoric de Marina Regală în portul Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.464074,
-                        44.231301
                   ]
             },
             {
@@ -24889,15 +22882,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.481992,
                         44.231899
-                  ]
-            },
-            {
-                  "name": "Deck Gun",
-                  "text": "Tun istoric de punte navală expus publicului.",
-                  "category": "historical",
-                  "coords": [
-                        -76.468448,
-                        44.232063
                   ]
             },
             {
@@ -24991,15 +22975,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Murney Tower",
-                  "text": "Construit în 1846, acest turn Martello este o fortificație istorică în Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.490413,
-                        44.222273
-                  ]
-            },
-            {
                   "name": "Frederick Tower",
                   "text": "Un turn Martello istoric pe malul apei din Kingston.",
                   "category": "landmark",
@@ -25024,15 +22999,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.478137,
                         44.228821
-                  ]
-            },
-            {
-                  "name": "Cathcart Tower",
-                  "text": "Un turn Martello rotund construit între 1846 și 1848 pe insula Cedar din portul Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.454134,
-                        44.225423
                   ]
             },
             {
@@ -25155,15 +23121,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "PumpHouse Museum",
-                  "text": "Museum in a former pumphouse with engines and pumps.",
-                  "category": "museum",
-                  "coords": [
-                        -76.484734,
-                        44.224135
-                  ]
-            },
-            {
                   "name": "Outdoor Aqua Park",
                   "text": "Inflatable water obstacle course on the lake.",
                   "category": "family",
@@ -25179,24 +23136,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.479382,
                         44.23565
-                  ]
-            },
-            {
-                  "name": "Deadman Bay",
-                  "text": "A bay with a historic name on Lake Ontario near Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.450859,
-                        44.232397
-                  ]
-            },
-            {
-                  "name": "Navy Bay",
-                  "text": "A bay historically used by the Royal Navy in Kingston harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.464074,
-                        44.231301
                   ]
             },
             {
@@ -25233,15 +23172,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.481992,
                         44.231899
-                  ]
-            },
-            {
-                  "name": "Deck Gun",
-                  "text": "Historic naval deck gun on public display.",
-                  "category": "historical",
-                  "coords": [
-                        -76.468448,
-                        44.232063
                   ]
             },
             {
@@ -25335,15 +23265,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Murney Tower",
-                  "text": "Built in 1846, this Martello tower is a historic fortification in Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.490413,
-                        44.222273
-                  ]
-            },
-            {
                   "name": "Frederick Tower",
                   "text": "A historic Martello tower on the Kingston waterfront.",
                   "category": "landmark",
@@ -25368,15 +23289,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -76.478137,
                         44.228821
-                  ]
-            },
-            {
-                  "name": "Cathcart Tower",
-                  "text": "A round Martello tower built 1846–1848 on Cedar Island in Kingston Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.454134,
-                        44.225423
                   ]
             },
             {
@@ -27744,15 +25656,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                         -121.943792,
                         49.155051
                   ]
-            },
-            {
-                  "name": "Cultus Lake Waterpark",
-                  "text": "Ein Wasserpark am Cultus Lake in Chilliwack mit Rutschen und Pools für die ganze Familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -121.975097,
-                        49.0766
-                  ]
             }
       ],
       "hu": [
@@ -27799,15 +25702,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -121.943792,
                         49.155051
-                  ]
-            },
-            {
-                  "name": "Cultus Lake Waterpark",
-                  "text": "Egy vízipark a Cultus Lake-nél Chilliwackben, csúszdákkal és medencékkel az egész családnak.",
-                  "category": "recreational",
-                  "coords": [
-                        -121.975097,
-                        49.0766
                   ]
             }
       ],
@@ -27856,15 +25750,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                         -121.943792,
                         49.155051
                   ]
-            },
-            {
-                  "name": "Cultus Lake Waterpark",
-                  "text": "Un parc acvatic la Cultus Lake în Chilliwack, cu tobogane și piscine pentru întreaga familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -121.975097,
-                        49.0766
-                  ]
             }
       ],
       "en": [
@@ -27911,15 +25796,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -121.943792,
                         49.155051
-                  ]
-            },
-            {
-                  "name": "Cultus Lake Waterpark",
-                  "text": "A waterpark at Cultus Lake in Chilliwack with slides and pools for the whole family.",
-                  "category": "recreational",
-                  "coords": [
-                        -121.975097,
-                        49.0766
                   ]
             }
       ]
@@ -29057,30 +26933,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     id: "sudbury-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Theatre Cambrian",
-                  "text": "Ein Live-Theater im Stadtzentrum von Sudbury.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.008012,
-                        46.492356
-                  ]
-            },
-            {
                   "name": "Sudbury Theatre Centre",
                   "text": "Ein professionelles Theaterensemble in Sudbury, das im Sudbury Theatre Centre auftritt.",
                   "category": "cultural",
                   "coords": [
                         -80.990005,
                         46.48903
-                  ]
-            },
-            {
-                  "name": "Flour Mill Museum",
-                  "text": "Das Flour Mill Museum in Greater Sudbury vermittelt die industrielle Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        -80.987709,
-                        46.5066
                   ]
             },
             {
@@ -29185,30 +27043,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Theatre Cambrian",
-                  "text": "Élő színház Sudbury belvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.008012,
-                        46.492356
-                  ]
-            },
-            {
                   "name": "Sudbury Theatre Centre",
                   "text": "Professionális színházi társulat Sudburyben, a Sudbury Theatre Centre-ben játszik.",
                   "category": "cultural",
                   "coords": [
                         -80.990005,
                         46.48903
-                  ]
-            },
-            {
-                  "name": "Flour Mill Museum",
-                  "text": "A Greater Sudbury-i Flour Mill Museum az ipari történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -80.987709,
-                        46.5066
                   ]
             },
             {
@@ -29313,30 +27153,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Theatre Cambrian",
-                  "text": "Un teatru live în centrul orașului Sudbury.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.008012,
-                        46.492356
-                  ]
-            },
-            {
                   "name": "Sudbury Theatre Centre",
                   "text": "O companie de teatru profesionistă în Sudbury, care evoluează la Sudbury Theatre Centre.",
                   "category": "cultural",
                   "coords": [
                         -80.990005,
                         46.48903
-                  ]
-            },
-            {
-                  "name": "Flour Mill Museum",
-                  "text": "Flour Mill Museum din Greater Sudbury prezintă istoria industrială.",
-                  "category": "museum",
-                  "coords": [
-                        -80.987709,
-                        46.5066
                   ]
             },
             {
@@ -29441,30 +27263,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Theatre Cambrian",
-                  "text": "A live theatre in downtown Sudbury.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.008012,
-                        46.492356
-                  ]
-            },
-            {
                   "name": "Sudbury Theatre Centre",
                   "text": "A professional theatre company in Sudbury, performing at the Sudbury Theatre Centre.",
                   "category": "cultural",
                   "coords": [
                         -80.990005,
                         46.48903
-                  ]
-            },
-            {
-                  "name": "Flour Mill Museum",
-                  "text": "The Flour Mill Museum in Greater Sudbury showcases industrial history.",
-                  "category": "museum",
-                  "coords": [
-                        -80.987709,
-                        46.5066
                   ]
             },
             {
@@ -30947,15 +28751,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen of Peace Roman Catholic Church",
-                  "text": "Römisch-katholische Kirche im nördlichen Teil von Sarnia.",
-                  "category": "religious",
-                  "coords": [
-                        -82.391537,
-                        42.991361
-                  ]
-            },
-            {
                   "name": "Huron Lightship",
                   "text": "Der Huron-Lightship in Sarnia ist ein denkmalgeschütztes Feuerschiff.",
                   "category": "landmark",
@@ -30971,15 +28766,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -82.525413,
                         42.982661
-                  ]
-            },
-            {
-                  "name": "Children's Animal Farm",
-                  "text": "Ein Streichelzoo und Bauernhof, wo Kinder mit Tieren interagieren können.",
-                  "category": "wildlife",
-                  "coords": [
-                        -82.401866,
-                        43.002657
                   ]
             }
       ],
@@ -31129,15 +28915,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen of Peace Roman Catholic Church",
-                  "text": "Római katolikus templom Sarnia északi részén.",
-                  "category": "religious",
-                  "coords": [
-                        -82.391537,
-                        42.991361
-                  ]
-            },
-            {
                   "name": "Huron Lightship",
                   "text": "A Sarnia-i Huron világítóhajó műemléki védettségű jelzőhajó.",
                   "category": "landmark",
@@ -31153,15 +28930,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -82.525413,
                         42.982661
-                  ]
-            },
-            {
-                  "name": "Children's Animal Farm",
-                  "text": "Simogató állatkert és farm, ahol a gyerekek kapcsolatba léphetnek az állatokkal.",
-                  "category": "wildlife",
-                  "coords": [
-                        -82.401866,
-                        43.002657
                   ]
             }
       ],
@@ -31311,15 +29079,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen of Peace Roman Catholic Church",
-                  "text": "Biserică romano-catolică în partea de nord a orașului Sarnia.",
-                  "category": "religious",
-                  "coords": [
-                        -82.391537,
-                        42.991361
-                  ]
-            },
-            {
                   "name": "Huron Lightship",
                   "text": "Nava far Huron din Sarnia este un vas far protejat ca monument istoric.",
                   "category": "landmark",
@@ -31335,15 +29094,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -82.525413,
                         42.982661
-                  ]
-            },
-            {
-                  "name": "Children's Animal Farm",
-                  "text": "O grădină zoologică de contact și fermă unde copiii pot interacționa cu animalele.",
-                  "category": "wildlife",
-                  "coords": [
-                        -82.401866,
-                        43.002657
                   ]
             }
       ],
@@ -31493,15 +29243,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen of Peace Roman Catholic Church",
-                  "text": "Roman Catholic church in the northern part of Sarnia.",
-                  "category": "religious",
-                  "coords": [
-                        -82.391537,
-                        42.991361
-                  ]
-            },
-            {
                   "name": "Huron Lightship",
                   "text": "Huron Lightship in Sarnia is a heritage-listed lightship.",
                   "category": "landmark",
@@ -31517,15 +29258,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -82.525413,
                         42.982661
-                  ]
-            },
-            {
-                  "name": "Children's Animal Farm",
-                  "text": "A petting zoo and animal farm where children can interact with farm animals.",
-                  "category": "wildlife",
-                  "coords": [
-                        -82.401866,
-                        43.002657
                   ]
             }
       ]
@@ -33618,15 +31350,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden City Skyway",
-                  "text": "Der Garden City Skyway ist eine große Hochbrücke, die den Queen Elizabeth Way in St. Catharines über den Wellandkanal führt.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.197415,
-                        43.166526
-                  ]
-            },
-            {
                   "name": "St. Ignatius of Antioch",
                   "text": "Katholische Kirche in der Nähe des Zentrums von St. Catharines.",
                   "category": "religious",
@@ -33651,15 +31374,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.224011,
                         43.176592
-                  ]
-            },
-            {
-                  "name": "St. Thomas Aquinas Church",
-                  "text": "Katholische Kirche auf der Westseite von St. Catharines.",
-                  "category": "religious",
-                  "coords": [
-                        -79.217672,
-                        43.159308
                   ]
             },
             {
@@ -33827,15 +31541,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden City Skyway",
-                  "text": "A Garden City Skyway egy nagy híd, amely a Queen Elizabeth Way-t vezeti át a Welland-csatornán St. Catharinesben.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.197415,
-                        43.166526
-                  ]
-            },
-            {
                   "name": "St. Ignatius of Antioch",
                   "text": "Katolikus templom St. Catharines központja közelében.",
                   "category": "religious",
@@ -33860,15 +31565,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.224011,
                         43.176592
-                  ]
-            },
-            {
-                  "name": "St. Thomas Aquinas Church",
-                  "text": "Katolikus templom St. Catharines nyugati oldalán.",
-                  "category": "religious",
-                  "coords": [
-                        -79.217672,
-                        43.159308
                   ]
             },
             {
@@ -34036,15 +31732,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden City Skyway",
-                  "text": "Garden City Skyway este un pod rutier major care traversează Canalul Welland din St. Catharines.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.197415,
-                        43.166526
-                  ]
-            },
-            {
                   "name": "St. Ignatius of Antioch",
                   "text": "Biserică catolică lângă centrul orașului St. Catharines.",
                   "category": "religious",
@@ -34069,15 +31756,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.224011,
                         43.176592
-                  ]
-            },
-            {
-                  "name": "St. Thomas Aquinas Church",
-                  "text": "Biserică catolică în partea de vest a orașului St. Catharines.",
-                  "category": "religious",
-                  "coords": [
-                        -79.217672,
-                        43.159308
                   ]
             },
             {
@@ -34245,15 +31923,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden City Skyway",
-                  "text": "The Garden City Skyway is a major elevated bridge carrying the Queen Elizabeth Way across the Welland Canal in St. Catharines.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.197415,
-                        43.166526
-                  ]
-            },
-            {
                   "name": "St. Ignatius of Antioch",
                   "text": "Catholic church located near the centre of St. Catharines.",
                   "category": "religious",
@@ -34278,15 +31947,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.224011,
                         43.176592
-                  ]
-            },
-            {
-                  "name": "St. Thomas Aquinas Church",
-                  "text": "Catholic church on the west side of St. Catharines.",
-                  "category": "religious",
-                  "coords": [
-                        -79.217672,
-                        43.159308
                   ]
             },
             {
@@ -34828,15 +32488,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Robert Burnaby Park",
-                  "text": "Der Robert Burnaby Park ist ein öffentlicher Park mit Wegen und Sportanlagen nahe New Westminster.",
-                  "category": "park",
-                  "coords": [
-                        -122.934662,
-                        49.232361
-                  ]
-            },
-            {
                   "name": "Massey Theatre",
                   "text": "Historisches Theater in New Westminster, erbaut 1949, mit großer Bühne.",
                   "category": "landmark",
@@ -34888,15 +32539,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -122.907348,
                         49.204683
-                  ]
-            },
-            {
-                  "name": "SkyBridge",
-                  "text": "Die SkyBridge ist eine Eisenbahnbrücke für das SkyTrain-System in New Westminster.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.893641,
-                        49.204926
                   ]
             },
             {
@@ -35019,15 +32661,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Robert Burnaby Park",
-                  "text": "A Robert Burnaby Park egy nyilvános park ösvényekkel és sportlétesítményekkel New Westminster közelében.",
-                  "category": "park",
-                  "coords": [
-                        -122.934662,
-                        49.232361
-                  ]
-            },
-            {
                   "name": "Massey Theatre",
                   "text": "Történelmi színház New Westminsterben, 1949-ben épült, nagy színpaddal.",
                   "category": "landmark",
@@ -35079,15 +32712,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -122.907348,
                         49.204683
-                  ]
-            },
-            {
-                  "name": "SkyBridge",
-                  "text": "A SkyBridge egy a SkyTrain által használt tranzit híd New Westminsterben.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.893641,
-                        49.204926
                   ]
             },
             {
@@ -35210,15 +32834,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Robert Burnaby Park",
-                  "text": "Robert Burnaby Park este un parc public cu trasee și facilități sportive situat în apropiere de New Westminster.",
-                  "category": "park",
-                  "coords": [
-                        -122.934662,
-                        49.232361
-                  ]
-            },
-            {
                   "name": "Massey Theatre",
                   "text": "Teatru istoric în New Westminster, construit în 1949, cu o scenă mare.",
                   "category": "landmark",
@@ -35270,15 +32885,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -122.907348,
                         49.204683
-                  ]
-            },
-            {
-                  "name": "SkyBridge",
-                  "text": "SkyBridge este un pod de tranzit din New Westminster utilizat de sistemul SkyTrain.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.893641,
-                        49.204926
                   ]
             },
             {
@@ -35401,15 +33007,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Robert Burnaby Park",
-                  "text": "Robert Burnaby Park is a public park featuring trails and sports facilities near New Westminster.",
-                  "category": "park",
-                  "coords": [
-                        -122.934662,
-                        49.232361
-                  ]
-            },
-            {
                   "name": "Massey Theatre",
                   "text": "Historic theatre in New Westminster, built in 1949, featuring a large stage.",
                   "category": "landmark",
@@ -35461,15 +33058,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -122.907348,
                         49.204683
-                  ]
-            },
-            {
-                  "name": "SkyBridge",
-                  "text": "SkyBridge is a transit bridge in New Westminster used by the SkyTrain system.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.893641,
-                        49.204926
                   ]
             },
             {
@@ -35583,15 +33171,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "TD Community Plaza",
-                  "text": "Als zentraler Treffpunkt in Port Coquitlam ist die TD Community Plaza eher ein lebhafter Veranstaltungsort im Freien als ein traditioneller Strand. Ihre Atmosphäre ist wunderbar belebt und gemeinschaftsorientiert, da hier Veranstaltungen stattfinden und Erholung an der frischen Luft geboten wird. Obwohl man hier keine Sandstrände zum Schwimmen findet, erwarten den Besucher angenehme Spaziergänge im Freien und ein großartiger Ort, um die lokale Kultur aufzusaugen. Ein Blick auf das lokale Programm im Sommer kann Ihren Besuch hier erheblich bereichern.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.787242,
-                        49.287103
-                  ]
-            },
-            {
                   "name": "Lost Creek Ravine and Natural Areas",
                   "text": "Ein Naturgebiet mit dem Lost Creek und Wanderwegen in Coquitlam.",
                   "category": "natural",
@@ -35619,48 +33198,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town Centre Park",
-                  "text": "Der Town Centre Park ist ein großes öffentliches Erholungsgebiet in Port Coquitlam.",
-                  "category": "park",
-                  "coords": [
-                        -122.786326,
-                        49.289338
-                  ]
-            },
-            {
-                  "name": "Glen Park",
-                  "text": "Glen Park ist ein Gemeindepark mit Grünflächen in Port Coquitlam.",
-                  "category": "park",
-                  "coords": [
-                        -122.78851,
-                        49.280369
-                  ]
-            },
-            {
-                  "name": "Evergreen Cultural Centre",
-                  "text": "Das Evergreen Cultural Centre ist ein Kunstzentrum und eine Galerie in Port Coquitlam.",
-                  "category": "museum",
-                  "coords": [
-                        -122.790838,
-                        49.285265
-                  ]
-            },
-            {
                   "name": "Crease Unit",
                   "text": "Die Crease Unit ist eine bemerkenswerte Touristenattraktion in Port Coquitlam.",
                   "category": "landmark",
                   "coords": [
                         -122.805051,
                         49.245849
-                  ]
-            },
-            {
-                  "name": "Coquitlam City Hall",
-                  "text": "Ehemaliges Rathaus von Coquitlam im Stil der Mitte des 20. Jahrhunderts.",
-                  "category": "historical",
-                  "coords": [
-                        -122.793424,
-                        49.284298
                   ]
             },
             {
@@ -35711,15 +33254,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "TD Community Plaza",
-                  "text": "A Port Coquitlam központi találkozóhelyeként szolgáló TD Community Plaza nem egy hagyományos strand, hanem egy nyüzsgő szabadtéri rendezvényhelyszín. Atmoszférája csodálatosan élénk és közösségközpontú, rendezvényeknek ad otthont és szabadtéri kikapcsolódást nyújt. Bár úszásra alkalmas homokos partokat nem találunk, a látogatók kellemes szabadtéri sétákra számíthatnak, és nagyszerű helyszínt kapnak a helyi kultúra befogadásához. A nyári helyi programok áttekintése nagyban fokozhatja az itteni látogatás élményét.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.787242,
-                        49.287103
-                  ]
-            },
-            {
                   "name": "Lost Creek Ravine and Natural Areas",
                   "text": "Egy természetvédelmi terület a Lost Creek patakkal és túraútvonalakkal Coquitlamban.",
                   "category": "natural",
@@ -35747,48 +33281,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town Centre Park",
-                  "text": "A Town Centre Park egy nagy nyilvános rekreációs terület Port Coquitlamban.",
-                  "category": "park",
-                  "coords": [
-                        -122.786326,
-                        49.289338
-                  ]
-            },
-            {
-                  "name": "Glen Park",
-                  "text": "A Glen Park zöldterületeket kínáló közösségi park Port Coquitlamban.",
-                  "category": "park",
-                  "coords": [
-                        -122.78851,
-                        49.280369
-                  ]
-            },
-            {
-                  "name": "Evergreen Cultural Centre",
-                  "text": "Az Evergreen Cultural Centre egy művészeti helyszín és galéria Port Coquitlamban.",
-                  "category": "museum",
-                  "coords": [
-                        -122.790838,
-                        49.285265
-                  ]
-            },
-            {
                   "name": "Crease Unit",
                   "text": "A Crease Unit egy figyelemre méltó turisztikai látványosság Port Coquitlamban.",
                   "category": "landmark",
                   "coords": [
                         -122.805051,
                         49.245849
-                  ]
-            },
-            {
-                  "name": "Coquitlam City Hall",
-                  "text": "Coquitlam egykori városháza, a 20. század közepének stílusában.",
-                  "category": "historical",
-                  "coords": [
-                        -122.793424,
-                        49.284298
                   ]
             },
             {
@@ -35839,15 +33337,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "TD Community Plaza",
-                  "text": "Servind ca punct central de adunare în Port Coquitlam, TD Community Plaza este mai degrabă un loc vibrant în aer liber decât o plajă tradițională. Atmosfera sa este minunat de plină de viață și orientată spre comunitate, găzduind evenimente și oferind recreere în aer liber. Deși nu veți găsi țărmuri de nisip pentru înot, vizitatorii se pot aștepta la plimbări plăcute în aer liber și la un loc excelent pentru a absorbi cultura locală. Verificarea programului local în timpul verii vă poate îmbunătăți considerabil vizita aici.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.787242,
-                        49.287103
-                  ]
-            },
-            {
                   "name": "Lost Creek Ravine and Natural Areas",
                   "text": "O zonă naturală cu pârâul Lost Creek și trasee de drumeție în Coquitlam.",
                   "category": "natural",
@@ -35875,48 +33364,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town Centre Park",
-                  "text": "Town Centre Park este un spațiu de recreere public întins, situat în Port Coquitlam.",
-                  "category": "park",
-                  "coords": [
-                        -122.786326,
-                        49.289338
-                  ]
-            },
-            {
-                  "name": "Glen Park",
-                  "text": "Glen Park este un parc comunitar care oferă spații verzi în Port Coquitlam.",
-                  "category": "park",
-                  "coords": [
-                        -122.78851,
-                        49.280369
-                  ]
-            },
-            {
-                  "name": "Evergreen Cultural Centre",
-                  "text": "Evergreen Cultural Centre este un centru de arte și o galerie situată în Port Coquitlam.",
-                  "category": "museum",
-                  "coords": [
-                        -122.790838,
-                        49.285265
-                  ]
-            },
-            {
                   "name": "Crease Unit",
                   "text": "Crease Unit este o atracție turistică notabilă situată în Port Coquitlam.",
                   "category": "landmark",
                   "coords": [
                         -122.805051,
                         49.245849
-                  ]
-            },
-            {
-                  "name": "Coquitlam City Hall",
-                  "text": "Fosta primărie a orașului Coquitlam, în stil de mijlocul secolului XX.",
-                  "category": "historical",
-                  "coords": [
-                        -122.793424,
-                        49.284298
                   ]
             },
             {
@@ -35967,15 +33420,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "TD Community Plaza",
-                  "text": "Serving as a central gathering point in Port Coquitlam, the TD Community Plaza is a vibrant open-air venue rather than a traditional beach. Its atmosphere is wonderfully lively and community-oriented, hosting events and providing outdoor recreation. While you won't find sandy shores for swimming, visitors can expect pleasant open-air walks and a great place to soak in the local culture. Checking the local schedule during summer can greatly enhance your visit here.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.787242,
-                        49.287103
-                  ]
-            },
-            {
                   "name": "Lost Creek Ravine and Natural Areas",
                   "text": "A natural area featuring Lost Creek and hiking trails in Coquitlam.",
                   "category": "natural",
@@ -36003,48 +33447,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town Centre Park",
-                  "text": "Town Centre Park is a large public recreational space situated in Port Coquitlam.",
-                  "category": "park",
-                  "coords": [
-                        -122.786326,
-                        49.289338
-                  ]
-            },
-            {
-                  "name": "Glen Park",
-                  "text": "Glen Park is a community park offering green spaces in Port Coquitlam.",
-                  "category": "park",
-                  "coords": [
-                        -122.78851,
-                        49.280369
-                  ]
-            },
-            {
-                  "name": "Evergreen Cultural Centre",
-                  "text": "The Evergreen Cultural Centre is an arts venue and gallery located in Port Coquitlam.",
-                  "category": "museum",
-                  "coords": [
-                        -122.790838,
-                        49.285265
-                  ]
-            },
-            {
                   "name": "Crease Unit",
                   "text": "The Crease Unit is a notable tourist attraction located in Port Coquitlam.",
                   "category": "landmark",
                   "coords": [
                         -122.805051,
                         49.245849
-                  ]
-            },
-            {
-                  "name": "Coquitlam City Hall",
-                  "text": "Former Coquitlam City Hall, a mid-century modern municipal building.",
-                  "category": "historical",
-                  "coords": [
-                        -122.793424,
-                        49.284298
                   ]
             },
             {
@@ -39080,15 +36488,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc de l'Immaculée-Conception",
-                  "text": "Park angrenzend an die Kirche der Unbefleckten Empfängnis in Granby.",
-                  "category": "park",
-                  "coords": [
-                        -72.739881,
-                        45.388115
-                  ]
-            },
-            {
                   "name": "Parc Poitevin",
                   "text": "Gemeindepark mit Tennisplätzen und einem Springbrunnen in Granby.",
                   "category": "park",
@@ -39205,15 +36604,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -72.708222,
                         45.401073
-                  ]
-            },
-            {
-                  "name": "Parc de l'Immaculée-Conception",
-                  "text": "Park a Szeplőtelen Fogantatás temploma mellett Granbyben.",
-                  "category": "park",
-                  "coords": [
-                        -72.739881,
-                        45.388115
                   ]
             },
             {
@@ -39336,15 +36726,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc de l'Immaculée-Conception",
-                  "text": "Parc adiacent bisericii Imaculatei Concepții în Granby.",
-                  "category": "park",
-                  "coords": [
-                        -72.739881,
-                        45.388115
-                  ]
-            },
-            {
                   "name": "Parc Poitevin",
                   "text": "Parc comunal cu terenuri de tenis și o fântână arteziană în Granby.",
                   "category": "park",
@@ -39461,15 +36842,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -72.708222,
                         45.401073
-                  ]
-            },
-            {
-                  "name": "Parc de l'Immaculée-Conception",
-                  "text": "Park adjacent to the Church of the Immaculate Conception in Granby.",
-                  "category": "park",
-                  "coords": [
-                        -72.739881,
-                        45.388115
                   ]
             },
             {
@@ -44066,15 +41438,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. George's Anglican Church",
-                  "text": "Eine Kirche in der Stadt pickering-cities-v2.",
-                  "category": "religious",
-                  "coords": [
-                        -79.058057,
-                        43.853049
-                  ]
-            },
-            {
                   "name": "B&C Aquatics",
                   "text": "Eine Schwimmeinrichtung in Pickering, geeignet für Schwimmunterricht und Familien.",
                   "category": "recreational",
@@ -44119,15 +41482,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.078768,
                         43.812362
-                  ]
-            },
-            {
-                  "name": "St. George's Anglican Church",
-                  "text": "Egy templom a pickering-cities-v2 városában.",
-                  "category": "religious",
-                  "coords": [
-                        -79.058057,
-                        43.853049
                   ]
             },
             {
@@ -44178,15 +41532,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. George's Anglican Church",
-                  "text": "O biserică în orașul pickering-cities-v2.",
-                  "category": "religious",
-                  "coords": [
-                        -79.058057,
-                        43.853049
-                  ]
-            },
-            {
                   "name": "B&C Aquatics",
                   "text": "O facilitate de înot în Pickering, potrivită pentru lecții de înot și familii.",
                   "category": "recreational",
@@ -44231,15 +41576,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.078768,
                         43.812362
-                  ]
-            },
-            {
-                  "name": "St. George's Anglican Church",
-                  "text": "A place of worship located in the city of pickering-cities-v2.",
-                  "category": "religious",
-                  "coords": [
-                        -79.058057,
-                        43.853049
                   ]
             },
             {
@@ -45587,24 +42923,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burlington Front Light",
-                  "text": "Historischer Leuchtturm am Burlington Hafen am Ontariosee.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.790496,
-                        43.301002
-                  ]
-            },
-            {
-                  "name": "Burlington Beach",
-                  "text": "Anmutig in Burlington gelegen, bietet dieser äußerst beliebte Strand einen weitläufigen sandigen Rückzugsort direkt am Wasser. Die Gegend ist typischerweise erfüllt von einem fröhlichen, gemeinschaftsorientierten Geist, der jeden willkommen heißt. Besucher verbringen gerne Stunden damit, zu schwimmen, im Sand zu faulenzen und endlos an der Küste entlangzuspazieren. Für einen wirklich unvergesslichen Ausflug sollten Sie in Betracht ziehen, bis zum späten Nachmittag zu bleiben, um die beruhigende Brise am Wasser zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.799078,
-                        43.307772
-                  ]
-            },
-            {
                   "name": "Beachway Park",
                   "text": "Strandpark am Ontariosee mit Sandstrand und Picknickplätzen.",
                   "category": "recreational",
@@ -45704,15 +43022,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wild Waterworks",
-                  "text": "Wild Waterworks in Burlington ist ein Außenwasserpark mit Wasserrutschen und einem Lazy River.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.744837,
-                        43.244662
-                  ]
-            },
-            {
                   "name": "Nelson Pool",
                   "text": "Öffentliches Schwimmbad im Nelson-Viertel von Burlington.",
                   "category": "recreational",
@@ -45728,15 +43037,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.768552,
                         43.261909
-                  ]
-            },
-            {
-                  "name": "LaSalle Wading Pool",
-                  "text": "Plantschbecken im LaSalle-Viertel von Burlington.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.846829,
-                        43.301885
                   ]
             },
             {
@@ -45793,24 +43093,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.801596,
                         43.318676
-                  ]
-            },
-            {
-                  "name": "Burlington Front Light",
-                  "text": "Történelmi világítótorony a Burlington kikötő bejáratánál, az Ontario-tónál.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.790496,
-                        43.301002
-                  ]
-            },
-            {
-                  "name": "Burlington Beach",
-                  "text": "A Burlingtonban kecsesen elhelyezkedő, rendkívül kedvelt strand hatalmas homokos menedéket nyújt közvetlenül a vízparton. A környék jellemzően egy vidám, közösségvezérelt szellemiségtől nyüzsög, amely mindenkit szívesen lát. A látogatók imádnak órákat tölteni úszással, a homokban való heverészéssel és a tengerpart menti végtelen sétákkal. Egy igazán emlékezetes kirándulás érdekében érdemes késő délutánig maradni, hogy elcsípjük a megnyugtató vízparti szellőt.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.799078,
-                        43.307772
                   ]
             },
             {
@@ -45913,15 +43195,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wild Waterworks",
-                  "text": "A Wild Waterworks Burlingtonban egy szabadtéri vízipark csúszdákkal és lassú folyóval.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.744837,
-                        43.244662
-                  ]
-            },
-            {
                   "name": "Nelson Pool",
                   "text": "Nyilvános uszoda Burlington Nelson negyedében.",
                   "category": "recreational",
@@ -45937,15 +43210,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.768552,
                         43.261909
-                  ]
-            },
-            {
-                  "name": "LaSalle Wading Pool",
-                  "text": "Gyermekmedence Burlington LaSalle negyedében.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.846829,
-                        43.301885
                   ]
             },
             {
@@ -46002,24 +43266,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.801596,
                         43.318676
-                  ]
-            },
-            {
-                  "name": "Burlington Front Light",
-                  "text": "Far istoric la intrarea în portul Burlington, pe Lacul Ontario.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.790496,
-                        43.301002
-                  ]
-            },
-            {
-                  "name": "Burlington Beach",
-                  "text": "Situată grațios în Burlington, această plajă foarte apreciată oferă un refugiu extins de nisip chiar lângă apă. Zona este de obicei animată de un spirit vesel, orientat spre comunitate, care întâmpină pe toată lumea. Vizitatorilor le place să petreacă ore întregi înotând, lenevind pe nisip și luând parte la nesfârșite plimbări de-a lungul coastei. Pentru o ieșire cu adevărat memorabilă, luați în considerare să rămâneți până după-amiaza târziu pentru a prinde briza liniștitoare a apelor.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.799078,
-                        43.307772
                   ]
             },
             {
@@ -46122,15 +43368,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wild Waterworks",
-                  "text": "Wild Waterworks din Burlington este un parc acvatic în aer liber cu tobogane și un râu lent.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.744837,
-                        43.244662
-                  ]
-            },
-            {
                   "name": "Nelson Pool",
                   "text": "Piscină publică în cartierul Nelson din Burlington.",
                   "category": "recreational",
@@ -46146,15 +43383,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.768552,
                         43.261909
-                  ]
-            },
-            {
-                  "name": "LaSalle Wading Pool",
-                  "text": "Piscină pentru copii în cartierul LaSalle din Burlington.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.846829,
-                        43.301885
                   ]
             },
             {
@@ -46211,24 +43439,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.801596,
                         43.318676
-                  ]
-            },
-            {
-                  "name": "Burlington Front Light",
-                  "text": "Historic lighthouse at Burlington harbour entrance on Lake Ontario.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.790496,
-                        43.301002
-                  ]
-            },
-            {
-                  "name": "Burlington Beach",
-                  "text": "Positioned gracefully in Burlington, this highly favored beach provides an expansive sandy retreat right by the water. The area typically bustles with a cheerful, community-driven spirit that welcomes everyone. Visitors love to spend hours swimming, lounging in the sand, and partaking in endless walks along the shoreline. For a truly memorable outing, consider staying until late afternoon to catch the calming waterfront breeze.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.799078,
-                        43.307772
                   ]
             },
             {
@@ -46331,15 +43541,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wild Waterworks",
-                  "text": "Wild Waterworks in Burlington is an outdoor water park with water slides and a lazy river.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.744837,
-                        43.244662
-                  ]
-            },
-            {
                   "name": "Nelson Pool",
                   "text": "A public swimming pool in Burlington's Nelson district.",
                   "category": "recreational",
@@ -46355,15 +43556,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -79.768552,
                         43.261909
-                  ]
-            },
-            {
-                  "name": "LaSalle Wading Pool",
-                  "text": "A wading pool in Burlington's LaSalle neighbourhood.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.846829,
-                        43.301885
                   ]
             },
             {
@@ -47090,15 +44282,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
     id: "waterloo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "TheMuseum",
-                  "text": "TheMuseum ist ein Kunst- und Technologiemuseum in Waterloo. Es bietet interaktive Ausstellungen für Besucher.",
-                  "category": "museum",
-                  "coords": [
-                        -80.489486,
-                        43.450094
-                  ]
-            },
-            {
                   "name": "Brubacher House",
                   "text": "Ein restauriertes mennonitisches Bauernhaus aus den 1850er Jahren, heute Museum in Waterloo.",
                   "category": "museum",
@@ -47123,15 +44306,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.541231,
                         43.467805
-                  ]
-            },
-            {
-                  "name": "The Gallery",
-                  "text": "Kunstgalerie im Uptown-Viertel von Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.499191,
-                        43.445179
                   ]
             },
             {
@@ -47189,15 +44363,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Union Lane Green",
-                  "text": "Das Union Lane Green ist ein Naturschutzgebiet in Waterloo. Es bietet Besuchern eine ruhige grüne Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        -80.48583,
-                        43.472808
-                  ]
-            },
-            {
                   "name": "Springdale Green Natural Area",
                   "text": "Das Springdale Green Natural Area ist ein Naturschutzgebiet in Waterloo. Es bietet Besuchern eine ruhige grüne Umgebung.",
                   "category": "natural",
@@ -47252,24 +44417,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Schneider Haus National Historic Site",
-                  "text": "Die Joseph Schneider Haus National Historic Site ist eine Attraktion in Waterloo. Sie umfasst das älteste erhaltene Wohngebäude in der Region.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.495082,
-                        43.444872
-                  ]
-            },
-            {
-                  "name": "Victoria Park",
-                  "text": "Stadtpark mit See und Musikpavillon in Waterloo.",
-                  "category": "park",
-                  "coords": [
-                        -80.497802,
-                        43.446423
-                  ]
-            },
-            {
                   "name": "Waterloo Park",
                   "text": "Der Waterloo Park ist ein Park in Waterloo. Er bietet verschiedene Freizeiteinrichtungen und einen kleinen Tierpark.",
                   "category": "park",
@@ -47279,57 +44426,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Clock Tower",
-                  "text": "Historischer Uhrenturm im Uptown von Waterloo.",
-                  "category": "historical",
-                  "coords": [
-                        -80.493865,
-                        43.448511
-                  ]
-            },
-            {
                   "name": "The People's Gallery",
                   "text": "Kunstgalerie im Rathaus von Waterloo.",
                   "category": "museum",
                   "coords": [
                         -80.522604,
                         43.460965
-                  ]
-            },
-            {
-                  "name": "PWD Art Gallery and Design Studio",
-                  "text": "Galerie und Designstudio im öffentlichen Bauamt von Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.489988,
-                        43.45105
-                  ]
-            },
-            {
-                  "name": "KWSA Gallery",
-                  "text": "Galerie der Künstlervereinigung Kitchener-Waterloo in Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.493075,
-                        43.450508
-                  ]
-            },
-            {
-                  "name": "Yoni Mudra Art Gallery",
-                  "text": "Galerie für spirituelle Kunst in Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.49578,
-                        43.453788
-                  ]
-            },
-            {
-                  "name": "27 Studio",
-                  "text": "Die 27 Studio ist eine Galerie in Waterloo. Sie zeigt lokale Kunstwerke.",
-                  "category": "museum",
-                  "coords": [
-                        -80.487983,
-                        43.452996
                   ]
             },
             {
@@ -47396,66 +44498,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sacred Heart Church",
-                  "text": "Sacred Heart Church ist eine religiöse Stätte in Waterloo. Sie dient der Gemeinde als spiritueller Versammlungsort.",
-                  "category": "religious",
-                  "coords": [
-                        -80.502777,
-                        43.456778
-                  ]
-            },
-            {
                   "name": "Saint Agnes Catholic Church",
                   "text": "Saint Agnes Catholic Church ist eine religiöse Stätte in Waterloo. Sie dient der Gemeinde als spiritueller Versammlungsort.",
                   "category": "religious",
                   "coords": [
                         -80.50114,
                         43.475841
-                  ]
-            },
-            {
-                  "name": "Saint Mary Our Lady of the Seven Sorrows",
-                  "text": "Saint Mary Our Lady of the Seven Sorrows ist eine religiöse Stätte in Waterloo. Sie dient der Gemeinde als spiritueller Versammlungsort.",
-                  "category": "religious",
-                  "coords": [
-                        -80.490354,
-                        43.452169
-                  ]
-            },
-            {
-                  "name": "Saint Teresa's Catholic Church",
-                  "text": "Saint Teresa's Catholic Church ist eine religiöse Stätte in Waterloo. Sie dient der Gemeinde als spiritueller Versammlungsort.",
-                  "category": "religious",
-                  "coords": [
-                        -80.487846,
-                        43.467017
-                  ]
-            },
-            {
-                  "name": "Saint John's Catholic Church",
-                  "text": "Saint John's Catholic Church ist eine religiöse Stätte in Waterloo. Sie dient der Gemeinde als spiritueller Versammlungsort.",
-                  "category": "religious",
-                  "coords": [
-                        -80.508845,
-                        43.448507
-                  ]
-            },
-            {
-                  "name": "Kitchener City Hall",
-                  "text": "Die Kitchener City Hall ist ein Rathaus in Waterloo. Das Gebäude dient als Verwaltungszentrum für die Nachbarstadt Kitchener.",
-                  "category": "historical",
-                  "coords": [
-                        -80.492498,
-                        43.451655
-                  ]
-            },
-            {
-                  "name": "Ukrainian Catholic Church",
-                  "text": "Ukrainian Catholic Church ist eine religiöse Stätte in Waterloo. Sie dient der Gemeinde als spiritueller Versammlungsort.",
-                  "category": "religious",
-                  "coords": [
-                        -80.501181,
-                        43.449239
                   ]
             },
             {
@@ -47474,15 +44522,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.516183,
                         43.462178
-                  ]
-            },
-            {
-                  "name": "Church of the Good Sheperd",
-                  "text": "Church of the Good Sheperd ist eine religiöse Stätte in Waterloo. Sie dient der Gemeinde als spiritueller Versammlungsort.",
-                  "category": "religious",
-                  "coords": [
-                        -80.485455,
-                        43.454972
                   ]
             },
             {
@@ -47505,15 +44544,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "TheMuseum",
-                  "text": "A TheMuseum egy művészeti és technológiai múzeum Waterloóban. Interaktív kiállításokat kínál a látogatóknak.",
-                  "category": "museum",
-                  "coords": [
-                        -80.489486,
-                        43.450094
-                  ]
-            },
             {
                   "name": "Brubacher House",
                   "text": "Egy helyreállított mennonita tanya az 1850-es évekből, ma múzeum Waterloo-ban.",
@@ -47539,15 +44569,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.541231,
                         43.467805
-                  ]
-            },
-            {
-                  "name": "The Gallery",
-                  "text": "Művészeti galéria Waterloo belvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        -80.499191,
-                        43.445179
                   ]
             },
             {
@@ -47605,15 +44626,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Union Lane Green",
-                  "text": "A Union Lane Green egy természetvédelmi terület Waterloóban. Nyugodt zöld környezetet kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        -80.48583,
-                        43.472808
-                  ]
-            },
-            {
                   "name": "Springdale Green Natural Area",
                   "text": "A Springdale Green Natural Area egy természetvédelmi terület Waterloóban. Nyugodt zöld környezetet kínál a látogatóknak.",
                   "category": "natural",
@@ -47668,24 +44680,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Schneider Haus National Historic Site",
-                  "text": "A Joseph Schneider Haus National Historic Site egy látványosság Waterloóban. Itt található a régió legrégebbi fennmaradt lakóépülete.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.495082,
-                        43.444872
-                  ]
-            },
-            {
-                  "name": "Victoria Park",
-                  "text": "Városi park tóval és zenepavilonnal Waterloo-ban.",
-                  "category": "park",
-                  "coords": [
-                        -80.497802,
-                        43.446423
-                  ]
-            },
-            {
                   "name": "Waterloo Park",
                   "text": "A Waterloo Park egy park Waterloóban. Különböző szabadidős létesítményeket és egy kis állatparkot kínál.",
                   "category": "park",
@@ -47695,57 +44689,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Clock Tower",
-                  "text": "Történelmi óratorony Waterloo belvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        -80.493865,
-                        43.448511
-                  ]
-            },
-            {
                   "name": "The People's Gallery",
                   "text": "Művészeti galéria Waterloo városházájában.",
                   "category": "museum",
                   "coords": [
                         -80.522604,
                         43.460965
-                  ]
-            },
-            {
-                  "name": "PWD Art Gallery and Design Studio",
-                  "text": "Galéria és designstúdió Waterloo közműépületében.",
-                  "category": "museum",
-                  "coords": [
-                        -80.489988,
-                        43.45105
-                  ]
-            },
-            {
-                  "name": "KWSA Gallery",
-                  "text": "A Kitchener-Waterloo Művészeti Társaság galériája Waterloo-ban.",
-                  "category": "museum",
-                  "coords": [
-                        -80.493075,
-                        43.450508
-                  ]
-            },
-            {
-                  "name": "Yoni Mudra Art Gallery",
-                  "text": "Spirituális művészetek galériája Waterloo-ban.",
-                  "category": "museum",
-                  "coords": [
-                        -80.49578,
-                        43.453788
-                  ]
-            },
-            {
-                  "name": "27 Studio",
-                  "text": "A 27 Studio egy galéria Waterloóban. Helyi művészeti alkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -80.487983,
-                        43.452996
                   ]
             },
             {
@@ -47812,66 +44761,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sacred Heart Church",
-                  "text": "A Sacred Heart Church egy vallási hely Waterloóban. A közösség spirituális gyülekezőhelyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -80.502777,
-                        43.456778
-                  ]
-            },
-            {
                   "name": "Saint Agnes Catholic Church",
                   "text": "A Saint Agnes Catholic Church egy vallási hely Waterloóban. A közösség spirituális gyülekezőhelyeként szolgál.",
                   "category": "religious",
                   "coords": [
                         -80.50114,
                         43.475841
-                  ]
-            },
-            {
-                  "name": "Saint Mary Our Lady of the Seven Sorrows",
-                  "text": "A Saint Mary Our Lady of the Seven Sorrows egy vallási hely Waterloóban. A közösség spirituális gyülekezőhelyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -80.490354,
-                        43.452169
-                  ]
-            },
-            {
-                  "name": "Saint Teresa's Catholic Church",
-                  "text": "A Saint Teresa's Catholic Church egy vallási hely Waterloóban. A közösség spirituális gyülekezőhelyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -80.487846,
-                        43.467017
-                  ]
-            },
-            {
-                  "name": "Saint John's Catholic Church",
-                  "text": "A Saint John's Catholic Church egy vallási hely Waterloóban. A közösség spirituális gyülekezőhelyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -80.508845,
-                        43.448507
-                  ]
-            },
-            {
-                  "name": "Kitchener City Hall",
-                  "text": "A Kitchener City Hall egy városháza Waterloóban. Az épület a szomszédos Kitchener város adminisztratív központjaként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        -80.492498,
-                        43.451655
-                  ]
-            },
-            {
-                  "name": "Ukrainian Catholic Church",
-                  "text": "Az Ukrainian Catholic Church egy vallási hely Waterloóban. A közösség spirituális gyülekezőhelyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -80.501181,
-                        43.449239
                   ]
             },
             {
@@ -47890,15 +44785,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.516183,
                         43.462178
-                  ]
-            },
-            {
-                  "name": "Church of the Good Sheperd",
-                  "text": "A Church of the Good Sheperd egy vallási hely Waterloóban. A közösség spirituális gyülekezőhelyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -80.485455,
-                        43.454972
                   ]
             },
             {
@@ -47921,15 +44807,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "TheMuseum",
-                  "text": "TheMuseum este un muzeu de artă și tehnologie din Waterloo. Oferă expoziții interactive pentru vizitatori.",
-                  "category": "museum",
-                  "coords": [
-                        -80.489486,
-                        43.450094
-                  ]
-            },
             {
                   "name": "Brubacher House",
                   "text": "O gospodărie menonită restaurată din anii 1850, acum muzeu în Waterloo.",
@@ -47955,15 +44832,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.541231,
                         43.467805
-                  ]
-            },
-            {
-                  "name": "The Gallery",
-                  "text": "Galerie de artă în centrul orașului Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.499191,
-                        43.445179
                   ]
             },
             {
@@ -48021,15 +44889,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Union Lane Green",
-                  "text": "Union Lane Green este o rezervație naturală din Waterloo. Oferă vizitatorilor un mediu verde și liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        -80.48583,
-                        43.472808
-                  ]
-            },
-            {
                   "name": "Springdale Green Natural Area",
                   "text": "Springdale Green Natural Area este o rezervație naturală din Waterloo. Oferă vizitatorilor un mediu verde și liniștit.",
                   "category": "natural",
@@ -48084,24 +44943,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Schneider Haus National Historic Site",
-                  "text": "Joseph Schneider Haus National Historic Site este o atracție din Waterloo. Prezintă cea mai veche locuință păstrată din regiune.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.495082,
-                        43.444872
-                  ]
-            },
-            {
-                  "name": "Victoria Park",
-                  "text": "Parcul orașului cu lac și foișor de muzică în Waterloo.",
-                  "category": "park",
-                  "coords": [
-                        -80.497802,
-                        43.446423
-                  ]
-            },
-            {
                   "name": "Waterloo Park",
                   "text": "Waterloo Park este un parc din Waterloo. Prezintă diverse facilități de recreere și o mică fermă de animale.",
                   "category": "park",
@@ -48111,57 +44952,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Clock Tower",
-                  "text": "Turn de ceas istoric în centrul orașului Waterloo.",
-                  "category": "historical",
-                  "coords": [
-                        -80.493865,
-                        43.448511
-                  ]
-            },
-            {
                   "name": "The People's Gallery",
                   "text": "Galerie de artă în primăria orașului Waterloo.",
                   "category": "museum",
                   "coords": [
                         -80.522604,
                         43.460965
-                  ]
-            },
-            {
-                  "name": "PWD Art Gallery and Design Studio",
-                  "text": "Galerie și studio de design în clădirea lucrărilor publice din Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.489988,
-                        43.45105
-                  ]
-            },
-            {
-                  "name": "KWSA Gallery",
-                  "text": "Galerie a Societății Artiștilor Kitchener-Waterloo în Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.493075,
-                        43.450508
-                  ]
-            },
-            {
-                  "name": "Yoni Mudra Art Gallery",
-                  "text": "Galerie de artă spirituală în Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.49578,
-                        43.453788
-                  ]
-            },
-            {
-                  "name": "27 Studio",
-                  "text": "27 Studio este o galerie din Waterloo. Prezintă opere de artă locale.",
-                  "category": "museum",
-                  "coords": [
-                        -80.487983,
-                        43.452996
                   ]
             },
             {
@@ -48228,66 +45024,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sacred Heart Church",
-                  "text": "Sacred Heart Church este un lăcaș de cult din Waterloo. Servește ca loc de adunare spirituală pentru comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        -80.502777,
-                        43.456778
-                  ]
-            },
-            {
                   "name": "Saint Agnes Catholic Church",
                   "text": "Saint Agnes Catholic Church este un lăcaș de cult din Waterloo. Servește ca loc de adunare spirituală pentru comunitate.",
                   "category": "religious",
                   "coords": [
                         -80.50114,
                         43.475841
-                  ]
-            },
-            {
-                  "name": "Saint Mary Our Lady of the Seven Sorrows",
-                  "text": "Saint Mary Our Lady of the Seven Sorrows este un lăcaș de cult din Waterloo. Servește ca loc de adunare spirituală pentru comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        -80.490354,
-                        43.452169
-                  ]
-            },
-            {
-                  "name": "Saint Teresa's Catholic Church",
-                  "text": "Saint Teresa's Catholic Church este un lăcaș de cult din Waterloo. Servește ca loc de adunare spirituală pentru comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        -80.487846,
-                        43.467017
-                  ]
-            },
-            {
-                  "name": "Saint John's Catholic Church",
-                  "text": "Saint John's Catholic Church este un lăcaș de cult din Waterloo. Servește ca loc de adunare spirituală pentru comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        -80.508845,
-                        43.448507
-                  ]
-            },
-            {
-                  "name": "Kitchener City Hall",
-                  "text": "Kitchener City Hall este o primărie din Waterloo. Clădirea servește drept centru civic pentru orașul vecin Kitchener.",
-                  "category": "historical",
-                  "coords": [
-                        -80.492498,
-                        43.451655
-                  ]
-            },
-            {
-                  "name": "Ukrainian Catholic Church",
-                  "text": "Ukrainian Catholic Church este un lăcaș de cult din Waterloo. Servește ca loc de adunare spirituală pentru comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        -80.501181,
-                        43.449239
                   ]
             },
             {
@@ -48306,15 +45048,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.516183,
                         43.462178
-                  ]
-            },
-            {
-                  "name": "Church of the Good Sheperd",
-                  "text": "Church of the Good Sheperd este un lăcaș de cult din Waterloo. Servește ca loc de adunare spirituală pentru comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        -80.485455,
-                        43.454972
                   ]
             },
             {
@@ -48337,15 +45070,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "TheMuseum",
-                  "text": "TheMuseum is an art and technology museum in Waterloo. It offers interactive exhibits for visitors.",
-                  "category": "museum",
-                  "coords": [
-                        -80.489486,
-                        43.450094
-                  ]
-            },
             {
                   "name": "Brubacher House",
                   "text": "A restored 1850s Mennonite homestead, now a museum in Waterloo.",
@@ -48371,15 +45095,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.541231,
                         43.467805
-                  ]
-            },
-            {
-                  "name": "The Gallery",
-                  "text": "An art gallery in Waterloo's uptown district.",
-                  "category": "museum",
-                  "coords": [
-                        -80.499191,
-                        43.445179
                   ]
             },
             {
@@ -48437,15 +45152,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Union Lane Green",
-                  "text": "The Union Lane Green is a nature reserve in Waterloo. It offers a peaceful green environment for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        -80.48583,
-                        43.472808
-                  ]
-            },
-            {
                   "name": "Springdale Green Natural Area",
                   "text": "The Springdale Green Natural Area is a nature reserve in Waterloo. It offers a peaceful green environment for visitors.",
                   "category": "natural",
@@ -48500,24 +45206,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Schneider Haus National Historic Site",
-                  "text": "Joseph Schneider Haus National Historic Site is an attraction in Waterloo. It features the oldest surviving dwelling in the region.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.495082,
-                        43.444872
-                  ]
-            },
-            {
-                  "name": "Victoria Park",
-                  "text": "A city park with a lake and bandshell in Waterloo.",
-                  "category": "park",
-                  "coords": [
-                        -80.497802,
-                        43.446423
-                  ]
-            },
-            {
                   "name": "Waterloo Park",
                   "text": "Waterloo Park is a park in Waterloo. It features various recreational facilities and a small animal farm.",
                   "category": "park",
@@ -48527,57 +45215,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Clock Tower",
-                  "text": "A historic clock tower in Waterloo's uptown.",
-                  "category": "historical",
-                  "coords": [
-                        -80.493865,
-                        43.448511
-                  ]
-            },
-            {
                   "name": "The People's Gallery",
                   "text": "An art gallery in Waterloo's city hall.",
                   "category": "museum",
                   "coords": [
                         -80.522604,
                         43.460965
-                  ]
-            },
-            {
-                  "name": "PWD Art Gallery and Design Studio",
-                  "text": "A gallery and design studio in Waterloo's public works building.",
-                  "category": "museum",
-                  "coords": [
-                        -80.489988,
-                        43.45105
-                  ]
-            },
-            {
-                  "name": "KWSA Gallery",
-                  "text": "A gallery of the Kitchener-Waterloo Society of Artists in Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.493075,
-                        43.450508
-                  ]
-            },
-            {
-                  "name": "Yoni Mudra Art Gallery",
-                  "text": "An art gallery focusing on spiritual art in Waterloo.",
-                  "category": "museum",
-                  "coords": [
-                        -80.49578,
-                        43.453788
-                  ]
-            },
-            {
-                  "name": "27 Studio",
-                  "text": "The 27 Studio is a gallery in Waterloo. It showcases local artworks.",
-                  "category": "museum",
-                  "coords": [
-                        -80.487983,
-                        43.452996
                   ]
             },
             {
@@ -48644,66 +45287,12 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sacred Heart Church",
-                  "text": "Sacred Heart Church is a place of worship in Waterloo. It serves as a spiritual gathering place for the community.",
-                  "category": "religious",
-                  "coords": [
-                        -80.502777,
-                        43.456778
-                  ]
-            },
-            {
                   "name": "Saint Agnes Catholic Church",
                   "text": "Saint Agnes Catholic Church is a place of worship in Waterloo. It serves as a spiritual gathering place for the community.",
                   "category": "religious",
                   "coords": [
                         -80.50114,
                         43.475841
-                  ]
-            },
-            {
-                  "name": "Saint Mary Our Lady of the Seven Sorrows",
-                  "text": "Saint Mary Our Lady of the Seven Sorrows is a place of worship in Waterloo. It serves as a spiritual gathering place for the community.",
-                  "category": "religious",
-                  "coords": [
-                        -80.490354,
-                        43.452169
-                  ]
-            },
-            {
-                  "name": "Saint Teresa's Catholic Church",
-                  "text": "Saint Teresa's Catholic Church is a place of worship in Waterloo. It serves as a spiritual gathering place for the community.",
-                  "category": "religious",
-                  "coords": [
-                        -80.487846,
-                        43.467017
-                  ]
-            },
-            {
-                  "name": "Saint John's Catholic Church",
-                  "text": "Saint John's Catholic Church is a place of worship in Waterloo. It serves as a spiritual gathering place for the community.",
-                  "category": "religious",
-                  "coords": [
-                        -80.508845,
-                        43.448507
-                  ]
-            },
-            {
-                  "name": "Kitchener City Hall",
-                  "text": "Kitchener City Hall is a townhall in Waterloo. The building serves as the civic centre for the neighboring city of Kitchener.",
-                  "category": "historical",
-                  "coords": [
-                        -80.492498,
-                        43.451655
-                  ]
-            },
-            {
-                  "name": "Ukrainian Catholic Church",
-                  "text": "Ukrainian Catholic Church is a place of worship in Waterloo. It serves as a spiritual gathering place for the community.",
-                  "category": "religious",
-                  "coords": [
-                        -80.501181,
-                        43.449239
                   ]
             },
             {
@@ -48722,15 +45311,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -80.516183,
                         43.462178
-                  ]
-            },
-            {
-                  "name": "Church of the Good Sheperd",
-                  "text": "Church of the Good Sheperd is a place of worship in Waterloo. It serves as a spiritual gathering place for the community.",
-                  "category": "religious",
-                  "coords": [
-                        -80.485455,
-                        43.454972
                   ]
             },
             {
@@ -50186,15 +46766,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vancouver Aquarium",
-                  "text": "Das Vancouver Aquarium ist eines der größten Aquarien Kanadas mit über 50.000 Tieren, ideal für Familien.",
-                  "category": "wildlife",
-                  "coords": [
-                        -123.13115,
-                        49.300573
-                  ]
-            },
-            {
                   "name": "Kitsilano Outdoor Swimming Pool",
                   "text": "Ein beheiztes Salzwasser-Freibad am Kitsilano Beach mit Blick auf English Bay.",
                   "category": "recreational",
@@ -50219,15 +46790,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -123.131626,
                         49.269698
-                  ]
-            },
-            {
-                  "name": "Playland",
-                  "text": "Playland ist Vancouvers historischer Vergnügungspark mit Fahrgeschäften und Spielen, ideal für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.036296,
-                        49.282527
                   ]
             },
             {
@@ -50332,15 +46894,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vancouver Aquarium",
-                  "text": "A Vancouver Akvárium Kanada egyik legnagyobb akváriuma, több mint 50.000 állattal, családok számára ideális.",
-                  "category": "wildlife",
-                  "coords": [
-                        -123.13115,
-                        49.300573
-                  ]
-            },
-            {
                   "name": "Kitsilano Outdoor Swimming Pool",
                   "text": "Fűtött sósvizű szabadtéri uszoda a Kitsilano Beachen, az English Bay kilátásával.",
                   "category": "recreational",
@@ -50365,15 +46918,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -123.131626,
                         49.269698
-                  ]
-            },
-            {
-                  "name": "Playland",
-                  "text": "A Playland Vancouver történelmi vidámparkja hullámvasutakkal és játékokkal, ideális családok számára.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.036296,
-                        49.282527
                   ]
             },
             {
@@ -50478,15 +47022,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vancouver Aquarium",
-                  "text": "Acvariul din Vancouver este unul dintre cele mai mari acvarii din Canada, cu peste 50.000 de animale, ideal pentru familii.",
-                  "category": "wildlife",
-                  "coords": [
-                        -123.13115,
-                        49.300573
-                  ]
-            },
-            {
                   "name": "Kitsilano Outdoor Swimming Pool",
                   "text": "O piscină în aer liber cu apă sărată încălzită pe plaja Kitsilano, cu vedere la English Bay.",
                   "category": "recreational",
@@ -50511,15 +47046,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -123.131626,
                         49.269698
-                  ]
-            },
-            {
-                  "name": "Playland",
-                  "text": "Playland este parcul de distracții istoric din Vancouver, cu curse și jocuri, ideal pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.036296,
-                        49.282527
                   ]
             },
             {
@@ -50624,15 +47150,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vancouver Aquarium",
-                  "text": "The Vancouver Aquarium is one of Canada's largest aquariums, home to over 50,000 animals, ideal for families.",
-                  "category": "wildlife",
-                  "coords": [
-                        -123.13115,
-                        49.300573
-                  ]
-            },
-            {
                   "name": "Kitsilano Outdoor Swimming Pool",
                   "text": "A heated saltwater outdoor pool on Kitsilano Beach with views of English Bay.",
                   "category": "recreational",
@@ -50657,15 +47174,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -123.131626,
                         49.269698
-                  ]
-            },
-            {
-                  "name": "Playland",
-                  "text": "Playland is Vancouver's historic amusement park with rides and games, ideal for families.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.036296,
-                        49.282527
                   ]
             },
             {
@@ -54083,15 +50591,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petty Harbour Mini Aquarium",
-                  "text": "Mini-Aquarium in Mount Pearl mit Berührungsbecken und Meeresbewohnern.",
-                  "category": "wildlife",
-                  "coords": [
-                        -52.707398,
-                        47.463691
-                  ]
-            },
-            {
                   "name": "Bowring Park Swimming Pool",
                   "text": "Schwimmbad im Bowring Park in Mount Pearl, umgeben von Grünanlagen.",
                   "category": "recreational",
@@ -54127,15 +50626,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -52.749946,
                         47.527318
-                  ]
-            },
-            {
-                  "name": "Petty Harbour Mini Aquarium",
-                  "text": "Mini akvárium Mount Pearl-ben, tapogató medencékkel és tengeri élőlényekkel.",
-                  "category": "wildlife",
-                  "coords": [
-                        -52.707398,
-                        47.463691
                   ]
             },
             {
@@ -54177,15 +50667,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petty Harbour Mini Aquarium",
-                  "text": "Acvariu miniatural în Mount Pearl, cu bazine de atingere și creaturi marine.",
-                  "category": "wildlife",
-                  "coords": [
-                        -52.707398,
-                        47.463691
-                  ]
-            },
-            {
                   "name": "Bowring Park Swimming Pool",
                   "text": "Piscină în Parcul Bowring din Mount Pearl, înconjurată de spații verzi.",
                   "category": "recreational",
@@ -54221,15 +50702,6 @@ export const poiExtraCanadaCitiesV2: POI[] = [
                   "coords": [
                         -52.749946,
                         47.527318
-                  ]
-            },
-            {
-                  "name": "Petty Harbour Mini Aquarium",
-                  "text": "A mini aquarium in Mount Pearl with touch tanks and marine life.",
-                  "category": "wildlife",
-                  "coords": [
-                        -52.707398,
-                        47.463691
                   ]
             },
             {

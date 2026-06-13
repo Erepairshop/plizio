@@ -2841,15 +2841,6 @@ export const switzerlandLifeV2: POI[] = [
     id: "switzerland-botanical-garden-porrentruy-life-v2", "sights": {
       "de": [
             {
-                  "name": "Musée de l'Hotel-Dieu",
-                  "text": "Dieses Museum in Porrentruy zeigt historische Sammlungen in einem ehemaligen Krankenhausgebäude.",
-                  "category": "museum",
-                  "coords": [
-                        7.075476,
-                        47.416617
-                  ]
-            },
-            {
                   "name": "JURASSICA Museum",
                   "text": "Das JURASSICA Museum widmet sich der Naturgeschichte und dem paläontologischen Erbe der Region.",
                   "category": "museum",
@@ -2868,30 +2859,12 @@ export const switzerlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Château de Porrentruy",
-                  "text": "Das Schloss Porrentruy ist eine historische Burganlage, die einst als Residenz der Fürstbischöfe von Basel diente.",
-                  "category": "castle",
-                  "coords": [
-                        7.07237,
-                        47.419464
-                  ]
-            },
-            {
                   "name": "Le Point Jazz",
                   "text": "Ein lokaler Veranstaltungsort für Konzerte und kulturelle Darbietungen in Porrentruy.",
                   "category": "cultural",
                   "coords": [
                         7.124387,
                         47.40499
-                  ]
-            },
-            {
-                  "name": "Salle de l’Inter",
-                  "text": "Ein Mehrzwecksaal für kulturelle Veranstaltungen und Theateraufführungen in Porrentruy.",
-                  "category": "cultural",
-                  "coords": [
-                        7.07406,
-                        47.418249
                   ]
             },
             {
@@ -2911,27 +2884,9 @@ export const switzerlandLifeV2: POI[] = [
                         7.062818,
                         47.409374
                   ]
-            },
-            {
-                  "name": "piscine couverte",
-                  "text": "Ein Hallenbad, das ganzjähriges Schwimmen unabhängig vom Wetter ermöglicht.",
-                  "category": "recreational",
-                  "coords": [
-                        7.076709,
-                        47.42125
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Musée de l'Hotel-Dieu",
-                  "text": "Ez a múzeum Porrentruy-ban található, és egy egykori kórházépületben mutat be gyűjteményeket.",
-                  "category": "museum",
-                  "coords": [
-                        7.075476,
-                        47.416617
-                  ]
-            },
             {
                   "name": "JURASSICA Museum",
                   "text": "A JURASSICA Múzeum a régió természetrajzával és őslénytani örökségével foglalkozik.",
@@ -2951,30 +2906,12 @@ export const switzerlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Château de Porrentruy",
-                  "text": "A porrentruy-i kastély egy történelmi erődítmény, amely egykor a bázeli hercegpüspökök rezidenciája volt.",
-                  "category": "castle",
-                  "coords": [
-                        7.07237,
-                        47.419464
-                  ]
-            },
-            {
                   "name": "Le Point Jazz",
                   "text": "Helyi kulturális és zenei rendezvényhelyszín Porrentruy-ban.",
                   "category": "cultural",
                   "coords": [
                         7.124387,
                         47.40499
-                  ]
-            },
-            {
-                  "name": "Salle de l’Inter",
-                  "text": "Porrentruy kulturális és színházi rendezvényeinek helyszínt adó többfunkciós terem.",
-                  "category": "cultural",
-                  "coords": [
-                        7.07406,
-                        47.418249
                   ]
             },
             {
@@ -2994,27 +2931,9 @@ export const switzerlandLifeV2: POI[] = [
                         7.062818,
                         47.409374
                   ]
-            },
-            {
-                  "name": "piscine couverte",
-                  "text": "Fedett uszoda, amely az időjárástól függetlenül egész évben várja az úszókat.",
-                  "category": "recreational",
-                  "coords": [
-                        7.076709,
-                        47.42125
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Musée de l'Hotel-Dieu",
-                  "text": "Acest muzeu din Porrentruy prezintă colecții istorice într-o fostă clădire de spital.",
-                  "category": "museum",
-                  "coords": [
-                        7.075476,
-                        47.416617
-                  ]
-            },
             {
                   "name": "JURASSICA Museum",
                   "text": "Muzeul JURASSICA este dedicat istoriei naturale și patrimoniului paleontologic al regiunii.",
@@ -3034,30 +2953,12 @@ export const switzerlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Château de Porrentruy",
-                  "text": "Castelul Porrentruy este o fortificație istorică ce a servit drept reședință pentru prinții-episcopi de Basel.",
-                  "category": "castle",
-                  "coords": [
-                        7.07237,
-                        47.419464
-                  ]
-            },
-            {
                   "name": "Le Point Jazz",
                   "text": "O locație locală pentru concerte și spectacole culturale în Porrentruy.",
                   "category": "cultural",
                   "coords": [
                         7.124387,
                         47.40499
-                  ]
-            },
-            {
-                  "name": "Salle de l’Inter",
-                  "text": "O sală polivalentă pentru evenimente culturale și spectacole de teatru în Porrentruy.",
-                  "category": "cultural",
-                  "coords": [
-                        7.07406,
-                        47.418249
                   ]
             },
             {
@@ -3077,27 +2978,9 @@ export const switzerlandLifeV2: POI[] = [
                         7.062818,
                         47.409374
                   ]
-            },
-            {
-                  "name": "piscine couverte",
-                  "text": "O piscină acoperită care permite înotul pe tot parcursul anului, indiferent de vreme.",
-                  "category": "recreational",
-                  "coords": [
-                        7.076709,
-                        47.42125
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Musee de l'Hotel-Dieu",
-                  "text": "This museum in Porrentruy displays historical collections within a former hospital building.",
-                  "category": "museum",
-                  "coords": [
-                        7.075476,
-                        47.416617
-                  ]
-            },
             {
                   "name": "JURASSICA Museum",
                   "text": "The JURASSICA Museum is dedicated to the natural history and paleontological heritage of the region.",
@@ -3117,30 +3000,12 @@ export const switzerlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Château de Porrentruy",
-                  "text": "Porrentruy Castle is a historic fortress that once served as the residence of the Prince-Bishops of Basel.",
-                  "category": "castle",
-                  "coords": [
-                        7.07237,
-                        47.419464
-                  ]
-            },
-            {
                   "name": "Le Point Jazz",
                   "text": "A local venue for concerts and cultural performances in Porrentruy.",
                   "category": "cultural",
                   "coords": [
                         7.124387,
                         47.40499
-                  ]
-            },
-            {
-                  "name": "Salle de l’Inter",
-                  "text": "A multi-purpose hall for cultural events and theatrical performances in Porrentruy.",
-                  "category": "cultural",
-                  "coords": [
-                        7.07406,
-                        47.418249
                   ]
             },
             {
@@ -3159,15 +3024,6 @@ export const switzerlandLifeV2: POI[] = [
                   "coords": [
                         7.062818,
                         47.409374
-                  ]
-            },
-            {
-                  "name": "piscine couverte",
-                  "text": "An indoor swimming pool allowing year-round swimming regardless of weather.",
-                  "category": "recreational",
-                  "coords": [
-                        7.076709,
-                        47.42125
                   ]
             }
       ]

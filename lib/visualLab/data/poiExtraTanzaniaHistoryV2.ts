@@ -828,15 +828,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Roman Catholic Museum",
-                  "text": "Dieses Museum in Bagamoyo dokumentiert die Geschichte der frühen christlichen Missionare und ihren Einfluss auf die Küstenregion Tansanias.",
-                  "category": "museum",
-                  "coords": [
-                        38.898488,
-                        -6.434685
-                  ]
-            },
-            {
                   "name": "The Block House",
                   "text": "Dieses als Verteidigungsposten errichtete historische Steinblockhaus in Bagamoyo verfügt über dicke Mauern, die zum Schutz in der Kolonialzeit dienten.",
                   "category": "landmark",
@@ -899,15 +890,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
                   "coords": [
                         38.913473,
                         -6.446481
-                  ]
-            },
-            {
-                  "name": "Roman Catholic Museum",
-                  "text": "Ez a bagamoyói múzeum a korai keresztény misszionáriusok történetét és a tanzániai partvidékre gyakorolt hatásukat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        38.898488,
-                        -6.434685
                   ]
             },
             {
@@ -976,15 +958,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Roman Catholic Museum",
-                  "text": "Acest muzeu din Bagamoyo documentează istoria primilor misionari creștini și impactul lor asupra regiunii de coastă a Tanzaniei.",
-                  "category": "museum",
-                  "coords": [
-                        38.898488,
-                        -6.434685
-                  ]
-            },
-            {
                   "name": "The Block House",
                   "text": "Ridicat ca avanpost defensiv, acest fort istoric din piatră din Bagamoyo are ziduri groase construite pentru apărare în era colonială.",
                   "category": "landmark",
@@ -1047,15 +1020,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
                   "coords": [
                         38.913473,
                         -6.446481
-                  ]
-            },
-            {
-                  "name": "Roman Catholic Museum",
-                  "text": "This museum in Bagamoyo documents the history of early Christian missionaries and their impact on the coastal region of Tanzania.",
-                  "category": "museum",
-                  "coords": [
-                        38.898488,
-                        -6.434685
                   ]
             },
             {
@@ -2194,24 +2158,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
                         32.89472,
                         -2.518853
                   ]
-            },
-            {
-                  "name": "Total",
-                  "text": "Eine lokale Kunstgalerie in der Region Mwanza, die regionale kreative Werke ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        32.899182,
-                        -2.517676
-                  ]
-            },
-            {
-                  "name": "Art gallery",
-                  "text": "Ein Ausstellungsort in Mwanza, der zeitgenössische und traditionelle ostafrikanische Kunst präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        32.901304,
-                        -2.516116
-                  ]
             }
       ],
       "hu": [
@@ -2222,24 +2168,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
                   "coords": [
                         32.89472,
                         -2.518853
-                  ]
-            },
-            {
-                  "name": "Total",
-                  "text": "Egy helyi művészeti galéria a Mwanza régióban, amely regionális kreatív alkotásokat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        32.899182,
-                        -2.517676
-                  ]
-            },
-            {
-                  "name": "Art gallery",
-                  "text": "Egy kiállítóhely Mwanzában, amely kortárs és hagyományos kelet-afrikai művészetet mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        32.901304,
-                        -2.516116
                   ]
             }
       ],
@@ -2252,24 +2180,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
                         32.89472,
                         -2.518853
                   ]
-            },
-            {
-                  "name": "Total",
-                  "text": "O galerie de artă locală din regiunea Mwanza care expune lucrări creative regionale.",
-                  "category": "museum",
-                  "coords": [
-                        32.899182,
-                        -2.517676
-                  ]
-            },
-            {
-                  "name": "Art gallery",
-                  "text": "Un loc de expoziție din Mwanza care prezintă artă est-africană contemporană și tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        32.901304,
-                        -2.516116
-                  ]
             }
       ],
       "en": [
@@ -2280,24 +2190,6 @@ export const poiExtraTanzaniaHistoryV2: POI[] = [
                   "coords": [
                         32.89472,
                         -2.518853
-                  ]
-            },
-            {
-                  "name": "Total",
-                  "text": "A local art gallery space in the Mwanza region displaying regional creative works.",
-                  "category": "museum",
-                  "coords": [
-                        32.899182,
-                        -2.517676
-                  ]
-            },
-            {
-                  "name": "Art gallery",
-                  "text": "An exhibition venue in Mwanza showcasing contemporary and traditional East African art.",
-                  "category": "museum",
-                  "coords": [
-                        32.901304,
-                        -2.516116
                   ]
             }
       ]

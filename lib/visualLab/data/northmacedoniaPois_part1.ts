@@ -355,15 +355,6 @@ export const mkPoisPart1: POI[] = [
     id: "MK-004-bigorski-monastery", "sights": {
       "de": [
             {
-                  "name": "Medenitsa",
-                  "text": "Der höchste Gipfel des Bistra-Gebirges mit Panoramablick.",
-                  "category": "landmark",
-                  "coords": [
-                        20.657401,
-                        41.622867
-                  ]
-            },
-            {
                   "name": "Duf",
                   "text": "Ein beeindruckender Wasserfall in der Nähe des Klosters Sveti Jovan Bigorski.",
                   "category": "landmark",
@@ -383,15 +374,6 @@ export const mkPoisPart1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Medenitsa",
-                  "text": "A Bisztra-hegység legmagasabb csúcsa, ahonnan panorámás kilátás nyílik.",
-                  "category": "landmark",
-                  "coords": [
-                        20.657401,
-                        41.622867
-                  ]
-            },
             {
                   "name": "Duf",
                   "text": "Lenyűgöző vízesés a Szent János Bigorszki-kolostor közelében.",
@@ -413,15 +395,6 @@ export const mkPoisPart1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Medenitsa",
-                  "text": "Cel mai înalt vârf al masivului muntos Bistra, oferind priveliști panoramice.",
-                  "category": "landmark",
-                  "coords": [
-                        20.657401,
-                        41.622867
-                  ]
-            },
-            {
                   "name": "Duf",
                   "text": "O cascadă uimitoare situată în apropierea mănăstirii Sfântul Ioan Bigorski.",
                   "category": "landmark",
@@ -441,15 +414,6 @@ export const mkPoisPart1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Medenica",
-                  "text": "The highest peak of the Bistra mountain range, offering panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        20.657401,
-                        41.622867
-                  ]
-            },
             {
                   "name": "Duf",
                   "text": "A stunning waterfall located in the vicinity of the Saint Jovan Bigorski Monastery.",

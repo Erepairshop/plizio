@@ -1259,24 +1259,6 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
     id: "ovadandepe-glass-factory-economic-v2", "sights": {
       "de": [
             {
-                  "name": "MiG-15",
-                  "text": "Ein sowjetisches MiG-15-Jagdflugzeug, das als Denkmal in Ovadandepe aufgestellt wurde.",
-                  "category": "historical",
-                  "coords": [
-                        58.188981,
-                        38.041493
-                  ]
-            },
-            {
-                  "name": "Ýasmansalyk Medeniýet Öýi",
-                  "text": "Ein regionales Kulturhaus in Ovadandepe, das als Zentrum für Theater und lokale Veranstaltungen dient.",
-                  "category": "cultural",
-                  "coords": [
-                        58.192244,
-                        38.05193
-                  ]
-            },
-            {
                   "name": "Mukaddes Kiril we Methodius buthanasy",
                   "text": "Eine christliche Kirche in Ovadandepe, die den Heiligen Kyrill und Method gewidmet ist.",
                   "category": "landmark",
@@ -1305,24 +1287,6 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "MiG-15",
-                  "text": "Emlékműként felállított szovjet MiG–15-ös vadászgép Ovadandepében.",
-                  "category": "historical",
-                  "coords": [
-                        58.188981,
-                        38.041493
-                  ]
-            },
-            {
-                  "name": "Ýasmansalyk Medeniýet Öýi",
-                  "text": "Regionális művelődési ház Ovadandepében, amely színházi előadásoknak és közösségi eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        58.192244,
-                        38.05193
-                  ]
-            },
             {
                   "name": "Mukaddes Kiril we Methodius buthanasy",
                   "text": "Szent Cirillnek és Metódnak szentelt keresztény templom Ovadandepében.",
@@ -1353,24 +1317,6 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "MiG-15",
-                  "text": "Un avion de vânătoare sovietic MiG-15, expus ca monument în Ovadandepe.",
-                  "category": "historical",
-                  "coords": [
-                        58.188981,
-                        38.041493
-                  ]
-            },
-            {
-                  "name": "Ýasmansalyk Medeniýet Öýi",
-                  "text": "O casă de cultură regională în Ovadandepe, servind drept centru pentru teatru și evenimente locale.",
-                  "category": "cultural",
-                  "coords": [
-                        58.192244,
-                        38.05193
-                  ]
-            },
-            {
                   "name": "Mukaddes Kiril we Methodius buthanasy",
                   "text": "O biserică creștină în Ovadandepe, dedicată Sfinților Chiril și Metodiu.",
                   "category": "landmark",
@@ -1399,24 +1345,6 @@ export const poiExtraTurkmenistanEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "MiG-15",
-                  "text": "A Soviet MiG-15 jet fighter mounted as a monument in Ovadandepe.",
-                  "category": "historical",
-                  "coords": [
-                        58.188981,
-                        38.041493
-                  ]
-            },
-            {
-                  "name": "Yasmansalyk House of Culture",
-                  "text": "A regional culture house in Ovadandepe, serving as a hub for theater and local events.",
-                  "category": "cultural",
-                  "coords": [
-                        58.192244,
-                        38.05193
-                  ]
-            },
             {
                   "name": "SS. Cyril and Methodius Church",
                   "text": "A Christian church in Ovadandepe, dedicated to Saints Cyril and Methodius.",

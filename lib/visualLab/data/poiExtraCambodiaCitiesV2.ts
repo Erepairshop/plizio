@@ -2127,15 +2127,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Victory Beach",
-                  "text": "Victory Beach in Sihanoukville ist ein reizvoller Küstenstreifen, der mit goldenem Sand und dem warmen Wasser des Golfs von Thailand lockt. Die lockere Atmosphäre des Strandes lädt dazu ein, unter Palmen zu verweilen und das südasien-typische Tropenflair zu genießen. Entlang des Ufers kann man entspannt spazieren gehen oder sich in den Fluten erfrischen. Besonders in den Abendstunden lässt sich hier ein malerischer Sonnenuntergang über dem Meer beobachten.",
-                  "category": "recreational",
-                  "coords": [
-                        103.500391,
-                        10.636317
-                  ]
-            },
-            {
                   "name": "Serendipity Beach",
                   "text": "Serendipity Beach präsentiert sich als ein lebhafter und überaus beliebter Strandabschnitt in der Küstenstadt Sihanoukville. Hier treffen sich Sonnenanbeter und Backpacker, um das pulsierende Treiben am Strand und das klare Wasser in vollen Zügen zu genießen. Es gibt reichlich Platz für entspanntes Sonnenbaden und erfrischendes Schwimmen im tropischen Meer. Wer ein geselliges Badeerlebnis sucht, wird sich an diesem belebten Küstenstreifen besonders wohlfühlen.",
                   "category": "recreational",
@@ -2172,24 +2163,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "One Golden Lion",
-                  "text": "Ein einzelner goldener Löwe an einer Straße in Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.503905,
-                        10.642511
-                  ]
-            },
-            {
-                  "name": "Cambodia-Vietnam friendship monument",
-                  "text": "Denkmal für die Freundschaft zwischen Kambodscha und Vietnam in Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.499877,
-                        10.631794
-                  ]
-            },
-            {
                   "name": "Dragon Head",
                   "text": "Drachenkopf-Skulptur in Sihanoukville.",
                   "category": "historical",
@@ -2199,39 +2172,12 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fish",
-                  "text": "Fisch-Skulptur aus Metall in Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.511536,
-                        10.626749
-                  ]
-            },
-            {
-                  "name": "Waterbuffalo Statue",
-                  "text": "Bronzestatue eines Wasserbüffels in Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.499526,
-                        10.633942
-                  ]
-            },
-            {
                   "name": "ប្រាសាទព្រះវិហារចម្លង",
                   "text": "Nachbildung des Prasat Preah Vihear Tempels in Sihanoukville.",
                   "category": "historical",
                   "coords": [
                         103.507186,
                         10.631308
-                  ]
-            },
-            {
-                  "name": "Free Living Monkeys",
-                  "text": "Freilebende Affen am Strand von Sihanoukville.",
-                  "category": "landmark",
-                  "coords": [
-                        103.497301,
-                        10.620365
                   ]
             }
       ],
@@ -2309,24 +2255,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "One Golden Lion",
-                  "text": "Egyetlen arany oroszlánszobor Sihanoukville egyik utcájában.",
-                  "category": "historical",
-                  "coords": [
-                        103.503905,
-                        10.642511
-                  ]
-            },
-            {
-                  "name": "Cambodia-Vietnam friendship monument",
-                  "text": "A Kambodzsa-Vietnam barátság emlékműve Sihanoukvilleben.",
-                  "category": "historical",
-                  "coords": [
-                        103.499877,
-                        10.631794
-                  ]
-            },
-            {
                   "name": "Dragon Head",
                   "text": "Sárkányfej-szobor Sihanoukvilleben.",
                   "category": "historical",
@@ -2336,39 +2264,12 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fish",
-                  "text": "Fém hal szobor Sihanoukvilleben.",
-                  "category": "historical",
-                  "coords": [
-                        103.511536,
-                        10.626749
-                  ]
-            },
-            {
-                  "name": "Waterbuffalo Statue",
-                  "text": "Vízibivaly bronzszobor Sihanoukvilleben.",
-                  "category": "historical",
-                  "coords": [
-                        103.499526,
-                        10.633942
-                  ]
-            },
-            {
                   "name": "ប្រាសាទព្រះវិហារចម្លង",
                   "text": "A Prasat Preah Vihear templom másolata Sihanoukvilleben.",
                   "category": "historical",
                   "coords": [
                         103.507186,
                         10.631308
-                  ]
-            },
-            {
-                  "name": "Free Living Monkeys",
-                  "text": "Szabadon élő majmok Sihanoukville strandjainál.",
-                  "category": "landmark",
-                  "coords": [
-                        103.497301,
-                        10.620365
                   ]
             }
       ],
@@ -2446,24 +2347,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "One Golden Lion",
-                  "text": "Un singur leu auriu pe o stradă din Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.503905,
-                        10.642511
-                  ]
-            },
-            {
-                  "name": "Cambodia-Vietnam friendship monument",
-                  "text": "Monument al prieteniei dintre Cambodgia și Vietnam în Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.499877,
-                        10.631794
-                  ]
-            },
-            {
                   "name": "Dragon Head",
                   "text": "Sculptură în formă de cap de dragon în Sihanoukville.",
                   "category": "historical",
@@ -2473,39 +2356,12 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fish",
-                  "text": "Sculptură metalică de pește în Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.511536,
-                        10.626749
-                  ]
-            },
-            {
-                  "name": "Waterbuffalo Statue",
-                  "text": "Statuie de bronz a unui bivol de apă în Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.499526,
-                        10.633942
-                  ]
-            },
-            {
                   "name": "ប្រាសាទព្រះវិហារចម្លង",
                   "text": "Replică a templului Prasat Preah Vihear în Sihanoukville.",
                   "category": "historical",
                   "coords": [
                         103.507186,
                         10.631308
-                  ]
-            },
-            {
-                  "name": "Free Living Monkeys",
-                  "text": "Maimuțe care trăiesc liber pe plajele din Sihanoukville.",
-                  "category": "landmark",
-                  "coords": [
-                        103.497301,
-                        10.620365
                   ]
             }
       ],
@@ -2526,24 +2382,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   "coords": [
                         103.510933,
                         10.608316
-                  ]
-            },
-            {
-                  "name": "Hawaii Beach",
-                  "text": "Sandy beach on the Gulf of Thailand in Sihanoukville.",
-                  "category": "recreational",
-                  "coords": [
-                        103.496573,
-                        10.629354
-                  ]
-            },
-            {
-                  "name": "Victory Beach",
-                  "text": "Victory Beach in Sihanoukville is an appealing coastal stretch that attracts visitors with its golden sand and the warm waters of the Gulf of Thailand. The beach's laid-back atmosphere invites you to linger beneath the palm trees and soak up the typical Southeast Asian tropical flair. You can take a relaxed stroll along the shoreline or enjoy a refreshing dip in the sea. The evening hours offer a particularly picturesque sunset over the water.",
-                  "category": "recreational",
-                  "coords": [
-                        103.500391,
-                        10.636317
                   ]
             },
             {
@@ -2583,24 +2421,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "One Golden Lion",
-                  "text": "A single golden lion statue on a street in Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.503905,
-                        10.642511
-                  ]
-            },
-            {
-                  "name": "Cambodia-Vietnam friendship monument",
-                  "text": "Monument commemorating Cambodia-Vietnam friendship in Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.499877,
-                        10.631794
-                  ]
-            },
-            {
                   "name": "Dragon Head",
                   "text": "Dragon head sculpture in Sihanoukville.",
                   "category": "historical",
@@ -2610,39 +2430,12 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fish",
-                  "text": "Metal fish sculpture in Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.511536,
-                        10.626749
-                  ]
-            },
-            {
-                  "name": "Waterbuffalo Statue",
-                  "text": "Bronze statue of a water buffalo in Sihanoukville.",
-                  "category": "historical",
-                  "coords": [
-                        103.499526,
-                        10.633942
-                  ]
-            },
-            {
                   "name": "ប្រាសាទព្រះវិហារចម្លង",
                   "text": "Replica of Preah Vihear Temple in Sihanoukville.",
                   "category": "historical",
                   "coords": [
                         103.507186,
                         10.631308
-                  ]
-            },
-            {
-                  "name": "Free Living Monkeys",
-                  "text": "Free‑living monkeys along Sihanoukville beaches.",
-                  "category": "landmark",
-                  "coords": [
-                        103.497301,
-                        10.620365
                   ]
             }
       ]
@@ -2723,17 +2516,7 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Thailand–Cambodia Friendship Bridge (Aranyaprathet – Poipet)",
-                  "text": "International bridge connecting Poipet, Cambodia with Aranyaprathet, Thailand.",
-                  "category": "landmark",
-                  "coords": [
-                        102.54964,
-                        13.661566
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "city",
     parent: "KH-01",
@@ -4264,15 +4047,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     id: "cambodia-koh-kong-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Monument for the Dead",
-                  "text": "Denkmal für die Gefallenen in Koh Kong.",
-                  "category": "historical",
-                  "coords": [
-                        102.990315,
-                        11.621184
-                  ]
-            },
-            {
                   "name": "Ship",
                   "text": "Das Schiffswahrzeichen in Koh Kong wurde im November 2018 an der Küste aufgestellt.",
                   "category": "landmark",
@@ -4292,15 +4066,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Monument for the Dead",
-                  "text": "Háborús emlékmű Koh Kongban.",
-                  "category": "historical",
-                  "coords": [
-                        102.990315,
-                        11.621184
-                  ]
-            },
             {
                   "name": "Ship",
                   "text": "A Koh Kong-i hajó jelkép 2018 novemberében került a partra.",
@@ -4322,15 +4087,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Monument for the Dead",
-                  "text": "Monument pentru cei căzuți în Koh Kong.",
-                  "category": "historical",
-                  "coords": [
-                        102.990315,
-                        11.621184
-                  ]
-            },
-            {
                   "name": "Ship",
                   "text": "Reperul navelor din Koh Kong a fost instalat în noiembrie 2018 pe coastă.",
                   "category": "landmark",
@@ -4350,15 +4106,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Monument for the Dead",
-                  "text": "War memorial in Koh Kong.",
-                  "category": "historical",
-                  "coords": [
-                        102.990315,
-                        11.621184
-                  ]
-            },
             {
                   "name": "Ship",
                   "text": "The Ship landmark in Koh Kong is a vessel installation placed on the coast in November 2018.",
@@ -4433,24 +4180,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angkor Beach Viewpoint",
-                  "text": "Der Angkor Beach Viewpoint in Kep bietet einen atemberaubenden Panoramablick über die kambodschanische Küste. Obwohl man hier nicht direkt schwimmen kann, ist der Ort perfekt, um die Schönheit des weiten Ozeans in einer ruhigen Atmosphäre auf sich wirken zu lassen. Die sanfte Meeresbrise und die weite Sicht machen ihn zu einem beliebten Stopp für Spaziergänger und Fotografen. Ein Besuch in den frühen Morgenstunden garantiert das beste Licht für spektakuläre Fotos.",
-                  "category": "natural",
-                  "coords": [
-                        104.302034,
-                        10.497806
-                  ]
-            },
-            {
-                  "name": "Ocean View",
-                  "text": "Aussichtspunkt mit Blick auf den Golf von Thailand in Kep.",
-                  "category": "natural",
-                  "coords": [
-                        104.290132,
-                        10.478114
-                  ]
-            },
-            {
                   "name": "វិមានឯករាជ្យ",
                   "text": "Unabhängigkeitsdenkmal am Strand von Kep.",
                   "category": "historical",
@@ -4460,75 +4189,12 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Crab Statue",
-                  "text": "Große Krebs‑Skulptur als Symbol für Kep.",
-                  "category": "historical",
-                  "coords": [
-                        104.29935,
-                        10.476427
-                  ]
-            },
-            {
-                  "name": "Kep butterfly garden",
-                  "text": "Schmetterlingsgarten mit einheimischen Arten in Kep.",
-                  "category": "landmark",
-                  "coords": [
-                        104.303316,
-                        10.495624
-                  ]
-            },
-            {
-                  "name": "Kampot Viewpoint",
-                  "text": "Aussichtspunkt mit Panoramablick auf Kampot von Kep aus.",
-                  "category": "natural",
-                  "coords": [
-                        104.297841,
-                        10.50056
-                  ]
-            },
-            {
-                  "name": "Sunset Rock",
-                  "text": "Felsvorsprung zum Sonnenuntergang beobachten in Kep.",
-                  "category": "natural",
-                  "coords": [
-                        104.298642,
-                        10.485544
-                  ]
-            },
-            {
                   "name": "Patio Pepper Plantation in Kep",
                   "text": "Pfefferplantage mit Besichtigungsmöglichkeit in Kep.",
                   "category": "landmark",
                   "coords": [
                         104.320232,
                         10.503452
-                  ]
-            },
-            {
-                  "name": "Little Buddha",
-                  "text": "Kleine Buddha‑Statue auf einem Hügel in Kep.",
-                  "category": "historical",
-                  "coords": [
-                        104.299604,
-                        10.485416
-                  ]
-            },
-            {
-                  "name": "Good place for sunset",
-                  "text": "Ein schöner Aussichtspunkt in Kep, um den Sonnenuntergang zu beobachten.",
-                  "category": "natural",
-                  "coords": [
-                        104.300519,
-                        10.476233
-                  ]
-            },
-            {
-                  "name": "Buddha Statue",
-                  "text": "Große Buddha‑Statue am Strand von Kep.",
-                  "category": "historical",
-                  "coords": [
-                        104.297977,
-                        10.479488
                   ]
             },
             {
@@ -4561,24 +4227,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angkor Beach Viewpoint",
-                  "text": "A Kepben található Angkor Beach Viewpoint lélegzetelállító panorámát kínál a kambodzsai partvidékre. Bár itt nem lehet közvetlenül fürdeni, a hely tökéletes arra, hogy a végtelen óceán szépségét csendes hangulatban csodáljuk meg. A lágy tengeri szellő és a tágas kilátás miatt a sétálók és a fotósok kedvelt megállóhelye. Egy kora reggeli látogatás biztosítja a legjobb fényviszonyokat a látványos fotókhoz.",
-                  "category": "natural",
-                  "coords": [
-                        104.302034,
-                        10.497806
-                  ]
-            },
-            {
-                  "name": "Ocean View",
-                  "text": "Kilátópont a Thai-öbölre Kepben.",
-                  "category": "natural",
-                  "coords": [
-                        104.290132,
-                        10.478114
-                  ]
-            },
-            {
                   "name": "វិមានឯករាជ្យ",
                   "text": "Függetlenségi emlékmű a kepi strandon.",
                   "category": "historical",
@@ -4588,75 +4236,12 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Crab Statue",
-                  "text": "Hatalmas rák szobor, Kep jelképe.",
-                  "category": "historical",
-                  "coords": [
-                        104.29935,
-                        10.476427
-                  ]
-            },
-            {
-                  "name": "Kep butterfly garden",
-                  "text": "Pillangókert helyi fajokkal Kepben.",
-                  "category": "landmark",
-                  "coords": [
-                        104.303316,
-                        10.495624
-                  ]
-            },
-            {
-                  "name": "Kampot Viewpoint",
-                  "text": "Kilátó panorámás kilátással Kampot‑ra Kepből.",
-                  "category": "natural",
-                  "coords": [
-                        104.297841,
-                        10.50056
-                  ]
-            },
-            {
-                  "name": "Sunset Rock",
-                  "text": "Sziklás kiszögellés naplemente megfigyeléséhez Kepben.",
-                  "category": "natural",
-                  "coords": [
-                        104.298642,
-                        10.485544
-                  ]
-            },
-            {
                   "name": "Patio Pepper Plantation in Kep",
                   "text": "Borsültetvény látogatható Kepben.",
                   "category": "landmark",
                   "coords": [
                         104.320232,
                         10.503452
-                  ]
-            },
-            {
-                  "name": "Little Buddha",
-                  "text": "Kis Buddha‑szobor egy dombon Kepben.",
-                  "category": "historical",
-                  "coords": [
-                        104.299604,
-                        10.485416
-                  ]
-            },
-            {
-                  "name": "Good place for sunset",
-                  "text": "Kiváló kilátó Kepben a naplemente megtekintéséhez.",
-                  "category": "natural",
-                  "coords": [
-                        104.300519,
-                        10.476233
-                  ]
-            },
-            {
-                  "name": "Buddha Statue",
-                  "text": "Nagy Buddha‑szobor a kepi strandon.",
-                  "category": "historical",
-                  "coords": [
-                        104.297977,
-                        10.479488
                   ]
             },
             {
@@ -4689,24 +4274,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angkor Beach Viewpoint",
-                  "text": "Angkor Beach Viewpoint din Kep oferă o vedere panoramică uluitoare asupra coastei cambodgiene. Deși nu puteți înota direct aici, locul este perfect pentru a admira frumusețea vastului ocean într-o atmosferă liniștită. Briza blândă a mării și priveliștea amplă îl fac o oprire populară pentru pietoni și fotografi. O vizită la primele ore ale dimineții garantează cea mai bună lumină pentru fotografii spectaculoase.",
-                  "category": "natural",
-                  "coords": [
-                        104.302034,
-                        10.497806
-                  ]
-            },
-            {
-                  "name": "Ocean View",
-                  "text": "Punct de belvedere cu vedere la Golful Thailandei în Kep.",
-                  "category": "natural",
-                  "coords": [
-                        104.290132,
-                        10.478114
-                  ]
-            },
-            {
                   "name": "វិមានឯករាជ្យ",
                   "text": "Monument al Independenței pe plaja din Kep.",
                   "category": "historical",
@@ -4716,75 +4283,12 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Crab Statue",
-                  "text": "Sculptură mare de crab, simbol al orașului Kep.",
-                  "category": "historical",
-                  "coords": [
-                        104.29935,
-                        10.476427
-                  ]
-            },
-            {
-                  "name": "Kep butterfly garden",
-                  "text": "Grădină de fluturi cu specii locale în Kep.",
-                  "category": "landmark",
-                  "coords": [
-                        104.303316,
-                        10.495624
-                  ]
-            },
-            {
-                  "name": "Kampot Viewpoint",
-                  "text": "Belvedere cu panoramă asupra Kampot‑ului din Kep.",
-                  "category": "natural",
-                  "coords": [
-                        104.297841,
-                        10.50056
-                  ]
-            },
-            {
-                  "name": "Sunset Rock",
-                  "text": "Stâncă pentru observarea apusului în Kep.",
-                  "category": "natural",
-                  "coords": [
-                        104.298642,
-                        10.485544
-                  ]
-            },
-            {
                   "name": "Patio Pepper Plantation in Kep",
                   "text": "Plantație de piper vizitabilă în Kep.",
                   "category": "landmark",
                   "coords": [
                         104.320232,
                         10.503452
-                  ]
-            },
-            {
-                  "name": "Little Buddha",
-                  "text": "Statuie mică a lui Buddha pe un deal în Kep.",
-                  "category": "historical",
-                  "coords": [
-                        104.299604,
-                        10.485416
-                  ]
-            },
-            {
-                  "name": "Good place for sunset",
-                  "text": "Un punct de belvedere excelent în Kep pentru a urmări apusul.",
-                  "category": "natural",
-                  "coords": [
-                        104.300519,
-                        10.476233
-                  ]
-            },
-            {
-                  "name": "Buddha Statue",
-                  "text": "Statuie mare a lui Buddha pe plaja din Kep.",
-                  "category": "historical",
-                  "coords": [
-                        104.297977,
-                        10.479488
                   ]
             },
             {
@@ -4817,24 +4321,6 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angkor Beach Viewpoint",
-                  "text": "The Angkor Beach Viewpoint in Kep offers a breathtaking panoramic perspective over the stunning Cambodian coastline. While you cannot swim directly from this spot, it is perfect for taking in the beauty of the vast ocean in a peaceful atmosphere. The gentle sea breeze and expansive views make it a popular stop for walkers and photographers alike. Visiting in the early morning ensures the best natural light for spectacular photos.",
-                  "category": "natural",
-                  "coords": [
-                        104.302034,
-                        10.497806
-                  ]
-            },
-            {
-                  "name": "Ocean View",
-                  "text": "Scenic viewpoint overlooking the Gulf of Thailand in Kep.",
-                  "category": "natural",
-                  "coords": [
-                        104.290132,
-                        10.478114
-                  ]
-            },
-            {
                   "name": "Independence Monument",
                   "text": "Independence Monument on Kep beach.",
                   "category": "historical",
@@ -4844,75 +4330,12 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Crab Monument",
-                  "text": "Large crab sculpture symbolizing Kep.",
-                  "category": "historical",
-                  "coords": [
-                        104.29935,
-                        10.476427
-                  ]
-            },
-            {
-                  "name": "Kep butterfly garden",
-                  "text": "Butterfly garden with local species in Kep.",
-                  "category": "landmark",
-                  "coords": [
-                        104.303316,
-                        10.495624
-                  ]
-            },
-            {
-                  "name": "Kampot Viewpoint",
-                  "text": "Viewpoint offering panoramic views of Kampot from Kep.",
-                  "category": "natural",
-                  "coords": [
-                        104.297841,
-                        10.50056
-                  ]
-            },
-            {
-                  "name": "Sunset Rock",
-                  "text": "Rocky outcrop for sunset watching in Kep.",
-                  "category": "natural",
-                  "coords": [
-                        104.298642,
-                        10.485544
-                  ]
-            },
-            {
                   "name": "Patio Pepper Plantation in Kep",
                   "text": "Pepper plantation open for visits in Kep.",
                   "category": "landmark",
                   "coords": [
                         104.320232,
                         10.503452
-                  ]
-            },
-            {
-                  "name": "Little Buddha",
-                  "text": "Small Buddha statue on a hill in Kep.",
-                  "category": "historical",
-                  "coords": [
-                        104.299604,
-                        10.485416
-                  ]
-            },
-            {
-                  "name": "Good place for sunset",
-                  "text": "A scenic viewpoint in Kep ideal for watching the sunset.",
-                  "category": "natural",
-                  "coords": [
-                        104.300519,
-                        10.476233
-                  ]
-            },
-            {
-                  "name": "Buddha Statue",
-                  "text": "Large Buddha statue on Kep beach.",
-                  "category": "historical",
-                  "coords": [
-                        104.297977,
-                        10.479488
                   ]
             },
             {
@@ -6014,50 +5437,10 @@ export const poiExtraCambodiaCitiesV2: POI[] = [
     }, image: "/poi-images/cambodia-stung-treng-cities-v2.webp"},
   {
     id: "cambodia-banlung-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cultural Center",
-                  "text": "Kulturzentrum mit Ausstellungen zur lokalen Ethnien in Banlung.",
-                  "category": "museum",
-                  "coords": [
-                        107.0121,
-                        13.731975
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cultural Center",
-                  "text": "Kulturális központ helyi etnikumok kiállításaival Banlungban.",
-                  "category": "museum",
-                  "coords": [
-                        107.0121,
-                        13.731975
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cultural Center",
-                  "text": "Centru cultural cu expoziții despre etniile locale în Banlung.",
-                  "category": "museum",
-                  "coords": [
-                        107.0121,
-                        13.731975
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cultural Center",
-                  "text": "Cultural center with exhibits on local ethnic groups in Banlung.",
-                  "category": "museum",
-                  "coords": [
-                        107.0121,
-                        13.731975
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KH-16",

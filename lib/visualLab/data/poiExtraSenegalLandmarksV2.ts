@@ -3736,33 +3736,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
                         -17.370934,
                         14.78205
                   ]
-            },
-            {
-                  "name": "atelier de munisier",
-                  "text": "Das atelier de munisier ist eine Holzwerkstatt, die als Galerie in der Nähe von sn-grande-mosquee-guediawaye-landmarks-v2 fungiert und handgefertigte Holzkunst ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -17.394917,
-                        14.764378
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
-                  "text": "Die Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance ist ein weitläufiger städtischer Naturpark in der Nähe von sn-grande-mosquee-guediawaye-landmarks-v2, der wichtige Feuchtgebiets-Ökosysteme schützt.",
-                  "category": "park",
-                  "coords": [
-                        -17.408887,
-                        14.759322
-                  ]
-            },
-            {
-                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
-                  "text": "Das Théatre de Verdure Fodé Doussou Ba Baldé ist ein grünes Open-Air-Amphitheater und Kunstzentrum im Gebiet sn-grande-mosquee-guediawaye-landmarks-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        -17.39744,
-                        14.762724
-                  ]
             }
       ],
       "hu": [
@@ -3791,33 +3764,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
                   "coords": [
                         -17.370934,
                         14.78205
-                  ]
-            },
-            {
-                  "name": "atelier de munisier",
-                  "text": "Az atelier de munisier egy fafeldolgozó műhely, amely galériaként működik az sn-grande-mosquee-guediawaye-landmarks-v2 közelében, és fából készült kézműves alkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -17.394917,
-                        14.764378
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
-                  "text": "A Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance egy kiterjedt városi natúrpark az sn-grande-mosquee-guediawaye-landmarks-v2 közelében, amely megőrzi a létfontosságú vizes élőhelyek ökoszisztémáit.",
-                  "category": "park",
-                  "coords": [
-                        -17.408887,
-                        14.759322
-                  ]
-            },
-            {
-                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
-                  "text": "A Théatre de Verdure Fodé Doussou Ba Baldé egy szabadtéri zöld amfiteátrum és művészeti központ az sn-grande-mosquee-guediawaye-landmarks-v2 területén.",
-                  "category": "cultural",
-                  "coords": [
-                        -17.39744,
-                        14.762724
                   ]
             }
       ],
@@ -3848,33 +3794,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
                         -17.370934,
                         14.78205
                   ]
-            },
-            {
-                  "name": "atelier de munisier",
-                  "text": "Atelier de munisier este un atelier de prelucrare a lemnului care funcționează ca o galerie lângă sn-grande-mosquee-guediawaye-landmarks-v2, expunând artă din lemn realizată manual.",
-                  "category": "museum",
-                  "coords": [
-                        -17.394917,
-                        14.764378
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
-                  "text": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance este un vast parc natural urban lângă sn-grande-mosquee-guediawaye-landmarks-v2, care conservă ecosistemele vitale ale zonelor umede.",
-                  "category": "park",
-                  "coords": [
-                        -17.408887,
-                        14.759322
-                  ]
-            },
-            {
-                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
-                  "text": "Théatre de Verdure Fodé Doussou Ba Baldé este un amfiteatru verde în aer liber și un centru de artă situat în zona sn-grande-mosquee-guediawaye-landmarks-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        -17.39744,
-                        14.762724
-                  ]
             }
       ],
       "en": [
@@ -3903,33 +3822,6 @@ export const poiExtraSenegalLandmarksV2: POI[] = [
                   "coords": [
                         -17.370934,
                         14.78205
-                  ]
-            },
-            {
-                  "name": "atelier de munisier",
-                  "text": "The atelier de munisier is a woodworking workshop functioning as a gallery near sn-grande-mosquee-guediawaye-landmarks-v2, displaying crafted wooden art.",
-                  "category": "museum",
-                  "coords": [
-                        -17.394917,
-                        14.764378
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance",
-                  "text": "The Réserve naturelle urbaine de la grande Niaye de Pikine et dépendance is a sprawling urban nature park near sn-grande-mosquee-guediawaye-landmarks-v2, preserving vital wetland ecosystems.",
-                  "category": "park",
-                  "coords": [
-                        -17.408887,
-                        14.759322
-                  ]
-            },
-            {
-                  "name": "Théatre de Verdure Fodé Doussou Ba Baldé",
-                  "text": "Théatre de Verdure Fodé Doussou Ba Baldé is an open-air green amphitheatre and arts centre situated in the sn-grande-mosquee-guediawaye-landmarks-v2 area.",
-                  "category": "cultural",
-                  "coords": [
-                        -17.39744,
-                        14.762724
                   ]
             }
       ]

@@ -6,15 +6,6 @@ export const irelandLifeV2: POI[] = [
     id: "ireland-ballycroy-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Wild Nephin National Park",
-                  "text": "Eine weite Wildnis im County Mayo mit ausgedehnten Torfmooren, die als Dark Sky Park anerkannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -9.627293,
-                        54.059846
-                  ]
-            },
-            {
                   "name": "Slieve Carr",
                   "text": "Einer der abgelegensten Berggipfel Irlands, im Herzen der Nephin Beg Range gelegen.",
                   "category": "landmark",
@@ -25,15 +16,6 @@ export const irelandLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Wild Nephin National Park",
-                  "text": "Hatalmas vadon Mayo megyében, kiterjedt tőzeglápokkal, amely nemzetközi csillagoségbolt-parkként is ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -9.627293,
-                        54.059846
-                  ]
-            },
             {
                   "name": "Slieve Carr",
                   "text": "Írország egyik legtávolabbi hegycsúcsa, a Nephin Beg-hegység szívében.",
@@ -46,15 +28,6 @@ export const irelandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Wild Nephin National Park",
-                  "text": "O vastă zonă sălbatică în comitatul Mayo, cu turbării întinse și recunoscută ca parc pentru cerul nocturn.",
-                  "category": "natural",
-                  "coords": [
-                        -9.627293,
-                        54.059846
-                  ]
-            },
-            {
                   "name": "Slieve Carr",
                   "text": "Unul dintre cele mai izolate vârfuri montane din Irlanda, situat în inima lanțului Nephin Beg.",
                   "category": "landmark",
@@ -65,15 +38,6 @@ export const irelandLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Wild Nephin National Park",
-                  "text": "A vast wilderness in County Mayo, featuring expansive peat bogs and recognized as a Dark Sky Park.",
-                  "category": "natural",
-                  "coords": [
-                        -9.627293,
-                        54.059846
-                  ]
-            },
             {
                   "name": "Slieve Carr",
                   "text": "One of Ireland's most remote mountain peaks, located in the heart of the Nephin Beg Range.",
@@ -195,15 +159,6 @@ export const irelandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Native Woodland Trust: Paddock Hill Reserve",
-                  "text": "Ein Naturschutzgebiet in den Wicklow Mountains, das dem Schutz heimischer Wälder gewidmet ist.",
-                  "category": "natural",
-                  "coords": [
-                        -6.286035,
-                        53.029411
-                  ]
-            },
-            {
                   "name": "Tonelagee",
                   "text": "Einer der höchsten Berge in den Wicklow Mountains, bekannt für den herzförmigen Lough Ouler an seinem Fuß.",
                   "category": "landmark",
@@ -266,15 +221,6 @@ export const irelandLifeV2: POI[] = [
                   "coords": [
                         -6.300602,
                         53.077078
-                  ]
-            },
-            {
-                  "name": "Native Woodland Trust: Paddock Hill Reserve",
-                  "text": "Természetvédelmi terület a Wicklow-hegységben, amely az őshonos erdők megőrzését szolgálja.",
-                  "category": "natural",
-                  "coords": [
-                        -6.286035,
-                        53.029411
                   ]
             },
             {
@@ -343,15 +289,6 @@ export const irelandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Native Woodland Trust: Paddock Hill Reserve",
-                  "text": "O rezervație naturală din Munții Wicklow, dedicată protejării pădurilor native.",
-                  "category": "natural",
-                  "coords": [
-                        -6.286035,
-                        53.029411
-                  ]
-            },
-            {
                   "name": "Tonelagee",
                   "text": "Unul dintre cele mai înalte vârfuri din Munții Wicklow, cunoscut pentru lacul în formă de inimă Lough Ouler de la bază.",
                   "category": "landmark",
@@ -414,15 +351,6 @@ export const irelandLifeV2: POI[] = [
                   "coords": [
                         -6.300602,
                         53.077078
-                  ]
-            },
-            {
-                  "name": "Native Woodland Trust: Paddock Hill Reserve",
-                  "text": "A nature reserve in the Wicklow Mountains dedicated to the protection of native woodlands.",
-                  "category": "natural",
-                  "coords": [
-                        -6.286035,
-                        53.029411
                   ]
             },
             {
@@ -1293,15 +1221,6 @@ export const irelandLifeV2: POI[] = [
     id: "ireland-slieve-bloom-mountains-life-v2", "sights": {
       "de": [
             {
-                  "name": "Stillbrook Hill",
-                  "text": "Hügel in den Slieve Bloom Mountains mit Aussicht über die Ebene.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.638336,
-                        53.074085
-                  ]
-            },
-            {
                   "name": "Carroll's Hill",
                   "text": "Ein Hügel in der Slieve Bloom Gebirgskette in den irischen Midlands.",
                   "category": "landmark",
@@ -1330,15 +1249,6 @@ export const irelandLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Stillbrook Hill",
-                  "text": "Domb a Slieve Bloom-hegységben, kilátással a síkságra.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.638336,
-                        53.074085
-                  ]
-            },
             {
                   "name": "Carroll's Hill",
                   "text": "Domb a Slieve Bloom-hegységben, az ír Midlands régióban.",
@@ -1369,15 +1279,6 @@ export const irelandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Stillbrook Hill",
-                  "text": "Deal în Munții Slieve Bloom, cu vedere asupra câmpiei.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.638336,
-                        53.074085
-                  ]
-            },
-            {
                   "name": "Carroll's Hill",
                   "text": "Un deal în lanțul muntos Slieve Bloom din centrul Irlandei.",
                   "category": "landmark",
@@ -1406,15 +1307,6 @@ export const irelandLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Stillbrook Hill",
-                  "text": "Hill in the Slieve Bloom Mountains offering views over the plain.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.638336,
-                        53.074085
-                  ]
-            },
             {
                   "name": "Carroll's Hill",
                   "text": "A hill in the Slieve Bloom mountain range in the Irish Midlands.",
@@ -1491,48 +1383,12 @@ export const irelandLifeV2: POI[] = [
     id: "ireland-glendalough-valley-life-v2", "sights": {
       "de": [
             {
-                  "name": "Glendalough Cathedral",
-                  "text": "Die Ruinen einer großen mittelalterlichen Kathedrale in der historischen Klostersiedlung Glendalough.",
-                  "category": "religious",
-                  "coords": [
-                        -6.327017,
-                        53.01055
-                  ]
-            },
-            {
                   "name": "Standing Stone",
                   "text": "Ein alter stehender Stein, der eine bedeutende archäologische Stätte im Glendalough-Tal markiert.",
                   "category": "historical",
                   "coords": [
                         -6.343522,
                         52.982016
-                  ]
-            },
-            {
-                  "name": "The Deer Stone",
-                  "text": "Ein prähistorischer Bullaun-Stein in Glendalough, der mit lokalen religiösen Legenden und Ritualen verbunden ist.",
-                  "category": "historical",
-                  "coords": [
-                        -6.327394,
-                        53.009471
-                  ]
-            },
-            {
-                  "name": "Glendalough Visitor Centre",
-                  "text": "Ein informatives Museum mit Exponaten zur Geschichte und Tierwelt der Klostersiedlung Glendalough.",
-                  "category": "museum",
-                  "coords": [
-                        -6.324315,
-                        53.010482
-                  ]
-            },
-            {
-                  "name": "Native Woodland Trust: Paddock Hill Reserve",
-                  "text": "Ein Naturschutzgebiet, das dem Schutz und der Wiederherstellung einheimischer irischer Waldlebensräume gewidmet ist.",
-                  "category": "natural",
-                  "coords": [
-                        -6.286035,
-                        53.029411
                   ]
             },
             {
@@ -1552,27 +1408,9 @@ export const irelandLifeV2: POI[] = [
                         -6.3341,
                         52.998278
                   ]
-            },
-            {
-                  "name": "Saint Saviour's Priory",
-                  "text": "Die Ruinen eines romanischen Priorats aus dem 12. Jahrhundert in einem abgelegenen Teil von Glendalough.",
-                  "category": "historical",
-                  "coords": [
-                        -6.312257,
-                        53.007853
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Glendalough Cathedral",
-                  "text": "Egy nagy középkori székesegyház romjai Glendalough történelmi kolostori településén.",
-                  "category": "religious",
-                  "coords": [
-                        -6.327017,
-                        53.01055
-                  ]
-            },
             {
                   "name": "Standing Stone",
                   "text": "Egy ősi állókő, amely egy jelentős régészeti lelőhelyet jelöl a Glendalough-völgyben.",
@@ -1580,33 +1418,6 @@ export const irelandLifeV2: POI[] = [
                   "coords": [
                         -6.343522,
                         52.982016
-                  ]
-            },
-            {
-                  "name": "The Deer Stone",
-                  "text": "Egy prahisztorikus köves mélyedés (bullaun stone) Glendalough-ban, amely helyi vallási legendákhoz és rituálékhoz kapcsolódik.",
-                  "category": "historical",
-                  "coords": [
-                        -6.327394,
-                        53.009471
-                  ]
-            },
-            {
-                  "name": "Glendalough Visitor Centre",
-                  "text": "Tájékoztató múzeum, amely a glendalough-i kolostor történetét és élővilágát bemutató kiállításokat kínál.",
-                  "category": "museum",
-                  "coords": [
-                        -6.324315,
-                        53.010482
-                  ]
-            },
-            {
-                  "name": "Native Woodland Trust: Paddock Hill Reserve",
-                  "text": "Természetvédelmi terület, amely az őshonos ír erdei élőhelyek védelmére és helyreállítására összpontosít.",
-                  "category": "natural",
-                  "coords": [
-                        -6.286035,
-                        53.029411
                   ]
             },
             {
@@ -1626,27 +1437,9 @@ export const irelandLifeV2: POI[] = [
                         -6.3341,
                         52.998278
                   ]
-            },
-            {
-                  "name": "Saint Saviour's Priory",
-                  "text": "Egy 12. századi román stílusú perjetség romjai Glendalough egy félreeső részén.",
-                  "category": "historical",
-                  "coords": [
-                        -6.312257,
-                        53.007853
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Glendalough Cathedral",
-                  "text": "Ruinele unei mari catedrale medievale situate în așezarea monastică istorică Glendalough.",
-                  "category": "religious",
-                  "coords": [
-                        -6.327017,
-                        53.01055
-                  ]
-            },
             {
                   "name": "Standing Stone",
                   "text": "O piatră funerară veche care marchează un sit arheologic semnificativ în Valea Glendalough.",
@@ -1654,33 +1447,6 @@ export const irelandLifeV2: POI[] = [
                   "coords": [
                         -6.343522,
                         52.982016
-                  ]
-            },
-            {
-                  "name": "The Deer Stone",
-                  "text": "O piatră bullaun preistorică din Glendalough, asociată cu legende și ritualuri religioase locale.",
-                  "category": "historical",
-                  "coords": [
-                        -6.327394,
-                        53.009471
-                  ]
-            },
-            {
-                  "name": "Glendalough Visitor Centre",
-                  "text": "Un muzeu informativ care oferă exponate despre istoria și fauna sitului monastic Glendalough.",
-                  "category": "museum",
-                  "coords": [
-                        -6.324315,
-                        53.010482
-                  ]
-            },
-            {
-                  "name": "Native Woodland Trust: Paddock Hill Reserve",
-                  "text": "O rezervație naturală dedicată protejării și restaurării habitatelor forestiere native irlandeze.",
-                  "category": "natural",
-                  "coords": [
-                        -6.286035,
-                        53.029411
                   ]
             },
             {
@@ -1700,27 +1466,9 @@ export const irelandLifeV2: POI[] = [
                         -6.3341,
                         52.998278
                   ]
-            },
-            {
-                  "name": "Saint Saviour's Priory",
-                  "text": "Ruinele unui priorat romanic din secolul al XII-lea situat într-o zonă retrasă din Glendalough.",
-                  "category": "historical",
-                  "coords": [
-                        -6.312257,
-                        53.007853
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Glendalough Cathedral",
-                  "text": "The ruins of a large medieval cathedral located in the historic monastic settlement of Glendalough.",
-                  "category": "religious",
-                  "coords": [
-                        -6.327017,
-                        53.01055
-                  ]
-            },
             {
                   "name": "Standing Stone",
                   "text": "An ancient standing stone marking a significant archaeological site in the Glendalough Valley.",
@@ -1728,33 +1476,6 @@ export const irelandLifeV2: POI[] = [
                   "coords": [
                         -6.343522,
                         52.982016
-                  ]
-            },
-            {
-                  "name": "The Deer Stone",
-                  "text": "A prehistoric bullaun stone in Glendalough associated with local religious legends and rituals.",
-                  "category": "historical",
-                  "coords": [
-                        -6.327394,
-                        53.009471
-                  ]
-            },
-            {
-                  "name": "Glendalough Visitor Centre",
-                  "text": "An informative museum providing exhibits on the history and wildlife of the Glendalough monastic site.",
-                  "category": "museum",
-                  "coords": [
-                        -6.324315,
-                        53.010482
-                  ]
-            },
-            {
-                  "name": "Native Woodland Trust: Paddock Hill Reserve",
-                  "text": "A nature reserve dedicated to protecting and restoring native Irish woodland habitats.",
-                  "category": "natural",
-                  "coords": [
-                        -6.286035,
-                        53.029411
                   ]
             },
             {
@@ -1773,15 +1494,6 @@ export const irelandLifeV2: POI[] = [
                   "coords": [
                         -6.3341,
                         52.998278
-                  ]
-            },
-            {
-                  "name": "Saint Saviour's Priory",
-                  "text": "The ruins of a 12th-century Romanesque priory located in a secluded part of Glendalough.",
-                  "category": "historical",
-                  "coords": [
-                        -6.312257,
-                        53.007853
                   ]
             }
       ]
@@ -1831,194 +1543,10 @@ export const irelandLifeV2: POI[] = [
   },
   {
     id: "ireland-derryclare-wood-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Derryclare Nature Reserve",
-                  "text": "Ein Naturschutzgebiet in Connemara, das für seine alten Eichenwälder bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -9.757185,
-                        53.485832
-                  ]
-            },
-            {
-                  "name": "Cnoc Lios Uachtair",
-                  "text": "Ein Berggipfel in Connemara, der einen weiten Blick über die umliegenden Seen bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.71848,
-                        53.483593
-                  ]
-            },
-            {
-                  "name": "Binn idir an dá Log",
-                  "text": "Ein Gipfel in der Twelve-Bens-Kette von Connemara mit einem steilen felsigen Gipfel.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.676782,
-                        53.513814
-                  ]
-            },
-            {
-                  "name": "Binn Mhairg",
-                  "text": "Ein Gipfel in der Gebirgskette der Maumturks im Westen Irlands.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.654969,
-                        53.506864
-                  ]
-            },
-            {
-                  "name": "Binn Chaonaigh",
-                  "text": "Ein Gipfel im Derryclare Wood in den Twelve Bens.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.658197,
-                        53.502553
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Derryclare Nature Reserve",
-                  "text": "Connemara-i természetvédelmi terület, amely ősi tölgyerdőiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -9.757185,
-                        53.485832
-                  ]
-            },
-            {
-                  "name": "Cnoc Lios Uachtair",
-                  "text": "Hegycsúcs Connemarában, amely széles kilátást nyújt a környező tavakra.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.71848,
-                        53.483593
-                  ]
-            },
-            {
-                  "name": "Binn idir an dá Log",
-                  "text": "Hegycsúcs a Connemara-i Tizenkét Bens-hegységben, meredek sziklás csúccsal.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.676782,
-                        53.513814
-                  ]
-            },
-            {
-                  "name": "Binn Mhairg",
-                  "text": "Csúcs a Maumturks-hegységben, Írország nyugati részén.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.654969,
-                        53.506864
-                  ]
-            },
-            {
-                  "name": "Binn Chaonaigh",
-                  "text": "Csúcs a Derryclare Woodban, a Twelve Bens hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.658197,
-                        53.502553
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Derryclare Nature Reserve",
-                  "text": "O rezervație naturală în Connemara, cunoscută pentru pădurile sale antice de stejar.",
-                  "category": "natural",
-                  "coords": [
-                        -9.757185,
-                        53.485832
-                  ]
-            },
-            {
-                  "name": "Cnoc Lios Uachtair",
-                  "text": "Un vârf muntos în Connemara, oferind o vedere panoramică asupra lacurilor din jur.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.71848,
-                        53.483593
-                  ]
-            },
-            {
-                  "name": "Binn idir an dá Log",
-                  "text": "Un vârf montan în lanțul Twelve Bens din Connemara, cu un vârf stâncos abrupt.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.676782,
-                        53.513814
-                  ]
-            },
-            {
-                  "name": "Binn Mhairg",
-                  "text": "Un vârf în lanțul muntos Maumturks din vestul Irlandei.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.654969,
-                        53.506864
-                  ]
-            },
-            {
-                  "name": "Binn Chaonaigh",
-                  "text": "Un vârf în Pădurea Derryclare, în munții Twelve Bens.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.658197,
-                        53.502553
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Derryclare Nature Reserve",
-                  "text": "A nature reserve in Connemara, known for its ancient oak woodlands.",
-                  "category": "natural",
-                  "coords": [
-                        -9.757185,
-                        53.485832
-                  ]
-            },
-            {
-                  "name": "Lissaughter",
-                  "text": "A mountain peak in Connemara, offering a wide view over the surrounding lakes.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.71848,
-                        53.483593
-                  ]
-            },
-            {
-                  "name": "Binn idir an dá Log",
-                  "text": "A mountain peak in the Twelve Bens range of Connemara, with a steep rocky summit.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.676782,
-                        53.513814
-                  ]
-            },
-            {
-                  "name": "Binn Mhairg",
-                  "text": "A peak in the Maumturks mountain range in the west of Ireland.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.654969,
-                        53.506864
-                  ]
-            },
-            {
-                  "name": "Binn Chaonaigh",
-                  "text": "A peak in Derryclare Wood in the Twelve Bens range.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.658197,
-                        53.502553
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "forest",
     parent: "IE",
@@ -2434,24 +1962,6 @@ export const irelandLifeV2: POI[] = [
                         -8.683346,
                         54.640389
                   ]
-            },
-            {
-                  "name": "Carrigan Head Signal Tower",
-                  "text": "Die Ruinen eines historischen Signalturms am Carrigan Head, der zur Verteidigung der Küste errichtet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        -8.679566,
-                        54.619994
-                  ]
-            },
-            {
-                  "name": "Tobernamanna",
-                  "text": "Eine natürliche Quelle bei den Slieve League Cliffs, die als traditioneller Rastplatz in der Natur bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.635921,
-                        54.624513
-                  ]
             }
       ],
       "hu": [
@@ -2471,24 +1981,6 @@ export const irelandLifeV2: POI[] = [
                   "coords": [
                         -8.683346,
                         54.640389
-                  ]
-            },
-            {
-                  "name": "Carrigan Head Signal Tower",
-                  "text": "Egy történelmi jelzőtorony romjai a Carrigan Headnél, amelyet a partvonal védelmére építettek.",
-                  "category": "historical",
-                  "coords": [
-                        -8.679566,
-                        54.619994
-                  ]
-            },
-            {
-                  "name": "Tobernamanna",
-                  "text": "Természetes forrás a Slieve League-sziklák közelében, amely hagyományos pihenőhelyként ismert a természetben.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.635921,
-                        54.624513
                   ]
             }
       ],
@@ -2510,24 +2002,6 @@ export const irelandLifeV2: POI[] = [
                         -8.683346,
                         54.640389
                   ]
-            },
-            {
-                  "name": "Carrigan Head Signal Tower",
-                  "text": "Ruinele unui turn de semnalizare istoric la Carrigan Head, construit pentru apărarea coastei.",
-                  "category": "historical",
-                  "coords": [
-                        -8.679566,
-                        54.619994
-                  ]
-            },
-            {
-                  "name": "Tobernamanna",
-                  "text": "Un izvor natural lângă stâncile Slieve League, cunoscut ca un loc tradițional de popas în natură.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.635921,
-                        54.624513
-                  ]
             }
       ],
       "en": [
@@ -2547,24 +2021,6 @@ export const irelandLifeV2: POI[] = [
                   "coords": [
                         -8.683346,
                         54.640389
-                  ]
-            },
-            {
-                  "name": "Carrigan Head Signal Tower",
-                  "text": "The ruins of a historical signal tower at Carrigan Head, built for coastal defense.",
-                  "category": "historical",
-                  "coords": [
-                        -8.679566,
-                        54.619994
-                  ]
-            },
-            {
-                  "name": "Tobernamanna",
-                  "text": "A natural spring near the Slieve League cliffs, known as a traditional resting spot in nature.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.635921,
-                        54.624513
                   ]
             }
       ]

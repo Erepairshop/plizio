@@ -11170,24 +11170,6 @@ export const poiExtraVietnamHistoryV2: POI[] = [
     id: "war-remnants-museum-history-v2", "sights": {
       "de": [
             {
-                  "name": "Chùa Ấn Quang",
-                  "text": "Ein historisch bedeutsamer Tempel des Mahayana-Buddhismus, der während der buddhistischen Krise von 1963 ein zentraler Ort war.",
-                  "category": "religious",
-                  "coords": [
-                        106.671678,
-                        10.765834
-                  ]
-            },
-            {
-                  "name": "Cầu Chánh Hưng",
-                  "text": "Diese Betonbrücke überspannt den lokalen Kanal und trägt den geschäftigen städtischen Verkehr durch die Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        106.668894,
-                        10.743917
-                  ]
-            },
-            {
                   "name": "Cầu Calmette",
                   "text": "Diese wichtige Brücke überquert den Bến Nghé-Kanal und verbindet den zentralen Bezirk mit den belebten südlichen Vierteln.",
                   "category": "landmark",
@@ -11224,39 +11206,12 @@ export const poiExtraVietnamHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Công viên Hòa Bình",
-                  "text": "Dieser städtische Friedenspark bietet gepflasterte Spazierwege und schattige Sitzbereiche für die Stadtbewohner.",
-                  "category": "park",
-                  "coords": [
-                        106.673642,
-                        10.760608
-                  ]
-            },
-            {
                   "name": "Bảo Tàng FITO",
                   "text": "Dieses spezialisierte Museum zeigt Tausende von Werkzeugen und alten Dokumenten im Zusammenhang mit der traditionellen vietnamesischen Medizin.",
                   "category": "museum",
                   "coords": [
                         106.671968,
                         10.776282
-                  ]
-            },
-            {
-                  "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
-                  "text": "Dieser ehemalige Haftbereich des Krankenhauses ist als Weltkulturerbe erhalten geblieben und dient heute als feierliches historisches Museum.",
-                  "category": "museum",
-                  "coords": [
-                        106.679275,
-                        10.753267
-                  ]
-            },
-            {
-                  "name": "Bia Truyền thống Vườn Lài",
-                  "text": "Eine steinerne Gedenkstele, die zu Ehren der lokalen revolutionären Traditionen und historischen Ereignisse in der Nachbarschaft errichtet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        106.672707,
-                        10.764974
                   ]
             },
             {
@@ -11293,15 +11248,6 @@ export const poiExtraVietnamHistoryV2: POI[] = [
                   "coords": [
                         106.694598,
                         10.767436
-                  ]
-            },
-            {
-                  "name": "Nhà hát Nghệ thuật Phương Nam",
-                  "text": "Dieses dynamische Kunsttheater hat sich auf die Präsentation farbenfroher südvietnamesischer kultureller Darbietungen und Zirkusnummern spezialisiert.",
-                  "category": "cultural",
-                  "coords": [
-                        106.668757,
-                        10.753647
                   ]
             },
             {
@@ -11505,24 +11451,6 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Chùa Ấn Quang",
-                  "text": "Történelmileg jelentős mahájána buddhista templom, amely az 1963-as buddhista válság idején központi helyszínként szolgált.",
-                  "category": "religious",
-                  "coords": [
-                        106.671678,
-                        10.765834
-                  ]
-            },
-            {
-                  "name": "Cầu Chánh Hưng",
-                  "text": "Ez a betonhíd a helyi csatornán ível át, rajta halad keresztül a város forgalmas városi közlekedése.",
-                  "category": "landmark",
-                  "coords": [
-                        106.668894,
-                        10.743917
-                  ]
-            },
-            {
                   "name": "Cầu Calmette",
                   "text": "A Bến Nghé-csatornát átszelő létfontosságú híd köti össze a központi kerületet a nyüzsgő déli negyedekkel.",
                   "category": "landmark",
@@ -11559,39 +11487,12 @@ export const poiExtraVietnamHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Công viên Hòa Bình",
-                  "text": "Ez a városi Békepark kövezett sétányokat és árnyékos ülőhelyeket biztosít a város lakói számára.",
-                  "category": "park",
-                  "coords": [
-                        106.673642,
-                        10.760608
-                  ]
-            },
-            {
                   "name": "Bảo Tàng FITO",
                   "text": "Ez a különleges múzeum több ezer hagyományos vietnámi orvoslással kapcsolatos eszközt és ősi dokumentumot mutat be.",
                   "category": "museum",
                   "coords": [
                         106.671968,
                         10.776282
-                  ]
-            },
-            {
-                  "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
-                  "text": "A műemlékként megőrzött egykori kórházi fogolytábor ma ünnepélyes történelmi múzeumként áll.",
-                  "category": "museum",
-                  "coords": [
-                        106.679275,
-                        10.753267
-                  ]
-            },
-            {
-                  "name": "Bia Truyền thống Vườn Lài",
-                  "text": "A helyi forradalmi hagyományok és a környék történelmi eseményeinek tiszteletére emelt kőből készült emléksztélé.",
-                  "category": "historical",
-                  "coords": [
-                        106.672707,
-                        10.764974
                   ]
             },
             {
@@ -11628,15 +11529,6 @@ export const poiExtraVietnamHistoryV2: POI[] = [
                   "coords": [
                         106.694598,
                         10.767436
-                  ]
-            },
-            {
-                  "name": "Nhà hát Nghệ thuật Phương Nam",
-                  "text": "Ez a dinamikus művészeti színház színes dél-vietnámi kulturális előadások és cirkuszi számok bemutatására specializálódott.",
-                  "category": "cultural",
-                  "coords": [
-                        106.668757,
-                        10.753647
                   ]
             },
             {
@@ -11840,24 +11732,6 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Chùa Ấn Quang",
-                  "text": "Un templu budist Mahayana cu importanță istorică, care a servit ca un loc pivot în timpul crizei budiste din 1963.",
-                  "category": "religious",
-                  "coords": [
-                        106.671678,
-                        10.765834
-                  ]
-            },
-            {
-                  "name": "Cầu Chánh Hưng",
-                  "text": "Acest pod de beton traversează canalul local, preluând traficul urban aglomerat prin oraș.",
-                  "category": "landmark",
-                  "coords": [
-                        106.668894,
-                        10.743917
-                  ]
-            },
-            {
                   "name": "Cầu Calmette",
                   "text": "Traversând canalul Bến Nghé, acest pod vital face legătura între cartierul central și cartierele sudice pline de viață.",
                   "category": "landmark",
@@ -11894,39 +11768,12 @@ export const poiExtraVietnamHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Công viên Hòa Bình",
-                  "text": "Acest parc urban al păcii oferă alei pavate și zone de relaxare la umbră pentru locuitorii orașului.",
-                  "category": "park",
-                  "coords": [
-                        106.673642,
-                        10.760608
-                  ]
-            },
-            {
                   "name": "Bảo Tàng FITO",
                   "text": "Acest muzeu specializat expune mii de instrumente și documente antice legate de medicina tradițională vietnameză.",
                   "category": "museum",
                   "coords": [
                         106.671968,
                         10.776282
-                  ]
-            },
-            {
-                  "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
-                  "text": "Păstrată ca un monument istoric, această fostă zonă de detenție a spitalului este acum un muzeu istoric solemn.",
-                  "category": "museum",
-                  "coords": [
-                        106.679275,
-                        10.753267
-                  ]
-            },
-            {
-                  "name": "Bia Truyền thống Vườn Lài",
-                  "text": "O stelă memorială din piatră ridicată pentru a onora tradițiile revoluționare locale și evenimentele istorice din cartier.",
-                  "category": "historical",
-                  "coords": [
-                        106.672707,
-                        10.764974
                   ]
             },
             {
@@ -11963,15 +11810,6 @@ export const poiExtraVietnamHistoryV2: POI[] = [
                   "coords": [
                         106.694598,
                         10.767436
-                  ]
-            },
-            {
-                  "name": "Nhà hát Nghệ thuật Phương Nam",
-                  "text": "Acest teatru de artă dinamic este specializat în prezentarea unor spectacole culturale și de circ din sudul Vietnamului, pline de culoare.",
-                  "category": "cultural",
-                  "coords": [
-                        106.668757,
-                        10.753647
                   ]
             },
             {
@@ -12175,24 +12013,6 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "An Quang Pagoda",
-                  "text": "A historically significant Mahayana Buddhist temple that served as a pivotal site during the 1963 Buddhist crisis.",
-                  "category": "religious",
-                  "coords": [
-                        106.671678,
-                        10.765834
-                  ]
-            },
-            {
-                  "name": "Cầu Chánh Hưng",
-                  "text": "This concrete bridge spans the local canal, carrying busy urban traffic through the city.",
-                  "category": "landmark",
-                  "coords": [
-                        106.668894,
-                        10.743917
-                  ]
-            },
-            {
                   "name": "Calmette Bridge",
                   "text": "Crossing the Bến Nghé canal, this vital bridge connects the central district to the bustling southern neighborhoods.",
                   "category": "landmark",
@@ -12229,39 +12049,12 @@ export const poiExtraVietnamHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Công viên Hòa Bình",
-                  "text": "This urban Peace Park provides paved walking paths and shaded seating areas for city residents.",
-                  "category": "park",
-                  "coords": [
-                        106.673642,
-                        10.760608
-                  ]
-            },
-            {
                   "name": "FITO Museum of traditional Vietnamese medicine",
                   "text": "This specialized museum displays thousands of tools and ancient documents related to traditional Vietnamese medicine.",
                   "category": "museum",
                   "coords": [
                         106.671968,
                         10.776282
-                  ]
-            },
-            {
-                  "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
-                  "text": "Preserved as a heritage site, this former hospital detention area now stands as a solemn historical museum.",
-                  "category": "museum",
-                  "coords": [
-                        106.679275,
-                        10.753267
-                  ]
-            },
-            {
-                  "name": "Bia Truyền thống Vườn Lài",
-                  "text": "A stone memorial stele erected to honor local revolutionary traditions and historical events in the neighborhood.",
-                  "category": "historical",
-                  "coords": [
-                        106.672707,
-                        10.764974
                   ]
             },
             {
@@ -12298,15 +12091,6 @@ export const poiExtraVietnamHistoryV2: POI[] = [
                   "coords": [
                         106.694598,
                         10.767436
-                  ]
-            },
-            {
-                  "name": "Nhà hát Nghệ thuật Phương Nam",
-                  "text": "This dynamic art theater specializes in showcasing colorful southern Vietnamese cultural performances and circus acts.",
-                  "category": "cultural",
-                  "coords": [
-                        106.668757,
-                        10.753647
                   ]
             },
             {

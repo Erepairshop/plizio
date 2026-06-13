@@ -6,15 +6,6 @@ export const poiExtraUaeLifeV2: POI[] = [
     id: "al-ain-zoo-life-v2", "sights": {
       "de": [
             {
-                  "name": "AAN2564",
-                  "text": "AAN2564 ist ein ausgewiesener Aussichtspunkt im Al Ain Zoo.",
-                  "category": "natural",
-                  "coords": [
-                        55.761645,
-                        24.191641
-                  ]
-            },
-            {
                   "name": "AAN2024",
                   "text": "AAN2024 ist ein Beobachtungspunkt im Al Ain Zoo.",
                   "category": "natural",
@@ -142,15 +133,6 @@ export const poiExtraUaeLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "AAN2564",
-                  "text": "Az AAN2564 egy kijelölt kilátópont az Al Ain Állatkertben.",
-                  "category": "natural",
-                  "coords": [
-                        55.761645,
-                        24.191641
-                  ]
-            },
             {
                   "name": "AAN2024",
                   "text": "Az AAN2024 egy megfigyelőpont az Al Ain Állatkertben.",
@@ -280,15 +262,6 @@ export const poiExtraUaeLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "AAN2564",
-                  "text": "AAN2564 este un punct de belvedere desemnat în cadrul Grădinii Zoologice din Al Ain.",
-                  "category": "natural",
-                  "coords": [
-                        55.761645,
-                        24.191641
-                  ]
-            },
-            {
                   "name": "AAN2024",
                   "text": "AAN2024 este un punct de observație situat la Grădina Zoologică din Al Ain.",
                   "category": "natural",
@@ -416,15 +389,6 @@ export const poiExtraUaeLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "AAN2564",
-                  "text": "AAN2564 is a designated viewpoint spot within the Al Ain Zoo.",
-                  "category": "natural",
-                  "coords": [
-                        55.761645,
-                        24.191641
-                  ]
-            },
             {
                   "name": "AAN2024",
                   "text": "AAN2024 is an observation point located at the Al Ain Zoo.",

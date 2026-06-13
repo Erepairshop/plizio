@@ -53,15 +53,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Historijski Muzej Bosne i Hercegovine",
-                  "text": "Das Historische Museum von Bosnien und Herzegowina ist ein bedeutendes Nationalmuseum in Sarajevo.",
-                  "category": "museum",
-                  "coords": [
-                        18.400869,
-                        43.854975
-                  ]
-            },
-            {
                   "name": "Brusa Bezistan",
                   "text": "Der Brusa Bezistan ist ein bekanntes historisches Museum in Sarajevo.",
                   "category": "museum",
@@ -179,24 +170,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Kirche St. Joseph",
-                  "text": "Die Crkva svetog Josipa ist ein bedeutendes katholisches Gotteshaus in Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.406965,
-                        43.856501
-                  ]
-            },
-            {
-                  "name": "Hram Preobraženja Gospodnjeg",
-                  "text": "Der Hram Preobraženja Gospodnjeg ist ein bedeutendes orthodoxes Gotteshaus in Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.390957,
-                        43.853329
-                  ]
-            },
-            {
                   "name": "Stara pravoslavna crkva",
                   "text": "Die Alte Orthodoxe Kirche ist ein sehr bedeutendes und historisches Gotteshaus in Sarajevo.",
                   "category": "religious",
@@ -269,15 +242,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Kapela Vidovdanskih heroja",
-                  "text": "Die Kapela Vidovdanskih heroja ist eine orthodoxe Kapelle in Sarajevo, die den historischen Persönlichkeiten des Attentats von 1914 gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        18.411502,
-                        43.866809
-                  ]
-            },
-            {
                   "name": "Gazi Husrev-Beg Moschee",
                   "text": "Die Gazi-Husrev-Beg-Moschee ist eine bedeutende islamische Kultstätte in Sarajevo und gilt als eines der wichtigsten Beispiele osmanischer Architektur in der Region.",
                   "category": "religious",
@@ -314,15 +278,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Hum Tower",
-                  "text": "Der Hum-Turm ist ein markanter Telekommunikationsturm auf dem Berg Hum mit Blick auf die Stadt Sarajevo.",
-                  "category": "tower",
-                  "coords": [
-                        18.386368,
-                        43.872476
-                  ]
-            },
-            {
                   "name": "Eiffelov most",
                   "text": "Eiffelov most ist eine bekannte Eisenbrücke in Sarajevo, die für ihr Design aus dem Industriezeitalter bekannt ist.",
                   "category": "landmark",
@@ -341,48 +296,12 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Most Suade Dilberović i Olge Sučić",
-                  "text": "Die Brücke Suada und Olga ist eine bedeutende Brücke in Sarajevo, die zum Gedenken an die ersten Opfer der Belagerung der Stadt benannt wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        18.406536,
-                        43.853298
-                  ]
-            },
-            {
                   "name": "Drvenija most",
                   "text": "Die Drvenija-Brücke ist eine viel genutzte Brücke in Sarajevo, die in der Vergangenheit als hölzerner Flussübergang diente.",
                   "category": "landmark",
                   "coords": [
                         18.423759,
                         43.856555
-                  ]
-            },
-            {
-                  "name": "Ars Aevi Bridge",
-                  "text": "Die Ars-Aevi-Brücke ist eine moderne Fußgängerbrücke in Sarajevo, entworfen von dem bekannten Architekten Renzo Piano.",
-                  "category": "landmark",
-                  "coords": [
-                        18.400913,
-                        43.853499
-                  ]
-            },
-            {
-                  "name": "Gedenkpark Vraca",
-                  "text": "Der Vraca-Gedenkpark in Sarajevo ist ein Park- und Komplexbereich, der den Opfern des Zweiten Weltkriegs gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        18.399097,
-                        43.843537
-                  ]
-            },
-            {
-                  "name": "Zoološki vrt Pionirska dolina",
-                  "text": "Zoološki vrt Pionirska dolina ist ein familienfreundlicher Zoo und Freizeitpark in Sarajevo.",
-                  "category": "family",
-                  "coords": [
-                        18.412204,
-                        43.879453
                   ]
             },
             {
@@ -422,33 +341,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Crkva Presvetog Trojstva",
-                  "text": "Crkva Presvetog Trojstva ist ein eigenes Gotteshaus in Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.382638,
-                        43.852599
-                  ]
-            },
-            {
-                  "name": "Amman Spa & Hammam",
-                  "text": "Das Amman Spa & Hammam in Sarajevo bietet traditionelle öffentliche Badeeinrichtungen zur Entspannung.",
-                  "category": "family",
-                  "coords": [
-                        18.432205,
-                        43.858674
-                  ]
-            },
-            {
-                  "name": "Bentbaša",
-                  "text": "Bentbaša in Sarajevo verfügt über ein Schwimmbad für sportliche Aktivitäten und Erholung am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        18.437798,
-                        43.85963
-                  ]
-            },
-            {
                   "name": "Sunnyland",
                   "text": "Sunnyland in Sarajevo ist ein Freizeitpark, der verschiedene Attraktionen für Kinder und Erwachsene bietet.",
                   "category": "family",
@@ -466,15 +358,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.427806,
                         43.859782
-                  ]
-            },
-            {
-                  "name": "Historijski Muzej Bosne i Hercegovine",
-                  "text": "A Bosznia-Hercegovinai Történeti Múzeum egy kiemelkedő nemzeti múzeum Szarajevóban.",
-                  "category": "museum",
-                  "coords": [
-                        18.400869,
-                        43.854975
                   ]
             },
             {
@@ -595,24 +478,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Crkva svetog Josipa",
-                  "text": "A Crkva svetog Josipa egy nevezetes katolikus istentiszteleti hely Szarajevóban.",
-                  "category": "religious",
-                  "coords": [
-                        18.406965,
-                        43.856501
-                  ]
-            },
-            {
-                  "name": "Hram Preobraženja Gospodnjeg",
-                  "text": "A Hram Preobraženja Gospodnjeg egy nevezetes ortodox istentiszteleti hely Szarajevóban.",
-                  "category": "religious",
-                  "coords": [
-                        18.390957,
-                        43.853329
-                  ]
-            },
-            {
                   "name": "Stara pravoslavna crkva",
                   "text": "A Régi Ortodox Templom egy rendkívül nevezetes és történelmi istentiszteleti hely Szarajevóban.",
                   "category": "religious",
@@ -685,15 +550,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Kapela Vidovdanskih heroja",
-                  "text": "A Kapela Vidovdanskih heroja egy ortodox kápolna Szarajevóban, amelyet az 1914-es merényletben részt vevő történelmi személyiségeknek szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        18.411502,
-                        43.866809
-                  ]
-            },
-            {
                   "name": "Gazi Husrev-begova džamija",
                   "text": "A Gázi Huszrev bég dzsámija egy jelentős iszlám istentiszteleti hely Szarajevóban, és az oszmán építészet egyik legkiemelkedőbb példája a régióban.",
                   "category": "religious",
@@ -730,15 +586,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Hum Tower",
-                  "text": "A Hum-torony egy kiemelkedő távközlési torony, amely a Hum-hegyen található, és kilátást nyújt Szarajevó városára.",
-                  "category": "tower",
-                  "coords": [
-                        18.386368,
-                        43.872476
-                  ]
-            },
-            {
                   "name": "Eiffelov most",
                   "text": "Az Eiffelov most egy figyelemre méltó vashíd Szarajevóban, amely az ipari korszakból származó kialakításáról ismert.",
                   "category": "landmark",
@@ -757,48 +604,12 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Most Suade Dilberović i Olge Sučić",
-                  "text": "A Suada és Olga híd egy jelentős híd Szarajevóban, amelyet a város ostromának első áldozatai emlékére neveztek el.",
-                  "category": "landmark",
-                  "coords": [
-                        18.406536,
-                        43.853298
-                  ]
-            },
-            {
                   "name": "Drvenija most",
                   "text": "A Drvenija híd egy széles körben használt híd Szarajevóban, amely történelmileg fából készült folyami átkelőként szolgált.",
                   "category": "landmark",
                   "coords": [
                         18.423759,
                         43.856555
-                  ]
-            },
-            {
-                  "name": "Ars Aevi Bridge",
-                  "text": "Az Ars Aevi híd egy modern gyalogoshíd Szarajevóban, amelyet a híres építész, Renzo Piano tervezett.",
-                  "category": "landmark",
-                  "coords": [
-                        18.400913,
-                        43.853499
-                  ]
-            },
-            {
-                  "name": "Spomen-park Vraca",
-                  "text": "A szarajevói Vraca emlékpark egy olyan park és komplexum, amelyet a második világháború áldozatainak tiszteletére hoztak létre.",
-                  "category": "park",
-                  "coords": [
-                        18.399097,
-                        43.843537
-                  ]
-            },
-            {
-                  "name": "Zoološki vrt Pionirska dolina",
-                  "text": "A Zoološki vrt Pionirska dolina egy családbarát állatkert és szabadidőpark Szarajevóban.",
-                  "category": "family",
-                  "coords": [
-                        18.412204,
-                        43.879453
                   ]
             },
             {
@@ -838,33 +649,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Crkva Presvetog Trojstva",
-                  "text": "A Crkva Presvetog Trojstva egy vallási istentiszteleti hely Szarajevóban.",
-                  "category": "religious",
-                  "coords": [
-                        18.382638,
-                        43.852599
-                  ]
-            },
-            {
-                  "name": "Amman Spa & Hammam",
-                  "text": "A szarajevói Amman Spa & Hammam hagyományos nyilvános fürdőzési lehetőséget kínál a kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        18.432205,
-                        43.858674
-                  ]
-            },
-            {
-                  "name": "Bentbaša",
-                  "text": "A szarajevói Bentbaša úszómedencével várja a sportolni és kikapcsolódni vágyókat a vízparton.",
-                  "category": "family",
-                  "coords": [
-                        18.437798,
-                        43.85963
-                  ]
-            },
-            {
                   "name": "Sunnyland",
                   "text": "A szarajevói Sunnyland egy vidámpark, amely különféle attrakciókat kínál gyermekeknek és felnőtteknek egyaránt.",
                   "category": "family",
@@ -882,15 +666,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.427806,
                         43.859782
-                  ]
-            },
-            {
-                  "name": "Historijski Muzej Bosne i Hercegovine",
-                  "text": "Muzeul Istoric al Bosniei și Herțegovinei este un muzeu național important situat în Sarajevo.",
-                  "category": "museum",
-                  "coords": [
-                        18.400869,
-                        43.854975
                   ]
             },
             {
@@ -1011,24 +786,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Crkva svetog Josipa",
-                  "text": "Crkva svetog Josipa este un lăcaș de cult catolic notabil situat în Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.406965,
-                        43.856501
-                  ]
-            },
-            {
-                  "name": "Hram Preobraženja Gospodnjeg",
-                  "text": "Hram Preobraženja Gospodnjeg este un lăcaș de cult ortodox notabil situat în Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.390957,
-                        43.853329
-                  ]
-            },
-            {
                   "name": "Stara pravoslavna crkva",
                   "text": "Vechea Biserică Ortodoxă este un lăcaș de cult istoric și extrem de notabil din Sarajevo.",
                   "category": "religious",
@@ -1101,15 +858,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Kapela Vidovdanskih heroja",
-                  "text": "Kapela Vidovdanskih heroja este o capelă ortodoxă din Sarajevo dedicată figurilor istorice implicate în asasinatul din 1914.",
-                  "category": "religious",
-                  "coords": [
-                        18.411502,
-                        43.866809
-                  ]
-            },
-            {
                   "name": "Gazi Husrev-begova džamija",
                   "text": "Moscheea Gazi Husrev-beg este un important lăcaș de cult islamic din Sarajevo, servind drept unul dintre cele mai proeminente exemple de arhitectură otomană din regiune.",
                   "category": "religious",
@@ -1146,15 +894,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Hum Tower",
-                  "text": "Turnul Hum este un important turn de telecomunicații situat pe Muntele Hum, cu vedere la orașul Sarajevo.",
-                  "category": "tower",
-                  "coords": [
-                        18.386368,
-                        43.872476
-                  ]
-            },
-            {
                   "name": "Eiffelov most",
                   "text": "Eiffelov most este un pod de fier notabil din Sarajevo, recunoscut pentru designul său din era industrială.",
                   "category": "landmark",
@@ -1173,48 +912,12 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Most Suade Dilberović i Olge Sučić",
-                  "text": "Podul Suada și Olga este un pod semnificativ din Sarajevo, denumit în memoria primelor victime ale asediului orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        18.406536,
-                        43.853298
-                  ]
-            },
-            {
                   "name": "Drvenija most",
                   "text": "Podul Drvenija este un pod intens utilizat din Sarajevo, care a servit istoric ca o traversare de lemn a râului.",
                   "category": "landmark",
                   "coords": [
                         18.423759,
                         43.856555
-                  ]
-            },
-            {
-                  "name": "Ars Aevi Bridge",
-                  "text": "Podul Ars Aevi este un pod pietonal modern din Sarajevo, proiectat de renumitul arhitect Renzo Piano.",
-                  "category": "landmark",
-                  "coords": [
-                        18.400913,
-                        43.853499
-                  ]
-            },
-            {
-                  "name": "Spomen-park Vraca",
-                  "text": "Parcul Memorial Vraca din Sarajevo este un parc și complex dedicat onorării victimelor celui de-al Doilea Război Mondial.",
-                  "category": "park",
-                  "coords": [
-                        18.399097,
-                        43.843537
-                  ]
-            },
-            {
-                  "name": "Zoološki vrt Pionirska dolina",
-                  "text": "Zoološki vrt Pionirska dolina este o grădină zoologică și un parc de recreere potrivit pentru familii, situat în Sarajevo.",
-                  "category": "family",
-                  "coords": [
-                        18.412204,
-                        43.879453
                   ]
             },
             {
@@ -1254,33 +957,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Crkva Presvetog Trojstva",
-                  "text": "Crkva Presvetog Trojstva este un lăcaș de cult dedicat situat în Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.382638,
-                        43.852599
-                  ]
-            },
-            {
-                  "name": "Amman Spa & Hammam",
-                  "text": "Amman Spa & Hammam din Sarajevo oferă facilități tradiționale de baie publică pentru relaxare.",
-                  "category": "family",
-                  "coords": [
-                        18.432205,
-                        43.858674
-                  ]
-            },
-            {
-                  "name": "Bentbaša",
-                  "text": "Bentbaša din Sarajevo dispune de o piscină pentru activități sportive și recreere pe malul apei.",
-                  "category": "family",
-                  "coords": [
-                        18.437798,
-                        43.85963
-                  ]
-            },
-            {
                   "name": "Sunnyland",
                   "text": "Sunnyland din Sarajevo este un parc tematic care oferă diverse atracții pentru copii și adulți.",
                   "category": "family",
@@ -1298,15 +974,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.427806,
                         43.859782
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Bosnia & Herzegovina",
-                  "text": "The Historical Museum of Bosnia & Herzegovina is a prominent national museum located in Sarajevo.",
-                  "category": "museum",
-                  "coords": [
-                        18.400869,
-                        43.854975
                   ]
             },
             {
@@ -1427,24 +1094,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Crkva svetog Josipa",
-                  "text": "Crkva svetog Josipa is a notable Catholic place of worship located in Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.406965,
-                        43.856501
-                  ]
-            },
-            {
-                  "name": "Hram Preobraženja Gospodnjeg",
-                  "text": "Hram Preobraženja Gospodnjeg is a notable Orthodox place of worship situated in Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.390957,
-                        43.853329
-                  ]
-            },
-            {
                   "name": "Old Orthodox Church",
                   "text": "The Old Orthodox Church is a highly notable and historic place of worship in Sarajevo.",
                   "category": "religious",
@@ -1517,15 +1166,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Kapela Vidovdanskih heroja",
-                  "text": "The Kapela Vidovdanskih heroja is an Orthodox chapel in Sarajevo dedicated to the historical figures involved in the 1914 assassination.",
-                  "category": "religious",
-                  "coords": [
-                        18.411502,
-                        43.866809
-                  ]
-            },
-            {
                   "name": "Gazi Husrev-beg Mosque",
                   "text": "The Gazi Husrev-beg Mosque is a major Islamic place of worship in Sarajevo, serving as one of the most prominent examples of Ottoman architecture in the region.",
                   "category": "religious",
@@ -1562,15 +1202,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Hum Tower",
-                  "text": "Hum Tower is a prominent telecommunications tower located on Mount Hum overlooking the city of Sarajevo.",
-                  "category": "tower",
-                  "coords": [
-                        18.386368,
-                        43.872476
-                  ]
-            },
-            {
                   "name": "Eiffelov most",
                   "text": "Eiffelov most is a notable iron bridge in Sarajevo, recognized for its industrial-era design.",
                   "category": "landmark",
@@ -1589,48 +1220,12 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Most Suade Dilberović i Olge Sučić",
-                  "text": "The Most Suade Dilberović i Olge Sučić is a significant bridge in Sarajevo named in memory of the first victims of the city's siege.",
-                  "category": "landmark",
-                  "coords": [
-                        18.406536,
-                        43.853298
-                  ]
-            },
-            {
                   "name": "Drvenija most",
                   "text": "Drvenija most is a widely used bridge in Sarajevo that historically served as a wooden river crossing.",
                   "category": "landmark",
                   "coords": [
                         18.423759,
                         43.856555
-                  ]
-            },
-            {
-                  "name": "Ars Aevi Bridge",
-                  "text": "The Ars Aevi Bridge is a modern pedestrian bridge in Sarajevo, designed by renowned architect Renzo Piano.",
-                  "category": "landmark",
-                  "coords": [
-                        18.400913,
-                        43.853499
-                  ]
-            },
-            {
-                  "name": "Vraca Memorial Park",
-                  "text": "Vraca Memorial Park in Sarajevo is a dedicated park and complex honoring the victims of the Second World War.",
-                  "category": "park",
-                  "coords": [
-                        18.399097,
-                        43.843537
-                  ]
-            },
-            {
-                  "name": "Zoološki vrt Pionirska dolina",
-                  "text": "Zoološki vrt Pionirska dolina is a family-friendly zoo and recreational park located in Sarajevo.",
-                  "category": "family",
-                  "coords": [
-                        18.412204,
-                        43.879453
                   ]
             },
             {
@@ -1667,33 +1262,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.445762,
                         43.861882
-                  ]
-            },
-            {
-                  "name": "Crkva Presvetog Trojstva",
-                  "text": "Crkva Presvetog Trojstva is a dedicated place of worship located in Sarajevo.",
-                  "category": "religious",
-                  "coords": [
-                        18.382638,
-                        43.852599
-                  ]
-            },
-            {
-                  "name": "Amman Spa & Hammam",
-                  "text": "Amman Spa & Hammam in Sarajevo offers traditional public bathing facilities for relaxation.",
-                  "category": "family",
-                  "coords": [
-                        18.432205,
-                        43.858674
-                  ]
-            },
-            {
-                  "name": "Bentbaša",
-                  "text": "Bentbaša in Sarajevo features a swimming pool for sporting activities and recreation by the water.",
-                  "category": "family",
-                  "coords": [
-                        18.437798,
-                        43.85963
                   ]
             },
             {
@@ -1750,15 +1318,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.184376,
                         44.761569
-                  ]
-            },
-            {
-                  "name": "Freizeitbad Aquana",
-                  "text": "Der Vodeni park \"Akvana\" in Banja Luka bietet Wasseraktivitäten für Familien.",
-                  "category": "family",
-                  "coords": [
-                        17.205799,
-                        44.773739
                   ]
             },
             {
@@ -1832,15 +1391,6 @@ export const bosniaPois: POI[] = [
                         17.19148,
                         44.771275
                   ]
-            },
-            {
-                  "name": "Muzej sporta",
-                  "text": "Ein Museum in Banja Luka, das den sportlichen Erfolgen der Stadt gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        17.202164,
-                        44.773716
-                  ]
             }
       ],
       "hu": [
@@ -1851,15 +1401,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.184376,
                         44.761569
-                  ]
-            },
-            {
-                  "name": "Vodeni park \"Akvana\"",
-                  "text": "A banja lukai Vodeni park \"Akvana\" vízi tevékenységeket kínál családoknak.",
-                  "category": "family",
-                  "coords": [
-                        17.205799,
-                        44.773739
                   ]
             },
             {
@@ -1933,15 +1474,6 @@ export const bosniaPois: POI[] = [
                         17.19148,
                         44.771275
                   ]
-            },
-            {
-                  "name": "Muzej sporta",
-                  "text": "Sportmúzeum Banja Lukában, amely a város sportsikereit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        17.202164,
-                        44.773716
-                  ]
             }
       ],
       "ro": [
@@ -1952,15 +1484,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.184376,
                         44.761569
-                  ]
-            },
-            {
-                  "name": "Vodeni park \"Akvana\"",
-                  "text": "Vodeni park \"Akvana\" din Banja Luka oferă activități acvatice pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        17.205799,
-                        44.773739
                   ]
             },
             {
@@ -2034,15 +1557,6 @@ export const bosniaPois: POI[] = [
                         17.19148,
                         44.771275
                   ]
-            },
-            {
-                  "name": "Muzej sporta",
-                  "text": "Un muzeu în Banja Luka dedicat realizărilor sportive ale orașului.",
-                  "category": "museum",
-                  "coords": [
-                        17.202164,
-                        44.773716
-                  ]
             }
       ],
       "en": [
@@ -2053,15 +1567,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.184376,
                         44.761569
-                  ]
-            },
-            {
-                  "name": "Vodeni park \"Akvana\"",
-                  "text": "Vodeni park \"Akvana\" in Banja Luka offers water activities for families.",
-                  "category": "family",
-                  "coords": [
-                        17.205799,
-                        44.773739
                   ]
             },
             {
@@ -2134,15 +1639,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.19148,
                         44.771275
-                  ]
-            },
-            {
-                  "name": "Muzej sporta",
-                  "text": "A museum in Banja Luka dedicated to the city's sporting achievements.",
-                  "category": "museum",
-                  "coords": [
-                        17.202164,
-                        44.773716
                   ]
             }
       ]
@@ -4057,7 +3553,1744 @@ export const bosniaPois: POI[] = [
       fr: ["L'emblème du Stari Most est inscrit au patrimoine mondial de l'UNESCO depuis 2005", "Le pont a été construit à l'origine en 1566 par Mimar Hayruddin", "Situé sur la Neretva, l'une des rivières les plus froides au monde", "La hauteur du Vieux Pont est d'environ 24 mètres", "Centre historique de la région de l'Herzégovine", "L'un des endroits les plus chauds de Bosnie-Herzégovine en été"],
     }, image: "/poi-images/ba-mostar.webp"},
   {
-    id: "ba-tuzla", "sights": {"de": [{"name": "Narodno pozorište Tuzla", "text": "Narodno pozorište Tuzla ist ein lokales Theater in Tuzla, das verschiedene Veranstaltungen für darstellende Künste ausrichtet.", "category": "cultural", "coords": [18.677301, 44.536572]}, {"name": "Dom Književnosti Tuzla", "text": "Dom Književnosti Tuzla ist ein Kulturmuseum in Tuzla, das sich auf Literaturgeschichte konzentriert.", "category": "museum", "coords": [18.676468, 44.538246]}, {"name": "Panonska jezera", "text": "Pannonica ist ein beliebter Wasserpark in Tuzla, der Freizeitmöglichkeiten im Wasser bietet.", "category": "family", "coords": [18.680806, 44.53949]}, {"name": "Geološki muzej", "text": "Geološki muzej ist ein Museum in Tuzla mit geologischen Sammlungen und Ausstellungen.", "category": "museum", "coords": [18.682966, 44.539771]}, {"name": "Muzej bosanskog jezika", "text": "Das Muzej bosanskog jezika ist ein Museum in Tuzla, das sich der Geschichte und dem Erhalt der bosnischen Sprache widmet.", "category": "museum", "coords": [18.675523, 44.538591]}, {"name": "Ilinčica", "text": "Ilinčica ist ein natürlicher Gipfel in der Nähe von Tuzla, der malerische Erholung im Freien bietet.", "category": "natural", "coords": [18.674544, 44.524915]}, {"name": "Centralni park", "text": "Der Centralni park ist ein zentraler öffentlicher Park in Tuzla, der eine Grünfläche zur Entspannung bietet.", "category": "park", "coords": [18.678599, 44.538293]}, {"name": "Park Cipelići", "text": "Park Cipelići ist eine städtische Parkanlage in der Stadt Tuzla.", "category": "park", "coords": [18.68005, 44.535428]}, {"name": "Sojeničko naselje", "text": "Sojeničko naselje ist ein historisches Denkmal in Tuzla.", "category": "historical", "coords": [18.681909, 44.538531]}, {"name": "Međunarodna galerija portreta", "text": "Međunarodna galerija portreta ist eine Kunstgalerie in Tuzla, die eine Sammlung internationaler Porträts ausstellt.", "category": "museum", "coords": [18.6871, 44.535937]}, {"name": "Pivara Tuzla", "text": "Pivara Tuzla verfügt über einen lokalen Aussichtspunkt, der Blicke auf die Umgebung bietet.", "category": "natural", "coords": [18.68937, 44.535162]}, {"name": "Vidikovac Pivara", "text": "Vidikovac Pivara ist ein bemerkenswerter Aussichtspunkt in Tuzla.", "category": "natural", "coords": [18.689853, 44.536146]}, {"name": "Atelje Ismet Mujezinović", "text": "Atelje Ismet Mujezinović ist ein Kunstzentrum in Tuzla, das den regionalen künstlerischen Ausdruck fördert.", "category": "cultural", "coords": [18.681062, 44.537133]}, {"name": "Nura", "text": "Nura ist eine lokale Touristenattraktion in Tuzla.", "category": "landmark", "coords": [18.652883, 44.52664]}, {"name": "Barutana", "text": "Barutana besteht aus historischen Ruinen innerhalb der Grenzen von Tuzla.", "category": "historical", "coords": [18.691076, 44.536849]}, {"name": "Tuzlanska Koza", "text": "Tuzlanska Koza ist eine Freiluftattraktion und ein Wahrzeichen in Tuzla.", "category": "landmark", "coords": [18.687704, 44.531865]}, {"name": "Slani Vodopadi Panonskih Jezera", "text": "Slani Vodopadi Panonskih Jezera ist eine attraktive Anlage in Verbindung mit den Salzseen von Tuzla.", "category": "landmark", "coords": [18.681864, 44.540427]}, {"name": "Bunker", "text": "Der Bunker in Tuzla besteht aus historischen Ruinen einer ehemaligen militärischen Infrastruktur.", "category": "historical", "coords": [18.694079, 44.535219]}, {"name": "Kapija Behram-begove medrese", "text": "Kapija Behram-begove medrese ist ein historisches Denkmal, das das Tor einer alten Bildungseinrichtung in Tuzla darstellt.", "category": "historical", "coords": [18.673078, 44.540621]}, {"name": "Vidikovac Kicelj", "text": "Vidikovac Kicelj ist ein erhöhter Aussichtspunkt, der weite Ausblicke auf Tuzla bietet.", "category": "natural", "coords": [18.671488, 44.544753]}, {"name": "Grad Tuzla", "text": "Grad Tuzla ist das wichtigste Rathaus und Verwaltungszentrum der Stadt Tuzla.", "category": "historical", "coords": [18.687875, 44.532766]}, {"name": "Gazi Turali-begova (Poljska) džamija", "text": "Gazi Turali-begova džamija ist eine herausragende historische islamische Kultstätte in Tuzla.", "category": "religious", "coords": [18.679373, 44.536371]}, {"name": "Džamija Behram-begove medrese", "text": "Džamija Behram-begove medrese ist eine wichtige Kultstätte, die an eine historische Bildungseinrichtung in Tuzla angegliedert ist.", "category": "religious", "coords": [18.6542, 44.538388]}, {"name": "Hram Uspenja Presvete Bogorodice", "text": "Hram Uspenja Presvete Bogorodice ist eine ostorthodoxe Kathedrale und eine bedeutende Kultstätte in Tuzla.", "category": "religious", "coords": [18.679931, 44.537938]}, {"name": "Džindijska (Huseina Čauša) džamija", "text": "Die Džindijska (Huseina Čauša) Moschee ist ein bekanntes Gotteshaus in Tuzla.", "category": "religious", "coords": [18.678262, 44.541164]}, {"name": "Saint George", "text": "Saint George ist eine anerkannte Kirche und ein Gotteshaus in Tuzla.", "category": "religious", "coords": [18.688972, 44.538162]}, {"name": "Panonsko jezero III", "text": "Panonsko jezero III ist ein künstlicher Salzsee in Tuzla, der zur Erholung genutzt wird.", "category": "natural", "coords": [18.677834, 44.540085]}, {"name": "Panonsko jezero II", "text": "Panonsko jezero II ist ein See in Tuzla, der ein fester Bestandteil des lokalen Freizeitangebots ist.", "category": "natural", "coords": [18.679463, 44.539543]}, {"name": "Vodovod - rezervoar ŠI SELO", "text": "Vodovod - rezervoar ŠI SELO ist eine Wasserversorgungsanlage in Tuzla.", "category": "natural", "coords": [18.687301, 44.523111]}, {"name": "Pumpna stanica Đape", "text": "Pumpna stanica Đape ist eine Pumpstation für das Wassersystem in Tuzla.", "category": "natural", "coords": [18.665729, 44.552424]}, {"name": "ŠIBER VENTIL", "text": "ŠIBER VENTIL ist eine technische Wasseranlage in Tuzla.", "category": "natural", "coords": [18.696338, 44.541822]}, {"name": "Rezervoar Gradina", "text": "Rezervoar Gradina ist ein Wasserreservoir in Tuzla zur lokalen Versorgung.", "category": "natural", "coords": [18.691941, 44.53582]}, {"name": "Pumpna stanica Kojšino", "text": "Pumpna stanica Kojšino ist eine Infrastruktureinrichtung für Wasser in Tuzla.", "category": "natural", "coords": [18.673873, 44.543613]}, {"name": "Pumpna stanica Cerik", "text": "Pumpna stanica Cerik ist eine Einrichtung zur Wasserbeförderung in Tuzla.", "category": "natural", "coords": [18.6071, 44.50897]}, {"name": "Pumpna stanica Orašje", "text": "Pumpna stanica Orašje ist Teil der technischen Wasserinfrastruktur von Tuzla.", "category": "natural", "coords": [18.684539, 44.519418]}, {"name": "VENTIL (Ozraka)", "text": "VENTIL (Ozraka) ist ein Entlüftungsventil im Wassernetz von Tuzla.", "category": "natural", "coords": [18.661411, 44.551546]}, {"name": "HIDRANT (Kraj cjevovoda)", "text": "HIDRANT (Kraj cjevovoda) ist ein Hydrant am Ende einer Wasserleitung in Tuzla.", "category": "natural", "coords": [18.658711, 44.556202]}, {"name": "HIDRANT I ŠIBER", "text": "HIDRANT I ŠIBER ist eine kombinierte Wasserarmatur in Tuzla.", "category": "natural", "coords": [18.662164, 44.549176]}, {"name": "Rezervoar Mosnik", "text": "Rezervoar Mosnik ist ein Wasserspeicher für die Versorgung in Tuzla.", "category": "natural", "coords": [18.668613, 44.52877]}, {"name": "ŠIBER", "text": "ŠIBER ist ein Absperrschieber im lokalen Wassersystem von Tuzla.", "category": "natural", "coords": [18.645159, 44.524164]}, {"name": "Pumpna stanica Kužići", "text": "Pumpna stanica Kužići ist eine technische Anlage der Wasserversorgung in Tuzla.", "category": "natural", "coords": [18.643187, 44.524544]}, {"name": "Pumpna stanica Dragodol-Batva", "text": "Pumpna stanica Dragodol-Batva ist eine Station zur Druckregulierung im Wassernetz von Tuzla.", "category": "natural", "coords": [18.661746, 44.543909]}, {"name": "Kraj cjevi F75", "text": "Kraj cjevi Φ75 ist das Ende einer Wasserleitung in Tuzla.", "category": "natural", "coords": [18.612753, 44.513291]}, {"name": "MULJNI ŠIBER", "text": "MULJNI ŠIBER ist ein Entleerungsschieber in der Wasserinfrastruktur von Tuzla.", "category": "natural", "coords": [18.613626, 44.500738]}, {"name": "Rezervoar Trnovac", "text": "Rezervoar Trnovac ist ein Wasserbehälter zur Sicherung der Versorgung in Tuzla.", "category": "natural", "coords": [18.688419, 44.539209]}, {"name": "Rezervoar Šikara", "text": "Der Rezervoar Šikara ist ein See in Tuzla, der sich ideal für einen ruhigen Spaziergang oder zum Genießen der Landschaft eignet.", "category": "natural", "coords": [18.590364, 44.551702]}, {"name": "Pumpna stanica Šikara", "text": "Pumpna stanica Šikara ist ein See in Tuzla, der einen ruhigen Ort zum Wandern und Entspannen bietet.", "category": "natural", "coords": [18.600909, 44.554081]}, {"name": "Rezervoar Husino", "text": "Der Rezervoar Husino ist ein See in Tuzla, ideal um die lokale Landschaft und einen Spaziergang zu genießen.", "category": "natural", "coords": [18.624643, 44.516177]}, {"name": "Šiber za Demiroviće", "text": "Šiber za Demiroviće ist ein See in Tuzla, der Besuchern eine neutrale und friedliche Umgebung bietet.", "category": "natural", "coords": [18.613223, 44.490232]}], "hu": [{"name": "Narodno pozorište Tuzla", "text": "A Narodno pozorište Tuzla egy helyi színház Tuzlában, amely különféle előadó-művészeti eseményeknek ad otthont.", "category": "cultural", "coords": [18.677301, 44.536572]}, {"name": "Dom Književnosti Tuzla", "text": "A Dom Književnosti Tuzla egy kulturális múzeum Tuzlában, amely az irodalomtörténetre összpontosít.", "category": "museum", "coords": [18.676468, 44.538246]}, {"name": "Panonska jezera", "text": "A Pannonica egy népszerű vízipark létesítmény Tuzlában, amely vízi kikapcsolódást kínál.", "category": "family", "coords": [18.680806, 44.53949]}, {"name": "Geološki muzej", "text": "A Geološki muzej egy múzeum Tuzlában, amely geológiai gyűjteményeket és kiállításokat mutat be.", "category": "museum", "coords": [18.682966, 44.539771]}, {"name": "Muzej bosanskog jezika", "text": "A Muzej bosanskog jezika egy múzeum Tuzlában, amelyet a bosnyák nyelv történetének és megőrzésének szenteltek.", "category": "museum", "coords": [18.675523, 44.538591]}, {"name": "Ilinčica", "text": "Az Ilinčica egy természetes hegycsúcs Tuzla közelében, amely festői szabadtéri kikapcsolódást nyújt.", "category": "natural", "coords": [18.674544, 44.524915]}, {"name": "Centralni park", "text": "A Centralni park egy központi nyilvános park Tuzlában, amely zöldterületet biztosít a pihenésre.", "category": "park", "coords": [18.678599, 44.538293]}, {"name": "Park Cipelići", "text": "A Park Cipelići egy városi parkterület, amely Tuzla városán belül található.", "category": "park", "coords": [18.68005, 44.535428]}, {"name": "Sojeničko naselje", "text": "A Sojeničko naselje egy történelmi műemlék Tuzlában.", "category": "historical", "coords": [18.681909, 44.538531]}, {"name": "Međunarodna galerija portreta", "text": "A Međunarodna galerija portreta egy művészeti galéria Tuzlában, amely nemzetközi portrék gyűjteményét mutatja be.", "category": "museum", "coords": [18.6871, 44.535937]}, {"name": "Pivara Tuzla", "text": "A Pivara Tuzla egy helyi kilátóval rendelkezik, amely kilátást nyújt a környező területre.", "category": "natural", "coords": [18.68937, 44.535162]}, {"name": "Vidikovac Pivara", "text": "A Vidikovac Pivara egy figyelemre méltó festői kilátó Tuzlában.", "category": "natural", "coords": [18.689853, 44.536146]}, {"name": "Atelje Ismet Mujezinović", "text": "Az Atelje Ismet Mujezinović egy művészeti központ Tuzlában, amely a regionális művészeti kifejezést támogatja.", "category": "cultural", "coords": [18.681062, 44.537133]}, {"name": "Nura", "text": "A Nura egy helyi turisztikai látványosság Tuzlában.", "category": "landmark", "coords": [18.652883, 44.52664]}, {"name": "Barutana", "text": "A Barutana történelmi romokból áll Tuzla határain belül.", "category": "historical", "coords": [18.691076, 44.536849]}, {"name": "Tuzlanska Koza", "text": "A Tuzlanska Koza egy szabadtéri látványosság és nevezetesség Tuzlában.", "category": "landmark", "coords": [18.687704, 44.531865]}, {"name": "Slani Vodopadi Panonskih Jezera", "text": "A Slani Vodopadi Panonskih Jezera egy vonzó látványosság a tuzlai sós tavakhoz kapcsolódóan.", "category": "landmark", "coords": [18.681864, 44.540427]}, {"name": "Bunker", "text": "A tuzlai Bunker a múltbeli katonai infrastruktúra történelmi romjaiból áll.", "category": "historical", "coords": [18.694079, 44.535219]}, {"name": "Kapija Behram-begove medrese", "text": "A Kapija Behram-begove medrese egy történelmi műemlék, amely egy régi tuzlai oktatási intézmény kapuját ábrázolja.", "category": "historical", "coords": [18.673078, 44.540621]}, {"name": "Vidikovac Kicelj", "text": "A Vidikovac Kicelj egy magaslati kilátó, amely panorámás kilátást nyújt Tuzlára.", "category": "natural", "coords": [18.671488, 44.544753]}, {"name": "Grad Tuzla", "text": "A Grad Tuzla a város fő városházája és közigazgatási központja Tuzlában.", "category": "historical", "coords": [18.687875, 44.532766]}, {"name": "Gazi Turali-begova (Poljska) džamija", "text": "A Gazi Turali-begova džamija egy kiemelkedő történelmi iszlám istentiszteleti hely Tuzlában.", "category": "religious", "coords": [18.679373, 44.536371]}, {"name": "Džamija Behram-begove medrese", "text": "A Džamija Behram-begove medrese egy fontos istentiszteleti hely, amely egy történelmi oktatási intézményhez kapcsolódik Tuzlában.", "category": "religious", "coords": [18.6542, 44.538388]}, {"name": "Hram Uspenja Presvete Bogorodice", "text": "A Hram Uspenja Presvete Bogorodice egy keleti ortodox katedrális és jelentős istentiszteleti hely Tuzlában.", "category": "religious", "coords": [18.679931, 44.537938]}, {"name": "Džindijska (Huseina Čauša) džamija", "text": "A Džindijska (Huseina Čauša) mecset egy ismert istentiszteleti hely Tuzlában.", "category": "religious", "coords": [18.678262, 44.541164]}, {"name": "Saint George", "text": "A Saint George egy ismert templom és istentiszteleti hely Tuzlában.", "category": "religious", "coords": [18.688972, 44.538162]}, {"name": "Panonsko jezero III", "text": "Panonsko jezero III egy mesterséges sós tó Tuzla területén, amelyet kikapcsolódásra használnak.", "category": "natural", "coords": [18.677834, 44.540085]}, {"name": "Panonsko jezero II", "text": "Panonsko jezero II egy tó Tuzla területén, amely a helyi szabadidős kínálat szerves része.", "category": "natural", "coords": [18.679463, 44.539543]}, {"name": "Vodovod - rezervoar ŠI SELO", "text": "Vodovod - rezervoar ŠI SELO egy vízellátó létesítmény Tuzla területén.", "category": "natural", "coords": [18.687301, 44.523111]}, {"name": "Pumpna stanica Đape", "text": "Pumpna stanica Đape egy szivattyúállomás Tuzla vízhálózatához.", "category": "natural", "coords": [18.665729, 44.552424]}, {"name": "ŠIBER VENTIL", "text": "ŠIBER VENTIL egy műszaki vízügyi létesítmény Tuzla területén.", "category": "natural", "coords": [18.696338, 44.541822]}, {"name": "Rezervoar Gradina", "text": "Rezervoar Gradina egy víztározó Tuzla területén a helyi ellátáshoz.", "category": "natural", "coords": [18.691941, 44.53582]}, {"name": "Pumpna stanica Kojšino", "text": "Pumpna stanica Kojšino egy vízügyi infrastruktúra-létesítmény Tuzla területén.", "category": "natural", "coords": [18.673873, 44.543613]}, {"name": "Pumpna stanica Cerik", "text": "Pumpna stanica Cerik egy vízszállító létesítmény Tuzla területén.", "category": "natural", "coords": [18.6071, 44.50897]}, {"name": "Pumpna stanica Orašje", "text": "Pumpna stanica Orašje Tuzla műszaki vízügyi infrastruktúrájának része.", "category": "natural", "coords": [18.684539, 44.519418]}, {"name": "VENTIL (Ozraka)", "text": "VENTIL (Ozraka) egy légtelenítő szelep Tuzla vízhálózatában.", "category": "natural", "coords": [18.661411, 44.551546]}, {"name": "HIDRANT (Kraj cjevovoda)", "text": "HIDRANT (Kraj cjevovoda) egy tűzcsap egy vízvezeték végén Tuzla területén.", "category": "natural", "coords": [18.658711, 44.556202]}, {"name": "HIDRANT I ŠIBER", "text": "HIDRANT I ŠIBER egy kombinált vízszerelvény Tuzla területén.", "category": "natural", "coords": [18.662164, 44.549176]}, {"name": "Rezervoar Mosnik", "text": "Rezervoar Mosnik egy víztároló Tuzla ellátásához.", "category": "natural", "coords": [18.668613, 44.52877]}, {"name": "ŠIBER", "text": "ŠIBER egy elzárószelep Tuzla helyi vízhálózatában.", "category": "natural", "coords": [18.645159, 44.524164]}, {"name": "Pumpna stanica Kužići", "text": "Pumpna stanica Kužići egy vízellátási műszaki létesítmény Tuzla területén.", "category": "natural", "coords": [18.643187, 44.524544]}, {"name": "Pumpna stanica Dragodol-Batva", "text": "Pumpna stanica Dragodol-Batva egy nyomásszabályozó állomás Tuzla vízhálózatában.", "category": "natural", "coords": [18.661746, 44.543909]}, {"name": "Kraj cjevi F75", "text": "Kraj cjevi Φ75 egy vízvezeték vége Tuzla területén.", "category": "natural", "coords": [18.612753, 44.513291]}, {"name": "MULJNI ŠIBER", "text": "MULJNI ŠIBER egy leeresztő szelep Tuzla vízügyi infrastruktúrájában.", "category": "natural", "coords": [18.613626, 44.500738]}, {"name": "Rezervoar Trnovac", "text": "Rezervoar Trnovac egy víztartály az ellátás biztosítására Tuzla területén.", "category": "natural", "coords": [18.688419, 44.539209]}, {"name": "Rezervoar Šikara", "text": "A Rezervoar Šikara egy tó Tuzlában, amely ideális egy csendes sétához vagy a táj élvezetéhez.", "category": "natural", "coords": [18.590364, 44.551702]}, {"name": "Pumpna stanica Šikara", "text": "A Pumpna stanica Šikara egy tó Tuzlában, amely csendes helyet kínál a sétához és a kikapcsolódáshoz.", "category": "natural", "coords": [18.600909, 44.554081]}, {"name": "Rezervoar Husino", "text": "A Rezervoar Husino egy tó Tuzlában, amely tökéletes a helyi táj élvezetéhez és egy sétához.", "category": "natural", "coords": [18.624643, 44.516177]}, {"name": "Šiber za Demiroviće", "text": "A Šiber za Demiroviće egy tó Tuzlában, amely semleges és békés környezetet biztosít a látogatóknak.", "category": "natural", "coords": [18.613223, 44.490232]}], "ro": [{"name": "Narodno pozorište Tuzla", "text": "Narodno pozorište Tuzla este un teatru local din Tuzla, care găzduiește diverse evenimente de artele spectacolului.", "category": "cultural", "coords": [18.677301, 44.536572]}, {"name": "Dom Književnosti Tuzla", "text": "Dom Književnosti Tuzla este un muzeu cultural din Tuzla, axat pe istoria literară.", "category": "museum", "coords": [18.676468, 44.538246]}, {"name": "Panonska jezera", "text": "Pannonica este un parc acvatic popular din Tuzla, care oferă facilități de recreere acvatică.", "category": "family", "coords": [18.680806, 44.53949]}, {"name": "Geološki muzej", "text": "Geološki muzej este un muzeu din Tuzla care prezintă colecții și expoziții geologice.", "category": "museum", "coords": [18.682966, 44.539771]}, {"name": "Muzej bosanskog jezika", "text": "Muzej bosanskog jezika este un muzeu din Tuzla dedicat istoriei și conservării limbii bosniace.", "category": "museum", "coords": [18.675523, 44.538591]}, {"name": "Ilinčica", "text": "Ilinčica este un vârf natural situat în apropiere de Tuzla, oferind posibilități de recreere pitorești în aer liber.", "category": "natural", "coords": [18.674544, 44.524915]}, {"name": "Centralni park", "text": "Centralni park este un parc public principal din Tuzla, oferind un spațiu verde pentru relaxare.", "category": "park", "coords": [18.678599, 44.538293]}, {"name": "Park Cipelići", "text": "Park Cipelići este o zonă de parc urban situată în orașul Tuzla.", "category": "park", "coords": [18.68005, 44.535428]}, {"name": "Sojeničko naselje", "text": "Sojeničko naselje este o structură de monument istoric situată în Tuzla.", "category": "historical", "coords": [18.681909, 44.538531]}, {"name": "Međunarodna galerija portreta", "text": "Međunarodna galerija portreta este o galerie de artă din Tuzla care expune o colecție de portrete internaționale.", "category": "museum", "coords": [18.6871, 44.535937]}, {"name": "Pivara Tuzla", "text": "Pivara Tuzla dispune de un punct de observație local care oferă priveliști asupra zonei înconjurătoare.", "category": "natural", "coords": [18.68937, 44.535162]}, {"name": "Vidikovac Pivara", "text": "Vidikovac Pivara servește ca un punct de observație panoramic notabil în Tuzla.", "category": "natural", "coords": [18.689853, 44.536146]}, {"name": "Atelje Ismet Mujezinović", "text": "Atelje Ismet Mujezinović este un centru de arte din Tuzla care încurajează expresia artistică regională.", "category": "cultural", "coords": [18.681062, 44.537133]}, {"name": "Nura", "text": "Nura este o atracție turistică localizată situată în Tuzla.", "category": "landmark", "coords": [18.652883, 44.52664]}, {"name": "Barutana", "text": "Barutana cuprinde ruine istorice situate în limitele orașului Tuzla.", "category": "historical", "coords": [18.691076, 44.536849]}, {"name": "Tuzlanska Koza", "text": "Tuzlanska Koza este o atracție în aer liber și un punct de reper aflat în Tuzla.", "category": "landmark", "coords": [18.687704, 44.531865]}, {"name": "Slani Vodopadi Panonskih Jezera", "text": "Slani Vodopadi Panonskih Jezera este un element atractiv legat de lacurile sărate din Tuzla.", "category": "landmark", "coords": [18.681864, 44.540427]}, {"name": "Bunker", "text": "Buncărul din Tuzla este format din ruine istorice ale fostei infrastructuri militare.", "category": "historical", "coords": [18.694079, 44.535219]}, {"name": "Kapija Behram-begove medrese", "text": "Kapija Behram-begove medrese este un monument istoric reprezentând poarta unei vechi instituții de învățământ din Tuzla.", "category": "historical", "coords": [18.673078, 44.540621]}, {"name": "Vidikovac Kicelj", "text": "Vidikovac Kicelj este un punct de observație la înălțime care oferă vederi panoramice asupra Tuzlei.", "category": "natural", "coords": [18.671488, 44.544753]}, {"name": "Grad Tuzla", "text": "Grad Tuzla este principala primărie și centrul administrativ al orașului Tuzla.", "category": "historical", "coords": [18.687875, 44.532766]}, {"name": "Gazi Turali-begova (Poljska) džamija", "text": "Gazi Turali-begova džamija este un proeminent lăcaș de cult islamic istoric din Tuzla.", "category": "religious", "coords": [18.679373, 44.536371]}, {"name": "Džamija Behram-begove medrese", "text": "Džamija Behram-begove medrese este un important lăcaș de cult atașat unei instituții de învățământ istoric din Tuzla.", "category": "religious", "coords": [18.6542, 44.538388]}, {"name": "Hram Uspenja Presvete Bogorodice", "text": "Hram Uspenja Presvete Bogorodice este o catedrală ortodoxă estică și un lăcaș de cult semnificativ din Tuzla.", "category": "religious", "coords": [18.679931, 44.537938]}, {"name": "Džindijska (Huseina Čauša) džamija", "text": "Moscheea Džindijska (Huseina Čauša) este un lăcaș de cult recunoscut din Tuzla.", "category": "religious", "coords": [18.678262, 44.541164]}, {"name": "Saint George", "text": "Saint George este o biserică recunoscută și un lăcaș de cult situat în Tuzla.", "category": "religious", "coords": [18.688972, 44.538162]}, {"name": "Panonsko jezero III", "text": "Panonsko jezero III este un lac sărat artificial din Tuzla, utilizat pentru recreere.", "category": "natural", "coords": [18.677834, 44.540085]}, {"name": "Panonsko jezero II", "text": "Panonsko jezero II este un lac din Tuzla, fiind parte integrantă a ofertei locale de agrement.", "category": "natural", "coords": [18.679463, 44.539543]}, {"name": "Vodovod - rezervoar ŠI SELO", "text": "Vodovod - rezervoar ŠI SELO este o instalație de alimentare cu apă din Tuzla.", "category": "natural", "coords": [18.687301, 44.523111]}, {"name": "Pumpna stanica Đape", "text": "Pumpna stanica Đape este o stație de pompare pentru sistemul de apă din Tuzla.", "category": "natural", "coords": [18.665729, 44.552424]}, {"name": "ŠIBER VENTIL", "text": "ŠIBER VENTIL este o instalație tehnică de apă din Tuzla.", "category": "natural", "coords": [18.696338, 44.541822]}, {"name": "Rezervoar Gradina", "text": "Rezervoar Gradina este un rezervor de apă din Tuzla pentru aprovizionarea locală.", "category": "natural", "coords": [18.691941, 44.53582]}, {"name": "Pumpna stanica Kojšino", "text": "Pumpna stanica Kojšino este o unitate de infrastructură de apă din Tuzla.", "category": "natural", "coords": [18.673873, 44.543613]}, {"name": "Pumpna stanica Cerik", "text": "Pumpna stanica Cerik este o unitate de transport al apei din Tuzla.", "category": "natural", "coords": [18.6071, 44.50897]}, {"name": "Pumpna stanica Orašje", "text": "Pumpna stanica Orašje face parte din infrastructura tehnică de apă a orașului Tuzla.", "category": "natural", "coords": [18.684539, 44.519418]}, {"name": "VENTIL (Ozraka)", "text": "VENTIL (Ozraka) este o supapă de aerisire în rețeaua de apă din Tuzla.", "category": "natural", "coords": [18.661411, 44.551546]}, {"name": "HIDRANT (Kraj cjevovoda)", "text": "HIDRANT (Kraj cjevovoda) este un hidrant la capătul unei conducte de apă din Tuzla.", "category": "natural", "coords": [18.658711, 44.556202]}, {"name": "HIDRANT I ŠIBER", "text": "HIDRANT I ŠIBER este o armătură combinată de apă din Tuzla.", "category": "natural", "coords": [18.662164, 44.549176]}, {"name": "Rezervoar Mosnik", "text": "Rezervoar Mosnik este un spațiu de stocare a apei pentru aprovizionarea în Tuzla.", "category": "natural", "coords": [18.668613, 44.52877]}, {"name": "ŠIBER", "text": "ŠIBER este o valvă de închidere în sistemul local de apă din Tuzla.", "category": "natural", "coords": [18.645159, 44.524164]}, {"name": "Pumpna stanica Kužići", "text": "Pumpna stanica Kužići este o instalație tehnică de alimentare cu apă din Tuzla.", "category": "natural", "coords": [18.643187, 44.524544]}, {"name": "Pumpna stanica Dragodol-Batva", "text": "Pumpna stanica Dragodol-Batva este o stație de reglare a presiunii în rețeaua de apă din Tuzla.", "category": "natural", "coords": [18.661746, 44.543909]}, {"name": "Kraj cjevi F75", "text": "Kraj cjevi Φ75 este capătul unei conducte de apă din Tuzla.", "category": "natural", "coords": [18.612753, 44.513291]}, {"name": "MULJNI ŠIBER", "text": "MULJNI ŠIBER este o valvă de golire în infrastructura de apă din Tuzla.", "category": "natural", "coords": [18.613626, 44.500738]}, {"name": "Rezervoar Trnovac", "text": "Rezervoar Trnovac este un rezervor de apă pentru asigurarea aprovizionării în Tuzla.", "category": "natural", "coords": [18.688419, 44.539209]}, {"name": "Rezervoar Šikara", "text": "Rezervoar Šikara este un lac în Tuzla, ideal pentru o plimbare liniștită sau pentru a admira peisajul.", "category": "natural", "coords": [18.590364, 44.551702]}, {"name": "Pumpna stanica Šikara", "text": "Pumpna stanica Šikara este un lac în Tuzla, oferind un loc liniștit pentru plimbare și relaxare.", "category": "natural", "coords": [18.600909, 44.554081]}, {"name": "Rezervoar Husino", "text": "Rezervoar Husino este un lac în Tuzla, perfect pentru a te bucura de peisajul local și de o plimbare.", "category": "natural", "coords": [18.624643, 44.516177]}, {"name": "Šiber za Demiroviće", "text": "Šiber za Demiroviće este un lac în Tuzla, oferind un mediu neutru și liniștit pentru vizitatori.", "category": "natural", "coords": [18.613223, 44.490232]}], "en": [{"name": "Narodno pozorište Tuzla", "text": "Narodno pozorište Tuzla is a local theatre in Tuzla hosting various performing arts events.", "category": "cultural", "coords": [18.677301, 44.536572]}, {"name": "Dom Književnosti Tuzla", "text": "Dom Književnosti Tuzla is a cultural museum in Tuzla focusing on literary history.", "category": "museum", "coords": [18.676468, 44.538246]}, {"name": "Pannonica", "text": "Pannonica is a popular water park facility in Tuzla offering aquatic recreation.", "category": "family", "coords": [18.680806, 44.53949]}, {"name": "Geološki muzej", "text": "Geološki muzej is a museum in Tuzla featuring geological collections and displays.", "category": "museum", "coords": [18.682966, 44.539771]}, {"name": "Muzej bosanskog jezika", "text": "Muzej bosanskog jezika is a museum in Tuzla dedicated to the history and preservation of the Bosnian language.", "category": "museum", "coords": [18.675523, 44.538591]}, {"name": "Ilinčica", "text": "Ilinčica is a natural peak located near Tuzla, providing scenic outdoor recreation.", "category": "natural", "coords": [18.674544, 44.524915]}, {"name": "Centralni park", "text": "Centralni park is a main public park in Tuzla providing a green space for relaxation.", "category": "park", "coords": [18.678599, 44.538293]}, {"name": "Park Cipelići", "text": "Park Cipelići is an urban park area situated within the city of Tuzla.", "category": "park", "coords": [18.68005, 44.535428]}, {"name": "Sojeničko naselje", "text": "Sojeničko naselje is a historical monument structure set in Tuzla.", "category": "historical", "coords": [18.681909, 44.538531]}, {"name": "Međunarodna galerija portreta", "text": "Međunarodna galerija portreta is an art gallery in Tuzla displaying a collection of international portraits.", "category": "museum", "coords": [18.6871, 44.535937]}, {"name": "Pivara Tuzla", "text": "Pivara Tuzla features a local viewpoint that offers sights over the surrounding area.", "category": "natural", "coords": [18.68937, 44.535162]}, {"name": "Vidikovac Pivara", "text": "Vidikovac Pivara serves as a notable scenic viewpoint in Tuzla.", "category": "natural", "coords": [18.689853, 44.536146]}, {"name": "Atelje Ismet Mujezinović", "text": "Atelje Ismet Mujezinović is an arts centre in Tuzla fostering regional artistic expression.", "category": "cultural", "coords": [18.681062, 44.537133]}, {"name": "Nura", "text": "Nura is a localized tourist attraction situated in Tuzla.", "category": "landmark", "coords": [18.652883, 44.52664]}, {"name": "Barutana", "text": "Barutana comprises historical ruins located within the bounds of Tuzla.", "category": "historical", "coords": [18.691076, 44.536849]}, {"name": "Tuzlanska Koza", "text": "Tuzlanska Koza is an outdoor attraction and landmark found in Tuzla.", "category": "landmark", "coords": [18.687704, 44.531865]}, {"name": "Slani Vodopadi Panonskih Jezera", "text": "Slani Vodopadi Panonskih Jezera is an attractive feature connected to the salt lakes of Tuzla.", "category": "landmark", "coords": [18.681864, 44.540427]}, {"name": "Bunker", "text": "The Bunker in Tuzla consists of historical ruins from past military infrastructure.", "category": "historical", "coords": [18.694079, 44.535219]}, {"name": "Kapija Behram-begove medrese", "text": "Kapija Behram-begove medrese is a historical monument representing the gate of an old educational institution in Tuzla.", "category": "historical", "coords": [18.673078, 44.540621]}, {"name": "Vidikovac Kicelj", "text": "Vidikovac Kicelj is an elevated viewpoint that provides sweeping views of Tuzla.", "category": "natural", "coords": [18.671488, 44.544753]}, {"name": "Grad Tuzla", "text": "Grad Tuzla is the principal townhall and administrative center for the city of Tuzla.", "category": "historical", "coords": [18.687875, 44.532766]}, {"name": "Gazi Turali-begova (Poljska) džamija", "text": "Gazi Turali-begova džamija is a prominent historical Islamic place of worship in Tuzla.", "category": "religious", "coords": [18.679373, 44.536371]}, {"name": "Džamija Behram-begove medrese", "text": "Džamija Behram-begove medrese is an important place of worship attached to a historical educational institution in Tuzla.", "category": "religious", "coords": [18.6542, 44.538388]}, {"name": "Hram Uspenja Presvete Bogorodice", "text": "Hram Uspenja Presvete Bogorodice is an Eastern Orthodox cathedral and significant place of worship in Tuzla.", "category": "religious", "coords": [18.679931, 44.537938]}, {"name": "Džindijska (Huseina Čauša) džamija", "text": "The Džindijska (Huseina Čauša) Mosque is a well-known place of worship located in Tuzla.", "category": "religious", "coords": [18.678262, 44.541164]}, {"name": "Saint George", "text": "Saint George is a well-known orthodox church and place of worship situated in Tuzla.", "category": "religious", "coords": [18.688972, 44.538162]}, {"name": "Panonsko jezero III", "text": "Panonsko jezero III is an artificial salt lake in Tuzla used for recreation.", "category": "natural", "coords": [18.677834, 44.540085]}, {"name": "Panonsko jezero II", "text": "Panonsko jezero II is a lake in Tuzla and an integral part of the local leisure offer.", "category": "natural", "coords": [18.679463, 44.539543]}, {"name": "Vodovod - rezervoar ŠI SELO", "text": "Vodovod - rezervoar ŠI SELO is a water supply facility in Tuzla.", "category": "natural", "coords": [18.687301, 44.523111]}, {"name": "Pumpna stanica Đape", "text": "Pumpna stanica Đape is a pumping station for the water system in Tuzla.", "category": "natural", "coords": [18.665729, 44.552424]}, {"name": "ŠIBER VENTIL", "text": "ŠIBER VENTIL is a technical water facility in Tuzla.", "category": "natural", "coords": [18.696338, 44.541822]}, {"name": "Rezervoar Gradina", "text": "Rezervoar Gradina is a water reservoir in Tuzla for local supply.", "category": "natural", "coords": [18.691941, 44.53582]}, {"name": "Pumpna stanica Kojšino", "text": "Pumpna stanica Kojšino is a water infrastructure facility in Tuzla.", "category": "natural", "coords": [18.673873, 44.543613]}, {"name": "Pumpna stanica Cerik", "text": "Pumpna stanica Cerik is a water transport facility in Tuzla.", "category": "natural", "coords": [18.6071, 44.50897]}, {"name": "Pumpna stanica Orašje", "text": "Pumpna stanica Orašje is part of the technical water infrastructure of Tuzla.", "category": "natural", "coords": [18.684539, 44.519418]}, {"name": "VENTIL (Ozraka)", "text": "VENTIL (Ozraka) is an air vent valve in the water network of Tuzla.", "category": "natural", "coords": [18.661411, 44.551546]}, {"name": "HIDRANT (Kraj cjevovoda)", "text": "HIDRANT (Kraj cjevovoda) is a hydrant at the end of a water pipeline in Tuzla.", "category": "natural", "coords": [18.658711, 44.556202]}, {"name": "HIDRANT I ŠIBER", "text": "HIDRANT I ŠIBER is a combined water fitting in Tuzla.", "category": "natural", "coords": [18.662164, 44.549176]}, {"name": "Rezervoar Mosnik", "text": "Rezervoar Mosnik is a water storage for supply in Tuzla.", "category": "natural", "coords": [18.668613, 44.52877]}, {"name": "ŠIBER", "text": "ŠIBER is a shut-off valve in the local water system of Tuzla.", "category": "natural", "coords": [18.645159, 44.524164]}, {"name": "Pumpna stanica Kužići", "text": "Pumpna stanica Kužići is a technical water supply facility in Tuzla.", "category": "natural", "coords": [18.643187, 44.524544]}, {"name": "Pumpna stanica Dragodol-Batva", "text": "Pumpna stanica Dragodol-Batva is a pressure regulation station in the water network of Tuzla.", "category": "natural", "coords": [18.661746, 44.543909]}, {"name": "Kraj cjevi F75", "text": "Kraj cjevi Φ75 is the end of a water pipe in Tuzla.", "category": "natural", "coords": [18.612753, 44.513291]}, {"name": "MULJNI ŠIBER", "text": "MULJNI ŠIBER is a drain valve in the water infrastructure of Tuzla.", "category": "natural", "coords": [18.613626, 44.500738]}, {"name": "Rezervoar Trnovac", "text": "Rezervoar Trnovac is a water tank to ensure supply in Tuzla.", "category": "natural", "coords": [18.688419, 44.539209]}, {"name": "Rezervoar Šikara", "text": "Rezervoar Šikara is a lake in Tuzla, ideal for a peaceful walk or enjoying the scenery.", "category": "natural", "coords": [18.590364, 44.551702]}, {"name": "Pumpna stanica Šikara", "text": "Pumpna stanica Šikara is a lake in Tuzla, offering a quiet spot for walking and relaxation.", "category": "natural", "coords": [18.600909, 44.554081]}, {"name": "Rezervoar Husino", "text": "Rezervoar Husino is a lake in Tuzla, perfect for enjoying the local scenery and a walk.", "category": "natural", "coords": [18.624643, 44.516177]}, {"name": "Šiber za Demiroviće", "text": "Šiber za Demiroviće is a lake in Tuzla, providing a neutral and peaceful environment for visitors.", "category": "natural", "coords": [18.613223, 44.490232]}]},
+    id: "ba-tuzla", "sights": {
+      "de": [
+            {
+                  "name": "Narodno pozorište Tuzla",
+                  "text": "Narodno pozorište Tuzla ist ein lokales Theater in Tuzla, das verschiedene Veranstaltungen für darstellende Künste ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.677301,
+                        44.536572
+                  ]
+            },
+            {
+                  "name": "Dom Književnosti Tuzla",
+                  "text": "Dom Književnosti Tuzla ist ein Kulturmuseum in Tuzla, das sich auf Literaturgeschichte konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        18.676468,
+                        44.538246
+                  ]
+            },
+            {
+                  "name": "Panonska jezera",
+                  "text": "Pannonica ist ein beliebter Wasserpark in Tuzla, der Freizeitmöglichkeiten im Wasser bietet.",
+                  "category": "family",
+                  "coords": [
+                        18.680806,
+                        44.53949
+                  ]
+            },
+            {
+                  "name": "Geološki muzej",
+                  "text": "Geološki muzej ist ein Museum in Tuzla mit geologischen Sammlungen und Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        18.682966,
+                        44.539771
+                  ]
+            },
+            {
+                  "name": "Muzej bosanskog jezika",
+                  "text": "Das Muzej bosanskog jezika ist ein Museum in Tuzla, das sich der Geschichte und dem Erhalt der bosnischen Sprache widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.675523,
+                        44.538591
+                  ]
+            },
+            {
+                  "name": "Ilinčica",
+                  "text": "Ilinčica ist ein natürlicher Gipfel in der Nähe von Tuzla, der malerische Erholung im Freien bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.674544,
+                        44.524915
+                  ]
+            },
+            {
+                  "name": "Centralni park",
+                  "text": "Der Centralni park ist ein zentraler öffentlicher Park in Tuzla, der eine Grünfläche zur Entspannung bietet.",
+                  "category": "park",
+                  "coords": [
+                        18.678599,
+                        44.538293
+                  ]
+            },
+            {
+                  "name": "Park Cipelići",
+                  "text": "Park Cipelići ist eine städtische Parkanlage in der Stadt Tuzla.",
+                  "category": "park",
+                  "coords": [
+                        18.68005,
+                        44.535428
+                  ]
+            },
+            {
+                  "name": "Sojeničko naselje",
+                  "text": "Sojeničko naselje ist ein historisches Denkmal in Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.681909,
+                        44.538531
+                  ]
+            },
+            {
+                  "name": "Međunarodna galerija portreta",
+                  "text": "Međunarodna galerija portreta ist eine Kunstgalerie in Tuzla, die eine Sammlung internationaler Porträts ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        18.6871,
+                        44.535937
+                  ]
+            },
+            {
+                  "name": "Pivara Tuzla",
+                  "text": "Pivara Tuzla verfügt über einen lokalen Aussichtspunkt, der Blicke auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.68937,
+                        44.535162
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pivara",
+                  "text": "Vidikovac Pivara ist ein bemerkenswerter Aussichtspunkt in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.689853,
+                        44.536146
+                  ]
+            },
+            {
+                  "name": "Atelje Ismet Mujezinović",
+                  "text": "Atelje Ismet Mujezinović ist ein Kunstzentrum in Tuzla, das den regionalen künstlerischen Ausdruck fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.681062,
+                        44.537133
+                  ]
+            },
+            {
+                  "name": "Nura",
+                  "text": "Nura ist eine lokale Touristenattraktion in Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.652883,
+                        44.52664
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Barutana besteht aus historischen Ruinen innerhalb der Grenzen von Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.691076,
+                        44.536849
+                  ]
+            },
+            {
+                  "name": "Tuzlanska Koza",
+                  "text": "Tuzlanska Koza ist eine Freiluftattraktion und ein Wahrzeichen in Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.687704,
+                        44.531865
+                  ]
+            },
+            {
+                  "name": "Slani Vodopadi Panonskih Jezera",
+                  "text": "Slani Vodopadi Panonskih Jezera ist eine attraktive Anlage in Verbindung mit den Salzseen von Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.681864,
+                        44.540427
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Der Bunker in Tuzla besteht aus historischen Ruinen einer ehemaligen militärischen Infrastruktur.",
+                  "category": "historical",
+                  "coords": [
+                        18.694079,
+                        44.535219
+                  ]
+            },
+            {
+                  "name": "Kapija Behram-begove medrese",
+                  "text": "Kapija Behram-begove medrese ist ein historisches Denkmal, das das Tor einer alten Bildungseinrichtung in Tuzla darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        18.673078,
+                        44.540621
+                  ]
+            },
+            {
+                  "name": "Vidikovac Kicelj",
+                  "text": "Vidikovac Kicelj ist ein erhöhter Aussichtspunkt, der weite Ausblicke auf Tuzla bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.671488,
+                        44.544753
+                  ]
+            },
+            {
+                  "name": "Grad Tuzla",
+                  "text": "Grad Tuzla ist das wichtigste Rathaus und Verwaltungszentrum der Stadt Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.687875,
+                        44.532766
+                  ]
+            },
+            {
+                  "name": "Gazi Turali-begova (Poljska) džamija",
+                  "text": "Gazi Turali-begova džamija ist eine herausragende historische islamische Kultstätte in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.679373,
+                        44.536371
+                  ]
+            },
+            {
+                  "name": "Džamija Behram-begove medrese",
+                  "text": "Džamija Behram-begove medrese ist eine wichtige Kultstätte, die an eine historische Bildungseinrichtung in Tuzla angegliedert ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.6542,
+                        44.538388
+                  ]
+            },
+            {
+                  "name": "Hram Uspenja Presvete Bogorodice",
+                  "text": "Hram Uspenja Presvete Bogorodice ist eine ostorthodoxe Kathedrale und eine bedeutende Kultstätte in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.679931,
+                        44.537938
+                  ]
+            },
+            {
+                  "name": "Džindijska (Huseina Čauša) džamija",
+                  "text": "Die Džindijska (Huseina Čauša) Moschee ist ein bekanntes Gotteshaus in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.678262,
+                        44.541164
+                  ]
+            },
+            {
+                  "name": "Saint George",
+                  "text": "Saint George ist eine anerkannte Kirche und ein Gotteshaus in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.688972,
+                        44.538162
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero III",
+                  "text": "Panonsko jezero III ist ein künstlicher Salzsee in Tuzla, der zur Erholung genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        18.677834,
+                        44.540085
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero II",
+                  "text": "Panonsko jezero II ist ein See in Tuzla, der ein fester Bestandteil des lokalen Freizeitangebots ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.679463,
+                        44.539543
+                  ]
+            },
+            {
+                  "name": "Vodovod - rezervoar ŠI SELO",
+                  "text": "Vodovod - rezervoar ŠI SELO ist eine Wasserversorgungsanlage in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.687301,
+                        44.523111
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Đape",
+                  "text": "Pumpna stanica Đape ist eine Pumpstation für das Wassersystem in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.665729,
+                        44.552424
+                  ]
+            },
+            {
+                  "name": "ŠIBER VENTIL",
+                  "text": "ŠIBER VENTIL ist eine technische Wasseranlage in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.696338,
+                        44.541822
+                  ]
+            },
+            {
+                  "name": "Rezervoar Gradina",
+                  "text": "Rezervoar Gradina ist ein Wasserreservoir in Tuzla zur lokalen Versorgung.",
+                  "category": "natural",
+                  "coords": [
+                        18.691941,
+                        44.53582
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kojšino",
+                  "text": "Pumpna stanica Kojšino ist eine Infrastruktureinrichtung für Wasser in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.673873,
+                        44.543613
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Pumpna stanica Cerik ist eine Einrichtung zur Wasserbeförderung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Orašje",
+                  "text": "Pumpna stanica Orašje ist Teil der technischen Wasserinfrastruktur von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.684539,
+                        44.519418
+                  ]
+            },
+            {
+                  "name": "VENTIL (Ozraka)",
+                  "text": "VENTIL (Ozraka) ist ein Entlüftungsventil im Wassernetz von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661411,
+                        44.551546
+                  ]
+            },
+            {
+                  "name": "HIDRANT (Kraj cjevovoda)",
+                  "text": "HIDRANT (Kraj cjevovoda) ist ein Hydrant am Ende einer Wasserleitung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.658711,
+                        44.556202
+                  ]
+            },
+            {
+                  "name": "HIDRANT I ŠIBER",
+                  "text": "HIDRANT I ŠIBER ist eine kombinierte Wasserarmatur in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.662164,
+                        44.549176
+                  ]
+            },
+            {
+                  "name": "Rezervoar Mosnik",
+                  "text": "Rezervoar Mosnik ist ein Wasserspeicher für die Versorgung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.668613,
+                        44.52877
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER ist ein Absperrschieber im lokalen Wassersystem von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.645159,
+                        44.524164
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kužići",
+                  "text": "Pumpna stanica Kužići ist eine technische Anlage der Wasserversorgung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.643187,
+                        44.524544
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Dragodol-Batva",
+                  "text": "Pumpna stanica Dragodol-Batva ist eine Station zur Druckregulierung im Wassernetz von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661746,
+                        44.543909
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi F75",
+                  "text": "Kraj cjevi Φ75 ist das Ende einer Wasserleitung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER ist ein Entleerungsschieber in der Wasserinfrastruktur von Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Rezervoar Trnovac",
+                  "text": "Rezervoar Trnovac ist ein Wasserbehälter zur Sicherung der Versorgung in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.688419,
+                        44.539209
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "Pumpna stanica Šikara ist ein See in Tuzla, der einen ruhigen Ort zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "Der Rezervoar Husino ist ein See in Tuzla, ideal um die lokale Landschaft und einen Spaziergang zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Šiber za Demiroviće ist ein See in Tuzla, der Besuchern eine neutrale und friedliche Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Narodno pozorište Tuzla",
+                  "text": "A Narodno pozorište Tuzla egy helyi színház Tuzlában, amely különféle előadó-művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.677301,
+                        44.536572
+                  ]
+            },
+            {
+                  "name": "Dom Književnosti Tuzla",
+                  "text": "A Dom Književnosti Tuzla egy kulturális múzeum Tuzlában, amely az irodalomtörténetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        18.676468,
+                        44.538246
+                  ]
+            },
+            {
+                  "name": "Panonska jezera",
+                  "text": "A Pannonica egy népszerű vízipark létesítmény Tuzlában, amely vízi kikapcsolódást kínál.",
+                  "category": "family",
+                  "coords": [
+                        18.680806,
+                        44.53949
+                  ]
+            },
+            {
+                  "name": "Geološki muzej",
+                  "text": "A Geološki muzej egy múzeum Tuzlában, amely geológiai gyűjteményeket és kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.682966,
+                        44.539771
+                  ]
+            },
+            {
+                  "name": "Muzej bosanskog jezika",
+                  "text": "A Muzej bosanskog jezika egy múzeum Tuzlában, amelyet a bosnyák nyelv történetének és megőrzésének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        18.675523,
+                        44.538591
+                  ]
+            },
+            {
+                  "name": "Ilinčica",
+                  "text": "Az Ilinčica egy természetes hegycsúcs Tuzla közelében, amely festői szabadtéri kikapcsolódást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        18.674544,
+                        44.524915
+                  ]
+            },
+            {
+                  "name": "Centralni park",
+                  "text": "A Centralni park egy központi nyilvános park Tuzlában, amely zöldterületet biztosít a pihenésre.",
+                  "category": "park",
+                  "coords": [
+                        18.678599,
+                        44.538293
+                  ]
+            },
+            {
+                  "name": "Park Cipelići",
+                  "text": "A Park Cipelići egy városi parkterület, amely Tuzla városán belül található.",
+                  "category": "park",
+                  "coords": [
+                        18.68005,
+                        44.535428
+                  ]
+            },
+            {
+                  "name": "Sojeničko naselje",
+                  "text": "A Sojeničko naselje egy történelmi műemlék Tuzlában.",
+                  "category": "historical",
+                  "coords": [
+                        18.681909,
+                        44.538531
+                  ]
+            },
+            {
+                  "name": "Međunarodna galerija portreta",
+                  "text": "A Međunarodna galerija portreta egy művészeti galéria Tuzlában, amely nemzetközi portrék gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.6871,
+                        44.535937
+                  ]
+            },
+            {
+                  "name": "Pivara Tuzla",
+                  "text": "A Pivara Tuzla egy helyi kilátóval rendelkezik, amely kilátást nyújt a környező területre.",
+                  "category": "natural",
+                  "coords": [
+                        18.68937,
+                        44.535162
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pivara",
+                  "text": "A Vidikovac Pivara egy figyelemre méltó festői kilátó Tuzlában.",
+                  "category": "natural",
+                  "coords": [
+                        18.689853,
+                        44.536146
+                  ]
+            },
+            {
+                  "name": "Atelje Ismet Mujezinović",
+                  "text": "Az Atelje Ismet Mujezinović egy művészeti központ Tuzlában, amely a regionális művészeti kifejezést támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        18.681062,
+                        44.537133
+                  ]
+            },
+            {
+                  "name": "Nura",
+                  "text": "A Nura egy helyi turisztikai látványosság Tuzlában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.652883,
+                        44.52664
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "A Barutana történelmi romokból áll Tuzla határain belül.",
+                  "category": "historical",
+                  "coords": [
+                        18.691076,
+                        44.536849
+                  ]
+            },
+            {
+                  "name": "Tuzlanska Koza",
+                  "text": "A Tuzlanska Koza egy szabadtéri látványosság és nevezetesség Tuzlában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.687704,
+                        44.531865
+                  ]
+            },
+            {
+                  "name": "Slani Vodopadi Panonskih Jezera",
+                  "text": "A Slani Vodopadi Panonskih Jezera egy vonzó látványosság a tuzlai sós tavakhoz kapcsolódóan.",
+                  "category": "landmark",
+                  "coords": [
+                        18.681864,
+                        44.540427
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "A tuzlai Bunker a múltbeli katonai infrastruktúra történelmi romjaiból áll.",
+                  "category": "historical",
+                  "coords": [
+                        18.694079,
+                        44.535219
+                  ]
+            },
+            {
+                  "name": "Kapija Behram-begove medrese",
+                  "text": "A Kapija Behram-begove medrese egy történelmi műemlék, amely egy régi tuzlai oktatási intézmény kapuját ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        18.673078,
+                        44.540621
+                  ]
+            },
+            {
+                  "name": "Vidikovac Kicelj",
+                  "text": "A Vidikovac Kicelj egy magaslati kilátó, amely panorámás kilátást nyújt Tuzlára.",
+                  "category": "natural",
+                  "coords": [
+                        18.671488,
+                        44.544753
+                  ]
+            },
+            {
+                  "name": "Grad Tuzla",
+                  "text": "A Grad Tuzla a város fő városházája és közigazgatási központja Tuzlában.",
+                  "category": "historical",
+                  "coords": [
+                        18.687875,
+                        44.532766
+                  ]
+            },
+            {
+                  "name": "Gazi Turali-begova (Poljska) džamija",
+                  "text": "A Gazi Turali-begova džamija egy kiemelkedő történelmi iszlám istentiszteleti hely Tuzlában.",
+                  "category": "religious",
+                  "coords": [
+                        18.679373,
+                        44.536371
+                  ]
+            },
+            {
+                  "name": "Džamija Behram-begove medrese",
+                  "text": "A Džamija Behram-begove medrese egy fontos istentiszteleti hely, amely egy történelmi oktatási intézményhez kapcsolódik Tuzlában.",
+                  "category": "religious",
+                  "coords": [
+                        18.6542,
+                        44.538388
+                  ]
+            },
+            {
+                  "name": "Hram Uspenja Presvete Bogorodice",
+                  "text": "A Hram Uspenja Presvete Bogorodice egy keleti ortodox katedrális és jelentős istentiszteleti hely Tuzlában.",
+                  "category": "religious",
+                  "coords": [
+                        18.679931,
+                        44.537938
+                  ]
+            },
+            {
+                  "name": "Džindijska (Huseina Čauša) džamija",
+                  "text": "A Džindijska (Huseina Čauša) mecset egy ismert istentiszteleti hely Tuzlában.",
+                  "category": "religious",
+                  "coords": [
+                        18.678262,
+                        44.541164
+                  ]
+            },
+            {
+                  "name": "Saint George",
+                  "text": "A Saint George egy ismert templom és istentiszteleti hely Tuzlában.",
+                  "category": "religious",
+                  "coords": [
+                        18.688972,
+                        44.538162
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero III",
+                  "text": "Panonsko jezero III egy mesterséges sós tó Tuzla területén, amelyet kikapcsolódásra használnak.",
+                  "category": "natural",
+                  "coords": [
+                        18.677834,
+                        44.540085
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero II",
+                  "text": "Panonsko jezero II egy tó Tuzla területén, amely a helyi szabadidős kínálat szerves része.",
+                  "category": "natural",
+                  "coords": [
+                        18.679463,
+                        44.539543
+                  ]
+            },
+            {
+                  "name": "Vodovod - rezervoar ŠI SELO",
+                  "text": "Vodovod - rezervoar ŠI SELO egy vízellátó létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.687301,
+                        44.523111
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Đape",
+                  "text": "Pumpna stanica Đape egy szivattyúállomás Tuzla vízhálózatához.",
+                  "category": "natural",
+                  "coords": [
+                        18.665729,
+                        44.552424
+                  ]
+            },
+            {
+                  "name": "ŠIBER VENTIL",
+                  "text": "ŠIBER VENTIL egy műszaki vízügyi létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.696338,
+                        44.541822
+                  ]
+            },
+            {
+                  "name": "Rezervoar Gradina",
+                  "text": "Rezervoar Gradina egy víztározó Tuzla területén a helyi ellátáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.691941,
+                        44.53582
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kojšino",
+                  "text": "Pumpna stanica Kojšino egy vízügyi infrastruktúra-létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.673873,
+                        44.543613
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Pumpna stanica Cerik egy vízszállító létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Orašje",
+                  "text": "Pumpna stanica Orašje Tuzla műszaki vízügyi infrastruktúrájának része.",
+                  "category": "natural",
+                  "coords": [
+                        18.684539,
+                        44.519418
+                  ]
+            },
+            {
+                  "name": "VENTIL (Ozraka)",
+                  "text": "VENTIL (Ozraka) egy légtelenítő szelep Tuzla vízhálózatában.",
+                  "category": "natural",
+                  "coords": [
+                        18.661411,
+                        44.551546
+                  ]
+            },
+            {
+                  "name": "HIDRANT (Kraj cjevovoda)",
+                  "text": "HIDRANT (Kraj cjevovoda) egy tűzcsap egy vízvezeték végén Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.658711,
+                        44.556202
+                  ]
+            },
+            {
+                  "name": "HIDRANT I ŠIBER",
+                  "text": "HIDRANT I ŠIBER egy kombinált vízszerelvény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.662164,
+                        44.549176
+                  ]
+            },
+            {
+                  "name": "Rezervoar Mosnik",
+                  "text": "Rezervoar Mosnik egy víztároló Tuzla ellátásához.",
+                  "category": "natural",
+                  "coords": [
+                        18.668613,
+                        44.52877
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER egy elzárószelep Tuzla helyi vízhálózatában.",
+                  "category": "natural",
+                  "coords": [
+                        18.645159,
+                        44.524164
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kužići",
+                  "text": "Pumpna stanica Kužići egy vízellátási műszaki létesítmény Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.643187,
+                        44.524544
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Dragodol-Batva",
+                  "text": "Pumpna stanica Dragodol-Batva egy nyomásszabályozó állomás Tuzla vízhálózatában.",
+                  "category": "natural",
+                  "coords": [
+                        18.661746,
+                        44.543909
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi F75",
+                  "text": "Kraj cjevi Φ75 egy vízvezeték vége Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER egy leeresztő szelep Tuzla vízügyi infrastruktúrájában.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Rezervoar Trnovac",
+                  "text": "Rezervoar Trnovac egy víztartály az ellátás biztosítására Tuzla területén.",
+                  "category": "natural",
+                  "coords": [
+                        18.688419,
+                        44.539209
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "A Pumpna stanica Šikara egy tó Tuzlában, amely csendes helyet kínál a sétához és a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "A Rezervoar Husino egy tó Tuzlában, amely tökéletes a helyi táj élvezetéhez és egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "A Šiber za Demiroviće egy tó Tuzlában, amely semleges és békés környezetet biztosít a látogatóknak.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Narodno pozorište Tuzla",
+                  "text": "Narodno pozorište Tuzla este un teatru local din Tuzla, care găzduiește diverse evenimente de artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        18.677301,
+                        44.536572
+                  ]
+            },
+            {
+                  "name": "Dom Književnosti Tuzla",
+                  "text": "Dom Književnosti Tuzla este un muzeu cultural din Tuzla, axat pe istoria literară.",
+                  "category": "museum",
+                  "coords": [
+                        18.676468,
+                        44.538246
+                  ]
+            },
+            {
+                  "name": "Panonska jezera",
+                  "text": "Pannonica este un parc acvatic popular din Tuzla, care oferă facilități de recreere acvatică.",
+                  "category": "family",
+                  "coords": [
+                        18.680806,
+                        44.53949
+                  ]
+            },
+            {
+                  "name": "Geološki muzej",
+                  "text": "Geološki muzej este un muzeu din Tuzla care prezintă colecții și expoziții geologice.",
+                  "category": "museum",
+                  "coords": [
+                        18.682966,
+                        44.539771
+                  ]
+            },
+            {
+                  "name": "Muzej bosanskog jezika",
+                  "text": "Muzej bosanskog jezika este un muzeu din Tuzla dedicat istoriei și conservării limbii bosniace.",
+                  "category": "museum",
+                  "coords": [
+                        18.675523,
+                        44.538591
+                  ]
+            },
+            {
+                  "name": "Ilinčica",
+                  "text": "Ilinčica este un vârf natural situat în apropiere de Tuzla, oferind posibilități de recreere pitorești în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        18.674544,
+                        44.524915
+                  ]
+            },
+            {
+                  "name": "Centralni park",
+                  "text": "Centralni park este un parc public principal din Tuzla, oferind un spațiu verde pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        18.678599,
+                        44.538293
+                  ]
+            },
+            {
+                  "name": "Park Cipelići",
+                  "text": "Park Cipelići este o zonă de parc urban situată în orașul Tuzla.",
+                  "category": "park",
+                  "coords": [
+                        18.68005,
+                        44.535428
+                  ]
+            },
+            {
+                  "name": "Sojeničko naselje",
+                  "text": "Sojeničko naselje este o structură de monument istoric situată în Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.681909,
+                        44.538531
+                  ]
+            },
+            {
+                  "name": "Međunarodna galerija portreta",
+                  "text": "Međunarodna galerija portreta este o galerie de artă din Tuzla care expune o colecție de portrete internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        18.6871,
+                        44.535937
+                  ]
+            },
+            {
+                  "name": "Pivara Tuzla",
+                  "text": "Pivara Tuzla dispune de un punct de observație local care oferă priveliști asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        18.68937,
+                        44.535162
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pivara",
+                  "text": "Vidikovac Pivara servește ca un punct de observație panoramic notabil în Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.689853,
+                        44.536146
+                  ]
+            },
+            {
+                  "name": "Atelje Ismet Mujezinović",
+                  "text": "Atelje Ismet Mujezinović este un centru de arte din Tuzla care încurajează expresia artistică regională.",
+                  "category": "cultural",
+                  "coords": [
+                        18.681062,
+                        44.537133
+                  ]
+            },
+            {
+                  "name": "Nura",
+                  "text": "Nura este o atracție turistică localizată situată în Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.652883,
+                        44.52664
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Barutana cuprinde ruine istorice situate în limitele orașului Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.691076,
+                        44.536849
+                  ]
+            },
+            {
+                  "name": "Tuzlanska Koza",
+                  "text": "Tuzlanska Koza este o atracție în aer liber și un punct de reper aflat în Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.687704,
+                        44.531865
+                  ]
+            },
+            {
+                  "name": "Slani Vodopadi Panonskih Jezera",
+                  "text": "Slani Vodopadi Panonskih Jezera este un element atractiv legat de lacurile sărate din Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.681864,
+                        44.540427
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Buncărul din Tuzla este format din ruine istorice ale fostei infrastructuri militare.",
+                  "category": "historical",
+                  "coords": [
+                        18.694079,
+                        44.535219
+                  ]
+            },
+            {
+                  "name": "Kapija Behram-begove medrese",
+                  "text": "Kapija Behram-begove medrese este un monument istoric reprezentând poarta unei vechi instituții de învățământ din Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.673078,
+                        44.540621
+                  ]
+            },
+            {
+                  "name": "Vidikovac Kicelj",
+                  "text": "Vidikovac Kicelj este un punct de observație la înălțime care oferă vederi panoramice asupra Tuzlei.",
+                  "category": "natural",
+                  "coords": [
+                        18.671488,
+                        44.544753
+                  ]
+            },
+            {
+                  "name": "Grad Tuzla",
+                  "text": "Grad Tuzla este principala primărie și centrul administrativ al orașului Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.687875,
+                        44.532766
+                  ]
+            },
+            {
+                  "name": "Gazi Turali-begova (Poljska) džamija",
+                  "text": "Gazi Turali-begova džamija este un proeminent lăcaș de cult islamic istoric din Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.679373,
+                        44.536371
+                  ]
+            },
+            {
+                  "name": "Džamija Behram-begove medrese",
+                  "text": "Džamija Behram-begove medrese este un important lăcaș de cult atașat unei instituții de învățământ istoric din Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.6542,
+                        44.538388
+                  ]
+            },
+            {
+                  "name": "Hram Uspenja Presvete Bogorodice",
+                  "text": "Hram Uspenja Presvete Bogorodice este o catedrală ortodoxă estică și un lăcaș de cult semnificativ din Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.679931,
+                        44.537938
+                  ]
+            },
+            {
+                  "name": "Džindijska (Huseina Čauša) džamija",
+                  "text": "Moscheea Džindijska (Huseina Čauša) este un lăcaș de cult recunoscut din Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.678262,
+                        44.541164
+                  ]
+            },
+            {
+                  "name": "Saint George",
+                  "text": "Saint George este o biserică recunoscută și un lăcaș de cult situat în Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.688972,
+                        44.538162
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero III",
+                  "text": "Panonsko jezero III este un lac sărat artificial din Tuzla, utilizat pentru recreere.",
+                  "category": "natural",
+                  "coords": [
+                        18.677834,
+                        44.540085
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero II",
+                  "text": "Panonsko jezero II este un lac din Tuzla, fiind parte integrantă a ofertei locale de agrement.",
+                  "category": "natural",
+                  "coords": [
+                        18.679463,
+                        44.539543
+                  ]
+            },
+            {
+                  "name": "Vodovod - rezervoar ŠI SELO",
+                  "text": "Vodovod - rezervoar ŠI SELO este o instalație de alimentare cu apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.687301,
+                        44.523111
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Đape",
+                  "text": "Pumpna stanica Đape este o stație de pompare pentru sistemul de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.665729,
+                        44.552424
+                  ]
+            },
+            {
+                  "name": "ŠIBER VENTIL",
+                  "text": "ŠIBER VENTIL este o instalație tehnică de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.696338,
+                        44.541822
+                  ]
+            },
+            {
+                  "name": "Rezervoar Gradina",
+                  "text": "Rezervoar Gradina este un rezervor de apă din Tuzla pentru aprovizionarea locală.",
+                  "category": "natural",
+                  "coords": [
+                        18.691941,
+                        44.53582
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kojšino",
+                  "text": "Pumpna stanica Kojšino este o unitate de infrastructură de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.673873,
+                        44.543613
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Pumpna stanica Cerik este o unitate de transport al apei din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Orašje",
+                  "text": "Pumpna stanica Orašje face parte din infrastructura tehnică de apă a orașului Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.684539,
+                        44.519418
+                  ]
+            },
+            {
+                  "name": "VENTIL (Ozraka)",
+                  "text": "VENTIL (Ozraka) este o supapă de aerisire în rețeaua de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661411,
+                        44.551546
+                  ]
+            },
+            {
+                  "name": "HIDRANT (Kraj cjevovoda)",
+                  "text": "HIDRANT (Kraj cjevovoda) este un hidrant la capătul unei conducte de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.658711,
+                        44.556202
+                  ]
+            },
+            {
+                  "name": "HIDRANT I ŠIBER",
+                  "text": "HIDRANT I ŠIBER este o armătură combinată de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.662164,
+                        44.549176
+                  ]
+            },
+            {
+                  "name": "Rezervoar Mosnik",
+                  "text": "Rezervoar Mosnik este un spațiu de stocare a apei pentru aprovizionarea în Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.668613,
+                        44.52877
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER este o valvă de închidere în sistemul local de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.645159,
+                        44.524164
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kužići",
+                  "text": "Pumpna stanica Kužići este o instalație tehnică de alimentare cu apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.643187,
+                        44.524544
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Dragodol-Batva",
+                  "text": "Pumpna stanica Dragodol-Batva este o stație de reglare a presiunii în rețeaua de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661746,
+                        44.543909
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi F75",
+                  "text": "Kraj cjevi Φ75 este capătul unei conducte de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER este o valvă de golire în infrastructura de apă din Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Rezervoar Trnovac",
+                  "text": "Rezervoar Trnovac este un rezervor de apă pentru asigurarea aprovizionării în Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.688419,
+                        44.539209
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "Pumpna stanica Šikara este un lac în Tuzla, oferind un loc liniștit pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "Rezervoar Husino este un lac în Tuzla, perfect pentru a te bucura de peisajul local și de o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Šiber za Demiroviće este un lac în Tuzla, oferind un mediu neutru și liniștit pentru vizitatori.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Narodno pozorište Tuzla",
+                  "text": "Narodno pozorište Tuzla is a local theatre in Tuzla hosting various performing arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.677301,
+                        44.536572
+                  ]
+            },
+            {
+                  "name": "Dom Književnosti Tuzla",
+                  "text": "Dom Književnosti Tuzla is a cultural museum in Tuzla focusing on literary history.",
+                  "category": "museum",
+                  "coords": [
+                        18.676468,
+                        44.538246
+                  ]
+            },
+            {
+                  "name": "Pannonica",
+                  "text": "Pannonica is a popular water park facility in Tuzla offering aquatic recreation.",
+                  "category": "family",
+                  "coords": [
+                        18.680806,
+                        44.53949
+                  ]
+            },
+            {
+                  "name": "Geološki muzej",
+                  "text": "Geološki muzej is a museum in Tuzla featuring geological collections and displays.",
+                  "category": "museum",
+                  "coords": [
+                        18.682966,
+                        44.539771
+                  ]
+            },
+            {
+                  "name": "Muzej bosanskog jezika",
+                  "text": "Muzej bosanskog jezika is a museum in Tuzla dedicated to the history and preservation of the Bosnian language.",
+                  "category": "museum",
+                  "coords": [
+                        18.675523,
+                        44.538591
+                  ]
+            },
+            {
+                  "name": "Ilinčica",
+                  "text": "Ilinčica is a natural peak located near Tuzla, providing scenic outdoor recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.674544,
+                        44.524915
+                  ]
+            },
+            {
+                  "name": "Centralni park",
+                  "text": "Centralni park is a main public park in Tuzla providing a green space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        18.678599,
+                        44.538293
+                  ]
+            },
+            {
+                  "name": "Park Cipelići",
+                  "text": "Park Cipelići is an urban park area situated within the city of Tuzla.",
+                  "category": "park",
+                  "coords": [
+                        18.68005,
+                        44.535428
+                  ]
+            },
+            {
+                  "name": "Sojeničko naselje",
+                  "text": "Sojeničko naselje is a historical monument structure set in Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.681909,
+                        44.538531
+                  ]
+            },
+            {
+                  "name": "Međunarodna galerija portreta",
+                  "text": "Međunarodna galerija portreta is an art gallery in Tuzla displaying a collection of international portraits.",
+                  "category": "museum",
+                  "coords": [
+                        18.6871,
+                        44.535937
+                  ]
+            },
+            {
+                  "name": "Pivara Tuzla",
+                  "text": "Pivara Tuzla features a local viewpoint that offers sights over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        18.68937,
+                        44.535162
+                  ]
+            },
+            {
+                  "name": "Vidikovac Pivara",
+                  "text": "Vidikovac Pivara serves as a notable scenic viewpoint in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.689853,
+                        44.536146
+                  ]
+            },
+            {
+                  "name": "Atelje Ismet Mujezinović",
+                  "text": "Atelje Ismet Mujezinović is an arts centre in Tuzla fostering regional artistic expression.",
+                  "category": "cultural",
+                  "coords": [
+                        18.681062,
+                        44.537133
+                  ]
+            },
+            {
+                  "name": "Nura",
+                  "text": "Nura is a localized tourist attraction situated in Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.652883,
+                        44.52664
+                  ]
+            },
+            {
+                  "name": "Barutana",
+                  "text": "Barutana comprises historical ruins located within the bounds of Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.691076,
+                        44.536849
+                  ]
+            },
+            {
+                  "name": "Tuzlanska Koza",
+                  "text": "Tuzlanska Koza is an outdoor attraction and landmark found in Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.687704,
+                        44.531865
+                  ]
+            },
+            {
+                  "name": "Slani Vodopadi Panonskih Jezera",
+                  "text": "Slani Vodopadi Panonskih Jezera is an attractive feature connected to the salt lakes of Tuzla.",
+                  "category": "landmark",
+                  "coords": [
+                        18.681864,
+                        44.540427
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "The Bunker in Tuzla consists of historical ruins from past military infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        18.694079,
+                        44.535219
+                  ]
+            },
+            {
+                  "name": "Kapija Behram-begove medrese",
+                  "text": "Kapija Behram-begove medrese is a historical monument representing the gate of an old educational institution in Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.673078,
+                        44.540621
+                  ]
+            },
+            {
+                  "name": "Vidikovac Kicelj",
+                  "text": "Vidikovac Kicelj is an elevated viewpoint that provides sweeping views of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.671488,
+                        44.544753
+                  ]
+            },
+            {
+                  "name": "Grad Tuzla",
+                  "text": "Grad Tuzla is the principal townhall and administrative center for the city of Tuzla.",
+                  "category": "historical",
+                  "coords": [
+                        18.687875,
+                        44.532766
+                  ]
+            },
+            {
+                  "name": "Gazi Turali-begova (Poljska) džamija",
+                  "text": "Gazi Turali-begova džamija is a prominent historical Islamic place of worship in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.679373,
+                        44.536371
+                  ]
+            },
+            {
+                  "name": "Džamija Behram-begove medrese",
+                  "text": "Džamija Behram-begove medrese is an important place of worship attached to a historical educational institution in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.6542,
+                        44.538388
+                  ]
+            },
+            {
+                  "name": "Hram Uspenja Presvete Bogorodice",
+                  "text": "Hram Uspenja Presvete Bogorodice is an Eastern Orthodox cathedral and significant place of worship in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.679931,
+                        44.537938
+                  ]
+            },
+            {
+                  "name": "Džindijska (Huseina Čauša) džamija",
+                  "text": "The Džindijska (Huseina Čauša) Mosque is a well-known place of worship located in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.678262,
+                        44.541164
+                  ]
+            },
+            {
+                  "name": "Saint George",
+                  "text": "Saint George is a well-known orthodox church and place of worship situated in Tuzla.",
+                  "category": "religious",
+                  "coords": [
+                        18.688972,
+                        44.538162
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero III",
+                  "text": "Panonsko jezero III is an artificial salt lake in Tuzla used for recreation.",
+                  "category": "natural",
+                  "coords": [
+                        18.677834,
+                        44.540085
+                  ]
+            },
+            {
+                  "name": "Panonsko jezero II",
+                  "text": "Panonsko jezero II is a lake in Tuzla and an integral part of the local leisure offer.",
+                  "category": "natural",
+                  "coords": [
+                        18.679463,
+                        44.539543
+                  ]
+            },
+            {
+                  "name": "Vodovod - rezervoar ŠI SELO",
+                  "text": "Vodovod - rezervoar ŠI SELO is a water supply facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.687301,
+                        44.523111
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Đape",
+                  "text": "Pumpna stanica Đape is a pumping station for the water system in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.665729,
+                        44.552424
+                  ]
+            },
+            {
+                  "name": "ŠIBER VENTIL",
+                  "text": "ŠIBER VENTIL is a technical water facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.696338,
+                        44.541822
+                  ]
+            },
+            {
+                  "name": "Rezervoar Gradina",
+                  "text": "Rezervoar Gradina is a water reservoir in Tuzla for local supply.",
+                  "category": "natural",
+                  "coords": [
+                        18.691941,
+                        44.53582
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kojšino",
+                  "text": "Pumpna stanica Kojšino is a water infrastructure facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.673873,
+                        44.543613
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Cerik",
+                  "text": "Pumpna stanica Cerik is a water transport facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.6071,
+                        44.50897
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Orašje",
+                  "text": "Pumpna stanica Orašje is part of the technical water infrastructure of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.684539,
+                        44.519418
+                  ]
+            },
+            {
+                  "name": "VENTIL (Ozraka)",
+                  "text": "VENTIL (Ozraka) is an air vent valve in the water network of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661411,
+                        44.551546
+                  ]
+            },
+            {
+                  "name": "HIDRANT (Kraj cjevovoda)",
+                  "text": "HIDRANT (Kraj cjevovoda) is a hydrant at the end of a water pipeline in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.658711,
+                        44.556202
+                  ]
+            },
+            {
+                  "name": "HIDRANT I ŠIBER",
+                  "text": "HIDRANT I ŠIBER is a combined water fitting in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.662164,
+                        44.549176
+                  ]
+            },
+            {
+                  "name": "Rezervoar Mosnik",
+                  "text": "Rezervoar Mosnik is a water storage for supply in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.668613,
+                        44.52877
+                  ]
+            },
+            {
+                  "name": "ŠIBER",
+                  "text": "ŠIBER is a shut-off valve in the local water system of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.645159,
+                        44.524164
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Kužići",
+                  "text": "Pumpna stanica Kužići is a technical water supply facility in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.643187,
+                        44.524544
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Dragodol-Batva",
+                  "text": "Pumpna stanica Dragodol-Batva is a pressure regulation station in the water network of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.661746,
+                        44.543909
+                  ]
+            },
+            {
+                  "name": "Kraj cjevi F75",
+                  "text": "Kraj cjevi Φ75 is the end of a water pipe in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.612753,
+                        44.513291
+                  ]
+            },
+            {
+                  "name": "MULJNI ŠIBER",
+                  "text": "MULJNI ŠIBER is a drain valve in the water infrastructure of Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.613626,
+                        44.500738
+                  ]
+            },
+            {
+                  "name": "Rezervoar Trnovac",
+                  "text": "Rezervoar Trnovac is a water tank to ensure supply in Tuzla.",
+                  "category": "natural",
+                  "coords": [
+                        18.688419,
+                        44.539209
+                  ]
+            },
+            {
+                  "name": "Pumpna stanica Šikara",
+                  "text": "Pumpna stanica Šikara is a lake in Tuzla, offering a quiet spot for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        18.600909,
+                        44.554081
+                  ]
+            },
+            {
+                  "name": "Rezervoar Husino",
+                  "text": "Rezervoar Husino is a lake in Tuzla, perfect for enjoying the local scenery and a walk.",
+                  "category": "natural",
+                  "coords": [
+                        18.624643,
+                        44.516177
+                  ]
+            },
+            {
+                  "name": "Šiber za Demiroviće",
+                  "text": "Šiber za Demiroviće is a lake in Tuzla, providing a neutral and peaceful environment for visitors.",
+                  "category": "natural",
+                  "coords": [
+                        18.613223,
+                        44.490232
+                  ]
+            }
+      ]
+},
     type: "city",
     name: { de: "Tuzla", hu: "Tuzla", ro: "Tuzla", en: "Tuzla" },
     description: {
@@ -5186,33 +6419,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Bunica",
-                  "text": "Ein Erholungsgebiet und Strand in der Nähe des Flusses Buna.",
-                  "category": "recreational",
-                  "coords": [
-                        17.852821,
-                        43.243781
-                  ]
-            },
-            {
-                  "name": "Crni vir",
-                  "text": "Ein Strandbereich am Fluss in der Nähe von Blagaj.",
-                  "category": "recreational",
-                  "coords": [
-                        17.854967,
-                        43.242633
-                  ]
-            },
-            {
-                  "name": "Perale",
-                  "text": "Ein Flussstrand in der Nähe von Blagaj.",
-                  "category": "recreational",
-                  "coords": [
-                        17.855309,
-                        43.23907
-                  ]
-            },
-            {
                   "name": "Vrelo Bune",
                   "text": "Eine starke Karstquelle am Ursprung des Flusses Buna, gelegen neben einem historischen Derwisch-Kloster.",
                   "category": "landmark",
@@ -5257,33 +6463,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.898061,
                         43.257299
-                  ]
-            },
-            {
-                  "name": "Bunica",
-                  "text": "Egy üdülőhely és strand a Buna-folyó közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        17.852821,
-                        43.243781
-                  ]
-            },
-            {
-                  "name": "Crni vir",
-                  "text": "Egy folyóparti strand Blagaj közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        17.854967,
-                        43.242633
-                  ]
-            },
-            {
-                  "name": "Perale",
-                  "text": "Egy folyóparti strand Blagaj környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        17.855309,
-                        43.23907
                   ]
             },
             {
@@ -5334,33 +6513,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Bunica",
-                  "text": "O zonă de recreere și plajă situată lângă râul Buna.",
-                  "category": "recreational",
-                  "coords": [
-                        17.852821,
-                        43.243781
-                  ]
-            },
-            {
-                  "name": "Crni vir",
-                  "text": "O zonă de plajă de-a lungul râului, lângă Blagaj.",
-                  "category": "recreational",
-                  "coords": [
-                        17.854967,
-                        43.242633
-                  ]
-            },
-            {
-                  "name": "Perale",
-                  "text": "O zonă de plajă pe malul râului în vecinătatea localității Blagaj.",
-                  "category": "recreational",
-                  "coords": [
-                        17.855309,
-                        43.23907
-                  ]
-            },
-            {
                   "name": "Vrelo Bune",
                   "text": "Un izvor carstic puternic la sursa râului Buna, situat lângă o mănăstire istorică de derviși.",
                   "category": "landmark",
@@ -5405,33 +6557,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         17.898061,
                         43.257299
-                  ]
-            },
-            {
-                  "name": "Bunica",
-                  "text": "A recreation area and beach located near the Buna river.",
-                  "category": "recreational",
-                  "coords": [
-                        17.852821,
-                        43.243781
-                  ]
-            },
-            {
-                  "name": "Crni vir",
-                  "text": "A beach area along the river near Blagaj.",
-                  "category": "recreational",
-                  "coords": [
-                        17.854967,
-                        43.242633
-                  ]
-            },
-            {
-                  "name": "Perale",
-                  "text": "A riverside beach area in the vicinity of Blagaj.",
-                  "category": "recreational",
-                  "coords": [
-                        17.855309,
-                        43.23907
                   ]
             },
             {
@@ -5700,30 +6825,12 @@ export const bosniaPois: POI[] = [
     id: "ba-sutjeska", "sights": {
       "de": [
             {
-                  "name": "Nationalpark Sutjeska",
-                  "text": "Der älteste Nationalpark in Bosnien und Herzegowina, in dem sich einer der letzten Urwälder Europas befindet.",
-                  "category": "natural",
-                  "coords": [
-                        18.655209,
-                        43.327283
-                  ]
-            },
-            {
                   "name": "Amfiteatar brigada",
                   "text": "Ein Freiluft-Amphitheater im Nationalpark Sutjeska.",
                   "category": "cultural",
                   "coords": [
                         18.6857,
                         43.346078
-                  ]
-            },
-            {
-                  "name": "Beškita",
-                  "text": "Ein Berggipfel im Nationalpark Sutjeska, der einen Panoramablick auf die Region bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        18.700663,
-                        43.325651
                   ]
             },
             {
@@ -5745,15 +6852,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Vidikovac Skakavac",
-                  "text": "Ein beliebter Aussichtspunkt, der einen spektakulären Blick auf den Skakavac-Wasserfall bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.704959,
-                        43.319915
-                  ]
-            },
-            {
                   "name": "Savin grob",
                   "text": "Die Gedenkstätte und das Grab des Partisanenhelden Sava Kovačević.",
                   "category": "historical",
@@ -5765,30 +6863,12 @@ export const bosniaPois: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Nacionalni park Sutjeska",
-                  "text": "Bosznia-Hercegovina legrégebbi nemzeti parkja, ahol Európa egyik utolsó őserdeje található.",
-                  "category": "natural",
-                  "coords": [
-                        18.655209,
-                        43.327283
-                  ]
-            },
-            {
                   "name": "Amfiteatar brigada",
                   "text": "Szabadtéri amfiteátrum a Sutjeska Nemzeti Park területén.",
                   "category": "cultural",
                   "coords": [
                         18.6857,
                         43.346078
-                  ]
-            },
-            {
-                  "name": "Beškita",
-                  "text": "Hegycsúcs a Sutjeska Nemzeti Parkban, amely panorámás kilátást nyújt a régióra.",
-                  "category": "landmark",
-                  "coords": [
-                        18.700663,
-                        43.325651
                   ]
             },
             {
@@ -5810,15 +6890,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Vidikovac Skakavac",
-                  "text": "Népszerű kilátóhely, ahonnan lenyűgöző kilátás nyílik a Skakavac-vízesésre.",
-                  "category": "natural",
-                  "coords": [
-                        18.704959,
-                        43.319915
-                  ]
-            },
-            {
                   "name": "Savin grob",
                   "text": "Sava Kovačević partizánhős emlékhelye és sírja.",
                   "category": "historical",
@@ -5830,30 +6901,12 @@ export const bosniaPois: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Nacionalni park Sutjeska",
-                  "text": "Cel mai vechi parc național din Bosnia și Herțegovina, care adăpostește una dintre ultimele păduri virgine din Europa.",
-                  "category": "natural",
-                  "coords": [
-                        18.655209,
-                        43.327283
-                  ]
-            },
-            {
                   "name": "Amfiteatar brigada",
                   "text": "Un amfiteatru în aer liber situat în cadrul Parcului Național Sutjeska.",
                   "category": "cultural",
                   "coords": [
                         18.6857,
                         43.346078
-                  ]
-            },
-            {
-                  "name": "Beškita",
-                  "text": "Un vârf muntos din Parcul Național Sutjeska care oferă vederi panoramice asupra regiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        18.700663,
-                        43.325651
                   ]
             },
             {
@@ -5875,15 +6928,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Vidikovac Skakavac",
-                  "text": "Un punct de belvedere popular care oferă o vedere spectaculoasă asupra cascadei Skakavac.",
-                  "category": "natural",
-                  "coords": [
-                        18.704959,
-                        43.319915
-                  ]
-            },
-            {
                   "name": "Savin grob",
                   "text": "Locul memorial și mormântul eroului partizan Sava Kovačević.",
                   "category": "historical",
@@ -5895,30 +6939,12 @@ export const bosniaPois: POI[] = [
       ],
       "en": [
             {
-                  "name": "Sutjeska National Park",
-                  "text": "The oldest national park in Bosnia and Herzegovina, home to one of Europe's last primeval forests.",
-                  "category": "natural",
-                  "coords": [
-                        18.655209,
-                        43.327283
-                  ]
-            },
-            {
                   "name": "Amfiteatar brigada",
                   "text": "An open-air amphitheater located within the Sutjeska National Park.",
                   "category": "cultural",
                   "coords": [
                         18.6857,
                         43.346078
-                  ]
-            },
-            {
-                  "name": "Beškita",
-                  "text": "A mountain peak in the Sutjeska National Park offering panoramic views of the region.",
-                  "category": "landmark",
-                  "coords": [
-                        18.700663,
-                        43.325651
                   ]
             },
             {
@@ -5937,15 +6963,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.688431,
                         43.343934
-                  ]
-            },
-            {
-                  "name": "Vidikovac Skakavac",
-                  "text": "A popular viewpoint offering a spectacular look at the Skakavac waterfall.",
-                  "category": "natural",
-                  "coords": [
-                        18.704959,
-                        43.319915
                   ]
             },
             {
@@ -6174,86 +7191,10 @@ export const bosniaPois: POI[] = [
   },
   {
     id: "ba-blidinje", "sights": {
-      "de": [
-            {
-                  "name": "Naturpark Blidinje",
-                  "text": "Ein weitläufiger Naturpark in Bosnien und Herzegowina, bekannt für seine alpine Landschaft und den Blidinje-See.",
-                  "category": "natural",
-                  "coords": [
-                        17.546488,
-                        43.624591
-                  ]
-            },
-            {
-                  "name": "Pločno",
-                  "text": "Der höchste Gipfel des Čvrsnica-Gebirges im Blidinje-Naturpark, ein beliebtes Ziel für Wanderer.",
-                  "category": "landmark",
-                  "coords": [
-                        17.564727,
-                        43.599349
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Park prirode Blidinje",
-                  "text": "Kiterjedt natúrpark Bosznia-Hercegovinában, amely alpesi tájairól és a Blidinje-tóról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        17.546488,
-                        43.624591
-                  ]
-            },
-            {
-                  "name": "Pločno",
-                  "text": "A Čvrsnica-hegység legmagasabb csúcsa a Blidinje natúrparkban, a túrázók népszerű célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        17.564727,
-                        43.599349
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Park prirode Blidinje",
-                  "text": "Un parc natural vast în Bosnia și Herțegovina, cunoscut pentru peisajul alpin și lacul Blidinje.",
-                  "category": "natural",
-                  "coords": [
-                        17.546488,
-                        43.624591
-                  ]
-            },
-            {
-                  "name": "Pločno",
-                  "text": "Cel mai înalt vârf al munților Čvrsnica din parcul natural Blidinje, o destinație populară pentru drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        17.564727,
-                        43.599349
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Blidinje Nature Park",
-                  "text": "A vast nature park in Bosnia and Herzegovina, known for its alpine landscape and Blidinje Lake.",
-                  "category": "natural",
-                  "coords": [
-                        17.546488,
-                        43.624591
-                  ]
-            },
-            {
-                  "name": "Pločno",
-                  "text": "The highest peak of the Čvrsnica mountains in Blidinje Nature Park, a popular destination for hikers.",
-                  "category": "landmark",
-                  "coords": [
-                        17.564727,
-                        43.599349
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     name: { de: "Naturpark Blidinje", hu: "Blidinje Natúrpark", ro: "Parcul Natural Blidinje", en: "Blidinje Nature Park" },
@@ -8261,15 +9202,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Amfiteatar brigada",
-                  "text": "Ein Freilichttheater im Bereich des Urwaldes Perućica.",
-                  "category": "cultural",
-                  "coords": [
-                        18.6857,
-                        43.346078
-                  ]
-            },
-            {
                   "name": "Bukovi vrhovi",
                   "text": "Ein Berggipfel inmitten des Perućica-Urwaldgebiets.",
                   "category": "landmark",
@@ -8285,24 +9217,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.700663,
                         43.325651
-                  ]
-            },
-            {
-                  "name": "Spomenik Bitka na Sutjesci",
-                  "text": "Ein monumentales Denkmal zu Ehren der gefallenen Soldaten der Schlacht an der Sutjeska.",
-                  "category": "historical",
-                  "coords": [
-                        18.686853,
-                        43.346123
-                  ]
-            },
-            {
-                  "name": "Spomen-kuća bitke na Sutjesci",
-                  "text": "Gedenkstätte für den Kampf der jugoslawischen Partisanen im Zweiten Weltkrieg.",
-                  "category": "historical",
-                  "coords": [
-                        18.688431,
-                        43.343934
                   ]
             },
             {
@@ -8326,15 +9240,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Amfiteatar brigada",
-                  "text": "Szabadtéri színház a Perućica őserdő területén.",
-                  "category": "cultural",
-                  "coords": [
-                        18.6857,
-                        43.346078
-                  ]
-            },
-            {
                   "name": "Bukovi vrhovi",
                   "text": "Hegycsúcs a Perućica őserdő területének közepén.",
                   "category": "landmark",
@@ -8350,24 +9255,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.700663,
                         43.325651
-                  ]
-            },
-            {
-                  "name": "Spomenik Bitka na Sutjesci",
-                  "text": "Monumentális emlékmű a sutjeskai csata elesett katonáinak tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        18.686853,
-                        43.346123
-                  ]
-            },
-            {
-                  "name": "Spomen-kuća bitke na Sutjesci",
-                  "text": "Emlékhely a jugoszláv partizánok második világháborús harcainak tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        18.688431,
-                        43.343934
                   ]
             },
             {
@@ -8391,15 +9278,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Amfiteatar brigada",
-                  "text": "Un amfiteatru în aer liber situat în zona pădurii virgine Perućica.",
-                  "category": "cultural",
-                  "coords": [
-                        18.6857,
-                        43.346078
-                  ]
-            },
-            {
                   "name": "Bukovi vrhovi",
                   "text": "Un vârf montan în mijlocul zonei pădurii virgine Perućica.",
                   "category": "landmark",
@@ -8415,24 +9293,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.700663,
                         43.325651
-                  ]
-            },
-            {
-                  "name": "Spomenik Bitka na Sutjesci",
-                  "text": "Un monument monumental în onoarea soldaților căzuți în bătălia de pe Sutjeska.",
-                  "category": "historical",
-                  "coords": [
-                        18.686853,
-                        43.346123
-                  ]
-            },
-            {
-                  "name": "Spomen-kuća bitke na Sutjesci",
-                  "text": "Complex memorial dedicat luptei partizanilor iugoslavi din al Doilea Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        18.688431,
-                        43.343934
                   ]
             },
             {
@@ -8456,15 +9316,6 @@ export const bosniaPois: POI[] = [
                   ]
             },
             {
-                  "name": "Amfiteatar brigada",
-                  "text": "An outdoor amphitheater located within the Perućica primeval forest area.",
-                  "category": "cultural",
-                  "coords": [
-                        18.6857,
-                        43.346078
-                  ]
-            },
-            {
                   "name": "Bukovi vrhovi",
                   "text": "A mountain peak in the middle of the Perućica primeval forest area.",
                   "category": "landmark",
@@ -8480,24 +9331,6 @@ export const bosniaPois: POI[] = [
                   "coords": [
                         18.700663,
                         43.325651
-                  ]
-            },
-            {
-                  "name": "The Battle of Sutjeska Memorial Monument",
-                  "text": "A monumental memorial honoring the fallen soldiers of the Battle of Sutjeska.",
-                  "category": "historical",
-                  "coords": [
-                        18.686853,
-                        43.346123
-                  ]
-            },
-            {
-                  "name": "Battle of Sutjeska Memorial Complex",
-                  "text": "Memorial complex commemorating the struggle of Yugoslav Partisans in WWII.",
-                  "category": "historical",
-                  "coords": [
-                        18.688431,
-                        43.343934
                   ]
             },
             {

@@ -2103,15 +2103,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shui Long Wo Star Lookout",
-                  "text": "Dieser Steinturm, der als Nachbildung eines alten chinesischen Observatoriums erbaut wurde, bietet eine terrassenförmige Plattform zur Sternenbeobachtung.",
-                  "category": "natural",
-                  "coords": [
-                        114.277093,
-                        22.404667
-                  ]
-            },
-            {
                   "name": "Kuet's Ancestral Hall",
                   "text": "Als zeremonielles Zentrum des lokalen Clans bewahrt diese traditionelle taoistische Halle das Erbe der Ahnen.",
                   "category": "landmark",
@@ -2237,15 +2228,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.232538,
                         22.410333
-                  ]
-            },
-            {
-                  "name": "Shui Long Wo Star Lookout",
-                  "text": "Az ősi kínai csillagvizsgálók mintájára épült kőtorony teraszos platformja kiválóan alkalmas csillagnézésre.",
-                  "category": "natural",
-                  "coords": [
-                        114.277093,
-                        22.404667
                   ]
             },
             {
@@ -2377,15 +2359,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shui Long Wo Star Lookout",
-                  "text": "Construit ca o replică a unui observator chinez antic, acest turn de piatră oferă o platformă terasată pentru observarea stelelor.",
-                  "category": "natural",
-                  "coords": [
-                        114.277093,
-                        22.404667
-                  ]
-            },
-            {
                   "name": "Kuet's Ancestral Hall",
                   "text": "Servind drept centru ceremonial al clanului local, acest sanctuar taoist tradițional păstrează moștenirea ancestrală a comunității.",
                   "category": "landmark",
@@ -2511,15 +2484,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.232538,
                         22.410333
-                  ]
-            },
-            {
-                  "name": "Shui Long Wo Star Lookout",
-                  "text": "Built as a replica of an ancient Chinese observatory, this stone tower provides a terraced platform for stargazing.",
-                  "category": "natural",
-                  "coords": [
-                        114.277093,
-                        22.404667
                   ]
             },
             {
@@ -2769,57 +2733,12 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nam Shan Viewing Point",
-                  "text": "Der Nam Shan Viewing Point ist ein erhöhter Aussichtspunkt, der einen Panoramablick über die umliegenden bewaldeten Hügel bietet.",
-                  "category": "natural",
-                  "coords": [
-                        113.988048,
-                        22.255105
-                  ]
-            },
-            {
                   "name": "Standing Rock",
                   "text": "Standing Rock ist eine markante geologische Formation, die als landschaftlich reizvoller natürlicher Aussichtspunkt am Wanderweg dient.",
                   "category": "natural",
                   "coords": [
                         113.99427,
                         22.292075
-                  ]
-            },
-            {
-                  "name": "Mui Wo Culture & Heritage Exhibition Centre",
-                  "text": "Das Mui Wo Culture & Heritage Exhibition Centre dokumentiert die ländliche Geschichte und den traditionellen Lebensstil der Gemeinde Mui Wo.",
-                  "category": "museum",
-                  "coords": [
-                        113.997312,
-                        22.267989
-                  ]
-            },
-            {
-                  "name": "Silver Waterfall lookout",
-                  "text": "Der Aussichtspunkt Silver Waterfall ist eine Plattform, die einen ungehinderten, erhöhten Blick auf die herabstürzenden Wassermassen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        113.991552,
-                        22.273459
-                  ]
-            },
-            {
-                  "name": "Lookout Point",
-                  "text": "Der Lookout Point ist eine auf dem Gelände gelegene Aussichtsplattform, die weite Blicke über die Naturlandschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        114.008774,
-                        22.296561
-                  ]
-            },
-            {
-                  "name": "Lo Fu Tau",
-                  "text": "Lo Fu Tau, was 'Tigerkopf' bedeutet, ist ein markant geformter Berggipfel, der für seine steilen und lohnenden Wanderwege bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        114.000148,
-                        22.299577
                   ]
             },
             {
@@ -2856,15 +2775,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.008068,
                         22.241298
-                  ]
-            },
-            {
-                  "name": "Silver Mine Bay Viewing Deck",
-                  "text": "Das Silver Mine Bay Viewing Deck bietet eine erhöhte Holzplattform, um den weitläufigen Küstenstrand zu beobachten.",
-                  "category": "natural",
-                  "coords": [
-                        113.998278,
-                        22.266988
                   ]
             },
             {
@@ -2933,57 +2843,12 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nam Shan Viewing Point",
-                  "text": "A Nam Shan Viewing Point egy magaslati kilátó, amely panorámás kilátást nyújt a környező erdős hegyoldalakra.",
-                  "category": "natural",
-                  "coords": [
-                        113.988048,
-                        22.255105
-                  ]
-            },
-            {
                   "name": "Standing Rock",
                   "text": "A Standing Rock egy jellegzetes geológiai képződmény, amely festői, természetes kilátópontként szolgál a túraútvonalon.",
                   "category": "natural",
                   "coords": [
                         113.99427,
                         22.292075
-                  ]
-            },
-            {
-                  "name": "Mui Wo Culture & Heritage Exhibition Centre",
-                  "text": "A Mui Wo Kulturális és Örökségvédelmi Kiállítási Központ a Mui Wo közösség vidéki történelmét és hagyományos életmódját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        113.997312,
-                        22.267989
-                  ]
-            },
-            {
-                  "name": "Silver Waterfall lookout",
-                  "text": "A Silver Waterfall kilátó egy emelt platform, ahonnan kiváló rálátás nyílik a lezúduló vízesésre.",
-                  "category": "natural",
-                  "coords": [
-                        113.991552,
-                        22.273459
-                  ]
-            },
-            {
-                  "name": "Lookout Point",
-                  "text": "A Lookout Point egy a terepen elhelyezkedő kilátóterasz, amely széleskörű kilátást nyújt a természeti tájra.",
-                  "category": "natural",
-                  "coords": [
-                        114.008774,
-                        22.296561
-                  ]
-            },
-            {
-                  "name": "Lo Fu Tau",
-                  "text": "A Lo Fu Tau, vagyis 'Tigrisfej', egy jellegzetes formájú hegycsúcs, amely meredek és kihívást jelentő túraútvonalairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        114.000148,
-                        22.299577
                   ]
             },
             {
@@ -3020,15 +2885,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.008068,
                         22.241298
-                  ]
-            },
-            {
-                  "name": "Silver Mine Bay Viewing Deck",
-                  "text": "A Silver Mine Bay kilátóterasza egy emelt fa emelvényt kínál a kiterjedt tengerpart megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        113.998278,
-                        22.266988
                   ]
             },
             {
@@ -3097,57 +2953,12 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nam Shan Viewing Point",
-                  "text": "Nam Shan Viewing Point este un punct de belvedere la înălțime, oferind priveliști panoramice peste dealurile împădurite din jur.",
-                  "category": "natural",
-                  "coords": [
-                        113.988048,
-                        22.255105
-                  ]
-            },
-            {
                   "name": "Standing Rock",
                   "text": "Standing Rock este o formațiune geologică distinctă care servește drept punct de belvedere natural pitoresc pe traseul de drumeție.",
                   "category": "natural",
                   "coords": [
                         113.99427,
                         22.292075
-                  ]
-            },
-            {
-                  "name": "Mui Wo Culture & Heritage Exhibition Centre",
-                  "text": "Centrul de Expoziții de Cultură și Patrimoniu Mui Wo detaliază istoria rurală și stilul de viață tradițional al comunității Mui Wo.",
-                  "category": "museum",
-                  "coords": [
-                        113.997312,
-                        22.267989
-                  ]
-            },
-            {
-                  "name": "Silver Waterfall lookout",
-                  "text": "Punctul de belvedere Silver Waterfall este o platformă ce oferă o vedere clară, de la înălțime, a apelor în cascadă.",
-                  "category": "natural",
-                  "coords": [
-                        113.991552,
-                        22.273459
-                  ]
-            },
-            {
-                  "name": "Lookout Point",
-                  "text": "Lookout Point este o platformă de observație situată pe teren, oferind priveliști ample asupra peisajului natural.",
-                  "category": "natural",
-                  "coords": [
-                        114.008774,
-                        22.296561
-                  ]
-            },
-            {
-                  "name": "Lo Fu Tau",
-                  "text": "Lo Fu Tau, care înseamnă „Capul Tigrului”, este un vârf montan cu o formă distinctivă, cunoscut pentru traseele sale abrupte și pline de satisfacții.",
-                  "category": "natural",
-                  "coords": [
-                        114.000148,
-                        22.299577
                   ]
             },
             {
@@ -3184,15 +2995,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.008068,
                         22.241298
-                  ]
-            },
-            {
-                  "name": "Silver Mine Bay Viewing Deck",
-                  "text": "Puntea de belvedere Silver Mine Bay oferă o platformă de lemn înălțată pentru a observa plaja extinsă de pe coastă.",
-                  "category": "natural",
-                  "coords": [
-                        113.998278,
-                        22.266988
                   ]
             },
             {
@@ -3261,57 +3063,12 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nam Shan Viewing Point",
-                  "text": "Nam Shan Viewing Point is an elevated lookout offering panoramic vistas across the surrounding forested hillsides.",
-                  "category": "natural",
-                  "coords": [
-                        113.988048,
-                        22.255105
-                  ]
-            },
-            {
                   "name": "Standing Rock",
                   "text": "Standing Rock is a distinctive geological formation serving as a scenic natural viewpoint on the hiking trail.",
                   "category": "natural",
                   "coords": [
                         113.99427,
                         22.292075
-                  ]
-            },
-            {
-                  "name": "Mui Wo Culture & Heritage Exhibition Centre",
-                  "text": "The Mui Wo Culture & Heritage Exhibition Centre details the rural history and traditional lifestyle of the Mui Wo community.",
-                  "category": "museum",
-                  "coords": [
-                        113.997312,
-                        22.267989
-                  ]
-            },
-            {
-                  "name": "Silver Waterfall lookout",
-                  "text": "Silver Waterfall lookout is a viewing platform that provides clear, elevated views of the cascading waters.",
-                  "category": "natural",
-                  "coords": [
-                        113.991552,
-                        22.273459
-                  ]
-            },
-            {
-                  "name": "Lookout Point",
-                  "text": "Lookout Point is an observation deck perched on the terrain, offering broad views over the natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        114.008774,
-                        22.296561
-                  ]
-            },
-            {
-                  "name": "Lo Fu Tau",
-                  "text": "Lo Fu Tau, meaning 'Tiger's Head', is a prominently shaped mountain peak known for its steep and rewarding hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        114.000148,
-                        22.299577
                   ]
             },
             {
@@ -3348,15 +3105,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.008068,
                         22.241298
-                  ]
-            },
-            {
-                  "name": "Silver Mine Bay Viewing Deck",
-                  "text": "The Silver Mine Bay Viewing Deck provides an elevated wooden platform to observe the expansive coastal beach.",
-                  "category": "natural",
-                  "coords": [
-                        113.998278,
-                        22.266988
                   ]
             },
             {
@@ -4083,24 +3831,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sam Ka Tsuen Recreation Ground",
-                  "text": "Der Sam Ka Tsuen Recreation Ground ist ein kommunales Sport- und Freizeitgebiet in der Nähe des Fischerdorfes an der Küste.",
-                  "category": "park",
-                  "coords": [
-                        114.237331,
-                        22.294089
-                  ]
-            },
-            {
-                  "name": "Gough Battery",
-                  "text": "Die Ruinen der Gough Battery stehen auf dem Devil's Peak und spiegeln die Geschichte des Gebiets als strategische Küstenartilleriestellung wider.",
-                  "category": "historical",
-                  "coords": [
-                        114.242228,
-                        22.291458
-                  ]
-            },
-            {
                   "name": "Wah Yim Kwok",
                   "text": "Wah Yim Kwok ist ein friedlicher buddhistischer Rückzugsort in den malerischen Hügeln rund um den Devil's Peak.",
                   "category": "landmark",
@@ -4154,24 +3884,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.243888,
                         22.293773
-                  ]
-            },
-            {
-                  "name": "Sam Ka Tsuen Recreation Ground",
-                  "text": "A Sam Ka Tsuen Recreation Ground egy közösségi sport- és szabadidős terület a tengerparti halászfalu közelében.",
-                  "category": "park",
-                  "coords": [
-                        114.237331,
-                        22.294089
-                  ]
-            },
-            {
-                  "name": "Gough Battery",
-                  "text": "A Gough Battery romjai a Devil's Peak hegyen állnak, tükrözve a terület egykori stratégiai partvédelmi tüzérségi állomásként betöltött szerepét.",
-                  "category": "historical",
-                  "coords": [
-                        114.242228,
-                        22.291458
                   ]
             },
             {
@@ -4231,24 +3943,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sam Ka Tsuen Recreation Ground",
-                  "text": "Sam Ka Tsuen Recreation Ground este o zonă comunitară de sport și agrement situată lângă satul de pescari de pe coastă.",
-                  "category": "park",
-                  "coords": [
-                        114.237331,
-                        22.294089
-                  ]
-            },
-            {
-                  "name": "Gough Battery",
-                  "text": "Ruinele Bateriei Gough se află pe Devil's Peak, reflectând istoria zonei ca poziție strategică de artilerie de coastă.",
-                  "category": "historical",
-                  "coords": [
-                        114.242228,
-                        22.291458
-                  ]
-            },
-            {
                   "name": "Wah Yim Kwok",
                   "text": "Wah Yim Kwok este o retragere budistă liniștită situată pe dealurile pitorești din jurul lui Devil's Peak.",
                   "category": "landmark",
@@ -4302,24 +3996,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.243888,
                         22.293773
-                  ]
-            },
-            {
-                  "name": "Sam Ka Tsuen Recreation Ground",
-                  "text": "Sam Ka Tsuen Recreation Ground is a community sports and leisure area situated near the coastal fishing village.",
-                  "category": "park",
-                  "coords": [
-                        114.237331,
-                        22.294089
-                  ]
-            },
-            {
-                  "name": "Gough Battery",
-                  "text": "The ruins of Gough Battery stand on Devil's Peak, reflecting the area's history as a strategic coastal artillery position.",
-                  "category": "historical",
-                  "coords": [
-                        114.242228,
-                        22.291458
                   ]
             },
             {
@@ -4461,24 +4137,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shek Kip Mei Park",
-                  "text": "Ein weitläufiger Freizeitkomplex mit Kunstrasen-Fußballplätzen, Tennisplätzen und einem Indoor-Sportzentrum.",
-                  "category": "park",
-                  "coords": [
-                        114.170066,
-                        22.336748
-                  ]
-            },
-            {
-                  "name": "Cornwall Street Park",
-                  "text": "Dieser Stadtpark verbindet nahtlos moderne Squashanlagen mit ruhigen Wasserspielen im klassischen chinesischen Stil.",
-                  "category": "park",
-                  "coords": [
-                        114.173588,
-                        22.338939
-                  ]
-            },
-            {
                   "name": "Lung Cheung Road Lookout",
                   "text": "Eine praktische Aussichtsplattform am Straßenrand, die Fahrern und Fußgängern einen weiten Blick über die Kowloon-Halbinsel bietet.",
                   "category": "natural",
@@ -4550,24 +4208,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.175425,
                         22.339065
-                  ]
-            },
-            {
-                  "name": "Shek Kip Mei Park",
-                  "text": "Hatalmas rekreációs komplexum műfüves futballpályákkal, teniszpályákkal és egy fedett sportközponttal.",
-                  "category": "park",
-                  "coords": [
-                        114.170066,
-                        22.336748
-                  ]
-            },
-            {
-                  "name": "Cornwall Street Park",
-                  "text": "Ez a városi park zökkenőmentesen ötvözi a modern squash-létesítményeket a klasszikus kínai stílusban épült, nyugodt vizikerttel.",
-                  "category": "park",
-                  "coords": [
-                        114.173588,
-                        22.338939
                   ]
             },
             {
@@ -4645,24 +4285,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shek Kip Mei Park",
-                  "text": "Un complex de recreere întins, care include terenuri de fotbal cu gazon artificial, terenuri de tenis și un centru sportiv acoperit.",
-                  "category": "park",
-                  "coords": [
-                        114.170066,
-                        22.336748
-                  ]
-            },
-            {
-                  "name": "Cornwall Street Park",
-                  "text": "Acest parc urban îmbină perfect facilitățile moderne de squash cu elemente de apă liniștite, construite în stil clasic chinezesc.",
-                  "category": "park",
-                  "coords": [
-                        114.173588,
-                        22.338939
-                  ]
-            },
-            {
                   "name": "Lung Cheung Road Lookout",
                   "text": "O punte de observație convenabilă la marginea drumului, care oferă șoferilor și pietonilor vederi panoramice asupra Peninsulei Kowloon.",
                   "category": "natural",
@@ -4734,24 +4356,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.175425,
                         22.339065
-                  ]
-            },
-            {
-                  "name": "Shek Kip Mei Park",
-                  "text": "A sprawling recreational complex featuring artificial turf football pitches, tennis courts, and an indoor sports centre.",
-                  "category": "park",
-                  "coords": [
-                        114.170066,
-                        22.336748
-                  ]
-            },
-            {
-                  "name": "Cornwall Street Park",
-                  "text": "This urban park seamlessly blends modern squash facilities with serene water features built in a classical Chinese style.",
-                  "category": "park",
-                  "coords": [
-                        114.173588,
-                        22.338939
                   ]
             },
             {
@@ -4848,15 +4452,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sai Kung Seafood Street",
-                  "text": "Diese lebhafte Straße lockt Besucher mit zahlreichen Aquarien und Restaurants, die fangfrischen Fisch direkt zubereiten.",
-                  "category": "landmark",
-                  "coords": [
-                        114.272123,
-                        22.379466
-                  ]
-            },
-            {
                   "name": "Nature's Harvest Organic Farm and Leisure Getaway",
                   "text": "Dieser landschaftlich gestaltete Bio-Bauernhof beherbergt verschiedene Hoftiere und bietet eine grüne Oase zur Entspannung.",
                   "category": "recreational",
@@ -4872,33 +4467,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.264433,
                         22.374307
-                  ]
-            },
-            {
-                  "name": "Volcano Discovery Centre",
-                  "text": "In diesem Museum können Besucher faszinierende Gesteinsproben und detaillierte Modelle der vulkanischen Geschichte der Region erkunden.",
-                  "category": "museum",
-                  "coords": [
-                        114.274086,
-                        22.3824
-                  ]
-            },
-            {
-                  "name": "Man Yee Playground",
-                  "text": "Der Park verfügt über moderne Spielgeräte und Freiflächen, die von schattenspendenden Bäumen umgeben sind.",
-                  "category": "park",
-                  "coords": [
-                        114.271984,
-                        22.381264
-                  ]
-            },
-            {
-                  "name": "Sha Ha",
-                  "text": "Dieser flache Strandbereich ist besonders bei Familien beliebt, die im seichten Wasser baden möchten.",
-                  "category": "recreational",
-                  "coords": [
-                        114.276137,
-                        22.388844
                   ]
             },
             {
@@ -4985,15 +4553,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sai Kung Seafood Street",
-                  "text": "Ez a nyüzsgő utca számos akváriummal és étteremmel vonzza a látogatókat, ahol a frissen fogott halakat azonnal elkészítik.",
-                  "category": "landmark",
-                  "coords": [
-                        114.272123,
-                        22.379466
-                  ]
-            },
-            {
                   "name": "Nature's Harvest Organic Farm and Leisure Getaway",
                   "text": "Ez a parkosított biofarm különböző háziállatoknak ad otthont, és zöld oázisként szolgál a pihenésre.",
                   "category": "recreational",
@@ -5009,33 +4568,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.264433,
                         22.374307
-                  ]
-            },
-            {
-                  "name": "Volcano Discovery Centre",
-                  "text": "Ebben a múzeumban a látogatók lenyűgöző kőzetmintákat és a régió vulkáni történetét bemutató részletes modelleket fedezhetnek fel.",
-                  "category": "museum",
-                  "coords": [
-                        114.274086,
-                        22.3824
-                  ]
-            },
-            {
-                  "name": "Man Yee Playground",
-                  "text": "A park modern játszótéri eszközökkel és nyitott terekkel rendelkezik, amelyeket árnyékot adó fák vesznek körül.",
-                  "category": "park",
-                  "coords": [
-                        114.271984,
-                        22.381264
-                  ]
-            },
-            {
-                  "name": "Sha Ha",
-                  "text": "Ez a sekély partszakasz különösen népszerű a családok körében, akik a sekély vízben szeretnének fürdeni.",
-                  "category": "recreational",
-                  "coords": [
-                        114.276137,
-                        22.388844
                   ]
             },
             {
@@ -5122,15 +4654,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sai Kung Seafood Street",
-                  "text": "Această stradă plină de viață atrage vizitatorii cu numeroase acvarii și restaurante care pregătesc peștele proaspăt prins la fața locului.",
-                  "category": "landmark",
-                  "coords": [
-                        114.272123,
-                        22.379466
-                  ]
-            },
-            {
                   "name": "Nature's Harvest Organic Farm and Leisure Getaway",
                   "text": "Această fermă ecologică amenajată găzduiește diverse animale de curte și oferă o oază verde pentru relaxare.",
                   "category": "recreational",
@@ -5146,33 +4669,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.264433,
                         22.374307
-                  ]
-            },
-            {
-                  "name": "Volcano Discovery Centre",
-                  "text": "În acest muzeu, vizitatorii pot explora mostre de roci fascinante și modele detaliate ale istoriei vulcanice a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        114.274086,
-                        22.3824
-                  ]
-            },
-            {
-                  "name": "Man Yee Playground",
-                  "text": "Parcul dispune de echipamente de joacă moderne și spații deschise înconjurate de copaci care oferă umbră.",
-                  "category": "park",
-                  "coords": [
-                        114.271984,
-                        22.381264
-                  ]
-            },
-            {
-                  "name": "Sha Ha",
-                  "text": "Această zonă de plajă plată este deosebit de populară printre familiile care doresc să se scalde în apele puțin adânci.",
-                  "category": "recreational",
-                  "coords": [
-                        114.276137,
-                        22.388844
                   ]
             },
             {
@@ -5259,15 +4755,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sai Kung Seafood Street",
-                  "text": "This bustling street attracts visitors with numerous live fish tanks and restaurants that prepare fresh catches on the spot.",
-                  "category": "landmark",
-                  "coords": [
-                        114.272123,
-                        22.379466
-                  ]
-            },
-            {
                   "name": "Nature's Harvest Organic Farm and Leisure Getaway",
                   "text": "This landscaped organic farm houses various farm animals and provides a green oasis for relaxation.",
                   "category": "recreational",
@@ -5283,33 +4770,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.264433,
                         22.374307
-                  ]
-            },
-            {
-                  "name": "Volcano Discovery Centre",
-                  "text": "In this museum, visitors can explore fascinating rock samples and detailed models detailing the region's volcanic history.",
-                  "category": "museum",
-                  "coords": [
-                        114.274086,
-                        22.3824
-                  ]
-            },
-            {
-                  "name": "Man Yee Playground",
-                  "text": "The park features modern play equipment and open spaces surrounded by shade-providing trees.",
-                  "category": "park",
-                  "coords": [
-                        114.271984,
-                        22.381264
-                  ]
-            },
-            {
-                  "name": "Sha Ha",
-                  "text": "This flat beach area is particularly popular with families looking to paddle in the shallow waters.",
-                  "category": "recreational",
-                  "coords": [
-                        114.276137,
-                        22.388844
                   ]
             },
             {
@@ -6171,15 +5631,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Penfold Park",
-                  "text": "Dieser große öffentliche Park liegt einzigartig im Innenfeld der Sha Tin-Rennbahn und bietet wunderschöne künstliche Seen.",
-                  "category": "park",
-                  "coords": [
-                        114.206799,
-                        22.399559
-                  ]
-            },
-            {
                   "name": "Siu Lek Yuen Road Playground",
                   "text": "Dieser aktive Freizeitpark verfügt über umfangreiche Sportanlagen, darunter gepflasterte Radwege und mehrere Basketballplätze.",
                   "category": "park",
@@ -6278,15 +5729,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.219387,
                         22.370855
-                  ]
-            },
-            {
-                  "name": "Penfold Park",
-                  "text": "Ez a nagy közpark egyedülálló módon a Sha Tin lóversenypálya belsejében található, és gyönyörű mesterséges tavakkal büszkélkedhet.",
-                  "category": "park",
-                  "coords": [
-                        114.206799,
-                        22.399559
                   ]
             },
             {
@@ -6391,15 +5833,6 @@ export const hongkongReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Penfold Park",
-                  "text": "Situat în mod unic în interiorul hipodromului Sha Tin, acest mare parc public dispune de lacuri artificiale frumoase.",
-                  "category": "park",
-                  "coords": [
-                        114.206799,
-                        22.399559
-                  ]
-            },
-            {
                   "name": "Siu Lek Yuen Road Playground",
                   "text": "Acest parc recreativ activ dispune de facilități sportive extinse, inclusiv piste de biciclete pavate și terenuri de baschet.",
                   "category": "park",
@@ -6498,15 +5931,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.219387,
                         22.370855
-                  ]
-            },
-            {
-                  "name": "Penfold Park",
-                  "text": "Uniquely situated in the infield of the Sha Tin Racecourse, this large public park features beautiful artificial lakes and grassy lawns.",
-                  "category": "park",
-                  "coords": [
-                        114.206799,
-                        22.399559
                   ]
             },
             {
@@ -7276,15 +6700,6 @@ export const hongkongReliefV2: POI[] = [
                         114.24953,
                         22.244284
                   ]
-            },
-            {
-                  "name": "Tai Long Pai",
-                  "text": "Dieser abgelegene Leuchtturm markiert mit seinem Signalfeuer die felsigen Küstenabschnitte für vorbeifahrende Schiffe.",
-                  "category": "landmark",
-                  "coords": [
-                        114.2663,
-                        22.234033
-                  ]
             }
       ],
       "hu": [
@@ -7295,15 +6710,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.24953,
                         22.244284
-                  ]
-            },
-            {
-                  "name": "Tai Long Pai",
-                  "text": "Ez a távoli világítótorony jelzőfényével mutatja a sziklás partszakaszokat az elhaladó hajók számára.",
-                  "category": "landmark",
-                  "coords": [
-                        114.2663,
-                        22.234033
                   ]
             }
       ],
@@ -7316,15 +6722,6 @@ export const hongkongReliefV2: POI[] = [
                         114.24953,
                         22.244284
                   ]
-            },
-            {
-                  "name": "Tai Long Pai",
-                  "text": "Acest far izolat marchează secțiunile stâncoase de coastă cu lumina sa de semnalizare pentru navele aflate în trecere.",
-                  "category": "landmark",
-                  "coords": [
-                        114.2663,
-                        22.234033
-                  ]
             }
       ],
       "en": [
@@ -7335,15 +6732,6 @@ export const hongkongReliefV2: POI[] = [
                   "coords": [
                         114.24953,
                         22.244284
-                  ]
-            },
-            {
-                  "name": "Tai Long Pai",
-                  "text": "This remote lighthouse marks the rocky stretches of the coastline with its beacon for passing ships.",
-                  "category": "landmark",
-                  "coords": [
-                        114.2663,
-                        22.234033
                   ]
             }
       ]

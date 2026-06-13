@@ -492,15 +492,6 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-kowloon-walled-city-park-history-v2", "sights": {
       "de": [
             {
-                  "name": "Checkerboard Hill",
-                  "text": "Ein Hügel, der für das rot-weiße Schachbrettmuster an seiner Flanke bekannt ist, das Flugzeuge beim Landeanflug auf den alten Flughafen Kai Tak leitete.",
-                  "category": "natural",
-                  "coords": [
-                        114.184279,
-                        22.335691
-                  ]
-            },
-            {
                   "name": "CreativeKids",
                   "text": "Pädagogische Kunstgalerie, in der kreative Projekte und farbenfrohe Kunstwerke von lokalen Jugendlichen ausgestellt werden.",
                   "category": "museum",
@@ -655,15 +646,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Checkerboard Hill",
-                  "text": "Vörös és fehér sakktábla-mintájáról híres domb, amelyet az egykori Kai Tak repülőtérre leszálló repülőgépek irányítására festettek.",
-                  "category": "natural",
-                  "coords": [
-                        114.184279,
-                        22.335691
-                  ]
-            },
             {
                   "name": "CreativeKids",
                   "text": "Oktatási célú művészeti galéria, amely a helyi fiatalok kreatív projektjeit és színes alkotásait mutatja be.",
@@ -820,15 +802,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Checkerboard Hill",
-                  "text": "Deal renumit pentru modelul în șah roșu cu alb pictat pe partea sa, pentru a ghida avioanele care aterizau pe vechiul aeroport Kai Tak.",
-                  "category": "natural",
-                  "coords": [
-                        114.184279,
-                        22.335691
-                  ]
-            },
-            {
                   "name": "CreativeKids",
                   "text": "Galerie de artă educațională care expune proiecte creative și opere de artă colorate realizate de tinerii locali.",
                   "category": "museum",
@@ -983,15 +956,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Checkerboard Hill",
-                  "text": "Hill famous for the red and white checkerboard pattern painted on its side to guide planes landing at the old Kai Tak Airport.",
-                  "category": "natural",
-                  "coords": [
-                        114.184279,
-                        22.335691
-                  ]
-            },
             {
                   "name": "CreativeKids",
                   "text": "Educational art gallery showcasing creative projects and colorful artworks made by local youth.",
@@ -2175,15 +2139,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stanley Market",
-                  "text": "Der Stanley Market ist eine belebte Einkaufsattraktion mit vielen Marktständen in der Nähe des historischen Murray House.",
-                  "category": "landmark",
-                  "coords": [
-                        114.212515,
-                        22.218195
-                  ]
-            },
-            {
                   "name": "Tin Hau Temple",
                   "text": "Der bekannte Tin Hau Tempel ist eine traditionelle Kultstätte, die der Meeresgöttin in der Nähe des Murray House gewidmet ist.",
                   "category": "religious",
@@ -2264,15 +2219,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.200554,
                         22.214794
-                  ]
-            },
-            {
-                  "name": "Stanley Market",
-                  "text": "A Stanley Market egy nyüzsgő bevásárló látványosság, sok piaci standdal a történelmi Murray House közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        114.212515,
-                        22.218195
                   ]
             },
             {
@@ -2359,15 +2305,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stanley Market",
-                  "text": "Stanley Market este o atracție comercială plină de viață, cu multe tarabe, situată lângă istorica Murray House.",
-                  "category": "landmark",
-                  "coords": [
-                        114.212515,
-                        22.218195
-                  ]
-            },
-            {
                   "name": "Tin Hau Temple",
                   "text": "Renumitul Templu Tin Hau este un lăcaș de cult tradițional dedicat Zeiței Mării, situat lângă Murray House.",
                   "category": "religious",
@@ -2448,15 +2385,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.200554,
                         22.214794
-                  ]
-            },
-            {
-                  "name": "Stanley Market",
-                  "text": "Stanley Market is a bustling shopping attraction featuring many market stalls located near the historic Murray House.",
-                  "category": "landmark",
-                  "coords": [
-                        114.212515,
-                        22.218195
                   ]
             },
             {
@@ -4416,15 +4344,6 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-kun-ting-study-hall-history-v2", "sights": {
       "de": [
             {
-                  "name": "Yuen Long Park",
-                  "text": "Dieser weitläufige Park, der um einen natürlichen Hügel in den New Territories angelegt wurde, bietet üppige Schluchten, einen großen Rasen-Gateballplatz und kaskadierende Wasserfälle.",
-                  "category": "park",
-                  "coords": [
-                        114.018867,
-                        22.441833
-                  ]
-            },
-            {
                   "name": "Tang Ancestral Hall",
                   "text": "Diese bemerkenswerte Sehenswürdigkeit in Hongkong bewahrt das Erbe des lokalen Clans und ist ein weltweit anerkanntes Kulturerbe.",
                   "category": "landmark",
@@ -4435,15 +4354,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Yuen Long Park",
-                  "text": "Az Új Területeken egy természetes domboldal köré épült kiterjedt park buja szurdokokkal, egy nagy füves gateball pályával és lépcsőzetes vízesésekkel rendelkezik.",
-                  "category": "park",
-                  "coords": [
-                        114.018867,
-                        22.441833
-                  ]
-            },
             {
                   "name": "Tang Ancestral Hall",
                   "text": "Ez a figyelemre méltó hongkongi látványosság a helyi klán örökségét őrzi, és egy globálisan elismert örökségi helyszín.",
@@ -4456,15 +4366,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Yuen Long Park",
-                  "text": "Construit în jurul unui versant natural din Noile Teritorii, acest parc întins are ravene luxuriante, un teren mare de gateball pe iarbă și cascade în trepte.",
-                  "category": "park",
-                  "coords": [
-                        114.018867,
-                        22.441833
-                  ]
-            },
-            {
                   "name": "Tang Ancestral Hall",
                   "text": "Această atracție notabilă din Hong Kong păstrează moștenirea clanului local și este un sit de patrimoniu recunoscut la nivel mondial.",
                   "category": "landmark",
@@ -4475,15 +4376,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Yuen Long Park",
-                  "text": "Built around a natural hillside in the New Territories, this sprawling park features lush ravines, a large turf gateball court, and cascading waterfalls.",
-                  "category": "park",
-                  "coords": [
-                        114.018867,
-                        22.441833
-                  ]
-            },
             {
                   "name": "Tang Ancestral Hall",
                   "text": "This notable attraction in Hong Kong preserves local clan heritage and is a globally recognized site.",
@@ -4542,15 +4434,6 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-tang-ancestral-hall-history-v2", "sights": {
       "de": [
             {
-                  "name": "Alarm Clock Rock",
-                  "text": "Dieser markant erodierte Felsbrocken ist bei Wanderern wegen seiner eigenartigen Form berühmt, die an einen altmodischen Wecker erinnert.",
-                  "category": "landmark",
-                  "coords": [
-                        113.987433,
-                        22.390467
-                  ]
-            },
-            {
                   "name": "Iron Man",
                   "text": "Diese markante Felsformation an einem Wanderweg spiegelt auf natürliche Weise die schroffe Silhouette einer stehenden menschlichen Figur wider.",
                   "category": "landmark",
@@ -4578,33 +4461,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chairman Mao Rock",
-                  "text": "Dieser markante Felsvorsprung weist eine erodierte Silhouette auf, von der die Einheimischen glauben, dass sie dem charakteristischen Profil von Vorsitzendem Mao ähnelt.",
-                  "category": "landmark",
-                  "coords": [
-                        113.997107,
-                        22.386247
-                  ]
-            },
-            {
-                  "name": "The Bed of Heavenly Queen",
-                  "text": "Diese große, abgeflachte Steinplatte ist tief in der lokalen Folklore verwurzelt und hat die natürliche Form eines antiken Schlafpodests.",
-                  "category": "landmark",
-                  "coords": [
-                        113.991683,
-                        22.387526
-                  ]
-            },
-            {
-                  "name": "Gully",
-                  "text": "Dieser tiefe, schmale Naturgraben, der in den Hang gegraben wurde, zeigt die starken Auswirkungen der lokalen Bodenerosion.",
-                  "category": "landmark",
-                  "coords": [
-                        113.996085,
-                        22.396529
-                  ]
-            },
-            {
                   "name": "Ching Shu Hin",
                   "text": "Ching Shu Hin ist ein elegant dekoriertes historisches Gästehaus mit kunstvollen Holzschnitzereien und traditionellen chinesischen Wandmalereien.",
                   "category": "landmark",
@@ -4614,57 +4470,12 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ping Pak Lane Park",
-                  "text": "Der Ping Pak Lane Park ist eine ruhige Grünfläche in der Nachbarschaft, die von gepflasterten Gehwegen und schattigen Sitzbereichen durchzogen ist.",
-                  "category": "park",
-                  "coords": [
-                        114.006087,
-                        22.440328
-                  ]
-            },
-            {
-                  "name": "Fuk Hang Playground",
-                  "text": "Dieser Outdoor-Spielplatz ist für die Naherholung konzipiert und mit modernen Klettergerüsten sowie einem gepflasterten Sportplatz ausgestattet.",
-                  "category": "park",
-                  "coords": [
-                        113.985101,
-                        22.42156
-                  ]
-            },
-            {
-                  "name": "Miu Fat Buddhist Monastery",
-                  "text": "Das Miu Fat Buddhist Monastery ist eine international bekannte buddhistische Andachtsstätte.",
-                  "category": "religious",
-                  "coords": [
-                        113.983926,
-                        22.41985
-                  ]
-            },
-            {
-                  "name": "Ching Leung Nunnery",
-                  "text": "Die Ching Leung Nunnery ist eine bekannte buddhistische Gebets- und Klosterstätte.",
-                  "category": "religious",
-                  "coords": [
-                        113.980494,
-                        22.41007
-                  ]
-            },
-            {
                   "name": "Tuen Mun Riverside Park",
                   "text": "Der Tuen Mun Riverside Garden ist ein bekannter öffentlicher Park, der entlang des örtlichen Flussufers angelegt wurde.",
                   "category": "park",
                   "coords": [
                         113.976681,
                         22.405306
-                  ]
-            },
-            {
-                  "name": "Ching Chung Koon",
-                  "text": "Ching Chung Koon ist eine weithin bekannte taoistische Kultstätte.",
-                  "category": "religious",
-                  "coords": [
-                        113.973384,
-                        22.40616
                   ]
             },
             {
@@ -4805,15 +4616,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Alarm Clock Rock",
-                  "text": "Ez a jellegzetesen erodált szikla a túrázók körében olyan különleges formájáról híres, amely egy régimódi ébresztőórára hasonlít.",
-                  "category": "landmark",
-                  "coords": [
-                        113.987433,
-                        22.390467
-                  ]
-            },
-            {
                   "name": "Iron Man",
                   "text": "Egy szabadtéri ösvény mentén található ez a lenyűgöző sziklaalakzat, amely természetes módon tükrözi egy álló emberi alak zord sziluettjét.",
                   "category": "landmark",
@@ -4841,33 +4643,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chairman Mao Rock",
-                  "text": "Ez a kiemelkedő sziklaszirt egy olyan erodált sziluettet ábrázol, amely a helyiek szerint Mao elnök jellegzetes profiljára hasonlít.",
-                  "category": "landmark",
-                  "coords": [
-                        113.997107,
-                        22.386247
-                  ]
-            },
-            {
-                  "name": "The Bed of Heavenly Queen",
-                  "text": "Ez a nagy, lapított kőlap, amely a helyi folklórban is szerepel, természetes módon egy ősi hálópódiumra hasonlít.",
-                  "category": "landmark",
-                  "coords": [
-                        113.991683,
-                        22.387526
-                  ]
-            },
-            {
-                  "name": "Gully",
-                  "text": "A hegyoldalba vájt mély, keskeny természetes árok a helyi talajerózió erőteljes hatásait mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        113.996085,
-                        22.396529
-                  ]
-            },
-            {
                   "name": "Ching Shu Hin",
                   "text": "A Ching Shu Hin egy elegánsan díszített történelmi vendégház, bonyolult fafaragásokkal és hagyományos kínai falfestményekkel.",
                   "category": "landmark",
@@ -4877,57 +4652,12 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ping Pak Lane Park",
-                  "text": "A Ping Pak Lane Park egy csendes szomszédsági zöldterület, amelyet kikövezett sétányok és árnyékos ülőhelyek kereszteznek.",
-                  "category": "park",
-                  "coords": [
-                        114.006087,
-                        22.440328
-                  ]
-            },
-            {
-                  "name": "Fuk Hang Playground",
-                  "text": "Ezt a szabadtéri játszóteret a környékbeli kikapcsolódásra tervezték, modern mászókákkal és burkolt sportpályával felszerelve.",
-                  "category": "park",
-                  "coords": [
-                        113.985101,
-                        22.42156
-                  ]
-            },
-            {
-                  "name": "Miu Fat Buddhist Monastery",
-                  "text": "A Miu Fat Buddhist Monastery egy globálisan is elismert buddhista vallási épület.",
-                  "category": "religious",
-                  "coords": [
-                        113.983926,
-                        22.41985
-                  ]
-            },
-            {
-                  "name": "Ching Leung Nunnery",
-                  "text": "A Ching Leung Nunnery egy jelentős buddhista imaház és apácakolostor.",
-                  "category": "religious",
-                  "coords": [
-                        113.980494,
-                        22.41007
-                  ]
-            },
-            {
                   "name": "Tuen Mun Riverside Park",
                   "text": "A Tuen Mun Riverside Garden egy neves, folyópart mentén elterülő közpark.",
                   "category": "park",
                   "coords": [
                         113.976681,
                         22.405306
-                  ]
-            },
-            {
-                  "name": "Ching Chung Koon",
-                  "text": "A Ching Chung Koon egy széles körben ismert taoista istentiszteleti hely.",
-                  "category": "religious",
-                  "coords": [
-                        113.973384,
-                        22.40616
                   ]
             },
             {
@@ -5068,15 +4798,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Alarm Clock Rock",
-                  "text": "Acest bolovan cu o eroziune distinctă este renumit printre excursioniști pentru forma sa ciudată, care seamănă cu un ceas deșteptător vechi.",
-                  "category": "landmark",
-                  "coords": [
-                        113.987433,
-                        22.390467
-                  ]
-            },
-            {
                   "name": "Iron Man",
                   "text": "Situată de-a lungul unui traseu în aer liber, această formațiune stâncoasă izbitoare reflectă în mod natural silueta aspră a unei figuri umane.",
                   "category": "landmark",
@@ -5104,33 +4825,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chairman Mao Rock",
-                  "text": "Această stâncă proeminentă prezintă o siluetă erodată care, potrivit localnicilor, seamănă cu profilul distinct al președintelui Mao.",
-                  "category": "landmark",
-                  "coords": [
-                        113.997107,
-                        22.386247
-                  ]
-            },
-            {
-                  "name": "The Bed of Heavenly Queen",
-                  "text": "Această lespede mare și aplatizată de piatră este plină de folclor local, având forma naturală a unei platforme de dormit antice.",
-                  "category": "landmark",
-                  "coords": [
-                        113.991683,
-                        22.387526
-                  ]
-            },
-            {
-                  "name": "Gully",
-                  "text": "Acest șanț natural adânc și îngust, sculptat în versantul dealului, prezintă efectele puternice ale eroziunii locale a solului.",
-                  "category": "landmark",
-                  "coords": [
-                        113.996085,
-                        22.396529
-                  ]
-            },
-            {
                   "name": "Ching Shu Hin",
                   "text": "Ching Shu Hin este o casă de oaspeți istorică decorată elegant, cu sculpturi complicate din lemn și picturi murale tradiționale chinezești.",
                   "category": "landmark",
@@ -5140,57 +4834,12 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ping Pak Lane Park",
-                  "text": "Parcul Ping Pak Lane este un spațiu verde liniștit din cartier, străbătut de alei pavate și zone de relaxare umbrite.",
-                  "category": "park",
-                  "coords": [
-                        114.006087,
-                        22.440328
-                  ]
-            },
-            {
-                  "name": "Fuk Hang Playground",
-                  "text": "Conceput pentru recreerea în cartier, acest loc de joacă în aer liber este dotat cu cadre de cățărat moderne și un teren de sport pavat.",
-                  "category": "park",
-                  "coords": [
-                        113.985101,
-                        22.42156
-                  ]
-            },
-            {
-                  "name": "Miu Fat Buddhist Monastery",
-                  "text": "Miu Fat Buddhist Monastery este un lăcaș de cult budist recunoscut la nivel mondial.",
-                  "category": "religious",
-                  "coords": [
-                        113.983926,
-                        22.41985
-                  ]
-            },
-            {
-                  "name": "Ching Leung Nunnery",
-                  "text": "Ching Leung Nunnery este un lăcaș de cult și reculegere budist de notorietate.",
-                  "category": "religious",
-                  "coords": [
-                        113.980494,
-                        22.41007
-                  ]
-            },
-            {
                   "name": "Tuen Mun Riverside Park",
                   "text": "Tuen Mun Riverside Garden este un parc public recunoscut, situat de-a lungul malurilor râului.",
                   "category": "park",
                   "coords": [
                         113.976681,
                         22.405306
-                  ]
-            },
-            {
-                  "name": "Ching Chung Koon",
-                  "text": "Ching Chung Koon este un lăcaș de cult taoist de mare recunoaștere.",
-                  "category": "religious",
-                  "coords": [
-                        113.973384,
-                        22.40616
                   ]
             },
             {
@@ -5331,15 +4980,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Alarm Clock Rock",
-                  "text": "This distinctly eroded boulder is famous among hikers for its peculiar shape that closely resembles an old-fashioned alarm clock.",
-                  "category": "landmark",
-                  "coords": [
-                        113.987433,
-                        22.390467
-                  ]
-            },
-            {
                   "name": "Iron Man",
                   "text": "Situated along an outdoor trail, this striking rock formation naturally mirrors the rugged silhouette of a standing human figure.",
                   "category": "landmark",
@@ -5367,93 +5007,12 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chairman Mao Rock",
-                  "text": "This prominent rocky crag features an eroded silhouette that locals believe resembles the distinctive profile of Chairman Mao.",
-                  "category": "landmark",
-                  "coords": [
-                        113.997107,
-                        22.386247
-                  ]
-            },
-            {
-                  "name": "The Bed of Heavenly Queen",
-                  "text": "This large, flattened stone slab is steeped in local folklore, naturally shaped like an ancient regal sleeping platform.",
-                  "category": "landmark",
-                  "coords": [
-                        113.991683,
-                        22.387526
-                  ]
-            },
-            {
-                  "name": "Gully",
-                  "text": "This deep, narrow natural trench carved into the hillside showcases the powerful effects of localized soil erosion.",
-                  "category": "landmark",
-                  "coords": [
-                        113.996085,
-                        22.396529
-                  ]
-            },
-            {
                   "name": "Ching Shu Hin",
                   "text": "Ching Shu Hin is an elegantly decorated historical guesthouse featuring intricate wood carvings and traditional Chinese murals.",
                   "category": "landmark",
                   "coords": [
                         114.007368,
                         22.444217
-                  ]
-            },
-            {
-                  "name": "Ping Pak Lane Park",
-                  "text": "Ping Pak Lane Park is a serene neighborhood green space crisscrossed with paved walking paths and shaded seating areas.",
-                  "category": "park",
-                  "coords": [
-                        114.006087,
-                        22.440328
-                  ]
-            },
-            {
-                  "name": "Fuk Hang Playground",
-                  "text": "Designed for neighborhood recreation, this outdoor playground is equipped with modern climbing frames and a paved sports court.",
-                  "category": "park",
-                  "coords": [
-                        113.985101,
-                        22.42156
-                  ]
-            },
-            {
-                  "name": "Miu Fat Buddhist Monastery",
-                  "text": "Miu Fat Buddhist Monastery is a globally notable Buddhist place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        113.983926,
-                        22.41985
-                  ]
-            },
-            {
-                  "name": "Ching Leung Nunnery",
-                  "text": "Ching Leung Nunnery is a notable Buddhist place of worship and monastic retreat.",
-                  "category": "religious",
-                  "coords": [
-                        113.980494,
-                        22.41007
-                  ]
-            },
-            {
-                  "name": "Tuen Mun Riverside Garden",
-                  "text": "Tuen Mun Riverside Garden is a notable public park situated along the local riverbanks.",
-                  "category": "park",
-                  "coords": [
-                        113.976681,
-                        22.405306
-                  ]
-            },
-            {
-                  "name": "Ching Chung Koon",
-                  "text": "Ching Chung Koon is a widely recognized Taoist place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        113.973384,
-                        22.40616
                   ]
             },
             {
@@ -6027,15 +5586,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shang Sin Chun Tong",
-                  "text": "Diese kunstvoll gestaltete Kultstätte ist traditionellen religiösen Praktiken gewidmet und verfügt über aufwendige Holzschnitzereien und von Weihrauch erfüllte Innenhöfe.",
-                  "category": "religious",
-                  "coords": [
-                        114.177328,
-                        22.333872
-                  ]
-            },
-            {
                   "name": "To Yuen Street Playground",
                   "text": "Dieser in einem belebten Viertel gelegene Nachbarschaftspark bietet gut ausgestattete Sportplätze und schattige Sitzbereiche.",
                   "category": "park",
@@ -6051,15 +5601,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.174227,
                         22.327852
-                  ]
-            },
-            {
-                  "name": "Shek Kip Mei Central Playground",
-                  "text": "Dieser aktive Freizeitpark verfügt über eine Vielzahl von Hartplatz-Sportfeldern und Klettergerüsten für einheimische Kinder.",
-                  "category": "park",
-                  "coords": [
-                        114.169002,
-                        22.333181
                   ]
             },
             {
@@ -6263,15 +5804,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shang Sin Chun Tong",
-                  "text": "Ez a hagyományos vallási gyakorlatoknak szentelt, díszes istentiszteleti hely bonyolult fafaragásokkal és füstölő illatú udvarokkal rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        114.177328,
-                        22.333872
-                  ]
-            },
-            {
                   "name": "To Yuen Street Playground",
                   "text": "A nyüzsgő negyedben megbúvó park jól felszerelt sportpályákkal és árnyékos ülőhelyekkel várja a látogatókat.",
                   "category": "park",
@@ -6287,15 +5819,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.174227,
                         22.327852
-                  ]
-            },
-            {
-                  "name": "Shek Kip Mei Central Playground",
-                  "text": "Ez az aktív rekreációs park különféle kemény burkolatú sportpályákkal és mászókákkal várja a helyi gyerekeket.",
-                  "category": "park",
-                  "coords": [
-                        114.169002,
-                        22.333181
                   ]
             },
             {
@@ -6499,15 +6022,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shang Sin Chun Tong",
-                  "text": "Dedicat practicilor religioase tradiționale, acest lăcaș de cult bogat ornamentat prezintă sculpturi complexe în lemn și curți pline de tămâie.",
-                  "category": "religious",
-                  "coords": [
-                        114.177328,
-                        22.333872
-                  ]
-            },
-            {
                   "name": "To Yuen Street Playground",
                   "text": "Amplasat într-o zonă plină de viață, acest parc de cartier oferă terenuri de sport bine echipate și zone de relaxare la umbră.",
                   "category": "park",
@@ -6523,15 +6037,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.174227,
                         22.327852
-                  ]
-            },
-            {
-                  "name": "Shek Kip Mei Central Playground",
-                  "text": "Acest parc activ de recreere dispune de o varietate de terenuri de sport pe suprafață dură și structuri de cățărat pentru copiii din zonă.",
-                  "category": "park",
-                  "coords": [
-                        114.169002,
-                        22.333181
                   ]
             },
             {
@@ -6735,15 +6240,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shang Sin Chun Tong",
-                  "text": "Dedicated to traditional religious practices, this ornate place of worship features intricate wooden carvings and incense-filled courtyards.",
-                  "category": "religious",
-                  "coords": [
-                        114.177328,
-                        22.333872
-                  ]
-            },
-            {
                   "name": "To Yuen Street Playground",
                   "text": "Nestled in a bustling area, this neighborhood park provides well-equipped sporting courts and shaded seating areas.",
                   "category": "park",
@@ -6759,15 +6255,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.174227,
                         22.327852
-                  ]
-            },
-            {
-                  "name": "Shek Kip Mei Central Playground",
-                  "text": "This active recreational park features a variety of hard-surface sports pitches and climbing frames for local children.",
-                  "category": "park",
-                  "coords": [
-                        114.169002,
-                        22.333181
                   ]
             },
             {
@@ -6990,15 +6477,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Hong Kong Racing Museum",
-                  "text": "Dieses Museum an der Happy Valley Pferderennbahn zeichnet die tief verwurzelte Geschichte des Pferderennsports und die Entwicklung des Jockey Clubs in der Stadt nach.",
-                  "category": "museum",
-                  "coords": [
-                        114.179941,
-                        22.274191
-                  ]
-            },
-            {
                   "name": "Police Museum",
                   "text": "In einer ehemaligen Polizeistation untergebracht, stellt dieses Museum historische Artefakte der Strafverfolgungsbehörden aus, darunter beschlagnahmte Utensilien von Triaden-Gesellschaften.",
                   "category": "museum",
@@ -7052,15 +6530,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.174277,
                         22.270828
-                  ]
-            },
-            {
-                  "name": "The Hong Kong Racing Museum",
-                  "text": "A Happy Valley lóversenypályán található múzeum a lóversenyzés mélyen gyökerező történetét és a Jockey Club fejlődését mutatja be a városban.",
-                  "category": "museum",
-                  "coords": [
-                        114.179941,
-                        22.274191
                   ]
             },
             {
@@ -7120,15 +6589,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Hong Kong Racing Museum",
-                  "text": "Situat la Hipodromul Happy Valley, acest muzeu urmărește istoria profund înrădăcinată a curselor de cai și evoluția Jockey Clubului în oraș.",
-                  "category": "museum",
-                  "coords": [
-                        114.179941,
-                        22.274191
-                  ]
-            },
-            {
                   "name": "Police Museum",
                   "text": "Găzduit într-o fostă secție de poliție, acest muzeu expune artefacte istorice de aplicare a legii, inclusiv echipamente confiscate ale societăților de tip triadă.",
                   "category": "museum",
@@ -7182,15 +6642,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.174277,
                         22.270828
-                  ]
-            },
-            {
-                  "name": "The Hong Kong Racing Museum",
-                  "text": "Situated at the Happy Valley Racecourse, this museum traces the deep-rooted history of horse racing and the evolution of the Jockey Club in the city.",
-                  "category": "museum",
-                  "coords": [
-                        114.179941,
-                        22.274191
                   ]
             },
             {
@@ -7917,15 +7368,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lighthouse No. 132",
-                  "text": "Das maritime Navigationsfeuer warnt Schiffe vor den felsigen Küstenrändern in der Nähe der Bucht.",
-                  "category": "landmark",
-                  "coords": [
-                        114.12155,
-                        22.238933
-                  ]
-            },
-            {
                   "name": "Lung Shan Pai",
                   "text": "Das Leuchtfeuer befindet sich auf einem felsigen Offshore-Vorsprung, um vorbeifahrende Schiffe sicher zu leiten.",
                   "category": "landmark",
@@ -7950,15 +7392,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.140955,
                         22.247799
-                  ]
-            },
-            {
-                  "name": "Luk Chau Wan",
-                  "text": "Die Küstenbucht bildet einen geschützten natürlichen Meeresarm entlang der felsigen Küstenlinie der Insel.",
-                  "category": "landmark",
-                  "coords": [
-                        114.127905,
-                        22.230274
                   ]
             },
             {
@@ -7991,15 +7424,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lighthouse No. 132",
-                  "text": "A tengeri navigációs jelzőfény a part menti sziklás peremekre figyelmezteti az öböl közelében elhaladó hajókat.",
-                  "category": "landmark",
-                  "coords": [
-                        114.12155,
-                        22.238933
-                  ]
-            },
-            {
                   "name": "Lung Shan Pai",
                   "text": "A tengeri jelzőfény egy part menti sziklás kiemelkedésen található, hogy biztonságosan irányítsa az elhaladó hajókat.",
                   "category": "landmark",
@@ -8024,15 +7448,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.140955,
                         22.247799
-                  ]
-            },
-            {
-                  "name": "Luk Chau Wan",
-                  "text": "A tengeröböl egy védett természetes bemélyedést képez a sziget sziklás partvonala mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        114.127905,
-                        22.230274
                   ]
             },
             {
@@ -8065,15 +7480,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lighthouse No. 132",
-                  "text": "Farul de navigație maritimă avertizează navele asupra marginilor stâncoase de coastă din apropierea golfului.",
-                  "category": "landmark",
-                  "coords": [
-                        114.12155,
-                        22.238933
-                  ]
-            },
-            {
                   "name": "Lung Shan Pai",
                   "text": "Farul maritim se află pe un afloriment stâncos în larg, pentru a ghida în siguranță navele aflate în trecere.",
                   "category": "landmark",
@@ -8098,15 +7504,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.140955,
                         22.247799
-                  ]
-            },
-            {
-                  "name": "Luk Chau Wan",
-                  "text": "Golful de coastă formează o intrare naturală adăpostită de-a lungul țărmului stâncos al insulei.",
-                  "category": "landmark",
-                  "coords": [
-                        114.127905,
-                        22.230274
                   ]
             },
             {
@@ -8139,15 +7536,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lighthouse No. 132",
-                  "text": "The maritime navigational beacon warns ships of the rocky coastal edges near the bay.",
-                  "category": "landmark",
-                  "coords": [
-                        114.12155,
-                        22.238933
-                  ]
-            },
-            {
                   "name": "Lung Shan Pai",
                   "text": "The maritime beacon sits on a rocky offshore outcrop to safely guide passing vessels.",
                   "category": "landmark",
@@ -8172,15 +7560,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.140955,
                         22.247799
-                  ]
-            },
-            {
-                  "name": "Luk Chau Wan",
-                  "text": "The coastal bay forms a sheltered natural inlet along the island's rocky shoreline.",
-                  "category": "landmark",
-                  "coords": [
-                        114.127905,
-                        22.230274
                   ]
             },
             {
@@ -8250,42 +7629,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lei Yue Mun Lighthouse",
-                  "text": "Der Leuchtturm Lei Yue Mun ist ein bekanntes maritimes Navigationsfeuer, das Schiffe durch die schmale östliche Einfahrt des Victoria Harbour führt.",
-                  "category": "landmark",
-                  "coords": [
-                        114.23655,
-                        22.287933
-                  ]
-            },
-            {
-                  "name": "Jockey Club Lei Yue Mun Plus",
-                  "text": "Das im November 2011 eröffnete Jockey Club Lei Yue Mun Plus ist ein Bildungsmuseum, das die lokale Kultur und Geschichte präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        114.237487,
-                        22.289108
-                  ]
-            },
-            {
-                  "name": "Pottinger Battery",
-                  "text": "Die Ruinen der Pottinger Battery bieten einen Einblick in die historischen Küstenverteidigungsanlagen, die mit Blick auf den Kanal von Lei Yue Mun erbaut wurden.",
-                  "category": "historical",
-                  "coords": [
-                        114.242483,
-                        22.2872
-                  ]
-            },
-            {
-                  "name": "Tin Hau Temple",
-                  "text": "Der historische Tin Hau Tempel bei Lei Yue Mun ist der verehrten chinesischen Meeresgöttin gewidmet.",
-                  "category": "religious",
-                  "coords": [
-                        114.239862,
-                        22.28623
-                  ]
-            },
-            {
                   "name": "Hong Kong Museum of the War of Resistance and Coastal Defence",
                   "text": "Das in einem ehemaligen Küstenfort untergebrachte Hong Kong Museum of the War of Resistance and Coastal Defence dokumentiert die Militärgeschichte der Region.",
                   "category": "museum",
@@ -8330,42 +7673,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.234533,
                         22.284467
-                  ]
-            },
-            {
-                  "name": "Lei Yue Mun Lighthouse",
-                  "text": "A Lei Yue Mun világítótorony egy jól ismert tengeri navigációs jelzőfény, amely a hajókat a Victoria Harbour szűk keleti bejáratánál irányítja.",
-                  "category": "landmark",
-                  "coords": [
-                        114.23655,
-                        22.287933
-                  ]
-            },
-            {
-                  "name": "Jockey Club Lei Yue Mun Plus",
-                  "text": "A 2011 novemberében megnyílt Jockey Club Lei Yue Mun Plus egy oktatási múzeum, amely a helyi kultúrát és történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        114.237487,
-                        22.289108
-                  ]
-            },
-            {
-                  "name": "Pottinger Battery",
-                  "text": "A Pottinger Battery romjai bepillantást engednek a Lei Yue Mun csatornára néző történelmi partvédelmi erődítményekbe.",
-                  "category": "historical",
-                  "coords": [
-                        114.242483,
-                        22.2872
-                  ]
-            },
-            {
-                  "name": "Tin Hau Temple",
-                  "text": "A Lei Yue Mun közelében található történelmi Tin Hau templomot a tenger tisztelt kínai istennőjének szentelték.",
-                  "category": "religious",
-                  "coords": [
-                        114.239862,
-                        22.28623
                   ]
             },
             {
@@ -8416,42 +7723,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lei Yue Mun Lighthouse",
-                  "text": "Farul Lei Yue Mun este un far de navigație maritim bine cunoscut care ghidează navele prin intrarea îngustă de est a portului Victoria.",
-                  "category": "landmark",
-                  "coords": [
-                        114.23655,
-                        22.287933
-                  ]
-            },
-            {
-                  "name": "Jockey Club Lei Yue Mun Plus",
-                  "text": "Deschis în noiembrie 2011, Jockey Club Lei Yue Mun Plus este un muzeu educațional care prezintă cultura și istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        114.237487,
-                        22.289108
-                  ]
-            },
-            {
-                  "name": "Pottinger Battery",
-                  "text": "Ruinele Bateriei Pottinger oferă o privire asupra fortificațiilor istorice de apărare a coastei construite cu vedere la canalul Lei Yue Mun.",
-                  "category": "historical",
-                  "coords": [
-                        114.242483,
-                        22.2872
-                  ]
-            },
-            {
-                  "name": "Tin Hau Temple",
-                  "text": "Templul istoric Tin Hau de lângă Lei Yue Mun este dedicat veneratei zeițe chineze a mării.",
-                  "category": "religious",
-                  "coords": [
-                        114.239862,
-                        22.28623
-                  ]
-            },
-            {
                   "name": "Hong Kong Museum of the War of Resistance and Coastal Defence",
                   "text": "Găzduit într-un fost fort de coastă, Hong Kong Museum of the War of Resistance and Coastal Defence relatează istoria militară a regiunii.",
                   "category": "museum",
@@ -8496,42 +7767,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.234533,
                         22.284467
-                  ]
-            },
-            {
-                  "name": "Lei Yue Mun Lighthouse",
-                  "text": "The Lei Yue Mun Lighthouse is a well-known maritime navigation beacon guiding ships through the narrow eastern entrance of Victoria Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        114.23655,
-                        22.287933
-                  ]
-            },
-            {
-                  "name": "Jockey Club Lei Yue Mun Plus",
-                  "text": "Opened in November 2011, the Jockey Club Lei Yue Mun Plus is an educational museum showcasing local culture and history.",
-                  "category": "museum",
-                  "coords": [
-                        114.237487,
-                        22.289108
-                  ]
-            },
-            {
-                  "name": "Pottinger Battery",
-                  "text": "The Pottinger Battery ruins offer a glimpse into the historic coastal defense fortifications built overlooking the Lei Yue Mun channel.",
-                  "category": "historical",
-                  "coords": [
-                        114.242483,
-                        22.2872
-                  ]
-            },
-            {
-                  "name": "Tin Hau Temple",
-                  "text": "The historic Tin Hau Temple near Lei Yue Mun is dedicated to the revered Chinese goddess of the sea.",
-                  "category": "religious",
-                  "coords": [
-                        114.239862,
-                        22.28623
                   ]
             },
             {
@@ -9123,15 +8358,6 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-mount-davis-battery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Mount Davis",
-                  "text": "Dieser 269 Meter hohe Berggipfel ist bekannt für seine historische militärische Bedeutung.",
-                  "category": "natural",
-                  "coords": [
-                        114.124856,
-                        22.276952
-                  ]
-            },
-            {
                   "name": "Boundary Stone, City of Victoria",
                   "text": "Dieses im Jahr 1903 aufgestellte Denkmal diente als offizielle Markierung der Stadtgrenze.",
                   "category": "historical",
@@ -9169,15 +8395,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mount Davis",
-                  "text": "Ez a 269 méter magas hegycsúcs történelmi katonai jelentőségéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        114.124856,
-                        22.276952
-                  ]
-            },
             {
                   "name": "Boundary Stone, City of Victoria",
                   "text": "Ez az 1903-ban felállított emlékmű a város hivatalos határának megjelölésére szolgált.",
@@ -9217,15 +8434,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mount Davis",
-                  "text": "Acest vârf de munte înalt de 269 de metri este cunoscut pentru importanța sa militară istorică.",
-                  "category": "natural",
-                  "coords": [
-                        114.124856,
-                        22.276952
-                  ]
-            },
-            {
                   "name": "Boundary Stone, City of Victoria",
                   "text": "Acest monument instalat în anul 1903 a servit ca marcaj oficial al graniței orașului.",
                   "category": "historical",
@@ -9263,15 +8471,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mount Davis",
-                  "text": "This 269-metre-tall peak is noted for its prominent historic military significance.",
-                  "category": "natural",
-                  "coords": [
-                        114.124856,
-                        22.276952
-                  ]
-            },
             {
                   "name": "Boundary Stone, City of Victoria",
                   "text": "Erected in 1903, this monument served as an official marker for the city boundary.",
@@ -9357,15 +8556,6 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-pinewood-battery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Belcher Bay",
-                  "text": "Eine markante Bucht an der Nordwestküste von Hong Kong Island.",
-                  "category": "landmark",
-                  "coords": [
-                        114.126446,
-                        22.284262
-                  ]
-            },
-            {
                   "name": "Lung Fu Shan",
                   "text": "Ein bekannter Berggipfel auf Hong Kong Island, der für seinen Landschaftspark und seine Wanderwege bekannt ist.",
                   "category": "natural",
@@ -9390,24 +8580,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.128765,
                         22.283738
-                  ]
-            },
-            {
-                  "name": "K-FARM",
-                  "text": "Dieser im Jahr 2020 angelegte Garten bietet grüne Erholungsflächen in der Stadt.",
-                  "category": "park",
-                  "coords": [
-                        114.129173,
-                        22.284921
-                  ]
-            },
-            {
-                  "name": "Lo Pan Temple",
-                  "text": "Dieser denkmalgeschützte Tempel (Kategorie 2) ist dem chinesischen Schutzpatron der Baumeister gewidmet.",
-                  "category": "religious",
-                  "coords": [
-                        114.131942,
-                        22.282991
                   ]
             },
             {
@@ -9440,15 +8612,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Belcher Bay",
-                  "text": "Egy kiemelkedő öböl Hongkong szigetének északnyugati partja mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        114.126446,
-                        22.284262
-                  ]
-            },
-            {
                   "name": "Lung Fu Shan",
                   "text": "A Hongkong szigetén található nevezetes hegycsúcs, amely vidéki parkjáról és túraútvonalairól ismert.",
                   "category": "natural",
@@ -9473,24 +8636,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.128765,
                         22.283738
-                  ]
-            },
-            {
-                  "name": "K-FARM",
-                  "text": "Ezt a 2020-ban alapított kertet a városi zöldövezeti kikapcsolódásra hozták létre.",
-                  "category": "park",
-                  "coords": [
-                        114.129173,
-                        22.284921
-                  ]
-            },
-            {
-                  "name": "Lo Pan Temple",
-                  "text": "Ez a 2-es kategóriájú műemléktemplom az építők kínai védőszentjének állít emléket.",
-                  "category": "religious",
-                  "coords": [
-                        114.131942,
-                        22.282991
                   ]
             },
             {
@@ -9523,15 +8668,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Belcher Bay",
-                  "text": "Un golf proeminent de-a lungul coastei de nord-vest a insulei Hong Kong.",
-                  "category": "landmark",
-                  "coords": [
-                        114.126446,
-                        22.284262
-                  ]
-            },
-            {
                   "name": "Lung Fu Shan",
                   "text": "Un vârf montan notabil pe insula Hong Kong, cunoscut pentru parcul său național și traseele de drumeție.",
                   "category": "natural",
@@ -9556,24 +8692,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.128765,
                         22.283738
-                  ]
-            },
-            {
-                  "name": "K-FARM",
-                  "text": "Această grădină înființată în anul 2020 oferă un spațiu verde pentru recreere.",
-                  "category": "park",
-                  "coords": [
-                        114.129173,
-                        22.284921
-                  ]
-            },
-            {
-                  "name": "Lo Pan Temple",
-                  "text": "Acest templu cu statut de patrimoniu de gradul 2 este închinat patronului chinez al constructorilor.",
-                  "category": "religious",
-                  "coords": [
-                        114.131942,
-                        22.282991
                   ]
             },
             {
@@ -9606,15 +8724,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Belcher Bay",
-                  "text": "A prominent bay area along the northwestern coast of Hong Kong Island.",
-                  "category": "landmark",
-                  "coords": [
-                        114.126446,
-                        22.284262
-                  ]
-            },
-            {
                   "name": "Lung Fu Shan",
                   "text": "A notable mountain peak on Hong Kong Island known for its country park and hiking paths.",
                   "category": "natural",
@@ -9639,24 +8748,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.128765,
                         22.283738
-                  ]
-            },
-            {
-                  "name": "K-FARM",
-                  "text": "Established in 2020, this garden provides a green space for urban recreation.",
-                  "category": "park",
-                  "coords": [
-                        114.129173,
-                        22.284921
-                  ]
-            },
-            {
-                  "name": "Lo Pan Temple",
-                  "text": "This Grade 2 heritage temple is dedicated to the Chinese patron saint of builders.",
-                  "category": "religious",
-                  "coords": [
-                        114.131942,
-                        22.282991
                   ]
             },
             {
@@ -9744,15 +8835,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hairpin Beach",
-                  "text": "Bekannt für seine geschwungene Küstenlinie, ist dieser bemerkenswerte Sandstrand ein beliebter Ort für Sonnenanbeter und Schwimmer.",
-                  "category": "recreational",
-                  "coords": [
-                        114.214944,
-                        22.224133
-                  ]
-            },
-            {
                   "name": "Stanley Main Beach",
                   "text": "Gesäumt von ruhigen Gewässern, ist dieser zentrale Sandstrand ein Knotenpunkt für Erholung am Meer und Wassersport.",
                   "category": "recreational",
@@ -9779,15 +8861,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.215152,
                         22.216025
-                  ]
-            },
-            {
-                  "name": "Hairpin Beach",
-                  "text": "A ívelt partvonaláról ismert, jelentős homokos strand a napozók és úszók népszerű helye.",
-                  "category": "recreational",
-                  "coords": [
-                        114.214944,
-                        22.224133
                   ]
             },
             {
@@ -9820,15 +8893,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hairpin Beach",
-                  "text": "Cunoscută pentru țărmul său curbat, această plajă de nisip notabilă este un loc popular pentru iubitorii de soare și înotători.",
-                  "category": "recreational",
-                  "coords": [
-                        114.214944,
-                        22.224133
-                  ]
-            },
-            {
                   "name": "Stanley Main Beach",
                   "text": "Mărginită de ape calme, această plajă principală cu nisip este un centru principal pentru recreere pe litoral și sporturi nautice.",
                   "category": "recreational",
@@ -9855,15 +8919,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.215152,
                         22.216025
-                  ]
-            },
-            {
-                  "name": "Hairpin Beach",
-                  "text": "Known for its curved shoreline, this notable sandy beach is a popular spot for sunseekers and swimmers.",
-                  "category": "recreational",
-                  "coords": [
-                        114.214944,
-                        22.224133
                   ]
             },
             {
@@ -10410,15 +9465,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sok Kwu Wan Playground",
-                  "text": "Der Sok Kwu Wan Playground ist ein öffentlicher Park, der Erholungsraum in der Nähe der Felszeichnungen von Cheung Chau bietet.",
-                  "category": "park",
-                  "coords": [
-                        114.132267,
-                        22.20621
-                  ]
-            },
-            {
                   "name": "Tin Hau Temple",
                   "text": "Dieser historische Tin Hau Tempel, der als Kultstätte in der Nähe der Felszeichnungen von Cheung Chau dient, wurde 1868 gegründet.",
                   "category": "religious",
@@ -10472,15 +9518,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.140328,
                         22.197249
-                  ]
-            },
-            {
-                  "name": "Sok Kwu Wan Playground",
-                  "text": "A Sok Kwu Wan Playground egy nyilvános park, amely rekreációs teret biztosít a Cheung Chau-i sziklarajzok közelében.",
-                  "category": "park",
-                  "coords": [
-                        114.132267,
-                        22.20621
                   ]
             },
             {
@@ -10540,15 +9577,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sok Kwu Wan Playground",
-                  "text": "Sok Kwu Wan Playground este un parc public care oferă spațiu de recreere lângă sculpturile în stâncă din Cheung Chau.",
-                  "category": "park",
-                  "coords": [
-                        114.132267,
-                        22.20621
-                  ]
-            },
-            {
                   "name": "Tin Hau Temple",
                   "text": "Acest istoric Templu Tin Hau, care servește ca lăcaș de cult lângă sculpturile în stâncă din Cheung Chau, a fost înființat în 1868.",
                   "category": "religious",
@@ -10602,15 +9630,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.140328,
                         22.197249
-                  ]
-            },
-            {
-                  "name": "Sok Kwu Wan Playground",
-                  "text": "Sok Kwu Wan Playground is a public park area providing recreational space near the Cheung Chau rock carvings.",
-                  "category": "park",
-                  "coords": [
-                        114.132267,
-                        22.20621
                   ]
             },
             {
@@ -11688,24 +10707,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hong Kong Kun Chung Temple",
-                  "text": "Diese wegen ihrer religiösen Bedeutung weithin bekannte Kultstätte weist komplexe architektonische Details auf, die typisch für chinesische Schreine sind.",
-                  "category": "religious",
-                  "coords": [
-                        114.136875,
-                        22.492024
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Church Fanling",
-                  "text": "Diese gut etablierte Kultstätte ist dem Heiligen Josef gewidmet und dient der wachsenden christlichen Gemeinde mit regelmäßigen Gottesdiensten.",
-                  "category": "religious",
-                  "coords": [
-                        114.141017,
-                        22.498911
-                  ]
-            },
-            {
                   "name": "The Emperor Hall",
                   "text": "Diese bedeutende Kultstätte verehrt die Ahnen-Gottheiten und verfügt über kunstvolle Altäre, die mit historischen Schnitzereien verziert sind.",
                   "category": "religious",
@@ -11768,24 +10769,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.137972,
                         22.490273
-                  ]
-            },
-            {
-                  "name": "Hong Kong Kun Chung Temple",
-                  "text": "A vallási jelentőségéről széles körben ismert istentiszteleti hely a kínai szentélyekre jellemző bonyolult építészeti részletekkel rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        114.136875,
-                        22.492024
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Church Fanling",
-                  "text": "A Szent Józsefnek szentelt, jól megalapozott istentiszteleti hely a növekvő keresztény közösséget szolgálja rendszeres szertartásokkal.",
-                  "category": "religious",
-                  "coords": [
-                        114.141017,
-                        22.498911
                   ]
             },
             {
@@ -11854,24 +10837,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hong Kong Kun Chung Temple",
-                  "text": "Cunoscut pe scară largă pentru importanța sa religioasă, acest lăcaș de cult prezintă detalii arhitecturale complexe tipice altarelor chinezești.",
-                  "category": "religious",
-                  "coords": [
-                        114.136875,
-                        22.492024
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Church Fanling",
-                  "text": "Dedicat Sfântului Iosif, acest lăcaș de cult bine stabilit servește comunitatea creștină în creștere cu slujbe religioase regulate.",
-                  "category": "religious",
-                  "coords": [
-                        114.141017,
-                        22.498911
-                  ]
-            },
-            {
                   "name": "The Emperor Hall",
                   "text": "Acest lăcaș de cult proeminent venerează zeitățile ancestrale și prezintă altare ornamentate împodobite cu sculpturi istorice.",
                   "category": "religious",
@@ -11934,24 +10899,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.137972,
                         22.490273
-                  ]
-            },
-            {
-                  "name": "Hong Kong Kun Chung Temple",
-                  "text": "Widely noted for its religious significance, this place of worship features intricate architectural details typical of Chinese shrines.",
-                  "category": "religious",
-                  "coords": [
-                        114.136875,
-                        22.492024
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Church Fanling",
-                  "text": "Dedicated to St. Joseph, this well-established place of worship serves the growing Christian community with regular religious services.",
-                  "category": "religious",
-                  "coords": [
-                        114.141017,
-                        22.498911
                   ]
             },
             {
@@ -12570,48 +11517,12 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morse Park No. 3",
-                  "text": "Dieser Abschnitt des ausgedehnten städtischen Morse Parks bietet grüne Erholungsflächen für die umliegende Gemeinde.",
-                  "category": "park",
-                  "coords": [
-                        114.190759,
-                        22.338802
-                  ]
-            },
-            {
                   "name": "Morse Park No. 1",
                   "text": "Als Teil eines großen öffentlichen Erholungsgebiets bietet dieser Stadtpark Sportanlagen und angelegte Spazierwege.",
                   "category": "park",
                   "coords": [
                         114.193947,
                         22.336751
-                  ]
-            },
-            {
-                  "name": "Choi Hung Road Playground",
-                  "text": "Dieser öffentliche Platz wurde auf dem ehemaligen Gelände des Kai Tak Vergnügungsparks errichtet und bietet heute moderne Freizeiteinrichtungen.",
-                  "category": "park",
-                  "coords": [
-                        114.196893,
-                        22.337934
-                  ]
-            },
-            {
-                  "name": "Fung Tak Park",
-                  "text": "Dieser thematische Stadtpark besticht durch architektonische Designs und eine Landschaftsgestaltung, die von dem klassischen chinesischen Roman „Die Reise nach Westen“ inspiriert sind.",
-                  "category": "park",
-                  "coords": [
-                        114.197932,
-                        22.342596
-                  ]
-            },
-            {
-                  "name": "Sheng Kung Hui Calvary Church",
-                  "text": "Ein anglikanisches Gotteshaus, das den spirituellen Bedürfnissen der lokalen Gemeinde Wong Tai Sin dient.",
-                  "category": "religious",
-                  "coords": [
-                        114.196161,
-                        22.339648
                   ]
             },
             {
@@ -12707,48 +11618,12 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morse Park No. 3",
-                  "text": "A kiterjedt városi Morse Park ezen része rekreációs zöldterületet biztosít a környező közösség számára.",
-                  "category": "park",
-                  "coords": [
-                        114.190759,
-                        22.338802
-                  ]
-            },
-            {
                   "name": "Morse Park No. 1",
                   "text": "A nagy nyilvános rekreációs terület részét képező városi park sportlétesítményekkel és parkosított sétányokkal rendelkezik.",
                   "category": "park",
                   "coords": [
                         114.193947,
                         22.336751
-                  ]
-            },
-            {
-                  "name": "Choi Hung Road Playground",
-                  "text": "A Kai Tak Vidámpark egykori helyén épült nyilvános tér ma modern rekreációs létesítményeket kínál.",
-                  "category": "park",
-                  "coords": [
-                        114.196893,
-                        22.337934
-                  ]
-            },
-            {
-                  "name": "Fung Tak Park",
-                  "text": "Ez a tematikus városi park a „Nyugati utazás” című klasszikus kínai regény által ihletett építészeti megoldásokkal és parkosítással büszkélkedhet.",
-                  "category": "park",
-                  "coords": [
-                        114.197932,
-                        22.342596
-                  ]
-            },
-            {
-                  "name": "Sheng Kung Hui Calvary Church",
-                  "text": "Egy anglikan istentiszteleti hely, amely a helyi Wong Tai Sin közösség hitéletét szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        114.196161,
-                        22.339648
                   ]
             },
             {
@@ -12844,48 +11719,12 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morse Park No. 3",
-                  "text": "Această secțiune a vastului parc urban Morse oferă un spațiu verde de recreere pentru comunitatea din jur.",
-                  "category": "park",
-                  "coords": [
-                        114.190759,
-                        22.338802
-                  ]
-            },
-            {
                   "name": "Morse Park No. 1",
                   "text": "Făcând parte dintr-o zonă mare de recreere publică, acest parc urban are baze sportive și alei amenajate pentru plimbare.",
                   "category": "park",
                   "coords": [
                         114.193947,
                         22.336751
-                  ]
-            },
-            {
-                  "name": "Choi Hung Road Playground",
-                  "text": "Construit pe fostul amplasament al parcului de distracții Kai Tak, acest spațiu public oferă acum facilități moderne de recreere.",
-                  "category": "park",
-                  "coords": [
-                        114.196893,
-                        22.337934
-                  ]
-            },
-            {
-                  "name": "Fung Tak Park",
-                  "text": "Acest parc urban tematic prezintă un design arhitectural și peisagistic inspirat din romanul clasic chinezesc „Călătorie spre Vest”.",
-                  "category": "park",
-                  "coords": [
-                        114.197932,
-                        22.342596
-                  ]
-            },
-            {
-                  "name": "Sheng Kung Hui Calvary Church",
-                  "text": "Un lăcaș de cult anglican care deservește nevoile spirituale ale comunității locale din Wong Tai Sin.",
-                  "category": "religious",
-                  "coords": [
-                        114.196161,
-                        22.339648
                   ]
             },
             {
@@ -12981,48 +11820,12 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morse Park No. 3",
-                  "text": "This section of the extensive urban Morse Park provides recreational green space for the surrounding community.",
-                  "category": "park",
-                  "coords": [
-                        114.190759,
-                        22.338802
-                  ]
-            },
-            {
                   "name": "Morse Park No. 1",
                   "text": "Forming part of a large public recreation area, this urban park features sports facilities and landscaped walking paths.",
                   "category": "park",
                   "coords": [
                         114.193947,
                         22.336751
-                  ]
-            },
-            {
-                  "name": "Choi Hung Road Playground",
-                  "text": "Built on the former site of the Kai Tak Amusement Park, this public space now offers modern recreational facilities.",
-                  "category": "park",
-                  "coords": [
-                        114.196893,
-                        22.337934
-                  ]
-            },
-            {
-                  "name": "Fung Tak Park",
-                  "text": "This themed urban park features architectural designs and landscaping inspired by the classic Chinese novel \"Journey to the West\".",
-                  "category": "park",
-                  "coords": [
-                        114.197932,
-                        22.342596
-                  ]
-            },
-            {
-                  "name": "Sheng Kung Hui Calvary Church",
-                  "text": "An Anglican place of worship serving the spiritual needs of the local Wong Tai Sin community.",
-                  "category": "religious",
-                  "coords": [
-                        114.196161,
-                        22.339648
                   ]
             },
             {
@@ -14181,57 +12984,12 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-ping-shan-heritage-trail-history-v2", "sights": {
       "de": [
             {
-                  "name": "Yuen Tau Shan",
-                  "text": "Dieser markante Gipfel erhebt sich auf eine Höhe von 375 Metern und fordert Wanderer mit seinen steilen, rauen und felsigen Pfaden heraus.",
-                  "category": "natural",
-                  "coords": [
-                        113.973755,
-                        22.43276
-                  ]
-            },
-            {
                   "name": "Sheung Cheung Wai Gate",
                   "text": "Das historische Eingangstor zu einem 200 Jahre alten ummauerten Dorf, das zum Schutz der Gemeinde aus massiven grünen Ziegeln errichtet wurde.",
                   "category": "landmark",
                   "coords": [
                         114.006486,
                         22.44655
-                  ]
-            },
-            {
-                  "name": "Tang Ancestral Hall, Ha Tsuen",
-                  "text": "Ein prächtiger architektonischer Komplex mit drei Hallen, der mit traditionellen Holzdächern zu Ehren der Vorfahren des Tang-Clans erbaut wurde.",
-                  "category": "historical",
-                  "coords": [
-                        113.993002,
-                        22.447011
-                  ]
-            },
-            {
-                  "name": "Sik Kong Tsuen Playground",
-                  "text": "Ein lokaler Dorfspielplatz, der Kinderspielgeräte und schattige Ruhebereiche für die ländliche Gemeinde bietet.",
-                  "category": "park",
-                  "coords": [
-                        113.992923,
-                        22.449832
-                  ]
-            },
-            {
-                  "name": "Ping Ha Road Garden",
-                  "text": "Dieser angelegte öffentliche Garten an der Ping Ha Road verfügt über gepflegte Wege und Bänke für eine ruhige Pause.",
-                  "category": "park",
-                  "coords": [
-                        113.994378,
-                        22.450987
-                  ]
-            },
-            {
-                  "name": "Ling To Monastery",
-                  "text": "Versteckt in einem abgelegenen Tal, führt dieses historische buddhistische Kloster seine spirituellen Wurzeln auf über tausend Jahre zurück.",
-                  "category": "religious",
-                  "coords": [
-                        113.979517,
-                        22.440702
                   ]
             },
             {
@@ -14246,57 +13004,12 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Yuen Tau Shan",
-                  "text": "A 375 méter magasba nyúló, kiemelkedő csúcs meredek, zord és sziklás ösvényeivel teszi próbára a túrázókat.",
-                  "category": "natural",
-                  "coords": [
-                        113.973755,
-                        22.43276
-                  ]
-            },
-            {
                   "name": "Sheung Cheung Wai Gate",
                   "text": "Egy 200 éves fallal körülvett falu történelmi bejárati kapuja, amelyet tömör zöld téglákból építettek a közösség védelme érdekében.",
                   "category": "landmark",
                   "coords": [
                         114.006486,
                         22.44655
-                  ]
-            },
-            {
-                  "name": "Tang Ancestral Hall, Ha Tsuen",
-                  "text": "Hagyományos fatetőkkel épült pompás, háromcsarnokos épületegyüttes, amelyet a Tang klán őseinek tiszteletére emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        113.993002,
-                        22.447011
-                  ]
-            },
-            {
-                  "name": "Sik Kong Tsuen Playground",
-                  "text": "Helyi falusi játszótér, amely gyermekjátékokat és árnyékos pihenőhelyeket biztosít a vidéki közösség számára.",
-                  "category": "park",
-                  "coords": [
-                        113.992923,
-                        22.449832
-                  ]
-            },
-            {
-                  "name": "Ping Ha Road Garden",
-                  "text": "Ez a Ping Ha Road mentén található gondozott nyilvános kert ápolt ösvényekkel és padokkal várja a csendes pihenésre vágyókat.",
-                  "category": "park",
-                  "coords": [
-                        113.994378,
-                        22.450987
-                  ]
-            },
-            {
-                  "name": "Ling To Monastery",
-                  "text": "Egy eldugott völgyben megbújva ez a történelmi buddhista kolostor több mint ezer évre vezeti vissza spirituális gyökereit.",
-                  "category": "religious",
-                  "coords": [
-                        113.979517,
-                        22.440702
                   ]
             },
             {
@@ -14311,57 +13024,12 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Yuen Tau Shan",
-                  "text": "Ridicându-se la o altitudine de 375 de metri, acest vârf proeminent provoacă drumeții cu traseele sale abrupte, accidentate și stâncoase.",
-                  "category": "natural",
-                  "coords": [
-                        113.973755,
-                        22.43276
-                  ]
-            },
-            {
                   "name": "Sheung Cheung Wai Gate",
                   "text": "Poarta istorică de intrare într-un sat fortificat vechi de 200 de ani, construită din cărămizi verzi solide pentru a proteja comunitatea.",
                   "category": "landmark",
                   "coords": [
                         114.006486,
                         22.44655
-                  ]
-            },
-            {
-                  "name": "Tang Ancestral Hall, Ha Tsuen",
-                  "text": "Un complex arhitectural magnific cu trei săli, construit cu acoperișuri tradiționale din lemn pentru a onora strămoșii clanului Tang.",
-                  "category": "historical",
-                  "coords": [
-                        113.993002,
-                        22.447011
-                  ]
-            },
-            {
-                  "name": "Sik Kong Tsuen Playground",
-                  "text": "Un loc de joacă în satul local care oferă echipamente de joacă pentru copii și zone de odihnă umbrite pentru comunitatea rurală.",
-                  "category": "park",
-                  "coords": [
-                        113.992923,
-                        22.449832
-                  ]
-            },
-            {
-                  "name": "Ping Ha Road Garden",
-                  "text": "Această grădină publică amenajată de-a lungul drumului Ping Ha are alei îngrijite și bănci pentru o pauză liniștită.",
-                  "category": "park",
-                  "coords": [
-                        113.994378,
-                        22.450987
-                  ]
-            },
-            {
-                  "name": "Ling To Monastery",
-                  "text": "Ascuns într-o vale retrasă, acestă mănăstire budistă istorică își are rădăcinile spirituale cu peste o mie de ani în urmă.",
-                  "category": "religious",
-                  "coords": [
-                        113.979517,
-                        22.440702
                   ]
             },
             {
@@ -14376,57 +13044,12 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Yuen Tau Shan",
-                  "text": "Rising to an elevation of 375 metres, this prominent peak challenges hikers with its steep, rugged and rocky trails.",
-                  "category": "natural",
-                  "coords": [
-                        113.973755,
-                        22.43276
-                  ]
-            },
-            {
                   "name": "Sheung Cheung Wai Gate",
                   "text": "The historical entrance gate to a 200-year-old walled village, constructed from solid green bricks to protect the community.",
                   "category": "landmark",
                   "coords": [
                         114.006486,
                         22.44655
-                  ]
-            },
-            {
-                  "name": "Tang Ancestral Hall, Ha Tsuen",
-                  "text": "A magnificent three-hall architectural complex built with traditional timber roofs to honor the ancestors of the Tang clan.",
-                  "category": "historical",
-                  "coords": [
-                        113.993002,
-                        22.447011
-                  ]
-            },
-            {
-                  "name": "Sik Kong Tsuen Playground",
-                  "text": "A local village playground that provides children's play equipment and shaded resting areas for the rural community.",
-                  "category": "park",
-                  "coords": [
-                        113.992923,
-                        22.449832
-                  ]
-            },
-            {
-                  "name": "Ping Ha Road Garden",
-                  "text": "This landscaped public garden along Ping Ha Road features neat pathways and benches for a quiet break.",
-                  "category": "park",
-                  "coords": [
-                        113.994378,
-                        22.450987
-                  ]
-            },
-            {
-                  "name": "Ling To Monastery",
-                  "text": "Tucked away in a secluded valley, this historic Buddhist monastery traces its spiritual roots back over a thousand years.",
-                  "category": "religious",
-                  "coords": [
-                        113.979517,
-                        22.440702
                   ]
             },
             {
@@ -14937,39 +13560,12 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-man-lun-fung-ancestral-hall-history-v2", "sights": {
       "de": [
             {
-                  "name": "Lok Ma Chau Lookout",
-                  "text": "Einst ein wichtiger Punkt zur Grenzbeobachtung, bietet dieser erhöhte Aussichtspunkt heute ein weites Panorama auf den Sham-Chun-Fluss und die hoch aufragende Skyline von Shenzhen.",
-                  "category": "natural",
-                  "coords": [
-                        114.079148,
-                        22.510555
-                  ]
-            },
-            {
-                  "name": "sanfeng museum of art",
-                  "text": "Dieser intime Galerieraum bietet wechselnde Ausstellungen zeitgenössischer bildender Kunst und moderner Kalligraphie.",
-                  "category": "museum",
-                  "coords": [
-                        114.054946,
-                        22.505464
-                  ]
-            },
-            {
                   "name": "Ki Lun Shan",
                   "text": "Benannt nach dem mythischen chinesischen Einhorn, bietet dieser grasbewachsene Gipfel einen anspruchsvollen Aufstieg und malerische Ausblicke auf die ländlichen nördlichen Territorien.",
                   "category": "natural",
                   "coords": [
                         114.089155,
                         22.49728
-                  ]
-            },
-            {
-                  "name": "Mei Tak Study Hall",
-                  "text": "Ursprünglich zur Ausbildung junger Clan-Mitglieder errichtet, besticht diese gut erhaltene Studienhalle aus der Qing-Zeit durch aufwendige Holzschnitzereien und graue Ziegelwände.",
-                  "category": "historical",
-                  "coords": [
-                        114.08017,
-                        22.513628
                   ]
             },
             {
@@ -15038,39 +13634,12 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Lok Ma Chau Lookout",
-                  "text": "Az egykor kulcsfontosságú határfigyelő pontként szolgáló magaslati kilátóból ma pazar panoráma nyílik a Sham Chun folyóra és a tornyosuló sencseni látképre.",
-                  "category": "natural",
-                  "coords": [
-                        114.079148,
-                        22.510555
-                  ]
-            },
-            {
-                  "name": "sanfeng museum of art",
-                  "text": "Ez a meghitt galériatér a kortárs vizuális művészetek és a modern kalligráfia időszaki kiállításainak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        114.054946,
-                        22.505464
-                  ]
-            },
-            {
                   "name": "Ki Lun Shan",
                   "text": "A mitikus kínai egyszarvúról elnevezett füves csúcs kihívást jelentő emelkedőt és festői kilátást kínál a vidéki északi területekre.",
                   "category": "natural",
                   "coords": [
                         114.089155,
                         22.49728
-                  ]
-            },
-            {
-                  "name": "Mei Tak Study Hall",
-                  "text": "Eredetileg a fiatal klántagok oktatására hozták létre, ez a jól megőrzött Qing-kori tanulóterem bonyolult fafaragásokkal és szürke téglafalakkal rendelkezik.",
-                  "category": "historical",
-                  "coords": [
-                        114.08017,
-                        22.513628
                   ]
             },
             {
@@ -15139,39 +13708,12 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lok Ma Chau Lookout",
-                  "text": "Cândva un punct crucial de observare a frontierei, acest punct de belvedere înalt oferă acum panorame ample ale râului Sham Chun și ale orizontului înalt al orașului Shenzhen.",
-                  "category": "natural",
-                  "coords": [
-                        114.079148,
-                        22.510555
-                  ]
-            },
-            {
-                  "name": "sanfeng museum of art",
-                  "text": "Acest spațiu de galerie intim prezintă expoziții rotative de arte vizuale contemporane și caligrafie modernă.",
-                  "category": "museum",
-                  "coords": [
-                        114.054946,
-                        22.505464
-                  ]
-            },
-            {
                   "name": "Ki Lun Shan",
                   "text": "Numit după miticul inorog chinezesc, acest vârf cu iarbă oferă o ascensiune provocatoare și vederi pitorești ale teritoriilor nordice rurale.",
                   "category": "natural",
                   "coords": [
                         114.089155,
                         22.49728
-                  ]
-            },
-            {
-                  "name": "Mei Tak Study Hall",
-                  "text": "Înființată inițial pentru educarea tinerilor membri ai clanului, această sală de studiu bine conservată din epoca Qing prezintă sculpturi complexe în lemn și pereți din cărămidă gri.",
-                  "category": "historical",
-                  "coords": [
-                        114.08017,
-                        22.513628
                   ]
             },
             {
@@ -15240,39 +13782,12 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Lok Ma Chau Lookout",
-                  "text": "Once a crucial border-watching spot, this elevated viewpoint now offers sweeping panoramas of the Sham Chun River and the towering Shenzhen skyline.",
-                  "category": "natural",
-                  "coords": [
-                        114.079148,
-                        22.510555
-                  ]
-            },
-            {
-                  "name": "sanfeng museum of art",
-                  "text": "This intimate gallery space features rotating exhibitions of contemporary visual arts and modern calligraphy.",
-                  "category": "museum",
-                  "coords": [
-                        114.054946,
-                        22.505464
-                  ]
-            },
-            {
                   "name": "Ki Lun Shan",
                   "text": "Named after the mythical Chinese unicorn, this grassy peak provides a challenging ascent and scenic overlooks of the rural northern territories.",
                   "category": "natural",
                   "coords": [
                         114.089155,
                         22.49728
-                  ]
-            },
-            {
-                  "name": "Mei Tak Study Hall",
-                  "text": "Originally established to educate young clan members, this well-preserved Qing-era study hall features intricate wood carvings and grey brick walls.",
-                  "category": "historical",
-                  "coords": [
-                        114.08017,
-                        22.513628
                   ]
             },
             {
@@ -15630,33 +14145,6 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-former-kowloon-british-school-history-v2", "sights": {
       "de": [
             {
-                  "name": "Temple Street",
-                  "text": "Berühmt für ihren lebhaften Nachtmarkt, ist diese ikonische Straße gesäumt von Ständen, die alles von Antiquitäten bis hin zu elektronischen Geräten verkaufen.",
-                  "category": "landmark",
-                  "coords": [
-                        114.169718,
-                        22.304179
-                  ]
-            },
-            {
-                  "name": "Kowloon Union Church",
-                  "text": "Eine historische interkonfessionelle christliche Kirche, die für ihre markante Backsteinarchitektur in Kowloon bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        114.172802,
-                        22.305683
-                  ]
-            },
-            {
-                  "name": "King George V Memorial Park, Kowloon",
-                  "text": "Ein ruhiger Stadtpark in Kowloon, der sich durch seine großen Banyan-Bäume und Pavillons im klassischen chinesischen Stil auszeichnet.",
-                  "category": "park",
-                  "coords": [
-                        114.168077,
-                        22.305038
-                  ]
-            },
-            {
                   "name": "Temple Street Gateway",
                   "text": "Ein traditioneller Torbogen im chinesischen Stil, der den Eingang zum berühmten lokalen Nachtmarkt markiert.",
                   "category": "landmark",
@@ -15676,33 +14164,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Temple Street",
-                  "text": "A pezsgő éjszakai piacáról híres ikonikus utcát olyan standok szegélyezik, amelyek az régiségektől az elektronikai eszközökig mindent árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        114.169718,
-                        22.304179
-                  ]
-            },
-            {
-                  "name": "Kowloon Union Church",
-                  "text": "Történelmi, felekezetközi keresztény templom, amely jellegzetes vöröstéglás építészetéről ismert Kowloonban.",
-                  "category": "religious",
-                  "coords": [
-                        114.172802,
-                        22.305683
-                  ]
-            },
-            {
-                  "name": "King George V Memorial Park, Kowloon",
-                  "text": "Egy csendes városi park Kowloonban, amelyet nagy banyánfák és klasszikus kínai stílusú pavilonok jellemeznek.",
-                  "category": "park",
-                  "coords": [
-                        114.168077,
-                        22.305038
-                  ]
-            },
             {
                   "name": "Temple Street Gateway",
                   "text": "Egy hagyományos kínai stílusú boltív, amely a híres helyi éjszakai piac bejáratát jelzi.",
@@ -15724,33 +14185,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Temple Street",
-                  "text": "Faimoasă pentru piața sa de noapte vibrantă, această stradă emblematică este presărată cu tarabe care vând de la antichități la gadgeturi electronice.",
-                  "category": "landmark",
-                  "coords": [
-                        114.169718,
-                        22.304179
-                  ]
-            },
-            {
-                  "name": "Kowloon Union Church",
-                  "text": "O biserică creștină interconfesională istorică, cunoscută pentru arhitectura sa distinctă din cărămidă roșie din Kowloon.",
-                  "category": "religious",
-                  "coords": [
-                        114.172802,
-                        22.305683
-                  ]
-            },
-            {
-                  "name": "King George V Memorial Park, Kowloon",
-                  "text": "Un parc urban liniștit din Kowloon, caracterizat prin copacii săi mari de banyan și pavilioanele în stil clasic chinezesc.",
-                  "category": "park",
-                  "coords": [
-                        114.168077,
-                        22.305038
-                  ]
-            },
-            {
                   "name": "Temple Street Gateway",
                   "text": "O arcadă tradițională în stil chinezesc care marchează proeminent intrarea în faimoasa piață de noapte locală.",
                   "category": "landmark",
@@ -15770,33 +14204,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Temple Street",
-                  "text": "Famous for its vibrant night market, this iconic street is lined with stalls selling everything from antiques to electronic gadgets.",
-                  "category": "landmark",
-                  "coords": [
-                        114.169718,
-                        22.304179
-                  ]
-            },
-            {
-                  "name": "Kowloon Union Church",
-                  "text": "An historic interdenominational Christian church known for its distinct red-brick architecture and long-standing presence in Kowloon.",
-                  "category": "religious",
-                  "coords": [
-                        114.172802,
-                        22.305683
-                  ]
-            },
-            {
-                  "name": "King George V Memorial Park, Kowloon",
-                  "text": "A tranquil urban park in Kowloon characterized by its large banyan trees and classical Chinese-style pavilions.",
-                  "category": "park",
-                  "coords": [
-                        114.168077,
-                        22.305038
-                  ]
-            },
             {
                   "name": "Temple Street Gateway",
                   "text": "A traditional Chinese-style archway that prominently marks the entrance to the famous local night market.",
@@ -15990,15 +14397,6 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-liu-man-shek-tong-history-v2", "sights": {
       "de": [
             {
-                  "name": "Ling Hill",
-                  "text": "Ling Hill ist ein leicht begehbarer Gipfel, der einen natürlichen Erhebungspunkt in der Nähe des historischen Bezirks Liu Man Shek Tong bildet.",
-                  "category": "natural",
-                  "coords": [
-                        114.136118,
-                        22.499751
-                  ]
-            },
-            {
                   "name": "Assembly of God Chapel of Praise",
                   "text": "Die Assembly of God Chapel of Praise ist ein bescheidenes christliches Andachtszentrum, in dem sich die lokale Gemeinde regelmäßig versammelt.",
                   "category": "landmark",
@@ -16054,15 +14452,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ling Hill",
-                  "text": "A Ling-hegy egy könnyen bejárható hegycsúcs, amely természetes magaslati pontot nyújt a történelmi Liu Man Shek Tong negyed közelében.",
-                  "category": "natural",
-                  "coords": [
-                        114.136118,
-                        22.499751
-                  ]
-            },
             {
                   "name": "Assembly of God Chapel of Praise",
                   "text": "Az Isten Gyülekezete Dicséret Kápolna egy szerény keresztény istentiszteleti központ, ahol a helyi közösség rendszeresen összegyűlik.",
@@ -16120,15 +14509,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ling Hill",
-                  "text": "Dealul Ling este un vârf ușor de parcurs, oferind un punct de elevație naturală în apropierea cartierului istoric Liu Man Shek Tong.",
-                  "category": "natural",
-                  "coords": [
-                        114.136118,
-                        22.499751
-                  ]
-            },
-            {
                   "name": "Assembly of God Chapel of Praise",
                   "text": "Capela de Laudă Adunarea lui Dumnezeu este un modest centru de cult creștin unde congregația locală se adună regulat.",
                   "category": "landmark",
@@ -16184,15 +14564,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ling Hill",
-                  "text": "Ling Hill is an easily traversable peak providing a natural elevation point near the historic Liu Man Shek Tong district.",
-                  "category": "natural",
-                  "coords": [
-                        114.136118,
-                        22.499751
-                  ]
-            },
             {
                   "name": "Assembly of God Chapel of Praise",
                   "text": "The Assembly of God Chapel of Praise is a modest Christian worship center where the local congregation regularly gathers.",
@@ -16791,15 +15162,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Margaret's Church",
-                  "text": "Die St. Margaret's Church ist eine katholische Pfarrkirche, die an ihrer großen Treppe und der neoklassizistischen Säulenfassade zur Hauptstraße hin zu erkennen ist.",
-                  "category": "religious",
-                  "coords": [
-                        114.184444,
-                        22.274089
-                  ]
-            },
-            {
                   "name": "Tung Lin Kok Yuen",
                   "text": "Tung Lin Kok Yuen ist ein bedeutender buddhistischer Tempel, der traditionelle chinesische geschwungene Dächer mit westlichem Mauerwerk aus dem frühen 20. Jahrhundert kombiniert.",
                   "category": "religious",
@@ -16853,15 +15215,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.185791,
                         22.268574
-                  ]
-            },
-            {
-                  "name": "St. Margaret's Church",
-                  "text": "A Szent Margit-templom egy katolikus plébániatemplom, amely a főút felé néző nagy lépcsőjéről és neoklasszikus oszlopos homlokzatáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        114.184444,
-                        22.274089
                   ]
             },
             {
@@ -16921,15 +15274,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Margaret's Church",
-                  "text": "Biserica Sf. Margareta este o biserică parohială catolică recunoscută după scara sa grandioasă și fațada neoclasică cu coloane orientată spre drumul principal.",
-                  "category": "religious",
-                  "coords": [
-                        114.184444,
-                        22.274089
-                  ]
-            },
-            {
                   "name": "Tung Lin Kok Yuen",
                   "text": "Tung Lin Kok Yuen este un templu budist proeminent care combină acoperișurile tradiționale chinezești evazate cu zidăria vestică de la începutul secolului al XX-lea.",
                   "category": "religious",
@@ -16983,15 +15327,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.185791,
                         22.268574
-                  ]
-            },
-            {
-                  "name": "St. Margaret's Church",
-                  "text": "St. Margaret's Church is a Catholic parish church recognized by its grand staircase and neoclassical pillared facade facing the main road.",
-                  "category": "religious",
-                  "coords": [
-                        114.184444,
-                        22.274089
                   ]
             },
             {
@@ -17340,15 +15675,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "CCC China Congregational Church",
-                  "text": "Diese bemerkenswerte Kongregationskirche ist eine prominente Kultstätte in Hongkong.",
-                  "category": "religious",
-                  "coords": [
-                        114.186143,
-                        22.278101
-                  ]
-            },
-            {
                   "name": "Olympic Bridge",
                   "text": "Diese Fußgängerbrücke führt Fußgänger sicher über die belebten Straßen von Hongkong.",
                   "category": "landmark",
@@ -17411,15 +15737,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.184738,
                         22.276709
-                  ]
-            },
-            {
-                  "name": "CCC China Congregational Church",
-                  "text": "Ez a figyelemre méltó kongregációs templom Hongkong kiemelkedő istentiszteleti helye.",
-                  "category": "religious",
-                  "coords": [
-                        114.186143,
-                        22.278101
                   ]
             },
             {
@@ -17488,15 +15805,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "CCC China Congregational Church",
-                  "text": "Această biserică congregațională notabilă este un lăcaș de cult proeminent în Hong Kong.",
-                  "category": "religious",
-                  "coords": [
-                        114.186143,
-                        22.278101
-                  ]
-            },
-            {
                   "name": "Olympic Bridge",
                   "text": "Această atracție de tip pod pietonal traversează în siguranță pietonii peste străzile aglomerate din Hong Kong.",
                   "category": "landmark",
@@ -17559,15 +15867,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.184738,
                         22.276709
-                  ]
-            },
-            {
-                  "name": "CCC China Congregational Church",
-                  "text": "This notable congregational church is a prominent place of worship in Hong Kong.",
-                  "category": "religious",
-                  "coords": [
-                        114.186143,
-                        22.278101
                   ]
             },
             {
@@ -18204,33 +16503,6 @@ export const hongkongHistoryV2: POI[] = [
     id: "hongkong-hong-kong-heritage-museum-history-v2", "sights": {
       "de": [
             {
-                  "name": "Tsang Tai Uk",
-                  "text": "Dieser Aussichtspunkt bietet eine hervorragende Perspektive auf die erhaltenen Granit- und Holzstrukturen des historischen ummauerten Hakka-Dorfes.",
-                  "category": "natural",
-                  "coords": [
-                        114.190532,
-                        22.373948
-                  ]
-            },
-            {
-                  "name": "Tung Lo Wan Hill",
-                  "text": "Dieser städtische Hügel erhebt sich über Sha Tin und bietet einen grünen Zufluchtsort sowie einen erhabenen Blick auf die umliegenden Stadtviertel.",
-                  "category": "natural",
-                  "coords": [
-                        114.179878,
-                        22.380253
-                  ]
-            },
-            {
-                  "name": "Pillbox 214",
-                  "text": "Die von Vegetation überwachsene Betonhülle dieses militärischen Bunkers dient als stilles Mahnmal für die Kriegsvergangenheit der Region.",
-                  "category": "historical",
-                  "coords": [
-                        114.194305,
-                        22.367111
-                  ]
-            },
-            {
                   "name": "St. Alfred's Church",
                   "text": "Diese katholische Kirche dient der Gemeinde Sha Tin mit ihrem modernen architektonischen Design und einem aktiven Pfarreileben.",
                   "category": "religious",
@@ -18313,33 +16585,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tsang Tai Uk",
-                  "text": "Ez a kilátópont kiváló rálátást nyújt a történelmi Hakka erődített falu megőrzött gránit- és faszerkezeteire.",
-                  "category": "natural",
-                  "coords": [
-                        114.190532,
-                        22.373948
-                  ]
-            },
-            {
-                  "name": "Tung Lo Wan Hill",
-                  "text": "Ez a Sha Tin fölé magasodó városi domb zöld menedéket és magaslati kilátást nyújt a környező beépített területekre.",
-                  "category": "natural",
-                  "coords": [
-                        114.179878,
-                        22.380253
-                  ]
-            },
-            {
-                  "name": "Pillbox 214",
-                  "text": "A növényzettel benőtt katonai bunker betonváza csendes emlékműként őrzi a régió háborús múltját.",
-                  "category": "historical",
-                  "coords": [
-                        114.194305,
-                        22.367111
-                  ]
-            },
             {
                   "name": "St. Alfred's Church",
                   "text": "Ez a katolikus templom modern építészeti dizájnjával és aktív plébániai életével szolgálja a Sha Tin közösségét.",
@@ -18424,33 +16669,6 @@ export const hongkongHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tsang Tai Uk",
-                  "text": "Acest punct de belvedere oferă o perspectivă excelentă asupra structurilor de granit și lemn conservate ale istoricului sat fortificat Hakka.",
-                  "category": "natural",
-                  "coords": [
-                        114.190532,
-                        22.373948
-                  ]
-            },
-            {
-                  "name": "Tung Lo Wan Hill",
-                  "text": "Acest deal urban se înalță deasupra orașului Sha Tin, oferind un refugiu verde și priveliști la înălțime asupra dezvoltărilor urbane din jur.",
-                  "category": "natural",
-                  "coords": [
-                        114.179878,
-                        22.380253
-                  ]
-            },
-            {
-                  "name": "Pillbox 214",
-                  "text": "Năpădită de vegetație, carcasa de beton a acestui buncăr militar servește drept un memorial tăcut al trecutului de război al regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        114.194305,
-                        22.367111
-                  ]
-            },
-            {
                   "name": "St. Alfred's Church",
                   "text": "Această biserică catolică deservește comunitatea din Sha Tin cu designul său arhitectural modern și o viață parohială activă.",
                   "category": "religious",
@@ -18533,33 +16751,6 @@ export const hongkongHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tsang Tai Uk",
-                  "text": "This viewpoint offers an excellent perspective over the preserved granite and timber structures of the historic Hakka walled village.",
-                  "category": "natural",
-                  "coords": [
-                        114.190532,
-                        22.373948
-                  ]
-            },
-            {
-                  "name": "Tung Lo Wan Hill",
-                  "text": "This urban hill rises above Sha Tin, providing a green refuge and elevated views over the surrounding city developments.",
-                  "category": "natural",
-                  "coords": [
-                        114.179878,
-                        22.380253
-                  ]
-            },
-            {
-                  "name": "Pillbox 214",
-                  "text": "Overgrown by vegetation, the concrete shell of this military pillbox serves as a quiet memorial to the region's wartime past.",
-                  "category": "historical",
-                  "coords": [
-                        114.194305,
-                        22.367111
-                  ]
-            },
             {
                   "name": "St. Alfred's Church",
                   "text": "This Catholic church serves the Sha Tin community with its modern architectural design and active parish life.",
@@ -18708,42 +16899,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tai Kiu Market",
-                  "text": "Ein belebter traditioneller Markt in Yuen Long, auf dem Verkäufer eine Vielzahl lokaler Frischwaren anbieten.",
-                  "category": "cultural",
-                  "coords": [
-                        114.027217,
-                        22.445365
-                  ]
-            },
-            {
-                  "name": "Yuen Long Children's Playground",
-                  "text": "Dieser städtische öffentliche Park bietet farbenfrohe Spielgeräte und Erholungsbereiche für einheimische Kinder.",
-                  "category": "park",
-                  "coords": [
-                        114.026966,
-                        22.44385
-                  ]
-            },
-            {
-                  "name": "Yuen Long Theatre",
-                  "text": "Ein moderner Veranstaltungsort für darstellende Künste in Yuen Long, der verschiedene kulturelle Shows und Theatervorführungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        114.022872,
-                        22.44149
-                  ]
-            },
-            {
-                  "name": "S.S. Peter & Paul Church (Catholic Church)",
-                  "text": "Diese katholische Kirche dient der lokalen Gemeinde von Yuen Long mit ihren eigenen Räumen für Gebet und Messe.",
-                  "category": "religious",
-                  "coords": [
-                        114.02129,
-                        22.445043
-                  ]
-            },
-            {
                   "name": "Yuen Long Church of Seventh-day Adventists",
                   "text": "Eine christliche Kirche, die der Gemeinde der Siebenten-Tags-Adventisten in Yuen Long dient.",
                   "category": "landmark",
@@ -18815,42 +16970,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.036505,
                         22.398318
-                  ]
-            },
-            {
-                  "name": "Tai Kiu Market",
-                  "text": "Egy nyüzsgő hagyományos piac Yuen Longban, ahol az árusok friss helyi termékek széles választékát kínálják.",
-                  "category": "cultural",
-                  "coords": [
-                        114.027217,
-                        22.445365
-                  ]
-            },
-            {
-                  "name": "Yuen Long Children's Playground",
-                  "text": "Ez a nyilvános városi park színes játszótéri eszközöket és pihenőövezeteket biztosít a helyi gyerekeknek.",
-                  "category": "park",
-                  "coords": [
-                        114.026966,
-                        22.44385
-                  ]
-            },
-            {
-                  "name": "Yuen Long Theatre",
-                  "text": "Egy modern előadóművészeti központ Yuen Longban, amely különféle kulturális műsoroknak és színházi produkcióknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        114.022872,
-                        22.44149
-                  ]
-            },
-            {
-                  "name": "S.S. Peter & Paul Church (Catholic Church)",
-                  "text": "Ez a katolikus templom a helyi Yuen Long-i plébániát szolgálja imára és misére fenntartott tereivel.",
-                  "category": "religious",
-                  "coords": [
-                        114.02129,
-                        22.445043
                   ]
             },
             {
@@ -18928,42 +17047,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tai Kiu Market",
-                  "text": "O piață tradițională aglomerată din Yuen Long unde vânzătorii oferă o mare varietate de produse locale proaspete.",
-                  "category": "cultural",
-                  "coords": [
-                        114.027217,
-                        22.445365
-                  ]
-            },
-            {
-                  "name": "Yuen Long Children's Playground",
-                  "text": "Acest parc urban public oferă echipamente de joacă colorate și zone de recreere pentru copiii din localitate.",
-                  "category": "park",
-                  "coords": [
-                        114.026966,
-                        22.44385
-                  ]
-            },
-            {
-                  "name": "Yuen Long Theatre",
-                  "text": "O locație modernă pentru artele spectacolului din Yuen Long, care găzduiește o varietate de spectacole culturale și producții teatrale.",
-                  "category": "cultural",
-                  "coords": [
-                        114.022872,
-                        22.44149
-                  ]
-            },
-            {
-                  "name": "S.S. Peter & Paul Church (Catholic Church)",
-                  "text": "Această biserică catolică deservește parohia locală din Yuen Long prin spațiile sale dedicate rugăciunii și slujbelor.",
-                  "category": "religious",
-                  "coords": [
-                        114.02129,
-                        22.445043
-                  ]
-            },
-            {
                   "name": "Yuen Long Church of Seventh-day Adventists",
                   "text": "O biserică creștină care deservește congregația adventistă de ziua a șaptea din comunitatea Yuen Long.",
                   "category": "landmark",
@@ -19035,42 +17118,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.036505,
                         22.398318
-                  ]
-            },
-            {
-                  "name": "Tai Kiu Market",
-                  "text": "A bustling traditional market in Yuen Long where vendors sell a wide variety of fresh local produce.",
-                  "category": "cultural",
-                  "coords": [
-                        114.027217,
-                        22.445365
-                  ]
-            },
-            {
-                  "name": "Yuen Long Children's Playground",
-                  "text": "This public urban park provides colorful play equipment and recreational areas for local children.",
-                  "category": "park",
-                  "coords": [
-                        114.026966,
-                        22.44385
-                  ]
-            },
-            {
-                  "name": "Yuen Long Theatre",
-                  "text": "A modern performing arts venue in Yuen Long hosting a variety of cultural shows and theatrical productions.",
-                  "category": "cultural",
-                  "coords": [
-                        114.022872,
-                        22.44149
-                  ]
-            },
-            {
-                  "name": "S.S. Peter & Paul Church (Catholic Church)",
-                  "text": "This Catholic church serves the local Yuen Long parish with its dedicated spaces for prayer and mass.",
-                  "category": "religious",
-                  "coords": [
-                        114.02129,
-                        22.445043
                   ]
             },
             {
@@ -19383,15 +17430,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Christ the King Chapel",
-                  "text": "Diese ruhige Kapelle fungiert als engagierte Kultstätte für die Gläubigen in Hongkong.",
-                  "category": "religious",
-                  "coords": [
-                        114.187649,
-                        22.277866
-                  ]
-            },
-            {
                   "name": "Lin Fa Temple",
                   "text": "Dieser berühmte, Kwun Yum gewidmete Tempel ist eine bekannte Kultstätte in Hongkong.",
                   "category": "religious",
@@ -19427,15 +17465,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.191962,
                         22.28076
-                  ]
-            },
-            {
-                  "name": "Christ the King Chapel",
-                  "text": "Ez a nyugodt kápolna a hívők dedikált istentiszteleti helyeként működik Hongkongban.",
-                  "category": "religious",
-                  "coords": [
-                        114.187649,
-                        22.277866
                   ]
             },
             {
@@ -19477,15 +17506,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Christ the King Chapel",
-                  "text": "Această capelă senină funcționează ca un lăcaș de cult dedicat credincioșilor din Hong Kong.",
-                  "category": "religious",
-                  "coords": [
-                        114.187649,
-                        22.277866
-                  ]
-            },
-            {
                   "name": "Lin Fa Temple",
                   "text": "Acest faimos templu dedicat lui Kwun Yum este un lăcaș de cult binecunoscut din Hong Kong.",
                   "category": "religious",
@@ -19521,15 +17541,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.191962,
                         22.28076
-                  ]
-            },
-            {
-                  "name": "Christ the King Chapel",
-                  "text": "This serene chapel functions as a dedicated place of worship for the faithful in Hong Kong.",
-                  "category": "religious",
-                  "coords": [
-                        114.187649,
-                        22.277866
                   ]
             },
             {
@@ -19977,24 +17988,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belcher Bay Park",
-                  "text": "Dieser Park an der Belcher Bay bietet einen Panoramablick auf das Wasser.",
-                  "category": "park",
-                  "coords": [
-                        114.130234,
-                        22.284901
-                  ]
-            },
-            {
-                  "name": "Western District Public Cargo Working Area",
-                  "text": "Diese Attraktion an der Küste ist weithin als der fotogene „Instagram Pier“ bekannt.",
-                  "category": "landmark",
-                  "coords": [
-                        114.131864,
-                        22.287903
-                  ]
-            },
-            {
                   "name": "Hill Road Garden",
                   "text": "Dieser ruhige Garten an der Hill Road bietet eine grüne Oase inmitten der Stadt.",
                   "category": "park",
@@ -20048,24 +18041,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.134791,
                         22.283379
-                  ]
-            },
-            {
-                  "name": "Belcher Bay Park",
-                  "text": "Ez a Belcher-öböl menti park panorámás kilátást nyújt a vízre.",
-                  "category": "park",
-                  "coords": [
-                        114.130234,
-                        22.284901
-                  ]
-            },
-            {
-                  "name": "Western District Public Cargo Working Area",
-                  "text": "Ez a tengerparti látványosság széles körben a fotogén „Instagram mólóként” ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        114.131864,
-                        22.287903
                   ]
             },
             {
@@ -20125,24 +18100,6 @@ export const hongkongHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belcher Bay Park",
-                  "text": "Acest parc de-a lungul golfului Belcher oferă vederi panoramice către apă.",
-                  "category": "park",
-                  "coords": [
-                        114.130234,
-                        22.284901
-                  ]
-            },
-            {
-                  "name": "Western District Public Cargo Working Area",
-                  "text": "Această atracție de coastă este cunoscută la scară largă ca fotogenicul „Instagram Pier”.",
-                  "category": "landmark",
-                  "coords": [
-                        114.131864,
-                        22.287903
-                  ]
-            },
-            {
                   "name": "Hill Road Garden",
                   "text": "Această grădină liniștită de pe Hill Road oferă o oază de verdeață în mijlocul orașului.",
                   "category": "park",
@@ -20196,24 +18153,6 @@ export const hongkongHistoryV2: POI[] = [
                   "coords": [
                         114.134791,
                         22.283379
-                  ]
-            },
-            {
-                  "name": "Belcher Bay Park",
-                  "text": "This waterfront park along Belcher Bay offers sweeping views over the water.",
-                  "category": "park",
-                  "coords": [
-                        114.130234,
-                        22.284901
-                  ]
-            },
-            {
-                  "name": "Western District Public Cargo Working Area",
-                  "text": "This coastal attraction is widely known as the photogenic \"Instagram Pier\".",
-                  "category": "landmark",
-                  "coords": [
-                        114.131864,
-                        22.287903
                   ]
             },
             {

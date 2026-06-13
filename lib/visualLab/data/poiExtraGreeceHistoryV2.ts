@@ -98,15 +98,6 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
     id: "greece-delphi-history-v2", "sights": {
       "de": [
             {
-                  "name": "Marmara Sanctuary",
-                  "text": "Eine antike archäologische Stätte im Bereich des Orakels von Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518138,
-                        38.482601
-                  ]
-            },
-            {
                   "name": "Delphoi",
                   "text": "Eine der bedeutendsten antiken Ausgrabungsstätten Griechenlands in Delphi.",
                   "category": "historical",
@@ -141,27 +132,9 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                         22.487628,
                         38.48361
                   ]
-            },
-            {
-                  "name": "Delphi tower",
-                  "text": "Die Ruinen eines antiken Turms in der Nähe des Orakels von Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518066,
-                        38.479561
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Marmara Sanctuary",
-                  "text": "Ókori régészeti lelőhely a delphoi jósda területén.",
-                  "category": "historical",
-                  "coords": [
-                        22.518138,
-                        38.482601
-                  ]
-            },
             {
                   "name": "Delphoi",
                   "text": "Görögország egyik legjelentősebb ókori régészeti lelőhelye Delphoiban.",
@@ -197,27 +170,9 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                         22.487628,
                         38.48361
                   ]
-            },
-            {
-                  "name": "Delphi tower",
-                  "text": "Egy ókori torony romjai a delphoi jósda közelében.",
-                  "category": "historical",
-                  "coords": [
-                        22.518066,
-                        38.479561
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Marmara Sanctuary",
-                  "text": "Un sit arheologic antic situat în zona Oracolului din Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518138,
-                        38.482601
-                  ]
-            },
             {
                   "name": "Delphoi",
                   "text": "Unul dintre cele mai importante situri arheologice antice din Grecia, la Delphi.",
@@ -253,27 +208,9 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                         22.487628,
                         38.48361
                   ]
-            },
-            {
-                  "name": "Delphi tower",
-                  "text": "Ruinele unui turn antic situat lângă Oracolul din Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518066,
-                        38.479561
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Marmara Sanctuary",
-                  "text": "An ancient archaeological site located in the area of the Oracle of Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518138,
-                        38.482601
-                  ]
-            },
             {
                   "name": "Delphi",
                   "text": "One of the most significant ancient archaeological sites in Greece, located in Delphi.",
@@ -308,15 +245,6 @@ imageHint: "The Parthenon temple on the Acropolis of Athens",
                   "coords": [
                         22.487628,
                         38.48361
-                  ]
-            },
-            {
-                  "name": "Delphi tower",
-                  "text": "The ruins of an ancient tower located near the Oracle of Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518066,
-                        38.479561
                   ]
             }
       ]
@@ -722,15 +650,6 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
     id: "greece-mycenae-history-v2", "sights": {
       "de": [
             {
-                  "name": "Naos Agamnenon",
-                  "text": "Ein antikes Heiligtum, das dem legendären König Agamemnon gewidmet ist und sich in der Nähe der Zitadelle von Mykene befindet.",
-                  "category": "historical",
-                  "coords": [
-                        22.753468,
-                        37.72139
-                  ]
-            },
-            {
                   "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Die Überreste eines antiken befestigten Wachturms, der die Gebirgspässe in der Nähe von Mykene kontrollierte.",
                   "category": "historical",
@@ -740,39 +659,12 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Gräberrund A",
-                  "text": "Ein königlicher Friedhof aus dem 16. Jahrhundert v. Chr., auf dem Schliemann berühmte goldene Totenmasken entdeckte.",
-                  "category": "historical",
-                  "coords": [
-                        22.756444,
-                        37.730493
-                  ]
-            },
-            {
-                  "name": "Akropolis von Mykene",
-                  "text": "Die antike Akropolis von Mykene, berühmt für ihre massiven Zyklopenmauern und das ikonische Löwentor.",
-                  "category": "historical",
-                  "coords": [
-                        22.757713,
-                        37.730351
-                  ]
-            },
-            {
                   "name": "Archäologisches Museum Mykene",
                   "text": "Ein Museum, das Funde aus den Ausgrabungen von Mykene zeigt und das Leben der mykenischen Zivilisation illustriert.",
                   "category": "museum",
                   "coords": [
                         22.756526,
                         37.731856
-                  ]
-            },
-            {
-                  "name": "Oikia ton Sphiggon",
-                  "text": "Die Ruinen einer antiken mykenischen Residenz, benannt nach den dort gefundenen Elfenbeinverzierungen mit Sphinx-Motiven.",
-                  "category": "historical",
-                  "coords": [
-                        22.754837,
-                        37.729977
                   ]
             },
             {
@@ -787,15 +679,6 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
       ],
       "hu": [
             {
-                  "name": "Naos Agamnenon",
-                  "text": "A legendás Agamemnón királynak szentelt ókori szentély Mükéné fellegvárának közelében.",
-                  "category": "historical",
-                  "coords": [
-                        22.753468,
-                        37.72139
-                  ]
-            },
-            {
                   "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Egy ókori erődített őrtorony maradványai, amely a Mükéné környéki hágókat ellenőrizte.",
                   "category": "historical",
@@ -805,39 +688,12 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Taphikos kuklos A",
-                  "text": "Királyi sírkör a Kr. e. 16. századból, ahol Schliemann a híres arany halotti maszkokat találta.",
-                  "category": "historical",
-                  "coords": [
-                        22.756444,
-                        37.730493
-                  ]
-            },
-            {
-                  "name": "Akropole των Μυκηνών",
-                  "text": "Mükéné ókori fellegvára, amely hatalmas küklopszi falairól és az emblematikus Oroszlánkapuról híres.",
-                  "category": "historical",
-                  "coords": [
-                        22.757713,
-                        37.730351
-                  ]
-            },
-            {
                   "name": "Arkhaiologiko mouseio Mukenon",
                   "text": "A mükénéi ásatások leleteit bemutató múzeum, amely a mükénéi civilizáció életét szemlélteti.",
                   "category": "museum",
                   "coords": [
                         22.756526,
                         37.731856
-                  ]
-            },
-            {
-                  "name": "Oikia ton Sphiggon",
-                  "text": "Egy ókori mükénéi lakóház romjai, amely az ott talált szfinx-motívumú elefántcsont díszekről kapta a nevét.",
-                  "category": "historical",
-                  "coords": [
-                        22.754837,
-                        37.729977
                   ]
             },
             {
@@ -852,15 +708,6 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
       ],
       "ro": [
             {
-                  "name": "Naos Agamnenon",
-                  "text": "Un sanctuar antic dedicat legendarului rege Agamemnon, situat în apropierea cetății Micene.",
-                  "category": "historical",
-                  "coords": [
-                        22.753468,
-                        37.72139
-                  ]
-            },
-            {
                   "name": "Okhuromatikos Purgos Phikhtion",
                   "text": "Rămășițele unui turn de veghe fortificat antic care controla trecătorile montane de lângă Micene.",
                   "category": "historical",
@@ -870,39 +717,12 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Taphikos kuklos A",
-                  "text": "Un cimitir regal din secolul al XVI-lea î.Hr., unde Schliemann a descoperit celebrele măști mortuare de aur.",
-                  "category": "historical",
-                  "coords": [
-                        22.756444,
-                        37.730493
-                  ]
-            },
-            {
-                  "name": "Akropole των Μυκηνών",
-                  "text": "Vechea cetate a Micenei, celebră pentru zidurile sale ciclopiene masive și emblematica Poartă a Leilor.",
-                  "category": "historical",
-                  "coords": [
-                        22.757713,
-                        37.730351
-                  ]
-            },
-            {
                   "name": "Arkhaiologiko mouseio Mukenon",
                   "text": "Un muzeu care expune artefacte din excavările de la Micene, ilustrând viața civilizației miceniene.",
                   "category": "museum",
                   "coords": [
                         22.756526,
                         37.731856
-                  ]
-            },
-            {
-                  "name": "Oikia ton Sphiggon",
-                  "text": "Ruinele unei vechi reședințe miceniene, numită după decorurile din fildeș cu motive de sfinx găsite în interior.",
-                  "category": "historical",
-                  "coords": [
-                        22.754837,
-                        37.729977
                   ]
             },
             {
@@ -917,15 +737,6 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
       ],
       "en": [
             {
-                  "name": "Agamemnoneion of Mycenae",
-                  "text": "An ancient sanctuary dedicated to the legendary King Agamemnon, located near the citadel of Mycenae.",
-                  "category": "historical",
-                  "coords": [
-                        22.753468,
-                        37.72139
-                  ]
-            },
-            {
                   "name": "Fichtia Blockhouse",
                   "text": "The remains of an ancient fortified watchtower that controlled the mountain passes near Mycenae.",
                   "category": "historical",
@@ -935,39 +746,12 @@ imageHint: "Aerial view of the ancient theater of Epidaurus",
                   ]
             },
             {
-                  "name": "Grave Circle A",
-                  "text": "A royal cemetery from the 16th century BC, where famous golden death masks were discovered by Schliemann.",
-                  "category": "historical",
-                  "coords": [
-                        22.756444,
-                        37.730493
-                  ]
-            },
-            {
-                  "name": "Acropolis of Mycenae",
-                  "text": "The ancient citadel of Mycenae, famous for its massive cyclopean walls and the iconic Lion Gate.",
-                  "category": "historical",
-                  "coords": [
-                        22.757713,
-                        37.730351
-                  ]
-            },
-            {
                   "name": "Archaeological Museum of Mycenae",
                   "text": "A museum displaying artifacts from the excavations of Mycenae, illustrating the life of the Mycenaean civilization.",
                   "category": "museum",
                   "coords": [
                         22.756526,
                         37.731856
-                  ]
-            },
-            {
-                  "name": "Sphinx House",
-                  "text": "The ruins of an ancient Mycenaean residence, named after the sphinx-themed decorative ivory found within.",
-                  "category": "historical",
-                  "coords": [
-                        22.754837,
-                        37.729977
                   ]
             },
             {
@@ -2101,15 +1885,6 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Purgos tes Basilopoulas",
-                  "text": "Eine archäologische Stätte bei Sounion mit Überresten antiker befestigter Landhäuser.",
-                  "category": "historical",
-                  "coords": [
-                        24.027818,
-                        37.6702
-                  ]
-            },
-            {
                   "name": "Naos Poseidona",
                   "text": "Ein berühmter antiker Marmortempel des Meeresgottes Poseidon auf den Klippen des Kaps Sounion.",
                   "category": "historical",
@@ -2125,24 +1900,6 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   "coords": [
                         24.0235,
                         37.651633
-                  ]
-            },
-            {
-                  "name": "Cliff tower/farm (Attica)",
-                  "text": "Archäologische Überreste antiker Strukturen auf den Klippen der Küste von Attika.",
-                  "category": "historical",
-                  "coords": [
-                        24.02683,
-                        37.67571
-                  ]
-            },
-            {
-                  "name": "Legrena",
-                  "text": "Ein weitläufiger Sandstrand in der Nähe von Sounion, geschätzt für seine natürliche Umgebung.",
-                  "category": "recreational",
-                  "coords": [
-                        23.983409,
-                        37.661247
                   ]
             },
             {
@@ -2166,15 +1923,6 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Purgos tes Basilopoulas",
-                  "text": "Régészeti lelőhely Szunionnál, ókori megerősített vidéki házak maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        24.027818,
-                        37.6702
-                  ]
-            },
-            {
                   "name": "Naos Poseidona",
                   "text": "Poszeidón tengeristen híres ókori márványtemploma a Szunion-fok szikláin.",
                   "category": "historical",
@@ -2190,24 +1938,6 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   "coords": [
                         24.0235,
                         37.651633
-                  ]
-            },
-            {
-                  "name": "Cliff tower/farm (Attica)",
-                  "text": "Ókori építmények régészeti maradványai Attika partjainak szikláin.",
-                  "category": "historical",
-                  "coords": [
-                        24.02683,
-                        37.67571
-                  ]
-            },
-            {
-                  "name": "Legrena",
-                  "text": "Tágas homokos tengerpart Szunion közelében, amelyet természetes környezetéért kedvelnek.",
-                  "category": "recreational",
-                  "coords": [
-                        23.983409,
-                        37.661247
                   ]
             },
             {
@@ -2231,15 +1961,6 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Purgos tes Basilopoulas",
-                  "text": "Un sit arheologic lângă Sounion, cuprinzând rămășițe ale unor case rurale fortificate antice.",
-                  "category": "historical",
-                  "coords": [
-                        24.027818,
-                        37.6702
-                  ]
-            },
-            {
                   "name": "Naos Poseidona",
                   "text": "Un faimos templu antic din marmură al zeului mării, Poseidon, situat pe stâncile capului Sounion.",
                   "category": "historical",
@@ -2255,24 +1976,6 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   "coords": [
                         24.0235,
                         37.651633
-                  ]
-            },
-            {
-                  "name": "Cliff tower/farm (Attica)",
-                  "text": "Rămășițe arheologice ale unor structuri antice situate pe stâncile coastei Aticii.",
-                  "category": "historical",
-                  "coords": [
-                        24.02683,
-                        37.67571
-                  ]
-            },
-            {
-                  "name": "Legrena",
-                  "text": "O plajă întinsă de nisip lângă Sounion, apreciată pentru cadrul său natural.",
-                  "category": "recreational",
-                  "coords": [
-                        23.983409,
-                        37.661247
                   ]
             },
             {
@@ -2296,15 +1999,6 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   ]
             },
             {
-                  "name": "Princess tower/farm",
-                  "text": "An archaeological site near Sounion featuring remains of ancient fortified rural houses.",
-                  "category": "historical",
-                  "coords": [
-                        24.027818,
-                        37.6702
-                  ]
-            },
-            {
                   "name": "Temple of Poseidon",
                   "text": "A famous ancient marble temple of the sea god Poseidon on the cliffs of Cape Sounion.",
                   "category": "historical",
@@ -2320,24 +2014,6 @@ imageHint: "Massive Cyclopean walls of ancient Tiryns",
                   "coords": [
                         24.0235,
                         37.651633
-                  ]
-            },
-            {
-                  "name": "Cliff tower/farm (Attica)",
-                  "text": "Archaeological remains of ancient structures on the cliffs of the Attic coast.",
-                  "category": "historical",
-                  "coords": [
-                        24.02683,
-                        37.67571
-                  ]
-            },
-            {
-                  "name": "Legrena",
-                  "text": "A spacious sandy beach near Sounion, valued for its natural setting.",
-                  "category": "recreational",
-                  "coords": [
-                        23.983409,
-                        37.661247
                   ]
             },
             {
@@ -4833,39 +4509,12 @@ imageHint: "Monument of the battle of Salamis near the coast",
     id: "greece-brauron-history-v2", "sights": {
       "de": [
             {
-                  "name": "Arkhaiologiko Mouseio Brauronas",
-                  "text": "Museum mit Fundstücken aus dem nahegelegenen antiken Heiligtum der Artemis.",
-                  "category": "museum",
-                  "coords": [
-                        23.997031,
-                        37.924553
-                  ]
-            },
-            {
                   "name": "Stoa of Artemis at Brauron",
                   "text": "Überreste einer antiken dorischen Säulenhalle im Heiligtum von Brauron.",
                   "category": "historical",
                   "coords": [
                         23.993602,
                         37.926275
-                  ]
-            },
-            {
-                  "name": "Beach Vravrona",
-                  "text": "Sandstrand in der Bucht von Vravrona, nahe den archäologischen Stätten.",
-                  "category": "recreational",
-                  "coords": [
-                        24.013158,
-                        37.936974
-                  ]
-            },
-            {
-                  "name": "Arkhaia Braurona",
-                  "text": "Archäologische Stätte eines bedeutenden antiken Heiligtums der Göttin Artemis.",
-                  "category": "historical",
-                  "coords": [
-                        23.995213,
-                        37.924163
                   ]
             },
             {
@@ -4889,39 +4538,12 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "hu": [
             {
-                  "name": "Arkhaiologiko Mouseio Brauronas",
-                  "text": "A közeli ókori Artemisz-szentélyből származó leleteket bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        23.997031,
-                        37.924553
-                  ]
-            },
-            {
                   "name": "Stoa of Artemis at Brauron",
                   "text": "Egy ókori dór oszlopcsarnok maradványai a brauroni szentélyben.",
                   "category": "historical",
                   "coords": [
                         23.993602,
                         37.926275
-                  ]
-            },
-            {
-                  "name": "Beach Vravrona",
-                  "text": "Homokos tengerpart a Vravrona-öbölben, a régészeti lelőhelyek közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        24.013158,
-                        37.936974
-                  ]
-            },
-            {
-                  "name": "Arkhaia Braurona",
-                  "text": "Artemisz istennő jelentős ókori szentélyének régészeti lelőhelye.",
-                  "category": "historical",
-                  "coords": [
-                        23.995213,
-                        37.924163
                   ]
             },
             {
@@ -4945,39 +4567,12 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "ro": [
             {
-                  "name": "Arkhaiologiko Mouseio Brauronas",
-                  "text": "Muzeu care expune artefacte din sanctuarul antic al Artemidei aflat în apropiere.",
-                  "category": "museum",
-                  "coords": [
-                        23.997031,
-                        37.924553
-                  ]
-            },
-            {
                   "name": "Stoa of Artemis at Brauron",
                   "text": "Vestigiile unei portic doric antic în sanctuarul din Brauron.",
                   "category": "historical",
                   "coords": [
                         23.993602,
                         37.926275
-                  ]
-            },
-            {
-                  "name": "Beach Vravrona",
-                  "text": "Plajă de nisip în golful Vravrona, aproape de siturile arheologice.",
-                  "category": "recreational",
-                  "coords": [
-                        24.013158,
-                        37.936974
-                  ]
-            },
-            {
-                  "name": "Arkhaia Braurona",
-                  "text": "Sit arheologic al unui important sanctuar antic dedicat zeiței Artemida.",
-                  "category": "historical",
-                  "coords": [
-                        23.995213,
-                        37.924163
                   ]
             },
             {
@@ -5001,39 +4596,12 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "en": [
             {
-                  "name": "Archaeological Museum of Brauron",
-                  "text": "Museum displaying findings from the nearby ancient sanctuary of Artemis.",
-                  "category": "museum",
-                  "coords": [
-                        23.997031,
-                        37.924553
-                  ]
-            },
-            {
                   "name": "Stoa of Artemis at Brauron",
                   "text": "Remains of an ancient Doric stoa in the sanctuary of Brauron.",
                   "category": "historical",
                   "coords": [
                         23.993602,
                         37.926275
-                  ]
-            },
-            {
-                  "name": "Beach Vravrona",
-                  "text": "Sandy beach in the bay of Vravrona, near the archaeological sites.",
-                  "category": "recreational",
-                  "coords": [
-                        24.013158,
-                        37.936974
-                  ]
-            },
-            {
-                  "name": "Ancient Brauron",
-                  "text": "Archaeological site of a significant ancient sanctuary dedicated to the goddess Artemis.",
-                  "category": "historical",
-                  "coords": [
-                        23.995213,
-                        37.924163
                   ]
             },
             {
@@ -5103,15 +4671,6 @@ imageHint: "Monument of the battle of Salamis near the coast",
     id: "greece-dimini-history-v2", "sights": {
       "de": [
             {
-                  "name": "Mouseio Plinthokeramopoiias",
-                  "text": "Ein Industriemuseum in einem ehemaligen Ziegelwerk, das die Geschichte der Dachziegelherstellung zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        22.932093,
-                        39.365256
-                  ]
-            },
-            {
                   "name": "Lamiospito Tholos Tomb, Dimini",
                   "text": "Ein mykenisches Kuppelgrab aus der Bronzezeit bei Dimini.",
                   "category": "historical",
@@ -5121,30 +4680,12 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Kastro Palaion",
-                  "text": "Burg Palia mit Blick auf die neolithische Siedlung Dimini.",
-                  "category": "castle",
-                  "coords": [
-                        22.933295,
-                        39.365027
-                  ]
-            },
-            {
                   "name": "Mukenaikos Taphos Dimeniou",
                   "text": "Mykenisches Kuppelgrab (Tholos) in Dimini, gut erhalten.",
                   "category": "historical",
                   "coords": [
                         22.890582,
                         39.362344
-                  ]
-            },
-            {
-                  "name": "Mouseio Poles Bolou",
-                  "text": "Stadtmuseum Volos in einem neoklassizistischen Gebäude in Dimini.",
-                  "category": "museum",
-                  "coords": [
-                        22.935723,
-                        39.363992
                   ]
             },
             {
@@ -5159,15 +4700,6 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "hu": [
             {
-                  "name": "Mouseio Plinthokeramopoiias",
-                  "text": "Egykori téglagyárban működő ipari múzeum, amely a tetőcserépgyártás történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        22.932093,
-                        39.365256
-                  ]
-            },
-            {
                   "name": "Lamiospito Tholos Tomb, Dimini",
                   "text": "Mükénéi kori kupolasír Dimini közelében.",
                   "category": "historical",
@@ -5177,30 +4709,12 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Kastro Palaion",
-                  "text": "Palia vára a dimini neolitikus településre néz.",
-                  "category": "castle",
-                  "coords": [
-                        22.933295,
-                        39.365027
-                  ]
-            },
-            {
                   "name": "Mukenaikos Taphos Dimeniou",
                   "text": "Mükénéi tholosz-sír Diminiben, jól megőrzött.",
                   "category": "historical",
                   "coords": [
                         22.890582,
                         39.362344
-                  ]
-            },
-            {
-                  "name": "Mouseio Poles Bolou",
-                  "text": "Volos Városi Múzeum egy neoklasszikus épületben Diminiben.",
-                  "category": "museum",
-                  "coords": [
-                        22.935723,
-                        39.363992
                   ]
             },
             {
@@ -5215,15 +4729,6 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "ro": [
             {
-                  "name": "Mouseio Plinthokeramopoiias",
-                  "text": "Un muzeu industrial într-o fostă fabrică de cărămidă, dedicat istoriei producției de țigle.",
-                  "category": "museum",
-                  "coords": [
-                        22.932093,
-                        39.365256
-                  ]
-            },
-            {
                   "name": "Lamiospito Tholos Tomb, Dimini",
                   "text": "Un mormânt micenian de tip tholos lângă Dimini.",
                   "category": "historical",
@@ -5233,30 +4738,12 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Kastro Palaion",
-                  "text": "Castelul Palia cu vedere spre așezarea neolitică Dimini.",
-                  "category": "castle",
-                  "coords": [
-                        22.933295,
-                        39.365027
-                  ]
-            },
-            {
                   "name": "Mukenaikos Taphos Dimeniou",
                   "text": "Mormântul micenian tip tholos din Dimini, bine conservat.",
                   "category": "historical",
                   "coords": [
                         22.890582,
                         39.362344
-                  ]
-            },
-            {
-                  "name": "Mouseio Poles Bolou",
-                  "text": "Muzeul Orașului Volos într-o clădire neoclasică din Dimini.",
-                  "category": "museum",
-                  "coords": [
-                        22.935723,
-                        39.363992
                   ]
             },
             {
@@ -5271,15 +4758,6 @@ imageHint: "Monument of the battle of Salamis near the coast",
       ],
       "en": [
             {
-                  "name": "Rooftile and Brickworks Museum",
-                  "text": "An industrial museum in a former brickworks, showcasing the history of rooftile making.",
-                  "category": "museum",
-                  "coords": [
-                        22.932093,
-                        39.365256
-                  ]
-            },
-            {
                   "name": "Lamiospito Tholos Tomb, Dimini",
                   "text": "A Mycenaean tholos tomb dating from the Bronze Age near Dimini.",
                   "category": "historical",
@@ -5289,39 +4767,12 @@ imageHint: "Monument of the battle of Salamis near the coast",
                   ]
             },
             {
-                  "name": "Castle of Palia",
-                  "text": "Castle of Palia overlooking the Neolithic settlement of Dimini.",
-                  "category": "castle",
-                  "coords": [
-                        22.933295,
-                        39.365027
-                  ]
-            },
-            {
                   "name": "Mycenaean Tomb of Dimini",
                   "text": "Mycenaean tholos tomb at Dimini, a well-preserved beehive structure.",
                   "category": "historical",
                   "coords": [
                         22.890582,
                         39.362344
-                  ]
-            },
-            {
-                  "name": "Volos City Museum",
-                  "text": "Volos City Museum housed in a neoclassical building in Dimini.",
-                  "category": "museum",
-                  "coords": [
-                        22.935723,
-                        39.363992
-                  ]
-            },
-            {
-                  "name": "Ancient Theater of Demetrias",
-                  "text": "Ancient theater of Demetrias on a hillside near Dimini.",
-                  "category": "historical",
-                  "coords": [
-                        22.924355,
-                        39.343425
                   ]
             }
       ]
@@ -5776,86 +5227,10 @@ imageHint: "Monument of the battle of Salamis near the coast",
   },
     {
     id: "greece-osios-loukas-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kastraki Osiou Louka",
-                  "text": "Historische Burgruinen in der Nähe des Klosters Hosios Loukas.",
-                  "category": "castle",
-                  "coords": [
-                        22.743412,
-                        38.396636
-                  ]
-            },
-            {
-                  "name": "Kloster Hosios Lukas",
-                  "text": "Ein historisches byzantinisches Kloster und UNESCO-Welterbe.",
-                  "category": "landmark",
-                  "coords": [
-                        22.746509,
-                        38.395108
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kastraki Osiou Louka",
-                  "text": "Történelmi várromok a Hosios Loukas kolostor közelében.",
-                  "category": "castle",
-                  "coords": [
-                        22.743412,
-                        38.396636
-                  ]
-            },
-            {
-                  "name": "Buzantine Mone Osiou Louka",
-                  "text": "Történelmi bizánci kolostor, amely az UNESCO Világörökség része.",
-                  "category": "landmark",
-                  "coords": [
-                        22.746509,
-                        38.395108
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kastraki Osiou Louka",
-                  "text": "Ruinele unui castel istoric situate lângă Mănăstirea Hosios Loukas.",
-                  "category": "castle",
-                  "coords": [
-                        22.743412,
-                        38.396636
-                  ]
-            },
-            {
-                  "name": "Buzantine Mone Osiou Louka",
-                  "text": "O mănăstire bizantină istorică inclusă în patrimoniul mondial UNESCO.",
-                  "category": "landmark",
-                  "coords": [
-                        22.746509,
-                        38.395108
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Castle of Osios Loukas",
-                  "text": "Historical castle ruins located near the Monastery of Hosios Loukas.",
-                  "category": "castle",
-                  "coords": [
-                        22.743412,
-                        38.396636
-                  ]
-            },
-            {
-                  "name": "Hosios Loukas",
-                  "text": "A historic Byzantine monastery and UNESCO World Heritage site.",
-                  "category": "landmark",
-                  "coords": [
-                        22.746509,
-                        38.395108
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "GR",

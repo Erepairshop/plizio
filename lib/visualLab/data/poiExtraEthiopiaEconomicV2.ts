@@ -3734,17 +3734,7 @@ export const poiExtraEthiopiaEconomicV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Debrebirhan Eid Street",
-                  "text": "A bustling street attraction located near the Habesha Breweries in Debre Birhan.",
-                  "category": "landmark",
-                  "coords": [
-                        39.52685,
-                        9.672599
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "industry",
     parent: "ET-AM",

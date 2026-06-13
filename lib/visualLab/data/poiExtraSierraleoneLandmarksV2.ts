@@ -452,15 +452,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
     id: "guma-valley-dam-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Tigiemans Resident",
-                  "text": "Diese spezielle Attraktion in der Umgebung von guma-valley-dam-landmarks-v2 besteht aus einem speziellen lokalen Gebäude, das regionale Besucher anzieht.",
-                  "category": "landmark",
-                  "coords": [
-                        -13.133182,
-                        8.382236
-                  ]
-            },
-            {
                   "name": "Western Area Peninsula National Park",
                   "text": "Dieses riesige Naturreservat in der Nähe von guma-valley-dam-landmarks-v2 umfasst raue tropische Hänge und schützt wichtige Biodiversität und dicht bewaldete Hänge.",
                   "category": "natural",
@@ -471,15 +462,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tigiemans Resident",
-                  "text": "A guma-valley-dam-landmarks-v2 szomszédságában található különleges látványosság egy dedikált helyi épületből áll, amely vonzza a régiós látogatókat.",
-                  "category": "landmark",
-                  "coords": [
-                        -13.133182,
-                        8.382236
-                  ]
-            },
             {
                   "name": "Western Area Peninsula National Park",
                   "text": "A guma-valley-dam-landmarks-v2 közelében található zord, trópusi hegyoldalakat magába foglaló hatalmas természetvédelmi terület megóvja a kritikus biodiverzitást és az erősen erdősülő lejtőket.",
@@ -492,15 +474,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tigiemans Resident",
-                  "text": "Găsită în vecinătatea guma-valley-dam-landmarks-v2, această atracție specifică constă dintr-o clădire locală dedicată care atrage vizitatori regionali.",
-                  "category": "landmark",
-                  "coords": [
-                        -13.133182,
-                        8.382236
-                  ]
-            },
-            {
                   "name": "Western Area Peninsula National Park",
                   "text": "Cuprinzând versanți tropicali accidentați în apropiere de guma-valley-dam-landmarks-v2, această vastă rezervație naturală protejează biodiversitatea critică și pantele puternic împădurite.",
                   "category": "natural",
@@ -511,15 +484,6 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tigiemans Resident",
-                  "text": "Found within the guma-valley-dam-landmarks-v2 vicinity, this specific attraction consists of a dedicated local building that draws regional visitors.",
-                  "category": "landmark",
-                  "coords": [
-                        -13.133182,
-                        8.382236
-                  ]
-            },
             {
                   "name": "Western Area Peninsula National Park",
                   "text": "Encompassing rugged tropical hillsides near the guma-valley-dam-landmarks-v2, this vast nature reserve safeguards critical biodiversity and heavily forested slopes.",
@@ -1777,50 +1741,10 @@ export const poiExtraSierraleoneLandmarksV2: POI[] = [
   },
   {
     id: "immaculate-conception-cathedral-bo-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "SALWACO (Water Supply)",
-                  "text": "Die SALWACO-Anlage fungiert als kritische Wasserversorgungsinfrastruktur innerhalb der Stadtgrenzen von Bo.",
-                  "category": "landmark",
-                  "coords": [
-                        -11.743979,
-                        7.959308
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "SALWACO (Water Supply)",
-                  "text": "A SALWACO létesítmény kritikus vízellátási infrastruktúraként működik Bo város határain belül.",
-                  "category": "landmark",
-                  "coords": [
-                        -11.743979,
-                        7.959308
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "SALWACO (Water Supply)",
-                  "text": "Instalația SALWACO funcționează ca o infrastructură critică de alimentare cu apă situată în limitele orașului Bo.",
-                  "category": "landmark",
-                  "coords": [
-                        -11.743979,
-                        7.959308
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "SALWACO (Water Supply)",
-                  "text": "The SALWACO facility functions as a critical water supply infrastructure site located within the Bo city limits.",
-                  "category": "landmark",
-                  "coords": [
-                        -11.743979,
-                        7.959308
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "SL-S",

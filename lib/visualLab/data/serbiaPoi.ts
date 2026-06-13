@@ -111,122 +111,10 @@ export const serbiaCulture: POI[] = [
 export const serbiaNature: POI[] = [
   {
     id: "mountain-kopaonik", "sights": {
-      "de": [
-            {
-                  "name": "Crkvine, Nebeske Stolice",
-                  "text": "Eine archäologische Stätte mit den Ruinen einer frühchristlichen Basilika auf dem Berg Kopaonik.",
-                  "category": "historical",
-                  "coords": [
-                        20.835814,
-                        43.26188
-                  ]
-            },
-            {
-                  "name": "Panchitshev vrkh",
-                  "text": "Der höchste Gipfel des Kopaonik-Gebirges in Serbien.",
-                  "category": "landmark",
-                  "coords": [
-                        20.823663,
-                        43.269255
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Ein markantes Denkmal in der Bergregion Kopaonik.",
-                  "category": "historical",
-                  "coords": [
-                        20.818674,
-                        43.272555
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Crkvine, Nebeske Stolice",
-                  "text": "Régészeti lelőhely egy kora keresztény bazilika romjaival a Kopaonik-hegyen.",
-                  "category": "historical",
-                  "coords": [
-                        20.835814,
-                        43.26188
-                  ]
-            },
-            {
-                  "name": "Panchitshev vrkh",
-                  "text": "A szerbiai Kopaonik-hegység legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        20.823663,
-                        43.269255
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Kiemelkedő emlékmű a Kopaonik hegyvidéken.",
-                  "category": "historical",
-                  "coords": [
-                        20.818674,
-                        43.272555
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Crkvine, Nebeske Stolice",
-                  "text": "Un sit arheologic care prezintă ruinele unei basilici creștine timpurii pe muntele Kopaonik.",
-                  "category": "historical",
-                  "coords": [
-                        20.835814,
-                        43.26188
-                  ]
-            },
-            {
-                  "name": "Panchitshev vrkh",
-                  "text": "Cel mai înalt vârf din masivul muntos Kopaonik din Serbia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.823663,
-                        43.269255
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Un monument proeminent situat în regiunea montană Kopaonik.",
-                  "category": "historical",
-                  "coords": [
-                        20.818674,
-                        43.272555
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Crkvine, Nebeske Stolice",
-                  "text": "An archaeological site featuring the ruins of an early Christian basilica on Mount Kopaonik.",
-                  "category": "historical",
-                  "coords": [
-                        20.835814,
-                        43.26188
-                  ]
-            },
-            {
-                  "name": "Panchichev vrh",
-                  "text": "The highest peak of the Kopaonik mountain range in Serbia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.823663,
-                        43.269255
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "A prominent monument located in the Kopaonik mountain region.",
-                  "category": "historical",
-                  "coords": [
-                        20.818674,
-                        43.272555
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "country-serbia",
@@ -273,15 +161,6 @@ export const serbiaNature: POI[] = [
     id: "mountain-fruska-gora", "sights": {
       "de": [
             {
-                  "name": "Orlovo bojishte",
-                  "text": "Ein Aussichtspunkt im Nationalpark Fruška Gora mit weitem Blick über die Region.",
-                  "category": "natural",
-                  "coords": [
-                        19.830593,
-                        45.180645
-                  ]
-            },
-            {
                   "name": "Vidikovac - Most Beška",
                   "text": "Ein Aussichtspunkt, der einen weiten Blick auf die Donaubrücke bei Beška bietet.",
                   "category": "natural",
@@ -307,27 +186,9 @@ export const serbiaNature: POI[] = [
                         19.862035,
                         45.158429
                   ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Thermalschwimmbad-Komplex in der Region Fruška Gora.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Orlovo bojishte",
-                  "text": "Kilátópont a Fruška Gora Nemzeti Parkban, ahonnan széles körpanoráma nyílik a régióra.",
-                  "category": "natural",
-                  "coords": [
-                        19.830593,
-                        45.180645
-                  ]
-            },
             {
                   "name": "Vidikovac - Most Beška",
                   "text": "Kilátóhely, ahonnan kiváló rálátás nyílik a Duna-hídra Beška közelében.",
@@ -354,27 +215,9 @@ export const serbiaNature: POI[] = [
                         19.862035,
                         45.158429
                   ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Termálvizes úszómedence-komplexum a Fruška Gora vidékén.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Orlovo bojishte",
-                  "text": "Un punct de belvedere în Parcul Național Fruška Gora, oferind o vedere panoramică asupra regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        19.830593,
-                        45.180645
-                  ]
-            },
             {
                   "name": "Vidikovac - Most Beška",
                   "text": "Un punct de belvedere care oferă o vedere amplă asupra podului peste Dunăre de lângă Beška.",
@@ -401,27 +244,9 @@ export const serbiaNature: POI[] = [
                         19.862035,
                         45.158429
                   ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Complex de piscine termale în regiunea Fruška Gora.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Orlovo bojiste",
-                  "text": "A viewpoint in the Fruška Gora National Park with a wide view over the region.",
-                  "category": "natural",
-                  "coords": [
-                        19.830593,
-                        45.180645
-                  ]
-            },
             {
                   "name": "Vidikovac - Most Beška",
                   "text": "A viewpoint offering a broad view of the Danube bridge near Beška.",
@@ -447,15 +272,6 @@ export const serbiaNature: POI[] = [
                   "coords": [
                         19.862035,
                         45.158429
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Thermal swimming pool complex in the Fruška Gora region.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
                   ]
             }
       ]
@@ -526,69 +342,6 @@ export const serbiaRivers: POI[] = [
                   ]
             },
             {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Dieses Museum in Belgrad bewahrt und zeigt die Nationalgeschichte und das kulturelle Erbe Serbiens.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Das Eisenbahnmuseum in Belgrad zeigt die Geschichte des Schienenverkehrs in Serbien anhand verschiedener Exponate.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Das Zepter Museum ist eine private Kunstinstitution in Belgrad, die zeitgenössische serbische Kunstwerke ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "Vespa muzej Srbija",
-                  "text": "Dieses einzigartige Museum in Belgrad ist der Geschichte und den klassischen Modellen des Vespa-Rollers gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        20.434902,
-                        44.79186
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Dieses Museum in Belgrad befindet sich in der ehemaligen Wohnung des Nobelpreisträgers Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Dieses Museum zeigt die Werke und persönlichen Gegenstände des berühmten serbischen Malers Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Ein Schwimm- und Wellnessclub in der Nähe der Donau.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ein Aquarium in Belgrad, das eine große Vielfalt an Fischen, Reptilien und tropischen Pflanzen zeigt.",
                   "category": "recreational",
@@ -642,69 +395,6 @@ export const serbiaRivers: POI[] = [
                   "coords": [
                         20.448974,
                         44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Ez a belgrádi múzeum Szerbia nemzeti történelmét és kulturális örökségét őrzi és mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "A belgrádi Vasúttörténeti Múzeum különféle kiállításokon keresztül mutatja be a szerbiai vasút történetét.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "A Zepter Múzeum egy belgrádi magánművészeti intézmény, amely kortárs szerb alkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "Vespa muzej Srbija",
-                  "text": "Ez az egyedülálló belgrádi múzeum a Vespa robogók történetének és klasszikus modelljeinek van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        20.434902,
-                        44.79186
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ez a belgrádi múzeum a Nobel-díjas Ivo Andrić egykori lakása, amelyet emlékhelyként őriztek meg.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ez a múzeum a híres szerb festő, Paja Jovanović műveit és személyes tárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Úszó- és wellnessklub a Duna közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -764,69 +454,6 @@ export const serbiaRivers: POI[] = [
                   ]
             },
             {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Acest muzeu din Belgrad păstrează și expune istoria națională și moștenirea culturală a Serbiei.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Muzeul Căilor Ferate din Belgrad prezintă istoria transportului feroviar din Serbia prin diverse exponate.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Muzeul Zepter este o instituție privată de artă din Belgrad, care prezintă opere de artă sârbească contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "Vespa muzej Srbija",
-                  "text": "Acest muzeu unic din Belgrad este dedicat istoriei și modelelor clasice ale scuterului Vespa.",
-                  "category": "museum",
-                  "coords": [
-                        20.434902,
-                        44.79186
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Situat în Belgrad, acest muzeu este fostul apartament al laureatului Premiului Nobel Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Acest muzeu expune lucrările și obiectele personale ale celebrului pictor sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Un club de înot și wellness situat lângă Dunăre.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Un acvariu din Belgrad care prezintă o mare varietate de pești, reptile și plante tropicale.",
                   "category": "recreational",
@@ -880,96 +507,6 @@ export const serbiaRivers: POI[] = [
                   "coords": [
                         20.448974,
                         44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "This museum in Belgrade preserves and displays the national history and cultural heritage of Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "The Railway Museum in Belgrade showcases the history of rail transport in Serbia through various exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "The Zepter Museum is a private art institution in Belgrade featuring contemporary Serbian artwork.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "Vespa Museum Serbia",
-                  "text": "This unique museum in Belgrade is dedicated to the history and classic models of the Vespa scooter.",
-                  "category": "museum",
-                  "coords": [
-                        20.434902,
-                        44.79186
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "Located in Belgrade, this museum is the former apartment of Nobel laureate Ivo Andrić, preserved as a memorial.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "This museum showcases the works and personal belongings of the famous Serbian painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A swimming and wellness club located near the Danube River.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "An aquarium in Belgrade showcasing a wide variety of fish, reptiles, and tropical plants.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A popular river beach located on the Great War Island in the Danube.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
                   ]
             },
             {
@@ -1073,7 +610,232 @@ export const serbiaDistrictPoi: POI[] = [
   // RS-001 Severno-Backi
   // RS-002 Zapadno-Backi
   {
-    id: "RS-002-sombor", "sights": {"de": [{"name": "Narodno pozorište Sombor", "text": "Das historische Gebäude des Nationaltheaters in Sombor.", "category": "cultural", "coords": [19.112174, 45.77232]}, {"name": "Preparandija", "text": "Ein ehemaliges Schulgebäude, das heute als Museum und Galerie dient.", "category": "museum", "coords": [19.113753, 45.774696]}, {"name": "Galerija Milan Konjović", "text": "Eine Galerie, die den Werken des berühmten Malers Milan Konjović gewidmet ist.", "category": "museum", "coords": [19.113573, 45.77212]}, {"name": "Kulturni centar ”Laza Kostić”", "text": "Ein wichtiges kulturelles Zentrum für Kunst und Veranstaltungen in Sombor.", "category": "cultural", "coords": [19.109652, 45.772969]}, {"name": "Crkva Presvetog Trojstva", "text": "Eine barocke katholische Kirche im Zentrum von Sombor.", "category": "religious", "coords": [19.1134, 45.773367]}, {"name": "Crkva Svetog Georgija", "text": "Die serbisch-orthodoxe Hauptkirche von Sombor.", "category": "religious", "coords": [19.115042, 45.773927]}, {"name": "Manastir Svetog Arhiđakona Stefana", "text": "Ein serbisch-orthodoxes Kloster am Stadtrand von Sombor.", "category": "religious", "coords": [19.133855, 45.778146]}], "hu": [{"name": "Narodno pozorište Sombor", "text": "A zombori Nemzeti Színház történelmi épülete.", "category": "cultural", "coords": [19.112174, 45.77232]}, {"name": "Preparandija", "text": "Egykori iskolaépület, amely ma múzeumként és galériaként működik.", "category": "museum", "coords": [19.113753, 45.774696]}, {"name": "Galerija Milan Konjović", "text": "A híres festő, Milan Konjović műveinek szentelt galéria.", "category": "museum", "coords": [19.113573, 45.77212]}, {"name": "Kulturni centar ”Laza Kostić”", "text": "Zombor fontos kulturális központja művészeti események számára.", "category": "cultural", "coords": [19.109652, 45.772969]}, {"name": "Crkva Presvetog Trojstva", "text": "Barokk katolikus templom Zombor központjában.", "category": "religious", "coords": [19.1134, 45.773367]}, {"name": "Crkva Svetog Georgija", "text": "Zombor fő szerb ortodox temploma.", "category": "religious", "coords": [19.115042, 45.773927]}, {"name": "Manastir Svetog Arhiđakona Stefana", "text": "Szerb ortodox kolostor Zombor szélén.", "category": "religious", "coords": [19.133855, 45.778146]}], "ro": [{"name": "Narodno pozorište Sombor", "text": "Clădirea istorică a Teatrului Național din Sombor.", "category": "cultural", "coords": [19.112174, 45.77232]}, {"name": "Preparandija", "text": "O fostă școală care astăzi servește ca muzeu și galerie.", "category": "museum", "coords": [19.113753, 45.774696]}, {"name": "Galerija Milan Konjović", "text": "O galerie dedicată lucrărilor celebrului pictor Milan Konjović.", "category": "museum", "coords": [19.113573, 45.77212]}, {"name": "Kulturni centar ”Laza Kostić”", "text": "Un centru cultural important pentru artă și evenimente în Sombor.", "category": "cultural", "coords": [19.109652, 45.772969]}, {"name": "Crkva Presvetog Trojstva", "text": "O biserică catolică barocă în centrul orașului Sombor.", "category": "religious", "coords": [19.1134, 45.773367]}, {"name": "Crkva Svetog Georgija", "text": "Principala biserică ortodoxă sârbă din Sombor.", "category": "religious", "coords": [19.115042, 45.773927]}, {"name": "Manastir Svetog Arhiđakona Stefana", "text": "O mănăstire ortodoxă sârbă la marginea orașului Sombor.", "category": "religious", "coords": [19.133855, 45.778146]}], "en": [{"name": "Narodno pozorište Sombor", "text": "The historic building of the National Theatre in Sombor.", "category": "cultural", "coords": [19.112174, 45.77232]}, {"name": "Preparandija", "text": "A former school building that now functions as a museum and gallery.", "category": "museum", "coords": [19.113753, 45.774696]}, {"name": "Galerija Milan Konjović", "text": "A gallery dedicated to the works of the famous painter Milan Konjović.", "category": "museum", "coords": [19.113573, 45.77212]}, {"name": "Kulturni centar ”Laza Kostić”", "text": "An important cultural center for arts and events in Sombor.", "category": "cultural", "coords": [19.109652, 45.772969]}, {"name": "Crkva Presvetog Trojstva", "text": "A Baroque Catholic church in the center of Sombor.", "category": "religious", "coords": [19.1134, 45.773367]}, {"name": "Crkva Svetog Georgija", "text": "The main Serbian Orthodox church of Sombor.", "category": "religious", "coords": [19.115042, 45.773927]}, {"name": "Manastir Svetog Arhiđakona Stefana", "text": "A Serbian Orthodox monastery located on the outskirts of Sombor.", "category": "religious", "coords": [19.133855, 45.778146]}]},
+    id: "RS-002-sombor", "sights": {
+      "de": [
+            {
+                  "name": "Narodno pozorište Sombor",
+                  "text": "Das historische Gebäude des Nationaltheaters in Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.112174,
+                        45.77232
+                  ]
+            },
+            {
+                  "name": "Preparandija",
+                  "text": "Ein ehemaliges Schulgebäude, das heute als Museum und Galerie dient.",
+                  "category": "museum",
+                  "coords": [
+                        19.113753,
+                        45.774696
+                  ]
+            },
+            {
+                  "name": "Galerija Milan Konjović",
+                  "text": "Eine Galerie, die den Werken des berühmten Malers Milan Konjović gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.113573,
+                        45.77212
+                  ]
+            },
+            {
+                  "name": "Kulturni centar ”Laza Kostić”",
+                  "text": "Ein wichtiges kulturelles Zentrum für Kunst und Veranstaltungen in Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.109652,
+                        45.772969
+                  ]
+            },
+            {
+                  "name": "Crkva Presvetog Trojstva",
+                  "text": "Eine barocke katholische Kirche im Zentrum von Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.1134,
+                        45.773367
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Georgija",
+                  "text": "Die serbisch-orthodoxe Hauptkirche von Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.115042,
+                        45.773927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Narodno pozorište Sombor",
+                  "text": "A zombori Nemzeti Színház történelmi épülete.",
+                  "category": "cultural",
+                  "coords": [
+                        19.112174,
+                        45.77232
+                  ]
+            },
+            {
+                  "name": "Preparandija",
+                  "text": "Egykori iskolaépület, amely ma múzeumként és galériaként működik.",
+                  "category": "museum",
+                  "coords": [
+                        19.113753,
+                        45.774696
+                  ]
+            },
+            {
+                  "name": "Galerija Milan Konjović",
+                  "text": "A híres festő, Milan Konjović műveinek szentelt galéria.",
+                  "category": "museum",
+                  "coords": [
+                        19.113573,
+                        45.77212
+                  ]
+            },
+            {
+                  "name": "Kulturni centar ”Laza Kostić”",
+                  "text": "Zombor fontos kulturális központja művészeti események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        19.109652,
+                        45.772969
+                  ]
+            },
+            {
+                  "name": "Crkva Presvetog Trojstva",
+                  "text": "Barokk katolikus templom Zombor központjában.",
+                  "category": "religious",
+                  "coords": [
+                        19.1134,
+                        45.773367
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Georgija",
+                  "text": "Zombor fő szerb ortodox temploma.",
+                  "category": "religious",
+                  "coords": [
+                        19.115042,
+                        45.773927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Narodno pozorište Sombor",
+                  "text": "Clădirea istorică a Teatrului Național din Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.112174,
+                        45.77232
+                  ]
+            },
+            {
+                  "name": "Preparandija",
+                  "text": "O fostă școală care astăzi servește ca muzeu și galerie.",
+                  "category": "museum",
+                  "coords": [
+                        19.113753,
+                        45.774696
+                  ]
+            },
+            {
+                  "name": "Galerija Milan Konjović",
+                  "text": "O galerie dedicată lucrărilor celebrului pictor Milan Konjović.",
+                  "category": "museum",
+                  "coords": [
+                        19.113573,
+                        45.77212
+                  ]
+            },
+            {
+                  "name": "Kulturni centar ”Laza Kostić”",
+                  "text": "Un centru cultural important pentru artă și evenimente în Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.109652,
+                        45.772969
+                  ]
+            },
+            {
+                  "name": "Crkva Presvetog Trojstva",
+                  "text": "O biserică catolică barocă în centrul orașului Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.1134,
+                        45.773367
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Georgija",
+                  "text": "Principala biserică ortodoxă sârbă din Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.115042,
+                        45.773927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Narodno pozorište Sombor",
+                  "text": "The historic building of the National Theatre in Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.112174,
+                        45.77232
+                  ]
+            },
+            {
+                  "name": "Preparandija",
+                  "text": "A former school building that now functions as a museum and gallery.",
+                  "category": "museum",
+                  "coords": [
+                        19.113753,
+                        45.774696
+                  ]
+            },
+            {
+                  "name": "Galerija Milan Konjović",
+                  "text": "A gallery dedicated to the works of the famous painter Milan Konjović.",
+                  "category": "museum",
+                  "coords": [
+                        19.113573,
+                        45.77212
+                  ]
+            },
+            {
+                  "name": "Kulturni centar ”Laza Kostić”",
+                  "text": "An important cultural center for arts and events in Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.109652,
+                        45.772969
+                  ]
+            },
+            {
+                  "name": "Crkva Presvetog Trojstva",
+                  "text": "A Baroque Catholic church in the center of Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.1134,
+                        45.773367
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Georgija",
+                  "text": "The main Serbian Orthodox church of Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.115042,
+                        45.773927
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-002",
     coords: [19.1125, 45.7739],
@@ -1923,15 +1685,6 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Istorijski arhiv „Timočka Krajina”",
-                  "text": "Dieses Museum in Zaječar bewahrt wichtige historische Dokumente des Timok-Tals auf.",
-                  "category": "museum",
-                  "coords": [
-                        22.270801,
-                        43.902638
-                  ]
-            },
-            {
                   "name": "Spomenik Zoranu Radmiloviću",
                   "text": "Ein Denkmal in Zaječar zu Ehren des berühmten, dort geborenen Schauspielers Zoran Radmilović.",
                   "category": "historical",
@@ -1959,30 +1712,12 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik Nikoli Pašiću",
-                  "text": "Ein Denkmal in Zaječar für den bedeutenden serbischen Staatsmann Nikola Pašić.",
-                  "category": "historical",
-                  "coords": [
-                        22.276144,
-                        43.903331
-                  ]
-            },
-            {
                   "name": "Hajduk Veljko",
                   "text": "Ein Denkmal zu Ehren von Hajduk Veljko, einem Helden des ersten serbischen Aufstands.",
                   "category": "historical",
                   "coords": [
                         22.286917,
                         43.90703
-                  ]
-            },
-            {
-                  "name": "Popova plaža",
-                  "text": "Ein Sport- und Erholungszentrum in Zaječar mit Stränden am Fluss Timok.",
-                  "category": "recreational",
-                  "coords": [
-                        22.276548,
-                        43.909344
                   ]
             },
             {
@@ -2042,15 +1777,6 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Istorijski arhiv „Timočka Krajina”",
-                  "text": "Ez a zaječari múzeum a Timok-völgy fontos történelmi dokumentumait őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        22.270801,
-                        43.902638
-                  ]
-            },
-            {
                   "name": "Spomenik Zoranu Radmiloviću",
                   "text": "Emlékmű Zaječarban a város szülötte, a híres színész, Zoran Radmilović tiszteletére.",
                   "category": "historical",
@@ -2078,30 +1804,12 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik Nikoli Pašiću",
-                  "text": "Emlékmű Zaječarban a neves szerb államférfi, Nikola Pašić tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        22.276144,
-                        43.903331
-                  ]
-            },
-            {
                   "name": "Hajduk Veljko",
                   "text": "Emlékmű Hajduk Veljko, az első szerb felkelés hősének tiszteletére.",
                   "category": "historical",
                   "coords": [
                         22.286917,
                         43.90703
-                  ]
-            },
-            {
-                  "name": "Popova plaža",
-                  "text": "Sport- és üdülőközpont Zaječarban, strandokkal a Timok-folyó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        22.276548,
-                        43.909344
                   ]
             },
             {
@@ -2161,15 +1869,6 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Istorijski arhiv „Timočka Krajina”",
-                  "text": "Acest muzeu din Zaječar păstrează documente istorice importante ale văii Timok.",
-                  "category": "museum",
-                  "coords": [
-                        22.270801,
-                        43.902638
-                  ]
-            },
-            {
                   "name": "Spomenik Zoranu Radmiloviću",
                   "text": "Un monument din Zaječar în onoarea celebrului actor Zoran Radmilović, născut aici.",
                   "category": "historical",
@@ -2197,30 +1896,12 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik Nikoli Pašiću",
-                  "text": "Un monument din Zaječar dedicat proeminentului om de stat sârb Nikola Pašić.",
-                  "category": "historical",
-                  "coords": [
-                        22.276144,
-                        43.903331
-                  ]
-            },
-            {
                   "name": "Hajduk Veljko",
                   "text": "Un monument în cinstea lui Hajduk Veljko, un erou al primei răscoale sârbe.",
                   "category": "historical",
                   "coords": [
                         22.286917,
                         43.90703
-                  ]
-            },
-            {
-                  "name": "Popova plaža",
-                  "text": "Un centru sportiv și de recreere din Zaječar, cu plaje pe râul Timok.",
-                  "category": "recreational",
-                  "coords": [
-                        22.276548,
-                        43.909344
                   ]
             },
             {
@@ -2280,15 +1961,6 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Timok Valley Historical Archive",
-                  "text": "This museum in Zaječar preserves important historical documents of the Timok Valley.",
-                  "category": "museum",
-                  "coords": [
-                        22.270801,
-                        43.902638
-                  ]
-            },
-            {
                   "name": "Zoran Radmilović Monument",
                   "text": "A monument in Zaječar honoring the famous actor Zoran Radmilović, who was born in the city.",
                   "category": "historical",
@@ -2316,30 +1988,12 @@ export const serbiaDistrictPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Monument to Nikola Pašić",
-                  "text": "A monument in Zaječar dedicated to the prominent Serbian statesman Nikola Pašić.",
-                  "category": "historical",
-                  "coords": [
-                        22.276144,
-                        43.903331
-                  ]
-            },
-            {
                   "name": "Hajduk Veljko",
                   "text": "A monument honoring Hajduk Veljko, a hero of the First Serbian Uprising.",
                   "category": "historical",
                   "coords": [
                         22.286917,
                         43.90703
-                  ]
-            },
-            {
-                  "name": "Popova plaža",
-                  "text": "A sports and recreation center in Zaječar featuring beaches along the Timok River.",
-                  "category": "recreational",
-                  "coords": [
-                        22.276548,
-                        43.909344
                   ]
             },
             {
@@ -5804,7 +5458,169 @@ export const serbiaDistrictPoi: POI[] = [
   },
   // RS-018 Branicevski
   {
-    id: "RS-018-pozarevac", "sights": {"de": [{"name": "Požarevački mir", "text": "Dieses Museum in Požarevac befasst sich mit dem historischen Friedensvertrag von Passarowitz.", "category": "museum", "coords": [21.199953, 44.623964]}, {"name": "Bambiland", "text": "Ein bekannter Freizeitpark für Familien in der Stadt Požarevac.", "category": "family", "coords": [21.1721, 44.619445]}, {"name": "Narodni muzej Požarevac", "text": "Das Nationalmuseum von Požarevac stellt bedeutende lokale historische und archäologische Funde aus.", "category": "museum", "coords": [21.186899, 44.621834]}, {"name": "Spomenik slobode i pobede nad fašizmom „Zvezda”", "text": "Ein Denkmal in Požarevac, das der Freiheit und dem Sieg über den Faschismus gewidmet ist.", "category": "historical", "coords": [21.203752, 44.613644]}, {"name": "Spomenik palim borcima Crvene armije 1944. godine", "text": "Ein Denkmal zur Ehre der im Jahr 1944 gefallenen Soldaten der Roten Armee.", "category": "historical", "coords": [21.199857, 44.612909]}, {"name": "Spomenik streljanim rodoljubima 1941-1944", "text": "Dieses Denkmal erinnert an die jugoslawischen Partisanen, die zwischen 1941 und 1944 hingerichtet wurden.", "category": "historical", "coords": [21.197876, 44.613379]}, {"name": "Spomenik Pokretu gorana", "text": "Ein Denkmal für die ökologische Goranen-Jugendbewegung in Požarevac.", "category": "historical", "coords": [21.202417, 44.613513]}], "hu": [{"name": "Požarevački mir", "text": "Ez a požarevaci múzeum a történelmi pozsareváci békével foglalkozik.", "category": "museum", "coords": [21.199953, 44.623964]}, {"name": "Bambiland", "text": "Népszerű családi vidámpark Požarevac városában.", "category": "family", "coords": [21.1721, 44.619445]}, {"name": "Narodni muzej Požarevac", "text": "A Požarevaci Nemzeti Múzeum jelentős helyi történelmi és régészeti leleteket mutat be.", "category": "museum", "coords": [21.186899, 44.621834]}, {"name": "Spomenik slobode i pobede nad fašizmom „Zvezda”", "text": "A szabadságnak és a fasizmus feletti győzelemnek szentelt emlékmű Požarevacon.", "category": "historical", "coords": [21.203752, 44.613644]}, {"name": "Spomenik palim borcima Crvene armije 1944. godine", "text": "Emlékmű az 1944-ben elesett Vörös Hadsereg katonáinak tiszteletére.", "category": "historical", "coords": [21.199857, 44.612909]}, {"name": "Spomenik streljanim rodoljubima 1941-1944", "text": "Ez az emlékmű az 1941 és 1944 között kivégzett jugoszláv partizánoknak állít emléket.", "category": "historical", "coords": [21.197876, 44.613379]}, {"name": "Spomenik Pokretu gorana", "text": "Emlékmű a požarevaci Goran-mozgalom (ökológiai ifjúsági mozgalom) tiszteletére.", "category": "historical", "coords": [21.202417, 44.613513]}], "ro": [{"name": "Požarevački mir", "text": "Acest muzeu din Požarevac este dedicat istoricului tratat de pace de la Passarowitz.", "category": "museum", "coords": [21.199953, 44.623964]}, {"name": "Bambiland", "text": "Un parc tematic popular pentru familii din orașul Požarevac.", "category": "family", "coords": [21.1721, 44.619445]}, {"name": "Narodni muzej Požarevac", "text": "Muzeul Național din Požarevac expune descoperiri istorice și arheologice locale importante.", "category": "museum", "coords": [21.186899, 44.621834]}, {"name": "Spomenik slobode i pobede nad fašizmom „Zvezda”", "text": "Un monument din Požarevac dedicat libertății și victoriei asupra fascismului.", "category": "historical", "coords": [21.203752, 44.613644]}, {"name": "Spomenik palim borcima Crvene armije 1944. godine", "text": "Un monument în onoarea soldaților Armatei Roșii căzuți în 1944.", "category": "historical", "coords": [21.199857, 44.612909]}, {"name": "Spomenik streljanim rodoljubima 1941-1944", "text": "Acest monument îi comemorează pe partizanii iugoslavi împușcați între 1941 și 1944.", "category": "historical", "coords": [21.197876, 44.613379]}, {"name": "Spomenik Pokretu gorana", "text": "Un monument dedicat mișcării ecologiste de tineret Goran din Požarevac.", "category": "historical", "coords": [21.202417, 44.613513]}], "en": [{"name": "Treaty of Passarowitz", "text": "This museum in Požarevac is dedicated to the historical Treaty of Passarowitz.", "category": "museum", "coords": [21.199953, 44.623964]}, {"name": "Bambiland", "text": "A popular family theme park in the city of Požarevac.", "category": "family", "coords": [21.1721, 44.619445]}, {"name": "Narodni muzej Požarevac", "text": "The National Museum of Požarevac exhibits significant local historical and archaeological finds.", "category": "museum", "coords": [21.186899, 44.621834]}, {"name": "Monument to freedom and victory over fascism \"Zvezda\"", "text": "A monument in Požarevac dedicated to freedom and the victory over fascism.", "category": "historical", "coords": [21.203752, 44.613644]}, {"name": "Monument to Fallen Soldiers of the Red Army in 1944", "text": "A monument honoring the Red Army soldiers who fell in 1944.", "category": "historical", "coords": [21.199857, 44.612909]}, {"name": "Monument to Yugoslav Partisans Shot in 1941-1944", "text": "This monument commemorates the Yugoslav partisans shot between 1941 and 1944.", "category": "historical", "coords": [21.197876, 44.613379]}, {"name": "Monument to the Pokret gorana (Gorans Movement / Youth Environmental Movement)", "text": "A monument dedicated to the Goran ecological youth movement in Požarevac.", "category": "historical", "coords": [21.202417, 44.613513]}]},
+    id: "RS-018-pozarevac", "sights": {
+      "de": [
+            {
+                  "name": "Požarevački mir",
+                  "text": "Dieses Museum in Požarevac befasst sich mit dem historischen Friedensvertrag von Passarowitz.",
+                  "category": "museum",
+                  "coords": [
+                        21.199953,
+                        44.623964
+                  ]
+            },
+            {
+                  "name": "Bambiland",
+                  "text": "Ein bekannter Freizeitpark für Familien in der Stadt Požarevac.",
+                  "category": "family",
+                  "coords": [
+                        21.1721,
+                        44.619445
+                  ]
+            },
+            {
+                  "name": "Narodni muzej Požarevac",
+                  "text": "Das Nationalmuseum von Požarevac stellt bedeutende lokale historische und archäologische Funde aus.",
+                  "category": "museum",
+                  "coords": [
+                        21.186899,
+                        44.621834
+                  ]
+            },
+            {
+                  "name": "Spomenik slobode i pobede nad fašizmom „Zvezda”",
+                  "text": "Ein Denkmal in Požarevac, das der Freiheit und dem Sieg über den Faschismus gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.203752,
+                        44.613644
+                  ]
+            },
+            {
+                  "name": "Spomenik palim borcima Crvene armije 1944. godine",
+                  "text": "Ein Denkmal zur Ehre der im Jahr 1944 gefallenen Soldaten der Roten Armee.",
+                  "category": "historical",
+                  "coords": [
+                        21.199857,
+                        44.612909
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Požarevački mir",
+                  "text": "Ez a požarevaci múzeum a történelmi pozsareváci békével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        21.199953,
+                        44.623964
+                  ]
+            },
+            {
+                  "name": "Bambiland",
+                  "text": "Népszerű családi vidámpark Požarevac városában.",
+                  "category": "family",
+                  "coords": [
+                        21.1721,
+                        44.619445
+                  ]
+            },
+            {
+                  "name": "Narodni muzej Požarevac",
+                  "text": "A Požarevaci Nemzeti Múzeum jelentős helyi történelmi és régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.186899,
+                        44.621834
+                  ]
+            },
+            {
+                  "name": "Spomenik slobode i pobede nad fašizmom „Zvezda”",
+                  "text": "A szabadságnak és a fasizmus feletti győzelemnek szentelt emlékmű Požarevacon.",
+                  "category": "historical",
+                  "coords": [
+                        21.203752,
+                        44.613644
+                  ]
+            },
+            {
+                  "name": "Spomenik palim borcima Crvene armije 1944. godine",
+                  "text": "Emlékmű az 1944-ben elesett Vörös Hadsereg katonáinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        21.199857,
+                        44.612909
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Požarevački mir",
+                  "text": "Acest muzeu din Požarevac este dedicat istoricului tratat de pace de la Passarowitz.",
+                  "category": "museum",
+                  "coords": [
+                        21.199953,
+                        44.623964
+                  ]
+            },
+            {
+                  "name": "Bambiland",
+                  "text": "Un parc tematic popular pentru familii din orașul Požarevac.",
+                  "category": "family",
+                  "coords": [
+                        21.1721,
+                        44.619445
+                  ]
+            },
+            {
+                  "name": "Narodni muzej Požarevac",
+                  "text": "Muzeul Național din Požarevac expune descoperiri istorice și arheologice locale importante.",
+                  "category": "museum",
+                  "coords": [
+                        21.186899,
+                        44.621834
+                  ]
+            },
+            {
+                  "name": "Spomenik slobode i pobede nad fašizmom „Zvezda”",
+                  "text": "Un monument din Požarevac dedicat libertății și victoriei asupra fascismului.",
+                  "category": "historical",
+                  "coords": [
+                        21.203752,
+                        44.613644
+                  ]
+            },
+            {
+                  "name": "Spomenik palim borcima Crvene armije 1944. godine",
+                  "text": "Un monument în onoarea soldaților Armatei Roșii căzuți în 1944.",
+                  "category": "historical",
+                  "coords": [
+                        21.199857,
+                        44.612909
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bambiland",
+                  "text": "A popular family theme park in the city of Požarevac.",
+                  "category": "family",
+                  "coords": [
+                        21.1721,
+                        44.619445
+                  ]
+            },
+            {
+                  "name": "Narodni muzej Požarevac",
+                  "text": "The National Museum of Požarevac exhibits significant local historical and archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        21.186899,
+                        44.621834
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS-018",
     coords: [21.1858, 44.6214],
@@ -6398,24 +6214,6 @@ export const serbiaDistrictPoi: POI[] = [
                         20.187656,
                         43.900238
                   ]
-            },
-            {
-                  "name": "Ovchar",
-                  "text": "Der höchste Berggipfel in der Ovčar-Kablar-Schlucht.",
-                  "category": "landmark",
-                  "coords": [
-                        20.216064,
-                        43.89664
-                  ]
-            },
-            {
-                  "name": "Tsrkva Savinje",
-                  "text": "Ein am Felsen gelegenes Gotteshaus in der Ovčar-Kablar-Schlucht.",
-                  "category": "religious",
-                  "coords": [
-                        20.191583,
-                        43.907607
-                  ]
             }
       ],
       "hu": [
@@ -6435,24 +6233,6 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         20.187656,
                         43.900238
-                  ]
-            },
-            {
-                  "name": "Ovchar",
-                  "text": "Az Ovčar-Kablar-szurdok legmagasabb hegycsúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        20.216064,
-                        43.89664
-                  ]
-            },
-            {
-                  "name": "Tsrkva Savinje",
-                  "text": "Sziklába épült templom az Ovčar-Kablar-szurdokban.",
-                  "category": "religious",
-                  "coords": [
-                        20.191583,
-                        43.907607
                   ]
             }
       ],
@@ -6474,24 +6254,6 @@ export const serbiaDistrictPoi: POI[] = [
                         20.187656,
                         43.900238
                   ]
-            },
-            {
-                  "name": "Ovchar",
-                  "text": "Cel mai înalt vârf muntos din defileul Ovčar-Kablar.",
-                  "category": "landmark",
-                  "coords": [
-                        20.216064,
-                        43.89664
-                  ]
-            },
-            {
-                  "name": "Tsrkva Savinje",
-                  "text": "Lăcaș de cult situat în stâncă în defileul Ovčar-Kablar.",
-                  "category": "religious",
-                  "coords": [
-                        20.191583,
-                        43.907607
-                  ]
             }
       ],
       "en": [
@@ -6511,24 +6273,6 @@ export const serbiaDistrictPoi: POI[] = [
                   "coords": [
                         20.187656,
                         43.900238
-                  ]
-            },
-            {
-                  "name": "Ovčar",
-                  "text": "The highest mountain peak in the Ovčar-Kablar Gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        20.216064,
-                        43.89664
-                  ]
-            },
-            {
-                  "name": "Savinje Church",
-                  "text": "A place of worship situated against the cliffs in the Ovčar-Kablar Gorge.",
-                  "category": "religious",
-                  "coords": [
-                        20.191583,
-                        43.907607
                   ]
             }
       ]

@@ -591,24 +591,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ali Addé",
-                  "text": "Ali Addé ist ein markanter Berggipfel, der seinen Schatten auf die karge Petit Bara-Senke wirft.",
-                  "category": "natural",
-                  "coords": [
-                        42.928682,
-                        11.279601
-                  ]
-            },
-            {
-                  "name": "Ḏiyya‘",
-                  "text": "Der felsige Gipfel des Ḏiyya‘ erhebt sich abrupt aus dem sonnenverbrannten Gelände in der Nähe der Petit Bara-Senke.",
-                  "category": "natural",
-                  "coords": [
-                        42.9475,
-                        11.265833
-                  ]
-            },
-            {
                   "name": "Géoglyphe de l'école",
                   "text": "Diese faszinierende Schul-Geoglyphen-Attraktion ist in die trockene Oberfläche des Wüstenreliefs Petit Bara geschnitzt.",
                   "category": "landmark",
@@ -689,24 +671,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
                   "coords": [
                         42.975833,
                         11.303333
-                  ]
-            },
-            {
-                  "name": "Ali Addé",
-                  "text": "Az Ali Addé egy tekintélyes hegycsúcs, amely árnyékot vet a kietlen Petit Bara depresszióra.",
-                  "category": "natural",
-                  "coords": [
-                        42.928682,
-                        11.279601
-                  ]
-            },
-            {
-                  "name": "Ḏiyya‘",
-                  "text": "A Ḏiyya‘ sziklás csúcsa hirtelen emelkedik ki a Petit Bara medence közelében lévő napsütötte terepből.",
-                  "category": "natural",
-                  "coords": [
-                        42.9475,
-                        11.265833
                   ]
             },
             {
@@ -793,24 +757,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ali Addé",
-                  "text": "Ali Addé este un vârf muntos distins care își aruncă umbra peste depresiunea pustie Petit Bara.",
-                  "category": "natural",
-                  "coords": [
-                        42.928682,
-                        11.279601
-                  ]
-            },
-            {
-                  "name": "Ḏiyya‘",
-                  "text": "Vârful stâncos al lui Ḏiyya‘ se ridică brusc din terenul ars de soare de lângă depresiunea Petit Bara.",
-                  "category": "natural",
-                  "coords": [
-                        42.9475,
-                        11.265833
-                  ]
-            },
-            {
                   "name": "Géoglyphe de l'école",
                   "text": "Această atracție intrigantă sub formă de geoglifă a școlii este sculptată în suprafața aridă a reliefului deșertului Petit Bara.",
                   "category": "landmark",
@@ -891,24 +837,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
                   "coords": [
                         42.975833,
                         11.303333
-                  ]
-            },
-            {
-                  "name": "Ali Addé",
-                  "text": "Ali Addé is a distinguished mountain peak casting its shadow over the stark Petit Bara depression.",
-                  "category": "natural",
-                  "coords": [
-                        42.928682,
-                        11.279601
-                  ]
-            },
-            {
-                  "name": "Ḏiyya‘",
-                  "text": "The rocky summit of Ḏiyya‘ rises abruptly from the sun-scorched terrain near the Petit Bara senke.",
-                  "category": "natural",
-                  "coords": [
-                        42.9475,
-                        11.265833
                   ]
             },
             {
@@ -999,33 +927,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boûdo Guêra",
-                  "text": "Die felsigen Hänge des Boûdo Guêra erheben sich steil vom tiefen, trockenen Boden der Hanle-Senke.",
-                  "category": "natural",
-                  "coords": [
-                        42.06,
-                        11.641667
-                  ]
-            },
-            {
-                  "name": "Ourwali",
-                  "text": "Ourwali ist ein sonnenverbrannter Gipfel, der als topografisches Wahrzeichen im Hanle-Becken dient.",
-                  "category": "natural",
-                  "coords": [
-                        42.066389,
-                        11.642778
-                  ]
-            },
-            {
-                  "name": "H̱âẖayle",
-                  "text": "H̱âẖayle ist ein hoch aufragender Gipfel, der die schroffe Wüstensilhouette um die Hanle-Senke formt.",
-                  "category": "natural",
-                  "coords": [
-                        42.036944,
-                        11.628333
-                  ]
-            },
-            {
                   "name": "Id‘a Kôma",
                   "text": "Der Gipfel des Id‘a Kôma bietet einen weiten Blick über die ausgedehnten Tiefebenen der Hanle-Senke.",
                   "category": "natural",
@@ -1061,33 +962,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
                   "coords": [
                         42.133333,
                         11.566667
-                  ]
-            },
-            {
-                  "name": "Boûdo Guêra",
-                  "text": "A Boûdo Guêra sziklás lejtői meredeken emelkednek ki a Hanle-mélyföld mély, száraz fenekéről.",
-                  "category": "natural",
-                  "coords": [
-                        42.06,
-                        11.641667
-                  ]
-            },
-            {
-                  "name": "Ourwali",
-                  "text": "Az Ourwali egy naptól perzselt hegycsúcs, amely topográfiai tájékozódási pontként szolgál a Hanle-medencében.",
-                  "category": "natural",
-                  "coords": [
-                        42.066389,
-                        11.642778
-                  ]
-            },
-            {
-                  "name": "H̱âẖayle",
-                  "text": "A H̱âẖayle egy tornyosuló hegycsúcs, amely a Hanle-mélyföld körüli zord sivatagi látképet alakítja.",
-                  "category": "natural",
-                  "coords": [
-                        42.036944,
-                        11.628333
                   ]
             },
             {
@@ -1129,33 +1003,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boûdo Guêra",
-                  "text": "Pante stâncoase ale Boûdo Guêra se înalță abrupt de pe fundul adânc și arid al Depresiunii Hanle.",
-                  "category": "natural",
-                  "coords": [
-                        42.06,
-                        11.641667
-                  ]
-            },
-            {
-                  "name": "Ourwali",
-                  "text": "Ourwali este un vârf ars de soare care servește drept reper topografic în bazinul Hanle.",
-                  "category": "natural",
-                  "coords": [
-                        42.066389,
-                        11.642778
-                  ]
-            },
-            {
-                  "name": "H̱âẖayle",
-                  "text": "H̱âẖayle este un vârf falnic care conturează orizontul deșertic accidentat din jurul Depresiunii Hanle.",
-                  "category": "natural",
-                  "coords": [
-                        42.036944,
-                        11.628333
-                  ]
-            },
-            {
                   "name": "Id‘a Kôma",
                   "text": "Vârful Id‘a Kôma oferă o vedere panoramică peste vastele zone joase ale câmpiei Hanle.",
                   "category": "natural",
@@ -1191,33 +1038,6 @@ export const poiExtraDjiboutiReliefV2: POI[] = [
                   "coords": [
                         42.133333,
                         11.566667
-                  ]
-            },
-            {
-                  "name": "Boûdo Guêra",
-                  "text": "The rocky slopes of Boûdo Guêra rise steeply from the deep, arid floor of the Hanle Depression.",
-                  "category": "natural",
-                  "coords": [
-                        42.06,
-                        11.641667
-                  ]
-            },
-            {
-                  "name": "Ourwali",
-                  "text": "Ourwali is a sun-scorched summit that serves as a topographical landmark in the Hanle basin.",
-                  "category": "natural",
-                  "coords": [
-                        42.066389,
-                        11.642778
-                  ]
-            },
-            {
-                  "name": "H̱âẖayle",
-                  "text": "H̱âẖayle is a towering peak that shapes the rugged desert skyline around the Hanle Depression.",
-                  "category": "natural",
-                  "coords": [
-                        42.036944,
-                        11.628333
                   ]
             },
             {

@@ -10611,15 +10611,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old Dutch Market",
-                  "text": "Historisches Marktgebäude aus der niederländischen Kolonialzeit mit hohen Bogendecken.",
-                  "category": "historical",
-                  "coords": [
-                        80.535272,
-                        5.947883
-                  ]
-            },
-            {
                   "name": "Art Gallery",
                   "text": "Lokales Kunstzentrum, das traditionelle sri-lankische Masken und zeitgenössische Gemälde ausstellt.",
                   "category": "cultural",
@@ -10943,15 +10934,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
                   "coords": [
                         80.475907,
                         6.015264
-                  ]
-            },
-            {
-                  "name": "Old Dutch Market",
-                  "text": "Történelmi piacépület a holland gyarmati korszakból, magas boltíves mennyezettel.",
-                  "category": "historical",
-                  "coords": [
-                        80.535272,
-                        5.947883
                   ]
             },
             {
@@ -11281,15 +11263,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old Dutch Market",
-                  "text": "Clădire istorică de piață din epoca colonială olandeză, cu tavan înalt boltit.",
-                  "category": "historical",
-                  "coords": [
-                        80.535272,
-                        5.947883
-                  ]
-            },
-            {
                   "name": "Art Gallery",
                   "text": "Centru de artă local care expune măști tradiționale din Sri Lanka și picturi contemporane.",
                   "category": "cultural",
@@ -11613,15 +11586,6 @@ export const poiExtraSrilankaReliefV2: POI[] = [
                   "coords": [
                         80.475907,
                         6.015264
-                  ]
-            },
-            {
-                  "name": "Old Dutch Market",
-                  "text": "Historic market building from the Dutch colonial era with high arched ceilings.",
-                  "category": "historical",
-                  "coords": [
-                        80.535272,
-                        5.947883
                   ]
             },
             {

@@ -105,42 +105,6 @@ export const cyprusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paralia Aspropotamou",
-                  "text": "Ein ruhiger Sandstrand an der Küste in der Nähe des Dorfes Pegeia.",
-                  "category": "recreational",
-                  "coords": [
-                        32.326044,
-                        34.911985
-                  ]
-            },
-            {
-                  "name": "The Necropolis at Meletis Forest",
-                  "text": "Eine antike archäologische Stätte mit in den Fels gehauenen Gräbern im Meletis-Wald.",
-                  "category": "historical",
-                  "coords": [
-                        32.328602,
-                        34.905011
-                  ]
-            },
-            {
-                  "name": "Kafizis Beach",
-                  "text": "Ein Naturstrand mit klarem Wasser und einer ruhigen Umgebung bei Pegeia.",
-                  "category": "recreational",
-                  "coords": [
-                        32.323007,
-                        34.894662
-                  ]
-            },
-            {
-                  "name": "Agios Georgios Ancient Basilikas",
-                  "text": "Die Ruinen von drei frühchristlichen Basiliken aus dem 6. Jahrhundert in Küstennähe.",
-                  "category": "historical",
-                  "coords": [
-                        32.321154,
-                        34.902171
-                  ]
-            },
-            {
                   "name": "Traditional Clothes Museum",
                   "text": "Ein lokales Museum, das traditionelle zyprische Kostüme und Volkskunst zeigt.",
                   "category": "museum",
@@ -176,42 +140,6 @@ export const cyprusLandmarksV2: POI[] = [
                   "coords": [
                         32.341857,
                         34.892897
-                  ]
-            },
-            {
-                  "name": "Paralia Aspropotamou",
-                  "text": "Csendes homokos strand a tengerparton, Pegeia falu közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        32.326044,
-                        34.911985
-                  ]
-            },
-            {
-                  "name": "The Necropolis at Meletis Forest",
-                  "text": "Ókori régészeti lelőhely sziklába vájt sírokkal a Meletis-erdőben.",
-                  "category": "historical",
-                  "coords": [
-                        32.328602,
-                        34.905011
-                  ]
-            },
-            {
-                  "name": "Kafizis Beach",
-                  "text": "Természetes strand tiszta vízzel és nyugodt környezettel Pegeia közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        32.323007,
-                        34.894662
-                  ]
-            },
-            {
-                  "name": "Agios Georgios Ancient Basilikas",
-                  "text": "Három 6. századi kora keresztény bazilika romjai a tengerpart közelében.",
-                  "category": "historical",
-                  "coords": [
-                        32.321154,
-                        34.902171
                   ]
             },
             {
@@ -253,42 +181,6 @@ export const cyprusLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paralia Aspropotamou",
-                  "text": "O plajă de nisip liniștită situată pe coastă, în apropierea satului Pegeia.",
-                  "category": "recreational",
-                  "coords": [
-                        32.326044,
-                        34.911985
-                  ]
-            },
-            {
-                  "name": "The Necropolis at Meletis Forest",
-                  "text": "Un sit arheologic antic cu morminte săpate în stâncă în pădurea Meletis.",
-                  "category": "historical",
-                  "coords": [
-                        32.328602,
-                        34.905011
-                  ]
-            },
-            {
-                  "name": "Kafizis Beach",
-                  "text": "O plajă naturală cu ape limpezi și un mediu liniștit lângă Pegeia.",
-                  "category": "recreational",
-                  "coords": [
-                        32.323007,
-                        34.894662
-                  ]
-            },
-            {
-                  "name": "Agios Georgios Ancient Basilikas",
-                  "text": "Ruinele a trei basilici creștine timpurii din secolul al VI-lea, situate lângă coastă.",
-                  "category": "historical",
-                  "coords": [
-                        32.321154,
-                        34.902171
-                  ]
-            },
-            {
                   "name": "Traditional Clothes Museum",
                   "text": "Un muzeu local care expune costume tradiționale cipriote și artă populară.",
                   "category": "museum",
@@ -324,42 +216,6 @@ export const cyprusLandmarksV2: POI[] = [
                   "coords": [
                         32.341857,
                         34.892897
-                  ]
-            },
-            {
-                  "name": "White River Beach",
-                  "text": "A quiet sandy beach located on the coast near the village of Pegeia.",
-                  "category": "recreational",
-                  "coords": [
-                        32.326044,
-                        34.911985
-                  ]
-            },
-            {
-                  "name": "The Necropolis at Meletis Forest",
-                  "text": "An ancient archaeological site featuring rock-cut tombs in the Meletis Forest.",
-                  "category": "historical",
-                  "coords": [
-                        32.328602,
-                        34.905011
-                  ]
-            },
-            {
-                  "name": "Kafizis Beach",
-                  "text": "A natural beach offering clear waters and a peaceful environment near Pegeia.",
-                  "category": "recreational",
-                  "coords": [
-                        32.323007,
-                        34.894662
-                  ]
-            },
-            {
-                  "name": "Agios Georgios Ancient Basilikas",
-                  "text": "The ruins of three early Christian basilicas from the 6th century located near the coast.",
-                  "category": "historical",
-                  "coords": [
-                        32.321154,
-                        34.902171
                   ]
             },
             {

@@ -1255,86 +1255,10 @@ export const poiExtraZimbabweLifeV2: POI[] = [
   },
   {
     id: "kwe-kwe-nature-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kwekwe Mining Museum",
-                  "text": "Dieses Museum beleuchtet das reiche Goldbergbau-Erbe und die historischen Fördertechniken der Region.",
-                  "category": "museum",
-                  "coords": [
-                        29.809136,
-                        -18.935982
-                  ]
-            },
-            {
-                  "name": "National Mining Museum",
-                  "text": "Ein umfangreicher Museumskomplex, der der reichen Bergbaugeschichte der Nation und den schweren Maschinen gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        29.801016,
-                        -18.925449
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kwekwe Mining Museum",
-                  "text": "Ez a múzeum a régió gazdag aranybányászati örökségét és történelmi kitermelési technikáit világítja meg.",
-                  "category": "museum",
-                  "coords": [
-                        29.809136,
-                        -18.935982
-                  ]
-            },
-            {
-                  "name": "National Mining Museum",
-                  "text": "Kiterjedt múzeumi komplexum, amelyet a nemzet gazdag bányászati történelmének és nehézgépeinek szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        29.801016,
-                        -18.925449
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kwekwe Mining Museum",
-                  "text": "Acest muzeu evidențiază bogata moștenire a mineritului de aur și tehnicile istorice de extracție ale regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        29.809136,
-                        -18.935982
-                  ]
-            },
-            {
-                  "name": "National Mining Museum",
-                  "text": "Un complex muzeal extins dedicat istoriei miniere bogate a națiunii și utilajelor grele.",
-                  "category": "museum",
-                  "coords": [
-                        29.801016,
-                        -18.925449
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kwekwe Mining Museum",
-                  "text": "This museum highlights the region's rich gold mining heritage and historic extraction techniques.",
-                  "category": "museum",
-                  "coords": [
-                        29.809136,
-                        -18.935982
-                  ]
-            },
-            {
-                  "name": "National Mining Museum",
-                  "text": "An extensive museum complex dedicated to the nation's rich mining history and heavy machinery.",
-                  "category": "museum",
-                  "coords": [
-                        29.801016,
-                        -18.925449
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "animal-habitat",
     parent: "ZW-MI",

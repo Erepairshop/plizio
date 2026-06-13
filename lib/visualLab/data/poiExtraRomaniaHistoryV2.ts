@@ -670,122 +670,10 @@ export const romaniaHistoryV2: POI[] = [
   },
     {
     id: "romania-biserica-fortificata-calnic-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cetatea din Câlnic",
-                  "text": "Die Burg Kelling ist ein UNESCO-Weltkulturerbe und eine bedeutende sächsische Kirchenburg.",
-                  "category": "castle",
-                  "coords": [
-                        23.660453,
-                        45.889055
-                  ]
-            },
-            {
-                  "name": "Expoziția Etnografică",
-                  "text": "Dieses Museum zeigt traditionelle Gegenstände und das lokale Erbe von Kelling.",
-                  "category": "museum",
-                  "coords": [
-                        23.658325,
-                        45.888519
-                  ]
-            },
-            {
-                  "name": "tomb of Titus Flavius Rufus",
-                  "text": "Ein antikes Denkmal in Kelling, das dem Titus Flavius Rufus gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        23.625241,
-                        45.903739
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cetatea din Câlnic",
-                  "text": "Kelnek vára az UNESCO Világörökség része és egy jelentős szász erődtemplom.",
-                  "category": "castle",
-                  "coords": [
-                        23.660453,
-                        45.889055
-                  ]
-            },
-            {
-                  "name": "Expoziția Etnografică",
-                  "text": "Ez a múzeum Kelnek hagyományos tárgyait és helyi örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        23.658325,
-                        45.888519
-                  ]
-            },
-            {
-                  "name": "tomb of Titus Flavius Rufus",
-                  "text": "Egy ókori emlékmű Kelnekben, amelyet Titus Flavius Rufusnak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        23.625241,
-                        45.903739
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cetatea din Câlnic",
-                  "text": "Cetatea Câlnic este inclusă în patrimoniul UNESCO și este o importantă biserică fortificată săsească.",
-                  "category": "castle",
-                  "coords": [
-                        23.660453,
-                        45.889055
-                  ]
-            },
-            {
-                  "name": "Expoziția Etnografică",
-                  "text": "Această expoziție muzeală prezintă obiecte tradiționale și moștenirea locală din Câlnic.",
-                  "category": "museum",
-                  "coords": [
-                        23.658325,
-                        45.888519
-                  ]
-            },
-            {
-                  "name": "tomb of Titus Flavius Rufus",
-                  "text": "Un monument antic din Câlnic dedicat lui Titus Flavius Rufus.",
-                  "category": "historical",
-                  "coords": [
-                        23.625241,
-                        45.903739
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Câlnic Citadel",
-                  "text": "Câlnic Citadel is a UNESCO World Heritage Site and a significant Saxon fortified church.",
-                  "category": "castle",
-                  "coords": [
-                        23.660453,
-                        45.889055
-                  ]
-            },
-            {
-                  "name": "Ethnographic exhibition",
-                  "text": "This museum exhibition showcases traditional objects and the local heritage of Câlnic.",
-                  "category": "museum",
-                  "coords": [
-                        23.658325,
-                        45.888519
-                  ]
-            },
-            {
-                  "name": "tomb of Titus Flavius Rufus",
-                  "text": "An ancient monument in Câlnic dedicated to Titus Flavius Rufus.",
-                  "category": "historical",
-                  "coords": [
-                        23.625241,
-                        45.903739
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "castle",
     parent: "RO",
@@ -1617,30 +1505,12 @@ export const romaniaHistoryV2: POI[] = [
     id: "romania-cetatea-coltesti-history-v2", "sights": {
       "de": [
             {
-                  "name": "Cetatea Trascăului",
-                  "text": "Eine eindrucksvolle mittelalterliche Festungsruine bei Colțești, die auf einem Kalksteinfelsen thront.",
-                  "category": "castle",
-                  "coords": [
-                        23.544081,
-                        46.424812
-                  ]
-            },
-            {
                   "name": "Muzeul Etnografic",
                   "text": "Ein Museum in Colțești, das die traditionelle Volkskunst und ländliche Kultur der Region präsentiert.",
                   "category": "museum",
                   "coords": [
                         23.568235,
                         46.452317
-                  ]
-            },
-            {
-                  "name": "Castelul Torockószentgyörgy",
-                  "text": "Die historischen Überreste der Burg von Colțești, die Zeugnis von der regionalen Vergangenheit ablegen.",
-                  "category": "castle",
-                  "coords": [
-                        23.560426,
-                        46.42274
                   ]
             },
             {
@@ -1664,30 +1534,12 @@ export const romaniaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Torockószentgyörgyi vár",
-                  "text": "Lenyűgöző középkori várrom Torockószentgyörgy (Colțești) közelében, egy mészkősziklán.",
-                  "category": "castle",
-                  "coords": [
-                        23.544081,
-                        46.424812
-                  ]
-            },
-            {
                   "name": "Néprajzi Múzeum",
                   "text": "Múzeum Torockószentgyörgyön (Colțești), amely a régió népművészetét és vidéki kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
                         23.568235,
                         46.452317
-                  ]
-            },
-            {
-                  "name": "Castelul Torockószentgyörgy",
-                  "text": "A torockószentgyörgyi vár történelmi maradványai, amelyek a régió múltjáról tanúskodnak.",
-                  "category": "castle",
-                  "coords": [
-                        23.560426,
-                        46.42274
                   ]
             },
             {
@@ -1711,30 +1563,12 @@ export const romaniaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cetatea Trascăului",
-                  "text": "O ruină impresionantă de cetate medievală de lângă Colțești, situată pe o stâncă de calcar.",
-                  "category": "castle",
-                  "coords": [
-                        23.544081,
-                        46.424812
-                  ]
-            },
-            {
                   "name": "Muzeul Etnografic",
                   "text": "Un muzeu din Colțești care prezintă arta populară tradițională și cultura rurală a regiunii.",
                   "category": "museum",
                   "coords": [
                         23.568235,
                         46.452317
-                  ]
-            },
-            {
-                  "name": "Castelul Torockószentgyörgy",
-                  "text": "Vestigiile istorice ale castelului din Colțești, care stau mărturie pentru trecutul regiunii.",
-                  "category": "castle",
-                  "coords": [
-                        23.560426,
-                        46.42274
                   ]
             },
             {
@@ -1758,30 +1592,12 @@ export const romaniaHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Trascău Citadel",
-                  "text": "An impressive medieval fortress ruin near Colțești, perched on a limestone rock.",
-                  "category": "castle",
-                  "coords": [
-                        23.544081,
-                        46.424812
-                  ]
-            },
-            {
                   "name": "Ethnographic Museum",
                   "text": "A museum in Colțești presenting the traditional folk art and rural culture of the region.",
                   "category": "museum",
                   "coords": [
                         23.568235,
                         46.452317
-                  ]
-            },
-            {
-                  "name": "Castelul Torockószentgyörgy",
-                  "text": "The historical remains of the castle in Colțești, bearing witness to the regional past.",
-                  "category": "castle",
-                  "coords": [
-                        23.560426,
-                        46.42274
                   ]
             },
             {

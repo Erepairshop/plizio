@@ -2620,15 +2620,6 @@ export const poiExtraMyanmarReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Par Daeng Gate",
-                  "text": "Decorative gateway marking the entrance to a scenic mountain trail or village area.",
-                  "category": "landmark",
-                  "coords": [
-                        99.607333,
-                        21.289434
-                  ]
-            },
-            {
                   "name": "Relics of Nine Buddha Pagodas",
                   "text": "A Buddhist site featuring nine traditional pagodas containing sacred relics.",
                   "category": "landmark",

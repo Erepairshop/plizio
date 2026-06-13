@@ -658,50 +658,10 @@ export const poiExtraSaotomeandprincipeReliefV2: POI[] = [
   },
   {
     id: "morro-vilela-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Túnel",
-                  "text": "Túnel ist ein Durchgang, der sich durch das raue tropische Gelände rund um Morro Vilela schneidet.",
-                  "category": "landmark",
-                  "coords": [
-                        6.489827,
-                        0.309008
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Túnel",
-                  "text": "A Túnel egy átjáró, amely a Morro Vilela körüli zord trópusi terepet vágja át.",
-                  "category": "landmark",
-                  "coords": [
-                        6.489827,
-                        0.309008
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Túnel",
-                  "text": "Túnel este un pasaj care traversează terenul tropical accidentat din jurul Morro Vilela.",
-                  "category": "landmark",
-                  "coords": [
-                        6.489827,
-                        0.309008
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Túnel",
-                  "text": "Túnel is a passageway cutting through the rugged tropical terrain around Morro Vilela.",
-                  "category": "landmark",
-                  "coords": [
-                        6.489827,
-                        0.309008
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "relief",
     parent: "ST-04",

@@ -4,50 +4,10 @@ export const ukraineLifeV2: POI[] = [
 
   {
     id: "ukraine-askaniya-nova-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Askaniia-Nova",
-                  "text": "Askaniia-Nova: ein bekanntes Steppenbiosphärenreservat und Erholungsgebiet, Heimat von Przewalski-Pferden.",
-                  "category": "recreational",
-                  "coords": [
-                        33.87282,
-                        46.458825
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Askaniia-Nova",
-                  "text": "Askaniia-Nova: híres sztyeppei bioszféra-rezervátum és rekreációs terület, a Przewalski-lovak otthona.",
-                  "category": "recreational",
-                  "coords": [
-                        33.87282,
-                        46.458825
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Askaniia-Nova",
-                  "text": "Askaniia-Nova: o celebră rezervație a biosferei de stepă și zonă de agrement, gazdă a cailor lui Przewalski.",
-                  "category": "recreational",
-                  "coords": [
-                        33.87282,
-                        46.458825
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Askaniia-Nova",
-                  "text": "Askaniia-Nova: a renowned steppe biosphere reserve and recreational area, home to Przewalski's horses.",
-                  "category": "recreational",
-                  "coords": [
-                        33.87282,
-                        46.458825
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "UA",
     type: "wildlife",
@@ -141,50 +101,10 @@ imageHint: "Carpathian Mountains forest and valley of daffodils",
     image: "/poi-images/ukraine-carpathian-biosphere-life-v2.webp",
 },  {
     id: "ukraine-shatsk-national-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tsentral'nii pliazh",
-                  "text": "Ein beliebter Strand im Schazker Nationalnaturpark, ideal für Erholung am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        23.844984,
-                        51.479321
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tsentral'nii pliazh",
-                  "text": "Népszerű strand a Sacki Nemzeti Parkban, amely ideális a vízparti kikapcsolódásra.",
-                  "category": "recreational",
-                  "coords": [
-                        23.844984,
-                        51.479321
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tsentral'nii pliazh",
-                  "text": "O plajă populară în Parcul Național Natural Shatsk, ideală pentru relaxare pe malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        23.844984,
-                        51.479321
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Central beach",
-                  "text": "A popular beach in the Shatsk National Nature Park, ideal for lakeside recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        23.844984,
-                        51.479321
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "UA",
     type: "lake",
@@ -1313,86 +1233,10 @@ imageHint: "Ancient oak forest in Homilshanski Lisy",
     image: "/poi-images/ukraine-homilshanski-lisy-life-v2.webp",
 },  {
     id: "ukraine-holy-mountains-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kloster Swjatohirsk",
-                  "text": "Ein historisches orthodoxes Höhlenkloster, das in Kreidefelsen gehauen wurde.",
-                  "category": "religious",
-                  "coords": [
-                        37.568039,
-                        49.027743
-                  ]
-            },
-            {
-                  "name": "Lavochka bilia urvishcha",
-                  "text": "Ein schöner Ort zur Beobachtung des Sonnenuntergangs im Nationalpark.",
-                  "category": "natural",
-                  "coords": [
-                        37.522004,
-                        49.021096
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Sviatogors'ka Sviato-Uspens'ka lavra",
-                  "text": "Történelmi ortodox barlangkolostor, amelyet krétahegyekbe vájtak.",
-                  "category": "religious",
-                  "coords": [
-                        37.568039,
-                        49.027743
-                  ]
-            },
-            {
-                  "name": "Lavochka bilia urvishcha",
-                  "text": "Szép hely a naplemente megtekintéséhez a nemzeti parkban.",
-                  "category": "natural",
-                  "coords": [
-                        37.522004,
-                        49.021096
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Sviatogors'ka Sviato-Uspens'ka lavra",
-                  "text": "O mănăstire ortodoxă istorică săpată în stânci de cretă.",
-                  "category": "religious",
-                  "coords": [
-                        37.568039,
-                        49.027743
-                  ]
-            },
-            {
-                  "name": "Lavochka bilia urvishcha",
-                  "text": "Un loc pitoresc pentru a privi apusul în parcul național.",
-                  "category": "natural",
-                  "coords": [
-                        37.522004,
-                        49.021096
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Sviatohirsk Cave Monastery",
-                  "text": "A historic Orthodox cave monastery carved into chalk cliffs.",
-                  "category": "religious",
-                  "coords": [
-                        37.568039,
-                        49.027743
-                  ]
-            },
-            {
-                  "name": "sunset point",
-                  "text": "A scenic spot for watching the sunset in the national park.",
-                  "category": "natural",
-                  "coords": [
-                        37.522004,
-                        49.021096
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "UA",
     type: "landmark",
@@ -1623,50 +1467,10 @@ imageHint: "Southern Bug river canyon and granite rocks",
     image: "/poi-images/ukraine-bugs-guard-life-v2.webp",
 },  {
     id: "ukraine-skolivski-beskydy-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Oleniacha",
-                  "text": "Ein Berggipfel im Nationalpark Skoler Beskiden.",
-                  "category": "landmark",
-                  "coords": [
-                        23.409424,
-                        49.066804
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Oleniacha",
-                  "text": "Hegycsúcs a Szkolivszki Beszkidek Nemzeti Park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        23.409424,
-                        49.066804
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Oleniacha",
-                  "text": "Un vârf muntos situat în Parcul Național Natural Beskizii Skole.",
-                  "category": "landmark",
-                  "coords": [
-                        23.409424,
-                        49.066804
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Oleniacha",
-                  "text": "A mountain peak located within the Skolivski Beskydy National Nature Park.",
-                  "category": "landmark",
-                  "coords": [
-                        23.409424,
-                        49.066804
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "UA",
     type: "park",

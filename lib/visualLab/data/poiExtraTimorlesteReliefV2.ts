@@ -1817,15 +1817,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
     id: "mount-diatuto-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Maubere Mountain Coffee",
-                  "text": "Der Maubere Mountain Coffee ist eine besondere Attraktion in mount-diatuto-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        125.908,
-                        -8.74087
-                  ]
-            },
-            {
                   "name": "Igreja Paroquial de Laclubar",
                   "text": "Die Igreja Paroquial de Laclubar ist eine christliche Pfarrkirche in mount-diatuto-relief-v2.",
                   "category": "landmark",
@@ -1845,15 +1836,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Maubere Mountain Coffee",
-                  "text": "A Maubere Mountain Coffee egy helyi kávés látványosság a mount-diatuto-relief-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        125.908,
-                        -8.74087
-                  ]
-            },
             {
                   "name": "Igreja Paroquial de Laclubar",
                   "text": "Az Igreja Paroquial de Laclubar egy keresztény templom mount-diatuto-relief-v2 városában.",
@@ -1875,15 +1857,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Maubere Mountain Coffee",
-                  "text": "Maubere Mountain Coffee este o atracție legată de cafea în mount-diatuto-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        125.908,
-                        -8.74087
-                  ]
-            },
-            {
                   "name": "Igreja Paroquial de Laclubar",
                   "text": "Igreja Paroquial de Laclubar este o biserică parohială din mount-diatuto-relief-v2.",
                   "category": "landmark",
@@ -1903,15 +1876,6 @@ export const poiExtraTimorlesteReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Maubere Mountain Coffee",
-                  "text": "Maubere Mountain Coffee is an attraction associated with local coffee in mount-diatuto-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        125.908,
-                        -8.74087
-                  ]
-            },
             {
                   "name": "Igreja Paroquial de Laclubar",
                   "text": "Igreja Paroquial de Laclubar is a Christian parish church situated in mount-diatuto-relief-v2.",

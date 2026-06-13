@@ -1994,48 +1994,12 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Sungai Tutong\" Sign",
-                  "text": "Das \"Sungai Tutong\" Schild ist eine farbenfrohe Markierung, die den Namensgeber des Distrikts am Rande des Erholungsparks hervorhebt.",
-                  "category": "historical",
-                  "coords": [
-                        114.657456,
-                        4.803508
-                  ]
-            },
-            {
-                  "name": "\"Pekan Tutong\" Sign",
-                  "text": "Das \"Pekan Tutong\" Schild fungiert als monumentales Ortsschild zur Begrüßung am Eingang des gleichnamigen Ortes.",
-                  "category": "historical",
-                  "coords": [
-                        114.657848,
-                        4.80562
-                  ]
-            },
-            {
-                  "name": "Mercu Tanda Kenangan",
-                  "text": "Das Mercu Tanda Kenangan ist ein lokales Erinnerungsmonument, das sich in die Grünanlagen des Sungai Basong Parks einfügt.",
-                  "category": "historical",
-                  "coords": [
-                        114.659241,
-                        4.807212
-                  ]
-            },
-            {
                   "name": "Hassanal Bolkiah Mosque",
                   "text": "Die Hassanal Bolkiah Moschee ist ein bedeutendes islamisches Gotteshaus im Distrikt Tutong mit eleganten, vergoldeten Details.",
                   "category": "religious",
                   "coords": [
                         114.662069,
                         4.806473
-                  ]
-            },
-            {
-                  "name": "\"Bukit Bendera\" Sign",
-                  "text": "Das \"Bukit Bendera\" Schild ist ein dekorativer Schriftzug am Fuße des traditionellen Flaggenhügels in Tutong.",
-                  "category": "historical",
-                  "coords": [
-                        114.660761,
-                        4.80746
                   ]
             },
             {
@@ -2077,48 +2041,12 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Sungai Tutong\" Sign",
-                  "text": "A \"Sungai Tutong\" felirat egy színes jelzés, amely a körzet névadóját emeli ki a rekreációs park szélén.",
-                  "category": "historical",
-                  "coords": [
-                        114.657456,
-                        4.803508
-                  ]
-            },
-            {
-                  "name": "\"Pekan Tutong\" Sign",
-                  "text": "A \"Pekan Tutong\" felirat monumentális helységnévtáblaként üdvözli az érkezőket az azonos nevű település bejáratánál.",
-                  "category": "historical",
-                  "coords": [
-                        114.657848,
-                        4.80562
-                  ]
-            },
-            {
-                  "name": "Mercu Tanda Kenangan",
-                  "text": "A Mercu Tanda Kenangan egy helyi emlékmű, amely a Sungai Basong Park zöldterületeibe illeszkedik.",
-                  "category": "historical",
-                  "coords": [
-                        114.659241,
-                        4.807212
-                  ]
-            },
-            {
                   "name": "Hassanal Bolkiah Mosque",
                   "text": "A Hassanal Bolkiah mecset egy jelentős iszlám istentiszteleti hely a Tutong körzetben, elegáns, aranyozott részletekkel.",
                   "category": "religious",
                   "coords": [
                         114.662069,
                         4.806473
-                  ]
-            },
-            {
-                  "name": "\"Bukit Bendera\" Sign",
-                  "text": "A \"Bukit Bendera\" felirat egy dekoratív jelzés a hagyományos zászlódomb lábánál Tutongban.",
-                  "category": "historical",
-                  "coords": [
-                        114.660761,
-                        4.80746
                   ]
             },
             {
@@ -2160,48 +2088,12 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Sungai Tutong\" Sign",
-                  "text": "Semnul „Sungai Tutong” este un marcaj colorat care evidențiază râul ce dă numele districtului, la marginea parcului de recreere.",
-                  "category": "historical",
-                  "coords": [
-                        114.657456,
-                        4.803508
-                  ]
-            },
-            {
-                  "name": "\"Pekan Tutong\" Sign",
-                  "text": "Semnul „Pekan Tutong” servește drept indicator monumental de bun venit la intrarea în orașul cu același nume.",
-                  "category": "historical",
-                  "coords": [
-                        114.657848,
-                        4.80562
-                  ]
-            },
-            {
-                  "name": "Mercu Tanda Kenangan",
-                  "text": "Mercu Tanda Kenangan este un monument comemorativ local integrat în spațiile verzi ale Parcului Sungai Basong.",
-                  "category": "historical",
-                  "coords": [
-                        114.659241,
-                        4.807212
-                  ]
-            },
-            {
                   "name": "Hassanal Bolkiah Mosque",
                   "text": "Moscheea Hassanal Bolkiah este un important lăcaș de cult islamic din districtul Tutong, remarcat prin detaliile sale elegante și aurite.",
                   "category": "religious",
                   "coords": [
                         114.662069,
                         4.806473
-                  ]
-            },
-            {
-                  "name": "\"Bukit Bendera\" Sign",
-                  "text": "Semnul „Bukit Bendera” este o inscripție decorativă aflată la baza tradiționalului deal al steagului din Tutong.",
-                  "category": "historical",
-                  "coords": [
-                        114.660761,
-                        4.80746
                   ]
             },
             {
@@ -2243,48 +2135,12 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Sungai Tutong\" Sign",
-                  "text": "The \"Sungai Tutong\" Sign is a colorful marker highlighting the district's namesake river on the edge of the recreation park.",
-                  "category": "historical",
-                  "coords": [
-                        114.657456,
-                        4.803508
-                  ]
-            },
-            {
-                  "name": "\"Pekan Tutong\" Sign",
-                  "text": "The \"Pekan Tutong\" Sign acts as a monumental welcome marker at the entrance to the town.",
-                  "category": "historical",
-                  "coords": [
-                        114.657848,
-                        4.80562
-                  ]
-            },
-            {
-                  "name": "Mercu Tanda Kenangan",
-                  "text": "Mercu Tanda Kenangan is a local memorial monument nestled in the green spaces of Sungai Basong Park.",
-                  "category": "historical",
-                  "coords": [
-                        114.659241,
-                        4.807212
-                  ]
-            },
-            {
                   "name": "Hassanal Bolkiah Mosque",
                   "text": "The Hassanal Bolkiah Mosque is a significant Islamic place of worship in the Tutong District, featuring elegant, gilded details.",
                   "category": "religious",
                   "coords": [
                         114.662069,
                         4.806473
-                  ]
-            },
-            {
-                  "name": "\"Bukit Bendera\" Sign",
-                  "text": "The \"Bukit Bendera\" Sign is a decorative lettering landmark at the foot of the traditional flag hill in Tutong.",
-                  "category": "historical",
-                  "coords": [
-                        114.660761,
-                        4.80746
                   ]
             },
             {

@@ -7932,15 +7932,6 @@ export const poiExtraChinaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Luoyang Museum",
-                  "text": "Zeigt eine reiche Sammlung antiker Bronzen, Töpferwaren und dreifarbiger „Sancai“-Figuren aus der Tang-Dynastie.",
-                  "category": "museum",
-                  "coords": [
-                        112.445704,
-                        34.644262
-                  ]
-            },
-            {
                   "name": "Luoyang Planning Exhibition  Hall",
                   "text": "Ein modernes Museum, das die Stadtentwicklung und den architektonischen Wandel dieser historischen Kaiserstadt zeigt.",
                   "category": "museum",
@@ -8012,15 +8003,6 @@ export const poiExtraChinaLandmarksV2: POI[] = [
                   "coords": [
                         112.477322,
                         34.609106
-                  ]
-            },
-            {
-                  "name": "Luoyang Museum",
-                  "text": "Az egykori főváros ókori bronztárgyainak, kerámiáinak és Tang-kori „sancai” mázas figuráinak hatalmas gyűjteménye.",
-                  "category": "museum",
-                  "coords": [
-                        112.445704,
-                        34.644262
                   ]
             },
             {
@@ -8098,15 +8080,6 @@ export const poiExtraChinaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Luoyang Museum",
-                  "text": "Expune o colecție vastă de bronzuri antice, olărie și figurine glazurate „sancai” din dinastia Tang.",
-                  "category": "museum",
-                  "coords": [
-                        112.445704,
-                        34.644262
-                  ]
-            },
-            {
                   "name": "Luoyang Planning Exhibition  Hall",
                   "text": "Un muzeu modern care prezintă dezvoltarea urbană și transformarea arhitecturală a acestui oraș imperial istoric.",
                   "category": "museum",
@@ -8178,15 +8151,6 @@ export const poiExtraChinaLandmarksV2: POI[] = [
                   "coords": [
                         112.477322,
                         34.609106
-                  ]
-            },
-            {
-                  "name": "Luoyang Museum",
-                  "text": "Displays a vast collection of ancient bronze, pottery, and Tang dynasty 'sancai' glazed figurines.",
-                  "category": "museum",
-                  "coords": [
-                        112.445704,
-                        34.644262
                   ]
             },
             {

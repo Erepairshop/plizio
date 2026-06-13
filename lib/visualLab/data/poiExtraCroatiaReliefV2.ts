@@ -144,15 +144,6 @@ imageHint: "Ucka mountain tower Vojak",
     id: "croatia-papuk-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Naturpark Papuk",
-                  "text": "Der Naturpark Papuk ist ein Schutzgebiet in Kroatien, das für seine geologische Vielfalt und Wälder bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        17.684376,
-                        45.51208
-                  ]
-            },
-            {
                   "name": "Lapjak",
                   "text": "Lapjak ist ein Berggipfel im Papuk-Gebirge, der bei Wanderern beliebt ist.",
                   "category": "landmark",
@@ -190,15 +181,6 @@ imageHint: "Ucka mountain tower Vojak",
             }
       ],
       "hu": [
-            {
-                  "name": "Park prirode Papuk",
-                  "text": "A Papuk Natúrpark egy horvátországi védett terület, amely geológiai sokszínűségéről és erdeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        17.684376,
-                        45.51208
-                  ]
-            },
             {
                   "name": "Lapjak",
                   "text": "A Lapjak a Papuk-hegység egyik hegycsúcsa, amely népszerű a túrázók körében.",
@@ -238,15 +220,6 @@ imageHint: "Ucka mountain tower Vojak",
       ],
       "ro": [
             {
-                  "name": "Park prirode Papuk",
-                  "text": "Parcul Natural Papuk este o arie protejată din Croația, cunoscută pentru diversitatea sa geologică și păduri.",
-                  "category": "natural",
-                  "coords": [
-                        17.684376,
-                        45.51208
-                  ]
-            },
-            {
                   "name": "Lapjak",
                   "text": "Lapjak este un vârf muntos din lanțul Papuk, popular printre excursioniști.",
                   "category": "landmark",
@@ -284,15 +257,6 @@ imageHint: "Ucka mountain tower Vojak",
             }
       ],
       "en": [
-            {
-                  "name": "Nature Park Papuk",
-                  "text": "Papuk Nature Park is a protected area in Croatia known for its geological diversity and forests.",
-                  "category": "natural",
-                  "coords": [
-                        17.684376,
-                        45.51208
-                  ]
-            },
             {
                   "name": "Lapjak",
                   "text": "Lapjak is a mountain peak within the Papuk range, popular with hikers.",
@@ -1165,15 +1129,6 @@ imageHint: "Samoborsko gorje hills landscape",
     id: "croatia-zumberak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Naturpark Sichelgebirge und die Samobor-Berge",
-                  "text": "Ein Naturpark in Kroatien, der für seine sanften Hügel, dichten Wälder und traditionelle Architektur bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        15.472475,
-                        45.746063
-                  ]
-            },
-            {
                   "name": "Novi grad Žumberački",
                   "text": "Überreste einer mittelalterlichen Burg in der malerischen Region des Žumberak-Gebirges.",
                   "category": "historical",
@@ -1202,15 +1157,6 @@ imageHint: "Samoborsko gorje hills landscape",
             }
       ],
       "hu": [
-            {
-                  "name": "Park prirode Žumberak - Samoborsko gorje",
-                  "text": "Horvátországi natúrpark, amely lankás dombjairól, sűrű erdőiről és hagyományos építészetéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        15.472475,
-                        45.746063
-                  ]
-            },
             {
                   "name": "Novi grad Žumberački",
                   "text": "Egy középkori vár maradványai a Zumberak-hegység festői vidékén.",
@@ -1241,15 +1187,6 @@ imageHint: "Samoborsko gorje hills landscape",
       ],
       "ro": [
             {
-                  "name": "Park prirode Žumberak - Samoborsko gorje",
-                  "text": "Un parc natural din Croația, cunoscut pentru dealurile sale domoale, pădurile dese și arhitectura tradițională.",
-                  "category": "natural",
-                  "coords": [
-                        15.472475,
-                        45.746063
-                  ]
-            },
-            {
                   "name": "Novi grad Žumberački",
                   "text": "Rămășițele unui castel medieval din regiunea pitorească a Munților Žumberak.",
                   "category": "historical",
@@ -1278,15 +1215,6 @@ imageHint: "Samoborsko gorje hills landscape",
             }
       ],
       "en": [
-            {
-                  "name": "Park prirode Žumberak - Samoborsko gorje",
-                  "text": "A nature park in Croatia known for its rolling hills, dense forests, and traditional architecture.",
-                  "category": "natural",
-                  "coords": [
-                        15.472475,
-                        45.746063
-                  ]
-            },
             {
                   "name": "Novi grad Žumberački",
                   "text": "Remains of a medieval castle in the scenic region of the Žumberak mountains.",
@@ -2751,66 +2679,12 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
     id: "croatia-slunjcica-plateau-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Festung Sluin",
-                  "text": "Eine mittelalterliche Burgruine auf dem Slunjčica-Plateau oberhalb des Flusses Slunjčica.",
-                  "category": "fortress",
-                  "coords": [
-                        15.587993,
-                        45.117474
-                  ]
-            },
-            {
-                  "name": "Pliš",
-                  "text": "Eine natürliche Felsformation auf dem Slunjčica-Plateau.",
-                  "category": "landmark",
-                  "coords": [
-                        15.562047,
-                        45.112049
-                  ]
-            },
-            {
-                  "name": "Winnetou Totem",
-                  "text": "Ein Totempfahl, der an die Dreharbeiten der Winnetou-Filme in dieser Region erinnert.",
-                  "category": "landmark",
-                  "coords": [
-                        15.585795,
-                        45.120667
-                  ]
-            },
-            {
-                  "name": "Slunj Fortress",
-                  "text": "Ein Aussichtspunkt an den Ruinen der mittelalterlichen Festung von Slunj.",
-                  "category": "natural",
-                  "coords": [
-                        15.586195,
-                        45.118238
-                  ]
-            },
-            {
                   "name": "izvor Sljunjčice",
                   "text": "Ein Aussichtspunkt in der Nähe der Quelle des Flusses Slunjčica.",
                   "category": "natural",
                   "coords": [
                         15.587529,
                         45.079085
-                  ]
-            },
-            {
-                  "name": "Rastoke",
-                  "text": "Ein historisches Dorf mit Wassermühlen und Wasserfällen an der Mündung der Slunjčica.",
-                  "category": "natural",
-                  "coords": [
-                        15.584399,
-                        45.121028
-                  ]
-            },
-            {
-                  "name": "Ehemaliges Getreidelager aus napoleonischen Zeiten",
-                  "text": "Die Ruinen eines ehemaligen Lagers aus der napoleonischen Ära in Kroatien.",
-                  "category": "historical",
-                  "coords": [
-                        15.589072,
-                        45.119835
                   ]
             },
             {
@@ -2825,66 +2699,12 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
       ],
       "hu": [
             {
-                  "name": "Stari grad Slovin",
-                  "text": "Egy középkori várrom a Slunjčica-fennsíkon, a Slunjčica folyó felett.",
-                  "category": "fortress",
-                  "coords": [
-                        15.587993,
-                        45.117474
-                  ]
-            },
-            {
-                  "name": "Pliš",
-                  "text": "Egy természetes sziklaalakzat a Slunjčica-fennsíkon.",
-                  "category": "landmark",
-                  "coords": [
-                        15.562047,
-                        45.112049
-                  ]
-            },
-            {
-                  "name": "Winnetou Totem",
-                  "text": "Egy totemoszlop, amely a Winnetou-filmek ezen a vidéken történt forgatásának állít emléket.",
-                  "category": "landmark",
-                  "coords": [
-                        15.585795,
-                        45.120667
-                  ]
-            },
-            {
-                  "name": "Slunj Fortress",
-                  "text": "Kilátópont Szluin (Slunj) középkori várának romjainál.",
-                  "category": "natural",
-                  "coords": [
-                        15.586195,
-                        45.118238
-                  ]
-            },
-            {
                   "name": "izvor Sljunjčice",
                   "text": "Kilátópont a Slunjčica folyó forrásának közelében.",
                   "category": "natural",
                   "coords": [
                         15.587529,
                         45.079085
-                  ]
-            },
-            {
-                  "name": "Rastoke",
-                  "text": "Történelmi falu vízimalmokkal és vízesésekkel a Slunjčica torkolatánál.",
-                  "category": "natural",
-                  "coords": [
-                        15.584399,
-                        45.121028
-                  ]
-            },
-            {
-                  "name": "Napoleonov magazin",
-                  "text": "Egy egykori napóleoni korszakból származó raktár romjai Horvátországban.",
-                  "category": "historical",
-                  "coords": [
-                        15.589072,
-                        45.119835
                   ]
             },
             {
@@ -2899,66 +2719,12 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
       ],
       "ro": [
             {
-                  "name": "Stari grad Slovin",
-                  "text": "O ruină de cetate medievală pe platoul Slunjčica, deasupra râului Slunjčica.",
-                  "category": "fortress",
-                  "coords": [
-                        15.587993,
-                        45.117474
-                  ]
-            },
-            {
-                  "name": "Pliš",
-                  "text": "O formațiune stâncoasă naturală pe platoul Slunjčica.",
-                  "category": "landmark",
-                  "coords": [
-                        15.562047,
-                        45.112049
-                  ]
-            },
-            {
-                  "name": "Winnetou Totem",
-                  "text": "Un totem care comemorează filmările pentru filmele Winnetou în această regiune.",
-                  "category": "landmark",
-                  "coords": [
-                        15.585795,
-                        45.120667
-                  ]
-            },
-            {
-                  "name": "Slunj Fortress",
-                  "text": "Un punct de belvedere situat la ruinele cetății medievale din Slunj.",
-                  "category": "natural",
-                  "coords": [
-                        15.586195,
-                        45.118238
-                  ]
-            },
-            {
                   "name": "izvor Sljunjčice",
                   "text": "Un punct de belvedere situat în apropierea izvorului râului Slunjčica.",
                   "category": "natural",
                   "coords": [
                         15.587529,
                         45.079085
-                  ]
-            },
-            {
-                  "name": "Rastoke",
-                  "text": "Un sat istoric cu mori de apă și cascade la vărsarea râului Slunjčica.",
-                  "category": "natural",
-                  "coords": [
-                        15.584399,
-                        45.121028
-                  ]
-            },
-            {
-                  "name": "Napoleonov magazin",
-                  "text": "Ruinele unui fost depozit din epoca napoleoniană în Croația.",
-                  "category": "historical",
-                  "coords": [
-                        15.589072,
-                        45.119835
                   ]
             },
             {
@@ -2973,66 +2739,12 @@ imageHint: "Tulove Grede rocky cliffs Velebit",
       ],
       "en": [
             {
-                  "name": "Old Town of Slunj",
-                  "text": "A medieval fortress ruin on the Slunjčica Plateau above the Slunjčica River.",
-                  "category": "fortress",
-                  "coords": [
-                        15.587993,
-                        45.117474
-                  ]
-            },
-            {
-                  "name": "Pliš",
-                  "text": "A natural rock formation on the Slunjčica Plateau.",
-                  "category": "landmark",
-                  "coords": [
-                        15.562047,
-                        45.112049
-                  ]
-            },
-            {
-                  "name": "Winnetou Totem",
-                  "text": "A totem pole commemorating the filming of Winnetou movies in this region.",
-                  "category": "landmark",
-                  "coords": [
-                        15.585795,
-                        45.120667
-                  ]
-            },
-            {
-                  "name": "Slunj Fortress",
-                  "text": "A viewpoint located at the ruins of the medieval fortress of Slunj.",
-                  "category": "natural",
-                  "coords": [
-                        15.586195,
-                        45.118238
-                  ]
-            },
-            {
                   "name": "Slunjčica Well",
                   "text": "A viewpoint located near the source of the Slunjčica river.",
                   "category": "natural",
                   "coords": [
                         15.587529,
                         45.079085
-                  ]
-            },
-            {
-                  "name": "Rastoke",
-                  "text": "A historical village with watermills and waterfalls at the mouth of the Slunjčica.",
-                  "category": "natural",
-                  "coords": [
-                        15.584399,
-                        45.121028
-                  ]
-            },
-            {
-                  "name": "Ancient Napoleonic warehouse",
-                  "text": "The ruins of a former warehouse from the Napoleonic era in Croatia.",
-                  "category": "historical",
-                  "coords": [
-                        15.589072,
-                        45.119835
                   ]
             },
             {

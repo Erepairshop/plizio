@@ -6337,15 +6337,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yeollin Arboretum",
-                  "text": "Ein botanischer Garten mit einer Sammlung einheimischer Baumarten und gepflegten Spazierwegen.",
-                  "category": "landmark",
-                  "coords": [
-                        128.573961,
-                        38.190373
-                  ]
-            },
-            {
                   "name": "Sinseonbong",
                   "text": "Der nördlichste Gipfel des Seoraksan-Gebirges, der die Grenze zwischen Sokcho und Goseong markiert.",
                   "category": "natural",
@@ -6534,15 +6525,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
                   "coords": [
                         128.572196,
                         38.178304
-                  ]
-            },
-            {
-                  "name": "Yeollin Arboretum",
-                  "text": "Botanikus kert őshonos fafajok gyűjteményével és gondozott sétautakkal.",
-                  "category": "landmark",
-                  "coords": [
-                        128.573961,
-                        38.190373
                   ]
             },
             {
@@ -6737,15 +6719,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yeollin Arboretum",
-                  "text": "O grădină botanică cu o colecție de specii de arbori nativi și alei de plimbare bine întreținute.",
-                  "category": "landmark",
-                  "coords": [
-                        128.573961,
-                        38.190373
-                  ]
-            },
-            {
                   "name": "Sinseonbong",
                   "text": "Cel mai nordic vârf al masivului Seoraksan, care marchează granița dintre Sokcho și Goseong.",
                   "category": "natural",
@@ -6934,15 +6907,6 @@ export const poiExtraSouthkoreaLandmarksV2: POI[] = [
                   "coords": [
                         128.572196,
                         38.178304
-                  ]
-            },
-            {
-                  "name": "Yeollin Arboretum",
-                  "text": "A botanical garden featuring a collection of native tree species and manicured walking paths.",
-                  "category": "landmark",
-                  "coords": [
-                        128.573961,
-                        38.190373
                   ]
             },
             {

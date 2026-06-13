@@ -1087,50 +1087,10 @@ export const poiExtraComorosLifeV2: POI[] = [
   },
   {
     id: "botanischer-garten-mvouni-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "Der Ausgangspunkt auf 380 Metern Höhe, der die vulkanischen Hänge des Berges Karthala hinaufführt.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "A Karthala vulkán lejtőire vezető útvonal kezdőpontja 380 méteres magasságban.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "Punctul de plecare la 380 de metri altitudine care duce pe pantele vulcanice ale Muntelui Karthala.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Starting Point Road to Karthala (380 m)",
-                  "text": "The trailhead at 380 meters elevation leading up the volcanic slopes of Mount Karthala.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "kid-landmark",
     parent: "KM-G",

@@ -2454,15 +2454,6 @@ export const poiExtraUaeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wadi Shi Archaeological Site",
-                  "text": "Eine antike Stätte in einem felsigen Tal mit prähistorischen Grabhügeln und Steinstrukturen.",
-                  "category": "historical",
-                  "coords": [
-                        56.326718,
-                        25.34696
-                  ]
-            },
-            {
                   "name": "Reservoir. Observation deck",
                   "text": "Ein Aussichtspunkt mit Blick auf das türkisfarbene Wasser des Al-Rafisah-Staudamms und das umliegende Hadschar-Gebirge.",
                   "category": "natural",
@@ -2588,15 +2579,6 @@ export const poiExtraUaeReliefV2: POI[] = [
                   "coords": [
                         56.366363,
                         25.405427
-                  ]
-            },
-            {
-                  "name": "Wadi Shi Archaeological Site",
-                  "text": "Egy ősi lelőhely egy sziklás völgyben, ahol őskori sírhalmok és kőszerkezetek láthatók.",
-                  "category": "historical",
-                  "coords": [
-                        56.326718,
-                        25.34696
                   ]
             },
             {
@@ -2728,15 +2710,6 @@ export const poiExtraUaeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wadi Shi Archaeological Site",
-                  "text": "Un sit antic într-o vale stâncoasă, cu tumuli preistorici și structuri din piatră.",
-                  "category": "historical",
-                  "coords": [
-                        56.326718,
-                        25.34696
-                  ]
-            },
-            {
                   "name": "Reservoir. Observation deck",
                   "text": "Un punct de observație care oferă vederi asupra apelor turcoaz ale barajului Al Rafisah și Munților Hajar.",
                   "category": "natural",
@@ -2862,15 +2835,6 @@ export const poiExtraUaeReliefV2: POI[] = [
                   "coords": [
                         56.366363,
                         25.405427
-                  ]
-            },
-            {
-                  "name": "Wadi Shi Archaeological Site",
-                  "text": "An ancient site in a rocky valley featuring prehistoric burial mounds and stone structures.",
-                  "category": "historical",
-                  "coords": [
-                        56.326718,
-                        25.34696
                   ]
             },
             {

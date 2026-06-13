@@ -231,15 +231,6 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-vranjina-history-v2", "sights": {
       "de": [
             {
-                  "name": "Lesendro",
-                  "text": "Osmanische Festung aus dem 19. Jahrhundert auf einer Insel im Skutarisee.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
                   "name": "Kom",
                   "text": "Ein serbisch-orthodoxes Kloster aus dem 15. Jahrhundert auf einer Insel im See.",
                   "category": "religious",
@@ -247,27 +238,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.128205,
                         42.310081
                   ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Ein historisches Kloster auf der Insel Vranjina im Skutarisee.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Lesendro",
-                  "text": "19. századi oszmán erőd egy kis szigeten a Skadari-tóban.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
             {
                   "name": "Kom",
                   "text": "15. századi szerb ortodox kolostor a tó egyik szigetén.",
@@ -276,27 +249,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.128205,
                         42.310081
                   ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Történelmi monostor a Vranjina-szigeten a Skadar-tavon.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Lesendro",
-                  "text": "Fortăreață otomană din secolul al XIX-lea pe o insuliță în Lacul Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
             {
                   "name": "Kom",
                   "text": "O mănăstire ortodoxă sârbă din secolul al XV-lea pe o insulă din lac.",
@@ -305,27 +260,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.128205,
                         42.310081
                   ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "O mănăstire istorică pe insula Vranjina din lacul Skadar.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Lesendro",
-                  "text": "19th-century Ottoman fortress on a small island in Lake Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
             {
                   "name": "Kom Monastry",
                   "text": "A 15th-century Serbian Orthodox monastery on an island in the lake.",
@@ -333,15 +270,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.128205,
                         42.310081
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "A historic monastery on Vranjina island in Lake Skadar.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
                   ]
             }
       ]
@@ -715,446 +643,10 @@ export const montenegroHistoryV2: POI[] = [
   },
   {
     id: "montenegro-stari-grad-budva-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Podlastva",
-                  "text": "Ein serbisch-orthodoxes Kloster in der Nähe der Altstadt von Budva.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Die mittelalterliche Altstadt von Budva gehört zu den ältesten Siedlungen an der Adria.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren",
-                  "text": "Ein malerischer Strand in Budva, der aus zwei durch einen Tunnel verbundenen Abschnitten besteht.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Ein bekannter Sandstrand bei Budva, der oft für Konzerte und Veranstaltungen genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Die historische Festung der Altstadt von Budva bietet einen weiten Blick über die Küste.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Strand Slovenska plaža",
-                  "text": "Der größte Strand von Budva, der sich entlang der Promenade mit zahlreichen Hotels erstreckt.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Ein Strandresort an der Küste von Budva, bekannt für seine entspannte Atmosphäre.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Eine Freizeiteinrichtung am Strand in der Nähe der historischen Altstadt von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein Schwimmbadbereich in Meeresnähe für Hotelgäste und Besucher in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Ein exklusiver Club mit einem Infinity-Pool und Blick auf die Adria.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Ein beliebter Badebereich direkt neben der alten Stadtmauer von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Einer der größten Wasserparks an der montenegrinischen Küste mit zahlreichen Rutschen.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Podlastva",
-                  "text": "Szerb ortodox kolostor Budva óvárosának közelében.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Budva középkori óvárosa az Adria egyik legrégebbi települése.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren 1",
-                  "text": "Festői tengerpart Budvában, amely két, alagúttal összekötött szakaszból áll.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Ismert homokos tengerpart Budva közelében, amelyet gyakran használnak koncertekre és rendezvényekre.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Budva óvárosának történelmi erődje, amely tágas kilátást nyújt a tengerpartra.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Budva legnagyobb strandja, amely a sétány mentén, számos szálloda mellett húzódik.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Tengerparti klub Budva partjainál, amely kellemes kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti szabadidős létesítmény Budva történelmi óvárosának közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Tengerparti medencekomplexum szállóvendégek és látogatók számára Budván.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Exkluzív klub feszített víztükrű medencével és kilátással az Adriai-tengerre.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Népszerű fürdőhely közvetlenül Budva óvárosának falai mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Montenegró partvidékének egyik legnagyobb aquaparkja számos csúszdával.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Podlastva",
-                  "text": "O mănăstire ortodoxă sârbă situată lângă orașul vechi Budva.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Orașul vechi medieval din Budva este una dintre cele mai vechi așezări de la Marea Adriatică.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren 1",
-                  "text": "O plajă pitorească din Budva, formată din două secțiuni conectate printr-un tunel.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "O plajă celebră cu nisip lângă Budva, folosită adesea pentru concerte și evenimente.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Cetatea istorică din orașul vechi Budva oferă o vedere amplă asupra coastei.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Cea mai mare plajă din Budva, care se întinde de-a lungul promenadei cu numeroase hoteluri.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Un club de plajă pe coasta Budvei, cunoscut pentru atmosfera sa relaxată.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O unitate de agrement pe plajă situată lângă centrul istoric al Budvei.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O zonă cu piscină situată aproape de mare pentru oaspeții hotelului și vizitatori.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Un club exclusivist cu o piscină de tip „infinity” și vedere la Marea Adriatică.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "O zonă populară pentru scăldat situată chiar lângă zidurile cetății Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Unul dintre cele mai mari parcuri acvatice de pe coasta muntenegreană, cu numeroase tobogane.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Podlastva",
-                  "text": "A Serbian Orthodox monastery located near the Old Town of Budva.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Old Town Budva",
-                  "text": "The medieval Old Town of Budva is one of the oldest settlements on the Adriatic Sea.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren",
-                  "text": "A picturesque beach in Budva consisting of two sections connected by a tunnel.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "A famous sandy beach near Budva, often used for concerts and events.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "The historic fortress of Budva's Old Town offers a wide view over the coast.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska Beach",
-                  "text": "The largest beach in Budva, stretching along the promenade with numerous hotels.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "A beach resort on the Budva coast known for its relaxed atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A seaside leisure facility located on the beach near Budva's historic Old Town.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A swimming pool area near the sea for hotel guests and visitors in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "An exclusive club featuring an infinity pool with views over the Adriatic Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "A popular swimming area located right next to the city walls of Budva's Old Town.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "One of the largest water parks on the Montenegrin coast, featuring numerous slides.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "ruins",
     parent: "ME",
@@ -1464,42 +956,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Castello",
-                  "text": "Eine mittelalterliche Burg mit Blick auf das Kloster Reževići.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "Ein Museum, das an die Geschichte der ersten sozialistischen Gemeinde in der Region erinnert.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "Ein beliebter FKK-Strand in der Nähe des Reževići-Klosters mit felsigen Abschnitten.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Diese archäologische Stätte zeigt die Überreste einer antiken römischen Siedlung.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
                   "name": "Plaža Perazića Do",
                   "text": "Ein Kieselstrand in einer malerischen Bucht nahe der Ortschaft Reževići.",
                   "category": "recreational",
@@ -1516,15 +972,6 @@ export const montenegroHistoryV2: POI[] = [
                         18.902366,
                         42.234524
                   ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "Ein Strandresort in der Nähe des Klosters Reževići an der Küste.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "hu": [
@@ -1535,42 +982,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.924126,
                         42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Középkori vár a Reževići kolostorra néző kilátással.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "A régió első szocialista községének történelmére emlékező múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "Egy népszerű naturista strand a Reževići kolostor közelében, sziklás partokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Ez a régészeti lelőhely egy ókori római település maradványait mutatja be.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
                   ]
             },
             {
@@ -1590,15 +1001,6 @@ export const montenegroHistoryV2: POI[] = [
                         18.902366,
                         42.234524
                   ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "Tengerparti üdülőhely a tengerparton, a Reževići-kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "ro": [
@@ -1609,42 +1011,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.924126,
                         42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Un castel medieval cu vedere la mănăstirea Reževići.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "Un muzeu care comemorează istoria primei comune socialiste din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "O plajă de nudiști populară lângă mănăstirea Reževići, cu secțiuni stâncoase.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Acest sit arheologic prezintă resturile unei așezări romane antice.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
                   ]
             },
             {
@@ -1664,15 +1030,6 @@ export const montenegroHistoryV2: POI[] = [
                         18.902366,
                         42.234524
                   ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "O stațiune de plajă pe coastă, situată lângă Mănăstirea Reževići.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "en": [
@@ -1683,42 +1040,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.924126,
                         42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "A medieval castle overlooking the Reževići monastery.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "The Red Commune Memorial",
-                  "text": "A museum commemorating the history of the first socialist commune in the region.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "A popular nudist beach near the Reževići Monastery featuring rocky sections.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "This archaeological site displays the remains of an ancient Roman settlement.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
                   ]
             },
             {
@@ -1737,15 +1058,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.902366,
                         42.234524
-                  ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "A beach resort on the coast, located near the Reževići Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
                   ]
             }
       ]
@@ -1806,57 +1118,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "FKK Crvena glavica",
-                  "text": "Ein malerischer FKK-Strand bei Sveti Stefan, bekannt für seine roten Felsen und das klare Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
                   "name": "Pržno",
                   "text": "Ein malerisches Küstendorf und Strandgebiet, das für seine traditionelle Atmosphäre und seine Olivenhaine bekannt ist.",
                   "category": "recreational",
                   "coords": [
                         18.892491,
                         42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "Ein angenehmer Strandabschnitt an der Adriaküste, der eine entspannte Umgebung zum Sonnenbaden und Schwimmen bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
-                  "name": "Sveti Stefan",
-                  "text": "Ein weltberühmter Strand und ein ikonisches Inselresort, das für seinen Luxus und seinen historischen Charme bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        18.894699,
-                        42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "Ein abgelegener Strand mit feinen Kieselsteinen und türkisfarbenem Wasser, versteckt in einer kleinen Bucht.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Plaža Školj (5A-1)",
-                  "text": "Ein ruhiger Strandabschnitt auf der Insel Sveti Nikola mit herrlichem Blick auf Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846905,
-                        42.272349
                   ]
             },
             {
@@ -1876,51 +1143,6 @@ export const montenegroHistoryV2: POI[] = [
                         18.893254,
                         42.260645
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Ein Strandhaus direkt am Wasser bei Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein Hotelpool mit Meerblick in der Nähe von Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Ein Infinity-Pool-Club mit Blick auf die Adria bei Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Ein Strand oder eine Pizzeria in der Nähe des Klosters Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "Plaža Hawaii (5A) ist ein Strandresort beim Kloster Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
             }
       ],
       "hu": [
@@ -1934,57 +1156,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "FKK Crvena glavica",
-                  "text": "Sveti Stefan közeli festői nudista strand, amely vörös szikláiról és tiszta vizéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
                   "name": "Pržno",
                   "text": "Festői tengerparti falu és strandövezet, amely hagyományos hangulatáról és olajfaligeteiről ismert.",
                   "category": "recreational",
                   "coords": [
                         18.892491,
                         42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "Kellemes tengerparti rész, amely pihentető környezetet kínál a napozáshoz és az úszáshoz az Adriai-tenger partján.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
-                  "name": "Sveti Stefan",
-                  "text": "Világhírű strand és ikonikus szigeti üdülőhely, amely luxusáról és történelmi bájáról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.894699,
-                        42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "Egy kis öbölben megbújó, finom kavicsos és türkizkék vizű, eldugott strand.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Plaža Školj (5A-1)",
-                  "text": "Nyugodt tengerparti rész a Sveti Nikola-szigeten, ahonnan gyönyörű kilátás nyílik Budvára.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846905,
-                        42.272349
                   ]
             },
             {
@@ -2004,51 +1181,6 @@ export const montenegroHistoryV2: POI[] = [
                         18.893254,
                         42.260645
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti ház a víz mellett Praskvica közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Szállodai medence tengerre néző kilátással Praskvica közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Végtelenített medence klub az Adriára néző kilátással Praskvica mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Strand vagy pizzéria a Praskvica kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "Plaža Hawaii (5A) egy strandüdülőhely a Praskvica-kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
             }
       ],
       "ro": [
@@ -2062,57 +1194,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "FKK Crvena glavica",
-                  "text": "O plajă de nudiști pitorească de lângă Sveti Stefan, cunoscută pentru stâncile sale roșii și apele limpezi.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
                   "name": "Pržno",
                   "text": "Un sat de coastă pitoresc și o zonă de plajă cunoscută pentru atmosfera sa tradițională și livezile de măslini.",
                   "category": "recreational",
                   "coords": [
                         18.892491,
                         42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "O zonă de plajă plăcută, care oferă un mediu relaxat pentru plajă și înot de-a lungul coastei Adriatice.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
-                  "name": "Sveti Stefan",
-                  "text": "O plajă faimoasă în întreaga lume și o stațiune insulară emblematică, cunoscută pentru luxul și farmecul său istoric.",
-                  "category": "recreational",
-                  "coords": [
-                        18.894699,
-                        42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "O plajă retrasă cu pietriș fin și apă turcoaz, ascunsă într-un mic golf.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Plaža Školj (5A-1)",
-                  "text": "O porțiune de plajă liniștită situată pe insula Sveti Nikola, oferind vederi frumoase spre Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846905,
-                        42.272349
                   ]
             },
             {
@@ -2132,51 +1219,6 @@ export const montenegroHistoryV2: POI[] = [
                         18.893254,
                         42.260645
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O casă de plajă chiar lângă apă lângă Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O piscină de hotel cu vedere la mare lângă Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Un club cu piscină infinity cu vedere la Marea Adriatică lângă Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "O plajă sau pizzerie lângă mănăstirea Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "Plaža Hawaii (5A) este o stațiune de plajă situată lângă mănăstirea Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
             }
       ],
       "en": [
@@ -2190,57 +1232,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "FKK Crvena glavica",
-                  "text": "A scenic nudist beach near Sveti Stefan known for its red rocks and clear waters.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
                   "name": "Pržno",
                   "text": "A picturesque coastal village and beach area known for its traditional atmosphere and olive groves.",
                   "category": "recreational",
                   "coords": [
                         18.892491,
                         42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "A pleasant beach area offering a relaxed environment for sunbathing and swimming along the Adriatic coast.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
-                  "name": "Sveti Stefan",
-                  "text": "A world-famous beach and iconic island resort known for its luxury and historical charm.",
-                  "category": "recreational",
-                  "coords": [
-                        18.894699,
-                        42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "A secluded beach with fine pebbles and turquoise water, tucked away in a small bay.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Plaža Školj (5A-1)",
-                  "text": "A quiet beach spot located on the island of Sveti Nikola, offering beautiful views of Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846905,
-                        42.272349
                   ]
             },
             {
@@ -2259,51 +1256,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.893254,
                         42.260645
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A beach house right on the water near Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A hotel pool with sea view near Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "An infinity pool club overlooking the Adriatic near Praskvica.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "A beach or pizzeria near Praskvica Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "Plaža Hawaii (5A) is a beach resort located near Praskvica Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
                   ]
             }
       ]
@@ -2400,24 +1352,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aquapark Budva",
-                  "text": "Ein großer Wasserpark auf dem Hügel Topliš mit Blick auf Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            },
-            {
-                  "name": "Jaz nude beach",
-                  "text": "Ein bekannter FKK-Abschnitt am westlichen Ende des Jaz-Strandes.",
-                  "category": "recreational",
-                  "coords": [
-                        18.81758,
-                        42.281335
-                  ]
-            },
-            {
                   "name": "Burg Mogren",
                   "text": "Eine österreichisch-ungarische Festungsruine mit Panoramablick auf die Küste.",
                   "category": "castle",
@@ -2433,24 +1367,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.786074,
                         42.274076
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Ein Strandclub in der Nähe des Klosters Podlastva, der Entspannung am Meer ermöglicht.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Ein Schwimmbecken in der Nähe des Klosters Podlastva für eine erfrischende Pause.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
                   ]
             },
             {
@@ -2528,24 +1444,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aquapark Budva",
-                  "text": "Nagy vízi park a Topliš-dombon, kilátással Budvára.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            },
-            {
-                  "name": "Jaz nude beach",
-                  "text": "Ismert nudista strandrész a Jaz-strand nyugati végén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.81758,
-                        42.281335
-                  ]
-            },
-            {
                   "name": "Tvrđava Mogren",
                   "text": "Osztrák-magyar erődrom panorámás kilátással a tengerpartra.",
                   "category": "castle",
@@ -2561,24 +1459,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.786074,
                         42.274076
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Strandklub a Podlastva-kolostor közelében, kikapcsolódást kínálva a tengerparton.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Úszómedence a Podlastva-kolostor közelében, frissítő kikapcsolódást kínálva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
                   ]
             },
             {
@@ -2656,24 +1536,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aquapark Budva",
-                  "text": "Un parc acvatic mare situat pe dealul Topliš, cu vedere spre Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            },
-            {
-                  "name": "Jaz nude beach",
-                  "text": "O secțiune de plajă pentru nudiști situată la capătul vestic al plajei Jaz.",
-                  "category": "recreational",
-                  "coords": [
-                        18.81758,
-                        42.281335
-                  ]
-            },
-            {
                   "name": "Tvrđava Mogren",
                   "text": "Ruinele unei fortărețe austro-ungare care oferă vedere panoramică spre coastă.",
                   "category": "castle",
@@ -2689,24 +1551,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.786074,
                         42.274076
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Un club de plajă lângă Mănăstirea Podlastva, oferind relaxare pe țărmul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "O piscină situată lângă Mănăstirea Podlastva, oferind o pauză revigorantă.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
                   ]
             },
             {
@@ -2784,24 +1628,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aquapark Budva",
-                  "text": "A large water park situated on Topliš hill overlooking Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            },
-            {
-                  "name": "Jaz nude beach",
-                  "text": "A well-known nudist beach section located at the western end of Jaz beach.",
-                  "category": "recreational",
-                  "coords": [
-                        18.81758,
-                        42.281335
-                  ]
-            },
-            {
                   "name": "Fortress Mogren",
                   "text": "The ruins of an Austro-Hungarian fortress offering panoramic views of the coast.",
                   "category": "castle",
@@ -2817,24 +1643,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.786074,
                         42.274076
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "A beach club near Podlastva Monastery, providing leisure facilities by the seaside.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "A swimming pool located near Podlastva Monastery, offering a place for a refreshing break.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
                   ]
             },
             {
@@ -2958,15 +1766,6 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-manastir-kom-history-v2", "sights": {
       "de": [
             {
-                  "name": "Lesendro",
-                  "text": "Osmanische Festung aus dem 19. Jahrhundert auf einer Insel im Skutarisee.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
                   "name": "Manastir Vranjina",
                   "text": "Ein serbisch-orthodoxes Kloster auf der Insel Vranjina im Skutarisee.",
                   "category": "religious",
@@ -2977,15 +1776,6 @@ export const montenegroHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Lesendro",
-                  "text": "19. századi oszmán erőd egy kis szigeten a Skadari-tóban.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
             {
                   "name": "Manastir Vranjina",
                   "text": "Szerb ortodox kolostor a Vranjina-szigeten a Shkodrai-tavon.",
@@ -2998,15 +1788,6 @@ export const montenegroHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lesendro",
-                  "text": "Fortăreață otomană din secolul al XIX-lea pe o insuliță în Lacul Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
                   "name": "Manastir Vranjina",
                   "text": "O mănăstire ortodoxă sârbă pe insula Vranjina de pe lacul Skadar.",
                   "category": "religious",
@@ -3017,15 +1798,6 @@ export const montenegroHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lesendro",
-                  "text": "19th-century Ottoman fortress on a small island in Lake Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
             {
                   "name": "Manastir Vranjina",
                   "text": "A Serbian Orthodox monastery on Vranjina island in Lake Skadar.",
@@ -3084,24 +1856,6 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-manastir-starceva-gorica-history-v2", "sights": {
       "de": [
             {
-                  "name": "Vidrijak",
-                  "text": "Wahrzeichen Vidrijak nahe dem Kloster Starčeva Gorica, Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.171169,
-                        42.175775
-                  ]
-            },
-            {
-                  "name": "Kaljundži",
-                  "text": "Ein Gipfel in der Umgebung des Klosters Starčeva Gorica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.176958,
-                        42.191049
-                  ]
-            },
-            {
                   "name": "Vesir",
                   "text": "Wahrzeichen Vesir nahe dem Kloster Starčeva Gorica, Montenegro.",
                   "category": "landmark",
@@ -3112,24 +1866,6 @@ export const montenegroHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Vidrijak",
-                  "text": "Vidrijak nevezetesség a Starčeva Gorica kolostor közelében, Montenegróban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.171169,
-                        42.175775
-                  ]
-            },
-            {
-                  "name": "Kaljundži",
-                  "text": "Csúcs a Starčeva Gorica-kolostor környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        19.176958,
-                        42.191049
-                  ]
-            },
             {
                   "name": "Vesir",
                   "text": "Vesir nevezetesség a Starčeva Gorica kolostor közelében, Montenegróban.",
@@ -3142,24 +1878,6 @@ export const montenegroHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Vidrijak",
-                  "text": "Reper Vidrijak lângă mănăstirea Starčeva Gorica, Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.171169,
-                        42.175775
-                  ]
-            },
-            {
-                  "name": "Kaljundži",
-                  "text": "Un vârf situat în apropierea Mănăstirii Starčeva Gorica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.176958,
-                        42.191049
-                  ]
-            },
-            {
                   "name": "Vesir",
                   "text": "Reper Vesir lângă mănăstirea Starčeva Gorica, Muntenegru.",
                   "category": "landmark",
@@ -3170,24 +1888,6 @@ export const montenegroHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Vidrijak",
-                  "text": "Landmark Vidrijak near Starčeva Gorica monastery, Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.171169,
-                        42.175775
-                  ]
-            },
-            {
-                  "name": "Kaljundži",
-                  "text": "A peak located in the vicinity of Starčeva Gorica Monastery.",
-                  "category": "landmark",
-                  "coords": [
-                        19.176958,
-                        42.191049
-                  ]
-            },
             {
                   "name": "Vesir",
                   "text": "Landmark Vesir near Starčeva Gorica monastery, Montenegro.",
@@ -3246,15 +1946,6 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-manastir-beska-history-v2", "sights": {
       "de": [
             {
-                  "name": "Plaža Murići",
-                  "text": "Ein malerischer Strand am Ufer des Skutarisees in der Nähe von Beška.",
-                  "category": "recreational",
-                  "coords": [
-                        19.22392,
-                        42.162117
-                  ]
-            },
-            {
                   "name": "Vidrijak",
                   "text": "Ein Berggipfel mit Blick über die Region des Skutarisees.",
                   "category": "landmark",
@@ -3271,27 +1962,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.176958,
                         42.191049
                   ]
-            },
-            {
-                  "name": "Vesir",
-                  "text": "Wahrzeichen Vesir nahe dem Kloster Beška, Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.180529,
-                        42.147375
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Plaža Murići",
-                  "text": "Látványos strand a Skadar-tó partján, Beška közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.22392,
-                        42.162117
-                  ]
-            },
             {
                   "name": "Vidrijak",
                   "text": "Hegyi csúcs, amely kilátást nyújt a Skadar-tó vidékére.",
@@ -3309,27 +1982,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.176958,
                         42.191049
                   ]
-            },
-            {
-                  "name": "Vesir",
-                  "text": "Vesir nevezetesség a Beška kolostor közelében, Montenegróban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.180529,
-                        42.147375
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Plaža Murići",
-                  "text": "O plajă pitorească pe malul lacului Skadar, lângă Beška.",
-                  "category": "recreational",
-                  "coords": [
-                        19.22392,
-                        42.162117
-                  ]
-            },
             {
                   "name": "Vidrijak",
                   "text": "Un vârf muntos care oferă vedere asupra regiunii lacului Skadar.",
@@ -3347,27 +2002,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.176958,
                         42.191049
                   ]
-            },
-            {
-                  "name": "Vesir",
-                  "text": "Reper Vesir lângă mănăstirea Beška, Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.180529,
-                        42.147375
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Plaža Murići",
-                  "text": "A scenic beach on the shores of Lake Skadar near Beška.",
-                  "category": "recreational",
-                  "coords": [
-                        19.22392,
-                        42.162117
-                  ]
-            },
             {
                   "name": "Vidrijak",
                   "text": "A mountain peak offering views over the Lake Skadar region.",
@@ -3384,15 +2021,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.176958,
                         42.191049
-                  ]
-            },
-            {
-                  "name": "Vesir",
-                  "text": "Landmark Vesir near Beška monastery, Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.180529,
-                        42.147375
                   ]
             }
       ]
@@ -3462,15 +2090,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lesendro",
-                  "text": "Eine historische Inselfestung im Skutarisee, die strategische Bedeutung für die Verteidigung der Region hatte.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
                   "name": "Tvrđava Besac",
                   "text": "Eine mittelalterliche Festung oberhalb von Virpazar, die einen weiten Blick über den Skutarisee bietet.",
                   "category": "fortress",
@@ -3486,15 +2105,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.111912,
                         42.217244
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Ein historisches serbisch-orthodoxes Kloster auf der Insel Vranjina im Skutarisee.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
                   ]
             }
       ],
@@ -3518,15 +2128,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lesendro",
-                  "text": "Történelmi szigeterőd a Shkodrai-tavon, amely stratégiai jelentőséggel bírt a régió védelmében.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
                   "name": "Tvrđava Besac",
                   "text": "Középkori erőd Virpazar felett, amely széles kilátást nyújt a Shkodrai-tóra.",
                   "category": "fortress",
@@ -3542,15 +2143,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.111912,
                         42.217244
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Történelmi szerb ortodox kolostor a Shkodrai-tó Vranjina-szigetén.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
                   ]
             }
       ],
@@ -3574,15 +2166,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lesendro",
-                  "text": "O cetate istorică pe o insulă din lacul Skadar, care a avut o importanță strategică în apărarea regiunii.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
                   "name": "Tvrđava Besac",
                   "text": "O cetate medievală deasupra localității Virpazar, care oferă o priveliște largă asupra lacului Skadar.",
                   "category": "fortress",
@@ -3598,15 +2181,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.111912,
                         42.217244
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "O mănăstire ortodoxă sârbă istorică situată pe insula Vranjina din lacul Skadar.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
                   ]
             }
       ],
@@ -3630,15 +2204,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lesendro",
-                  "text": "A historic island fortress in Lake Skadar that held strategic importance in the region's defense.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
                   "name": "Besac Fortress",
                   "text": "A medieval fortress above Virpazar, offering a broad view over Lake Skadar.",
                   "category": "fortress",
@@ -3654,15 +2219,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.111912,
                         42.217244
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "A historic Serbian Orthodox monastery located on Vranjina Island in Lake Skadar.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
                   ]
             }
       ]
@@ -3714,24 +2270,6 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-manastir-dobrilovina-history-v2", "sights": {
       "de": [
             {
-                  "name": "Veliki Kurozeb",
-                  "text": "Der Veliki Kurozeb ist ein Berggipfel beim Kloster Dobrilovina im Gebiet der Tara-Schlucht.",
-                  "category": "landmark",
-                  "coords": [
-                        19.307246,
-                        43.032102
-                  ]
-            },
-            {
-                  "name": "Mali Kurozeb",
-                  "text": "Kleiner Gipfel Mali Kurozeb nahe dem Kloster Dobrilovina, Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.313679,
-                        43.035678
-                  ]
-            },
-            {
                   "name": "Lokvinjska kosa",
                   "text": "Lokvinjska kosa ist ein Bergrücken im Nationalpark Durmitor unweit des Klosters Dobrilovina.",
                   "category": "landmark",
@@ -3775,36 +2313,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.343142,
                         43.080941
                   ]
-            },
-            {
-                  "name": "Gradina",
-                  "text": "Festungsruine Gradina nahe dem Kloster Dobrilovina, Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.370748,
-                        43.026443
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Veliki Kurozeb",
-                  "text": "A Veliki Kurozeb egy hegycsúcs a Dobrilovina-kolostor közelében, a Tara-folyó kanyonjának vidékén.",
-                  "category": "landmark",
-                  "coords": [
-                        19.307246,
-                        43.032102
-                  ]
-            },
-            {
-                  "name": "Mali Kurozeb",
-                  "text": "Mali Kurozeb kis csúcs a Dobrilovina kolostor közelében, Montenegróban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.313679,
-                        43.035678
-                  ]
-            },
             {
                   "name": "Lokvinjska kosa",
                   "text": "A Lokvinjska kosa egy hegyhát a Durmitor Nemzeti Parkban, nem messze a Dobrilovina-kolostortól.",
@@ -3849,36 +2360,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.343142,
                         43.080941
                   ]
-            },
-            {
-                  "name": "Gradina",
-                  "text": "Gradina erődrom a Dobrilovina kolostor közelében, Montenegróban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.370748,
-                        43.026443
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Veliki Kurozeb",
-                  "text": "Veliki Kurozeb este un vârf montan lângă Mănăstirea Dobrilovina, în zona canionului râului Tara.",
-                  "category": "landmark",
-                  "coords": [
-                        19.307246,
-                        43.032102
-                  ]
-            },
-            {
-                  "name": "Mali Kurozeb",
-                  "text": "Vârf mic Mali Kurozeb lângă mănăstirea Dobrilovina, Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.313679,
-                        43.035678
-                  ]
-            },
             {
                   "name": "Lokvinjska kosa",
                   "text": "Lokvinjska kosa este o culme în Parcul Național Durmitor, nu departe de Mănăstirea Dobrilovina.",
@@ -3923,36 +2407,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.343142,
                         43.080941
                   ]
-            },
-            {
-                  "name": "Gradina",
-                  "text": "Ruina cetății Gradina lângă mănăstirea Dobrilovina, Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.370748,
-                        43.026443
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Veliki Kurozeb",
-                  "text": "Veliki Kurozeb is a mountain peak near the Dobrilovina Monastery in the Tara River canyon area.",
-                  "category": "landmark",
-                  "coords": [
-                        19.307246,
-                        43.032102
-                  ]
-            },
-            {
-                  "name": "Mali Kurozeb",
-                  "text": "Small peak Mali Kurozeb near Dobrilovina monastery, Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.313679,
-                        43.035678
-                  ]
-            },
             {
                   "name": "Lokvinjska kosa",
                   "text": "Lokvinjska kosa is a mountain ridge in the Durmitor National Park, not far from the Dobrilovina Monastery.",
@@ -3996,15 +2453,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.343142,
                         43.080941
-                  ]
-            },
-            {
-                  "name": "Gradina",
-                  "text": "Fortress ruin Gradina near Dobrilovina monastery, Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.370748,
-                        43.026443
                   ]
             }
       ]
@@ -4146,15 +2594,6 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-tvrđava-lesendro-history-v2", "sights": {
       "de": [
             {
-                  "name": "Tvrđava Grmožur",
-                  "text": "Die ehemalige Gefängnisinsel Grmožur beherbergt die Ruinen einer Festung im Skutarisee.",
-                  "category": "fortress",
-                  "coords": [
-                        19.132273,
-                        42.236537
-                  ]
-            },
-            {
                   "name": "Lesendro",
                   "text": "Lesendro ist eine historische Inselfestung im Skutarisee, die im 19. Jahrhundert eine wichtige strategische Rolle spielte.",
                   "category": "fortress",
@@ -4162,36 +2601,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.119716,
                         42.271593
                   ]
-            },
-            {
-                  "name": "Tvrđava Besac",
-                  "text": "Die Festung Besac aus dem 15. Jahrhundert bietet einen weiten Panoramablick über den Ort Virpazar und den Skutarisee.",
-                  "category": "fortress",
-                  "coords": [
-                        19.092683,
-                        42.244374
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Das Kloster Vranjina ist ein historisches orthodoxes Kloster auf einer Insel im Skutarisee.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Tvrđava Grmožur",
-                  "text": "Az egykori börtönsziget, Grmožur, egy erődítmény romjainak ad otthont a Shkodrai-tavon.",
-                  "category": "fortress",
-                  "coords": [
-                        19.132273,
-                        42.236537
-                  ]
-            },
             {
                   "name": "Lesendro",
                   "text": "Lesendro egy történelmi szigeterőd a Shkodrai-tavon, amely a 19. században fontos stratégiai szerepet játszott.",
@@ -4200,36 +2612,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.119716,
                         42.271593
                   ]
-            },
-            {
-                  "name": "Tvrđava Besac",
-                  "text": "A 15. századi Besac-erőd széles panorámát kínál Virpazar városára és a Shkodrai-tóra.",
-                  "category": "fortress",
-                  "coords": [
-                        19.092683,
-                        42.244374
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "A Vranjina-kolostor egy történelmi ortodox kolostor a Shkodrai-tó egyik szigetén.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Tvrđava Grmožur",
-                  "text": "Fosta insulă-închisoare Grmožur găzduiește ruinele unei fortărețe pe Lacul Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.132273,
-                        42.236537
-                  ]
-            },
             {
                   "name": "Lesendro",
                   "text": "Lesendro este o cetate insulară istorică pe Lacul Skadar, care a jucat un rol strategic important în secolul al XIX-lea.",
@@ -4238,36 +2623,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.119716,
                         42.271593
                   ]
-            },
-            {
-                  "name": "Tvrđava Besac",
-                  "text": "Cetatea Besac din secolul al XV-lea oferă o vedere panoramică largă asupra orașului Virpazar și a Lacului Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.092683,
-                        42.244374
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Mănăstirea Vranjina este o mănăstire ortodoxă istorică situată pe o insulă de pe Lacul Skadar.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Tvrđava Grmožur",
-                  "text": "The former prison island of Grmožur houses the ruins of a fortress on Lake Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.132273,
-                        42.236537
-                  ]
-            },
             {
                   "name": "Lesendro",
                   "text": "Lesendro is a historic island fortress on Lake Skadar that played an important strategic role in the 19th century.",
@@ -4275,24 +2633,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.119716,
                         42.271593
-                  ]
-            },
-            {
-                  "name": "Besac Fortress",
-                  "text": "The 15th-century Besac Fortress offers a wide panoramic view over the town of Virpazar and Lake Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.092683,
-                        42.244374
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Vranjina Monastery is a historic Orthodox monastery located on an island in Lake Skadar.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
                   ]
             }
       ]
@@ -4468,15 +2808,6 @@ export const montenegroHistoryV2: POI[] = [
                         19.000045,
                         42.159879
                   ]
-            },
-            {
-                  "name": "Plaža Sutomore",
-                  "text": "Der Hauptstrand von Sutomore mit lebhafter Promenade und Gastronomie.",
-                  "category": "recreational",
-                  "coords": [
-                        19.05586,
-                        42.136157
-                  ]
             }
       ],
       "hu": [
@@ -4559,15 +2890,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.000045,
                         42.159879
-                  ]
-            },
-            {
-                  "name": "Plaža Sutomore",
-                  "text": "Szutomore fő strandja nyüzsgő sétánnyal és vendéglátóhelyekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        19.05586,
-                        42.136157
                   ]
             }
       ],
@@ -4652,15 +2974,6 @@ export const montenegroHistoryV2: POI[] = [
                         19.000045,
                         42.159879
                   ]
-            },
-            {
-                  "name": "Plaža Sutomore",
-                  "text": "Plaja principală din Sutomore, cu o faleză animată și restaurante.",
-                  "category": "recreational",
-                  "coords": [
-                        19.05586,
-                        42.136157
-                  ]
             }
       ],
       "en": [
@@ -4743,15 +3056,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.000045,
                         42.159879
-                  ]
-            },
-            {
-                  "name": "Plaža Sutomore",
-                  "text": "The main beach of Sutomore with a lively promenade and eateries.",
-                  "category": "recreational",
-                  "coords": [
-                        19.05586,
-                        42.136157
                   ]
             }
       ]
@@ -4893,78 +3197,6 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-manastir-gradiste-history-v2", "sights": {
       "de": [
             {
-                  "name": "Manastir Gradište",
-                  "text": "Orthodoxes Kloster in Montenegro, bekannt für seine historischen Fresken.",
-                  "category": "religious",
-                  "coords": [
-                        18.96385,
-                        42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "Serbisch-orthodoxes Kloster in der Nähe von Petrovac in Montenegro.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Kleine Festung oder befestigtes Gebäude in der Nähe des Gradište-Klosters.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "Museum in Petrovac, das dem Wahlsieg der Kommunisten von 1920 gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Archäologische Stätte mit den Ruinen einer antiken römischen Residenz.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Kleiner, malerischer Strand in einer Bucht in der Nähe von Reževići.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
-                  "name": "Buljarica",
-                  "text": "Großer Strand und Küstengebiet in Montenegro, in der Nähe von Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.970785,
-                        42.184289
-                  ]
-            },
-            {
-                  "name": "Plaža Buljarica",
-                  "text": "Breiter Sand- und Kiesstrand, bekannt für seine natürliche Umgebung.",
-                  "category": "recreational",
-                  "coords": [
-                        18.964806,
-                        42.193025
-                  ]
-            },
-            {
                   "name": "Light Land Family Recreation Park",
                   "text": "Ein familienorientierter Erholungspark in der Nähe des Klosters Gradište.",
                   "category": "recreational",
@@ -4972,90 +3204,9 @@ export const montenegroHistoryV2: POI[] = [
                         18.995831,
                         42.216188
                   ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "Ein Strandresort in der Nähe des Klosters Gradište, bekannt für seine Küstenlandschaft.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Manastir Gradište",
-                  "text": "Ortodox kolostor Montenegróban, amely történelmi freskóiról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        18.96385,
-                        42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "Szerb ortodox kolostor Montenegróban, Petrovac közelében.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Kis erőd oder megerősített épület a Gradište-kolostor közelében.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "Múzeum Petrovacban, amely az 1920-as kommunista választási győzelemnek szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Régészeti lelőhely egy ókori római rezidencia romjaival.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Kicsi, festői strand egy öbölben Reževići közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
-                  "name": "Buljarica",
-                  "text": "Nagy strand és tengerparti terület Montenegróban, Petrovac közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.970785,
-                        42.184289
-                  ]
-            },
-            {
-                  "name": "Plaža Buljarica",
-                  "text": "Széles homokos és kavicsos strand, amely természeti környezetéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.964806,
-                        42.193025
-                  ]
-            },
             {
                   "name": "Light Land Family Recreation Park",
                   "text": "A Gradište-kolostor közelében található családi szabadidőpark.",
@@ -5064,90 +3215,9 @@ export const montenegroHistoryV2: POI[] = [
                         18.995831,
                         42.216188
                   ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "A Gradište-kolostor közelében található tengerparti üdülőhely, amely partvidéki tájáról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Manastir Gradište",
-                  "text": "Mănăstire ortodoxă din Muntenegru, cunoscută pentru frescele sale istorice.",
-                  "category": "religious",
-                  "coords": [
-                        18.96385,
-                        42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "Mănăstire ortodoxă sârbă situată lângă Petrovac, în Muntenegru.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Mică fortăreață sau clădire fortificată în apropierea mănăstirii Gradište.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "Muzeu din Petrovac dedicat victoriei electorale comuniste din 1920.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Sit arheologic care prezintă ruinele unei foste reședințe romane.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Plajă mică și pitorească situată într-un golf lângă Reževići.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
-                  "name": "Buljarica",
-                  "text": "Plajă mare și zonă de coastă din Muntenegru, lângă Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.970785,
-                        42.184289
-                  ]
-            },
-            {
-                  "name": "Plaža Buljarica",
-                  "text": "Plajă largă cu nisip și pietriș, cunoscută pentru mediul său natural.",
-                  "category": "recreational",
-                  "coords": [
-                        18.964806,
-                        42.193025
-                  ]
-            },
             {
                   "name": "Light Land Family Recreation Park",
                   "text": "Un parc de recreere orientat spre familie situat lângă Mănăstirea Gradište.",
@@ -5156,90 +3226,9 @@ export const montenegroHistoryV2: POI[] = [
                         18.995831,
                         42.216188
                   ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "O zonă de stațiune de plajă lângă Mănăstirea Gradište, cunoscută pentru peisajul de coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Manastir Gradište",
-                  "text": "Orthodox monastery in Montenegro known for its historical frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        18.96385,
-                        42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "Serbian Orthodox monastery located near Petrovac in Montenegro.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Small fortress or fortified building near the Gradište Monastery area.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "The Red Commune Memorial",
-                  "text": "Museum in Petrovac dedicated to the 1920 communist local election victory.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Archaeological site featuring the ruins of an ancient Roman residence.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Small, picturesque beach located in a cove near Reževići.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
-                  "name": "Buljarica",
-                  "text": "Large beach and coastal area in Montenegro, near Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.970785,
-                        42.184289
-                  ]
-            },
-            {
-                  "name": "Plaža Buljarica",
-                  "text": "Wide sandy and pebbly beach known for its natural surroundings.",
-                  "category": "recreational",
-                  "coords": [
-                        18.964806,
-                        42.193025
-                  ]
-            },
             {
                   "name": "Light Land Family Recreation Park",
                   "text": "A family-oriented recreation park located near the Gradište Monastery.",
@@ -5247,15 +3236,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         18.995831,
                         42.216188
-                  ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "A beach resort area near the Gradište Monastery known for its coastal scenery.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
                   ]
             }
       ]
@@ -5406,30 +3386,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Letnja scena",
-                  "text": "Eine Freilichtbühne in Bar, auf der im Sommer kulturelle Veranstaltungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
                   "name": "Muzej Stari Bar",
                   "text": "Das offizielle Museum zur Geschichte der antiken Siedlung Stari Bar.",
                   "category": "museum",
                   "coords": [
                         19.133233,
                         42.092051
-                  ]
-            },
-            {
-                  "name": "Filin Tuz",
-                  "text": "Ein markanter Berggipfel in der Nähe der Altstadt von Bar.",
-                  "category": "landmark",
-                  "coords": [
-                        19.107447,
-                        42.066069
                   ]
             },
             {
@@ -5460,24 +3422,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Ein Strandabschnitt in Bar mit touristischen Einrichtungen für einen angenehmen Aufenthalt am Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Der städtische Hauptstrand in der Altstadt von Bar, ein beliebter Ort für Badegäste und Touristen.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            },
-            {
                   "name": "Plaža Šušanj",
                   "text": "Ein weitläufiger Strandabschnitt bei Bar, bekannt für seine entspannte Atmosphäre an der Adriaküste.",
                   "category": "recreational",
@@ -5498,30 +3442,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Letnja scena",
-                  "text": "Szabadtéri színpad Barban, amely nyáron kulturális eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
                   "name": "Muzej Stari Bar",
                   "text": "Stari Bar ősi településének történetét bemutató hivatalos múzeum.",
                   "category": "museum",
                   "coords": [
                         19.133233,
                         42.092051
-                  ]
-            },
-            {
-                  "name": "Filin Tuz",
-                  "text": "Egy jellegzetes hegycsúcs Bar óvárosának közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.107447,
-                        42.066069
                   ]
             },
             {
@@ -5552,24 +3478,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Strandszakasz Bar közelében turisztikai szolgáltatásokkal a kellemes tengerparti időtöltéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Bar óvárosának központi strandja, amely a fürdőzők és a turisták kedvelt helyszíne.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            },
-            {
                   "name": "Plaža Šušanj",
                   "text": "Kiterjedt strandszakasz Bar közelében, amely az adriai partvidék nyugodt légköréről ismert.",
                   "category": "recreational",
@@ -5590,30 +3498,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Letnja scena",
-                  "text": "O scenă în aer liber în Bar, care găzduiește evenimente culturale în timpul verii.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
                   "name": "Muzej Stari Bar",
                   "text": "Muzeul oficial dedicat istoriei așezării antice Stari Bar.",
                   "category": "museum",
                   "coords": [
                         19.133233,
                         42.092051
-                  ]
-            },
-            {
-                  "name": "Filin Tuz",
-                  "text": "Un vârf muntos proeminent situat în apropierea orașului vechi Bar.",
-                  "category": "landmark",
-                  "coords": [
-                        19.107447,
-                        42.066069
                   ]
             },
             {
@@ -5644,24 +3534,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "O secțiune de plajă în Bar, cu facilități turistice pentru un sejur plăcut la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Plaja principală a orașului în centrul vechi din Bar, un loc popular pentru înotători și turiști.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            },
-            {
                   "name": "Plaža Šušanj",
                   "text": "O secțiune extinsă de plajă lângă Bar, cunoscută pentru atmosfera sa relaxată de pe coasta Adriaticii.",
                   "category": "recreational",
@@ -5682,30 +3554,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Letnja scena",
-                  "text": "An open-air stage in Bar hosting cultural events during the summer.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
                   "name": "Museum Stari Bar",
                   "text": "The official museum dedicated to the history of the ancient settlement of Stari Bar.",
                   "category": "museum",
                   "coords": [
                         19.133233,
                         42.092051
-                  ]
-            },
-            {
-                  "name": "Filin Tuz",
-                  "text": "A prominent mountain peak located near the Old Town of Bar.",
-                  "category": "landmark",
-                  "coords": [
-                        19.107447,
-                        42.066069
                   ]
             },
             {
@@ -5733,24 +3587,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.141481,
                         42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "A beach section in Bar with tourist facilities for a pleasant stay by the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "The main city beach in the Old Town of Bar, a popular spot for swimmers and tourists.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
                   ]
             },
             {
@@ -6441,15 +4277,6 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-manastir-komovi-history-v2", "sights": {
       "de": [
             {
-                  "name": "Kom Kučki",
-                  "text": "Einer der markantesten Gipfel des Komovi-Gebirgsmassivs in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.641646,
-                        42.680634
-                  ]
-            },
-            {
                   "name": "Strmenice",
                   "text": "Ein Gebirgsgipfel in der Nähe des Komovi-Klosters, der weite Ausblicke bietet.",
                   "category": "landmark",
@@ -6457,27 +4284,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.599735,
                         42.70598
                   ]
-            },
-            {
-                  "name": "Rogam",
-                  "text": "Ein hoher Berggipfel in der malerischen Region des Komovi-Massivs.",
-                  "category": "landmark",
-                  "coords": [
-                        19.624597,
-                        42.686582
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kom Kučki",
-                  "text": "A montenegrói Komovi-hegység egyik legjellegzetesebb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        19.641646,
-                        42.680634
-                  ]
-            },
             {
                   "name": "Strmenice",
                   "text": "Hegycsúcs a Komovi-kolostor közelében, amely széles kilátást nyújt.",
@@ -6486,27 +4295,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.599735,
                         42.70598
                   ]
-            },
-            {
-                  "name": "Rogam",
-                  "text": "Magas hegycsúcs a Komovi-masszívum festői régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.624597,
-                        42.686582
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Kom Kučki",
-                  "text": "Unul dintre cele mai proeminente vârfuri ale masivului muntos Komovi din Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.641646,
-                        42.680634
-                  ]
-            },
             {
                   "name": "Strmenice",
                   "text": "Un vârf montan în apropierea Mănăstirii Komovi, oferind vederi panoramice.",
@@ -6515,27 +4306,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.599735,
                         42.70598
                   ]
-            },
-            {
-                  "name": "Rogam",
-                  "text": "Un vârf muntos înalt în regiunea pitorească a masivului Komovi.",
-                  "category": "landmark",
-                  "coords": [
-                        19.624597,
-                        42.686582
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kom Kučki",
-                  "text": "One of the most prominent peaks of the Komovi mountain massif in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.641646,
-                        42.680634
-                  ]
-            },
             {
                   "name": "Strmenice",
                   "text": "A mountain peak near the Komovi Monastery offering wide views.",
@@ -6543,15 +4316,6 @@ export const montenegroHistoryV2: POI[] = [
                   "coords": [
                         19.599735,
                         42.70598
-                  ]
-            },
-            {
-                  "name": "Rogam",
-                  "text": "A high mountain peak in the scenic region of the Komovi massif.",
-                  "category": "landmark",
-                  "coords": [
-                        19.624597,
-                        42.686582
                   ]
             }
       ]
@@ -6648,48 +4412,12 @@ export const montenegroHistoryV2: POI[] = [
     id: "montenegro-manastir-donja-briska-history-v2", "sights": {
       "de": [
             {
-                  "name": "Stari grad Bar",
-                  "text": "Die historischen Ruinen einer befestigten Stadt in der Nähe von Bar in Montenegro.",
-                  "category": "castle",
-                  "coords": [
-                        19.135464,
-                        42.093289
-                  ]
-            },
-            {
-                  "name": "Letnja scena",
-                  "text": "Eine sommerliche Freiluftbühne für Theateraufführungen und kulturelle Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "Ein von Pinien umgebener Kiesstrand an der Adriaküste.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
                   "name": "Crni Krš",
                   "text": "Überreste einer historischen Befestigungsanlage auf einem Felsvorsprung.",
                   "category": "castle",
                   "coords": [
                         19.123619,
                         42.141604
-                  ]
-            },
-            {
-                  "name": "Muzej Stari Bar",
-                  "text": "Ein Museum in der Altstadt von Bar bei Donja Briska.",
-                  "category": "museum",
-                  "coords": [
-                        19.133233,
-                        42.092051
                   ]
             },
             {
@@ -6700,72 +4428,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.123301,
                         42.133887
                   ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Eine öffentliche Badeanlage in der Nähe des Klosters Donja Briska.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Ein Strand im Hafen von Bar (Wiederholung, bei Donja Briska).",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Der Hauptstrand der Stadt mit verschiedenen Freizeitmöglichkeiten.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "Ein für seinen roten Kies bekannter Strand an der Adriaküste.",
-                  "category": "recreational",
-                  "coords": [
-                        19.070483,
-                        42.120104
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Stari grad Bar",
-                  "text": "Egy erődített város történelmi romjai a montenegrói Bar közelében.",
-                  "category": "castle",
-                  "coords": [
-                        19.135464,
-                        42.093289
-                  ]
-            },
-            {
-                  "name": "Letnja scena",
-                  "text": "Szabadtéri nyári színpad színházi előadásokra és kulturális eseményekre.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "Fenyőfákkal körülvett kavicsos strand az Adriai-tenger partján.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
             {
                   "name": "Crni Krš",
                   "text": "Egy sziklás kiemelkedésen található történelmi erődítmény maradványai.",
@@ -6776,15 +4441,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzej Stari Bar",
-                  "text": "Múzeum Bar óvárosában Donja Briska közelében.",
-                  "category": "museum",
-                  "coords": [
-                        19.133233,
-                        42.092051
-                  ]
-            },
-            {
                   "name": "Gradac",
                   "text": "Kiemelkedő hegycsúcs, amely panorámás kilátást nyújt a montenegrói tájra.",
                   "category": "landmark",
@@ -6792,72 +4448,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.123301,
                         42.133887
                   ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Nyilvános fürdőhely a Donja Briska-kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Strand Bar kikötőjében (ismétlés, Donja Briska közelében).",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "A város fő strandja, különféle szabadidős lehetőségekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "Vöröses kavicsairól ismert strand az adriai parton.",
-                  "category": "recreational",
-                  "coords": [
-                        19.070483,
-                        42.120104
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Stari grad Bar",
-                  "text": "Ruinele istorice ale unui oraș fortificat situat lângă Bar, în Muntenegru.",
-                  "category": "castle",
-                  "coords": [
-                        19.135464,
-                        42.093289
-                  ]
-            },
-            {
-                  "name": "Letnja scena",
-                  "text": "O scenă de vară în aer liber pentru spectacole de teatru și evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "O plajă cu pietriș înconjurată de pini de-a lungul coastei Adriatice.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
             {
                   "name": "Crni Krš",
                   "text": "Rămășițele unei fortificații istorice situate pe o proeminență stâncoasă.",
@@ -6868,15 +4461,6 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzej Stari Bar",
-                  "text": "Un muzeu în orașul vechi al Barului lângă Donja Briska.",
-                  "category": "museum",
-                  "coords": [
-                        19.133233,
-                        42.092051
-                  ]
-            },
-            {
                   "name": "Gradac",
                   "text": "Un vârf montan proeminent cu vederi panoramice asupra peisajului muntenegrean.",
                   "category": "landmark",
@@ -6884,72 +4468,9 @@ export const montenegroHistoryV2: POI[] = [
                         19.123301,
                         42.133887
                   ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "O instalație publică de scăldat situată lângă mănăstirea Donja Briska.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "O plajă în portul Bar (repetare, lângă Donja Briska).",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Plaja principală a orașului, cu diverse facilități de agrement.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "O plajă de pe coasta Adriaticii, cunoscută pentru pietrișul său roșiatic.",
-                  "category": "recreational",
-                  "coords": [
-                        19.070483,
-                        42.120104
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Old Bar Fortress",
-                  "text": "The historic ruins of a fortified town located near Bar in Montenegro.",
-                  "category": "castle",
-                  "coords": [
-                        19.135464,
-                        42.093289
-                  ]
-            },
-            {
-                  "name": "Letnja scena",
-                  "text": "An outdoor summer stage for theatrical performances and cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "A pebbly beach surrounded by pine trees along the Adriatic coast.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
             {
                   "name": "Crni Krš",
                   "text": "The remains of a historic fortification situated on a rocky outcrop.",
@@ -6960,57 +4481,12 @@ export const montenegroHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museum Stari Bar",
-                  "text": "A museum in the old town of Bar near Donja Briska.",
-                  "category": "museum",
-                  "coords": [
-                        19.133233,
-                        42.092051
-                  ]
-            },
-            {
                   "name": "Gradac",
                   "text": "A prominent mountain peak with panoramic views of the Montenegrin landscape.",
                   "category": "landmark",
                   "coords": [
                         19.123301,
                         42.133887
-                  ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "A public bathing facility located near the Donja Briska Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "A beach in the Bar port area (repeat, near Donja Briska).",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "The main city beach featuring various recreational facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "A beach on the Adriatic coast known for its reddish pebbles.",
-                  "category": "recreational",
-                  "coords": [
-                        19.070483,
-                        42.120104
                   ]
             }
       ]

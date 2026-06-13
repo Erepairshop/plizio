@@ -276,24 +276,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Beach",
-                  "text": "Der Lido-Strand ist ein beliebter Sandstrand an der Küste von Aschdod mit klarem Mittelmeerwasser.",
-                  "category": "recreational",
-                  "coords": [
-                        34.636579,
-                        31.808019
-                  ]
-            },
-            {
-                  "name": "Oranim Beach",
-                  "text": "Der Oranim-Strand in Aschdod bietet eine ruhige Umgebung zum Sonnenbaden und Schwimmen.",
-                  "category": "recreational",
-                  "coords": [
-                        34.635114,
-                        31.805437
-                  ]
-            },
-            {
                   "name": "Mei Ami Beach",
                   "text": "Der Mei-Ami-Strand ist bekannt für seine breite Promenade und den Blick auf das Meer in Aschdod.",
                   "category": "recreational",
@@ -320,24 +302,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.677222,
                         31.871389
-                  ]
-            },
-            {
-                  "name": "Lido Beach",
-                  "text": "A Lido strand egy népszerű homokos part Asdodban, tiszta földközi-tengeri vízzel.",
-                  "category": "recreational",
-                  "coords": [
-                        34.636579,
-                        31.808019
-                  ]
-            },
-            {
-                  "name": "Oranim Beach",
-                  "text": "Az asdodi Oranim strand nyugodt környezetet biztosít a napozáshoz és az úszáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        34.635114,
-                        31.805437
                   ]
             },
             {
@@ -370,24 +334,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Beach",
-                  "text": "Plaja Lido este o porțiune populară de nisip pe coasta din Ashdod, cu ape limpezi ale Mediteranei.",
-                  "category": "recreational",
-                  "coords": [
-                        34.636579,
-                        31.808019
-                  ]
-            },
-            {
-                  "name": "Oranim Beach",
-                  "text": "Plaja Oranim din Ashdod oferă un cadru de coastă liniștit pentru plajă și înot.",
-                  "category": "recreational",
-                  "coords": [
-                        34.635114,
-                        31.805437
-                  ]
-            },
-            {
                   "name": "Mei Ami Beach",
                   "text": "Plaja Mei Ami este o plajă renumită din Ashdod, cu o promenadă largă și vedere la mare.",
                   "category": "recreational",
@@ -414,24 +360,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.677222,
                         31.871389
-                  ]
-            },
-            {
-                  "name": "Lido Beach",
-                  "text": "Lido Beach is a popular sandy stretch on the Ashdod coastline with clear Mediterranean waters.",
-                  "category": "recreational",
-                  "coords": [
-                        34.636579,
-                        31.808019
-                  ]
-            },
-            {
-                  "name": "Oranim Beach",
-                  "text": "Oranim Beach in Ashdod offers a quiet coastal setting for sunbathing and swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        34.635114,
-                        31.805437
                   ]
             },
             {
@@ -546,15 +474,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Airodium Eilat",
-                  "text": "Diese Attraktion bietet einen vertikalen Windkanal, der das Gefühl eines Fallschirmsprungs im Herzen von Eilat simuliert.",
-                  "category": "landmark",
-                  "coords": [
-                        34.965126,
-                        29.551899
-                  ]
-            },
-            {
                   "name": "Nin Beach",
                   "text": "Ein entspannter Kieselstrand am Roten Meer, der für sein klares Wasser und die Nähe zu den Korallenriffen bekannt ist.",
                   "category": "recreational",
@@ -624,24 +543,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.953142,
                         29.547196
-                  ]
-            },
-            {
-                  "name": "Ofira Park",
-                  "text": "Ein zentraler Stadtpark in Eilat mit großen Rasenflächen und schattigen Plätzen, ideal für eine Pause vom Strand.",
-                  "category": "park",
-                  "coords": [
-                        34.95738,
-                        29.552192
-                  ]
-            },
-            {
-                  "name": "Moriah Beach",
-                  "text": "Ein gepflegter Strand am Nordufer, der für sein ruhiges Wasser und den Blick auf die Berge von Jordanien geschätzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        34.957959,
-                        29.549599
                   ]
             },
             {
@@ -746,15 +647,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Airodium Eilat",
-                  "text": "Ez a látványosság egy függőleges szélcsatornát kínál, amely a szabadesés élményét szimulálja Eilat szívében.",
-                  "category": "landmark",
-                  "coords": [
-                        34.965126,
-                        29.551899
-                  ]
-            },
-            {
                   "name": "Nin Beach",
                   "text": "A Vörös-tenger partján fekvő kavicsos strand, amely tiszta vizéről és a közeli korallzátonyokról ismert.",
                   "category": "recreational",
@@ -824,24 +716,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.953142,
                         29.547196
-                  ]
-            },
-            {
-                  "name": "Ofira Park",
-                  "text": "Eilat központi városi parkja tágas gyepekkel és árnyékos helyekkel, ideális egy pihenőre a strandolás után.",
-                  "category": "park",
-                  "coords": [
-                        34.95738,
-                        29.552192
-                  ]
-            },
-            {
-                  "name": "Moriah Beach",
-                  "text": "Gondozott strand az északi parton, amely nyugodt vizéről és a jordániai hegyekre nyíló kilátásáról híres.",
-                  "category": "recreational",
-                  "coords": [
-                        34.957959,
-                        29.549599
                   ]
             },
             {
@@ -946,15 +820,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Airodium Eilat",
-                  "text": "Această atracție oferă un tunel de vânt vertical care simulează senzația de parașutism chiar în inima Eilatului.",
-                  "category": "landmark",
-                  "coords": [
-                        34.965126,
-                        29.551899
-                  ]
-            },
-            {
                   "name": "Nin Beach",
                   "text": "O plajă relaxantă cu pietriș la Marea Roșie, cunoscută pentru apele sale limpezi și apropierea de recifele de corali.",
                   "category": "recreational",
@@ -1024,24 +889,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.953142,
                         29.547196
-                  ]
-            },
-            {
-                  "name": "Ofira Park",
-                  "text": "Un parc urban central din Eilat, cu peluze verzi și locuri umbrite, ideal pentru o pauză de la plajă.",
-                  "category": "park",
-                  "coords": [
-                        34.95738,
-                        29.552192
-                  ]
-            },
-            {
-                  "name": "Moriah Beach",
-                  "text": "O plajă bine întreținută de pe țărmul nordic, apreciată pentru apele sale calme și vederea spre munții Iordaniei.",
-                  "category": "recreational",
-                  "coords": [
-                        34.957959,
-                        29.549599
                   ]
             },
             {
@@ -1146,15 +993,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Airodium Eilat",
-                  "text": "This attraction features a vertical wind tunnel that simulates the sensation of skydiving in the heart of Eilat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.965126,
-                        29.551899
-                  ]
-            },
-            {
                   "name": "Nin Beach",
                   "text": "A relaxed pebble beach on the Red Sea, known for its clear waters and proximity to coral reefs.",
                   "category": "recreational",
@@ -1224,24 +1062,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.953142,
                         29.547196
-                  ]
-            },
-            {
-                  "name": "Ofira Park",
-                  "text": "A central urban park in Eilat featuring grassy lawns and shaded spots, ideal for a break from the beach.",
-                  "category": "park",
-                  "coords": [
-                        34.95738,
-                        29.552192
-                  ]
-            },
-            {
-                  "name": "Moriah Beach",
-                  "text": "A well-maintained beach on the North Shore, valued for its calm waters and views across to the mountains of Jordan.",
-                  "category": "recreational",
-                  "coords": [
-                        34.957959,
-                        29.549599
                   ]
             },
             {
@@ -1527,15 +1347,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ni`ilya",
-                  "text": "Die Überreste einer historischen Siedlung südlich von Ashkelon mit sichtbaren Ruinen alter Steinhäuser.",
-                  "category": "historical",
-                  "coords": [
-                        34.571599,
-                        31.642614
-                  ]
-            },
-            {
                   "name": "Zikim Beach",
                   "text": "Ein sandiger Küstenabschnitt am Mittelmeer, der für seine Dünenlandschaft und die Nähe zur Grenze bekannt ist.",
                   "category": "recreational",
@@ -1553,15 +1364,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.583333,
                         31.6
-                  ]
-            },
-            {
-                  "name": "Ni`ilya",
-                  "text": "Egy Ashkelontól délre fekvő történelmi település maradványai, régi kőházak látható romjaival.",
-                  "category": "historical",
-                  "coords": [
-                        34.571599,
-                        31.642614
                   ]
             },
             {
@@ -1585,15 +1387,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ni`ilya",
-                  "text": "Rămășițele unei așezări istorice la sud de Ashkelon, cu ruine vizibile ale unor case vechi de piatră.",
-                  "category": "historical",
-                  "coords": [
-                        34.571599,
-                        31.642614
-                  ]
-            },
-            {
                   "name": "Zikim Beach",
                   "text": "O porțiune de coastă nisipoasă la Marea Mediterană, cunoscută pentru dunele sale și proximitatea față de graniță.",
                   "category": "recreational",
@@ -1611,15 +1404,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.583333,
                         31.6
-                  ]
-            },
-            {
-                  "name": "Ni`ilya",
-                  "text": "The remains of a historical settlement south of Ashkelon with visible ruins of old stone houses.",
-                  "category": "historical",
-                  "coords": [
-                        34.571599,
-                        31.642614
                   ]
             },
             {
@@ -2472,15 +2256,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shavshevet Hill",
-                  "text": "Ein hoher Aussichtspunkt am Technion mit weitem Blick über die Bucht von Haifa und Galiläa.",
-                  "category": "natural",
-                  "coords": [
-                        35.013379,
-                        32.785488
-                  ]
-            },
-            {
                   "name": "Lebeniya",
                   "text": "Die ikonischen Kühltürme der Haifa-Raffinerie sind ein Wahrzeichen der industriellen Skyline der Stadt.",
                   "category": "tower",
@@ -2615,15 +2390,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         35.024752,
                         32.778202
-                  ]
-            },
-            {
-                  "name": "Shavshevet Hill",
-                  "text": "Magas kilátópont a Technionon, ahonnan pazar kilátás nyílik a Haifai-öbölre és Galileára.",
-                  "category": "natural",
-                  "coords": [
-                        35.013379,
-                        32.785488
                   ]
             },
             {
@@ -2764,15 +2530,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shavshevet Hill",
-                  "text": "Un punct de observație înalt la Technion, oferind vederi largi asupra golfului Haifa și Galileii.",
-                  "category": "natural",
-                  "coords": [
-                        35.013379,
-                        32.785488
-                  ]
-            },
-            {
                   "name": "Lebeniya",
                   "text": "Turnurile de răcire emblematice ale rafinăriei din Haifa sunt un simbol al orizontului industrial al orașului.",
                   "category": "tower",
@@ -2910,15 +2667,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shavshevet Hill",
-                  "text": "A high viewpoint at the Technion offering sweeping vistas of Haifa Bay and the Galilee.",
-                  "category": "natural",
-                  "coords": [
-                        35.013379,
-                        32.785488
-                  ]
-            },
-            {
                   "name": "Lebeniya",
                   "text": "The iconic cooling towers of the Haifa refinery are a landmark of the city's industrial skyline.",
                   "category": "tower",
@@ -3030,39 +2778,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amphi Ashdod",
-                  "text": "Eines der größten Freilicht-Amphitheater Israels, gelegen in einem Park nahe der Mittelmeerküste.",
-                  "category": "cultural",
-                  "coords": [
-                        34.635797,
-                        31.798758
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut Ashdod",
-                  "text": "Aschdods wichtigstes Zentrum für darstellende Künste mit einem markanten modernen Design und einer Glasfassade.",
-                  "category": "cultural",
-                  "coords": [
-                        34.636272,
-                        31.793172
-                  ]
-            },
-            {
                   "name": "Ad Halom Bridge",
                   "text": "Eine historische Brücke aus der Mamlukenzeit über den Lachisch-Fluss, berühmt für die Schlacht von 1948 gegen die ägyptische Armee.",
                   "category": "landmark",
                   "coords": [
                         34.669676,
                         31.781851
-                  ]
-            },
-            {
-                  "name": "Die große Düne",
-                  "text": "Eine massive, 35 Meter hohe aktive Sanddüne in einem Naturschutzgebiet, die letzte ihrer Art an Israels Küste.",
-                  "category": "natural",
-                  "coords": [
-                        34.653768,
-                        31.773353
                   ]
             },
             {
@@ -3081,15 +2802,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.650956,
                         31.81788
-                  ]
-            },
-            {
-                  "name": "Ben Gurion Park",
-                  "text": "Eine zentrale städtische Grünfläche in Aschdod mit schattigen Spazierwegen und Erholungsbereichen für die Bewohner.",
-                  "category": "park",
-                  "coords": [
-                        34.655828,
-                        31.802628
                   ]
             },
             {
@@ -3120,15 +2832,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ashdod's museam Korin Maman",
-                  "text": "Ein spezialisiertes Museum, das der archäologischen Kultur der Philister im Land Israel gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        34.640361,
-                        31.798977
-                  ]
-            },
-            {
                   "name": "Tel Mor",
                   "text": "Ein antiker Hafenstandort und archäologischer Hügel an der Mündung des Lachisch-Baches.",
                   "category": "historical",
@@ -3144,15 +2847,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.621657,
                         31.780436
-                  ]
-            },
-            {
-                  "name": "Obelisk to the Fallen Egyptian Soldiers",
-                  "text": "Ein ägyptisches Denkmal in Ad Halom, das im Rahmen des Friedensvertrags von 1979 zwischen Israel und Ägypten errichtet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        34.666428,
-                        31.781915
                   ]
             },
             {
@@ -3174,48 +2868,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Golda Garden",
-                  "text": "Ein öffentlicher Garten in Aschdod mit schattigen Sitzbereichen und Grünanlagen für die Gemeinde.",
-                  "category": "park",
-                  "coords": [
-                        34.631926,
-                        31.784206
-                  ]
-            },
-            {
                   "name": "Gan Avner Garin",
                   "text": "Ein Viertelpark in Aschdod mit Spielgeräten und offenen Grünflächen für Familien.",
                   "category": "park",
                   "coords": [
                         34.643424,
                         31.775967
-                  ]
-            },
-            {
-                  "name": "Gan HaVradim",
-                  "text": "Ein spezialisierter Stadtgarten in Aschdod, der verschiedenen Rosenarten und Blumenschauen gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        34.662997,
-                        31.779789
-                  ]
-            },
-            {
-                  "name": "Gan Bordeaux",
-                  "text": "Ein öffentlicher Park in Aschdod, benannt zu Ehren der französischen Partnerstadt Bordeaux.",
-                  "category": "park",
-                  "coords": [
-                        34.639555,
-                        31.801781
-                  ]
-            },
-            {
-                  "name": "Hakshatot Beach",
-                  "text": "Ein Sandstrand in Aschdod, der für seine dekorativen Betonbögen an der Küstenpromenade bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        34.632498,
-                        31.800411
                   ]
             }
       ],
@@ -3230,39 +2888,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amphi Ashdod",
-                  "text": "Izrael egyik legnagyobb szabadtéri amfiteátruma, amely egy parkban található a Földközi-tenger partján.",
-                  "category": "cultural",
-                  "coords": [
-                        34.635797,
-                        31.798758
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut Ashdod",
-                  "text": "Asdód fő előadó-művészeti központja, amely feltűnő modern építészeti stílusával és üveghomlokzatával hívja fel magára a figyelmet.",
-                  "category": "cultural",
-                  "coords": [
-                        34.636272,
-                        31.793172
-                  ]
-            },
-            {
                   "name": "Ad Halom Bridge",
                   "text": "Történelmi mamlúk kori híd a Lakis-folyón, amely az egyiptomi hadsereg elleni 1948-as csatáról híres.",
                   "category": "landmark",
                   "coords": [
                         34.669676,
                         31.781851
-                  ]
-            },
-            {
-                  "name": "The Great Dune",
-                  "text": "Egy hatalmas, 35 méter magas aktív homokdűne egy természetvédelmi területen, az utolsó ilyen Izrael partjainál.",
-                  "category": "natural",
-                  "coords": [
-                        34.653768,
-                        31.773353
                   ]
             },
             {
@@ -3281,15 +2912,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.650956,
                         31.81788
-                  ]
-            },
-            {
-                  "name": "Ben Gurion Park",
-                  "text": "Központi városi zöldterület Asdódban, amely árnyas sétautakat és kikapcsolódási lehetőséget kínál a lakóknak.",
-                  "category": "park",
-                  "coords": [
-                        34.655828,
-                        31.802628
                   ]
             },
             {
@@ -3320,15 +2942,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ashdod's museam Korin Maman",
-                  "text": "Speciális múzeum, amely a filiszteusok régészeti kultúráját mutatja be Izrael földjén.",
-                  "category": "museum",
-                  "coords": [
-                        34.640361,
-                        31.798977
-                  ]
-            },
-            {
                   "name": "Tel Mor",
                   "text": "Ősi kikötőhely és régészeti domb a Lakis-patak torkolatánál.",
                   "category": "historical",
@@ -3344,15 +2957,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.621657,
                         31.780436
-                  ]
-            },
-            {
-                  "name": "Obelisk to the Fallen Egyptian Soldiers",
-                  "text": "Egyiptomi emlékmű Ad Halomban, amelyet az Izrael és Egyiptom közötti 1979-es békeszerződés részeként emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        34.666428,
-                        31.781915
                   ]
             },
             {
@@ -3374,48 +2978,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Golda Garden",
-                  "text": "Közpark Asdódban árnyékos pihenőhelyekkel és parkosított területekkel a közösség számára.",
-                  "category": "park",
-                  "coords": [
-                        34.631926,
-                        31.784206
-                  ]
-            },
-            {
                   "name": "Gan Avner Garin",
                   "text": "Környékbeli park Asdódban játszótérrel és nyitott zöldterülettel a családok számára.",
                   "category": "park",
                   "coords": [
                         34.643424,
                         31.775967
-                  ]
-            },
-            {
-                  "name": "Gan HaVradim",
-                  "text": "Speciális városi kert Asdódban, amely különböző rózsafajtáknak és virágbemutatóknak ad otthont.",
-                  "category": "park",
-                  "coords": [
-                        34.662997,
-                        31.779789
-                  ]
-            },
-            {
-                  "name": "Gan Bordeaux",
-                  "text": "Közpark Asdódban, amelyet a franciaországi testvérváros, Bordeaux tiszteletére neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        34.639555,
-                        31.801781
-                  ]
-            },
-            {
-                  "name": "Hakshatot Beach",
-                  "text": "Asdód homokos strandja, amely a tengerparti sétányon található jellegzetes betoníveiről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        34.632498,
-                        31.800411
                   ]
             }
       ],
@@ -3430,39 +2998,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amphi Ashdod",
-                  "text": "Unul dintre cele mai mari amfiteatre în aer liber din Israel, situat într-un parc lângă țărmul Mediteranei.",
-                  "category": "cultural",
-                  "coords": [
-                        34.635797,
-                        31.798758
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut Ashdod",
-                  "text": "Principalul centru de arte spectacolului din Ashdod, având un design arhitectural modern izbitor, cu o fațadă de sticlă.",
-                  "category": "cultural",
-                  "coords": [
-                        34.636272,
-                        31.793172
-                  ]
-            },
-            {
                   "name": "Ad Halom Bridge",
                   "text": "Un pod istoric din epoca mamelucă peste râul Lachiș, renumit pentru bătălia din 1948 împotriva armatei egiptene.",
                   "category": "landmark",
                   "coords": [
                         34.669676,
                         31.781851
-                  ]
-            },
-            {
-                  "name": "The Great Dune",
-                  "text": "O dună de nisip activă masivă, înaltă de 35 de metri, aflată într-o rezervație naturală, ultima de acest fel de pe coasta Israelului.",
-                  "category": "natural",
-                  "coords": [
-                        34.653768,
-                        31.773353
                   ]
             },
             {
@@ -3481,15 +3022,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.650956,
                         31.81788
-                  ]
-            },
-            {
-                  "name": "Ben Gurion Park",
-                  "text": "Un spațiu verde urban central în Ashdod, care oferă alei umbrite și zone de recreere pentru locuitori.",
-                  "category": "park",
-                  "coords": [
-                        34.655828,
-                        31.802628
                   ]
             },
             {
@@ -3520,15 +3052,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ashdod's museam Korin Maman",
-                  "text": "Un muzeu specializat dedicat culturii arheologice a filistenilor pe pământul Israelului.",
-                  "category": "museum",
-                  "coords": [
-                        34.640361,
-                        31.798977
-                  ]
-            },
-            {
                   "name": "Tel Mor",
                   "text": "Un sit portuar antic și un dâmb arheologic situat la gura de vărsare a pârâului Lachiș.",
                   "category": "historical",
@@ -3544,15 +3067,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.621657,
                         31.780436
-                  ]
-            },
-            {
-                  "name": "Obelisk to the Fallen Egyptian Soldiers",
-                  "text": "Un monument comemorativ egiptean la Ad Halom, ridicat ca parte a tratatului de pace din 1979 dintre Israel și Egipt.",
-                  "category": "historical",
-                  "coords": [
-                        34.666428,
-                        31.781915
                   ]
             },
             {
@@ -3574,48 +3088,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Golda Garden",
-                  "text": "O grădină publică din Ashdod, cu zone de relaxare umbrite și amenajări peisagistice pentru uz comunitar.",
-                  "category": "park",
-                  "coords": [
-                        34.631926,
-                        31.784206
-                  ]
-            },
-            {
                   "name": "Gan Avner Garin",
                   "text": "Un parc de cartier în Ashdod, care oferă echipamente de joacă și spațiu verde deschis pentru familii.",
                   "category": "park",
                   "coords": [
                         34.643424,
                         31.775967
-                  ]
-            },
-            {
-                  "name": "Gan HaVradim",
-                  "text": "O grădină urbană specializată în Ashdod, dedicată diverselor specii de trandafiri și expozițiilor florale.",
-                  "category": "park",
-                  "coords": [
-                        34.662997,
-                        31.779789
-                  ]
-            },
-            {
-                  "name": "Gan Bordeaux",
-                  "text": "Un parc public din Ashdod, numit în onoarea orașului său înfrățit, Bordeaux, din Franța.",
-                  "category": "park",
-                  "coords": [
-                        34.639555,
-                        31.801781
-                  ]
-            },
-            {
-                  "name": "Hakshatot Beach",
-                  "text": "O plajă cu nisip din Ashdod, cunoscută pentru arcadele decorative de beton de-a lungul promenadei.",
-                  "category": "recreational",
-                  "coords": [
-                        34.632498,
-                        31.800411
                   ]
             }
       ],
@@ -3630,39 +3108,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amphi Ashdod",
-                  "text": "One of Israel's largest outdoor amphitheaters, situated in a park near the Mediterranean shore.",
-                  "category": "cultural",
-                  "coords": [
-                        34.635797,
-                        31.798758
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut Ashdod",
-                  "text": "Ashdod's main performing arts center, featuring a striking modern architectural design with a glass facade.",
-                  "category": "cultural",
-                  "coords": [
-                        34.636272,
-                        31.793172
-                  ]
-            },
-            {
                   "name": "Ad Halom Bridge",
                   "text": "A historic Mamluk-era bridge over the Lachish River, famous for the 1948 battle against the Egyptian army.",
                   "category": "landmark",
                   "coords": [
                         34.669676,
                         31.781851
-                  ]
-            },
-            {
-                  "name": "The Great Dune",
-                  "text": "A massive 35-meter-high active sand dune within a nature reserve, the last of its kind on Israel's coast.",
-                  "category": "natural",
-                  "coords": [
-                        34.653768,
-                        31.773353
                   ]
             },
             {
@@ -3681,15 +3132,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.650956,
                         31.81788
-                  ]
-            },
-            {
-                  "name": "Ben Gurion Park",
-                  "text": "A central urban green space in Ashdod providing shaded walking paths and recreational areas for residents.",
-                  "category": "park",
-                  "coords": [
-                        34.655828,
-                        31.802628
                   ]
             },
             {
@@ -3720,15 +3162,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ashdod's museam Korin Maman",
-                  "text": "A specialized museum dedicated to the archaeological culture of the Philistines in the land of Israel.",
-                  "category": "museum",
-                  "coords": [
-                        34.640361,
-                        31.798977
-                  ]
-            },
-            {
                   "name": "Tel Mor",
                   "text": "An ancient harbor site and archaeological mound located at the mouth of the Lachish stream.",
                   "category": "historical",
@@ -3744,15 +3177,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.621657,
                         31.780436
-                  ]
-            },
-            {
-                  "name": "Obelisk to the Fallen Egyptian Soldiers",
-                  "text": "An Egyptian memorial monument at Ad Halom erected as part of the 1979 peace treaty between Israel and Egypt.",
-                  "category": "historical",
-                  "coords": [
-                        34.666428,
-                        31.781915
                   ]
             },
             {
@@ -3774,48 +3198,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Golda Garden",
-                  "text": "A public garden in Ashdod featuring shaded seating areas and landscaping for community use.",
-                  "category": "park",
-                  "coords": [
-                        34.631926,
-                        31.784206
-                  ]
-            },
-            {
                   "name": "Gan Avner Garin",
                   "text": "A neighborhood park in Ashdod providing play equipment and open green space for families.",
                   "category": "park",
                   "coords": [
                         34.643424,
                         31.775967
-                  ]
-            },
-            {
-                  "name": "Gan HaVradim",
-                  "text": "A specialized urban garden in Ashdod dedicated to various species of roses and floral displays.",
-                  "category": "park",
-                  "coords": [
-                        34.662997,
-                        31.779789
-                  ]
-            },
-            {
-                  "name": "Gan Bordeaux",
-                  "text": "A public park in Ashdod named in honor of its sister city, Bordeaux, in France.",
-                  "category": "park",
-                  "coords": [
-                        34.639555,
-                        31.801781
-                  ]
-            },
-            {
-                  "name": "Hakshatot Beach",
-                  "text": "A sandy beach in Ashdod known for its decorative concrete arches along the coastal promenade.",
-                  "category": "recreational",
-                  "coords": [
-                        34.632498,
-                        31.800411
                   ]
             }
       ]
@@ -4191,51 +3579,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     id: "il-diamond-exchange-economic-v2", "sights": {
       "de": [
             {
-                  "name": "David Labkovsky Center for Jewish Art",
-                  "text": "Museum für jüdische Kunst, das Werke von David Labkovsky zum jüdischen Leben und dem Holocaust zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        34.821323,
-                        32.077207
-                  ]
-            },
-            {
-                  "name": "Kozlovsky Hill",
-                  "text": "Höchster Punkt in Givatayim mit Panoramablick über die Skyline von Tel Aviv.",
-                  "category": "natural",
-                  "coords": [
-                        34.816058,
-                        32.072137
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Municipality",
-                  "text": "Das moderne Verwaltungsgebäude und Sitz der Stadtverwaltung von Ramat Gan.",
-                  "category": "historical",
-                  "coords": [
-                        34.814294,
-                        32.082575
-                  ]
-            },
-            {
-                  "name": "Great Synagogue",
-                  "text": "Ein zentrales jüdisches Gotteshaus im Herzen des Stadtteils Ramat Gan.",
-                  "category": "religious",
-                  "coords": [
-                        34.815307,
-                        32.083472
-                  ]
-            },
-            {
-                  "name": "Ramat Gan",
-                  "text": "Kulturzentrum, das ein breites Spektrum an hebräischen Theateraufführungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        34.821776,
-                        32.079173
-                  ]
-            },
-            {
                   "name": "Nili",
                   "text": "Denkmal zur Erinnerung an den jüdischen Spionagering Nili im Ersten Weltkrieg.",
                   "category": "historical",
@@ -4272,15 +3615,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "HaAliya HaShniya Garden",
-                  "text": "Gedenkgarten für die zweite Einwanderungswelle mit Skulpturen und schattigen Wegen.",
-                  "category": "park",
-                  "coords": [
-                        34.814924,
-                        32.069693
-                  ]
-            },
-            {
                   "name": "Shaul Garden",
                   "text": "Ruhiger Stadtpark mit Spielplätzen und Erholungsflächen für Anwohner.",
                   "category": "park",
@@ -4296,15 +3630,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.818689,
                         32.087132
-                  ]
-            },
-            {
-                  "name": "Gan Hamelech David",
-                  "text": "Gepflegte Parkanlage in einem Wohnviertel mit Spazierwegen.",
-                  "category": "park",
-                  "coords": [
-                        34.813633,
-                        32.086174
                   ]
             },
             {
@@ -4382,51 +3707,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "David Labkovsky Center for Jewish Art",
-                  "text": "Zsidó művészeti központ, amely David Labkovsky a zsidó életet és a holokausztot bemutató műveit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        34.821323,
-                        32.077207
-                  ]
-            },
-            {
-                  "name": "Kozlovsky Hill",
-                  "text": "Givatayim legmagasabb pontja, ahonnan panorámás kilátás nyílik Tel-Aviv felhőkarcolóira.",
-                  "category": "natural",
-                  "coords": [
-                        34.816058,
-                        32.072137
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Municipality",
-                  "text": "Ramat Gan modern városházi épülete és önkormányzati központja.",
-                  "category": "historical",
-                  "coords": [
-                        34.814294,
-                        32.082575
-                  ]
-            },
-            {
-                  "name": "Great Synagogue",
-                  "text": "Központi zsidó imaház Ramat Gan negyedének szívében.",
-                  "category": "religious",
-                  "coords": [
-                        34.815307,
-                        32.083472
-                  ]
-            },
-            {
-                  "name": "Ramat Gan",
-                  "text": "Kulturális központ, amely héber nyelvű színházi előadások széles választékának ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        34.821776,
-                        32.079173
-                  ]
-            },
-            {
                   "name": "Nili",
                   "text": "Emlékmű az első világháborús Nili zsidó kémcsoport tiszteletére.",
                   "category": "historical",
@@ -4463,15 +3743,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "HaAliya HaShniya Garden",
-                  "text": "A második alijának emléket állító kert szobrokkal és árnyékos ösvényekkel.",
-                  "category": "park",
-                  "coords": [
-                        34.814924,
-                        32.069693
-                  ]
-            },
-            {
                   "name": "Shaul Garden",
                   "text": "Csendes városi park játszóterekkel és pihenőhelyekkel a helyiek számára.",
                   "category": "park",
@@ -4487,15 +3758,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.818689,
                         32.087132
-                  ]
-            },
-            {
-                  "name": "Gan Hamelech David",
-                  "text": "Gondozott park egy lakónegyedben, sétányokkal és pihenőhelyekkel.",
-                  "category": "park",
-                  "coords": [
-                        34.813633,
-                        32.086174
                   ]
             },
             {
@@ -4573,51 +3835,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "David Labkovsky Center for Jewish Art",
-                  "text": "Centru de artă evreiască ce expune lucrările lui David Labkovsky despre viața evreiască și Holocaust.",
-                  "category": "museum",
-                  "coords": [
-                        34.821323,
-                        32.077207
-                  ]
-            },
-            {
-                  "name": "Kozlovsky Hill",
-                  "text": "Cel mai înalt punct din Givatayim, oferind o vedere panoramică asupra orizontului din Tel Aviv.",
-                  "category": "natural",
-                  "coords": [
-                        34.816058,
-                        32.072137
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Municipality",
-                  "text": "Clădirea administrativă modernă și sediul primăriei din Ramat Gan.",
-                  "category": "historical",
-                  "coords": [
-                        34.814294,
-                        32.082575
-                  ]
-            },
-            {
-                  "name": "Great Synagogue",
-                  "text": "Un lăcaș de cult evreiesc central situat în inima cartierului Ramat Gan.",
-                  "category": "religious",
-                  "coords": [
-                        34.815307,
-                        32.083472
-                  ]
-            },
-            {
-                  "name": "Ramat Gan",
-                  "text": "Centru cultural care găzduiește o gamă largă de spectacole de teatru în ebraică.",
-                  "category": "cultural",
-                  "coords": [
-                        34.821776,
-                        32.079173
-                  ]
-            },
-            {
                   "name": "Nili",
                   "text": "Monument dedicat rețelei de spionaj evreiești Nili din timpul Primului Război Mondial.",
                   "category": "historical",
@@ -4654,15 +3871,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "HaAliya HaShniya Garden",
-                  "text": "Grădină memorială dedicată celei de-a doua Aliyah, cu sculpturi și alei umbrite.",
-                  "category": "park",
-                  "coords": [
-                        34.814924,
-                        32.069693
-                  ]
-            },
-            {
                   "name": "Shaul Garden",
                   "text": "Parc urban liniștit cu locuri de joacă și spații de recreere pentru localnici.",
                   "category": "park",
@@ -4678,15 +3886,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.818689,
                         32.087132
-                  ]
-            },
-            {
-                  "name": "Gan Hamelech David",
-                  "text": "Parc amenajat într-o zonă rezidențială, cu alei pentru plimbare.",
-                  "category": "park",
-                  "coords": [
-                        34.813633,
-                        32.086174
                   ]
             },
             {
@@ -4764,51 +3963,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "David Labkovsky Center for Jewish Art",
-                  "text": "Museum of Jewish art featuring David Labkovsky’s works depicting Jewish life and the Holocaust.",
-                  "category": "museum",
-                  "coords": [
-                        34.821323,
-                        32.077207
-                  ]
-            },
-            {
-                  "name": "Kozlovsky Hill",
-                  "text": "The highest point in Givatayim, offering panoramic views over the Tel Aviv skyline.",
-                  "category": "natural",
-                  "coords": [
-                        34.816058,
-                        32.072137
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Municipality",
-                  "text": "The modern administrative building and seat of the Ramat Gan municipality.",
-                  "category": "historical",
-                  "coords": [
-                        34.814294,
-                        32.082575
-                  ]
-            },
-            {
-                  "name": "Great Synagogue",
-                  "text": "A central Jewish place of worship located in the heart of the Ramat Gan district.",
-                  "category": "religious",
-                  "coords": [
-                        34.815307,
-                        32.083472
-                  ]
-            },
-            {
-                  "name": "Ramat Gan",
-                  "text": "Cultural hub hosting a wide range of Hebrew theatrical performances.",
-                  "category": "cultural",
-                  "coords": [
-                        34.821776,
-                        32.079173
-                  ]
-            },
-            {
                   "name": "Nili",
                   "text": "Monument commemorating the Nili Jewish underground spy ring during World War I.",
                   "category": "historical",
@@ -4845,15 +3999,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "HaAliya HaShniya Garden",
-                  "text": "Memorial garden honoring the Second Aliyah, featuring sculptures and shaded paths.",
-                  "category": "park",
-                  "coords": [
-                        34.814924,
-                        32.069693
-                  ]
-            },
-            {
                   "name": "Shaul Garden",
                   "text": "Quiet urban park with playgrounds and recreation areas for residents.",
                   "category": "park",
@@ -4869,15 +4014,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.818689,
                         32.087132
-                  ]
-            },
-            {
-                  "name": "Gan Hamelech David",
-                  "text": "Landscaped park in a residential area with walking paths and seating.",
-                  "category": "park",
-                  "coords": [
-                        34.813633,
-                        32.086174
                   ]
             },
             {
@@ -4992,24 +4128,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     id: "il-matam-park-economic-v2", "sights": {
       "de": [
             {
-                  "name": "The Swing",
-                  "text": "Ein beliebter Freizeitort mit einer großen Schaukel im Matam-Gewerbepark.",
-                  "category": "landmark",
-                  "coords": [
-                        34.983062,
-                        32.772995
-                  ]
-            },
-            {
-                  "name": "Freud Treehouse",
-                  "text": "Ein hölzerner Aussichtspunkt am Hang, der über die Küstenlinie von Haifa blickt.",
-                  "category": "natural",
-                  "coords": [
-                        34.979158,
-                        32.778624
-                  ]
-            },
-            {
                   "name": "Zeevik Eilon",
                   "text": "Ein Denkmal in den Hügeln von Haifa, das einem gefallenen Soldaten gewidmet ist.",
                   "category": "historical",
@@ -5110,24 +4228,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "The Swing",
-                  "text": "Népszerű pihenőhely egy nagy hintával a Matam üzleti park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        34.983062,
-                        32.772995
-                  ]
-            },
-            {
-                  "name": "Freud Treehouse",
-                  "text": "Egy különleges fa kilátó a domboldalon, ahonnan Haifa partvidékére látni.",
-                  "category": "natural",
-                  "coords": [
-                        34.979158,
-                        32.778624
-                  ]
-            },
             {
                   "name": "Zeevik Eilon",
                   "text": "Egy elesett katonának szentelt emlékoszlop Haifa dombjai között.",
@@ -5230,24 +4330,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "The Swing",
-                  "text": "Un loc de recreere popular, dotat cu un leagăn mare, situat în parcul de afaceri Matam.",
-                  "category": "landmark",
-                  "coords": [
-                        34.983062,
-                        32.772995
-                  ]
-            },
-            {
-                  "name": "Freud Treehouse",
-                  "text": "Un punct de observare din lemn situat pe deal, cu vedere spre linia de coastă a Haifei.",
-                  "category": "natural",
-                  "coords": [
-                        34.979158,
-                        32.778624
-                  ]
-            },
-            {
                   "name": "Zeevik Eilon",
                   "text": "Un monument comemorativ dedicat unui soldat căzut, situat în dealurile Haifei.",
                   "category": "historical",
@@ -5348,24 +4430,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "The Swing",
-                  "text": "A popular recreational spot featuring a large swing set within the Matam business park.",
-                  "category": "landmark",
-                  "coords": [
-                        34.983062,
-                        32.772995
-                  ]
-            },
-            {
-                  "name": "Freud Treehouse",
-                  "text": "A unique wooden lookout structure perched on the hillside above the Haifa coast.",
-                  "category": "natural",
-                  "coords": [
-                        34.979158,
-                        32.778624
-                  ]
-            },
             {
                   "name": "Zeevik Eilon",
                   "text": "A memorial monument dedicated to a fallen soldier, located near the Haifa hills.",
@@ -6945,15 +6009,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Machon Ayalon Museum",
-                  "text": "Das Machon Ayalon Museum beleuchtet die Geschichte einer geheimen Munitionsfabrik in der Region Sorek Desalination.",
-                  "category": "museum",
-                  "coords": [
-                        34.809784,
-                        31.916147
-                  ]
-            },
-            {
                   "name": "Bait Miriam",
                   "text": "Bait Miriam ist ein faszinierendes Museum im Gebiet der Sorek-Entsalzung.",
                   "category": "museum",
@@ -7041,24 +6096,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.799871,
                         31.938733
-                  ]
-            },
-            {
-                  "name": "Gan HaBanim",
-                  "text": "Gan HaBanim ist ein Denkmal, das in il-sorek-desalination-economic-v2 errichtet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        34.801829,
-                        31.901564
-                  ]
-            },
-            {
-                  "name": "Zarnuqa Mosque",
-                  "text": "Die Überreste der Zarnuqa-Moschee sind als historische Ruinen in il-sorek-desalination-economic-v2 erhalten.",
-                  "category": "historical",
-                  "coords": [
-                        34.789605,
-                        31.879363
                   ]
             },
             {
@@ -7271,15 +6308,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Machon Ayalon Museum",
-                  "text": "A Machon Ayalon Múzeum egy titkos lőszergyár történetét tárja fel a Sorek-sótalanító régióban.",
-                  "category": "museum",
-                  "coords": [
-                        34.809784,
-                        31.916147
-                  ]
-            },
-            {
                   "name": "Bait Miriam",
                   "text": "A Bait Miriam egy érdekes múzeum a Sorek-sótalanító területén.",
                   "category": "museum",
@@ -7367,24 +6395,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.799871,
                         31.938733
-                  ]
-            },
-            {
-                  "name": "Gan HaBanim",
-                  "text": "A Gan HaBanim egy emlékmű, amelyet il-sorek-desalination-economic-v2-ben állítottak.",
-                  "category": "historical",
-                  "coords": [
-                        34.801829,
-                        31.901564
-                  ]
-            },
-            {
-                  "name": "Zarnuqa Mosque",
-                  "text": "A Zarnuqa mecset maradványait történelmi romként őrzik il-sorek-desalination-economic-v2-ben.",
-                  "category": "historical",
-                  "coords": [
-                        34.789605,
-                        31.879363
                   ]
             },
             {
@@ -7597,15 +6607,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Machon Ayalon Museum",
-                  "text": "Muzeul Machon Ayalon explorează istoria unei fabrici secrete de muniții din regiunea de desalinizare Sorek.",
-                  "category": "museum",
-                  "coords": [
-                        34.809784,
-                        31.916147
-                  ]
-            },
-            {
                   "name": "Bait Miriam",
                   "text": "Bait Miriam este un muzeu intrigant situat în zona de desalinizare Sorek.",
                   "category": "museum",
@@ -7693,24 +6694,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.799871,
                         31.938733
-                  ]
-            },
-            {
-                  "name": "Gan HaBanim",
-                  "text": "Gan HaBanim este un monument comemorativ construit în il-sorek-desalination-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.801829,
-                        31.901564
-                  ]
-            },
-            {
-                  "name": "Zarnuqa Mosque",
-                  "text": "Rămășițele moscheii Zarnuqa sunt păstrate ca ruine istorice în il-sorek-desalination-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.789605,
-                        31.879363
                   ]
             },
             {
@@ -7923,15 +6906,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Machon Ayalon Museum",
-                  "text": "The Machon Ayalon Museum explores the history of a secret ammunition factory in the Sorek Desalination region.",
-                  "category": "museum",
-                  "coords": [
-                        34.809784,
-                        31.916147
-                  ]
-            },
-            {
                   "name": "Bait Miriam",
                   "text": "Bait Miriam is an intriguing museum situated in the Sorek Desalination area.",
                   "category": "museum",
@@ -8019,24 +6993,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   "coords": [
                         34.799871,
                         31.938733
-                  ]
-            },
-            {
-                  "name": "Gan HaBanim",
-                  "text": "Gan HaBanim is a memorial monument constructed in il-sorek-desalination-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.801829,
-                        31.901564
-                  ]
-            },
-            {
-                  "name": "Zarnuqa Mosque",
-                  "text": "The remains of the Zarnuqa Mosque are preserved as historical ruins in il-sorek-desalination-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.789605,
-                        31.879363
                   ]
             },
             {
@@ -8862,60 +7818,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Canaanite city gate",
-                  "text": "Das älteste gewölbte Stadttor der Welt, das fast 4.000 Jahre alt ist und aus Lehmziegeln erbaut wurde.",
-                  "category": "historical",
-                  "coords": [
-                        34.548744,
-                        31.667601
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut",
-                  "text": "Ashkelons wichtigstes Kulturzentrum, in dem regelmäßig Theateraufführungen, Konzerte und Musikabende stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        34.562022,
-                        31.664767
-                  ]
-            },
-            {
-                  "name": "Sarcophagus courtyard, Afridar",
-                  "text": "Ein archäologischer Außenbereich, in dem kunstvoll verzierte römische Steinsarkophage ausgestellt sind.",
-                  "category": "landmark",
-                  "coords": [
-                        34.568613,
-                        31.673433
-                  ]
-            },
-            {
-                  "name": "Tombs from the Roman period",
-                  "text": "Antike unterirdische Grabkammern aus der Römerzeit, die mit Fresken und feinen Steinmetzarbeiten verziert sind.",
-                  "category": "historical",
-                  "coords": [
-                        34.557637,
-                        31.678666
-                  ]
-            },
-            {
-                  "name": "Skate park",
-                  "text": "Eine moderne Freizeitanlage mit verschiedenen Rampen und Betonbahnen für Skater und BMX-Fahrer.",
-                  "category": "landmark",
-                  "coords": [
-                        34.553623,
-                        31.676735
-                  ]
-            },
-            {
-                  "name": "Abandoned Muslim cemetery",
-                  "text": "Ein historischer Friedhof des ehemaligen Dorfes Majdal mit verwitterten Grabsteinen aus vergangener Zeit.",
-                  "category": "historical",
-                  "coords": [
-                        34.583559,
-                        31.670389
-                  ]
-            },
-            {
                   "name": "Hamama",
                   "text": "Diese Fundstätte an der Küste zeigt archäologische Überreste und Mauerruinen eines einstigen Dorfes.",
                   "category": "historical",
@@ -8925,57 +7827,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Maria Viriduse church",
-                  "text": "Überreste einer mittelalterlichen Kreuzfahrerkirche, die sich innerhalb des Ashkelon-Nationalparks befinden.",
-                  "category": "historical",
-                  "coords": [
-                        34.549997,
-                        31.662609
-                  ]
-            },
-            {
-                  "name": "Amphitheater",
-                  "text": "Ein großes Freilufttheater im Nationalpark, das als Veranstaltungsort für moderne Konzerte und Shows dient.",
-                  "category": "cultural",
-                  "coords": [
-                        34.54659,
-                        31.659827
-                  ]
-            },
-            {
-                  "name": "Ashkeluna",
-                  "text": "Ein beliebter Familien-Wasserpark direkt an der Küste mit verschiedenen Rutschen und Schwimmbecken.",
-                  "category": "recreational",
-                  "coords": [
-                        34.554189,
-                        31.672629
-                  ]
-            },
-            {
                   "name": "Ashkelon Marina",
                   "text": "Ein lebhafter Yachthafen mit Anlegeplätzen, Restaurants am Wasser und einer beliebten Promenade.",
                   "category": "landmark",
                   "coords": [
                         34.555537,
                         31.68219
-                  ]
-            },
-            {
-                  "name": "Grave of Sheikh 'Awwad",
-                  "text": "Ein historisches Grabmal aus der Mamluken-Zeit, das auf einer Klippe über dem nördlichen Strand von Ashkelon liegt.",
-                  "category": "historical",
-                  "coords": [
-                        34.563089,
-                        31.687592
-                  ]
-            },
-            {
-                  "name": "Byzantine Church",
-                  "text": "Die ausgegrabenen Fundamente einer frühchristlichen Kirche mit erhaltenen Fragmenten von Bodenmosaiken.",
-                  "category": "historical",
-                  "coords": [
-                        34.567529,
-                        31.686703
                   ]
             },
             {
@@ -9116,60 +7973,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Canaanite city gate",
-                  "text": "A világ legrégebbi boltíves városkapuja, amely közel 4000 éves és vályogtéglából épült.",
-                  "category": "historical",
-                  "coords": [
-                        34.548744,
-                        31.667601
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut",
-                  "text": "Ashkelon legfontosabb kulturális központja, ahol rendszeresen tartanak színházi előadásokat és koncerteket.",
-                  "category": "cultural",
-                  "coords": [
-                        34.562022,
-                        31.664767
-                  ]
-            },
-            {
-                  "name": "Sarcophagus courtyard, Afridar",
-                  "text": "Egy szabadtéri régészeti bemutatóhely, ahol díszesen faragott római kőszarkofágok láthatók.",
-                  "category": "landmark",
-                  "coords": [
-                        34.568613,
-                        31.673433
-                  ]
-            },
-            {
-                  "name": "Tombs from the Roman period",
-                  "text": "Római kori, föld alatti sírkamrák, amelyeket freskók és finom kőfaragások díszítenek.",
-                  "category": "historical",
-                  "coords": [
-                        34.557637,
-                        31.678666
-                  ]
-            },
-            {
-                  "name": "Skate park",
-                  "text": "Modern szabadidős létesítmény különféle rámpákkal és betonpályákkal deszkások és BMX-esek számára.",
-                  "category": "landmark",
-                  "coords": [
-                        34.553623,
-                        31.676735
-                  ]
-            },
-            {
-                  "name": "Abandoned Muslim cemetery",
-                  "text": "Az egykori Majdal falu történelmi temetője, a múltból fennmaradt, megkopott sírkövekkel.",
-                  "category": "historical",
-                  "coords": [
-                        34.583559,
-                        31.670389
-                  ]
-            },
-            {
                   "name": "Hamama",
                   "text": "Ez a tengerparti lelőhely egy egykori falu régészeti maradványait és falromjait mutatja be.",
                   "category": "historical",
@@ -9179,57 +7982,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Maria Viriduse church",
-                  "text": "Egy középkori keresztes templom maradványai, amelyek az Ashkelon Nemzeti Park területén találhatók.",
-                  "category": "historical",
-                  "coords": [
-                        34.549997,
-                        31.662609
-                  ]
-            },
-            {
-                  "name": "Amphitheater",
-                  "text": "A nemzeti parkban található nagy szabadtéri színház, amely modern koncertek és előadások helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        34.54659,
-                        31.659827
-                  ]
-            },
-            {
-                  "name": "Ashkeluna",
-                  "text": "Népszerű családi vízipark közvetlenül a tengerparton, különféle csúszdákkal és medencékkel.",
-                  "category": "recreational",
-                  "coords": [
-                        34.554189,
-                        31.672629
-                  ]
-            },
-            {
                   "name": "Ashkelon Marina",
                   "text": "Élénk jachtkikötő horgonyzóhelyekkel, vízparti éttermekkel és népszerű sétánnyal.",
                   "category": "landmark",
                   "coords": [
                         34.555537,
                         31.68219
-                  ]
-            },
-            {
-                  "name": "Grave of Sheikh 'Awwad",
-                  "text": "Egy történelmi mamlúk síremlék, amely Ashkelon északi strandja feletti sziklán található.",
-                  "category": "historical",
-                  "coords": [
-                        34.563089,
-                        31.687592
-                  ]
-            },
-            {
-                  "name": "Byzantine Church",
-                  "text": "Egy kora keresztény templom feltárt alapjai, padlómozaikok fennmaradt töredékeivel.",
-                  "category": "historical",
-                  "coords": [
-                        34.567529,
-                        31.686703
                   ]
             },
             {
@@ -9370,60 +8128,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Canaanite city gate",
-                  "text": "Cea mai veche poartă arcuită din lume, veche de aproape 4.000 de ani și construită din cărămizi de lut.",
-                  "category": "historical",
-                  "coords": [
-                        34.548744,
-                        31.667601
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut",
-                  "text": "Cel mai important centru cultural din Ashkelon, unde au loc regulat spectacole de teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        34.562022,
-                        31.664767
-                  ]
-            },
-            {
-                  "name": "Sarcophagus courtyard, Afridar",
-                  "text": "O zonă arheologică în aer liber unde sunt expuse sarcofage romane din piatră, sculptate cu măiestrie.",
-                  "category": "landmark",
-                  "coords": [
-                        34.568613,
-                        31.673433
-                  ]
-            },
-            {
-                  "name": "Tombs from the Roman period",
-                  "text": "Camere funerare subterane din perioada romană, decorate cu fresce și sculpturi fine în piatră.",
-                  "category": "historical",
-                  "coords": [
-                        34.557637,
-                        31.678666
-                  ]
-            },
-            {
-                  "name": "Skate park",
-                  "text": "O facilitate modernă de recreere cu diverse rampe și piste de beton pentru skateri și bicicliști BMX.",
-                  "category": "landmark",
-                  "coords": [
-                        34.553623,
-                        31.676735
-                  ]
-            },
-            {
-                  "name": "Abandoned Muslim cemetery",
-                  "text": "Un cimitir istoric al fostului sat Majdal, cu pietre funerare erodate de timp din vremuri trecute.",
-                  "category": "historical",
-                  "coords": [
-                        34.583559,
-                        31.670389
-                  ]
-            },
-            {
                   "name": "Hamama",
                   "text": "Acest sit de pe coastă prezintă rămășițe arheologice și ruine de ziduri ale unui fost sat.",
                   "category": "historical",
@@ -9433,57 +8137,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Maria Viriduse church",
-                  "text": "Rămășițele unei biserici medievale a cruciaților, situate în interiorul Parcului Național Ashkelon.",
-                  "category": "historical",
-                  "coords": [
-                        34.549997,
-                        31.662609
-                  ]
-            },
-            {
-                  "name": "Amphitheater",
-                  "text": "Un teatru mare în aer liber în parcul național, care servește drept loc de desfășurare pentru concerte și spectacole moderne.",
-                  "category": "cultural",
-                  "coords": [
-                        34.54659,
-                        31.659827
-                  ]
-            },
-            {
-                  "name": "Ashkeluna",
-                  "text": "Un parc acvatic popular pentru familii, chiar pe coastă, cu diverse tobogane și piscine.",
-                  "category": "recreational",
-                  "coords": [
-                        34.554189,
-                        31.672629
-                  ]
-            },
-            {
                   "name": "Ashkelon Marina",
                   "text": "Un port de agrement plin de viață, cu locuri de acostare pentru iahturi, restaurante pe malul apei și o faleză populară.",
                   "category": "landmark",
                   "coords": [
                         34.555537,
                         31.68219
-                  ]
-            },
-            {
-                  "name": "Grave of Sheikh 'Awwad",
-                  "text": "Un mormânt istoric din perioada mamelucă, situat pe o faleză deasupra plajei de nord a orașului Ashkelon.",
-                  "category": "historical",
-                  "coords": [
-                        34.563089,
-                        31.687592
-                  ]
-            },
-            {
-                  "name": "Byzantine Church",
-                  "text": "Fundațiile excavate ale unei biserici creștine timpurii, cu fragmente păstrate de mozaicuri pavimentare.",
-                  "category": "historical",
-                  "coords": [
-                        34.567529,
-                        31.686703
                   ]
             },
             {
@@ -9624,60 +8283,6 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Canaanite city gate",
-                  "text": "The oldest mudbrick arched city gate in the world, dating back nearly 4,000 years to the Canaanite period.",
-                  "category": "historical",
-                  "coords": [
-                        34.548744,
-                        31.667601
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut",
-                  "text": "Ashkelon's primary cultural center, hosting regular theatrical performances, concerts, and musical events.",
-                  "category": "cultural",
-                  "coords": [
-                        34.562022,
-                        31.664767
-                  ]
-            },
-            {
-                  "name": "Sarcophagus courtyard, Afridar",
-                  "text": "An outdoor archaeological display area featuring ornately carved Roman-era stone sarcophagi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.568613,
-                        31.673433
-                  ]
-            },
-            {
-                  "name": "Tombs from the Roman period",
-                  "text": "Ancient underground burial chambers from the Roman period decorated with frescoes and fine stonework.",
-                  "category": "historical",
-                  "coords": [
-                        34.557637,
-                        31.678666
-                  ]
-            },
-            {
-                  "name": "Skate park",
-                  "text": "A modern recreational facility featuring various ramps and concrete bowls for skaters and BMX riders.",
-                  "category": "landmark",
-                  "coords": [
-                        34.553623,
-                        31.676735
-                  ]
-            },
-            {
-                  "name": "Abandoned Muslim cemetery",
-                  "text": "A historical cemetery of the former village of Majdal, featuring weathered tombstones from the past.",
-                  "category": "historical",
-                  "coords": [
-                        34.583559,
-                        31.670389
-                  ]
-            },
-            {
                   "name": "Hamama",
                   "text": "This coastal site displays archaeological remains and wall ruins of a former seaside village.",
                   "category": "historical",
@@ -9687,57 +8292,12 @@ export const poiExtraIsraelEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Maria Viriduse church",
-                  "text": "Remains of a medieval Crusader church located within the grounds of the Ashkelon National Park.",
-                  "category": "historical",
-                  "coords": [
-                        34.549997,
-                        31.662609
-                  ]
-            },
-            {
-                  "name": "Amphitheater",
-                  "text": "A large open-air theater in the national park used as a venue for modern concerts and performances.",
-                  "category": "cultural",
-                  "coords": [
-                        34.54659,
-                        31.659827
-                  ]
-            },
-            {
-                  "name": "Ashkeluna",
-                  "text": "A popular family water park right on the coast, featuring various slides and swimming pools.",
-                  "category": "recreational",
-                  "coords": [
-                        34.554189,
-                        31.672629
-                  ]
-            },
-            {
                   "name": "Ashkelon Marina",
                   "text": "A lively marina with yacht berths, seaside restaurants, and a popular walking promenade.",
                   "category": "landmark",
                   "coords": [
                         34.555537,
                         31.68219
-                  ]
-            },
-            {
-                  "name": "Grave of Sheikh 'Awwad",
-                  "text": "A historic Mamluk-era tomb situated on a cliff overlooking the northern beach of Ashkelon.",
-                  "category": "historical",
-                  "coords": [
-                        34.563089,
-                        31.687592
-                  ]
-            },
-            {
-                  "name": "Byzantine Church",
-                  "text": "The excavated foundations of an early Christian church featuring preserved fragments of floor mosaics.",
-                  "category": "historical",
-                  "coords": [
-                        34.567529,
-                        31.686703
                   ]
             },
             {

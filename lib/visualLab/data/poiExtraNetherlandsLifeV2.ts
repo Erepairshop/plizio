@@ -15,39 +15,12 @@ export const netherlandsLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "EcoMare",
-                  "text": "Ein Naturzentrum auf Texel mit einer Seehundstation, einem Aquarium und Ausstellungen über das Wattenmeer.",
-                  "category": "recreational",
-                  "coords": [
-                        4.74505,
-                        53.077685
-                  ]
-            },
-            {
-                  "name": "Oudheidkamer Texel",
-                  "text": "Ein Heimatmuseum in Den Burg, das das historische Leben und die Traditionen der Insel Texel zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        4.796318,
-                        53.05549
-                  ]
-            },
-            {
                   "name": "Museum Waelstee",
                   "text": "Ein Bauernhofmuseum auf Texel, das Einblicke in die landwirtschaftliche Geschichte der Insel bietet.",
                   "category": "museum",
                   "coords": [
                         4.82144,
                         53.072466
-                  ]
-            },
-            {
-                  "name": "Calluna",
-                  "text": "Ein beliebtes Hallenbad und Wasserpark auf der Insel Texel mit verschiedenen Freizeiteinrichtungen.",
-                  "category": "recreational",
-                  "coords": [
-                        4.769166,
-                        53.090474
                   ]
             },
             {
@@ -85,24 +58,6 @@ export const netherlandsLifeV2: POI[] = [
                         4.857647,
                         53.098598
                   ]
-            },
-            {
-                  "name": "Kinderboerderij",
-                  "text": "Ein Kinderbauernhof in den Dünen von Texel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.802054,
-                        53.061243
-                  ]
-            },
-            {
-                  "name": "Schapenboerderij Texel",
-                  "text": "Ein aktiver Schafbauernhof auf Texel, auf dem man lokale Rassen sehen kann.",
-                  "category": "recreational",
-                  "coords": [
-                        4.795337,
-                        53.041525
-                  ]
             }
       ],
       "hu": [
@@ -116,39 +71,12 @@ export const netherlandsLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "EcoMare",
-                  "text": "Természetvédelmi központ Texel szigetén fókaotthonnal, akváriummal és a Watt-tengert bemutató kiállításokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        4.74505,
-                        53.077685
-                  ]
-            },
-            {
-                  "name": "Oudheidkamer Texel",
-                  "text": "Helytörténeti múzeum Den Burgban, amely Texel szigetének történelmi életmódját és hagyományait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        4.796318,
-                        53.05549
-                  ]
-            },
-            {
                   "name": "Museum Waelstee",
                   "text": "Mezőgazdasági múzeum Texel szigetén, amely betekintést nyújt a sziget gazdálkodási múltjába.",
                   "category": "museum",
                   "coords": [
                         4.82144,
                         53.072466
-                  ]
-            },
-            {
-                  "name": "Calluna",
-                  "text": "Népszerű fedett uszoda és vízipark Texel szigetén, különféle szabadidős létesítményekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.769166,
-                        53.090474
                   ]
             },
             {
@@ -186,24 +114,6 @@ export const netherlandsLifeV2: POI[] = [
                         4.857647,
                         53.098598
                   ]
-            },
-            {
-                  "name": "Kinderboerderij",
-                  "text": "Gyermek-állatsimogató a texeli dűnék között.",
-                  "category": "recreational",
-                  "coords": [
-                        4.802054,
-                        53.061243
-                  ]
-            },
-            {
-                  "name": "Schapenboerderij Texel",
-                  "text": "Működő juhtenyészet Texelen, ahol helyi fajtákat láthatnak a látogatók.",
-                  "category": "recreational",
-                  "coords": [
-                        4.795337,
-                        53.041525
-                  ]
             }
       ],
       "ro": [
@@ -217,39 +127,12 @@ export const netherlandsLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "EcoMare",
-                  "text": "Un centru natural pe Texel cu un adăpost pentru foci, un acvariu și expoziții despre Marea Wadden.",
-                  "category": "recreational",
-                  "coords": [
-                        4.74505,
-                        53.077685
-                  ]
-            },
-            {
-                  "name": "Oudheidkamer Texel",
-                  "text": "Un muzeu de istorie locală în Den Burg, care prezintă viața istorică și tradițiile insulei Texel.",
-                  "category": "museum",
-                  "coords": [
-                        4.796318,
-                        53.05549
-                  ]
-            },
-            {
                   "name": "Museum Waelstee",
                   "text": "Un muzeu al fermei pe Texel, care oferü o perspectivă asupra istoriei agricole a insulei.",
                   "category": "museum",
                   "coords": [
                         4.82144,
                         53.072466
-                  ]
-            },
-            {
-                  "name": "Calluna",
-                  "text": "O piscină acoperită și parc acvatic popular pe insula Texel, cu diverse facilități de agrement.",
-                  "category": "recreational",
-                  "coords": [
-                        4.769166,
-                        53.090474
                   ]
             },
             {
@@ -287,24 +170,6 @@ export const netherlandsLifeV2: POI[] = [
                         4.857647,
                         53.098598
                   ]
-            },
-            {
-                  "name": "Kinderboerderij",
-                  "text": "O fermă de animale pentru copii situată în dunele de pe Texel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.802054,
-                        53.061243
-                  ]
-            },
-            {
-                  "name": "Schapenboerderij Texel",
-                  "text": "O fermă de oi activă pe Texel, unde vizitatorii pot vedea rase locale.",
-                  "category": "recreational",
-                  "coords": [
-                        4.795337,
-                        53.041525
-                  ]
             }
       ],
       "en": [
@@ -318,39 +183,12 @@ export const netherlandsLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "EcoMare",
-                  "text": "A nature centre on Texel featuring a seal sanctuary, aquarium, and exhibitions about the Wadden Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        4.74505,
-                        53.077685
-                  ]
-            },
-            {
-                  "name": "Oudheidkamer Texel",
-                  "text": "A local history museum in Den Burg showcasing the historical life and traditions of Texel island.",
-                  "category": "museum",
-                  "coords": [
-                        4.796318,
-                        53.05549
-                  ]
-            },
-            {
                   "name": "Museum Waelstee",
                   "text": "A farm museum on Texel providing insights into the island's agricultural history.",
                   "category": "museum",
                   "coords": [
                         4.82144,
                         53.072466
-                  ]
-            },
-            {
-                  "name": "Calluna",
-                  "text": "A popular indoor swimming pool and water park on Texel island with various leisure facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        4.769166,
-                        53.090474
                   ]
             },
             {
@@ -387,24 +225,6 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         4.857647,
                         53.098598
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij",
-                  "text": "A children's petting farm located within the Texel dunes.",
-                  "category": "recreational",
-                  "coords": [
-                        4.802054,
-                        53.061243
-                  ]
-            },
-            {
-                  "name": "Schapenboerderij Texel",
-                  "text": "A working sheep farm on Texel where visitors can see local breeds.",
-                  "category": "recreational",
-                  "coords": [
-                        4.795337,
-                        53.041525
                   ]
             }
       ]
@@ -753,15 +573,6 @@ export const netherlandsLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grote Praambult",
-                  "text": "Ein Aussichtspunkt im Nationalpark Nieuw Land, der einen weiten Blick über das Naturschutzgebiet ermöglicht.",
-                  "category": "natural",
-                  "coords": [
-                        5.395932,
-                        52.427565
-                  ]
-            },
-            {
                   "name": "Kleine Praambult",
                   "text": "Ein kleiner Aussichtshügel im Nationalpark Nieuw Land zur Beobachtung der Landschaft und Wildtiere.",
                   "category": "natural",
@@ -824,15 +635,6 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         5.407713,
                         52.44516
-                  ]
-            },
-            {
-                  "name": "Grote Praambult",
-                  "text": "Kilátópont a Nieuw Land Nemzeti Parkban, ahonnan széles körpanoráma nyílik a természetvédelmi területre.",
-                  "category": "natural",
-                  "coords": [
-                        5.395932,
-                        52.427565
                   ]
             },
             {
@@ -901,15 +703,6 @@ export const netherlandsLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grote Praambult",
-                  "text": "Un punct de belvedere în Parcul Național Nieuw Land, care oferă o vedere panoramică asupra rezervației.",
-                  "category": "natural",
-                  "coords": [
-                        5.395932,
-                        52.427565
-                  ]
-            },
-            {
                   "name": "Kleine Praambult",
                   "text": "Un mic deal de observație în Parcul Național Nieuw Land pentru observarea peisajului și a faunei sălbatice.",
                   "category": "natural",
@@ -972,15 +765,6 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         5.407713,
                         52.44516
-                  ]
-            },
-            {
-                  "name": "Grote Praambult",
-                  "text": "A viewpoint in Nieuw Land National Park providing a wide panorama over the nature reserve.",
-                  "category": "natural",
-                  "coords": [
-                        5.395932,
-                        52.427565
                   ]
             },
             {
@@ -2364,39 +2148,12 @@ export const netherlandsLifeV2: POI[] = [
     id: "netherlands-de-hoge-veluwe-wildlife-life-v2", "sights": {
       "de": [
             {
-                  "name": "Nederlands Tegelmuseum",
-                  "text": "Museum in Otterlo, das der Geschichte der niederländischen Fliesen und Keramik gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        5.772575,
-                        52.098511
-                  ]
-            },
-            {
-                  "name": "Museonder",
-                  "text": "Das weltweit erste unterirdische Museum, das sich mit der Geologie und Biologie unter der Erdoberfläche befasst.",
-                  "category": "museum",
-                  "coords": [
-                        5.829171,
-                        52.098069
-                  ]
-            },
-            {
                   "name": "De Hoge Veluwe",
                   "text": "Großer Nationalpark in den Niederlanden mit Wäldern, Heideflächen und Sanddünen.",
                   "category": "natural",
                   "coords": [
                         5.832574,
                         52.083081
-                  ]
-            },
-            {
-                  "name": "Kröller-Müller Museum",
-                  "text": "Kunstmuseum, das für seine umfangreiche Sammlung an Gemälden von Vincent van Gogh und seinen großen Skulpturengarten bekannt ist.",
-                  "category": "museum",
-                  "coords": [
-                        5.817593,
-                        52.095696
                   ]
             },
             {
@@ -2438,39 +2195,12 @@ export const netherlandsLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Nederlands Tegelmuseum",
-                  "text": "Otterlói múzeum, amely a holland csempék és kerámiák történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        5.772575,
-                        52.098511
-                  ]
-            },
-            {
-                  "name": "Museonder",
-                  "text": "A világ első föld alatti múzeuma, amely a felszín alatti geológiával és biológiával foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        5.829171,
-                        52.098069
-                  ]
-            },
-            {
                   "name": "De Hoge Veluwe",
                   "text": "Nagy nemzeti park Hollandiában, erdőkkel, fenyéreivel és homokdűnéivel.",
                   "category": "natural",
                   "coords": [
                         5.832574,
                         52.083081
-                  ]
-            },
-            {
-                  "name": "Kröller-Müller Museum",
-                  "text": "Vincent van Gogh festményeinek jelentős gyűjteményéről és nagy szoborparkjáról híres művészeti múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        5.817593,
-                        52.095696
                   ]
             },
             {
@@ -2512,39 +2242,12 @@ export const netherlandsLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Nederlands Tegelmuseum",
-                  "text": "Muzeu în Otterlo dedicat istoriei plăcilor de ceramică și a faianței olandeze.",
-                  "category": "museum",
-                  "coords": [
-                        5.772575,
-                        52.098511
-                  ]
-            },
-            {
-                  "name": "Museonder",
-                  "text": "Primul muzeu subteran din lume, axat pe geologia și biologia de sub suprafața pământului.",
-                  "category": "museum",
-                  "coords": [
-                        5.829171,
-                        52.098069
-                  ]
-            },
-            {
                   "name": "De Hoge Veluwe",
                   "text": "Parc național vast în Olanda, cu păduri, lande și dune de nisip.",
                   "category": "natural",
                   "coords": [
                         5.832574,
                         52.083081
-                  ]
-            },
-            {
-                  "name": "Kröller-Müller Museum",
-                  "text": "Muzeu de artă renumit pentru colecția sa extinsă de picturi de Vincent van Gogh și pentru o grădină mare de sculpturi.",
-                  "category": "museum",
-                  "coords": [
-                        5.817593,
-                        52.095696
                   ]
             },
             {
@@ -2586,39 +2289,12 @@ export const netherlandsLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Nederlands Tegelmuseum",
-                  "text": "Museum in Otterlo dedicated to the history of Dutch tiles and ceramics.",
-                  "category": "museum",
-                  "coords": [
-                        5.772575,
-                        52.098511
-                  ]
-            },
-            {
-                  "name": "Museonder",
-                  "text": "The world's first underground museum, focused on geology and biology beneath the earth's surface.",
-                  "category": "museum",
-                  "coords": [
-                        5.829171,
-                        52.098069
-                  ]
-            },
-            {
                   "name": "De Hoge Veluwe",
                   "text": "Large national park in the Netherlands featuring forests, heathlands, and sand dunes.",
                   "category": "natural",
                   "coords": [
                         5.832574,
                         52.083081
-                  ]
-            },
-            {
-                  "name": "Kröller-Müller Museum",
-                  "text": "Art museum famous for its extensive collection of paintings by Vincent van Gogh and a large sculpture garden.",
-                  "category": "museum",
-                  "coords": [
-                        5.817593,
-                        52.095696
                   ]
             },
             {
@@ -2751,15 +2427,6 @@ export const netherlandsLifeV2: POI[] = [
     id: "netherlands-nationaal-park-lauwersmeer-life-v2", "sights": {
       "de": [
             {
-                  "name": "Uitkijktoren De Baak",
-                  "text": "Ein Aussichtsturm mit Panoramablick auf den Nationalpark Lauwersmeer.",
-                  "category": "natural",
-                  "coords": [
-                        6.232706,
-                        53.327786
-                  ]
-            },
-            {
                   "name": "Vogelkijkhut",
                   "text": "Ein speziell eingerichteter Ort zur Beobachtung der vielfältigen Vogelwelt des Parks.",
                   "category": "natural",
@@ -2788,15 +2455,6 @@ export const netherlandsLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Uitkijktoren De Baak",
-                  "text": "Kilátótorony, ahonnan panorámás kilátás nyílik a Lauwersmeer Nemzeti Parkra.",
-                  "category": "natural",
-                  "coords": [
-                        6.232706,
-                        53.327786
-                  ]
-            },
             {
                   "name": "Vogelkijkhut",
                   "text": "Speciálisan kialakított hely a park változatos madárvilágának megfigyelésére.",
@@ -2827,15 +2485,6 @@ export const netherlandsLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Uitkijktoren De Baak",
-                  "text": "Un turn de observare ce oferă vederi panoramice asupra Parcului Național Lauwersmeer.",
-                  "category": "natural",
-                  "coords": [
-                        6.232706,
-                        53.327786
-                  ]
-            },
-            {
                   "name": "Vogelkijkhut",
                   "text": "Un loc special amenajat pentru observarea avifaunei diverse a parcului.",
                   "category": "natural",
@@ -2864,15 +2513,6 @@ export const netherlandsLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Uitkijktoren De Baak",
-                  "text": "An observation tower offering panoramic views of Lauwersmeer National Park.",
-                  "category": "natural",
-                  "coords": [
-                        6.232706,
-                        53.327786
-                  ]
-            },
             {
                   "name": "Bird watching viewpoint",
                   "text": "A spot designated for observing the diverse bird life of the park.",
@@ -2994,15 +2634,6 @@ export const netherlandsLifeV2: POI[] = [
     id: "netherlands-nationaal-park-weerribben-wieden-life-v2", "sights": {
       "de": [
             {
-                  "name": "Weerribben",
-                  "text": "Ein bedeutender Nationalpark in den Niederlanden, der durch seine einzigartigen Moorlandschaften geprägt ist.",
-                  "category": "natural",
-                  "coords": [
-                        5.95231,
-                        52.781141
-                  ]
-            },
-            {
                   "name": "Gildenhuys Blokzijl",
                   "text": "Ein historisches Museum im monumentalen ehemaligen Gildenhaus von Blokzijl.",
                   "category": "museum",
@@ -3031,15 +2662,6 @@ export const netherlandsLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Weerribben",
-                  "text": "Jelentős nemzeti park Hollandiában, amelyet egyedülálló tőzeglápok jellemeznek.",
-                  "category": "natural",
-                  "coords": [
-                        5.95231,
-                        52.781141
-                  ]
-            },
             {
                   "name": "Gildenhuys Blokzijl",
                   "text": "Történelmi múzeum Blokzijl egykori monumentális céhházában.",
@@ -3070,15 +2692,6 @@ export const netherlandsLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Weerribben",
-                  "text": "Un parc național important din Țările de Jos, caracterizat prin zonele sale umede unice de turbă.",
-                  "category": "natural",
-                  "coords": [
-                        5.95231,
-                        52.781141
-                  ]
-            },
-            {
                   "name": "Gildenhuys Blokzijl",
                   "text": "Un muzeu istoric situat în fosta casă monumentală a breslelor din Blokzijl.",
                   "category": "museum",
@@ -3107,15 +2720,6 @@ export const netherlandsLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Weerribben",
-                  "text": "A significant national park in the Netherlands characterized by its unique peat wetlands.",
-                  "category": "natural",
-                  "coords": [
-                        5.95231,
-                        52.781141
-                  ]
-            },
             {
                   "name": "Gildenhuys Blokzijl",
                   "text": "A historical museum located in the monumental former gild hall of Blokzijl.",
@@ -3192,33 +2796,6 @@ export const netherlandsLifeV2: POI[] = [
     id: "netherlands-nationaal-park-dwingelderveld-life-v2", "sights": {
       "de": [
             {
-                  "name": "Havezathe Batinghe",
-                  "text": "Die Überreste eines historischen Herrenhauses, das einst eine bedeutende Rolle in der Region Dwingeloo spielte.",
-                  "category": "castle",
-                  "coords": [
-                        6.354236,
-                        52.835095
-                  ]
-            },
-            {
-                  "name": "Oldengaerde",
-                  "text": "Ein gut erhaltenes Herrenhaus aus dem 15. Jahrhundert, bekannt für seine historische Architektur und Gärten.",
-                  "category": "castle",
-                  "coords": [
-                        6.346326,
-                        52.822858
-                  ]
-            },
-            {
-                  "name": "Westrup",
-                  "text": "Ein ehemaliger Adelsitz in Dwingeloo, der heute als historisches Baudenkmal in der Provinz Drente steht.",
-                  "category": "castle",
-                  "coords": [
-                        6.366494,
-                        52.836063
-                  ]
-            },
-            {
                   "name": "Grafheuvel",
                   "text": "Ein prähistorischer Grabhügel im Nationalpark Dwingelderveld, der Zeugnis von antiken Bestattungsritualen ablegt.",
                   "category": "historical",
@@ -3235,72 +2812,9 @@ export const netherlandsLifeV2: POI[] = [
                         6.368203,
                         52.82239
                   ]
-            },
-            {
-                  "name": "Schaapskooi Ruinen",
-                  "text": "Ein traditioneller Schafstall im Nationalpark, der eine der größten Schafherden der Niederlande beherbergt.",
-                  "category": "landmark",
-                  "coords": [
-                        6.381615,
-                        52.784168
-                  ]
-            },
-            {
-                  "name": "Benderse Berg",
-                  "text": "Ein Aussichtspunkt im Nationalpark Dwingelderveld, der einen weiten Blick über die Heideflächen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.392016,
-                        52.793822
-                  ]
-            },
-            {
-                  "name": "Bezoekerscentrum Dwingelderveld",
-                  "text": "Das Besucherzentrum bietet Informationen über die Natur und Wanderwege im Nationalpark Dwingelderveld.",
-                  "category": "landmark",
-                  "coords": [
-                        6.373396,
-                        52.781535
-                  ]
-            },
-            {
-                  "name": "Zwembad Ruinen",
-                  "text": "Ein beheiztes Freibad am Rande des Nationalparks Dwingelderveld.",
-                  "category": "recreational",
-                  "coords": [
-                        6.368294,
-                        52.773744
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Havezathe Batinghe",
-                  "text": "Egy történelmi udvarház maradványai, amely egykor jelentős szerepet játszott Dwingeloo környékén.",
-                  "category": "castle",
-                  "coords": [
-                        6.354236,
-                        52.835095
-                  ]
-            },
-            {
-                  "name": "Oldengaerde",
-                  "text": "Egy jól megőrzött 15. századi udvarház, amely történelmi építészetéről és kertjeiről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        6.346326,
-                        52.822858
-                  ]
-            },
-            {
-                  "name": "Westrup",
-                  "text": "Egykori nemesi lakóhely Dwingelooban, amely ma történelmi műemlék Drenthe tartományban.",
-                  "category": "castle",
-                  "coords": [
-                        6.366494,
-                        52.836063
-                  ]
-            },
             {
                   "name": "Grafheuvel",
                   "text": "Prehisztorikus sírhalom a Dwingelderveld Nemzeti Parkban, amely ősi temetkezési rituálékról tanúskodik.",
@@ -3318,72 +2832,9 @@ export const netherlandsLifeV2: POI[] = [
                         6.368203,
                         52.82239
                   ]
-            },
-            {
-                  "name": "Schaapskooi Ruinen",
-                  "text": "Hagyományos juhakol a nemzeti parkban, amely Hollandia egyik legnagyobb juhnyájának ad otthont.",
-                  "category": "landmark",
-                  "coords": [
-                        6.381615,
-                        52.784168
-                  ]
-            },
-            {
-                  "name": "Benderse Berg",
-                  "text": "Kilátópont a Dwingelderveld Nemzeti Parkban, amely tágas kilátást nyújt a fenyérmezőkre.",
-                  "category": "natural",
-                  "coords": [
-                        6.392016,
-                        52.793822
-                  ]
-            },
-            {
-                  "name": "Bezoekerscentrum Dwingelderveld",
-                  "text": "A látogatóközpont információkat nyújt a Dwingelderveld Nemzeti Park természetéről és túraútvonalairól.",
-                  "category": "landmark",
-                  "coords": [
-                        6.373396,
-                        52.781535
-                  ]
-            },
-            {
-                  "name": "Zwembad Ruinen",
-                  "text": "Fűtött szabadtéri strand a Dwingelderveld Nemzeti Park szélén.",
-                  "category": "recreational",
-                  "coords": [
-                        6.368294,
-                        52.773744
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Havezathe Batinghe",
-                  "text": "Vestigiile unei conac istoric care a jucat un rol semnificativ în regiunea Dwingeloo.",
-                  "category": "castle",
-                  "coords": [
-                        6.354236,
-                        52.835095
-                  ]
-            },
-            {
-                  "name": "Oldengaerde",
-                  "text": "Un conac bine conservat din secolul al XV-lea, renumit pentru arhitectura sa istorică și grădinile sale.",
-                  "category": "castle",
-                  "coords": [
-                        6.346326,
-                        52.822858
-                  ]
-            },
-            {
-                  "name": "Westrup",
-                  "text": "O fostă reședință nobiliară din Dwingeloo, care astăzi este un monument istoric în provincia Drenthe.",
-                  "category": "castle",
-                  "coords": [
-                        6.366494,
-                        52.836063
-                  ]
-            },
             {
                   "name": "Grafheuvel",
                   "text": "O gorgană preistorică în Parcul Național Dwingelderveld, care atestă ritualurile funerare antice.",
@@ -3401,72 +2852,9 @@ export const netherlandsLifeV2: POI[] = [
                         6.368203,
                         52.82239
                   ]
-            },
-            {
-                  "name": "Schaapskooi Ruinen",
-                  "text": "Un staul tradițional de oi din parcul național, care adăpostește una dintre cele mai mari turme de oi din Olanda.",
-                  "category": "landmark",
-                  "coords": [
-                        6.381615,
-                        52.784168
-                  ]
-            },
-            {
-                  "name": "Benderse Berg",
-                  "text": "Un punct de belvedere în Parcul Național Dwingelderveld, oferind o vedere panoramică asupra câmpiei de iarbă neagră.",
-                  "category": "natural",
-                  "coords": [
-                        6.392016,
-                        52.793822
-                  ]
-            },
-            {
-                  "name": "Bezoekerscentrum Dwingelderveld",
-                  "text": "Centrul de vizitatori oferă informații despre natura și traseele de drumeție din Parcul Național Dwingelderveld.",
-                  "category": "landmark",
-                  "coords": [
-                        6.373396,
-                        52.781535
-                  ]
-            },
-            {
-                  "name": "Zwembad Ruinen",
-                  "text": "O piscină în aer liber încălzită, la marginea Parcului Național Dwingelderveld.",
-                  "category": "recreational",
-                  "coords": [
-                        6.368294,
-                        52.773744
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Havezathe Batinghe",
-                  "text": "The remains of a historic manor house that once played a significant role in the Dwingeloo area.",
-                  "category": "castle",
-                  "coords": [
-                        6.354236,
-                        52.835095
-                  ]
-            },
-            {
-                  "name": "Oldengaerde",
-                  "text": "A well-preserved 15th-century manor house known for its historic architecture and gardens.",
-                  "category": "castle",
-                  "coords": [
-                        6.346326,
-                        52.822858
-                  ]
-            },
-            {
-                  "name": "Westrup",
-                  "text": "A former noble residence in Dwingeloo, which today stands as a historical monument in Drenthe province.",
-                  "category": "castle",
-                  "coords": [
-                        6.366494,
-                        52.836063
-                  ]
-            },
             {
                   "name": "Grafheuvel",
                   "text": "A prehistoric burial mound in the Dwingelderveld National Park, testifying to ancient burial rituals.",
@@ -3483,42 +2871,6 @@ export const netherlandsLifeV2: POI[] = [
                   "coords": [
                         6.368203,
                         52.82239
-                  ]
-            },
-            {
-                  "name": "Schaapskooi Ruinen",
-                  "text": "A traditional sheepfold in the national park, home to one of the largest flocks of sheep in the Netherlands.",
-                  "category": "landmark",
-                  "coords": [
-                        6.381615,
-                        52.784168
-                  ]
-            },
-            {
-                  "name": "Benderse Berg",
-                  "text": "A viewpoint in the Dwingelderveld National Park, offering an expansive view over the heathlands.",
-                  "category": "natural",
-                  "coords": [
-                        6.392016,
-                        52.793822
-                  ]
-            },
-            {
-                  "name": "Bezoekerscentrum Dwingelderveld",
-                  "text": "The visitor center provides information about the nature and hiking trails in the Dwingelderveld National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        6.373396,
-                        52.781535
-                  ]
-            },
-            {
-                  "name": "Zwembad Ruinen",
-                  "text": "A heated outdoor swimming pool at the edge of Dwingelderveld National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        6.368294,
-                        52.773744
                   ]
             }
       ]

@@ -2671,15 +2671,6 @@ imageHint: "Mirador Steinfort nature center building",
     id: "luxembourg-stolzembourg-nature-life-v2", "sights": {
       "de": [
             {
-                  "name": "Burg Falkenstein",
-                  "text": "Eine mittelalterliche Burgruine über dem Tal der Our im Grenzgebiet zu Luxemburg.",
-                  "category": "castle",
-                  "coords": [
-                        6.195155,
-                        49.969938
-                  ]
-            },
-            {
                   "name": "Kupfergrube in Stolzemburg",
                   "text": "Ein Besucherbergwerk in Stolzemburg, das die Geschichte des Kupferbergbaus dokumentiert.",
                   "category": "museum",
@@ -2695,15 +2686,6 @@ imageHint: "Mirador Steinfort nature center building",
                   "coords": [
                         6.166141,
                         49.965782
-                  ]
-            },
-            {
-                  "name": "Ourschleife/Falkenstein",
-                  "text": "Ein Naturschutzgebiet an der Our-Schleife mit bedeutender Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        6.193666,
-                        49.963749
                   ]
             },
             {
@@ -2741,27 +2723,9 @@ imageHint: "Mirador Steinfort nature center building",
                         6.184108,
                         49.949911
                   ]
-            },
-            {
-                  "name": "Piscine de Vianden",
-                  "text": "Ein Schwimmbad in Vianden, gelegen in der Nähe des Waldes von Stolzembourg.",
-                  "category": "recreational",
-                  "coords": [
-                        6.209628,
-                        49.937428
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Burg Falkenstein",
-                  "text": "Középkori várrom az Our-folyó völgye felett, a luxemburgi határvidéken.",
-                  "category": "castle",
-                  "coords": [
-                        6.195155,
-                        49.969938
-                  ]
-            },
             {
                   "name": "Koffergrouf vu Stolzebuerg",
                   "text": "Látogatható bánya Stolzemburgban, amely a rézbányászat történetét mutatja be.",
@@ -2778,15 +2742,6 @@ imageHint: "Mirador Steinfort nature center building",
                   "coords": [
                         6.166141,
                         49.965782
-                  ]
-            },
-            {
-                  "name": "Ourschleife/Falkenstein",
-                  "text": "Természetvédelmi terület az Our-folyó kanyarulatánál, jelentős élővilággal.",
-                  "category": "natural",
-                  "coords": [
-                        6.193666,
-                        49.963749
                   ]
             },
             {
@@ -2824,27 +2779,9 @@ imageHint: "Mirador Steinfort nature center building",
                         6.184108,
                         49.949911
                   ]
-            },
-            {
-                  "name": "Piscine de Vianden",
-                  "text": "Uszoda Viandenben, a Stolzembourg-i erdő közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        6.209628,
-                        49.937428
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Burg Falkenstein",
-                  "text": "O ruină de castel medieval deasupra văii râului Our, la granița cu Luxemburg.",
-                  "category": "castle",
-                  "coords": [
-                        6.195155,
-                        49.969938
-                  ]
-            },
             {
                   "name": "Koffergrouf vu Stolzebuerg",
                   "text": "O mină vizitabilă în Stolzemburg, care documentează istoria exploatării cuprului.",
@@ -2861,15 +2798,6 @@ imageHint: "Mirador Steinfort nature center building",
                   "coords": [
                         6.166141,
                         49.965782
-                  ]
-            },
-            {
-                  "name": "Ourschleife/Falkenstein",
-                  "text": "O rezervație naturală la cotul râului Our, cu o floră și faună importantă.",
-                  "category": "natural",
-                  "coords": [
-                        6.193666,
-                        49.963749
                   ]
             },
             {
@@ -2907,27 +2835,9 @@ imageHint: "Mirador Steinfort nature center building",
                         6.184108,
                         49.949911
                   ]
-            },
-            {
-                  "name": "Piscine de Vianden",
-                  "text": "O piscină în Vianden, situată lângă pădurea Stolzembourg.",
-                  "category": "recreational",
-                  "coords": [
-                        6.209628,
-                        49.937428
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Burg Falkenstein",
-                  "text": "A medieval castle ruin overlooking the Our valley in the border region near Luxembourg.",
-                  "category": "castle",
-                  "coords": [
-                        6.195155,
-                        49.969938
-                  ]
-            },
             {
                   "name": "Koffergrouf vu Stolzebuerg",
                   "text": "A former copper mine in Stolzembourg now operating as a museum for visitors.",
@@ -2944,15 +2854,6 @@ imageHint: "Mirador Steinfort nature center building",
                   "coords": [
                         6.166141,
                         49.965782
-                  ]
-            },
-            {
-                  "name": "Ourschleife/Falkenstein",
-                  "text": "A nature reserve along the loop of the Our River, known for its biodiversity.",
-                  "category": "natural",
-                  "coords": [
-                        6.193666,
-                        49.963749
                   ]
             },
             {
@@ -2989,15 +2890,6 @@ imageHint: "Mirador Steinfort nature center building",
                   "coords": [
                         6.184108,
                         49.949911
-                  ]
-            },
-            {
-                  "name": "Piscine de Vianden",
-                  "text": "A swimming pool in Vianden, located near the forest of Stolzembourg.",
-                  "category": "recreational",
-                  "coords": [
-                        6.209628,
-                        49.937428
                   ]
             }
       ]

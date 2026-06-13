@@ -578,15 +578,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                         43.649747,
                         3.114614
                   ]
-            },
-            {
-                  "name": "Buundada",
-                  "text": "Buundada ist eine markante Brücke in Baidoa, die den Hauptweg zum Marktviertel überquert.",
-                  "category": "landmark",
-                  "coords": [
-                        43.646985,
-                        3.116072
-                  ]
             }
       ],
       "hu": [
@@ -597,15 +588,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                   "coords": [
                         43.649747,
                         3.114614
-                  ]
-            },
-            {
-                  "name": "Buundada",
-                  "text": "A Buundada egy jellegzetes híd Baidoában, amely a piaci negyedhez vezető főutat keresztezi.",
-                  "category": "landmark",
-                  "coords": [
-                        43.646985,
-                        3.116072
                   ]
             }
       ],
@@ -618,15 +600,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                         43.649747,
                         3.114614
                   ]
-            },
-            {
-                  "name": "Buundada",
-                  "text": "Buundada este un pod proeminent în Baidoa, traversând drumul principal spre zona pieței.",
-                  "category": "landmark",
-                  "coords": [
-                        43.646985,
-                        3.116072
-                  ]
             }
       ],
       "en": [
@@ -637,15 +610,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                   "coords": [
                         43.649747,
                         3.114614
-                  ]
-            },
-            {
-                  "name": "Buundada",
-                  "text": "Buundada is a prominent bridge in Baidoa, crossing the main road to the market district.",
-                  "category": "landmark",
-                  "coords": [
-                        43.646985,
-                        3.116072
                   ]
             }
       ]
@@ -738,24 +702,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     id: "kismayo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Kibora Beach",
-                  "text": "Entlang der Küstenlinie von Kismayo erstreckt sich der Kibora Beach, der als atemberaubender Aussichtspunkt über dem Ozean dient. Die Atmosphäre ist greifbar dynamisch, geprägt durch die lokale maritime Kultur und die stetige Meeresbrise. Es ist ein fantastischer Ort, um spazieren zu gehen, über das weite Wasser zu blicken und die Wärme der somalischen Küste zu spüren. Der späte Nachmittag ist eine besonders spektakuläre Zeit für einen Besuch.",
-                  "category": "natural",
-                  "coords": [
-                        42.564411,
-                        -0.348161
-                  ]
-            },
-            {
-                  "name": "Olympic",
-                  "text": "Olympic ist ein Sportstadion in Kismayo, das für Leichtathletik und Fußball genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        42.552297,
-                        -0.352198
-                  ]
-            },
-            {
                   "name": "Al-Th",
                   "text": "Al-Th ist ein hoher Sendeturm in Kismayo, der die Rundfunkversorgung der Region sicherstellt.",
                   "category": "landmark",
@@ -763,45 +709,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                         42.554578,
                         -0.344785
                   ]
-            },
-            {
-                  "name": "shibiin",
-                  "text": "Shibiin ist eine natürliche Süßwasserquelle in Kismayo, die von der lokalen Bevölkerung genutzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        42.542835,
-                        -0.363536
-                  ]
-            },
-            {
-                  "name": "BRDM-2 Wreck",
-                  "text": "BRDM-2 Wreck ist eine einzigartige Attraktion in Kismayo.",
-                  "category": "landmark",
-                  "coords": [
-                        42.543868,
-                        -0.365666
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kibora Beach",
-                  "text": "A Kismayo partvidékén végignyúló Kibora Beach lenyűgöző, festői kilátópontként szolgál az óceán felett. Az általános atmoszféra élénk és dinamikus, amelyet nagyrészt a helyi tengeri kultúra és a simogató tengeri szellő formál. Fantasztikus hely ez egy sétára, a végtelen vízben való gyönyörködésre és a szomáliai partok melegének megtapasztalására. A késő délutáni órák rendkívül alkalmasak a látogatásra.",
-                  "category": "natural",
-                  "coords": [
-                        42.564411,
-                        -0.348161
-                  ]
-            },
-            {
-                  "name": "Olympic",
-                  "text": "Az Olympic egy sportstadion Kismayóban, atlétikai és futballmérkőzések számára.",
-                  "category": "landmark",
-                  "coords": [
-                        42.552297,
-                        -0.352198
-                  ]
-            },
             {
                   "name": "Al-Th",
                   "text": "Az Al-Th egy magas adótorony Kismayóban, amely a régió rádióellátását biztosítja.",
@@ -810,45 +720,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                         42.554578,
                         -0.344785
                   ]
-            },
-            {
-                  "name": "shibiin",
-                  "text": "A Shibiin egy természetes édesvízforrás Kismayóban, amelyet a helyi lakosság használ.",
-                  "category": "natural",
-                  "coords": [
-                        42.542835,
-                        -0.363536
-                  ]
-            },
-            {
-                  "name": "BRDM-2 Wreck",
-                  "text": "A BRDM-2 Wreck egy egyedülálló látványosság Kismayo területén.",
-                  "category": "landmark",
-                  "coords": [
-                        42.543868,
-                        -0.365666
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Kibora Beach",
-                  "text": "Întinzându-se de-a lungul zonei de coastă din Kismayo, Kibora Beach servește drept un punct de observare pitoresc uimitor asupra oceanului. Atmosfera generală este viu dinamică, fiind în mare parte conturată de cultura maritimă locală și de briza mării. Este un loc fantastic pentru a vă plimba, pentru a privi vasta apă și pentru a experimenta cu adevărat căldura coastei somaleze. După-amiaza târziu este un moment spectaculos de bun pentru a fi vizitată.",
-                  "category": "natural",
-                  "coords": [
-                        42.564411,
-                        -0.348161
-                  ]
-            },
-            {
-                  "name": "Olympic",
-                  "text": "Olympic este un stadion sportiv în Kismayo, folosit pentru atletism și fotbal.",
-                  "category": "landmark",
-                  "coords": [
-                        42.552297,
-                        -0.352198
-                  ]
-            },
             {
                   "name": "Al-Th",
                   "text": "Al-Th este un turn de transmisie înalt în Kismayo, care asigură acoperirea radio a regiunii.",
@@ -857,45 +731,9 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                         42.554578,
                         -0.344785
                   ]
-            },
-            {
-                  "name": "shibiin",
-                  "text": "Shibiin este un izvor natural de apă dulce în Kismayo, folosit de populația locală.",
-                  "category": "natural",
-                  "coords": [
-                        42.542835,
-                        -0.363536
-                  ]
-            },
-            {
-                  "name": "BRDM-2 Wreck",
-                  "text": "BRDM-2 Wreck este o atracție unică situată în Kismayo.",
-                  "category": "landmark",
-                  "coords": [
-                        42.543868,
-                        -0.365666
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kibora Beach",
-                  "text": "Stretching out along the coastline of Kismayo, Kibora Beach serves as a stunning scenic viewpoint over the ocean. The overall atmosphere is vividly dynamic, largely shaped by the local maritime culture and the sweeping sea breeze. It is a fantastic place to walk, gaze out at the expansive water, and truly experience the warmth of the Somali coast. The late afternoon is a spectacularly good time to plan your visit.",
-                  "category": "natural",
-                  "coords": [
-                        42.564411,
-                        -0.348161
-                  ]
-            },
-            {
-                  "name": "Olympic",
-                  "text": "Olympic is a sports stadium in Kismayo, used for athletics and football.",
-                  "category": "landmark",
-                  "coords": [
-                        42.552297,
-                        -0.352198
-                  ]
-            },
             {
                   "name": "Al-Th",
                   "text": "Al-Th is a tall transmission tower in Kismayo, providing radio coverage to the region.",
@@ -903,24 +741,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                   "coords": [
                         42.554578,
                         -0.344785
-                  ]
-            },
-            {
-                  "name": "shibiin",
-                  "text": "Shibiin is a natural freshwater spring in Kismayo, used by the local population.",
-                  "category": "natural",
-                  "coords": [
-                        42.542835,
-                        -0.363536
-                  ]
-            },
-            {
-                  "name": "BRDM-2 Wreck",
-                  "text": "BRDM-2 Wreck is a unique attraction situated in Kismayo.",
-                  "category": "landmark",
-                  "coords": [
-                        42.543868,
-                        -0.365666
                   ]
             }
       ]
@@ -2467,50 +2287,10 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
   },
   {
     id: "eyl-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Fort Dhowre Ali Sheneeleh",
-                  "text": "Festung aus dem Jahr 1917 in Eyl, Somalia.",
-                  "category": "castle",
-                  "coords": [
-                        49.818651,
-                        7.97967
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Fort Dhowre Ali Sheneeleh",
-                  "text": "1917-ben épült erőd Eylben, Szomáliában.",
-                  "category": "castle",
-                  "coords": [
-                        49.818651,
-                        7.97967
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Fort Dhowre Ali Sheneeleh",
-                  "text": "Fortăreață construită în 1917 în Eyl, Somalia.",
-                  "category": "castle",
-                  "coords": [
-                        49.818651,
-                        7.97967
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Fort Dhowre Ali Sheneeleh",
-                  "text": "Fort built in 1917 in Eyl, Somalia.",
-                  "category": "castle",
-                  "coords": [
-                        49.818651,
-                        7.97967
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SO-NU",
@@ -2616,15 +2396,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                         48.421048,
                         9.150991
                   ]
-            },
-            {
-                  "name": "Falat",
-                  "text": "Falat ist eine Steinburg in Taleh mit dicken Mauern und einem zentralen Turm.",
-                  "category": "castle",
-                  "coords": [
-                        48.41856,
-                        9.148669
-                  ]
             }
       ],
       "hu": [
@@ -2644,15 +2415,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                   "coords": [
                         48.421048,
                         9.150991
-                  ]
-            },
-            {
-                  "name": "Falat",
-                  "text": "A Falat egy kővár Talehben, vastag falakkal és központi toronnyal.",
-                  "category": "castle",
-                  "coords": [
-                        48.41856,
-                        9.148669
                   ]
             }
       ],
@@ -2674,15 +2436,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                         48.421048,
                         9.150991
                   ]
-            },
-            {
-                  "name": "Falat",
-                  "text": "Falat este un castel de piatră în Taleh, cu ziduri groase și un turn central.",
-                  "category": "castle",
-                  "coords": [
-                        48.41856,
-                        9.148669
-                  ]
             }
       ],
       "en": [
@@ -2702,15 +2455,6 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
                   "coords": [
                         48.421048,
                         9.150991
-                  ]
-            },
-            {
-                  "name": "Falat",
-                  "text": "Falat is a stone castle in Taleh with thick walls and a central tower.",
-                  "category": "castle",
-                  "coords": [
-                        48.41856,
-                        9.148669
                   ]
             }
       ]

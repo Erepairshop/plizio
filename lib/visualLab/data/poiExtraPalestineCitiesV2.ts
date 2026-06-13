@@ -15,24 +15,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ticho House",
-                  "text": "Museum im historischen Haus aus dem 19. Jahrhundert mit Garten in Jerusalem.",
-                  "category": "museum",
-                  "coords": [
-                        35.219716,
-                        31.783467
-                  ]
-            },
-            {
-                  "name": "Kreuzkloster",
-                  "text": "Griechisch-orthodoxes Kloster aus dem 11. Jahrhundert im Kreuztal von Jerusalem.",
-                  "category": "castle",
-                  "coords": [
-                        35.208249,
-                        31.772019
-                  ]
-            },
-            {
                   "name": "Päpstliches Bibelinstitut",
                   "text": "Museum für biblische Archäologie mit alten Handschriften in Jerusalem.",
                   "category": "museum",
@@ -96,39 +78,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cardo",
-                  "text": "Säulengeschmückte römische Straße aus dem 2. Jahrhundert im jüdischen Viertel Jerusalems.",
-                  "category": "historical",
-                  "coords": [
-                        35.2309,
-                        31.775029
-                  ]
-            },
-            {
                   "name": "Ammunition Hill",
                   "text": "Gedenkstätte für die Schlacht von 1967 mit Museum auf der Munitionshügel in Jerusalem.",
                   "category": "historical",
                   "coords": [
                         35.22784,
                         31.798159
-                  ]
-            },
-            {
-                  "name": "Neues Tor",
-                  "text": "1889 erbautes Tor, eines der acht Tore der Jerusalemer Altstadt.",
-                  "category": "fortress",
-                  "coords": [
-                        35.226189,
-                        31.779305
-                  ]
-            },
-            {
-                  "name": "Jaffator",
-                  "text": "Haupttor der Jerusalemer Altstadt, das zur Jaffa-Straße führt.",
-                  "category": "fortress",
-                  "coords": [
-                        35.227544,
-                        31.776628
                   ]
             },
             {
@@ -150,15 +105,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grab des Lazarus",
-                  "text": "Traditionelles Grab des Lazarus in Betanien (Al-Eizariya) bei Jerusalem.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
-                  ]
-            },
-            {
                   "name": "Markuskirche",
                   "text": "Syrisch-orthodoxe Kirche im armenischen Viertel, traditionell Ort des letzten Abendmahls.",
                   "category": "religious",
@@ -177,24 +123,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chapelle Saint Vincent de Paul",
-                  "text": "Römisch-katholische Kapelle der Barmherzigen Schwestern in Jerusalem.",
-                  "category": "religious",
-                  "coords": [
-                        35.225107,
-                        31.777914
-                  ]
-            },
-            {
-                  "name": "Toroskirche",
-                  "text": "Armenische Kirche im armenischen Viertel Jerusalems, dem Märtyrer Toros geweiht.",
-                  "category": "religious",
-                  "coords": [
-                        35.229111,
-                        31.774796
-                  ]
-            },
-            {
                   "name": "Kleine Westmauer",
                   "text": "Kürzerer Abschnitt der Klagemauer in Jerusalem, genutzt für Gebete.",
                   "category": "religious",
@@ -210,24 +138,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.211569,
                         31.781996
-                  ]
-            },
-            {
-                  "name": "Kettendom",
-                  "text": "Islamischer Kuppelbau auf dem Tempelberg, genutzt als Gebetshalle.",
-                  "category": "religious",
-                  "coords": [
-                        35.235736,
-                        31.778079
-                  ]
-            },
-            {
-                  "name": "Salvatorkirche",
-                  "text": "Das 1885 erbaute Kloster St. Salvator in Ost-Jerusalem.",
-                  "category": "religious",
-                  "coords": [
-                        35.227392,
-                        31.779012
                   ]
             },
             {
@@ -258,30 +168,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teich von Siloah",
-                  "text": "Antiker Wasserteich in der Davidsstadt, in der Bibel erwähnt.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235123,
-                        31.770401
-                  ]
-            },
-            {
                   "name": "Warren's Shaft",
                   "text": "Bronzezeitlicher Wasserschacht, der zur Gihonquelle führte.",
                   "category": "landmark",
                   "coords": [
                         35.236067,
                         31.773123
-                  ]
-            },
-            {
-                  "name": "Zionstor",
-                  "text": "Stadttor von 1540 in der Altstadtmauer Jerusalems.",
-                  "category": "landmark",
-                  "coords": [
-                        35.229638,
-                        31.772857
                   ]
             },
             {
@@ -321,24 +213,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alliance Gate",
-                  "text": "Torbogen der ehemaligen Alliance-Schule in Jerusalem.",
-                  "category": "landmark",
-                  "coords": [
-                        35.215269,
-                        31.784213
-                  ]
-            },
-            {
-                  "name": "Berg Zion",
-                  "text": "Ein Berg von großer religiöser und historischer Bedeutung.",
-                  "category": "natural",
-                  "coords": [
-                        35.228657,
-                        31.77162
-                  ]
-            },
-            {
                   "name": "Burial Cave",
                   "text": "Antike Begräbnisstätte, identifiziert als das Blutacker (Akeldama).",
                   "category": "natural",
@@ -375,33 +249,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artist's House",
-                  "text": "Kulturzentrum und Galerie in einem historischen Gebäude im Jerusalemer Zentrum.",
-                  "category": "museum",
-                  "coords": [
-                        35.214448,
-                        31.779946
-                  ]
-            },
-            {
-                  "name": "Gush Katif Museum",
-                  "text": "Museum zum Gedenken an die evakuierten Siedlungen von Gusch Katif.",
-                  "category": "museum",
-                  "coords": [
-                        35.209147,
-                        31.78605
-                  ]
-            },
-            {
-                  "name": "Museum for Islamic Art",
-                  "text": "Museum for Islamic Art in Ostjerusalem, eine bedeutende kulturelle Sammlung.",
-                  "category": "museum",
-                  "coords": [
-                        35.213024,
-                        31.768604
-                  ]
-            },
-            {
                   "name": "Friends of Zion Museum",
                   "text": "Museum über die christliche Unterstützung des Zionismus.",
                   "category": "museum",
@@ -418,24 +265,6 @@ export const palestineCitiesV2: POI[] = [
                         35.22407,
                         31.78191
                   ]
-            },
-            {
-                  "name": "Israel Museum",
-                  "text": "Israel Museum in Ostjerusalem, eines der weltweit bedeutendsten Museen für Kunst und Archäologie.",
-                  "category": "museum",
-                  "coords": [
-                        35.203245,
-                        31.77229
-                  ]
-            },
-            {
-                  "name": "Chain Gate",
-                  "text": "Kettentor in Ostjerusalem, eine bedeutende archäologische Stätte.",
-                  "category": "historical",
-                  "coords": [
-                        35.234297,
-                        31.777272
-                  ]
             }
       ],
       "hu": [
@@ -446,24 +275,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.232698,
                         31.775593
-                  ]
-            },
-            {
-                  "name": "Ticho House",
-                  "text": "Múzeum egy 19. századi történelmi házban, kerttel Jeruzsálemben.",
-                  "category": "museum",
-                  "coords": [
-                        35.219716,
-                        31.783467
-                  ]
-            },
-            {
-                  "name": "Monastery of the Cross",
-                  "text": "11. századi görög ortodox kolostor Jeruzsálem Kereszt-völgyében.",
-                  "category": "castle",
-                  "coords": [
-                        35.208249,
-                        31.772019
                   ]
             },
             {
@@ -530,39 +341,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cardo",
-                  "text": "Oszlopos római utca a 2. századból Jeruzsálem zsidó negyedében.",
-                  "category": "historical",
-                  "coords": [
-                        35.2309,
-                        31.775029
-                  ]
-            },
-            {
                   "name": "Ammunition Hill",
                   "text": "Az 1967-es csata emlékhelye múzeummal a Lőszerdombon Jeruzsálemben.",
                   "category": "historical",
                   "coords": [
                         35.22784,
                         31.798159
-                  ]
-            },
-            {
-                  "name": "Új-kapu",
-                  "text": "1889-ben épült kapu, Jeruzsálem óvárosának nyolc kapujának egyike.",
-                  "category": "fortress",
-                  "coords": [
-                        35.226189,
-                        31.779305
-                  ]
-            },
-            {
-                  "name": "Jaffai kapu",
-                  "text": "Jeruzsálem óvárosának főkapuja, a Jaffa utcához vezet.",
-                  "category": "fortress",
-                  "coords": [
-                        35.227544,
-                        31.776628
                   ]
             },
             {
@@ -584,15 +368,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tomb of Lazarus",
-                  "text": "Lázár hagyományos sírja Betániában (Al-Eizariya) Jeruzsálem közelében.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
-                  ]
-            },
-            {
                   "name": "ܥܕܬܐ ܕܡܪܝ ܪܩܘܣ",
                   "text": "Szír ortodox templom az örmény negyedben, hagyomány szerint az utolsó vacsora helyszíne.",
                   "category": "religious",
@@ -611,24 +386,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chapelle Saint Vincent de Paul",
-                  "text": "Római katolikus kápolna a Szeretet Leányai által Jeruzsálemben.",
-                  "category": "religious",
-                  "coords": [
-                        35.225107,
-                        31.777914
-                  ]
-            },
-            {
-                  "name": "Szent Torosz templom",
-                  "text": "Örmény templom Jeruzsálem örmény negyedében, Toros vértanúnak szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        35.229111,
-                        31.774796
-                  ]
-            },
-            {
                   "name": "Little Western Wall",
                   "text": "A jeruzsálemi Siratófal rövidebb szakasza, imádkozásra használják.",
                   "category": "religious",
@@ -644,15 +401,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.211569,
                         31.781996
-                  ]
-            },
-            {
-                  "name": "Lánckupola",
-                  "text": "Iszlám kupolaépület a Templomhegyen, imacsarnokként használják.",
-                  "category": "religious",
-                  "coords": [
-                        35.235736,
-                        31.778079
                   ]
             },
             {
@@ -710,15 +458,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sion-kapu",
-                  "text": "1540-ben épült városkapu a jeruzsálemi óváros falában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.229638,
-                        31.772857
-                  ]
-            },
-            {
                   "name": "Mahane Yehuda Market",
                   "text": "Fedett piac több mint 250 árusítóhelylyel, fűszereiről ismert.",
                   "category": "landmark",
@@ -752,24 +491,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.239673,
                         31.779598
-                  ]
-            },
-            {
-                  "name": "Alliance Gate",
-                  "text": "Íves kapu a volt Alliance Iskola épületénél Jeruzsálemben.",
-                  "category": "landmark",
-                  "coords": [
-                        35.215269,
-                        31.784213
-                  ]
-            },
-            {
-                  "name": "Sion-hegy",
-                  "text": "Nagy vallási és történelmi jelentőségű hegy.",
-                  "category": "natural",
-                  "coords": [
-                        35.228657,
-                        31.77162
                   ]
             },
             {
@@ -809,33 +530,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artist's House",
-                  "text": "Kulturális központ és galéria egy történelmi épületben Jeruzsálem központjában.",
-                  "category": "museum",
-                  "coords": [
-                        35.214448,
-                        31.779946
-                  ]
-            },
-            {
-                  "name": "Gush Katif Museum",
-                  "text": "Múzeum a kitelepített Gush Katif telepek emlékére.",
-                  "category": "museum",
-                  "coords": [
-                        35.209147,
-                        31.78605
-                  ]
-            },
-            {
-                  "name": "Museum for Islamic Art",
-                  "text": "Iszlám Művészeti Múzeum Ostjerusalemben, egy jelentős kulturális gyűjtemény.",
-                  "category": "museum",
-                  "coords": [
-                        35.213024,
-                        31.768604
-                  ]
-            },
-            {
                   "name": "Friends of Zion Museum",
                   "text": "Múzeum a cionizmus keresztény támogatásáról.",
                   "category": "museum",
@@ -852,24 +546,6 @@ export const palestineCitiesV2: POI[] = [
                         35.22407,
                         31.78191
                   ]
-            },
-            {
-                  "name": "Israel Museum",
-                  "text": "Izrael Múzeum Ostjerusalemben, a világ egyik legfontosabb művészeti és régészeti múzeuma.",
-                  "category": "museum",
-                  "coords": [
-                        35.203245,
-                        31.77229
-                  ]
-            },
-            {
-                  "name": "Chain Gate",
-                  "text": "Lánc-kapu Ostjerusalemben, egy fontos régészeti lelőhely.",
-                  "category": "historical",
-                  "coords": [
-                        35.234297,
-                        31.777272
-                  ]
             }
       ],
       "ro": [
@@ -880,24 +556,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.232698,
                         31.775593
-                  ]
-            },
-            {
-                  "name": "Ticho House",
-                  "text": "Muzeu într-o casă istorică din secolul al XIX-lea, cu grădină, în Ierusalim.",
-                  "category": "museum",
-                  "coords": [
-                        35.219716,
-                        31.783467
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Ortodoxă Greacă a „Sfintei Cruci” din Ierusalim",
-                  "text": "Mănăstire greco-ortodoxă din secolul al XI-lea în Valea Crucii din Ierusalim.",
-                  "category": "castle",
-                  "coords": [
-                        35.208249,
-                        31.772019
                   ]
             },
             {
@@ -964,15 +622,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cardo",
-                  "text": "Stradă romană cu coloane din secolul al II-lea în cartierul evreiesc al Ierusalimului.",
-                  "category": "historical",
-                  "coords": [
-                        35.2309,
-                        31.775029
-                  ]
-            },
-            {
                   "name": "Ammunition Hill",
                   "text": "Memorial al bătăliei din 1967, cu muzeu, pe Dealul Muniției din Ierusalim.",
                   "category": "historical",
@@ -982,48 +631,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poarta Nouă",
-                  "text": "Poartă construită în 1889, una dintre cele opt porți ale orașului vechi al Ierusalimului.",
-                  "category": "fortress",
-                  "coords": [
-                        35.226189,
-                        31.779305
-                  ]
-            },
-            {
-                  "name": "Poarta Jaffa",
-                  "text": "Poarta principală a orașului vechi al Ierusalimului, ducând spre strada Jaffa.",
-                  "category": "fortress",
-                  "coords": [
-                        35.227544,
-                        31.776628
-                  ]
-            },
-            {
-                  "name": "Centrul Muzical Ierusalim",
-                  "text": "Școală de muzică și sală de concerte în cartierul Yemin Moshe din Ierusalim.",
-                  "category": "cultural",
-                  "coords": [
-                        35.224607,
-                        31.771892
-                  ]
-            },
-            {
                   "name": "Palestinian National Theater",
                   "text": "Teatrul Național Palestinian cu spectacole în Ierusalimul de Est.",
                   "category": "cultural",
                   "coords": [
                         35.229376,
                         31.788338
-                  ]
-            },
-            {
-                  "name": "Mormântul lui Lazăr din Betania",
-                  "text": "Mormântul tradițional al lui Lazăr în Betania (Al-Eizariya) lângă Ierusalim.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
                   ]
             },
             {
@@ -1045,24 +658,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capela catolică „St. Vincent de Paul”",
-                  "text": "Capelă romano-catolică a Surorilor Carității în Ierusalim.",
-                  "category": "religious",
-                  "coords": [
-                        35.225107,
-                        31.777914
-                  ]
-            },
-            {
-                  "name": "Biserica armeană „Sfântul Toros”",
-                  "text": "Biserică armeană în cartierul armean al Ierusalimului, dedicată martirului Toros.",
-                  "category": "religious",
-                  "coords": [
-                        35.229111,
-                        31.774796
-                  ]
-            },
-            {
                   "name": "Little Western Wall",
                   "text": "Secțiune mai scurtă a Zidului de Plângere din Ierusalim, folosită pentru rugăciuni.",
                   "category": "religious",
@@ -1078,24 +673,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.211569,
                         31.781996
-                  ]
-            },
-            {
-                  "name": "Cupola Lanțului",
-                  "text": "Structură islamică cu cupolă pe Muntele Templului, folosită ca sală de rugăciuni.",
-                  "category": "religious",
-                  "coords": [
-                        35.235736,
-                        31.778079
-                  ]
-            },
-            {
-                  "name": "Mănăstirea franciscană „Saint Saviour”",
-                  "text": "Mănăstirea Sfântul Mântuitor din Ierusalimul de Est, construită în 1885.",
-                  "category": "religious",
-                  "coords": [
-                        35.227392,
-                        31.779012
                   ]
             },
             {
@@ -1126,30 +703,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Scăldătoarea Siloamului",
-                  "text": "Bazin de apă antic în Orașul lui David, menționat în Biblie.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235123,
-                        31.770401
-                  ]
-            },
-            {
                   "name": "Warren's Shaft",
                   "text": "Puț de apă din epoca bronzului, care ducea la izvorul Gihon.",
                   "category": "landmark",
                   "coords": [
                         35.236067,
                         31.773123
-                  ]
-            },
-            {
-                  "name": "Poarta Sionului",
-                  "text": "Poartă a orașului construită în 1540 în zidul Vechiului Ierusalim.",
-                  "category": "landmark",
-                  "coords": [
-                        35.229638,
-                        31.772857
                   ]
             },
             {
@@ -1189,24 +748,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alliance Gate",
-                  "text": "Poartă în arc a fostei Școli Alianței din Ierusalim.",
-                  "category": "landmark",
-                  "coords": [
-                        35.215269,
-                        31.784213
-                  ]
-            },
-            {
-                  "name": "Vârful Muntele Sion",
-                  "text": "Un munte de mare importanță religioasă și istorică.",
-                  "category": "natural",
-                  "coords": [
-                        35.228657,
-                        31.77162
-                  ]
-            },
-            {
                   "name": "Burial Cave",
                   "text": "Peșteră de înmormântare antică, identificată ca Akeldama (Câmpul Sângelui).",
                   "category": "natural",
@@ -1243,33 +784,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artist's House",
-                  "text": "Centru cultural și galerie într-o clădire istorică din centrul Ierusalimului.",
-                  "category": "museum",
-                  "coords": [
-                        35.214448,
-                        31.779946
-                  ]
-            },
-            {
-                  "name": "Gush Katif Museum",
-                  "text": "Muzeu care comemorează așezările evacuate din Gush Katif.",
-                  "category": "museum",
-                  "coords": [
-                        35.209147,
-                        31.78605
-                  ]
-            },
-            {
-                  "name": "Museum for Islamic Art",
-                  "text": "Muzeul de Artă Islamică în Ostjerusalem, o colecție culturală importantă.",
-                  "category": "museum",
-                  "coords": [
-                        35.213024,
-                        31.768604
-                  ]
-            },
-            {
                   "name": "Friends of Zion Museum",
                   "text": "Muzeu despre sprijinul creștin pentru sionism.",
                   "category": "museum",
@@ -1286,24 +800,6 @@ export const palestineCitiesV2: POI[] = [
                         35.22407,
                         31.78191
                   ]
-            },
-            {
-                  "name": "Israel Museum",
-                  "text": "Muzeul Israel în Ostjerusalem, unul dintre cele mai importante muzee de artă și arheologie din lume.",
-                  "category": "museum",
-                  "coords": [
-                        35.203245,
-                        31.77229
-                  ]
-            },
-            {
-                  "name": "Chain Gate",
-                  "text": "Poarta Lanțului în Ostjerusalem, un important sit arheologic.",
-                  "category": "historical",
-                  "coords": [
-                        35.234297,
-                        31.777272
-                  ]
             }
       ],
       "en": [
@@ -1314,24 +810,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.232698,
                         31.775593
-                  ]
-            },
-            {
-                  "name": "Ticho House",
-                  "text": "Museum in a 19th-century historic house with a garden in Jerusalem.",
-                  "category": "museum",
-                  "coords": [
-                        35.219716,
-                        31.783467
-                  ]
-            },
-            {
-                  "name": "Monastery of the Cross",
-                  "text": "11th-century Greek Orthodox monastery in the Valley of the Cross, Jerusalem.",
-                  "category": "castle",
-                  "coords": [
-                        35.208249,
-                        31.772019
                   ]
             },
             {
@@ -1398,66 +876,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cardo",
-                  "text": "Colonnaded Roman street from the 2nd century in Jerusalem's Jewish Quarter.",
-                  "category": "historical",
-                  "coords": [
-                        35.2309,
-                        31.775029
-                  ]
-            },
-            {
-                  "name": "Ammunition Hill Memorial",
-                  "text": "Memorial for the 1967 battle, with a museum, on Ammunition Hill in Jerusalem.",
-                  "category": "historical",
-                  "coords": [
-                        35.22784,
-                        31.798159
-                  ]
-            },
-            {
-                  "name": "New Gate",
-                  "text": "Gate built in 1889, one of the eight gates of Jerusalem's Old City.",
-                  "category": "fortress",
-                  "coords": [
-                        35.226189,
-                        31.779305
-                  ]
-            },
-            {
-                  "name": "Jaffa Gate",
-                  "text": "Main gate of Jerusalem's Old City, leading to Jaffa Road.",
-                  "category": "fortress",
-                  "coords": [
-                        35.227544,
-                        31.776628
-                  ]
-            },
-            {
-                  "name": "Jerusalem Music Centre",
-                  "text": "Music school and concert hall in the Yemin Moshe neighborhood of Jerusalem.",
-                  "category": "cultural",
-                  "coords": [
-                        35.224607,
-                        31.771892
-                  ]
-            },
-            {
                   "name": "Palestinian national theater / Al-Hakawati",
                   "text": "Palestinian National Theatre hosting performances in East Jerusalem.",
                   "category": "cultural",
                   "coords": [
                         35.229376,
                         31.788338
-                  ]
-            },
-            {
-                  "name": "Lazarus Tomb",
-                  "text": "Traditional tomb of Lazarus in Bethany (Al-Eizariya) near Jerusalem.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
                   ]
             },
             {
@@ -1470,66 +894,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yad Ha-Rav Nissim Synagogue and Research Institute",
-                  "text": "Synagogue and research institute in Jerusalem's Geula neighborhood.",
-                  "category": "religious",
-                  "coords": [
-                        35.215511,
-                        31.771105
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint Vincent de Paul",
-                  "text": "Roman Catholic chapel of the Sisters of Charity in Jerusalem.",
-                  "category": "religious",
-                  "coords": [
-                        35.225107,
-                        31.777914
-                  ]
-            },
-            {
-                  "name": "St. Toros Church",
-                  "text": "Armenian church in Jerusalem's Armenian Quarter, dedicated to the martyr Toros.",
-                  "category": "religious",
-                  "coords": [
-                        35.229111,
-                        31.774796
-                  ]
-            },
-            {
                   "name": "Small Kotel",
                   "text": "Shorter section of the Western Wall in Jerusalem, used for prayer.",
                   "category": "religious",
                   "coords": [
                         35.234068,
                         31.778585
-                  ]
-            },
-            {
-                  "name": "Ades Synagogue",
-                  "text": "Syrian Sephardic synagogue in the Nachlaot neighborhood, known for its Mizrahi liturgy.",
-                  "category": "religious",
-                  "coords": [
-                        35.211569,
-                        31.781996
-                  ]
-            },
-            {
-                  "name": "Dome of the Chain",
-                  "text": "Islamic dome structure on the Temple Mount, used as a prayer hall.",
-                  "category": "religious",
-                  "coords": [
-                        35.235736,
-                        31.778079
-                  ]
-            },
-            {
-                  "name": "Saint Saviours Church",
-                  "text": "Saint Saviour's Monastery in East Jerusalem, built in 1885.",
-                  "category": "religious",
-                  "coords": [
-                        35.227392,
-                        31.779012
                   ]
             },
             {
@@ -1560,57 +930,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "HaShiliach Pool",
-                  "text": "Ancient water pool in the City of David, mentioned in the Bible.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235123,
-                        31.770401
-                  ]
-            },
-            {
                   "name": "Warren's Shaft",
                   "text": "Bronze Age water shaft connecting to the Gihon Spring.",
                   "category": "landmark",
                   "coords": [
                         35.236067,
                         31.773123
-                  ]
-            },
-            {
-                  "name": "Zion Gate",
-                  "text": "City gate built in 1540 in the Old City walls.",
-                  "category": "landmark",
-                  "coords": [
-                        35.229638,
-                        31.772857
-                  ]
-            },
-            {
-                  "name": "Machane Yehuda Market",
-                  "text": "Covered market with over 250 stalls, known for spices.",
-                  "category": "landmark",
-                  "coords": [
-                        35.212734,
-                        31.784786
-                  ]
-            },
-            {
-                  "name": "The Abba Cave",
-                  "text": "Ancient burial cave from the Second Temple period.",
-                  "category": "natural",
-                  "coords": [
-                        35.230395,
-                        31.803808
-                  ]
-            },
-            {
-                  "name": "Magharat Umm el 'Amid",
-                  "text": "Cave containing archaeological remains.",
-                  "category": "natural",
-                  "coords": [
-                        35.227208,
-                        31.805438
                   ]
             },
             {
@@ -1623,39 +948,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alliance Gate",
-                  "text": "Arched gate at the former Alliance School in Jerusalem.",
-                  "category": "landmark",
-                  "coords": [
-                        35.215269,
-                        31.784213
-                  ]
-            },
-            {
-                  "name": "Mount Zion",
-                  "text": "A mountain of great religious and historical importance.",
-                  "category": "natural",
-                  "coords": [
-                        35.228657,
-                        31.77162
-                  ]
-            },
-            {
                   "name": "Burial Cave",
                   "text": "Ancient burial cave identified as the Field of Blood (Akeldama).",
                   "category": "natural",
                   "coords": [
                         35.232514,
                         31.768164
-                  ]
-            },
-            {
-                  "name": "Tower of the White Russian Church",
-                  "text": "Bell tower of the Russian Ascension Church on the Mount of Olives.",
-                  "category": "natural",
-                  "coords": [
-                        35.247761,
-                        31.779102
                   ]
             },
             {
@@ -1677,66 +975,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artist's House",
-                  "text": "Cultural center and gallery in a historic building in central Jerusalem.",
-                  "category": "museum",
-                  "coords": [
-                        35.214448,
-                        31.779946
-                  ]
-            },
-            {
-                  "name": "Gush Katif Museum",
-                  "text": "Museum commemorating the evacuated Gush Katif settlements.",
-                  "category": "museum",
-                  "coords": [
-                        35.209147,
-                        31.78605
-                  ]
-            },
-            {
-                  "name": "Museum for Islamic Art",
-                  "text": "Museum for Islamic Art in Ostjerusalem, a significant cultural collection.",
-                  "category": "museum",
-                  "coords": [
-                        35.213024,
-                        31.768604
-                  ]
-            },
-            {
                   "name": "Friends of Zion Museum",
                   "text": "Museum highlighting Christian support for Zionism.",
                   "category": "museum",
                   "coords": [
                         35.220184,
                         31.780134
-                  ]
-            },
-            {
-                  "name": "Asirei HaMahtarot",
-                  "text": "Museum dedicated to pre-state Jewish underground fighters.",
-                  "category": "museum",
-                  "coords": [
-                        35.22407,
-                        31.78191
-                  ]
-            },
-            {
-                  "name": "Israel Museum",
-                  "text": "Israel Museum in Ostjerusalem, one of the world's leading museums of art and archaeology.",
-                  "category": "museum",
-                  "coords": [
-                        35.203245,
-                        31.77229
-                  ]
-            },
-            {
-                  "name": "Chain Gate",
-                  "text": "Chain Gate in Ostjerusalem, an important archaeological site.",
-                  "category": "historical",
-                  "coords": [
-                        35.234297,
-                        31.777272
                   ]
             }
       ]
@@ -1788,42 +1032,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-gaza-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Qaser Al-Basha Museum",
-                  "text": "Museum in einem Mamlukenpalast aus dem 13. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        34.466268,
-                        31.50451
-                  ]
-            },
-            {
-                  "name": "lara balace",
-                  "text": "Kulturzentrum mit Ausstellungen und Workshops in Gaza-Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        34.450091,
-                        31.492488
-                  ]
-            },
-            {
-                  "name": "Gaza Zoo",
-                  "text": "Zoologischer Garten mit einheimischen Tieren und Vogelarten in Gaza-Stadt.",
-                  "category": "family",
-                  "coords": [
-                        34.445292,
-                        31.480292
-                  ]
-            },
-            {
-                  "name": "Al-Sheikh Redwan Water Basin",
-                  "text": "Großes Wasserbecken, genutzt für Bewässerung und Erholung, im Stadtteil Al-Sheikh Redwan in Gaza.",
-                  "category": "natural",
-                  "coords": [
-                        34.470908,
-                        31.527554
-                  ]
-            },
-            {
                   "name": "Ayaat Studio",
                   "text": "Kunststudio, das Mal- und Töpferkurse in Gaza-Stadt anbietet.",
                   "category": "cultural",
@@ -1839,15 +1047,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.465085,
                         31.516415
-                  ]
-            },
-            {
-                  "name": "Old city Gaza",
-                  "text": "Die historische Altstadt von Gaza mit engen Gassen und traditionellen Steinbauten.",
-                  "category": "historical",
-                  "coords": [
-                        34.461757,
-                        31.506025
                   ]
             },
             {
@@ -1884,42 +1083,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.468079,
                         31.506872
-                  ]
-            },
-            {
-                  "name": "Al - Mona Educational Center",
-                  "text": "Al-Mona Bildungszentrum, eine Schule für Kinder in Gaza-Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        34.437223,
-                        31.502965
-                  ]
-            },
-            {
-                  "name": "MODERN OFFICE",
-                  "text": "MODERN OFFICE, ein Bürogebäude aus Glas und Stahl in Gaza-Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        34.460318,
-                        31.507326
-                  ]
-            },
-            {
-                  "name": "Vape",
-                  "text": "Vape, ein Geschäft für E-Zigaretten und Zubehör in Gaza-Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        34.463108,
-                        31.515431
-                  ]
-            },
-            {
-                  "name": "7up",
-                  "text": "7up ist eine Sehenswürdigkeit in Gaza-Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        34.479702,
-                        31.512887
                   ]
             },
             {
@@ -1986,24 +1149,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Holest Cultural Centre",
-                  "text": "Holest Kulturzentrum, ein Veranstaltungsort für Konzerte und Ausstellungen in Gaza-Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        34.466696,
-                        31.508652
-                  ]
-            },
-            {
-                  "name": "Rabee Co.",
-                  "text": "Rabee Co., ein Geschäft für Haushaltswaren und Elektronik in Gaza-Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        34.440962,
-                        31.509148
-                  ]
-            },
-            {
                   "name": "Al-Qarm Roundabout",
                   "text": "Al-Qarm-Kreisverkehr, ein Verkehrsknotenpunkt im Süden von Gaza-Stadt.",
                   "category": "landmark",
@@ -2020,63 +1165,9 @@ export const palestineCitiesV2: POI[] = [
                         34.467793,
                         31.502429
                   ]
-            },
-            {
-                  "name": "Sheikh Zakareya Mosque",
-                  "text": "Die Sheikh Zakareya Mosque ist eine Moschee und Kultstätte in Gaza-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        34.461148,
-                        31.508795
-                  ]
-            },
-            {
-                  "name": "Ibn Marwan Mosque",
-                  "text": "Die Ibn Marwan Mosque ist eine historische Moschee in Gaza-Stadt, in der sich das Grab des Heiligen Scheich Ali ibn Marwan befindet.",
-                  "category": "religious",
-                  "coords": [
-                        34.469017,
-                        31.504157
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Qaser Al-Basha Museum",
-                  "text": "Múzeum egy 13. századi mamlúk palotában.",
-                  "category": "museum",
-                  "coords": [
-                        34.466268,
-                        31.50451
-                  ]
-            },
-            {
-                  "name": "lara balace",
-                  "text": "Kulturális központ kiállításokkal és műhelyekkel Gázavárosban.",
-                  "category": "cultural",
-                  "coords": [
-                        34.450091,
-                        31.492488
-                  ]
-            },
-            {
-                  "name": "Gaza Zoo",
-                  "text": "Állatkert helyi állatokkal és madárfajokkal Gázavárosban.",
-                  "category": "family",
-                  "coords": [
-                        34.445292,
-                        31.480292
-                  ]
-            },
-            {
-                  "name": "Al-Sheikh Redwan Water Basin",
-                  "text": "Nagy vízmedence öntözésre és rekreációra használva Gáza Al-Sheikh Redwan negyedében.",
-                  "category": "natural",
-                  "coords": [
-                        34.470908,
-                        31.527554
-                  ]
-            },
             {
                   "name": "Ayaat Studio",
                   "text": "Művészeti stúdió, ahol festő- és fazekastanfolyamokat tartanak Gázavárosban.",
@@ -2093,15 +1184,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.465085,
                         31.516415
-                  ]
-            },
-            {
-                  "name": "Old city Gaza",
-                  "text": "Gáza óvárosa keskeny utcákkal és hagyományos kőépületekkel.",
-                  "category": "historical",
-                  "coords": [
-                        34.461757,
-                        31.506025
                   ]
             },
             {
@@ -2138,42 +1220,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.468079,
                         31.506872
-                  ]
-            },
-            {
-                  "name": "Al - Mona Educational Center",
-                  "text": "Al-Mona Oktatási Központ, egy iskola gyermekek számára Gázában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.437223,
-                        31.502965
-                  ]
-            },
-            {
-                  "name": "MODERN OFFICE",
-                  "text": "MODERN OFFICE, egy üveg- és acélirodaépület Gázában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.460318,
-                        31.507326
-                  ]
-            },
-            {
-                  "name": "Vape",
-                  "text": "Vape, egy e-cigarettákat és kiegészítőket árusító üzlet Gázában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.463108,
-                        31.515431
-                  ]
-            },
-            {
-                  "name": "7up",
-                  "text": "A 7up egy helyi látványosság Gaza-Stadtban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.479702,
-                        31.512887
                   ]
             },
             {
@@ -2240,24 +1286,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Holest Cultural Centre",
-                  "text": "Holest Kulturális Központ, koncertek és kiállítások helyszíne Gázában.",
-                  "category": "cultural",
-                  "coords": [
-                        34.466696,
-                        31.508652
-                  ]
-            },
-            {
-                  "name": "Rabee Co.",
-                  "text": "Rabee Co., egy háztartási cikkeket és elektronikát árusító üzlet Gázában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.440962,
-                        31.509148
-                  ]
-            },
-            {
                   "name": "Al-Qarm Roundabout",
                   "text": "Al-Qarm körforgalom, egy közlekedési csomópont Gáza déli részén.",
                   "category": "landmark",
@@ -2274,63 +1302,9 @@ export const palestineCitiesV2: POI[] = [
                         34.467793,
                         31.502429
                   ]
-            },
-            {
-                  "name": "Sheikh Zakareya Mosque",
-                  "text": "A Sheikh Zakareya Mosque egy istentiszteleti hely Gaza-Stadt területén.",
-                  "category": "religious",
-                  "coords": [
-                        34.461148,
-                        31.508795
-                  ]
-            },
-            {
-                  "name": "Ibn Marwan Mosque",
-                  "text": "Az Ibn Marwan Mosque egy történelmi jelentőségű mecset Gaza-Stadtban, amely Ali ibn Marwan sejk sírját is őrzi.",
-                  "category": "religious",
-                  "coords": [
-                        34.469017,
-                        31.504157
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Qaser Al-Basha Museum",
-                  "text": "Muzeu într-un palat mameluc din secolul al XIII-lea.",
-                  "category": "museum",
-                  "coords": [
-                        34.466268,
-                        31.50451
-                  ]
-            },
-            {
-                  "name": "Lara balace",
-                  "text": "Centru cultural cu expoziții și ateliere în orașul Gaza.",
-                  "category": "cultural",
-                  "coords": [
-                        34.450091,
-                        31.492488
-                  ]
-            },
-            {
-                  "name": "Gaza Zoo",
-                  "text": "Grădină zoologică cu animale locale și specii de păsări în orașul Gaza.",
-                  "category": "family",
-                  "coords": [
-                        34.445292,
-                        31.480292
-                  ]
-            },
-            {
-                  "name": "Al-Sheikh Redwan Water Basin",
-                  "text": "Bazin mare de apă utilizat pentru irigații și agrement în cartierul Al-Sheikh Redwan din Gaza.",
-                  "category": "natural",
-                  "coords": [
-                        34.470908,
-                        31.527554
-                  ]
-            },
             {
                   "name": "Ayaat Studio",
                   "text": "Studio de artă care oferă cursuri de pictură și olărit în orașul Gaza.",
@@ -2347,15 +1321,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.465085,
                         31.516415
-                  ]
-            },
-            {
-                  "name": "Old city Gaza",
-                  "text": "Centrul istoric al orașului Gaza, cu străzi înguste și case tradiționale din piatră.",
-                  "category": "historical",
-                  "coords": [
-                        34.461757,
-                        31.506025
                   ]
             },
             {
@@ -2392,42 +1357,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.468079,
                         31.506872
-                  ]
-            },
-            {
-                  "name": "Al - Mona Educational Center",
-                  "text": "Centrul Educațional Al-Mona, o școală pentru copii din orașul Gaza.",
-                  "category": "landmark",
-                  "coords": [
-                        34.437223,
-                        31.502965
-                  ]
-            },
-            {
-                  "name": "MODERN OFFICE",
-                  "text": "MODERN OFFICE, o clădire de birouri din sticlă și oțel în orașul Gaza.",
-                  "category": "landmark",
-                  "coords": [
-                        34.460318,
-                        31.507326
-                  ]
-            },
-            {
-                  "name": "Vape",
-                  "text": "Vape, un magazin de țigări electronice și accesorii în orașul Gaza.",
-                  "category": "landmark",
-                  "coords": [
-                        34.463108,
-                        31.515431
-                  ]
-            },
-            {
-                  "name": "7up",
-                  "text": "7up este o atracție din Gaza-Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        34.479702,
-                        31.512887
                   ]
             },
             {
@@ -2494,24 +1423,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Holest Cultural Centre",
-                  "text": "Centrul Cultural Holest, un loc pentru concerte și expoziții în orașul Gaza.",
-                  "category": "cultural",
-                  "coords": [
-                        34.466696,
-                        31.508652
-                  ]
-            },
-            {
-                  "name": "Rabee Co.",
-                  "text": "Rabee Co., un magazin de articole de uz casnic și electronice în orașul Gaza.",
-                  "category": "landmark",
-                  "coords": [
-                        34.440962,
-                        31.509148
-                  ]
-            },
-            {
                   "name": "Al-Qarm Roundabout",
                   "text": "Sensul giratoriu Al-Qarm, un nod rutier în sudul orașului Gaza.",
                   "category": "landmark",
@@ -2528,63 +1439,9 @@ export const palestineCitiesV2: POI[] = [
                         34.467793,
                         31.502429
                   ]
-            },
-            {
-                  "name": "Sheikh Zakareya Mosque",
-                  "text": "Sheikh Zakareya Mosque este un loc de rugăciune din Gaza-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        34.461148,
-                        31.508795
-                  ]
-            },
-            {
-                  "name": "Ibn Marwan Mosque",
-                  "text": "Ibn Marwan Mosque este o moschee istorică din Gaza-Stadt ce adăpostește mormântul șeicului Ali ibn Marwan.",
-                  "category": "religious",
-                  "coords": [
-                        34.469017,
-                        31.504157
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Qaser Al-Basha Museum",
-                  "text": "Museum housed in a 13th-century Mamluk palace.",
-                  "category": "museum",
-                  "coords": [
-                        34.466268,
-                        31.50451
-                  ]
-            },
-            {
-                  "name": "lara balace",
-                  "text": "Cultural centre with exhibitions and workshops in Gaza City.",
-                  "category": "cultural",
-                  "coords": [
-                        34.450091,
-                        31.492488
-                  ]
-            },
-            {
-                  "name": "Gaza Zoo",
-                  "text": "Zoo with local animals and bird species in Gaza City.",
-                  "category": "family",
-                  "coords": [
-                        34.445292,
-                        31.480292
-                  ]
-            },
-            {
-                  "name": "Al-Sheikh Redwan Water Basin",
-                  "text": "Large water basin used for irrigation and recreation in the Al-Sheikh Redwan district of Gaza.",
-                  "category": "natural",
-                  "coords": [
-                        34.470908,
-                        31.527554
-                  ]
-            },
             {
                   "name": "Ayaat Studio",
                   "text": "Art studio offering painting and pottery classes in Gaza City.",
@@ -2601,15 +1458,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.465085,
                         31.516415
-                  ]
-            },
-            {
-                  "name": "Old city Gaza",
-                  "text": "The historic old town of Gaza with narrow lanes and traditional stone houses.",
-                  "category": "historical",
-                  "coords": [
-                        34.461757,
-                        31.506025
                   ]
             },
             {
@@ -2646,42 +1494,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.468079,
                         31.506872
-                  ]
-            },
-            {
-                  "name": "Al - Mona Educational Center",
-                  "text": "Al-Mona Educational Center, a school for children in Gaza City.",
-                  "category": "landmark",
-                  "coords": [
-                        34.437223,
-                        31.502965
-                  ]
-            },
-            {
-                  "name": "MODERN OFFICE",
-                  "text": "MODERN OFFICE, a glass-and-steel office building in Gaza City.",
-                  "category": "landmark",
-                  "coords": [
-                        34.460318,
-                        31.507326
-                  ]
-            },
-            {
-                  "name": "Vape",
-                  "text": "Vape, a shop selling e-cigarettes and accessories in Gaza City.",
-                  "category": "landmark",
-                  "coords": [
-                        34.463108,
-                        31.515431
-                  ]
-            },
-            {
-                  "name": "7up",
-                  "text": "7up is an attraction located in the city of Gaza-Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        34.479702,
-                        31.512887
                   ]
             },
             {
@@ -2748,24 +1560,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Holest Cultural Centre",
-                  "text": "Holest Cultural Centre, a venue for concerts and exhibitions in Gaza City.",
-                  "category": "cultural",
-                  "coords": [
-                        34.466696,
-                        31.508652
-                  ]
-            },
-            {
-                  "name": "Rabee Co.",
-                  "text": "Rabee Co., a store selling household goods and electronics in Gaza City.",
-                  "category": "landmark",
-                  "coords": [
-                        34.440962,
-                        31.509148
-                  ]
-            },
-            {
                   "name": "Al-Qarm Roundabout",
                   "text": "Al-Qarm Roundabout, a traffic roundabout in southern Gaza City.",
                   "category": "landmark",
@@ -2781,24 +1575,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.467793,
                         31.502429
-                  ]
-            },
-            {
-                  "name": "Sheikh Zakareya Mosque",
-                  "text": "The Sheikh Zakareya Mosque serves as a place of worship in Gaza-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        34.461148,
-                        31.508795
-                  ]
-            },
-            {
-                  "name": "Ibn Marwan Mosque",
-                  "text": "The Ibn Marwan Mosque is a historic place of worship in Gaza-Stadt, housing the tomb of a holy man named Sheikh Ali ibn Marwan.",
-                  "category": "religious",
-                  "coords": [
-                        34.469017,
-                        31.504157
                   ]
             }
       ]
@@ -2859,33 +1635,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grab der Patriarchen",
-                  "text": "Die Höhle der Patriarchen ist eine weltbekannte historische Attraktion in der Stadt Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.110794,
-                        31.52478
-                  ]
-            },
-            {
-                  "name": "Hebron Observatory",
-                  "text": "Aussichtspunkt mit Blick über Hebron.",
-                  "category": "natural",
-                  "coords": [
-                        35.102221,
-                        31.525069
-                  ]
-            },
-            {
-                  "name": "Al-Sultan Pool",
-                  "text": "Historisches Wasserreservoir aus der Mamlukenzeit in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108684,
-                        31.523108
-                  ]
-            },
-            {
                   "name": "Ali Bakka Moschee",
                   "text": "Moschee in der Altstadt von Hebron, benannt nach Ali Bakka.",
                   "category": "religious",
@@ -2895,165 +1644,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meir Kahane Park",
-                  "text": "Park in Hebron, benannt nach dem kontroversen Rabbiner Meir Kahane.",
-                  "category": "park",
-                  "coords": [
-                        35.114677,
-                        31.532017
-                  ]
-            },
-            {
-                  "name": "Land of Judea Antiquities Museum",
-                  "text": "Land of Judea Antiquitätenmuseum, zeigt archäologische Funde aus dem judäischen Hügelland in Hebron.",
-                  "category": "museum",
-                  "coords": [
-                        35.118906,
-                        31.528997
-                  ]
-            },
-            {
-                  "name": "Zalloum Castle",
-                  "text": "Zalloum Burg, eine Steinburg auf einem Hügel oberhalb der Altstadt von Hebron.",
-                  "category": "castle",
-                  "coords": [
-                        35.107578,
-                        31.549204
-                  ]
-            },
-            {
-                  "name": "Rovan Hall",
-                  "text": "Rovan Halle, ein Veranstaltungsgebäude in Hebron mit einem großen Ballsaal.",
-                  "category": "castle",
-                  "coords": [
-                        35.087749,
-                        31.548246
-                  ]
-            },
-            {
                   "name": "Hebron Muqata'a",
                   "text": "Hebron Muqata'a, die ehemalige britische Mandatspolizeifestung in Hebron.",
                   "category": "castle",
                   "coords": [
                         35.095029,
                         31.537317
-                  ]
-            },
-            {
-                  "name": "Ahl al-Khair Mosque",
-                  "text": "Ahl al-Khair Moschee, eine Moschee aus dem 19. Jahrhundert, die heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        35.084838,
-                        31.550671
-                  ]
-            },
-            {
-                  "name": "Al Shibli Shrine",
-                  "text": "Al Shibli-Schrein, ein muslimisches Heiligtum in der Altstadt von Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.106474,
-                        31.525945
-                  ]
-            },
-            {
-                  "name": "Olive presser",
-                  "text": "Olivenpresse, eine historische Steinpresse zur Olivenölgewinnung im Tal von Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.107424,
-                        31.525804
-                  ]
-            },
-            {
-                  "name": "Othman Bin Afan Mosque",
-                  "text": "Othman Bin Afan Moschee, eine Moschee mit einem hohen Minarett im Zentrum von Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108664,
-                        31.524793
-                  ]
-            },
-            {
-                  "name": "Abraham's Well",
-                  "text": "Abrahams Brunnen, ein traditioneller Brunnen, an dem Abraham gerastet haben soll, in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.104043,
-                        31.524304
-                  ]
-            },
-            {
-                  "name": "Qazzazin Pond",
-                  "text": "Qazzazin-Teich, ein historischer Wasserbehälter in der Altstadt von Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.106358,
-                        31.524355
-                  ]
-            },
-            {
-                  "name": "Al- Aqqaba Neighborhood",
-                  "text": "Al-Aqqaba-Viertel, ein historisches Wohnviertel mit engen Gassen in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108564,
-                        31.525896
-                  ]
-            },
-            {
-                  "name": "Al- Muhtasibya",
-                  "text": "Al-Muhtasibya, der historische Marktplatz im Zentrum von Hebron mit Lebensmittelständen.",
-                  "category": "historical",
-                  "coords": [
-                        35.109657,
-                        31.524324
-                  ]
-            },
-            {
-                  "name": "Khan Al-Wakaleh",
-                  "text": "Khan Al-Wakaleh, eine historische Karawanserei für Händler in der Altstadt von Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.107319,
-                        31.524374
-                  ]
-            },
-            {
-                  "name": "Rojina Hall",
-                  "text": "Rojina Halle, ein Veranstaltungsort für Hochzeiten und Feiern in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.08874,
-                        31.507641
-                  ]
-            },
-            {
-                  "name": "Khirbet en-Nasara",
-                  "text": "Khirbet en-Nasara, eine archäologische Stätte mit Ruinen aus byzantinischer Zeit südöstlich von Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.093592,
-                        31.549356
-                  ]
-            },
-            {
-                  "name": "Qiriyat Arba Theater",
-                  "text": "Qiriyat Arba Theater, ein Kino- und Veranstaltungssaal im israelischen Siedlungsblock Kirjat Arba bei Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.120306,
-                        31.528425
-                  ]
-            },
-            {
-                  "name": "Al Fonon Center",
-                  "text": "Al Fonon Zentrum, ein Kulturzentrum mit Kunstworkshops und Ausstellungen in Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.109794,
-                        31.521484
                   ]
             },
             {
@@ -3084,39 +1680,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hassouneh park",
-                  "text": "Hassouneh Park, ein öffentlicher Park mit Spielplatz und Grünflächen im Westen von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097362,
-                        31.545588
-                  ]
-            },
-            {
-                  "name": "Dandis Metal Furniture",
-                  "text": "Dandis Metal Furniture, ein Metallmöbelgeschäft an der Hauptstraße von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.06608,
-                        31.527142
-                  ]
-            },
-            {
                   "name": "Sinqrot Building",
                   "text": "Sinqrot Building, ein Geschäftsgebäude im Stadtzentrum von Hebron.",
                   "category": "landmark",
                   "coords": [
                         35.109615,
                         31.548868
-                  ]
-            },
-            {
-                  "name": "Alsharif Traid & Investment Co",
-                  "text": "Alsharif Traid & Investment Co, ein Wahrzeichen-Geschäftsgebäude im Geschäftsviertel von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.100836,
-                        31.555358
                   ]
             },
             {
@@ -3145,15 +1714,6 @@ export const palestineCitiesV2: POI[] = [
                         35.080627,
                         31.524179
                   ]
-            },
-            {
-                  "name": "Al Zahid Sherin Zawiya and mosque",
-                  "text": "Al Zahid Sherin Zawiya und Moschee, ein Sufi-Zawiya-und-Moschee-Komplex in der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.10626,
-                        31.526852
-                  ]
             }
       ],
       "hu": [
@@ -3176,66 +1736,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hebron Observatory",
-                  "text": "Kilátópont Hebronra.",
-                  "category": "natural",
-                  "coords": [
-                        35.102221,
-                        31.525069
-                  ]
-            },
-            {
-                  "name": "Al-Sultan Pool",
-                  "text": "Mamlúk kori történelmi víztározó Hebronban.",
-                  "category": "historical",
-                  "coords": [
-                        35.108684,
-                        31.523108
-                  ]
-            },
-            {
                   "name": "Ali Bakka mecset",
                   "text": "Mecset Hebron óvárosában, Ali Bakkáról elnevezve.",
                   "category": "religious",
                   "coords": [
                         35.103696,
                         31.528458
-                  ]
-            },
-            {
-                  "name": "Meir Kahane Park",
-                  "text": "Park Hebronban, a vitatott Meir Kahane rabbiról elnevezve.",
-                  "category": "park",
-                  "coords": [
-                        35.114677,
-                        31.532017
-                  ]
-            },
-            {
-                  "name": "Land of Judea Antiquities Museum",
-                  "text": "Júdea földje Régészeti Múzeum, a júdeai dombvidék régészeti leleteit mutatja be Hebronban.",
-                  "category": "museum",
-                  "coords": [
-                        35.118906,
-                        31.528997
-                  ]
-            },
-            {
-                  "name": "Zalloum Castle",
-                  "text": "Zalloum vár, egy kővár egy dombon, Hebron óvárosa fölött.",
-                  "category": "castle",
-                  "coords": [
-                        35.107578,
-                        31.549204
-                  ]
-            },
-            {
-                  "name": "Rovan Hall",
-                  "text": "Rovan terem, egy rendezvényépület Hebronban, nagy bálteremmel.",
-                  "category": "castle",
-                  "coords": [
-                        35.087749,
-                        31.548246
                   ]
             },
             {
@@ -3248,120 +1754,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ahl al-Khair Mosque",
-                  "text": "Ahl al-Khair mecset, egy 19. századi mecset, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        35.084838,
-                        31.550671
-                  ]
-            },
-            {
-                  "name": "Al Shibli Shrine",
-                  "text": "Al Shibli szentély, egy muszlim szentély Hebron óvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        35.106474,
-                        31.525945
-                  ]
-            },
-            {
-                  "name": "Olive presser",
-                  "text": "Olajpré, egy történelmi kőprés olívaolaj készítéséhez Hebron völgyében.",
-                  "category": "historical",
-                  "coords": [
-                        35.107424,
-                        31.525804
-                  ]
-            },
-            {
-                  "name": "Othman Bin Afan Mosque",
-                  "text": "Othman Bin Afan mecset, egy magas minarettel rendelkező mecset Hebron központjában.",
-                  "category": "historical",
-                  "coords": [
-                        35.108664,
-                        31.524793
-                  ]
-            },
-            {
-                  "name": "Abraham's Well",
-                  "text": "Ábrahám kútja, egy hagyományos kút, ahol Ábrahám pihent, Hebronban.",
-                  "category": "historical",
-                  "coords": [
-                        35.104043,
-                        31.524304
-                  ]
-            },
-            {
-                  "name": "Qazzazin Pond",
-                  "text": "Qazzazin tó, egy történeti víztározó Hebron óvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        35.106358,
-                        31.524355
-                  ]
-            },
-            {
-                  "name": "Al- Aqqaba Neighborhood",
-                  "text": "Al-Aqqaba negyed, egy történelmi lakónegyed keskeny utcákkal Hebronban.",
-                  "category": "historical",
-                  "coords": [
-                        35.108564,
-                        31.525896
-                  ]
-            },
-            {
-                  "name": "Al-Muhtasibya Quarter",
-                  "text": "Al-Muhtasibya, a történelmi piactér Hebron központjában, élelmiszerárusokkal.",
-                  "category": "historical",
-                  "coords": [
-                        35.109657,
-                        31.524324
-                  ]
-            },
-            {
                   "name": "Khan Al-Wakalah",
                   "text": "Khan Al-Wakaleh, egy történelmi karavánszeráj kereskedők számára Hebron óvárosában.",
                   "category": "historical",
                   "coords": [
                         35.107319,
                         31.524374
-                  ]
-            },
-            {
-                  "name": "Rojina Hall",
-                  "text": "Rojina terem, esküvők és ünnepségek helyszíne Hebronban.",
-                  "category": "historical",
-                  "coords": [
-                        35.08874,
-                        31.507641
-                  ]
-            },
-            {
-                  "name": "Khirbet en-Nasara",
-                  "text": "Khirbet en-Nasara, egy régészeti lelőhely bizánci kori romokkal Hebron délkeleti részén.",
-                  "category": "historical",
-                  "coords": [
-                        35.093592,
-                        31.549356
-                  ]
-            },
-            {
-                  "name": "Kiryat Arba Cultural Center",
-                  "text": "Qiriyat Arba Színház, egy mozi- és rendezvényterem a Hebron melletti Kirjat Arba izraeli településen.",
-                  "category": "cultural",
-                  "coords": [
-                        35.120306,
-                        31.528425
-                  ]
-            },
-            {
-                  "name": "Al Fonon Center",
-                  "text": "Al Fonon Központ, egy kulturális központ művészeti műhelyekkel és kiállításokkal Hebronban.",
-                  "category": "cultural",
-                  "coords": [
-                        35.109794,
-                        31.521484
                   ]
             },
             {
@@ -3398,15 +1796,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.097362,
                         31.545588
-                  ]
-            },
-            {
-                  "name": "Dandis Metal Furniture",
-                  "text": "Dandis Metal Furniture, egy fémbútorüzlet Hebron főútján.",
-                  "category": "landmark",
-                  "coords": [
-                        35.06608,
-                        31.527142
                   ]
             },
             {
@@ -3475,30 +1864,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mormintele Patriarhilor",
-                  "text": "Peștera Patriarhilor este o atracție istorică de renume mondial situată în orașul Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.110794,
-                        31.52478
-                  ]
-            },
-            {
                   "name": "Observatorul Hebron",
                   "text": "Punct de belvedere cu vedere asupra Hebronului.",
                   "category": "natural",
                   "coords": [
                         35.102221,
                         31.525069
-                  ]
-            },
-            {
-                  "name": "Al-Sultan Pool",
-                  "text": "Rezervor de apă istoric din perioada mamelucă în Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108684,
-                        31.523108
                   ]
             },
             {
@@ -3520,15 +1891,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Land of Judea Antiquities Museum",
-                  "text": "Muzeul de Antichități Țara Iudeei, expune descoperiri arheologice din dealurile Iudeei în Hebron.",
-                  "category": "museum",
-                  "coords": [
-                        35.118906,
-                        31.528997
-                  ]
-            },
-            {
                   "name": "Castelul Zalloum",
                   "text": "Castelul Zalloum, o cetate de piatră pe o colină deasupra orașului vechi Hebron.",
                   "category": "castle",
@@ -3538,138 +1900,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rovan Hall",
-                  "text": "Sala Rovan, o clădire de evenimente în Hebron, cu o sală de bal mare.",
-                  "category": "castle",
-                  "coords": [
-                        35.087749,
-                        31.548246
-                  ]
-            },
-            {
                   "name": "Hebron Muqata'a",
                   "text": "Muqata'a Hebron, fosta fortăreață a poliției mandatare britanice din Hebron.",
                   "category": "castle",
                   "coords": [
                         35.095029,
                         31.537317
-                  ]
-            },
-            {
-                  "name": "Ahl al-Khair Mosque",
-                  "text": "Moscheea Ahl al-Khair, o moschee din secolul al XIX-lea, acum folosită ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        35.084838,
-                        31.550671
-                  ]
-            },
-            {
-                  "name": "Al Shibli Shrine",
-                  "text": "Altarul Al Shibli, un sanctuar musulman în orașul vechi Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.106474,
-                        31.525945
-                  ]
-            },
-            {
-                  "name": "Olive presser",
-                  "text": "Teasc de măsline, o presă istorică de piatră pentru ulei de măsline în valea Hebronului.",
-                  "category": "historical",
-                  "coords": [
-                        35.107424,
-                        31.525804
-                  ]
-            },
-            {
-                  "name": "Othman Bin Afan Mosque",
-                  "text": "Moscheea Othman Bin Afan, o moschee cu un minaret înalt în centrul Hebronului.",
-                  "category": "historical",
-                  "coords": [
-                        35.108664,
-                        31.524793
-                  ]
-            },
-            {
-                  "name": "Abraham's Well",
-                  "text": "Fântâna lui Avraam, o fântână tradițională unde se spune că Avraam s-a odihnit, în Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.104043,
-                        31.524304
-                  ]
-            },
-            {
-                  "name": "Qazzazin Pond",
-                  "text": "Iazul Qazzazin, un rezervor istoric de apă în orașul vechi Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.106358,
-                        31.524355
-                  ]
-            },
-            {
-                  "name": "Al- Aqqaba Neighborhood",
-                  "text": "Cartierul Al-Aqqaba, o zonă rezidențială istorică cu străzi înguste în Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108564,
-                        31.525896
-                  ]
-            },
-            {
-                  "name": "Al- Muhtasibya",
-                  "text": "Al-Muhtasibya, piața istorică din centrul Hebronului, cu tarabe alimentare.",
-                  "category": "historical",
-                  "coords": [
-                        35.109657,
-                        31.524324
-                  ]
-            },
-            {
-                  "name": "Khan Al-Wakaleh",
-                  "text": "Khan Al-Wakaleh, un han istoric pentru negustori în orașul vechi Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.107319,
-                        31.524374
-                  ]
-            },
-            {
-                  "name": "Rojina Hall",
-                  "text": "Sala Rojina, un loc pentru nunți și petreceri în Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.08874,
-                        31.507641
-                  ]
-            },
-            {
-                  "name": "Khirbet en-Nasara",
-                  "text": "Khirbet en-Nasara, un sit arheologic cu ruine bizantine la sud-est de Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.093592,
-                        31.549356
-                  ]
-            },
-            {
-                  "name": "Qiriyat Arba Theater",
-                  "text": "Teatrul Qiriyat Arba, un cinematograf și sală de evenimente în așezarea israeliană Kiryat Arba lângă Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.120306,
-                        31.528425
-                  ]
-            },
-            {
-                  "name": "Al Fonon Center",
-                  "text": "Centrul Al Fonon, un centru cultural cu ateliere de artă și expoziții în Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.109794,
-                        31.521484
                   ]
             },
             {
@@ -3700,39 +1936,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hassouneh park",
-                  "text": "Parcul Hassouneh, un parc public cu loc de joacă și spații verzi în vestul Hebronului.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097362,
-                        31.545588
-                  ]
-            },
-            {
-                  "name": "Dandis Metal Furniture",
-                  "text": "Dandis Metal Furniture, un magazin de mobilier metalic pe drumul principal din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.06608,
-                        31.527142
-                  ]
-            },
-            {
                   "name": "Sinqrot Building",
                   "text": "Sinqrot Building, o clădire comercială în centrul orașului Hebron.",
                   "category": "landmark",
                   "coords": [
                         35.109615,
                         31.548868
-                  ]
-            },
-            {
-                  "name": "Alsharif Traid & Investment Co",
-                  "text": "Alsharif Traid & Investment Co, o clădire emblematică de companie în districtul de afaceri din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.100836,
-                        31.555358
                   ]
             },
             {
@@ -3761,15 +1970,6 @@ export const palestineCitiesV2: POI[] = [
                         35.080627,
                         31.524179
                   ]
-            },
-            {
-                  "name": "Al Zahid Sherin Zawiya and mosque",
-                  "text": "Zawiya și moscheea Al Zahid Sherin, un complex de zawia sufită și moschee în orașul vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.10626,
-                        31.526852
-                  ]
             }
       ],
       "en": [
@@ -3783,201 +1983,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cave of the Patriarchs",
-                  "text": "The Cave of the Patriarchs is a world-renowned historical attraction located in the city of Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.110794,
-                        31.52478
-                  ]
-            },
-            {
-                  "name": "Hebron Observatory",
-                  "text": "Lookout point overlooking the city of Hebron.",
-                  "category": "natural",
-                  "coords": [
-                        35.102221,
-                        31.525069
-                  ]
-            },
-            {
-                  "name": "Al-Sultan Pool",
-                  "text": "Historic water reservoir from the Mamluk period in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108684,
-                        31.523108
-                  ]
-            },
-            {
-                  "name": "Ali Bakka Mosque",
-                  "text": "Mosque in the old city of Hebron, named after Ali Bakka.",
-                  "category": "religious",
-                  "coords": [
-                        35.103696,
-                        31.528458
-                  ]
-            },
-            {
-                  "name": "Meir Kahane Park",
-                  "text": "Park in Hebron named after the controversial rabbi Meir Kahane.",
-                  "category": "park",
-                  "coords": [
-                        35.114677,
-                        31.532017
-                  ]
-            },
-            {
-                  "name": "Land of Judea Antiquities Museum",
-                  "text": "Land of Judea Antiquities Museum, displaying archaeological finds from the Judean hills in Hebron.",
-                  "category": "museum",
-                  "coords": [
-                        35.118906,
-                        31.528997
-                  ]
-            },
-            {
-                  "name": "Zalloum Castle",
-                  "text": "Zalloum Castle, a stone fortress on a hill overlooking Hebron's old city.",
-                  "category": "castle",
-                  "coords": [
-                        35.107578,
-                        31.549204
-                  ]
-            },
-            {
-                  "name": "Rovan Hall",
-                  "text": "Rovan Hall, an events building in Hebron with a large ballroom.",
-                  "category": "castle",
-                  "coords": [
-                        35.087749,
-                        31.548246
-                  ]
-            },
-            {
                   "name": "Hebron Muqata'a",
                   "text": "Hebron Muqata'a, the former British mandate police fortress in Hebron.",
                   "category": "castle",
                   "coords": [
                         35.095029,
                         31.537317
-                  ]
-            },
-            {
-                  "name": "Ahl al-Khair Mosque",
-                  "text": "Ahl al-Khair Mosque, a 19th-century mosque now used as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        35.084838,
-                        31.550671
-                  ]
-            },
-            {
-                  "name": "Al Shibli Shrine",
-                  "text": "Al Shibli Shrine, a Muslim shrine in the old city of Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.106474,
-                        31.525945
-                  ]
-            },
-            {
-                  "name": "Olive presser",
-                  "text": "Olive press, a historic stone press for olive oil in the valley of Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.107424,
-                        31.525804
-                  ]
-            },
-            {
-                  "name": "Othman Bin Afan Mosque",
-                  "text": "Othman Bin Afan Mosque, a mosque with a tall minaret in central Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108664,
-                        31.524793
-                  ]
-            },
-            {
-                  "name": "Abraham's Well",
-                  "text": "Abraham's Well, a traditional well where Abraham is said to have rested, in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.104043,
-                        31.524304
-                  ]
-            },
-            {
-                  "name": "Qazzazin Pond",
-                  "text": "Qazzazin Pond, a historic water reservoir in Hebron's old city.",
-                  "category": "historical",
-                  "coords": [
-                        35.106358,
-                        31.524355
-                  ]
-            },
-            {
-                  "name": "Al- Aqqaba Neighborhood",
-                  "text": "Al-Aqqaba Neighborhood, a historic residential quarter with narrow alleys in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108564,
-                        31.525896
-                  ]
-            },
-            {
-                  "name": "Al- Muhtasibya",
-                  "text": "Al-Muhtasibya, the historic market square in central Hebron with food stalls.",
-                  "category": "historical",
-                  "coords": [
-                        35.109657,
-                        31.524324
-                  ]
-            },
-            {
-                  "name": "Khan Al-Wakaleh",
-                  "text": "Khan Al-Wakaleh, a historic caravanserai for merchants in Hebron's old city.",
-                  "category": "historical",
-                  "coords": [
-                        35.107319,
-                        31.524374
-                  ]
-            },
-            {
-                  "name": "Rojina Hall",
-                  "text": "Rojina Hall, a venue for weddings and celebrations in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.08874,
-                        31.507641
-                  ]
-            },
-            {
-                  "name": "Khirbet en-Nasara",
-                  "text": "Khirbet en-Nasara, an archaeological site with Byzantine ruins southeast of Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.093592,
-                        31.549356
-                  ]
-            },
-            {
-                  "name": "Qiriyat Arba Theater",
-                  "text": "Qiriyat Arba Theater, a cinema and performance hall in the Israeli settlement of Kiryat Arba near Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.120306,
-                        31.528425
-                  ]
-            },
-            {
-                  "name": "Al Fonon Center",
-                  "text": "Al Fonon Center, a cultural centre with art workshops and exhibitions in Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.109794,
-                        31.521484
                   ]
             },
             {
@@ -4008,39 +2019,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hassouneh park",
-                  "text": "Hassouneh Park, a public park with a playground and green spaces in western Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097362,
-                        31.545588
-                  ]
-            },
-            {
-                  "name": "Dandis Metal Furniture",
-                  "text": "Dandis Metal Furniture, a metal furniture store on Hebron's main road.",
-                  "category": "landmark",
-                  "coords": [
-                        35.06608,
-                        31.527142
-                  ]
-            },
-            {
                   "name": "Sinqrot Building",
                   "text": "Sinqrot Building, a commercial building in Hebron's city center.",
                   "category": "landmark",
                   "coords": [
                         35.109615,
                         31.548868
-                  ]
-            },
-            {
-                  "name": "Alsharif Traid & Investment Co",
-                  "text": "Alsharif Traid & Investment Co, a landmark company building in Hebron's business district.",
-                  "category": "landmark",
-                  "coords": [
-                        35.100836,
-                        31.555358
                   ]
             },
             {
@@ -4068,15 +2052,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.080627,
                         31.524179
-                  ]
-            },
-            {
-                  "name": "Al Zahid Sherin Zawiya and mosque",
-                  "text": "Al Zahid Sherin Zawiya and mosque, a Sufi zawiya and mosque complex in Hebron's old city.",
-                  "category": "landmark",
-                  "coords": [
-                        35.10626,
-                        31.526852
                   ]
             }
       ]
@@ -4128,48 +2103,12 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-nablus-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Sichem",
-                  "text": "Archäologischer Siedlungshügel, Stätte des biblischen Sichem.",
-                  "category": "historical",
-                  "coords": [
-                        35.281522,
-                        32.213557
-                  ]
-            },
-            {
                   "name": "Grab von Sheikh Ghanem",
                   "text": "Gewölbtes Grabmal des Sufi-Heiligen Scheich Ghanem aus dem 13. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         35.273818,
                         32.20151
-                  ]
-            },
-            {
-                  "name": "The Roman Stairs",
-                  "text": "Die Römische Treppe, eine gut erhaltene römische Treppe, die den Berg Garizim in Nablus hinaufführt.",
-                  "category": "historical",
-                  "coords": [
-                        35.263043,
-                        32.216711
-                  ]
-            },
-            {
-                  "name": "Zawata",
-                  "text": "Zawata, ein historisches Dorf nordwestlich von Nablus mit alten Olivenhainen.",
-                  "category": "historical",
-                  "coords": [
-                        35.277417,
-                        32.22005
-                  ]
-            },
-            {
-                  "name": "Al Jabir Land",
-                  "text": "Al Jabir Land, ein familieneigenes landwirtschaftliches Grundstück am Stadtrand von Nablus.",
-                  "category": "family",
-                  "coords": [
-                        35.239128,
-                        32.226299
                   ]
             },
             {
@@ -4236,48 +2175,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Josefsblick",
-                  "text": "Aussichtspunkt über das samarische Bergland.",
-                  "category": "natural",
-                  "coords": [
-                        35.275494,
-                        32.207588
-                  ]
-            },
-            {
                   "name": "Berg Ebal bei Nablus",
                   "text": "Biblischer Berg mit Josuas Altar.",
                   "category": "natural",
                   "coords": [
                         35.273353,
                         32.233568
-                  ]
-            },
-            {
-                  "name": "Al Jala' TV",
-                  "text": "Al Jala' TV, ein lokaler Fernsehsender mit Sitz in Nablus.",
-                  "category": "cultural",
-                  "coords": [
-                        35.263213,
-                        32.222735
-                  ]
-            },
-            {
-                  "name": "Sama Nablus",
-                  "text": "Sama Nablus, ein Hochhaus mit Panoramablick über Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.250321,
-                        32.235237
-                  ]
-            },
-            {
-                  "name": "Hamman as-Shifa",
-                  "text": "Hamman as-Shifa, ein historisches türkisches Bad in der Altstadt von Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.259878,
-                        32.219273
                   ]
             },
             {
@@ -4326,30 +2229,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ajyad 8",
-                  "text": "Ajyad 8, ein Wohngebäude im Viertel Ajyad von Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.241447,
-                        32.236417
-                  ]
-            },
-            {
                   "name": "Ajyad Building 1",
                   "text": "Ajyad Building 1, ein weiteres Wohngebäude im Viertel Ajyad von Nablus.",
                   "category": "landmark",
                   "coords": [
                         35.239543,
                         32.238246
-                  ]
-            },
-            {
-                  "name": "Clock tower",
-                  "text": "Uhrturm, der ikonische Uhrturm am zentralen Platz von Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.261747,
-                        32.218845
                   ]
             },
             {
@@ -4436,48 +2321,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Tell Balata",
-                  "text": "Régészeti tell, a bibliai Sikem (Shechem) helyszíne.",
-                  "category": "historical",
-                  "coords": [
-                        35.281522,
-                        32.213557
-                  ]
-            },
-            {
                   "name": "Sheikh Ghanem Tomb",
                   "text": "Kupolás sírépítmény a 13. századi szúfi szent, Sheikh Ghanem számára.",
                   "category": "historical",
                   "coords": [
                         35.273818,
                         32.20151
-                  ]
-            },
-            {
-                  "name": "The Roman Stairs",
-                  "text": "A Római lépcső, egy jól megőrzött római lépcső, amely a Garizim hegyre vezet Nabluszban.",
-                  "category": "historical",
-                  "coords": [
-                        35.263043,
-                        32.216711
-                  ]
-            },
-            {
-                  "name": "Zawata",
-                  "text": "Zawata, egy történelmi falu Nablusztól északnyugatra, ősi olajfaligetekkel.",
-                  "category": "historical",
-                  "coords": [
-                        35.277417,
-                        32.22005
-                  ]
-            },
-            {
-                  "name": "Al Jabir Land",
-                  "text": "Al Jabir Land, egy családi tulajdonban lévő mezőgazdasági földterület Nablus külvárosában.",
-                  "category": "family",
-                  "coords": [
-                        35.239128,
-                        32.226299
                   ]
             },
             {
@@ -4544,48 +2393,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Lookout Point",
-                  "text": "Kilátópont a samáriai hegyvidékre.",
-                  "category": "natural",
-                  "coords": [
-                        35.275494,
-                        32.207588
-                  ]
-            },
-            {
                   "name": "Ebal-hegy Nablusz mellett",
                   "text": "Bibliai hegy Józsua oltárával.",
                   "category": "natural",
                   "coords": [
                         35.273353,
                         32.233568
-                  ]
-            },
-            {
-                  "name": "Al Jala' TV",
-                  "text": "Al Jala' TV, egy helyi televíziós állomás székhellyel Nabluszban.",
-                  "category": "cultural",
-                  "coords": [
-                        35.263213,
-                        32.222735
-                  ]
-            },
-            {
-                  "name": "Sama Nablus",
-                  "text": "Sama Nablus, egy magasépület, amely panorámás kilátást nyújt Nabluszra.",
-                  "category": "landmark",
-                  "coords": [
-                        35.250321,
-                        32.235237
-                  ]
-            },
-            {
-                  "name": "Hamman as-Shifa",
-                  "text": "Hamman as-Shifa, egy történelmi török fürdő Nablus óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.259878,
-                        32.219273
                   ]
             },
             {
@@ -4634,30 +2447,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ajyad 8",
-                  "text": "Ajyad 8, egy lakóépület Nablus Ajyad negyedében.",
-                  "category": "landmark",
-                  "coords": [
-                        35.241447,
-                        32.236417
-                  ]
-            },
-            {
                   "name": "Ajyad Building 1",
                   "text": "Ajyad Building 1, egy másik lakóépület Nablus Ajyad negyedében.",
                   "category": "landmark",
                   "coords": [
                         35.239543,
                         32.238246
-                  ]
-            },
-            {
-                  "name": "Clock tower",
-                  "text": "Óratorony, az ikonikus óratorony Nablus központi terén.",
-                  "category": "landmark",
-                  "coords": [
-                        35.261747,
-                        32.218845
                   ]
             },
             {
@@ -4744,48 +2539,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tell Balata",
-                  "text": "Movilă arheologică, locul biblicului Sichem (Shechem).",
-                  "category": "historical",
-                  "coords": [
-                        35.281522,
-                        32.213557
-                  ]
-            },
-            {
                   "name": "Mormântul lui Șeic Ghanem",
                   "text": "Mormânt cu dom al sfântului sufi din secolul al XIII-lea, Șeicul Ghanem.",
                   "category": "historical",
                   "coords": [
                         35.273818,
                         32.20151
-                  ]
-            },
-            {
-                  "name": "The Roman Stairs",
-                  "text": "Scările romane, o scară romană bine conservată care urcă pe Muntele Gerizim din Nablus.",
-                  "category": "historical",
-                  "coords": [
-                        35.263043,
-                        32.216711
-                  ]
-            },
-            {
-                  "name": "Zawata",
-                  "text": "Zawata, un sat istoric la nord-vest de Nablus, cu livezi străvechi de măslini.",
-                  "category": "historical",
-                  "coords": [
-                        35.277417,
-                        32.22005
-                  ]
-            },
-            {
-                  "name": "Al Jabir Land",
-                  "text": "Al Jabir Land, un teren agricol de familie la periferia Nablusului.",
-                  "category": "family",
-                  "coords": [
-                        35.239128,
-                        32.226299
                   ]
             },
             {
@@ -4852,48 +2611,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Lookout Point",
-                  "text": "Punct de belvedere peste munții Samariei.",
-                  "category": "natural",
-                  "coords": [
-                        35.275494,
-                        32.207588
-                  ]
-            },
-            {
                   "name": "Muntele Ebal lângă Nablus",
                   "text": "Munte biblic cu altarul lui Iosua.",
                   "category": "natural",
                   "coords": [
                         35.273353,
                         32.233568
-                  ]
-            },
-            {
-                  "name": "Al Jala' TV",
-                  "text": "Al Jala' TV, un post de televiziune local cu sediul în Nablus.",
-                  "category": "cultural",
-                  "coords": [
-                        35.263213,
-                        32.222735
-                  ]
-            },
-            {
-                  "name": "Sama Nablus",
-                  "text": "Sama Nablus, o clădire înaltă care oferă vederi panoramice asupra Nablusului.",
-                  "category": "landmark",
-                  "coords": [
-                        35.250321,
-                        32.235237
-                  ]
-            },
-            {
-                  "name": "Hamman as-Shifa",
-                  "text": "Hamman as-Shifa, o baie turcească istorică în orașul vechi din Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.259878,
-                        32.219273
                   ]
             },
             {
@@ -4942,30 +2665,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ajyad 8",
-                  "text": "Ajyad 8, o clădire rezidențială în cartierul Ajyad din Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.241447,
-                        32.236417
-                  ]
-            },
-            {
                   "name": "Ajyad Building 1",
                   "text": "Ajyad Building 1, o altă clădire rezidențială în cartierul Ajyad din Nablus.",
                   "category": "landmark",
                   "coords": [
                         35.239543,
                         32.238246
-                  ]
-            },
-            {
-                  "name": "Clock tower",
-                  "text": "Turnul cu ceas, emblematicul turn cu ceas din piața centrală a Nablusului.",
-                  "category": "landmark",
-                  "coords": [
-                        35.261747,
-                        32.218845
                   ]
             },
             {
@@ -5052,48 +2757,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Tell Balata",
-                  "text": "Archaeological tell, site of biblical Shechem.",
-                  "category": "historical",
-                  "coords": [
-                        35.281522,
-                        32.213557
-                  ]
-            },
-            {
                   "name": "tomb of Sheikh Ghanem",
                   "text": "Domed tomb of the 13th-century Sufi saint Sheikh Ghanem.",
                   "category": "historical",
                   "coords": [
                         35.273818,
                         32.20151
-                  ]
-            },
-            {
-                  "name": "The Roman Stairs",
-                  "text": "The Roman Stairs, a well-preserved Roman staircase leading up Mount Gerizim in Nablus.",
-                  "category": "historical",
-                  "coords": [
-                        35.263043,
-                        32.216711
-                  ]
-            },
-            {
-                  "name": "Zawata",
-                  "text": "Zawata, a historical village northwest of Nablus with ancient olive groves.",
-                  "category": "historical",
-                  "coords": [
-                        35.277417,
-                        32.22005
-                  ]
-            },
-            {
-                  "name": "Al Jabir Land",
-                  "text": "Al Jabir Land, a family-owned agricultural land parcel on the outskirts of Nablus.",
-                  "category": "family",
-                  "coords": [
-                        35.239128,
-                        32.226299
                   ]
             },
             {
@@ -5124,15 +2793,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "al-qalaa castle",
-                  "text": "Al-Qalaa Castle, a medieval castle on a hilltop overlooking Nablus.",
-                  "category": "castle",
-                  "coords": [
-                        35.248124,
-                        32.227697
-                  ]
-            },
-            {
                   "name": "farah weddings hall",
                   "text": "Farah Weddings Hall, a large wedding hall complex in Nablus near the city center.",
                   "category": "castle",
@@ -5148,60 +2808,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.272903,
                         32.200707
-                  ]
-            },
-            {
-                  "name": "The Roman Hippodrome",
-                  "text": "The Roman Hippodrome, the ruins of a Roman chariot-racing arena in Neapolis (Nablus).",
-                  "category": "historical",
-                  "coords": [
-                        35.261311,
-                        32.222711
-                  ]
-            },
-            {
-                  "name": "Joseph Lookout Point",
-                  "text": "Lookout point over the Samarian mountains.",
-                  "category": "natural",
-                  "coords": [
-                        35.275494,
-                        32.207588
-                  ]
-            },
-            {
-                  "name": "Mount Ebal",
-                  "text": "Biblical mountain associated with Joshua's altar.",
-                  "category": "natural",
-                  "coords": [
-                        35.273353,
-                        32.233568
-                  ]
-            },
-            {
-                  "name": "Al Jala' TV",
-                  "text": "Al Jala' TV, a local television station headquartered in Nablus.",
-                  "category": "cultural",
-                  "coords": [
-                        35.263213,
-                        32.222735
-                  ]
-            },
-            {
-                  "name": "Sama Nablus",
-                  "text": "Sama Nablus, a high-rise building offering panoramic views of Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.250321,
-                        32.235237
-                  ]
-            },
-            {
-                  "name": "Hamman as-Shifa",
-                  "text": "Hamman as-Shifa, a historic Turkish bathhouse in the old city of Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.259878,
-                        32.219273
                   ]
             },
             {
@@ -5250,39 +2856,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ajyad 8",
-                  "text": "Ajyad 8, a residential building in the Ajyad neighborhood of Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.241447,
-                        32.236417
-                  ]
-            },
-            {
                   "name": "Ajyad Building 1",
                   "text": "Ajyad Building 1, another residential building in the Ajyad neighborhood of Nablus.",
                   "category": "landmark",
                   "coords": [
                         35.239543,
                         32.238246
-                  ]
-            },
-            {
-                  "name": "Clock tower",
-                  "text": "Clock tower, the iconic clock tower in the central square of Nablus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.261747,
-                        32.218845
-                  ]
-            },
-            {
-                  "name": "al magbool",
-                  "text": "Al Magbool, a natural spring in the hills west of Nablus.",
-                  "category": "natural",
-                  "coords": [
-                        35.263964,
-                        32.221696
                   ]
             },
             {
@@ -5415,24 +2994,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gadid",
-                  "text": "Gadid bezeichnet die Ruinen einer ehemaligen israelischen Siedlung im Gusch Katif bei Chan Yunis.",
-                  "category": "historical",
-                  "coords": [
-                        34.277754,
-                        31.344344
-                  ]
-            },
-            {
-                  "name": "Neve Dekalim",
-                  "text": "Neve Dekalim sind die Ruinen einer ehemals bedeutenden israelischen Siedlung bei Chan Yunis.",
-                  "category": "historical",
-                  "coords": [
-                        34.27587,
-                        31.351948
-                  ]
-            },
-            {
                   "name": "Rathaus der palästinensischen Stadt Bani Suheila",
                   "text": "Das Rathaus der palästinensischen Stadt Bani Suheila ist ein städtisches Monument in Chan Yunis.",
                   "category": "historical",
@@ -5457,24 +3018,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.307967,
                         31.343458
-                  ]
-            },
-            {
-                  "name": "Ebad Rahman Mosque",
-                  "text": "Die Ebad Rahman Mosque ist eine Sehenswürdigkeit in Chan Yunis.",
-                  "category": "landmark",
-                  "coords": [
-                        34.290455,
-                        31.35289
-                  ]
-            },
-            {
-                  "name": "Alsaqea",
-                  "text": "Alsaqea, ein historisches Wahrzeichen in Khan Yunis nahe dem alten Markt.",
-                  "category": "historical",
-                  "coords": [
-                        34.322831,
-                        31.344033
                   ]
             },
             {
@@ -5532,15 +3075,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jerusalem Street",
-                  "text": "Jerusalem Street, die Hauptstraße in Ost-West-Richtung in Khan Yunis.",
-                  "category": "landmark",
-                  "coords": [
-                        34.332647,
-                        31.342311
-                  ]
-            },
-            {
                   "name": "Al-Magharba Street",
                   "text": "شارع المغاربه ist ein Aussichtspunkt in Chan Yunis.",
                   "category": "natural",
@@ -5556,15 +3090,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.286851,
                         31.330388
-                  ]
-            },
-            {
-                  "name": "Cultural Center",
-                  "text": "Das Cultural Center ist ein Kunst- und Kulturzentrum in Chan Yunis.",
-                  "category": "cultural",
-                  "coords": [
-                        34.300748,
-                        31.326069
                   ]
             },
             {
@@ -5597,33 +3122,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gadid",
-                  "text": "Gadid egy egykori izraeli település romjait jelöli a Gus Katif blokkban, Chan Yunis területén.",
-                  "category": "historical",
-                  "coords": [
-                        34.277754,
-                        31.344344
-                  ]
-            },
-            {
-                  "name": "Neve Dekalim",
-                  "text": "A Neve Dekalim egy egykori jelentős izraeli település romjai Chan Yunis közelében.",
-                  "category": "historical",
-                  "coords": [
-                        34.27587,
-                        31.351948
-                  ]
-            },
-            {
-                  "name": "Bani Suheila Municipality",
-                  "text": "Bani Suheila önkormányzati épülete egy fontos közigazgatási műemlék Chan Yunis térségében.",
-                  "category": "historical",
-                  "coords": [
-                        34.322255,
-                        31.34033
-                  ]
-            },
-            {
                   "name": "Al-Sunia Roundabout",
                   "text": "Al-Sunia körforgalom, egy nagy körforgalom Khan Yunis óvárosa közelében.",
                   "category": "historical",
@@ -5639,24 +3137,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.307967,
                         31.343458
-                  ]
-            },
-            {
-                  "name": "Ebad Rahman Mosque",
-                  "text": "Az Ebad Rahman Mosque egy látványosság Chan Yunis városában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.290455,
-                        31.35289
-                  ]
-            },
-            {
-                  "name": "Alsaqea",
-                  "text": "Alsaqea, egy történelmi nevezetesség Khan Yunisban, a régi piac közelében.",
-                  "category": "historical",
-                  "coords": [
-                        34.322831,
-                        31.344033
                   ]
             },
             {
@@ -5714,15 +3194,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jerusalem Street",
-                  "text": "Jerusalem Street, a fő kelet-nyugati utca Khan Yunisban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.332647,
-                        31.342311
-                  ]
-            },
-            {
                   "name": "Al-Magharba Street",
                   "text": "A شارع المغاربه egy kilátópont Chan Yunis területén.",
                   "category": "natural",
@@ -5738,15 +3209,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.286851,
                         31.330388
-                  ]
-            },
-            {
-                  "name": "Cultural Center",
-                  "text": "A Cultural Center egy művészeti központ Chan Yunis városában.",
-                  "category": "cultural",
-                  "coords": [
-                        34.300748,
-                        31.326069
                   ]
             },
             {
@@ -5779,33 +3241,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gadid",
-                  "text": "Gadid reprezintă ruinele unei foste așezări israeliene din regiunea Chan Yunis.",
-                  "category": "historical",
-                  "coords": [
-                        34.277754,
-                        31.344344
-                  ]
-            },
-            {
-                  "name": "Neve Dekalim",
-                  "text": "Neve Dekalim cuprinde ruinele unei foste așezări majore din zona Chan Yunis.",
-                  "category": "historical",
-                  "coords": [
-                        34.27587,
-                        31.351948
-                  ]
-            },
-            {
-                  "name": "Bani Suheila Municipality",
-                  "text": "Bani Suheila Municipality este un monument civic situat în regiunea orașului palestinian Bani Suheila, lângă Chan Yunis.",
-                  "category": "historical",
-                  "coords": [
-                        34.322255,
-                        31.34033
-                  ]
-            },
-            {
                   "name": "Al-Sunia Roundabout",
                   "text": "Sensul giratoriu Al-Sunia, un sens giratoriu mare lângă orașul vechi din Khan Yunis.",
                   "category": "historical",
@@ -5821,24 +3256,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.307967,
                         31.343458
-                  ]
-            },
-            {
-                  "name": "Ebad Rahman Mosque",
-                  "text": "Ebad Rahman Mosque este o atracție situată în Chan Yunis.",
-                  "category": "landmark",
-                  "coords": [
-                        34.290455,
-                        31.35289
-                  ]
-            },
-            {
-                  "name": "Alsaqea",
-                  "text": "Alsaqea, un reper istoric în Khan Yunis, lângă piața veche.",
-                  "category": "historical",
-                  "coords": [
-                        34.322831,
-                        31.344033
                   ]
             },
             {
@@ -5896,15 +3313,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jerusalem Street",
-                  "text": "Strada Ierusalim, strada principală est-vest din Khan Yunis.",
-                  "category": "landmark",
-                  "coords": [
-                        34.332647,
-                        31.342311
-                  ]
-            },
-            {
                   "name": "Al-Magharba Street",
                   "text": "شارع المغاربه este un punct de belvedere situat în Chan Yunis.",
                   "category": "natural",
@@ -5920,15 +3328,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.286851,
                         31.330388
-                  ]
-            },
-            {
-                  "name": "Cultural Center",
-                  "text": "Cultural Center este un centru de artă din Chan Yunis.",
-                  "category": "cultural",
-                  "coords": [
-                        34.300748,
-                        31.326069
                   ]
             },
             {
@@ -5961,33 +3360,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gadid",
-                  "text": "Gadid refers to the ruins of an Israeli settlement that was located in the Gush Katif bloc in Chan Yunis.",
-                  "category": "historical",
-                  "coords": [
-                        34.277754,
-                        31.344344
-                  ]
-            },
-            {
-                  "name": "Neve Dekalim",
-                  "text": "Neve Dekalim encompasses the ruins of what was once the largest Israeli settlement in the Gaza Strip, located in Chan Yunis.",
-                  "category": "historical",
-                  "coords": [
-                        34.27587,
-                        31.351948
-                  ]
-            },
-            {
-                  "name": "Bani Suheila Municipality",
-                  "text": "The Bani Suheila Municipality building serves as a significant civic monument in the Palestinian city near Chan Yunis.",
-                  "category": "historical",
-                  "coords": [
-                        34.322255,
-                        31.34033
-                  ]
-            },
-            {
                   "name": "Al-Sunia Roundabout",
                   "text": "Al-Sunia Roundabout, a major roundabout near the old city of Khan Yunis.",
                   "category": "historical",
@@ -6003,24 +3375,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.307967,
                         31.343458
-                  ]
-            },
-            {
-                  "name": "Ebad Rahman Mosque",
-                  "text": "The Ebad Rahman Mosque is a notable attraction and religious site in Chan Yunis.",
-                  "category": "landmark",
-                  "coords": [
-                        34.290455,
-                        31.35289
-                  ]
-            },
-            {
-                  "name": "Alsaqea",
-                  "text": "Alsaqea, a historical landmark in Khan Yunis near the old market.",
-                  "category": "historical",
-                  "coords": [
-                        34.322831,
-                        31.344033
                   ]
             },
             {
@@ -6078,15 +3432,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jerusalem Street",
-                  "text": "Jerusalem Street, the main east-west street in Khan Yunis.",
-                  "category": "landmark",
-                  "coords": [
-                        34.332647,
-                        31.342311
-                  ]
-            },
-            {
                   "name": "Al-Magharba Street",
                   "text": "شارع المغاربه serves as a viewpoint in the city of Chan Yunis.",
                   "category": "natural",
@@ -6102,15 +3447,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.286851,
                         31.330388
-                  ]
-            },
-            {
-                  "name": "Cultural Center",
-                  "text": "The Cultural Center is a hub for arts and culture situated in Chan Yunis.",
-                  "category": "cultural",
-                  "coords": [
-                        34.300748,
-                        31.326069
                   ]
             },
             {
@@ -7332,15 +4668,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-tulkarm-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mega Land",
-                  "text": "Mega Land ist ein Freizeitpark in Tulkarm.",
-                  "category": "family",
-                  "coords": [
-                        35.029461,
-                        32.321942
-                  ]
-            },
-            {
                   "name": "Tulkarm",
                   "text": "Das Museum in Tulkarm stellt regionale historische Exponate aus.",
                   "category": "museum",
@@ -7405,15 +4732,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mega Land",
-                  "text": "A Mega Land egy vidámpark Tulkarm területén.",
-                  "category": "family",
-                  "coords": [
-                        35.029461,
-                        32.321942
-                  ]
-            },
             {
                   "name": "Tulkarm",
                   "text": "Tulkarm múzeuma a régió történelmi emlékeit mutatja be.",
@@ -7480,15 +4798,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mega Land",
-                  "text": "Mega Land este un parc de distracții din Tulkarm.",
-                  "category": "family",
-                  "coords": [
-                        35.029461,
-                        32.321942
-                  ]
-            },
-            {
                   "name": "Tulkarm",
                   "text": "Tulkarm deține un muzeu care prezintă artefacte istorice locale.",
                   "category": "museum",
@@ -7554,15 +4863,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Mega Land",
-                  "text": "Mega Land is a popular theme park offering amusement rides in Tulkarm.",
-                  "category": "family",
-                  "coords": [
-                        35.029461,
-                        32.321942
-                  ]
-            },
-            {
                   "name": "Tulkarm",
                   "text": "Tulkarm features a local museum exhibiting historical artifacts of the region.",
                   "category": "museum",
@@ -7596,15 +4896,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.026562,
                         32.316764
-                  ]
-            },
-            {
-                  "name": "Al Jaroun Cycle",
-                  "text": "A natural circular track in Tulkarm used for cycling.",
-                  "category": "natural",
-                  "coords": [
-                        35.029744,
-                        32.326936
                   ]
             },
             {
@@ -7692,15 +4983,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "widding al qaseer",
-                  "text": "Ein Hochzeitssaal in Qalqilya für traditionelle Feierlichkeiten.",
-                  "category": "cultural",
-                  "coords": [
-                        34.979868,
-                        32.191228
-                  ]
-            },
-            {
                   "name": "Meshek Haotzar",
                   "text": "Meshek Haotzar ist ein verfallenes historisches landwirtschaftliches Gut in Qalqilya.",
                   "category": "historical",
@@ -7743,15 +5025,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.971442,
                         32.199812
-                  ]
-            },
-            {
-                  "name": "Shaimaa Roundabout",
-                  "text": "Ein Verkehrskreisel in Qalqilya, benannt nach Shaimaa.",
-                  "category": "historical",
-                  "coords": [
-                        34.967311,
-                        32.187621
                   ]
             },
             {
@@ -7826,15 +5099,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.957962,
                         32.199771
-                  ]
-            },
-            {
-                  "name": "widding al qaseer",
-                  "text": "Egy esküvői terem Qalqilyában hagyományos ünnepségekhez.",
-                  "category": "cultural",
-                  "coords": [
-                        34.979868,
-                        32.191228
                   ]
             },
             {
@@ -7966,15 +5230,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "widding al qaseer",
-                  "text": "O sală de nunți în Qalqilya pentru ceremonii tradiționale.",
-                  "category": "cultural",
-                  "coords": [
-                        34.979868,
-                        32.191228
-                  ]
-            },
-            {
                   "name": "Meshek Haotzar",
                   "text": "Meshek Haotzar este un domeniu agricol istoric în ruină din Qalqilya.",
                   "category": "historical",
@@ -8017,15 +5272,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.971442,
                         32.199812
-                  ]
-            },
-            {
-                  "name": "Shaimaa Roundabout",
-                  "text": "Un sens giratoriu în Qalqilya, numit după Shaimaa.",
-                  "category": "historical",
-                  "coords": [
-                        34.967311,
-                        32.187621
                   ]
             },
             {
@@ -8103,15 +5349,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "widding al qaseer",
-                  "text": "A wedding hall in Qalqilya for traditional celebrations.",
-                  "category": "cultural",
-                  "coords": [
-                        34.979868,
-                        32.191228
-                  ]
-            },
-            {
                   "name": "Meshek Haotzar",
                   "text": "Meshek Haotzar is a ruined historic agricultural estate located in Qalqilya.",
                   "category": "historical",
@@ -8154,15 +5391,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.971442,
                         32.199812
-                  ]
-            },
-            {
-                  "name": "Shaimaa Roundabout",
-                  "text": "A traffic roundabout in Qalqilya named after Shaimaa.",
-                  "category": "historical",
-                  "coords": [
-                        34.967311,
-                        32.187621
                   ]
             },
             {
@@ -9849,15 +7077,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Nakheel Hall for Weddings",
-                  "text": "A wedding hall in Beit Hanoun surrounded by palm trees.",
-                  "category": "natural",
-                  "coords": [
-                        34.507018,
-                        31.537104
-                  ]
-            },
-            {
                   "name": "\"Friend-Ships\" American Field Hospital",
                   "text": "A historic American field hospital in Beit Hanoun called \"Friend-Ships\".",
                   "category": "historical",
@@ -9978,15 +7197,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nisanit",
-                  "text": "Nisanit ist eine weitere ehemalige israelische Siedlung, die heute als Ruine in Beit Lahiya existiert.",
-                  "category": "historical",
-                  "coords": [
-                        34.531582,
-                        31.562235
-                  ]
-            },
-            {
                   "name": "Deir Suneid",
                   "text": "Deir Suneid ist eine Ruinenstätte in Beit Lahiya.",
                   "category": "historical",
@@ -10020,15 +7230,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.538774,
                         31.557496
-                  ]
-            },
-            {
-                  "name": "Nasr Mosque",
-                  "text": "Die Nasr Mosque ist eine bedeutende Kultstätte in Beit Lahiya.",
-                  "category": "religious",
-                  "coords": [
-                        34.538562,
-                        31.540737
                   ]
             },
             {
@@ -10232,15 +7433,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nisanit",
-                  "text": "A Nisanit egy másik egykori izraeli település, amely ma romként áll Beit Lahiya-ban.",
-                  "category": "historical",
-                  "coords": [
-                        34.531582,
-                        31.562235
-                  ]
-            },
-            {
                   "name": "Deir Suneid",
                   "text": "A Deir Suneid egy romterület Beit Lahiya-ban.",
                   "category": "historical",
@@ -10274,15 +7466,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.538774,
                         31.557496
-                  ]
-            },
-            {
-                  "name": "Nasr Mosque",
-                  "text": "A Nasr Mosque egy jelentős istentiszteleti hely Beit Lahiya városában.",
-                  "category": "religious",
-                  "coords": [
-                        34.538562,
-                        31.540737
                   ]
             },
             {
@@ -10486,15 +7669,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nisanit",
-                  "text": "Nisanit este o altă fostă așezare israeliană care există astăzi ca ruină în Beit Lahiya.",
-                  "category": "historical",
-                  "coords": [
-                        34.531582,
-                        31.562235
-                  ]
-            },
-            {
                   "name": "Deir Suneid",
                   "text": "Deir Suneid este un sit în ruină din Beit Lahiya.",
                   "category": "historical",
@@ -10528,15 +7702,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.538774,
                         31.557496
-                  ]
-            },
-            {
-                  "name": "Nasr Mosque",
-                  "text": "Nasr Mosque este un important lăcaș de cult din Beit Lahiya.",
-                  "category": "religious",
-                  "coords": [
-                        34.538562,
-                        31.540737
                   ]
             },
             {
@@ -10740,15 +7905,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nisanit",
-                  "text": "Nisanit is another former Israeli settlement that exists as a ruin in Beit Lahiya today.",
-                  "category": "historical",
-                  "coords": [
-                        34.531582,
-                        31.562235
-                  ]
-            },
-            {
                   "name": "Deir Suneid",
                   "text": "Deir Suneid is a ruined site in Beit Lahiya.",
                   "category": "historical",
@@ -10782,15 +7938,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.538774,
                         31.557496
-                  ]
-            },
-            {
-                  "name": "Nasr Mosque",
-                  "text": "The Nasr Mosque is a significant place of worship in Beit Lahiya.",
-                  "category": "religious",
-                  "coords": [
-                        34.538562,
-                        31.540737
                   ]
             },
             {
@@ -11913,48 +9060,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palestine Museum of Natural History",
-                  "text": "Naturkundemuseum mit Ausstellungen zur lokalen Flora und Fauna.",
-                  "category": "museum",
-                  "coords": [
-                        35.20541,
-                        31.717861
-                  ]
-            },
-            {
-                  "name": "Beit Sahour Community Center",
-                  "text": "Ein Gemeindezentrum und Museum in Beit Sahour, das die lokale Geschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        35.217306,
-                        31.703733
-                  ]
-            },
-            {
-                  "name": "PalGPS Company",
-                  "text": "Das Büro von PalGPS, einem Navigationsunternehmen, in Beit Sahour.",
-                  "category": "landmark",
-                  "coords": [
-                        35.220274,
-                        31.707106
-                  ]
-            },
-            {
                   "name": "Terra Sancta School Theater",
                   "text": "Das Theater der Terra Sancta Schule in Beit Sahour, genutzt für Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         35.207632,
                         31.705624
-                  ]
-            },
-            {
-                  "name": "Baituna al-Talhami Museum",
-                  "text": "Ein Museum in Beit Sahour, das dem Erbe von Baituna Al Talhami gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        35.205056,
-                        31.704825
                   ]
             },
             {
@@ -11973,15 +9084,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.222397,
                         31.706591
-                  ]
-            },
-            {
-                  "name": "Hirtenfeld",
-                  "text": "Eine Höhle und Kapelle, die den biblischen Ort markieren, an dem Engel den Hirten die Geburt Jesu verkündeten.",
-                  "category": "historical",
-                  "coords": [
-                        35.229541,
-                        31.707303
                   ]
             },
             {
@@ -12039,15 +9141,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jabal Abu Ghunaym",
-                  "text": "Ein Hügel mit Blick auf Beit Sahour, auf dem sich Ruinen aus byzantinischer Zeit befinden.",
-                  "category": "historical",
-                  "coords": [
-                        35.22123,
-                        31.725649
-                  ]
-            },
-            {
                   "name": "Carmelite Sisters Monastery",
                   "text": "Karmelitenkloster nahe Bethlehem in Beit Sahour.",
                   "category": "religious",
@@ -12064,24 +9157,6 @@ export const palestineCitiesV2: POI[] = [
                         35.2041,
                         31.70496
                   ]
-            },
-            {
-                  "name": "Kapelle der Milchgrotte",
-                  "text": "Kapelle über einer weißen Grotte, traditioneller Rastplatz der Heiligen Familie.",
-                  "category": "religious",
-                  "coords": [
-                        35.208755,
-                        31.703253
-                  ]
-            },
-            {
-                  "name": "Golden Park Resort",
-                  "text": "Ein Resort mit Schwimmbecken und Gärten, das bei Familien für Ausflüge beliebt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        35.226748,
-                        31.70564
-                  ]
             }
       ],
       "hu": [
@@ -12095,48 +9170,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palestine Museum of Natural History",
-                  "text": "Természetrajzi múzeum a helyi növény- és állatvilágot bemutató kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        35.20541,
-                        31.717861
-                  ]
-            },
-            {
-                  "name": "Beit Sahour Community Center",
-                  "text": "Egy közösségi központ és múzeum Beit Sahourban, amely a helyi történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        35.217306,
-                        31.703733
-                  ]
-            },
-            {
-                  "name": "PalGPS Company",
-                  "text": "A PalGPS, egy navigációs cég irodája Beit Sahourban.",
-                  "category": "landmark",
-                  "coords": [
-                        35.220274,
-                        31.707106
-                  ]
-            },
-            {
                   "name": "Terra Sancta School Theater",
                   "text": "A Terra Sancta Iskola színháza Beit Sahourban, előadásokhoz használva.",
                   "category": "cultural",
                   "coords": [
                         35.207632,
                         31.705624
-                  ]
-            },
-            {
-                  "name": "Baituna al-Talhami Museum",
-                  "text": "Egy múzeum Beit Sahourban, amely Baituna Al Talhami örökségének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        35.205056,
-                        31.704825
                   ]
             },
             {
@@ -12221,15 +9260,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jabal Abu Ghunaym",
-                  "text": "Egy domb, amely Beit Sahourra néz, és bizánci kori romok találhatók rajta.",
-                  "category": "historical",
-                  "coords": [
-                        35.22123,
-                        31.725649
-                  ]
-            },
-            {
                   "name": "Carmelite Sisters Monastery",
                   "text": "Karmelita kolostor Betlehem közelében, Beit Sahurban.",
                   "category": "religious",
@@ -12255,15 +9285,6 @@ export const palestineCitiesV2: POI[] = [
                         35.208755,
                         31.703253
                   ]
-            },
-            {
-                  "name": "Golden Park Resort",
-                  "text": "Egy üdülőhely medencékkel és kertekkel, amely népszerű a családi kirándulásokhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        35.226748,
-                        31.70564
-                  ]
             }
       ],
       "ro": [
@@ -12277,48 +9298,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palestine Museum of Natural History",
-                  "text": "Muzeu de istorie naturală cu expoziții despre flora și fauna locală.",
-                  "category": "museum",
-                  "coords": [
-                        35.20541,
-                        31.717861
-                  ]
-            },
-            {
-                  "name": "Beit Sahour Community Center",
-                  "text": "Un centru comunitar și muzeu în Beit Sahour, care prezintă istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        35.217306,
-                        31.703733
-                  ]
-            },
-            {
-                  "name": "PalGPS Company",
-                  "text": "Oficiul PalGPS, o companie de navigație, în Beit Sahour.",
-                  "category": "landmark",
-                  "coords": [
-                        35.220274,
-                        31.707106
-                  ]
-            },
-            {
                   "name": "Terra Sancta School Theater",
                   "text": "Teatrul Școlii Terra Sancta din Beit Sahour, folosit pentru spectacole.",
                   "category": "cultural",
                   "coords": [
                         35.207632,
                         31.705624
-                  ]
-            },
-            {
-                  "name": "Baituna al-Talhami Museum",
-                  "text": "Un muzeu în Beit Sahour dedicat moștenirii lui Baituna Al Talhami.",
-                  "category": "museum",
-                  "coords": [
-                        35.205056,
-                        31.704825
                   ]
             },
             {
@@ -12337,15 +9322,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.222397,
                         31.706591
-                  ]
-            },
-            {
-                  "name": "Câmpul Păstorilor",
-                  "text": "O peșteră și capelă care marchează locul biblic unde îngerii au vestit nașterea lui Isus păstorilor.",
-                  "category": "historical",
-                  "coords": [
-                        35.229541,
-                        31.707303
                   ]
             },
             {
@@ -12403,24 +9379,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jabal Abu Ghunaym",
-                  "text": "Un deal cu vedere spre Beit Sahour, care adăpostește ruine din perioada bizantină.",
-                  "category": "historical",
-                  "coords": [
-                        35.22123,
-                        31.725649
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Surorilor Carmelitane",
-                  "text": "Mănăstire carmelită lângă Betleem, în Beit Sahour.",
-                  "category": "religious",
-                  "coords": [
-                        35.19942,
-                        31.704394
-                  ]
-            },
-            {
                   "name": "Church of the Virgin Mary",
                   "text": "Biserică ortodoxă siriană dedicată Fecioarei Maria.",
                   "category": "religious",
@@ -12428,81 +9386,9 @@ export const palestineCitiesV2: POI[] = [
                         35.2041,
                         31.70496
                   ]
-            },
-            {
-                  "name": "Capela Grotei laptelui",
-                  "text": "Capelă construită deasupra unei grote albe, loc tradițional de odihnă al Sfintei Familii.",
-                  "category": "religious",
-                  "coords": [
-                        35.208755,
-                        31.703253
-                  ]
-            },
-            {
-                  "name": "Golden Park Resort",
-                  "text": "O stațiune cu piscine și grădini, populară pentru excursii de familie.",
-                  "category": "landmark",
-                  "coords": [
-                        35.226748,
-                        31.70564
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Al-Bad Museum for Olive Oil Production",
-                  "text": "Museum showcasing traditional olive oil production.",
-                  "category": "museum",
-                  "coords": [
-                        35.203642,
-                        31.706015
-                  ]
-            },
-            {
-                  "name": "Palestine Museum of Natural History",
-                  "text": "Natural history museum displaying local flora and fauna.",
-                  "category": "museum",
-                  "coords": [
-                        35.20541,
-                        31.717861
-                  ]
-            },
-            {
-                  "name": "Beit Sahour Community Center",
-                  "text": "A community center and museum in Beit Sahour showcasing local history.",
-                  "category": "museum",
-                  "coords": [
-                        35.217306,
-                        31.703733
-                  ]
-            },
-            {
-                  "name": "PalGPS Company",
-                  "text": "The office of PalGPS, a navigation company, in Beit Sahour.",
-                  "category": "landmark",
-                  "coords": [
-                        35.220274,
-                        31.707106
-                  ]
-            },
-            {
-                  "name": "Terra Sancta School Theatre",
-                  "text": "The theatre at Terra Sancta School in Beit Sahour used for performances.",
-                  "category": "cultural",
-                  "coords": [
-                        35.207632,
-                        31.705624
-                  ]
-            },
-            {
-                  "name": "Baituna Al Talhami Museum",
-                  "text": "A museum in Beit Sahour dedicated to the heritage of Baituna Al Talhami.",
-                  "category": "museum",
-                  "coords": [
-                        35.205056,
-                        31.704825
-                  ]
-            },
             {
                   "name": "Yes For Children Society (Mr Ok Theater)",
                   "text": "A children's theatre in Beit Sahour run by the Yes For Children Society.",
@@ -12519,33 +9405,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.222397,
                         31.706591
-                  ]
-            },
-            {
-                  "name": "Shepherds' Field",
-                  "text": "A cave and chapel marking the biblical site where angels announced Jesus' birth to shepherds.",
-                  "category": "historical",
-                  "coords": [
-                        35.229541,
-                        31.707303
-                  ]
-            },
-            {
-                  "name": "Grotto of the Nativity",
-                  "text": "Cave venerated as the traditional site of the angel's announcement to the shepherds.",
-                  "category": "natural",
-                  "coords": [
-                        35.207672,
-                        31.704351
-                  ]
-            },
-            {
-                  "name": "Omar Bin Al-Khatab Mosque",
-                  "text": "A mosque in Beit Sahour named after the second caliph Omar, known for its tall minaret.",
-                  "category": "historical",
-                  "coords": [
-                        35.219411,
-                        31.703151
                   ]
             },
             {
@@ -12567,66 +9426,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "makan El tawasol",
-                  "text": "A public square and meeting point in Beit Sahour, used for local gatherings.",
-                  "category": "landmark",
-                  "coords": [
-                        35.205445,
-                        31.710036
-                  ]
-            },
-            {
                   "name": "Beit Jibrin Refugee Camp",
                   "text": "A refugee camp near Beit Sahour, with basic housing for displaced families.",
                   "category": "natural",
                   "coords": [
                         35.201842,
                         31.716014
-                  ]
-            },
-            {
-                  "name": "Jabal Abū Ghunaym",
-                  "text": "A hill overlooking Beit Sahour, with ruins from the Byzantine period.",
-                  "category": "historical",
-                  "coords": [
-                        35.22123,
-                        31.725649
-                  ]
-            },
-            {
-                  "name": "Al-Carmel Convent",
-                  "text": "Carmelite convent near Bethlehem in Beit Sahour.",
-                  "category": "religious",
-                  "coords": [
-                        35.19942,
-                        31.704394
-                  ]
-            },
-            {
-                  "name": "Virgin Mary Syriac Orthodox Church",
-                  "text": "Syriac Orthodox church dedicated to the Virgin Mary.",
-                  "category": "religious",
-                  "coords": [
-                        35.2041,
-                        31.70496
-                  ]
-            },
-            {
-                  "name": "Chapel of the Milk Grotto",
-                  "text": "Chapel built over a white grotto, traditional resting place of the Holy Family.",
-                  "category": "religious",
-                  "coords": [
-                        35.208755,
-                        31.703253
-                  ]
-            },
-            {
-                  "name": "Golden Park Resort",
-                  "text": "A resort with swimming pools and gardens, popular for family outings.",
-                  "category": "landmark",
-                  "coords": [
-                        35.226748,
-                        31.70564
                   ]
             }
       ]
@@ -12948,75 +9753,12 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-bireh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Al-Kasaba",
-                  "text": "Multifunktionales Kultur- und Kunstzentrum in Al Bireh.",
-                  "category": "cultural",
-                  "coords": [
-                        35.204515,
-                        31.903357
-                  ]
-            },
-            {
-                  "name": "Dar Zahran Heritage Building",
-                  "text": "Restauriertes Gebäude aus der osmanischen Zeit, heute Museum zur palästinensischen Kultur.",
-                  "category": "museum",
-                  "coords": [
-                        35.196701,
-                        31.905037
-                  ]
-            },
-            {
-                  "name": "Tel A-Nasbe",
-                  "text": "Tel A-Nasbe ist eine archäologische Stätte in al-Bira, die oft mit der biblischen Stadt Mizpa identifiziert wird.",
-                  "category": "historical",
-                  "coords": [
-                        35.216472,
-                        31.88578
-                  ]
-            },
-            {
-                  "name": "Mahmoud Darwish Museum (Al-Birweh Park)",
-                  "text": "Museum im Park, gewidmet dem palästinensischen Nationaldichter Mahmud Darwisch.",
-                  "category": "museum",
-                  "coords": [
-                        35.191351,
-                        31.890725
-                  ]
-            },
-            {
                   "name": "Yasser Arafat Museum",
                   "text": "Museum über das Leben und Wirken des palästinensischen Führers Jassir Arafat.",
                   "category": "museum",
                   "coords": [
                         35.208768,
                         31.911668
-                  ]
-            },
-            {
-                  "name": "Al Zaytonah Theme Park For Kids",
-                  "text": "Ein Kinderfreizeitpark in Al Bireh mit Fahrgeschäften und Olivenbaumgärten.",
-                  "category": "family",
-                  "coords": [
-                        35.185025,
-                        31.916716
-                  ]
-            },
-            {
-                  "name": "Noora Heritage House",
-                  "text": "Ein restauriertes osmanisches Haus, das traditionelle palästinensische Artefakte ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        35.200064,
-                        31.896747
-                  ]
-            },
-            {
-                  "name": "Sakakini Cultural Center",
-                  "text": "Ein nach Khalil Sakakini benanntes Kulturzentrum mit Kunstausstellungen und Veranstaltungen.",
-                  "category": "museum",
-                  "coords": [
-                        35.201753,
-                        31.898725
                   ]
             },
             {
@@ -13065,60 +9807,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Altahan",
-                  "text": "Ein Kulturort in Al Bireh, der Aufführungen und Workshops beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        35.196929,
-                        31.907399
-                  ]
-            },
-            {
-                  "name": "French-German Cultural Center",
-                  "text": "Ein Zentrum zur Förderung der französischen und deutschen Sprache und Kultur.",
-                  "category": "cultural",
-                  "coords": [
-                        35.203005,
-                        31.906037
-                  ]
-            },
-            {
-                  "name": "UCI Headquarters",
-                  "text": "Das Hauptquartier der Union der Kulturinstitutionen, in einem Garten gelegen.",
-                  "category": "natural",
-                  "coords": [
-                        35.197208,
-                        31.890369
-                  ]
-            },
-            {
-                  "name": "Nayzak Services",
-                  "text": "Eine Tankstelle mit einem historischen Gebäude aus der britischen Mandatszeit.",
-                  "category": "historical",
-                  "coords": [
-                        35.219383,
-                        31.886536
-                  ]
-            },
-            {
-                  "name": "Ramallah Cultural Palace",
-                  "text": "Eine große Kongress- und Aufführungshalle im Raum Ramallah.",
-                  "category": "landmark",
-                  "coords": [
-                        35.190993,
-                        31.891773
-                  ]
-            },
-            {
-                  "name": "City Gate Center Building CGC",
-                  "text": "Ein modernes Geschäftsgebäude mit Läden und Büros in Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.216327,
-                        31.890418
-                  ]
-            },
-            {
                   "name": "Techni Lock Showroom",
                   "text": "Ein Ausstellungsraum für Schlösser und Sicherheitsausrüstung in Al Bireh.",
                   "category": "landmark",
@@ -13137,33 +9825,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Middle East for cooling and heating supplies",
-                  "text": "Ein Ausstellungsraum und Lagerhaus für HLK-Geräte in Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.185105,
-                        31.894798
-                  ]
-            },
-            {
-                  "name": "Gallery ONE",
-                  "text": "Eine Kunstgalerie in Al Bireh, die zeitgenössische palästinensische Künstler zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        35.200492,
-                        31.898788
-                  ]
-            },
-            {
-                  "name": "Al Sa'a Square",
-                  "text": "Ein Hauptplatz in Al Bireh mit einem Uhrturm in der Mitte.",
-                  "category": "historical",
-                  "coords": [
-                        35.203387,
-                        31.903581
-                  ]
-            },
-            {
                   "name": "Al Rafiden Square",
                   "text": "Ein nach den zwei Strömen benannter Platz mit einem Springbrunnen.",
                   "category": "historical",
@@ -13173,57 +9834,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Water Facility Square",
-                  "text": "Ein Platz nahe dem alten Wasserreservoir von Al Bireh.",
-                  "category": "historical",
-                  "coords": [
-                        35.20388,
-                        31.899456
-                  ]
-            },
-            {
                   "name": "Home",
                   "text": "Ein Wohnhaus, das in einen Gemeinschaftsgarten umgewandelt wurde.",
                   "category": "natural",
                   "coords": [
                         35.203682,
                         31.917288
-                  ]
-            },
-            {
-                  "name": "Professional Associations Complex",
-                  "text": "Ein Komplex von Berufsverbänden, umgeben von Gärten.",
-                  "category": "natural",
-                  "coords": [
-                        35.214482,
-                        31.888059
-                  ]
-            },
-            {
-                  "name": "AJYAL RADIO NETWORK",
-                  "text": "Ein Radiosender in Al Bireh, gelegen in einem parkähnlichen Gelände.",
-                  "category": "natural",
-                  "coords": [
-                        35.205565,
-                        31.905364
-                  ]
-            },
-            {
-                  "name": "Design Edge Architects",
-                  "text": "Ein Architekturbüro mit einem begrünten Innenhof in Al Bireh.",
-                  "category": "natural",
-                  "coords": [
-                        35.199296,
-                        31.900227
-                  ]
-            },
-            {
-                  "name": "Abdeen group",
-                  "text": "Ein Geschäftskomplex mit Einzelhandel und Büros in Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.183161,
-                        31.897099
                   ]
             },
             {
@@ -13252,15 +9868,6 @@ export const palestineCitiesV2: POI[] = [
                         35.204085,
                         31.900405
                   ]
-            },
-            {
-                  "name": "Jamal Abdel Nasser Mosque",
-                  "text": "Moschee in Al Bireh, benannt nach dem ägyptischen Präsidenten Gamal Abdel Nasser.",
-                  "category": "religious",
-                  "coords": [
-                        35.207412,
-                        31.904078
-                  ]
             }
       ],
       "hu": [
@@ -13274,66 +9881,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dar Zahran Heritage Building",
-                  "text": "Helyreállított oszmán kori épület, ma palesztin örökségi múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        35.196701,
-                        31.905037
-                  ]
-            },
-            {
-                  "name": "Tel A-Nasbe",
-                  "text": "A Tel A-Nasbe egy régészeti lelőhely al-Bira városában, amelyet gyakran a bibliai Micpa városával azonosítanak.",
-                  "category": "historical",
-                  "coords": [
-                        35.216472,
-                        31.88578
-                  ]
-            },
-            {
-                  "name": "Mahmoud Darwish Museum (Al-Birweh Park)",
-                  "text": "Múzeum a parkban, a palesztin nemzeti költő, Mahmoud Darwish tiszteletére.",
-                  "category": "museum",
-                  "coords": [
-                        35.191351,
-                        31.890725
-                  ]
-            },
-            {
                   "name": "Yasser Arafat Museum",
                   "text": "Múzeum Jasszer Arafat palesztin vezető életéről és munkásságáról.",
                   "category": "museum",
                   "coords": [
                         35.208768,
                         31.911668
-                  ]
-            },
-            {
-                  "name": "Al Zaytonah Theme Park For Kids",
-                  "text": "Gyermek vidámpark Al Birehben, játszóeszközökkel és olajfakertekkel.",
-                  "category": "family",
-                  "coords": [
-                        35.185025,
-                        31.916716
-                  ]
-            },
-            {
-                  "name": "Noora Heritage House",
-                  "text": "Egy felújított oszmán ház, amely hagyományos palesztin tárgyakat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        35.200064,
-                        31.896747
-                  ]
-            },
-            {
-                  "name": "Sakakini Cultural Center",
-                  "text": "Khalil Sakakiniről elnevezett kulturális központ, művészeti kiállításokkal és eseményekkel.",
-                  "category": "museum",
-                  "coords": [
-                        35.201753,
-                        31.898725
                   ]
             },
             {
@@ -13382,60 +9935,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Altahan",
-                  "text": "Kulturális helyszín Al Birehben, előadásoknak és műhelyeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        35.196929,
-                        31.907399
-                  ]
-            },
-            {
-                  "name": "French-German Cultural Center",
-                  "text": "Központ a francia és német nyelv és kultúra népszerűsítésére.",
-                  "category": "cultural",
-                  "coords": [
-                        35.203005,
-                        31.906037
-                  ]
-            },
-            {
-                  "name": "UCI Headquarters",
-                  "text": "A Kulturális Intézmények Szövetségének központja, egy kertben elhelyezve.",
-                  "category": "natural",
-                  "coords": [
-                        35.197208,
-                        31.890369
-                  ]
-            },
-            {
-                  "name": "Nayzak Services",
-                  "text": "Egy benzinkút történelmi épülettel a brit mandátum idejéből.",
-                  "category": "historical",
-                  "coords": [
-                        35.219383,
-                        31.886536
-                  ]
-            },
-            {
-                  "name": "Ramallah Cultural Palace",
-                  "text": "Egy nagy kongresszusi és előadóterem Ramallah térségében.",
-                  "category": "landmark",
-                  "coords": [
-                        35.190993,
-                        31.891773
-                  ]
-            },
-            {
-                  "name": "City Gate Center Building CGC",
-                  "text": "Modern kereskedelmi épület üzletekkel és irodákkal Al Birehben.",
-                  "category": "landmark",
-                  "coords": [
-                        35.216327,
-                        31.890418
-                  ]
-            },
-            {
                   "name": "Techni Lock Showroom",
                   "text": "Zárak és biztonsági berendezések bemutatóterme Al Birehben.",
                   "category": "landmark",
@@ -13454,33 +9953,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Middle East for cooling and heating supplies",
-                  "text": "Bemutatóterem és raktár HVAC-berendezések számára Al Birehben.",
-                  "category": "landmark",
-                  "coords": [
-                        35.185105,
-                        31.894798
-                  ]
-            },
-            {
-                  "name": "Gallery ONE",
-                  "text": "Művészeti galéria Al Birehben, amely kortárs palesztin művészeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        35.200492,
-                        31.898788
-                  ]
-            },
-            {
-                  "name": "Al Sa'a Square",
-                  "text": "Főtér Al Birehben, közepén egy óratoronnyal.",
-                  "category": "historical",
-                  "coords": [
-                        35.203387,
-                        31.903581
-                  ]
-            },
-            {
                   "name": "Al Rafiden Square",
                   "text": "A két folyóról elnevezett tér, szökőkúttal.",
                   "category": "historical",
@@ -13490,57 +9962,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Water Facility Square",
-                  "text": "Egy tér Al Bireh régi víztározója közelében.",
-                  "category": "historical",
-                  "coords": [
-                        35.20388,
-                        31.899456
-                  ]
-            },
-            {
                   "name": "Home",
                   "text": "Egy lakóház, amelyet közösségi kertté alakítottak át.",
                   "category": "natural",
                   "coords": [
                         35.203682,
                         31.917288
-                  ]
-            },
-            {
-                  "name": "Professional Associations Complex",
-                  "text": "Szakmai szövetségek komplexuma, kertekkel körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        35.214482,
-                        31.888059
-                  ]
-            },
-            {
-                  "name": "AJYAL RADIO NETWORK",
-                  "text": "Rádióállomás Al Birehben, egy parkszerű területen elhelyezve.",
-                  "category": "natural",
-                  "coords": [
-                        35.205565,
-                        31.905364
-                  ]
-            },
-            {
-                  "name": "Design Edge Architects",
-                  "text": "Építésziroda zöld belső udvarral Al Birehben.",
-                  "category": "natural",
-                  "coords": [
-                        35.199296,
-                        31.900227
-                  ]
-            },
-            {
-                  "name": "Abdeen group",
-                  "text": "Üzleti komplexum kiskereskedelemmel és irodákkal Al Birehben.",
-                  "category": "landmark",
-                  "coords": [
-                        35.183161,
-                        31.897099
                   ]
             },
             {
@@ -13569,54 +9996,9 @@ export const palestineCitiesV2: POI[] = [
                         35.204085,
                         31.900405
                   ]
-            },
-            {
-                  "name": "Jamal Abdel Nasser Mosque",
-                  "text": "Mecset Al Birehben, Gamal Abdel Nasszer egyiptomi elnökről elnevezve.",
-                  "category": "religious",
-                  "coords": [
-                        35.207412,
-                        31.904078
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Al-Kasaba",
-                  "text": "Centru cultural și artistic multifuncțional în Al Bireh.",
-                  "category": "cultural",
-                  "coords": [
-                        35.204515,
-                        31.903357
-                  ]
-            },
-            {
-                  "name": "Dar Zahran Heritage Building",
-                  "text": "Clădire restaurată din perioada otomană, acum muzeu al patrimoniului palestinian.",
-                  "category": "museum",
-                  "coords": [
-                        35.196701,
-                        31.905037
-                  ]
-            },
-            {
-                  "name": "Tel A-Nasbe",
-                  "text": "Tel A-Nasbe este un sit arheologic din al-Bira, adesea identificat cu orașul biblic Mițpa.",
-                  "category": "historical",
-                  "coords": [
-                        35.216472,
-                        31.88578
-                  ]
-            },
-            {
-                  "name": "Mahmoud Darwish Museum (Al-Birweh Park)",
-                  "text": "Muzeu într-un parc, dedicat poetului național palestinian Mahmoud Darwish.",
-                  "category": "museum",
-                  "coords": [
-                        35.191351,
-                        31.890725
-                  ]
-            },
             {
                   "name": "Yasser Arafat Museum",
                   "text": "Muzeu despre viața și activitatea liderului palestinian Yasser Arafat.",
@@ -13624,33 +10006,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.208768,
                         31.911668
-                  ]
-            },
-            {
-                  "name": "Al Zaytonah Theme Park For Kids",
-                  "text": "Un parc tematic pentru copii în Al Bireh, cu mașini de distracție și grădini de măslini.",
-                  "category": "family",
-                  "coords": [
-                        35.185025,
-                        31.916716
-                  ]
-            },
-            {
-                  "name": "Noora Heritage House",
-                  "text": "O casă otomană restaurată, care expune artefacte tradiționale palestiniene.",
-                  "category": "museum",
-                  "coords": [
-                        35.200064,
-                        31.896747
-                  ]
-            },
-            {
-                  "name": "Sakakini Cultural Center",
-                  "text": "Un centru cultural numit după Khalil Sakakini, cu expoziții de artă și evenimente.",
-                  "category": "museum",
-                  "coords": [
-                        35.201753,
-                        31.898725
                   ]
             },
             {
@@ -13699,60 +10054,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Altahan",
-                  "text": "Un loc cultural în Al Bireh, care găzduiește spectacole și ateliere.",
-                  "category": "cultural",
-                  "coords": [
-                        35.196929,
-                        31.907399
-                  ]
-            },
-            {
-                  "name": "French-German Cultural Center",
-                  "text": "Un centru care promovează limba și cultura franceză și germană.",
-                  "category": "cultural",
-                  "coords": [
-                        35.203005,
-                        31.906037
-                  ]
-            },
-            {
-                  "name": "UCI Headquarters",
-                  "text": "Sediu al Uniunii Instituțiilor Culturale, situat într-o grădină.",
-                  "category": "natural",
-                  "coords": [
-                        35.197208,
-                        31.890369
-                  ]
-            },
-            {
-                  "name": "Nayzak Services",
-                  "text": "O stație de servicii cu o clădire istorică din perioada mandatului britanic.",
-                  "category": "historical",
-                  "coords": [
-                        35.219383,
-                        31.886536
-                  ]
-            },
-            {
-                  "name": "Ramallah Cultural Palace",
-                  "text": "O sală mare de conferințe și spectacole în zona Ramallah.",
-                  "category": "landmark",
-                  "coords": [
-                        35.190993,
-                        31.891773
-                  ]
-            },
-            {
-                  "name": "City Gate Center Building CGC",
-                  "text": "O clădire comercială modernă cu magazine și birouri în Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.216327,
-                        31.890418
-                  ]
-            },
-            {
                   "name": "Techni Lock Showroom",
                   "text": "Un showroom pentru încuietori și echipamente de securitate în Al Bireh.",
                   "category": "landmark",
@@ -13771,33 +10072,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Middle East for cooling and heating supplies",
-                  "text": "Un showroom și depozit pentru echipamente HVAC în Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.185105,
-                        31.894798
-                  ]
-            },
-            {
-                  "name": "Gallery ONE",
-                  "text": "O galerie de artă în Al Bireh, care expune artiști palestinieni contemporani.",
-                  "category": "museum",
-                  "coords": [
-                        35.200492,
-                        31.898788
-                  ]
-            },
-            {
-                  "name": "Al Sa'a Square",
-                  "text": "Piața principală din Al Bireh, cu un turn cu ceas în mijloc.",
-                  "category": "historical",
-                  "coords": [
-                        35.203387,
-                        31.903581
-                  ]
-            },
-            {
                   "name": "Al Rafiden Square",
                   "text": "O piață numită după cele două râuri, cu o fântână arteziană.",
                   "category": "historical",
@@ -13807,57 +10081,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Water Facility Square",
-                  "text": "O piață lângă vechiul rezervor de apă din Al Bireh.",
-                  "category": "historical",
-                  "coords": [
-                        35.20388,
-                        31.899456
-                  ]
-            },
-            {
                   "name": "Home",
                   "text": "O casă rezidențială transformată într-o grădină comunitară.",
                   "category": "natural",
                   "coords": [
                         35.203682,
                         31.917288
-                  ]
-            },
-            {
-                  "name": "Professional Associations Complex",
-                  "text": "Un complex al asociațiilor profesionale, înconjurat de grădini.",
-                  "category": "natural",
-                  "coords": [
-                        35.214482,
-                        31.888059
-                  ]
-            },
-            {
-                  "name": "AJYAL RADIO NETWORK",
-                  "text": "Un post de radio în Al Bireh, situat într-un teren asemănător unui parc.",
-                  "category": "natural",
-                  "coords": [
-                        35.205565,
-                        31.905364
-                  ]
-            },
-            {
-                  "name": "Design Edge Architects",
-                  "text": "Un birou de arhitectură cu o curte interioară peisagistică în Al Bireh.",
-                  "category": "natural",
-                  "coords": [
-                        35.199296,
-                        31.900227
-                  ]
-            },
-            {
-                  "name": "Abdeen group",
-                  "text": "Un complex de afaceri cu retail și birouri în Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.183161,
-                        31.897099
                   ]
             },
             {
@@ -13886,54 +10115,9 @@ export const palestineCitiesV2: POI[] = [
                         35.204085,
                         31.900405
                   ]
-            },
-            {
-                  "name": "Jamal Abdel Nasser Mosque",
-                  "text": "Moschee în Al Bireh, numită după președintele egiptean Gamal Abdel Nasser.",
-                  "category": "religious",
-                  "coords": [
-                        35.207412,
-                        31.904078
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Al-Kasaba",
-                  "text": "Multi-purpose cultural and arts venue in Al Bireh.",
-                  "category": "cultural",
-                  "coords": [
-                        35.204515,
-                        31.903357
-                  ]
-            },
-            {
-                  "name": "Dar Zahran Heritage Building",
-                  "text": "Restored Ottoman-era building, now a museum of Palestinian heritage.",
-                  "category": "museum",
-                  "coords": [
-                        35.196701,
-                        31.905037
-                  ]
-            },
-            {
-                  "name": "Tel A-Nasbe",
-                  "text": "Tel A-Nasbe is an archaeological site in al-Bira, often identified with the biblical city of Mizpah.",
-                  "category": "historical",
-                  "coords": [
-                        35.216472,
-                        31.88578
-                  ]
-            },
-            {
-                  "name": "Mahmoud Darwish Museum (Al-Birweh Park)",
-                  "text": "Museum in a park dedicated to the Palestinian national poet Mahmoud Darwish.",
-                  "category": "museum",
-                  "coords": [
-                        35.191351,
-                        31.890725
-                  ]
-            },
             {
                   "name": "Yasser Arafat Museum",
                   "text": "Museum on the life and work of Palestinian leader Yasser Arafat.",
@@ -13941,33 +10125,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.208768,
                         31.911668
-                  ]
-            },
-            {
-                  "name": "Al Zaytonah Theme Park For Kids",
-                  "text": "A children's theme park in Al Bireh, with rides and olive-tree gardens.",
-                  "category": "family",
-                  "coords": [
-                        35.185025,
-                        31.916716
-                  ]
-            },
-            {
-                  "name": "Noora Heritage House",
-                  "text": "A restored Ottoman-era house displaying traditional Palestinian artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        35.200064,
-                        31.896747
-                  ]
-            },
-            {
-                  "name": "Sakakini Cultural Center",
-                  "text": "A cultural center named after Khalil Sakakini, featuring art exhibitions and events.",
-                  "category": "museum",
-                  "coords": [
-                        35.201753,
-                        31.898725
                   ]
             },
             {
@@ -14016,60 +10173,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Altahan",
-                  "text": "A cultural venue in Al Bireh, hosting performances and workshops.",
-                  "category": "cultural",
-                  "coords": [
-                        35.196929,
-                        31.907399
-                  ]
-            },
-            {
-                  "name": "French-German Cultural Center",
-                  "text": "A center promoting French and German language and culture.",
-                  "category": "cultural",
-                  "coords": [
-                        35.203005,
-                        31.906037
-                  ]
-            },
-            {
-                  "name": "UCI Headquarters",
-                  "text": "Headquarters of the Union of Cultural Institutions, set in a garden.",
-                  "category": "natural",
-                  "coords": [
-                        35.197208,
-                        31.890369
-                  ]
-            },
-            {
-                  "name": "Nayzak Services",
-                  "text": "A service station with a historical building from the British Mandate period.",
-                  "category": "historical",
-                  "coords": [
-                        35.219383,
-                        31.886536
-                  ]
-            },
-            {
-                  "name": "Ramallah Cultural Palace",
-                  "text": "A large conference and performance hall in the Ramallah area.",
-                  "category": "landmark",
-                  "coords": [
-                        35.190993,
-                        31.891773
-                  ]
-            },
-            {
-                  "name": "City Gate Center Building CGC",
-                  "text": "A modern commercial building with shops and offices in Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.216327,
-                        31.890418
-                  ]
-            },
-            {
                   "name": "Techni Lock Showroom",
                   "text": "A showroom for locks and security equipment in Al Bireh.",
                   "category": "landmark",
@@ -14088,33 +10191,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Middle East for cooling and heating supplies",
-                  "text": "A showroom and warehouse for HVAC equipment in Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.185105,
-                        31.894798
-                  ]
-            },
-            {
-                  "name": "Gallery ONE",
-                  "text": "An art gallery in Al Bireh, featuring contemporary Palestinian artists.",
-                  "category": "museum",
-                  "coords": [
-                        35.200492,
-                        31.898788
-                  ]
-            },
-            {
-                  "name": "Al Sa'a Square",
-                  "text": "The main square in Al Bireh, with a clock tower in its center.",
-                  "category": "historical",
-                  "coords": [
-                        35.203387,
-                        31.903581
-                  ]
-            },
-            {
                   "name": "Al Rafiden Square",
                   "text": "A square named after the two rivers (Tigris and Euphrates), with a fountain.",
                   "category": "historical",
@@ -14124,57 +10200,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Water Facility Square",
-                  "text": "A square near the old water reservoir of Al Bireh.",
-                  "category": "historical",
-                  "coords": [
-                        35.20388,
-                        31.899456
-                  ]
-            },
-            {
                   "name": "Home",
                   "text": "A residential house converted into a community garden.",
                   "category": "natural",
                   "coords": [
                         35.203682,
                         31.917288
-                  ]
-            },
-            {
-                  "name": "Professional Associations Complex",
-                  "text": "A complex of professional associations, surrounded by gardens.",
-                  "category": "natural",
-                  "coords": [
-                        35.214482,
-                        31.888059
-                  ]
-            },
-            {
-                  "name": "AJYAL RADIO NETWORK",
-                  "text": "A radio station in Al Bireh, located in a park-like setting.",
-                  "category": "natural",
-                  "coords": [
-                        35.205565,
-                        31.905364
-                  ]
-            },
-            {
-                  "name": "Design Edge Architects",
-                  "text": "An architecture firm's office with a landscaped courtyard in Al Bireh.",
-                  "category": "natural",
-                  "coords": [
-                        35.199296,
-                        31.900227
-                  ]
-            },
-            {
-                  "name": "Abdeen group",
-                  "text": "A business complex with retail and offices in Al Bireh.",
-                  "category": "landmark",
-                  "coords": [
-                        35.183161,
-                        31.897099
                   ]
             },
             {
@@ -14202,15 +10233,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.204085,
                         31.900405
-                  ]
-            },
-            {
-                  "name": "Gamal Abdel Nasser Mosque",
-                  "text": "Mosque in Al Bireh named after Egyptian president Gamal Abdel Nasser.",
-                  "category": "religious",
-                  "coords": [
-                        35.207412,
-                        31.904078
                   ]
             }
       ]
@@ -14262,15 +10284,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-salfit-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ariel Cultural Center",
-                  "text": "Ein Kulturzentrum in Salfit, das Kunst- und Bildungsprogramme anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        35.175476,
-                        32.105347
-                  ]
-            },
-            {
                   "name": "Khirbet Al-Shajara Al-Gharbiya",
                   "text": "Eine archäologische Stätte in Salfit mit den Überresten einer byzantinischen Kirche und Mosaikböden.",
                   "category": "historical",
@@ -14299,15 +10312,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ariel Cultural Center",
-                  "text": "Kulturális központ Salfitban, művészeti és oktatási programokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        35.175476,
-                        32.105347
-                  ]
-            },
             {
                   "name": "Khirbet Al-Shajara Al-Gharbiya",
                   "text": "Régészeti lelőhely Salfitban, egy bizánci templom és mozaikpadlók maradványaival.",
@@ -14338,15 +10342,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ariel Cultural Center",
-                  "text": "Un centru cultural în Salfit, oferind programe artistice și educaționale.",
-                  "category": "cultural",
-                  "coords": [
-                        35.175476,
-                        32.105347
-                  ]
-            },
-            {
                   "name": "Khirbet Al-Shajara Al-Gharbiya",
                   "text": "Un sit arheologic în Salfit, cu rămășițele unei biserici bizantine și podele cu mozaic.",
                   "category": "historical",
@@ -14375,15 +10370,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ariel Cultural Center",
-                  "text": "A cultural center in Salfit, offering arts and education programs.",
-                  "category": "cultural",
-                  "coords": [
-                        35.175476,
-                        32.105347
-                  ]
-            },
             {
                   "name": "Khirbet al-Shajra, West",
                   "text": "An archaeological site in Salfit, with remains of a Byzantine church and mosaic floors.",
@@ -14613,15 +10599,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hani Daraghmeh",
-                  "text": "Der als Hani Daraghmeh bezeichnete Punkt fungiert als anerkanntes lokales Wahrzeichen in Tubas. Innerhalb der Grenzen Palästinas gelegen, markiert er einen bestimmten Teil des städtischen Raumes. Er fügt sich nahtlos in die täglichen Abläufe der Stadt ein.",
-                  "category": "landmark",
-                  "coords": [
-                        35.378872,
-                        32.316155
-                  ]
-            },
-            {
                   "name": "Olive Roundabout",
                   "text": "Das Wahrzeichen دوار الزيتونه prägt das Stadtbild von Tubas in Palästina. Besucher können diesen markanten Ort bei einem Spaziergang durch die Umgebung entdecken.",
                   "category": "landmark",
@@ -14783,15 +10760,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.372979,
                         32.327902
-                  ]
-            },
-            {
-                  "name": "Hani Daraghmeh",
-                  "text": "A Hani Daraghmeh néven emlegetett pont elismert helyi nevezetességként funkcionál Tubasban. Palesztina határain belül található, és az önkormányzati tér egy meghatározott részét jelöli ki. Zökkenőmentesen illeszkedik a város mindennapi működésébe.",
-                  "category": "landmark",
-                  "coords": [
-                        35.378872,
-                        32.316155
                   ]
             },
             {
@@ -14959,15 +10927,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hani Daraghmeh",
-                  "text": "Punctul menționat ca Hani Daraghmeh funcționează ca un reper local recunoscut în Tubas. Găsit în granițele Palestinei, acesta desemnează o parte specifică a spațiului municipal. Se integrează perfect în operațiunile zilnice ale orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        35.378872,
-                        32.316155
-                  ]
-            },
-            {
                   "name": "Olive Roundabout",
                   "text": "Reperul دوار الزيتونه este situat în orașul Tubas din Palestina. Vizitatorii pot admira acest punct de interes în timp ce explorează împrejurimile.",
                   "category": "landmark",
@@ -14994,15 +10953,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.375892,
                         32.317054
-                  ]
-            },
-            {
-                  "name": "Einon",
-                  "text": "Einon, a natural spring near Tubas.",
-                  "category": "natural",
-                  "coords": [
-                        35.396023,
-                        32.302255
                   ]
             },
             {
@@ -15051,30 +11001,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al ashareen junction",
-                  "text": "Marking a critical junction, مفرق العشارين is a well-known navigation landmark in Tubas. This Palestinian intersection helps direct the flow of daily traffic throughout the city. Anyone passing by will use it as a point of reference.",
-                  "category": "landmark",
-                  "coords": [
-                        35.364105,
-                        32.297754
-                  ]
-            },
-            {
                   "name": "Tayyaser junction",
                   "text": "Serving as a prominent crossing point, مفرق تياسير is considered a landmark in the municipality of Tubas. This infrastructure in Palestine is central to local mobility. Visitors traveling the roads will find it an unmistakable guidepost.",
                   "category": "landmark",
                   "coords": [
                         35.369931,
                         32.31966
-                  ]
-            },
-            {
-                  "name": "hay al deir",
-                  "text": "Hay al Deir, a natural area near Tubas.",
-                  "category": "natural",
-                  "coords": [
-                        35.386737,
-                        32.307724
                   ]
             },
             {
@@ -15096,15 +11028,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Abd alrazeq family hall",
-                  "text": "The cultural landmark of ديوان عائلة عبد الرازق is an important social venue in Tubas. This hall in Palestine is traditionally used for family and community gatherings. Visitors will notice it as a symbol of local kinship and hospitality.",
-                  "category": "landmark",
-                  "coords": [
-                        35.376353,
-                        32.323976
-                  ]
-            },
-            {
                   "name": "Turkish Hospital Junction",
                   "text": "Known for its proximity to medical care, مفرق المستشفى التركي stands as an important intersection landmark in Tubas. This road marker in Palestine effectively guides traffic towards health facilities. It is a heavily utilized point in the city's infrastructure.",
                   "category": "landmark",
@@ -15114,30 +11037,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Einon hill",
-                  "text": "Einon Hill, a grassy slope near Tubas.",
-                  "category": "natural",
-                  "coords": [
-                        35.394171,
-                        32.303767
-                  ]
-            },
-            {
                   "name": "Al-Furqan Mosque",
                   "text": "Acting as a spiritual landmark, مسجد الفرقان is a notable building situated in Tubas. Located in Palestine, it provides a quiet and reflective space for the local residents. Visitors will appreciate its structural presence in the community landscape.",
                   "category": "landmark",
                   "coords": [
                         35.372979,
                         32.327902
-                  ]
-            },
-            {
-                  "name": "House",
-                  "text": "The point referred to as Hani Daraghmeh functions as a recognized local landmark in Tubas. Found within the borders of Palestine, it designates a specific part of the municipal space. It seamlessly blends into the daily operations of the town.",
-                  "category": "landmark",
-                  "coords": [
-                        35.378872,
-                        32.316155
                   ]
             },
             {
@@ -15198,84 +11103,12 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-halhul-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Taha Building Materials",
-                  "text": "Taha Company Gebäude in Halhul, ein lokaler Orientierungspunkt.",
-                  "category": "castle",
-                  "coords": [
-                        35.137262,
-                        31.590352
-                  ]
-            },
-            {
-                  "name": "Gat",
-                  "text": "Gat, eine historische Siedlung in Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.094894,
-                        31.605792
-                  ]
-            },
-            {
-                  "name": "Mount Nabi Yunis",
-                  "text": "Der Mount Nabi Yunis ist ein markanter Gipfel in Halhul und gilt als der höchste Punkt der palästinensischen Gebiete.",
-                  "category": "natural",
-                  "coords": [
-                        35.102988,
-                        31.566547
-                  ]
-            },
-            {
-                  "name": "Halhoul center",
-                  "text": "Halhul-Zentrum, der belebte Marktplatz der Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        35.098981,
-                        31.579181
-                  ]
-            },
-            {
-                  "name": "Haram erRama (Mamre)",
-                  "text": "Haram er-Rama (Mamre), der Ort der alten Abrahamseiche bei Halhul.",
-                  "category": "natural",
-                  "coords": [
-                        35.104765,
-                        31.556954
-                  ]
-            },
-            {
-                  "name": "Khirbet Tin Barin",
-                  "text": "Khirbet Tin Barin, eine archäologische Ruine nahe Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.130998,
-                        31.601867
-                  ]
-            },
-            {
                   "name": "Khirbet Beit Khayran",
                   "text": "Khirbet Beit Khayran, eine alte Ruine im Gebiet von Halhul.",
                   "category": "historical",
                   "coords": [
                         35.112658,
                         31.599284
-                  ]
-            },
-            {
-                  "name": "Khirbet Tubeiqa",
-                  "text": "Khirbet Tubeiqa, eine historische Ruine auf einem Hügel bei Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.094148,
-                        31.589394
-                  ]
-            },
-            {
-                  "name": "Amichai Lookout",
-                  "text": "Amichai-Aussichtspunkt, ein malerischer Blick über das Halhul-Tal.",
-                  "category": "natural",
-                  "coords": [
-                        35.106667,
-                        31.606422
                   ]
             },
             {
@@ -15290,24 +11123,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Taha Building Materials",
-                  "text": "Taha Company épülete Halhulban, egy helyi tájékozódási pont.",
-                  "category": "castle",
-                  "coords": [
-                        35.137262,
-                        31.590352
-                  ]
-            },
-            {
-                  "name": "Gat",
-                  "text": "Gat, egy történelmi település Halhulban.",
-                  "category": "historical",
-                  "coords": [
-                        35.094894,
-                        31.605792
-                  ]
-            },
-            {
                   "name": "Nabi Yunis-hegy",
                   "text": "A Nabi Yunis-hegy egy kiemelkedő csúcs Halhul városában, amely a Palesztin Területek legmagasabb pontjaként ismert.",
                   "category": "natural",
@@ -15317,57 +11132,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Halhoul center",
-                  "text": "Halhul központja, a város nyüzsgő piactere.",
-                  "category": "landmark",
-                  "coords": [
-                        35.098981,
-                        31.579181
-                  ]
-            },
-            {
-                  "name": "Haram erRama (Mamre)",
-                  "text": "Haram er-Rama (Mamre), az ősi Ábrahám-tölgy helye Halhul mellett.",
-                  "category": "natural",
-                  "coords": [
-                        35.104765,
-                        31.556954
-                  ]
-            },
-            {
-                  "name": "Khirbet Tin Barin",
-                  "text": "Khirbet Tin Barin, egy régészeti rom Halhul közelében.",
-                  "category": "historical",
-                  "coords": [
-                        35.130998,
-                        31.601867
-                  ]
-            },
-            {
                   "name": "Khirbet Beit Khayran",
                   "text": "Khirbet Beit Khayran, egy ősi rom Halhul térségében.",
                   "category": "historical",
                   "coords": [
                         35.112658,
                         31.599284
-                  ]
-            },
-            {
-                  "name": "Khirbet Tubeiqa",
-                  "text": "Khirbet Tubeiqa, egy történelmi rom egy dombon Halhul mellett.",
-                  "category": "historical",
-                  "coords": [
-                        35.094148,
-                        31.589394
-                  ]
-            },
-            {
-                  "name": "Amichai Lookout",
-                  "text": "Amichai kilátó, festői kilátással a Halhul-völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        35.106667,
-                        31.606422
                   ]
             },
             {
@@ -15382,24 +11152,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Taha company 0599364361",
-                  "text": "Clădirea Taha Company din Halhul, un reper local.",
-                  "category": "castle",
-                  "coords": [
-                        35.137262,
-                        31.590352
-                  ]
-            },
-            {
-                  "name": "Gat",
-                  "text": "Gat, o așezare istorică în Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.094894,
-                        31.605792
-                  ]
-            },
-            {
                   "name": "Muntele Nabi Yunis",
                   "text": "Muntele Nabi Yunis este un vârf proeminent din Halhul, recunoscut ca cel mai înalt punct din teritoriile palestiniene.",
                   "category": "natural",
@@ -15409,57 +11161,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Halhoul center",
-                  "text": "Centrul Halhul, piața aglomerată a orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        35.098981,
-                        31.579181
-                  ]
-            },
-            {
-                  "name": "Haram erRama (Mamre)",
-                  "text": "Haram er-Rama (Mamre), locul vechiului stejar al lui Avraam lângă Halhul.",
-                  "category": "natural",
-                  "coords": [
-                        35.104765,
-                        31.556954
-                  ]
-            },
-            {
-                  "name": "Khirbet Tin Barin",
-                  "text": "Khirbet Tin Barin, o ruină arheologică lângă Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.130998,
-                        31.601867
-                  ]
-            },
-            {
                   "name": "Khirbet Beit Khayran",
                   "text": "Khirbet Beit Khayran, o ruină străveche în zona Halhul.",
                   "category": "historical",
                   "coords": [
                         35.112658,
                         31.599284
-                  ]
-            },
-            {
-                  "name": "Khirbet Tubeiqa",
-                  "text": "Khirbet Tubeiqa, o ruină istorică pe un deal lângă Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.094148,
-                        31.589394
-                  ]
-            },
-            {
-                  "name": "Amichai Lookout",
-                  "text": "Punctul de belvedere Amichai, o priveliște pitorească asupra văii Halhul.",
-                  "category": "natural",
-                  "coords": [
-                        35.106667,
-                        31.606422
                   ]
             },
             {
@@ -15474,84 +11181,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Taha company 0599364361",
-                  "text": "Taha Company building in Halhul, a local landmark.",
-                  "category": "castle",
-                  "coords": [
-                        35.137262,
-                        31.590352
-                  ]
-            },
-            {
-                  "name": "Gat",
-                  "text": "Gat, a historical settlement in Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.094894,
-                        31.605792
-                  ]
-            },
-            {
-                  "name": "Mount Nabi Yunis",
-                  "text": "Mount Nabi Yunis is a prominent peak in Halhul, recognized as the highest point in the Palestinian territories.",
-                  "category": "natural",
-                  "coords": [
-                        35.102988,
-                        31.566547
-                  ]
-            },
-            {
-                  "name": "Halhoul center",
-                  "text": "Halhul center, the town's bustling marketplace.",
-                  "category": "landmark",
-                  "coords": [
-                        35.098981,
-                        31.579181
-                  ]
-            },
-            {
-                  "name": "Haram erRama (Mamre)",
-                  "text": "Haram er-Rama (Mamre), site of the ancient Oak of Abraham near Halhul.",
-                  "category": "natural",
-                  "coords": [
-                        35.104765,
-                        31.556954
-                  ]
-            },
-            {
-                  "name": "Khirbet Tin Barin",
-                  "text": "Khirbet Tin Barin, an archaeological ruin near Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.130998,
-                        31.601867
-                  ]
-            },
-            {
                   "name": "Khirbet Beit Khayran",
                   "text": "Khirbet Beit Khayran, an ancient ruin in the Halhul area.",
                   "category": "historical",
                   "coords": [
                         35.112658,
                         31.599284
-                  ]
-            },
-            {
-                  "name": "Khirbet Tubeiqa",
-                  "text": "Khirbet Tubeiqa, a historical ruin on a hill near Halhul.",
-                  "category": "historical",
-                  "coords": [
-                        35.094148,
-                        31.589394
-                  ]
-            },
-            {
-                  "name": "Amichai Lookout",
-                  "text": "Amichai Lookout, a scenic viewpoint over the Halhul valley.",
-                  "category": "natural",
-                  "coords": [
-                        35.106667,
-                        31.606422
                   ]
             },
             {
@@ -15840,15 +11475,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.030064,
                         31.505055
-                  ]
-            },
-            {
-                  "name": "Ibraheem",
-                  "text": "Ibraheem, a natural spring or grove near Dura.",
-                  "category": "natural",
-                  "coords": [
-                        35.046658,
-                        31.507806
                   ]
             },
             {
@@ -16521,39 +12147,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gat",
-                  "text": "Gat, eine alte Siedlungsstätte in Beit Ummar.",
-                  "category": "historical",
-                  "coords": [
-                        35.094894,
-                        31.605792
-                  ]
-            },
-            {
                   "name": "Jabal Al-Qarn",
                   "text": "Hügel im Westjordanland mit Panoramablick.",
                   "category": "natural",
                   "coords": [
                         35.126013,
                         31.618645
-                  ]
-            },
-            {
-                  "name": "Khirbet Beit Khayran",
-                  "text": "Khirbet Beit Khayran, eine Ruine in Beit Ummar.",
-                  "category": "historical",
-                  "coords": [
-                        35.112658,
-                        31.599284
-                  ]
-            },
-            {
-                  "name": "Khirbet Qufin",
-                  "text": "Khirbet Qufin, eine archäologische Stätte nahe Beit Ummar.",
-                  "category": "historical",
-                  "coords": [
-                        35.114018,
-                        31.621026
                   ]
             },
             {
@@ -16631,39 +12230,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gat",
-                  "text": "Gat, egy ősi településhely Beit Ummarban.",
-                  "category": "historical",
-                  "coords": [
-                        35.094894,
-                        31.605792
-                  ]
-            },
-            {
                   "name": "Jabal Al-Qarn",
                   "text": "Domb a Ciszjordániában, panorámás kilátással.",
                   "category": "natural",
                   "coords": [
                         35.126013,
                         31.618645
-                  ]
-            },
-            {
-                  "name": "Khirbet Beit Khayran",
-                  "text": "Khirbet Beit Khayran, egy rom Beit Ummarban.",
-                  "category": "historical",
-                  "coords": [
-                        35.112658,
-                        31.599284
-                  ]
-            },
-            {
-                  "name": "Khirbet Qufin",
-                  "text": "Khirbet Qufin, egy régészeti lelőhely Beit Ummar közelében.",
-                  "category": "historical",
-                  "coords": [
-                        35.114018,
-                        31.621026
                   ]
             },
             {
@@ -16768,15 +12340,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet Qufin",
-                  "text": "Khirbet Qufin, un sit arheologic lângă Beit Ummar.",
-                  "category": "historical",
-                  "coords": [
-                        35.114018,
-                        31.621026
-                  ]
-            },
-            {
                   "name": "Shomra Ruins",
                   "text": "Ruinele Shomra, rămășițele unui sat străvechi în Beit Ummar.",
                   "category": "historical",
@@ -16848,42 +12411,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.092145,
                         31.632629
-                  ]
-            },
-            {
-                  "name": "Gat",
-                  "text": "Gat, an ancient settlement site in Beit Ummar.",
-                  "category": "historical",
-                  "coords": [
-                        35.094894,
-                        31.605792
-                  ]
-            },
-            {
-                  "name": "Jebel al Qarn",
-                  "text": "Hill in the West Bank offering panoramic views.",
-                  "category": "natural",
-                  "coords": [
-                        35.126013,
-                        31.618645
-                  ]
-            },
-            {
-                  "name": "Khirbet Beit Khayran",
-                  "text": "Khirbet Beit Khayran, a ruin in Beit Ummar.",
-                  "category": "historical",
-                  "coords": [
-                        35.112658,
-                        31.599284
-                  ]
-            },
-            {
-                  "name": "Khirbet Qufin",
-                  "text": "Khirbet Qufin, an archaeological site near Beit Ummar.",
-                  "category": "historical",
-                  "coords": [
-                        35.114018,
-                        31.621026
                   ]
             },
             {
@@ -17313,39 +12840,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet Ras at-Tawil",
-                  "text": "Khirbet Ras at-Tawil – archäologische Ruinen einer antiken Siedlung auf einem Hügel bei Sair.",
-                  "category": "historical",
-                  "coords": [
-                        35.142547,
-                        31.5671
-                  ]
-            },
-            {
                   "name": "Khirbet Tin Barin",
                   "text": "Khirbet Tin Barin – Ruinen einer historischen Siedlung mit Steinmauern bei Sair.",
                   "category": "historical",
                   "coords": [
                         35.130998,
                         31.601867
-                  ]
-            },
-            {
-                  "name": "Khirbet Beit Khayran",
-                  "text": "Khirbet Beit Khayran – Überreste eines antiken Dorfes in der Hügellandschaft um Sair.",
-                  "category": "historical",
-                  "coords": [
-                        35.112658,
-                        31.599284
-                  ]
-            },
-            {
-                  "name": "Halhul Lookout",
-                  "text": "Halhul Lookout – Aussichtspunkt mit Blick auf das Halhul-Tal bei Sair.",
-                  "category": "natural",
-                  "coords": [
-                        35.11992,
-                        31.589095
                   ]
             }
       ],
@@ -17360,39 +12860,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet Ras at-Tawil",
-                  "text": "Khirbet Ras at-Tawil – egy ősi település romjai egy dombtetőn Sair közelében.",
-                  "category": "historical",
-                  "coords": [
-                        35.142547,
-                        31.5671
-                  ]
-            },
-            {
                   "name": "Khirbet Tin Barin",
                   "text": "Khirbet Tin Barin – egy történelmi település romjai kőfalakkal Sair közelében.",
                   "category": "historical",
                   "coords": [
                         35.130998,
                         31.601867
-                  ]
-            },
-            {
-                  "name": "Khirbet Beit Khayran",
-                  "text": "Khirbet Beit Khayran – egy ókori falu maradványai a Sair környéki dombok között.",
-                  "category": "historical",
-                  "coords": [
-                        35.112658,
-                        31.599284
-                  ]
-            },
-            {
-                  "name": "Halhul Lookout",
-                  "text": "Halhul kilátó – kilátással a Halhul-völgyre Sair közelében.",
-                  "category": "natural",
-                  "coords": [
-                        35.11992,
-                        31.589095
                   ]
             }
       ],
@@ -17407,39 +12880,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet Ras at-Tawil",
-                  "text": "Khirbet Ras at-Tawil – ruinele arheologice ale unei așezări antice pe un deal lângă Sair.",
-                  "category": "historical",
-                  "coords": [
-                        35.142547,
-                        31.5671
-                  ]
-            },
-            {
                   "name": "Khirbet Tin Barin",
                   "text": "Khirbet Tin Barin – ruinele unei așezări istorice cu ziduri de piatră lângă Sair.",
                   "category": "historical",
                   "coords": [
                         35.130998,
                         31.601867
-                  ]
-            },
-            {
-                  "name": "Khirbet Beit Khayran",
-                  "text": "Khirbet Beit Khayran – rămășițele unui sat antic în colinele din jurul Sair.",
-                  "category": "historical",
-                  "coords": [
-                        35.112658,
-                        31.599284
-                  ]
-            },
-            {
-                  "name": "Halhul Lookout",
-                  "text": "Punctul de belvedere Halhul – cu vedere spre valea Halhul lângă Sair.",
-                  "category": "natural",
-                  "coords": [
-                        35.11992,
-                        31.589095
                   ]
             }
       ],
@@ -17454,39 +12900,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet Ras at-Tawil",
-                  "text": "Khirbet Ras at-Tawil – archaeological ruins of an ancient settlement on a hilltop near Sair.",
-                  "category": "historical",
-                  "coords": [
-                        35.142547,
-                        31.5671
-                  ]
-            },
-            {
                   "name": "Khirbet Tin Barin",
                   "text": "Khirbet Tin Barin – ruins of a historical settlement with stone walls near Sair.",
                   "category": "historical",
                   "coords": [
                         35.130998,
                         31.601867
-                  ]
-            },
-            {
-                  "name": "Khirbet Beit Khayran",
-                  "text": "Khirbet Beit Khayran – remains of an ancient village in the hills around Sair.",
-                  "category": "historical",
-                  "coords": [
-                        35.112658,
-                        31.599284
-                  ]
-            },
-            {
-                  "name": "Halhul Lookout",
-                  "text": "Halhul Lookout – a viewpoint overlooking the Halhul valley near Sair.",
-                  "category": "natural",
-                  "coords": [
-                        35.11992,
-                        31.589095
                   ]
             }
       ]
@@ -17544,15 +12963,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.142547,
                         31.567099
-                  ]
-            },
-            {
-                  "name": "Taha company 0599364361",
-                  "text": "Das Bauwerk der Taha company 0599364361 ist als Schlossanlage in Ash Shuyukh dokumentiert.",
-                  "category": "castle",
-                  "coords": [
-                        35.137262,
-                        31.590352
                   ]
             },
             {
@@ -17639,15 +13049,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taha company 0599364361",
-                  "text": "A Taha company 0599364361 kastélyként dokumentált építmény Ash Shuyukhban.",
-                  "category": "castle",
-                  "coords": [
-                        35.137262,
-                        31.590352
-                  ]
-            },
-            {
                   "name": "Khirbet ez Zawiya",
                   "text": "Khirbet ez Zawiya egy romterület As-Shuyukh térségében.",
                   "category": "historical",
@@ -17731,15 +13132,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taha company 0599364361",
-                  "text": "Taha company 0599364361 este documentată ca o structură de tip castel situată în Ash Shuyukh.",
-                  "category": "castle",
-                  "coords": [
-                        35.137262,
-                        31.590352
-                  ]
-            },
-            {
                   "name": "Khirbet ez Zawiya",
                   "text": "Khirbet ez Zawiya este un sit în ruină din zona Ash-Shuyukh.",
                   "category": "historical",
@@ -17820,15 +13212,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.142547,
                         31.567099
-                  ]
-            },
-            {
-                  "name": "Taha company 0599364361",
-                  "text": "Taha company 0599364361 is documented as a castle structure located in Ash Shuyukh.",
-                  "category": "castle",
-                  "coords": [
-                        35.137262,
-                        31.590352
                   ]
             },
             {
@@ -18069,15 +13452,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khalt Ateg",
-                  "text": "Ein lokaler Aussichtspunkt mit Blick auf die terrassierten Hänge der Hebron-Hügel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.972973,
-                        31.546765
-                  ]
-            },
-            {
                   "name": "Horbat Bet Elem",
                   "text": "Die Überreste einer byzantinischen Siedlung mit Fundamenten alter Wohnbauten.",
                   "category": "historical",
@@ -18158,15 +13532,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.015709,
                         31.545309
-                  ]
-            },
-            {
-                  "name": "Khalt Ateg",
-                  "text": "Helyi kilátópont, ahonnan rálátni a Hebron-dombság teraszos lejtőire.",
-                  "category": "landmark",
-                  "coords": [
-                        34.972973,
-                        31.546765
                   ]
             },
             {
@@ -18253,15 +13618,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khalt Ateg",
-                  "text": "Un punct de belvedere local cu vedere la pantele terasate ale dealurilor Hebronului.",
-                  "category": "landmark",
-                  "coords": [
-                        34.972973,
-                        31.546765
-                  ]
-            },
-            {
                   "name": "Horbat Bet Elem",
                   "text": "Rămășițele unei așezări bizantine cu fundații de clădiri rezidențiale vechi.",
                   "category": "historical",
@@ -18342,15 +13698,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.015709,
                         31.545309
-                  ]
-            },
-            {
-                  "name": "Khalt Ateg",
-                  "text": "A local scenic spot overlooking the terraced slopes of the Hebron Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        34.972973,
-                        31.546765
                   ]
             },
             {
@@ -18762,24 +14109,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-nuba-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Al Karmel",
-                  "text": "Al Karmel – ein Familienbetrieb in Nuba, umgeben von Weinbergen.",
-                  "category": "family",
-                  "coords": [
-                        35.046607,
-                        31.578028
-                  ]
-            },
-            {
-                  "name": "Alsafa",
-                  "text": "Alsafa – ein Familienhaus in Nuba, möglicherweise mit einem Innenhof.",
-                  "category": "family",
-                  "coords": [
-                        35.044522,
-                        31.578826
-                  ]
-            },
-            {
                   "name": "Wadi Al-Quff Nature Reserve",
                   "text": "Wadi Al-Quff Naturschutzgebiet – ein geschütztes Tal mit Klippen und saisonalen Bächen bei Nuba.",
                   "category": "natural",
@@ -18826,24 +14155,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Al Karmel",
-                  "text": "Al Karmel – egy családi vállalkozás Nubában, szőlőültetvényekkel körülvéve.",
-                  "category": "family",
-                  "coords": [
-                        35.046607,
-                        31.578028
-                  ]
-            },
-            {
-                  "name": "Alsafa",
-                  "text": "Alsafa – egy családi ház Nubában, valószínűleg udvarral.",
-                  "category": "family",
-                  "coords": [
-                        35.044522,
-                        31.578826
-                  ]
-            },
             {
                   "name": "Wadi Al-Quff Nature Reserve",
                   "text": "Wadi Al-Quff természetvédelmi terület – egy védett völgy sziklákkal és időszakos patakokkal Nuba közelében.",
@@ -18892,24 +14203,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Al Karmel",
-                  "text": "Al Karmel – o afacere de familie în Nuba, înconjurată de podgorii.",
-                  "category": "family",
-                  "coords": [
-                        35.046607,
-                        31.578028
-                  ]
-            },
-            {
-                  "name": "Alsafa",
-                  "text": "Alsafa – o casă de familie în Nuba, posibil cu o curte interioară.",
-                  "category": "family",
-                  "coords": [
-                        35.044522,
-                        31.578826
-                  ]
-            },
-            {
                   "name": "Wadi Al-Quff Nature Reserve",
                   "text": "Rezervația naturală Wadi Al-Quff – o vale protejată cu stânci și pâraie sezoniere lângă Nuba.",
                   "category": "natural",
@@ -18956,24 +14249,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Al Karmel",
-                  "text": "Al Karmel – a family-run property in Nuba, surrounded by vineyards.",
-                  "category": "family",
-                  "coords": [
-                        35.046607,
-                        31.578028
-                  ]
-            },
-            {
-                  "name": "Alsafa",
-                  "text": "Alsafa – a family house in Nuba, likely featuring a courtyard.",
-                  "category": "family",
-                  "coords": [
-                        35.044522,
-                        31.578826
-                  ]
-            },
             {
                   "name": "Wadi Al-Quff Nature Reserve",
                   "text": "Wadi Al-Quff Nature Reserve – a protected valley with rocky cliffs and seasonal streams near Nuba.",
@@ -19102,33 +14377,6 @@ export const palestineCitiesV2: POI[] = [
                         35.102988,
                         31.566547
                   ]
-            },
-            {
-                  "name": "Halhoul center",
-                  "text": "Halhoul center – ein zentraler Ort in Beit Kahel, möglicherweise ein Gemeinschaftszentrum.",
-                  "category": "landmark",
-                  "coords": [
-                        35.098981,
-                        31.579181
-                  ]
-            },
-            {
-                  "name": "Al-Sharif Trading and Investment Co.",
-                  "text": "Alsharif Traid & Investment Co – ein markantes Geschäftsgebäude in Beit Kahel.",
-                  "category": "landmark",
-                  "coords": [
-                        35.100836,
-                        31.555358
-                  ]
-            },
-            {
-                  "name": "Khirbet en-Nasara",
-                  "text": "Khirbet en-Nasara – Ruinen einer christlichen Siedlung (Nasara bedeutet Christen) bei Beit Kahel.",
-                  "category": "historical",
-                  "coords": [
-                        35.093592,
-                        31.549356
-                  ]
             }
       ],
       "hu": [
@@ -19166,33 +14414,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.102988,
                         31.566547
-                  ]
-            },
-            {
-                  "name": "Halhoul center",
-                  "text": "Halhoul központ – egy központi hely Beit Kahelben, valószínűleg közösségi központ.",
-                  "category": "landmark",
-                  "coords": [
-                        35.098981,
-                        31.579181
-                  ]
-            },
-            {
-                  "name": "Al-Sharif Trading and Investment Co.",
-                  "text": "Alsharif Traid & Investment Co – egy jellegzetes üzleti épület Beit Kahelben.",
-                  "category": "landmark",
-                  "coords": [
-                        35.100836,
-                        31.555358
-                  ]
-            },
-            {
-                  "name": "Khirbet en-Nasara",
-                  "text": "Khirbet en-Nasara – egy keresztény település romjai (Nasara = keresztények) Beit Kahel közelében.",
-                  "category": "historical",
-                  "coords": [
-                        35.093592,
-                        31.549356
                   ]
             }
       ],
@@ -19232,54 +14453,9 @@ export const palestineCitiesV2: POI[] = [
                         35.102988,
                         31.566547
                   ]
-            },
-            {
-                  "name": "Halhoul center",
-                  "text": "Centrul Halhoul – un punct central în Beit Kahel, posibil un centru comunitar.",
-                  "category": "landmark",
-                  "coords": [
-                        35.098981,
-                        31.579181
-                  ]
-            },
-            {
-                  "name": "Al-Sharif Trading and Investment Co.",
-                  "text": "Alsharif Traid & Investment Co – o clădire de birouri notabilă în Beit Kahel.",
-                  "category": "landmark",
-                  "coords": [
-                        35.100836,
-                        31.555358
-                  ]
-            },
-            {
-                  "name": "Khirbet en-Nasara",
-                  "text": "Khirbet en-Nasara – ruinele unei așezări creștine (Nasara = creștini) lângă Beit Kahel.",
-                  "category": "historical",
-                  "coords": [
-                        35.093592,
-                        31.549356
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Al Karmel",
-                  "text": "Al Karmel – a family vineyard or garden in Beit Kahel.",
-                  "category": "family",
-                  "coords": [
-                        35.046607,
-                        31.578028
-                  ]
-            },
-            {
-                  "name": "Rovan Hall",
-                  "text": "Rovan Hall – a stone castle-style hall in Beit Kahel, featuring turrets.",
-                  "category": "castle",
-                  "coords": [
-                        35.087749,
-                        31.548246
-                  ]
-            },
             {
                   "name": "Ahl al-Khair Mosque",
                   "text": "Ahl al-Khair Mosque – a historic mosque in Beit Kahel now serving as a museum, with a minaret and prayer hall.",
@@ -19287,42 +14463,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.084838,
                         31.550671
-                  ]
-            },
-            {
-                  "name": "Mount Nabi Yunis",
-                  "text": "Highest peak in the area, with the tomb of Prophet Jonah.",
-                  "category": "natural",
-                  "coords": [
-                        35.102988,
-                        31.566547
-                  ]
-            },
-            {
-                  "name": "Halhoul center",
-                  "text": "Halhoul center – a central landmark in Beit Kahel, possibly a community center.",
-                  "category": "landmark",
-                  "coords": [
-                        35.098981,
-                        31.579181
-                  ]
-            },
-            {
-                  "name": "Alsharif Traid & Investment Co",
-                  "text": "Alsharif Traid & Investment Co – a notable commercial building in Beit Kahel.",
-                  "category": "landmark",
-                  "coords": [
-                        35.100836,
-                        31.555358
-                  ]
-            },
-            {
-                  "name": "Khirbet en-Nasara",
-                  "text": "Khirbet en-Nasara – ruins of a Christian settlement (Nasara means Christians) near Beit Kahel.",
-                  "category": "historical",
-                  "coords": [
-                        35.093592,
-                        31.549356
                   ]
             }
       ]
@@ -19374,15 +14514,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-tafpuh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Al-Janoub Art Gallery",
-                  "text": "Al-Janoub Art Gallery – eine Kunstgalerie in einem burgähnlichen Gebäude in Tafpuh, mit zeitgenössischer Kunst.",
-                  "category": "castle",
-                  "coords": [
-                        35.030064,
-                        31.505055
-                  ]
-            },
-            {
                   "name": "Martyrs Square",
                   "text": "Martyrs Square – ein historischer öffentlicher Platz in Tafpuh, benannt nach örtlichen Märtyrern.",
                   "category": "historical",
@@ -19401,15 +14532,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Amn Al-Wiqaei Viewpoint",
-                  "text": "Al-Amn Al-Wiqaei Viewpoint – Aussichtspunkt mit Blick auf die Umgebung von Tafpuh.",
-                  "category": "natural",
-                  "coords": [
-                        35.023874,
-                        31.507601
-                  ]
-            },
-            {
                   "name": "Dandis Metal Furniture",
                   "text": "Dandis Metal Furniture – ein markantes Möbelgeschäft in Tafpuh, bekannt für Metallarbeiten.",
                   "category": "landmark",
@@ -19417,27 +14539,9 @@ export const palestineCitiesV2: POI[] = [
                         35.06608,
                         31.527142
                   ]
-            },
-            {
-                  "name": "Einot Kanar Spring",
-                  "text": "Quelle in der Ortschaft Tafpuh im Westjordanland.",
-                  "category": "landmark",
-                  "coords": [
-                        35.048749,
-                        31.50688
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Al-Janoub Art Gallery",
-                  "text": "Al-Janoub Művészeti Galéria – egy várszerű épületben működő galéria Tafpuhban, kortárs művészettel.",
-                  "category": "castle",
-                  "coords": [
-                        35.030064,
-                        31.505055
-                  ]
-            },
             {
                   "name": "Martyrs Square",
                   "text": "Mártírok tere – egy történelmi nyilvános tér Tafpuhban, helyi mártírokról elnevezve.",
@@ -19457,15 +14561,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Amn Al-Wiqaei Viewpoint",
-                  "text": "Al-Amn Al-Wiqaei kilátó – kilátópont, ahonnan belátható Tafpuh környéke.",
-                  "category": "natural",
-                  "coords": [
-                        35.023874,
-                        31.507601
-                  ]
-            },
-            {
                   "name": "Dandis Metal Furniture",
                   "text": "Dandis Fémbútor – egy jellegzetes bútorüzlet Tafpuhban, fémipari munkáiról ismert.",
                   "category": "landmark",
@@ -19473,27 +14568,9 @@ export const palestineCitiesV2: POI[] = [
                         35.06608,
                         31.527142
                   ]
-            },
-            {
-                  "name": "Einot Kanar Spring",
-                  "text": "Forrás a ciszjordániai Tafpuh településen.",
-                  "category": "landmark",
-                  "coords": [
-                        35.048749,
-                        31.50688
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Al-Janoub Art Gallery",
-                  "text": "Galeria de Artă Al-Janoub – o galerie într-o clădire asemănătoare unui castel în Tafpuh, cu artă contemporană.",
-                  "category": "castle",
-                  "coords": [
-                        35.030064,
-                        31.505055
-                  ]
-            },
             {
                   "name": "Martyrs Square",
                   "text": "Piața Martirilor – o piață publică istorică în Tafpuh, dedicată martirilor locali.",
@@ -19513,15 +14590,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Amn Al-Wiqaei Viewpoint",
-                  "text": "Punctul de belvedere Al-Amn Al-Wiqaei – cu vedere asupra zonei Tafpuh.",
-                  "category": "natural",
-                  "coords": [
-                        35.023874,
-                        31.507601
-                  ]
-            },
-            {
                   "name": "Dandis Metal Furniture",
                   "text": "Dandis Metal Furniture – un magazin de mobilier remarcabil în Tafpuh, cunoscut pentru lucrările din metal.",
                   "category": "landmark",
@@ -19529,27 +14597,9 @@ export const palestineCitiesV2: POI[] = [
                         35.06608,
                         31.527142
                   ]
-            },
-            {
-                  "name": "Einot Kanar Spring",
-                  "text": "Izvor în localitatea Tafpuh din Cisiordania.",
-                  "category": "landmark",
-                  "coords": [
-                        35.048749,
-                        31.50688
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Al-Janoub Art Gallery",
-                  "text": "Al-Janoub Art Gallery – an art gallery in a castle-like building in Tafpuh, featuring contemporary art.",
-                  "category": "castle",
-                  "coords": [
-                        35.030064,
-                        31.505055
-                  ]
-            },
             {
                   "name": "Martyrs Square",
                   "text": "Martyrs Square – a historic public square in Tafpuh, dedicated to local martyrs.",
@@ -19569,30 +14619,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Amn Al-Wiqaei Viewpoint",
-                  "text": "Al-Amn Al-Wiqaei Viewpoint – a lookout offering views of the Tafpuh area.",
-                  "category": "natural",
-                  "coords": [
-                        35.023874,
-                        31.507601
-                  ]
-            },
-            {
                   "name": "Dandis Metal Furniture",
                   "text": "Dandis Metal Furniture – a landmark furniture store in Tafpuh, known for metalwork.",
                   "category": "landmark",
                   "coords": [
                         35.06608,
                         31.527142
-                  ]
-            },
-            {
-                  "name": "Einot Kanar Spring",
-                  "text": "Spring in the locality of Tafpuh in the West Bank.",
-                  "category": "landmark",
-                  "coords": [
-                        35.048749,
-                        31.50688
                   ]
             }
       ]
@@ -19878,15 +14910,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-eizariya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "The Burnt House Museum",
-                  "text": "Ausgegrabenes Haus, das 70 n. Chr. niederbrannte.",
-                  "category": "museum",
-                  "coords": [
-                        35.232698,
-                        31.775593
-                  ]
-            },
-            {
                   "name": "In der palästinensischen Stadt Al Eizariya",
                   "text": "In der palästinensischen Stadt Al Eizariya liegt die historische Stätte השער הכפול. Die archäologischen Überreste vor Ort bieten einen direkten Einblick in die Vergangenheit der Region.",
                   "category": "historical",
@@ -19896,48 +14919,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lithostrotos",
-                  "text": "Das historische Lithostrotos ist eine bedeutende archäologische Ausgrabungsstätte in Al Eizariya. Geschichtsinteressierte Besucher können hier die antiken Strukturen Palästinas auf sich wirken lassen.",
-                  "category": "historical",
-                  "coords": [
-                        35.233618,
-                        31.780439
-                  ]
-            },
-            {
-                  "name": "Robinson's Arch",
-                  "text": "Die historischen Überreste von קשת רובינסון befinden sich in Al Eizariya, Palästina. Diese archäologische Stätte lädt dazu ein, die antike Architektur der Gegend zu erkunden.",
-                  "category": "historical",
-                  "coords": [
-                        35.234592,
-                        31.775823
-                  ]
-            },
-            {
-                  "name": "Teich Bethesda",
-                  "text": "Der Teich Bethesda ist eine archäologische Stätte von historischer Bedeutung in Al Eizariya. Besucher haben die Möglichkeit, diese antiken Spuren inmitten von Palästina zu besichtigen.",
-                  "category": "historical",
-                  "coords": [
-                        35.235991,
-                        31.781473
-                  ]
-            },
-            {
                   "name": "Givati Excavations",
                   "text": "Archäologische Ausgrabung mit Funden aus der Zeit des Ersten Tempels.",
                   "category": "historical",
                   "coords": [
                         35.235098,
                         31.774443
-                  ]
-            },
-            {
-                  "name": "Cardo",
-                  "text": "Antike römische Säulenstraße.",
-                  "category": "historical",
-                  "coords": [
-                        35.2309,
-                        31.775029
                   ]
             },
             {
@@ -19983,42 +14970,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.255789,
                         31.771521
-                  ]
-            },
-            {
-                  "name": "Markuskirche",
-                  "text": "Die christliche Markuskirche ist ein religiöser Ort der Besinnung in Al Eizariya. Gläubige und kulturinteressierte Besucher können dieses Gotteshaus in Palästina besuchen.",
-                  "category": "religious",
-                  "coords": [
-                        35.230595,
-                        31.77601
-                  ]
-            },
-            {
-                  "name": "Toroskirche",
-                  "text": "In der palästinensischen Stadt Al Eizariya befindet sich die christliche Toroskirche. Dieses religiöse Bauwerk bietet Raum für Gebete und spirituelle Zusammenkünfte.",
-                  "category": "religious",
-                  "coords": [
-                        35.229111,
-                        31.774796
-                  ]
-            },
-            {
-                  "name": "Maronitische Kirche",
-                  "text": "Die Maronitische Kirche ist eine bedeutsame christliche Einrichtung in Al Eizariya, Palästina. Der Sakralbau beeindruckt durch seine spirituelle Atmosphäre und traditionelle Bauweise.",
-                  "category": "religious",
-                  "coords": [
-                        35.229522,
-                        31.776416
-                  ]
-            },
-            {
-                  "name": "Kettendom",
-                  "text": "Kleine Kuppel auf dem Tempelberg nahe dem Felsendom.",
-                  "category": "religious",
-                  "coords": [
-                        35.235736,
-                        31.778079
                   ]
             },
             {
@@ -20076,24 +15027,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maria-Magdalena-Kirche",
-                  "text": "Die Maria-Magdalena-Kirche ist ein sakrales Wahrzeichen in der palästinensischen Stadt Al Eizariya. Diese christliche Kirche besticht durch ihr eindrucksvolles architektonisches Erscheinungsbild.",
-                  "category": "religious",
-                  "coords": [
-                        35.240855,
-                        31.7789
-                  ]
-            },
-            {
-                  "name": "Viri-Galilaei-Kirche",
-                  "text": "In Al Eizariya befindet sich die christliche Viri-Galilaei-Kirche, ein Ort tiefen Glaubens in Palästina. Die religiöse Stätte lädt Besucher dazu ein, innezuhalten und die Stille zu genießen.",
-                  "category": "religious",
-                  "coords": [
-                        35.244876,
-                        31.782396
-                  ]
-            },
-            {
                   "name": "Omar Moschee",
                   "text": "Moschee aus dem 12. Jahrhundert nahe der Grabeskirche.",
                   "category": "religious",
@@ -20146,90 +15079,9 @@ export const palestineCitiesV2: POI[] = [
                         35.230766,
                         31.778124
                   ]
-            },
-            {
-                  "name": "Dungtor",
-                  "text": "Tor in der Altstadtmauer nahe der Klagemauer.",
-                  "category": "landmark",
-                  "coords": [
-                        35.234173,
-                        31.774827
-                  ]
-            },
-            {
-                  "name": "Teich von Siloah",
-                  "text": "Antiker Teich in der Davidsstadt.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235123,
-                        31.770401
-                  ]
-            },
-            {
-                  "name": "Warren's Shaft",
-                  "text": "Bronzezeitlicher Wasserschacht, der zur Gihonquelle führte.",
-                  "category": "landmark",
-                  "coords": [
-                        35.236067,
-                        31.773123
-                  ]
-            },
-            {
-                  "name": "Zionstor",
-                  "text": "Stadttor von 1540 in der Altstadtmauer Jerusalems.",
-                  "category": "landmark",
-                  "coords": [
-                        35.229638,
-                        31.772857
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "The Burnt House Museum",
-                  "text": "Kiásott ház, amely i. sz. 70-ben leégett.",
-                  "category": "museum",
-                  "coords": [
-                        35.232698,
-                        31.775593
-                  ]
-            },
-            {
-                  "name": "Double Gate",
-                  "text": "A השער הכפול nevű régészeti lelőhely a palesztin Al Eizariya városában helyezkedik el. A történelmi helyszín bepillantást enged a térség múltjába az ide látogatók számára.",
-                  "category": "historical",
-                  "coords": [
-                        35.236581,
-                        31.775947
-                  ]
-            },
-            {
-                  "name": "Lithostrotos",
-                  "text": "A Lithostrotos egy történelmi fontosságú régészeti terület Palesztinában, Al Eizariya városában. Az ókori romok felfedezése érdekes programot kínál a történelem kedvelőinek.",
-                  "category": "historical",
-                  "coords": [
-                        35.233618,
-                        31.780439
-                  ]
-            },
-            {
-                  "name": "Robinson's Arch",
-                  "text": "A קשת רובינסון történelmi lelőhely Palesztinában, Al Eizariya településen várja a látogatókat. Ez a régészeti terület remek lehetőséget nyújt az ókori építészet tanulmányozására.",
-                  "category": "historical",
-                  "coords": [
-                        35.234592,
-                        31.775823
-                  ]
-            },
-            {
-                  "name": "Bethesda fürdő",
-                  "text": "A Teich Bethesda egy történelmi jelentőségű régészeti terület Al Eizariya városában, Palesztinában. Az idelátogatók felfedezhetik ezt a régi korokból fennmaradt emléket.",
-                  "category": "historical",
-                  "coords": [
-                        35.235991,
-                        31.781473
-                  ]
-            },
             {
                   "name": "Givati Excavations",
                   "text": "Régészeti feltárás az Első Templom korabeli leletekkel.",
@@ -20237,15 +15089,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.235098,
                         31.774443
-                  ]
-            },
-            {
-                  "name": "Cardo",
-                  "text": "Ősi római oszlopos utca.",
-                  "category": "historical",
-                  "coords": [
-                        35.2309,
-                        31.775029
                   ]
             },
             {
@@ -20303,30 +15146,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Szent Torosz templom",
-                  "text": "A Toroskirche egy keresztény templom az Al Eizariya nevű palesztin településen. Ez a vallási helyszín lehetőséget ad az elmélyülésre és az imádkozásra az ideérkezők számára.",
-                  "category": "religious",
-                  "coords": [
-                        35.229111,
-                        31.774796
-                  ]
-            },
-            {
                   "name": "ܥܕܬܐ ܡܪܘܢܝܬܐ",
                   "text": "A Maronitische Kirche egy jelentős keresztény templom, amely Palesztinában, Al Eizariya városában található. A spirituális légkörű vallási épület a helyi hitélet fontos központja.",
                   "category": "religious",
                   "coords": [
                         35.229522,
                         31.776416
-                  ]
-            },
-            {
-                  "name": "Lánckupola",
-                  "text": "Kis kupola a Templomhegyen, a Sziklaszentély közelében.",
-                  "category": "religious",
-                  "coords": [
-                        35.235736,
-                        31.778079
                   ]
             },
             {
@@ -20384,24 +15209,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mária Magdolna-templom",
-                  "text": "A Maria-Magdalena-Kirche egy lenyűgöző keresztény templom Al Eizariya városában, Palesztinában. A vallási épület békés hangulatával és különleges atmoszférájával várja a hívőket.",
-                  "category": "religious",
-                  "coords": [
-                        35.240855,
-                        31.7789
-                  ]
-            },
-            {
-                  "name": "Galileai férfiak-templom",
-                  "text": "A Viri-Galilaei-Kirche egy keresztény szentély Palesztinában, az Al Eizariya-i régióban. Ez a templom csendes elvonulást és imádkozási lehetőséget nyújt a látogatóknak.",
-                  "category": "religious",
-                  "coords": [
-                        35.244876,
-                        31.782396
-                  ]
-            },
-            {
                   "name": "Omár-mecset",
                   "text": "12. századi mecset a Szent Sír-templom közelében.",
                   "category": "religious",
@@ -20454,90 +15261,9 @@ export const palestineCitiesV2: POI[] = [
                         35.230766,
                         31.778124
                   ]
-            },
-            {
-                  "name": "Szemét-kapu",
-                  "text": "Kapu az óváros falában a Siratófal közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        35.234173,
-                        31.774827
-                  ]
-            },
-            {
-                  "name": "Pool of Siloam",
-                  "text": "Ősi medence a Dávid városában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235123,
-                        31.770401
-                  ]
-            },
-            {
-                  "name": "Warren's Shaft",
-                  "text": "Bronzkori vízakna, amely a Gihon-forráshoz vezetett.",
-                  "category": "landmark",
-                  "coords": [
-                        35.236067,
-                        31.773123
-                  ]
-            },
-            {
-                  "name": "Sion-kapu",
-                  "text": "1540-ben épült városkapu a jeruzsálemi óváros falában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.229638,
-                        31.772857
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Muzeul Casa Burnt",
-                  "text": "Casă excavată, distrusă de incendiu în anul 70 d.Hr.",
-                  "category": "museum",
-                  "coords": [
-                        35.232698,
-                        31.775593
-                  ]
-            },
-            {
-                  "name": "Double Gate",
-                  "text": "Situl arheologic השער הכפול se află în orașul Al Eizariya din Palestina. Pasionații de istorie pot explora aceste vestigii pentru a descoperi trecutul regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        35.236581,
-                        31.775947
-                  ]
-            },
-            {
-                  "name": "Lithostrotos",
-                  "text": "Lithostrotos este un important sit arheologic situat în Al Eizariya, Palestina. Turiștii pot vizita aceste ruine istorice pentru a observa structurile antice din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        35.233618,
-                        31.780439
-                  ]
-            },
-            {
-                  "name": "Robinson's Arch",
-                  "text": "Vestigiile istorice cunoscute sub numele de קשת רובינסון se găsesc în Al Eizariya, Palestina. Acest sit arheologic oferă o privire fascinantă asupra arhitecturii antice locale.",
-                  "category": "historical",
-                  "coords": [
-                        35.234592,
-                        31.775823
-                  ]
-            },
-            {
-                  "name": "Scăldătoarea Betezda",
-                  "text": "Teich Bethesda este un sit arheologic cu o bogată importanță istorică din Al Eizariya, Palestina. Ruinele de aici invită la explorarea trecutului îndepărtat al așezării.",
-                  "category": "historical",
-                  "coords": [
-                        35.235991,
-                        31.781473
-                  ]
-            },
             {
                   "name": "Givati Excavations",
                   "text": "Sit arheologic cu vestigii din perioada Primului Templu.",
@@ -20545,15 +15271,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.235098,
                         31.774443
-                  ]
-            },
-            {
-                  "name": "Cardo",
-                  "text": "Stradă romană antică cu coloane.",
-                  "category": "historical",
-                  "coords": [
-                        35.2309,
-                        31.775029
                   ]
             },
             {
@@ -20599,42 +15316,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.255789,
                         31.771521
-                  ]
-            },
-            {
-                  "name": "Biserica Siriacă „Sfântul Marcu”",
-                  "text": "Biserica creștină Markuskirche servește ca un important lăcaș de cult în Al Eizariya, Palestina. Cei care o vizitează se pot bucura de liniștea și arhitectura acestui spațiu spiritual.",
-                  "category": "religious",
-                  "coords": [
-                        35.230595,
-                        31.77601
-                  ]
-            },
-            {
-                  "name": "Biserica armeană „Sfântul Toros”",
-                  "text": "Situată în Al Eizariya, Toroskirche este o biserică creștină de pe teritoriul Palestinei. Lăcașul de cult oferă vizitatorilor un loc de liniște și contemplare religioasă.",
-                  "category": "religious",
-                  "coords": [
-                        35.229111,
-                        31.774796
-                  ]
-            },
-            {
-                  "name": "Biserica catolică maronită a melkiților",
-                  "text": "Biserica creștină Maronitische Kirche este un reper spiritual situat în Al Eizariya, Palestina. Această clădire religioasă atrage prin atmosfera sa de pace și tradiția pe care o reprezintă.",
-                  "category": "religious",
-                  "coords": [
-                        35.229522,
-                        31.776416
-                  ]
-            },
-            {
-                  "name": "Cupola Lanțului",
-                  "text": "Dom mic pe Muntele Templului, lângă Domul Stâncii.",
-                  "category": "religious",
-                  "coords": [
-                        35.235736,
-                        31.778079
                   ]
             },
             {
@@ -20689,15 +15370,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.23964,
                         31.780423
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Rusă „Maria Magdalena”",
-                  "text": "Biserica creștină Maria-Magdalena-Kirche este un sanctuar religios impresionant din Al Eizariya, Palestina. Pelerinii și turiștii sunt atrași de frumusețea și pacea acestui edificiu sacru.",
-                  "category": "religious",
-                  "coords": [
-                        35.240855,
-                        31.7789
                   ]
             },
             {
@@ -20762,90 +15434,9 @@ export const palestineCitiesV2: POI[] = [
                         35.230766,
                         31.778124
                   ]
-            },
-            {
-                  "name": "Poarta Gunoaielor",
-                  "text": "Poartă în zidul orașului vechi lângă Zidul de Vest.",
-                  "category": "landmark",
-                  "coords": [
-                        35.234173,
-                        31.774827
-                  ]
-            },
-            {
-                  "name": "Scăldătoarea Siloamului",
-                  "text": "Bazin antic în Orașul lui David.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235123,
-                        31.770401
-                  ]
-            },
-            {
-                  "name": "Warren's Shaft",
-                  "text": "Puț de apă din epoca bronzului, care ducea la izvorul Gihon.",
-                  "category": "landmark",
-                  "coords": [
-                        35.236067,
-                        31.773123
-                  ]
-            },
-            {
-                  "name": "Poarta Sionului",
-                  "text": "Poartă a orașului construită în 1540 în zidul Vechiului Ierusalim.",
-                  "category": "landmark",
-                  "coords": [
-                        35.229638,
-                        31.772857
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Burnt House",
-                  "text": "Excavated house destroyed by fire in 70 CE.",
-                  "category": "museum",
-                  "coords": [
-                        35.232698,
-                        31.775593
-                  ]
-            },
-            {
-                  "name": "Hulda Triple Gate",
-                  "text": "The archaeological site of השער הכפול is located in Al Eizariya, Palestine. Those interested in local history can explore these ancient ruins to learn about the area's past.",
-                  "category": "historical",
-                  "coords": [
-                        35.236581,
-                        31.775947
-                  ]
-            },
-            {
-                  "name": "Lithostrotos",
-                  "text": "Lithostrotos represents an important historical and archaeological site in Al Eizariya, Palestine. Visitors can walk among the ancient remains to connect with the region's heritage.",
-                  "category": "historical",
-                  "coords": [
-                        35.233618,
-                        31.780439
-                  ]
-            },
-            {
-                  "name": "Robinson's Arch",
-                  "text": "The historical ruins of קשת רובינסון are situated in the Palestinian city of Al Eizariya. This archaeological site offers a glimpse into the ancient architectural landscape of the area.",
-                  "category": "historical",
-                  "coords": [
-                        35.234592,
-                        31.775823
-                  ]
-            },
-            {
-                  "name": "Pool of Bethesda",
-                  "text": "Teich Bethesda is a site of historical and archaeological significance located in Al Eizariya, Palestine. Guests can explore the ancient remnants preserved at this location.",
-                  "category": "historical",
-                  "coords": [
-                        35.235991,
-                        31.781473
-                  ]
-            },
             {
                   "name": "Givati Parking Lot dig",
                   "text": "Archaeological dig with remains from the First Temple period.",
@@ -20853,15 +15444,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.235098,
                         31.774443
-                  ]
-            },
-            {
-                  "name": "Cardo",
-                  "text": "Ancient Roman colonnaded street.",
-                  "category": "historical",
-                  "coords": [
-                        35.2309,
-                        31.775029
                   ]
             },
             {
@@ -20907,42 +15489,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.255789,
                         31.771521
-                  ]
-            },
-            {
-                  "name": "Syriac Church of St. Mark",
-                  "text": "The Christian Markuskirche stands as a religious sanctuary in Al Eizariya, Palestine. Visitors are welcome to appreciate the spiritual atmosphere and architecture of this church.",
-                  "category": "religious",
-                  "coords": [
-                        35.230595,
-                        31.77601
-                  ]
-            },
-            {
-                  "name": "St. Toros Church",
-                  "text": "Located in Al Eizariya, Palestine, the Toroskirche is a Christian church serving the area. This religious building invites guests for quiet reflection and spiritual contemplation.",
-                  "category": "religious",
-                  "coords": [
-                        35.229111,
-                        31.774796
-                  ]
-            },
-            {
-                  "name": "Maronite Church",
-                  "text": "The Maronitische Kirche is a Christian religious site located in the city of Al Eizariya, Palestine. This church offers a peaceful space for prayer and quiet reflection to all visitors.",
-                  "category": "religious",
-                  "coords": [
-                        35.229522,
-                        31.776416
-                  ]
-            },
-            {
-                  "name": "Dome of the Chain",
-                  "text": "Small dome on the Temple Mount near the Dome of the Rock.",
-                  "category": "religious",
-                  "coords": [
-                        35.235736,
-                        31.778079
                   ]
             },
             {
@@ -21000,24 +15546,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Church of Mary Magdalene",
-                  "text": "The Maria-Magdalena-Kirche is a distinct Christian church located in Al Eizariya, Palestine. The sanctuary provides a serene setting for those seeking spiritual contemplation.",
-                  "category": "religious",
-                  "coords": [
-                        35.240855,
-                        31.7789
-                  ]
-            },
-            {
-                  "name": "Viri Galilaei Church",
-                  "text": "Found in Al Eizariya, Palestine, the Viri-Galilaei-Kirche is a Christian church that welcomes visitors. The site offers a peaceful environment for prayer and connecting with one's faith.",
-                  "category": "religious",
-                  "coords": [
-                        35.244876,
-                        31.782396
-                  ]
-            },
-            {
                   "name": "Mosque of Omar",
                   "text": "12th-century mosque near the Church of the Holy Sepulchre.",
                   "category": "religious",
@@ -21069,42 +15597,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.230766,
                         31.778124
-                  ]
-            },
-            {
-                  "name": "Dung Gate",
-                  "text": "Gate in the Old City walls near the Western Wall.",
-                  "category": "landmark",
-                  "coords": [
-                        35.234173,
-                        31.774827
-                  ]
-            },
-            {
-                  "name": "HaShiliach Pool",
-                  "text": "Ancient pool in the City of David.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235123,
-                        31.770401
-                  ]
-            },
-            {
-                  "name": "Warren's Shaft",
-                  "text": "Bronze Age water shaft connecting to the Gihon Spring.",
-                  "category": "landmark",
-                  "coords": [
-                        35.236067,
-                        31.773123
-                  ]
-            },
-            {
-                  "name": "Zion Gate",
-                  "text": "City gate built in 1540 in the Old City walls.",
-                  "category": "landmark",
-                  "coords": [
-                        35.229638,
-                        31.772857
                   ]
             }
       ]
@@ -21165,15 +15657,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Necropolis",
-                  "text": "Nekropole – ein antiker Friedhof in Abu Dis mit in den Fels gehauenen Gräbern.",
-                  "category": "historical",
-                  "coords": [
-                        35.242212,
-                        31.77761
-                  ]
-            },
-            {
                   "name": "University Amphitheater",
                   "text": "Universitätsamphitheater – ein Amphitheater auf dem Universitätscampus in Abu Dis, genutzt für Veranstaltungen.",
                   "category": "cultural",
@@ -21192,24 +15675,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ras Tamim",
-                  "text": "Ras Tamim – eine archäologische Stätte auf einem Hügel in Abu Dis mit antiken Ruinen.",
-                  "category": "historical",
-                  "coords": [
-                        35.256929,
-                        31.791628
-                  ]
-            },
-            {
-                  "name": "City of David",
-                  "text": "City of David – eine historische Stätte in Abu Dis, die an die biblische Davidsstadt erinnert, mit alten Fundamenten.",
-                  "category": "historical",
-                  "coords": [
-                        35.235721,
-                        31.772425
-                  ]
-            },
-            {
                   "name": "Institute of Archaeology",
                   "text": "Institut für Archäologie – ein Museum in Abu Dis, das Funde aus lokalen Ausgrabungen zeigt.",
                   "category": "museum",
@@ -21219,93 +15684,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ölberg",
-                  "text": "Der Ölberg in Abu Dis bietet einen Panoramablick über die Altstadt Jerusalems und ist bekannt für seine jüdischen und christlichen Friedhöfe.",
-                  "category": "natural",
-                  "coords": [
-                        35.245035,
-                        31.778912
-                  ]
-            },
-            {
-                  "name": "Tower of the White Russian Church",
-                  "text": "Der Turm der Weißen Russischen Kirche auf dem Ölberg gehört zum Russisch-Orthodoxen Himmelfahrtskloster.",
-                  "category": "natural",
-                  "coords": [
-                        35.247761,
-                        31.779102
-                  ]
-            },
-            {
-                  "name": "Garten Getsemani",
-                  "text": "Alter Olivenhain am Fuße des Ölbergs.",
-                  "category": "park",
-                  "coords": [
-                        35.239673,
-                        31.779598
-                  ]
-            },
-            {
-                  "name": "Rehavam Aussichtspunkt",
-                  "text": "Rehav'am Lookout – Aussichtspunkt mit Blick über die judäischen Hügel bei Abu Dis.",
-                  "category": "natural",
-                  "coords": [
-                        35.242813,
-                        31.775863
-                  ]
-            },
-            {
                   "name": "Ancient Tomb Lookout",
                   "text": "Ancient Tomb Lookout – Aussichtspunkt über antike Gräber in den Klippen bei Abu Dis.",
                   "category": "natural",
                   "coords": [
                         35.236008,
                         31.773512
-                  ]
-            },
-            {
-                  "name": "Viewpoint of Temple Mount",
-                  "text": "Der Viewpoint of Temple Mount bietet Ausblicke auf den Tempelberg von Abu Dis aus.",
-                  "category": "natural",
-                  "coords": [
-                        35.239965,
-                        31.753373
-                  ]
-            },
-            {
-                  "name": "Grab des Lazarus",
-                  "text": "Lazarus Tomb ist eine traditionelle Grab- und Kultstätte, die mit der biblischen Figur des Lazarus verbunden ist.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
-                  ]
-            },
-            {
-                  "name": "Bethphage monastery",
-                  "text": "Das Bethphage-Kloster auf dem Ölberg erinnert an den Ort, an dem Jesus den Esel für den Einzug in Jerusalem bestieg.",
-                  "category": "religious",
-                  "coords": [
-                        35.251126,
-                        31.777399
-                  ]
-            },
-            {
-                  "name": "Maria-Magdalena-Kirche",
-                  "text": "Die Church of Mary Magdalene ist eine russisch-orthodoxe Kirche mit markanten goldenen Zwiebeltürmen.",
-                  "category": "religious",
-                  "coords": [
-                        35.240855,
-                        31.7789
-                  ]
-            },
-            {
-                  "name": "Viri-Galilaei-Kirche",
-                  "text": "Kirche auf dem Ölberg, die an die Himmelfahrt erinnert.",
-                  "category": "religious",
-                  "coords": [
-                        35.244876,
-                        31.782396
                   ]
             }
       ],
@@ -21317,15 +15701,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.237099,
                         31.77631
-                  ]
-            },
-            {
-                  "name": "Nekropolisz",
-                  "text": "Nekropolisz – egy ókori temető Abu Disben, sziklába vésett sírokkal.",
-                  "category": "historical",
-                  "coords": [
-                        35.242212,
-                        31.77761
                   ]
             },
             {
@@ -21347,24 +15722,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ras Tamim",
-                  "text": "Ras Tamim – egy régészeti lelőhely egy dombon Abu Disben, ókori romokkal.",
-                  "category": "historical",
-                  "coords": [
-                        35.256929,
-                        31.791628
-                  ]
-            },
-            {
-                  "name": "City of David",
-                  "text": "Dávid városa – egy történelmi helyszín Abu Disben, amely a bibliai Dávid városára utal, ősi alapokkal.",
-                  "category": "historical",
-                  "coords": [
-                        35.235721,
-                        31.772425
-                  ]
-            },
-            {
                   "name": "Institute of Archaeology",
                   "text": "Régészeti Intézet – egy múzeum Abu Disben, helyi ásatások leleteit bemutatva.",
                   "category": "museum",
@@ -21374,93 +15731,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount of Olives",
-                  "text": "Az Olajfák hegye Abu Disban panorámás kilátást nyújt Jeruzsálem óvárosára, és híres zsidó és keresztény temetőiről.",
-                  "category": "natural",
-                  "coords": [
-                        35.245035,
-                        31.778912
-                  ]
-            },
-            {
-                  "name": "Tower of the White Russian Church",
-                  "text": "A Fehér Orosz Templom tornya az Olajfák hegyén az Orosz Ortodox Mennybemenetel-kolostor része.",
-                  "category": "natural",
-                  "coords": [
-                        35.247761,
-                        31.779102
-                  ]
-            },
-            {
-                  "name": "Gecsemáné kert",
-                  "text": "Ősi olajfaliget az Olajfák hegyének lábánál.",
-                  "category": "park",
-                  "coords": [
-                        35.239673,
-                        31.779598
-                  ]
-            },
-            {
-                  "name": "Rehav'am Lookout",
-                  "text": "Rehav'am kilátó – kilátással a Júdeai-dombságra Abu Dis közelében.",
-                  "category": "natural",
-                  "coords": [
-                        35.242813,
-                        31.775863
-                  ]
-            },
-            {
                   "name": "Ancient Tomb Lookout",
                   "text": "Ősi sírok kilátó – kilátással a sziklákba vájt ókori sírokra Abu Dis közelében.",
                   "category": "natural",
                   "coords": [
                         35.236008,
                         31.773512
-                  ]
-            },
-            {
-                  "name": "Viewpoint of Temple Mount",
-                  "text": "A Viewpoint of Temple Mount kilátást nyújt a Templomhegyre Abu Dis felől.",
-                  "category": "natural",
-                  "coords": [
-                        35.239965,
-                        31.753373
-                  ]
-            },
-            {
-                  "name": "Lazarus Tomb",
-                  "text": "A Lazarus Tomb egy hagyományos sír- és istentiszteleti hely, amely a bibliai Lázárhoz kötődik.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
-                  ]
-            },
-            {
-                  "name": "Bethphage monastery",
-                  "text": "A Betfage-kolostor az Olajfák hegyén azon a helyen áll, ahol Jézus a szamárra szállt a jeruzsálemi bevonuláshoz.",
-                  "category": "religious",
-                  "coords": [
-                        35.251126,
-                        31.777399
-                  ]
-            },
-            {
-                  "name": "Mária Magdolna-templom",
-                  "text": "A Church of Mary Magdalene egy orosz ortodox templom jellegzetes arany hagymakupolákkal.",
-                  "category": "religious",
-                  "coords": [
-                        35.240855,
-                        31.7789
-                  ]
-            },
-            {
-                  "name": "Galileai férfiak-templom",
-                  "text": "Templom az Olajfák hegyén, amely a Mennybemenetelre emlékeztet.",
-                  "category": "religious",
-                  "coords": [
-                        35.244876,
-                        31.782396
                   ]
             }
       ],
@@ -21472,15 +15748,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.237099,
                         31.77631
-                  ]
-            },
-            {
-                  "name": "Necropolă",
-                  "text": "Necropolă – un cimitir antic în Abu Dis, cu morminte săpate în stâncă.",
-                  "category": "historical",
-                  "coords": [
-                        35.242212,
-                        31.77761
                   ]
             },
             {
@@ -21502,24 +15769,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ras Tamim",
-                  "text": "Ras Tamim – un sit arheologic pe un deal în Abu Dis, cu ruine antice.",
-                  "category": "historical",
-                  "coords": [
-                        35.256929,
-                        31.791628
-                  ]
-            },
-            {
-                  "name": "Cetatea lui David",
-                  "text": "Orașul lui David – un sit istoric în Abu Dis, amintind de cetatea biblică a lui David, cu fundații antice.",
-                  "category": "historical",
-                  "coords": [
-                        35.235721,
-                        31.772425
-                  ]
-            },
-            {
                   "name": "Institute of Archaeology",
                   "text": "Institutul de Arheologie – un muzeu în Abu Dis, care expune artefacte din săpături locale.",
                   "category": "museum",
@@ -21529,93 +15778,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muntele Măslinilor",
-                  "text": "Muntele Măslinilor din Abu Dis oferă o panoramă asupra Orașului Vechi al Ierusalimului și este cunoscut pentru cimitirele evreiești și creștine.",
-                  "category": "natural",
-                  "coords": [
-                        35.245035,
-                        31.778912
-                  ]
-            },
-            {
-                  "name": "Tower of the White Russian Church",
-                  "text": "Turnul Bisericii Ruse Albe de pe Muntele Măslinilor face parte din Mănăstirea Ortodoxă Rusă a Înălțării.",
-                  "category": "natural",
-                  "coords": [
-                        35.247761,
-                        31.779102
-                  ]
-            },
-            {
-                  "name": "Grădina Ghetsimani",
-                  "text": "Livadă străveche de măslini la poalele Muntelui Măslinilor.",
-                  "category": "park",
-                  "coords": [
-                        35.239673,
-                        31.779598
-                  ]
-            },
-            {
-                  "name": "Rehav'am Lookout",
-                  "text": "Punctul de belvedere Rehav'am – cu vedere spre dealurile Iudeei lângă Abu Dis.",
-                  "category": "natural",
-                  "coords": [
-                        35.242813,
-                        31.775863
-                  ]
-            },
-            {
                   "name": "Ancient Tomb Lookout",
                   "text": "Punctul de belvedere al Mormintelor Antice – cu vedere spre mormintele antice din stânci lângă Abu Dis.",
                   "category": "natural",
                   "coords": [
                         35.236008,
                         31.773512
-                  ]
-            },
-            {
-                  "name": "Viewpoint of Temple Mount",
-                  "text": "Viewpoint of Temple Mount oferă o priveliște asupra Muntelui Templului din Abu Dis.",
-                  "category": "natural",
-                  "coords": [
-                        35.239965,
-                        31.753373
-                  ]
-            },
-            {
-                  "name": "Mormântul lui Lazăr din Betania",
-                  "text": "Lazarus Tomb este un loc de cult tradițional asociat cu personajul biblic Lazăr.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
-                  ]
-            },
-            {
-                  "name": "Bethphage monastery",
-                  "text": "Mănăstirea Bethfage de pe Muntele Măslinilor comemorează locul unde Iisus s-a urcat pe măgar pentru Intrarea triumfală în Ierusalim.",
-                  "category": "religious",
-                  "coords": [
-                        35.251126,
-                        31.777399
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Rusă „Maria Magdalena”",
-                  "text": "Church of Mary Magdalene este o biserică ortodoxă rusă cu cupole aurii distinctive în formă de ceapă.",
-                  "category": "religious",
-                  "coords": [
-                        35.240855,
-                        31.7789
-                  ]
-            },
-            {
-                  "name": "Viri Galilaei Church",
-                  "text": "Biserică pe Muntele Măslinilor care comemorează Înălțarea.",
-                  "category": "religious",
-                  "coords": [
-                        35.244876,
-                        31.782396
                   ]
             }
       ],
@@ -21627,15 +15795,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.237099,
                         31.77631
-                  ]
-            },
-            {
-                  "name": "Necropolis",
-                  "text": "Necropolis – an ancient cemetery in Abu Dis with rock-cut tombs.",
-                  "category": "historical",
-                  "coords": [
-                        35.242212,
-                        31.77761
                   ]
             },
             {
@@ -21657,24 +15816,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ras Tamim",
-                  "text": "Ras Tamim – an archaeological site on a hilltop in Abu Dis, with ancient ruins.",
-                  "category": "historical",
-                  "coords": [
-                        35.256929,
-                        31.791628
-                  ]
-            },
-            {
-                  "name": "City of David",
-                  "text": "City of David – a historical site in Abu Dis, recalling the biblical City of David, with ancient foundations.",
-                  "category": "historical",
-                  "coords": [
-                        35.235721,
-                        31.772425
-                  ]
-            },
-            {
                   "name": "Institute of Archaeology",
                   "text": "Institute of Archaeology – a museum in Abu Dis displaying artifacts from local excavations.",
                   "category": "museum",
@@ -21684,93 +15825,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount of Olives",
-                  "text": "Mount of Olives in Abu Dis, offering a panoramic view of Jerusalem's Old City and known for its Jewish and Christian cemeteries.",
-                  "category": "natural",
-                  "coords": [
-                        35.245035,
-                        31.778912
-                  ]
-            },
-            {
-                  "name": "Tower of the White Russian Church",
-                  "text": "Tower of the White Russian Church on the Mount of Olives, part of the Russian Orthodox Ascension Convent.",
-                  "category": "natural",
-                  "coords": [
-                        35.247761,
-                        31.779102
-                  ]
-            },
-            {
-                  "name": "Garden of Gethsemane",
-                  "text": "Ancient olive grove at the foot of the Mount of Olives.",
-                  "category": "park",
-                  "coords": [
-                        35.239673,
-                        31.779598
-                  ]
-            },
-            {
-                  "name": "Rehav'am Lookout",
-                  "text": "Rehav'am Lookout – a viewpoint overlooking the Judean hills near Abu Dis.",
-                  "category": "natural",
-                  "coords": [
-                        35.242813,
-                        31.775863
-                  ]
-            },
-            {
                   "name": "Ancient Tomb Lookout",
                   "text": "Ancient Tomb Lookout – a lookout over ancient tombs in the cliffs near Abu Dis.",
                   "category": "natural",
                   "coords": [
                         35.236008,
                         31.773512
-                  ]
-            },
-            {
-                  "name": "Viewpoint of Temple Mount",
-                  "text": "Viewpoint of Temple Mount provides a view towards the Temple Mount from Abu Dis.",
-                  "category": "natural",
-                  "coords": [
-                        35.239965,
-                        31.753373
-                  ]
-            },
-            {
-                  "name": "Lazarus Tomb",
-                  "text": "Lazarus Tomb is a traditional worship and burial site associated with the biblical figure of Lazarus.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
-                  ]
-            },
-            {
-                  "name": "Bethphage monastery",
-                  "text": "Bethphage monastery on the Mount of Olives, site where Jesus is said to have mounted the donkey for the Triumphal Entry.",
-                  "category": "religious",
-                  "coords": [
-                        35.251126,
-                        31.777399
-                  ]
-            },
-            {
-                  "name": "Church of Mary Magdalene",
-                  "text": "The Church of Mary Magdalene is a Russian Orthodox church notable for its golden onion domes.",
-                  "category": "religious",
-                  "coords": [
-                        35.240855,
-                        31.7789
-                  ]
-            },
-            {
-                  "name": "Viri Galilaei Church",
-                  "text": "Church on the Mount of Olives commemorating the Ascension.",
-                  "category": "religious",
-                  "coords": [
-                        35.244876,
-                        31.782396
                   ]
             }
       ]
@@ -21837,15 +15897,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.180223,
                         31.832829
-                  ]
-            },
-            {
-                  "name": "Kh. Almit",
-                  "text": "Antike Ruinen auf einem Hügel bei Anata, die mit der biblischen Stadt Almon in Verbindung gebracht werden.",
-                  "category": "natural",
-                  "coords": [
-                        35.273272,
-                        31.825194
                   ]
             },
             {
@@ -22166,15 +16217,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kh. Almit",
-                  "text": "Anata közeli dombtetőn fekvő ősi romok, amelyeket a bibliai Almon városával azonosítanak.",
-                  "category": "natural",
-                  "coords": [
-                        35.273272,
-                        31.825194
-                  ]
-            },
-            {
                   "name": "Faran Monastery",
                   "text": "A Júdeai-sivatag legrégebbi keresztény kolostorának romjai, melyet Szent Kharitón alapított.",
                   "category": "historical",
@@ -22492,15 +16534,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kh. Almit",
-                  "text": "Ruine antice pe un deal lângă Anata, asociate cu orașul biblic Almon.",
-                  "category": "natural",
-                  "coords": [
-                        35.273272,
-                        31.825194
-                  ]
-            },
-            {
                   "name": "Faran Monastery",
                   "text": "Rămășițele celei mai vechi mănăstiri creștine din deșertul Iudeii, fondată de Sfântul Hariton.",
                   "category": "historical",
@@ -22815,15 +16848,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.180223,
                         31.832829
-                  ]
-            },
-            {
-                  "name": "Kh. Almit",
-                  "text": "Ancient ruins on a hilltop near Anata, associated with the biblical city of Almon.",
-                  "category": "natural",
-                  "coords": [
-                        35.273272,
-                        31.825194
                   ]
             },
             {
@@ -23289,33 +17313,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The White Statue",
-                  "text": "Weiße Statue, errichtet 1984.",
-                  "category": "historical",
-                  "coords": [
-                        35.233401,
-                        31.800164
-                  ]
-            },
-            {
-                  "name": "Abba Cave",
-                  "text": "Antike Grabhöhle aus der Zeit des Zweiten Tempels.",
-                  "category": "natural",
-                  "coords": [
-                        35.230395,
-                        31.803808
-                  ]
-            },
-            {
-                  "name": "Mount Scopus",
-                  "text": "Der Scopusberg in Anata überblickt Jerusalem und beherbergt die Hebräische Universität.",
-                  "category": "natural",
-                  "coords": [
-                        35.246174,
-                        31.792256
-                  ]
-            },
-            {
                   "name": "Kh. Almit",
                   "text": "Archäologische Ruine mit Höhlen und Terrassen.",
                   "category": "natural",
@@ -23331,15 +17328,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.247441,
                         31.790043
-                  ]
-            },
-            {
-                  "name": "Sabreen organisation",
-                  "text": "Sabreen Organisation ist eine bekannte palästinensische Musikgruppe mit Sitz in Anata.",
-                  "category": "cultural",
-                  "coords": [
-                        35.234823,
-                        31.794836
                   ]
             },
             {
@@ -23379,15 +17367,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Mark Stone Nature Study Square",
-                  "text": "Der Mark Stone Nature Study Square in Anata ist ein öffentlicher Platz mit einem großen markierten Stein für das Lernen im Freien.",
-                  "category": "landmark",
-                  "coords": [
-                        35.243513,
-                        31.794958
-                  ]
-            },
-            {
                   "name": "Mitzpe HaMashuot",
                   "text": "Der Aussichtspunkt Masuot bietet einen Panoramablick auf das Anata-Tal und die umliegenden Hügel.",
                   "category": "natural",
@@ -23403,24 +17382,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.244901,
                         31.793153
-                  ]
-            },
-            {
-                  "name": "Hecht Synagogue",
-                  "text": "Die Hecht-Synagoge in Anata ist ein modernes jüdisches Gotteshaus nahe Jerusalem.",
-                  "category": "religious",
-                  "coords": [
-                        35.242221,
-                        31.791858
-                  ]
-            },
-            {
-                  "name": "abdeen",
-                  "text": "Abdeen in Anata ist ein religiöser Ort im Osten Jerusalems.",
-                  "category": "religious",
-                  "coords": [
-                        35.238646,
-                        31.791079
                   ]
             }
       ],
@@ -23543,33 +17504,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The White Statue",
-                  "text": "Fehér szobor, 1984-ben állították.",
-                  "category": "historical",
-                  "coords": [
-                        35.233401,
-                        31.800164
-                  ]
-            },
-            {
-                  "name": "Abba Cave",
-                  "text": "Ókori temetkezési barlang a Második Templom korából.",
-                  "category": "natural",
-                  "coords": [
-                        35.230395,
-                        31.803808
-                  ]
-            },
-            {
-                  "name": "Mount Scopus",
-                  "text": "A Scopus-hegy Anata városában Jeruzsálemre néz, és itt található a Héber Egyetem egyik campusa.",
-                  "category": "natural",
-                  "coords": [
-                        35.246174,
-                        31.792256
-                  ]
-            },
-            {
                   "name": "Kh. Almit",
                   "text": "Régészeti rom barlangokkal és teraszokkal.",
                   "category": "natural",
@@ -23585,15 +17519,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.247441,
                         31.790043
-                  ]
-            },
-            {
-                  "name": "Sabreen organisation",
-                  "text": "A Sabreen szervezet egy híres palesztin zenei csoport, amely Anatában található.",
-                  "category": "cultural",
-                  "coords": [
-                        35.234823,
-                        31.794836
                   ]
             },
             {
@@ -23633,15 +17558,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Mark Stone Nature Study Square",
-                  "text": "A Mark Stone Természeti Tanulmányok tere Anatában egy nagy, jelölt kővel rendelkező közterület a szabadtéri tanuláshoz.",
-                  "category": "landmark",
-                  "coords": [
-                        35.243513,
-                        31.794958
-                  ]
-            },
-            {
                   "name": "Mitzpe HaMashuot",
                   "text": "A Masuot kilátó panorámás kilátást nyújt az Anata-völgyre és a környező dombokra.",
                   "category": "natural",
@@ -23657,24 +17573,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.244901,
                         31.793153
-                  ]
-            },
-            {
-                  "name": "Hecht Synagogue",
-                  "text": "A Hecht zsinagóga Anata városában egy modern zsidó imahely Jeruzsálem közelében.",
-                  "category": "religious",
-                  "coords": [
-                        35.242221,
-                        31.791858
-                  ]
-            },
-            {
-                  "name": "abdeen",
-                  "text": "Az Abdeen Anata városában egy vallási hely Jeruzsálemtől keletre.",
-                  "category": "religious",
-                  "coords": [
-                        35.238646,
-                        31.791079
                   ]
             }
       ],
@@ -23797,33 +17695,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The White Statue",
-                  "text": "Statuie albă, ridicată în 1984.",
-                  "category": "historical",
-                  "coords": [
-                        35.233401,
-                        31.800164
-                  ]
-            },
-            {
-                  "name": "Abba Cave",
-                  "text": "Peșteră funerară antică din perioada celui de-al Doilea Templu.",
-                  "category": "natural",
-                  "coords": [
-                        35.230395,
-                        31.803808
-                  ]
-            },
-            {
-                  "name": "Mount Scopus",
-                  "text": "Muntele Scopus din Anata domină Ierusalimul și găzduiește campusul Universității Ebraice.",
-                  "category": "natural",
-                  "coords": [
-                        35.246174,
-                        31.792256
-                  ]
-            },
-            {
                   "name": "Kh. Almit",
                   "text": "Ruină arheologică cu peșteri și terase.",
                   "category": "natural",
@@ -23839,15 +17710,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.247441,
                         31.790043
-                  ]
-            },
-            {
-                  "name": "Sabreen organisation",
-                  "text": "Organizația Sabreen este un renumit grup muzical palestinian cu sediul în Anata.",
-                  "category": "cultural",
-                  "coords": [
-                        35.234823,
-                        31.794836
                   ]
             },
             {
@@ -23887,15 +17749,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Mark Stone Nature Study Square",
-                  "text": "Piața de Studiu Natural Mark Stone din Anata este o piață publică cu o piatră mare marcată pentru învățare în aer liber.",
-                  "category": "landmark",
-                  "coords": [
-                        35.243513,
-                        31.794958
-                  ]
-            },
-            {
                   "name": "Mitzpe HaMashuot",
                   "text": "Punctul de belvedere Masuot oferă vederi panoramice asupra văii Anata și dealurilor din apropiere.",
                   "category": "natural",
@@ -23911,24 +17764,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.244901,
                         31.793153
-                  ]
-            },
-            {
-                  "name": "Hecht Synagogue",
-                  "text": "Sinagoga Hecht din Anata este un lăcaș de cult evreiesc modern, lângă Ierusalim.",
-                  "category": "religious",
-                  "coords": [
-                        35.242221,
-                        31.791858
-                  ]
-            },
-            {
-                  "name": "abdeen",
-                  "text": "Abdeen în Anata este un sit religios la est de Ierusalim.",
-                  "category": "religious",
-                  "coords": [
-                        35.238646,
-                        31.791079
                   ]
             }
       ],
@@ -24051,33 +17886,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The White Statue",
-                  "text": "White statue erected in 1984.",
-                  "category": "historical",
-                  "coords": [
-                        35.233401,
-                        31.800164
-                  ]
-            },
-            {
-                  "name": "The Abba Cave",
-                  "text": "Ancient burial cave from the Second Temple period.",
-                  "category": "natural",
-                  "coords": [
-                        35.230395,
-                        31.803808
-                  ]
-            },
-            {
-                  "name": "Mount Scopus",
-                  "text": "Mount Scopus in Anata, overlooking Jerusalem and home to the Hebrew University campus.",
-                  "category": "natural",
-                  "coords": [
-                        35.246174,
-                        31.792256
-                  ]
-            },
-            {
                   "name": "Kh. Almit",
                   "text": "Archaeological ruin with caves and terraces.",
                   "category": "natural",
@@ -24093,15 +17901,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.247441,
                         31.790043
-                  ]
-            },
-            {
-                  "name": "Sabreen organisation",
-                  "text": "Sabreen organisation is a renowned Palestinian music group based in Anata.",
-                  "category": "cultural",
-                  "coords": [
-                        35.234823,
-                        31.794836
                   ]
             },
             {
@@ -24123,30 +17922,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Archaeological experience",
-                  "text": "The Archaeological experience in Anata offers hands-on excavation activities at a historic tell.",
-                  "category": "landmark",
-                  "coords": [
-                        35.243139,
-                        31.787872
-                  ]
-            },
-            {
                   "name": "Lizard Statue",
                   "text": "The Lizard Statue in Anata is a stone sculpture of a lizard, possibly from ancient times.",
                   "category": "historical",
                   "coords": [
                         35.243724,
                         31.822967
-                  ]
-            },
-            {
-                  "name": "The Mark Stone Nature Study Square",
-                  "text": "The Mark Stone Nature Study Square in Anata is a public square with a large marked stone for outdoor learning.",
-                  "category": "landmark",
-                  "coords": [
-                        35.243513,
-                        31.794958
                   ]
             },
             {
@@ -24165,24 +17946,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.244901,
                         31.793153
-                  ]
-            },
-            {
-                  "name": "Hecht Synagogue",
-                  "text": "Hecht Synagogue in Anata, a modern Jewish place of worship near Jerusalem.",
-                  "category": "religious",
-                  "coords": [
-                        35.242221,
-                        31.791858
-                  ]
-            },
-            {
-                  "name": "abdeen",
-                  "text": "Abdeen in Anata, a religious site east of Jerusalem.",
-                  "category": "religious",
-                  "coords": [
-                        35.238646,
-                        31.791079
                   ]
             }
       ]
@@ -24243,84 +18006,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ein al-Hammam",
-                  "text": "Ein al-Hammam ist eine natürliche Quelle in Birzeit mit einem Badebereich, beliebt für Familienausflüge.",
-                  "category": "family",
-                  "coords": [
-                        35.200879,
-                        31.972464
-                  ]
-            },
-            {
-                  "name": "People's Museum",
-                  "text": "Das Volksmuseum in Birzeit zeigt die Sozialgeschichte und das Alltagsleben der Region.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Die Al Rozana-Vereinigung für Kultur und Erbe ist ein Kulturzentrum in einem restaurierten osmanischen Gebäude in Birzeit.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
-                  "name": "Palestine Circus",
-                  "text": "Der Palästina-Zirkus in Birzeit ist ein Ausbildungszentrum für Zirkuskünste und Aufführungen.",
-                  "category": "landmark",
-                  "coords": [
-                        35.19846,
-                        31.970551
-                  ]
-            },
-            {
-                  "name": "Birzeit Mall",
-                  "text": "Die Birzeit Mall ist ein Einkaufszentrum mit Einzelhandelsgeschäften und einem Food Court im Herzen von Birzeit.",
-                  "category": "landmark",
-                  "coords": [
-                        35.194423,
-                        31.968003
-                  ]
-            },
-            {
-                  "name": "Ancient Byzantine Fortress",
-                  "text": "Die antike byzantinische Festung in Birzeit besteht aus verfallenen Mauern und einer Zisterne aus byzantinischer Zeit.",
-                  "category": "landmark",
-                  "coords": [
-                        35.191307,
-                        31.965994
-                  ]
-            },
-            {
-                  "name": "Reef neighborhood",
-                  "text": "Das Reef-Viertel in Birzeit ist ein Wohngebiet am Hang mit traditionellen Steinhäusern.",
-                  "category": "landmark",
-                  "coords": [
-                        35.174783,
-                        31.945041
-                  ]
-            },
-            {
                   "name": "Abu Anas",
                   "text": "Abu Anas ist ein markantes Haus in Birzeit, bekannt für seine charakteristische Architektur.",
                   "category": "landmark",
                   "coords": [
                         35.171154,
                         31.95506
-                  ]
-            },
-            {
-                  "name": "Fakhri Shreitah House",
-                  "text": "Das Haus Fakhri Shreitah ist ein historisches Familienhaus in Birzeit mit traditioneller palästinensischer Architektur.",
-                  "category": "historical",
-                  "coords": [
-                        35.173666,
-                        31.952522
                   ]
             },
             {
@@ -24344,84 +18035,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ein al-Hammam",
-                  "text": "Ein al-Hammam egy természetes forrás Birzeitben, fürdőzőhellyel, népszerű családi kirándulásokhoz.",
-                  "category": "family",
-                  "coords": [
-                        35.200879,
-                        31.972464
-                  ]
-            },
-            {
-                  "name": "People's Museum",
-                  "text": "A Nép Múzeuma Birzeitben a régió társadalomtörténetét és mindennapi életét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Az Al Rozana Kulturális és Örökségvédelmi Egyesület egy felújított oszmán épületben működő kulturális központ Birzeitben.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
-                  "name": "Palestine Circus",
-                  "text": "A Palesztin Cirkusz Birzeitben egy cirkuszi művészetek oktatási központja és előadóhely.",
-                  "category": "landmark",
-                  "coords": [
-                        35.19846,
-                        31.970551
-                  ]
-            },
-            {
-                  "name": "Birzeit Mall",
-                  "text": "A Birzeit Mall egy bevásárlóközpont üzletekkel és ételudvarral Birzeit szívében.",
-                  "category": "landmark",
-                  "coords": [
-                        35.194423,
-                        31.968003
-                  ]
-            },
-            {
-                  "name": "Ancient Byzantine Fortress",
-                  "text": "Az ókori bizánci erőd Birzeitben bizánci kori romos falakból és egy ciszternából áll.",
-                  "category": "landmark",
-                  "coords": [
-                        35.191307,
-                        31.965994
-                  ]
-            },
-            {
-                  "name": "Reef neighborhood",
-                  "text": "A Reef negyed Birzeitben egy domboldali lakónegyed, hagyományos kőházakkal.",
-                  "category": "landmark",
-                  "coords": [
-                        35.174783,
-                        31.945041
-                  ]
-            },
-            {
                   "name": "Abu Anas",
                   "text": "Abu Anas egy kiemelkedő ház Birzeitben, jellegzetes építészetéről ismert.",
                   "category": "landmark",
                   "coords": [
                         35.171154,
                         31.95506
-                  ]
-            },
-            {
-                  "name": "Fakhri Shreitah House",
-                  "text": "A Fakhri Shreitah-ház egy történelmi családi otthon Birzeitben, hagyományos palesztin építészettel.",
-                  "category": "historical",
-                  "coords": [
-                        35.173666,
-                        31.952522
                   ]
             },
             {
@@ -24445,84 +18064,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ein al-Hammam",
-                  "text": "Ein al-Hammam este un izvor natural din Birzeit cu o zonă de înot, popular pentru ieșiri în familie.",
-                  "category": "family",
-                  "coords": [
-                        35.200879,
-                        31.972464
-                  ]
-            },
-            {
-                  "name": "People's Museum",
-                  "text": "Muzeul Poporului din Birzeit expune istoria socială și viața cotidiană a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Asociația Al Rozana pentru Cultură și Patrimoniu este un centru cultural într-o clădire otomană restaurată din Birzeit.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
-                  "name": "Palestine Circus",
-                  "text": "Circul Palestinian din Birzeit este un centru de formare pentru artele circului și spectacole.",
-                  "category": "landmark",
-                  "coords": [
-                        35.19846,
-                        31.970551
-                  ]
-            },
-            {
-                  "name": "Birzeit Mall",
-                  "text": "Mall-ul Birzeit este un centru comercial cu magazine și o zonă de alimentație în inima orașului Birzeit.",
-                  "category": "landmark",
-                  "coords": [
-                        35.194423,
-                        31.968003
-                  ]
-            },
-            {
-                  "name": "Ancient Byzantine Fortress",
-                  "text": "Fortăreața Bizantină Antică din Birzeit constă din ziduri ruinate și o cisternă din perioada bizantină.",
-                  "category": "landmark",
-                  "coords": [
-                        35.191307,
-                        31.965994
-                  ]
-            },
-            {
-                  "name": "Reef neighborhood",
-                  "text": "Cartierul Reef din Birzeit este o zonă rezidențială pe un deal cu case tradiționale din piatră.",
-                  "category": "landmark",
-                  "coords": [
-                        35.174783,
-                        31.945041
-                  ]
-            },
-            {
                   "name": "Abu Anas",
                   "text": "Abu Anas este o casă proeminentă din Birzeit, cunoscută pentru arhitectura sa distinctivă.",
                   "category": "landmark",
                   "coords": [
                         35.171154,
                         31.95506
-                  ]
-            },
-            {
-                  "name": "Fakhri Shreitah House",
-                  "text": "Casa Fakhri Shreitah este o casă istorică de familie din Birzeit cu arhitectură tradițională palestiniană.",
-                  "category": "historical",
-                  "coords": [
-                        35.173666,
-                        31.952522
                   ]
             },
             {
@@ -24546,84 +18093,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ein al-Hammam",
-                  "text": "Ein al-Hammam is a natural spring in Birzeit with a swimming area, popular for family outings.",
-                  "category": "family",
-                  "coords": [
-                        35.200879,
-                        31.972464
-                  ]
-            },
-            {
-                  "name": "People's Museum",
-                  "text": "The People's Museum in Birzeit exhibits the social history and daily life of the region.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Al Rozana Association for Culture and Heritage is a cultural centre in a restored Ottoman building in Birzeit.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
-                  "name": "Palestine Circus",
-                  "text": "Palestine Circus in Birzeit is a training centre for circus arts and performances.",
-                  "category": "landmark",
-                  "coords": [
-                        35.19846,
-                        31.970551
-                  ]
-            },
-            {
-                  "name": "Birzeit Mall",
-                  "text": "Birzeit Mall is a shopping centre with retail stores and a food court in the heart of Birzeit.",
-                  "category": "landmark",
-                  "coords": [
-                        35.194423,
-                        31.968003
-                  ]
-            },
-            {
-                  "name": "Ancient Byzantine Fortress",
-                  "text": "The Ancient Byzantine Fortress in Birzeit consists of ruined walls and a cistern from the Byzantine period.",
-                  "category": "landmark",
-                  "coords": [
-                        35.191307,
-                        31.965994
-                  ]
-            },
-            {
-                  "name": "Reef neighborhood",
-                  "text": "Reef neighborhood in Birzeit is a residential area on a hillside with traditional stone houses.",
-                  "category": "landmark",
-                  "coords": [
-                        35.174783,
-                        31.945041
-                  ]
-            },
-            {
                   "name": "Abu Anas",
                   "text": "Abu Anas is a prominent house in Birzeit known for its distinctive architecture.",
                   "category": "landmark",
                   "coords": [
                         35.171154,
                         31.95506
-                  ]
-            },
-            {
-                  "name": "Fakhri Shreitah House",
-                  "text": "Fakhri Shreitah House is a historic family home in Birzeit with traditional Palestinian architecture.",
-                  "category": "historical",
-                  "coords": [
-                        35.173666,
-                        31.952522
                   ]
             },
             {
@@ -25338,15 +18813,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burj Barduil",
-                  "text": "Burj Barduil in Silwad is a historic stone tower, likely from the Ottoman period.",
-                  "category": "historical",
-                  "coords": [
-                        35.244122,
-                        31.985323
-                  ]
-            },
-            {
                   "name": "nadi ammar",
                   "text": "Nadi Ammar is a social club in Silwad offering recreational activities.",
                   "category": "landmark",
@@ -25404,15 +18870,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-mazraa-ash-sharqiya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Tall Asur",
-                  "text": "Einer der höchsten Berggipfel im Westjordanland bei Al-Mazra'a ash-Sharqiya.",
-                  "category": "natural",
-                  "coords": [
-                        35.285521,
-                        31.978781
-                  ]
-            },
-            {
                   "name": "Selwad Mosque",
                   "text": "Eine Moschee in Selwad, Al-Mazra'a ash-Sharqiya.",
                   "category": "landmark",
@@ -25450,15 +18907,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tall Asur",
-                  "text": "Ciszjordánia egyik legmagasabb hegycsúcsa Al-Mazra'a ash-Sharqiya közelében.",
-                  "category": "natural",
-                  "coords": [
-                        35.285521,
-                        31.978781
-                  ]
-            },
             {
                   "name": "Selwad Mosque",
                   "text": "Mecset Selwadban, Al-Mazra'a ash-Sharqiya területén.",
@@ -25498,15 +18946,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tall Asur",
-                  "text": "Unul dintre cele mai înalte vârfuri montane din Cisiordania, lângă Al-Mazra'a ash-Sharqiya.",
-                  "category": "natural",
-                  "coords": [
-                        35.285521,
-                        31.978781
-                  ]
-            },
-            {
                   "name": "Selwad Mosque",
                   "text": "O moschee în Selwad, Al-Mazra'a ash-Sharqiya.",
                   "category": "landmark",
@@ -25544,15 +18983,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tall Asur",
-                  "text": "One of the highest mountain peaks in the West Bank, near Al-Mazra'a ash-Sharqiya.",
-                  "category": "natural",
-                  "coords": [
-                        35.285521,
-                        31.978781
-                  ]
-            },
             {
                   "name": "Selwad Mosque",
                   "text": "A mosque in Selwad, Al-Mazra'a ash-Sharqiya.",
@@ -25998,15 +19428,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Maghar",
-                  "text": "Der natürliche Aussichtspunkt المغر bietet weite Blicke über die Umgebung von Sindschil. Naturliebhaber können von hier aus die palästinensische Landschaft bewundern. Es ist ein perfekter Ort, um die Ruhe der Natur auf sich wirken zu lassen.",
-                  "category": "natural",
-                  "coords": [
-                        35.260638,
-                        32.005008
-                  ]
-            },
-            {
                   "name": "Ras al-Aqaba",
                   "text": "Hoch über Sindschil erstreckt sich der Aussichtspunkt راس العقبة in der palästinensischen Natur. Gäste erwartet an diesem Ort ein beeindruckendes Panorama der Region. Die natürliche Kulisse lädt zum Verweilen und Fotografieren ein.",
                   "category": "natural",
@@ -26051,15 +19472,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.260938,
                         32.027937
-                  ]
-            },
-            {
-                  "name": "Al-Maghar",
-                  "text": "Az المغر természetes kilátója széles kilátást nyújt Sindzsil környékére. A természet szerelmesei innen csodálhatják meg a palesztin tájat. Tökéletes hely arra, hogy élvezzük a természet nyugalmát.",
-                  "category": "natural",
-                  "coords": [
-                        35.260638,
-                        32.005008
                   ]
             },
             {
@@ -26110,15 +19522,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Maghar",
-                  "text": "Punctul de belvedere natural المغر oferă vederi ample asupra împrejurimilor din Sindschil. Iubitorii de natură pot admira de aici peisajul palestinian. Este un loc perfect pentru a lăsa liniștea naturii să acționeze.",
-                  "category": "natural",
-                  "coords": [
-                        35.260638,
-                        32.005008
-                  ]
-            },
-            {
                   "name": "Ras al-Aqaba",
                   "text": "Sus deasupra orașului Sindschil se întinde punctul de belvedere راس العقبة, aflat în natura palestiniană. Oaspeții sunt așteptați în acest loc cu o panoramă impresionantă a regiunii. Decorul natural te invită să zăbovești și să faci fotografii.",
                   "category": "natural",
@@ -26148,57 +19551,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "sinjil hall",
-                  "text": "Sinjil Hall is a castle-like building in Sinjil, possibly from the Crusader period.",
-                  "category": "castle",
-                  "coords": [
-                        35.262836,
-                        32.036253
-                  ]
-            },
-            {
-                  "name": "sha’b farhan",
-                  "text": "Sha'b Farhan in Sinjil is a ruined fortress with thick stone walls.",
-                  "category": "castle",
-                  "coords": [
-                        35.260938,
-                        32.027937
-                  ]
-            },
-            {
-                  "name": "Al-Maghar",
-                  "text": "The natural viewpoint المغر offers sweeping views of the surroundings of Sinjil. Nature lovers can admire the Palestinian landscape from here. It is a perfect spot to let the tranquility of nature wash over you.",
-                  "category": "natural",
-                  "coords": [
-                        35.260638,
-                        32.005008
-                  ]
-            },
-            {
-                  "name": "Aqaba peak",
-                  "text": "High above Sinjil stretches the راس العقبة viewpoint, set in the Palestinian nature. Guests can expect an impressive panorama of the region at this spot. The natural backdrop invites visitors to linger and take photographs.",
-                  "category": "natural",
-                  "coords": [
-                        35.253908,
-                        32.055629
-                  ]
-            },
-            {
                   "name": "Jabal al-Qurqa'a",
                   "text": "Those exploring the Sinjil area should not miss the natural viewpoint of جبل القرقعة. This mountain provides a sweeping view across the Palestinian valleys. Visitors will find a peaceful retreat in nature here.",
                   "category": "natural",
                   "coords": [
                         35.278277,
                         32.019818
-                  ]
-            },
-            {
-                  "name": "Abu el 'Oof site",
-                  "text": "The natural area of منطقة ابو العوف serves as a wonderful viewpoint near Sinjil. From this spot, Palestine presents itself from its most beautiful scenic side. It is ideal for a relaxing walk with magnificent views.",
-                  "category": "natural",
-                  "coords": [
-                        35.266524,
-                        32.050516
                   ]
             }
       ]
@@ -26250,15 +19608,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-jalazone-cities-v2", "sights": {
       "de": [
             {
-                  "name": "People's Museum",
-                  "text": "Das Volksmuseum in Jalazone dokumentiert die Geschichte und Kultur des Flüchtlingslagers.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
                   "name": "Efraim Farm",
                   "text": "Die Efraim-Farm in Jalazone ist ein familiengeführter Bauernhof mit Olivenhainen und Vieh.",
                   "category": "family",
@@ -26295,30 +19644,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Die Al Rozana-Vereinigung für Kultur und Erbe in Jalazone führt Kulturprogramme in einem historischen Gebäude durch.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
                   "name": "Pais Hall",
                   "text": "Die Pais Hall in Jalazone ist ein Gemeindesaal für kulturelle Aufführungen und Versammlungen.",
                   "category": "cultural",
                   "coords": [
                         35.222857,
                         31.941312
-                  ]
-            },
-            {
-                  "name": "Sulam Yaakov",
-                  "text": "Sulam Yaakov ist eine historische Stätte in Jalazone, die mit der biblischen Jakobsleiter verbunden ist.",
-                  "category": "historical",
-                  "coords": [
-                        35.223077,
-                        31.935005
                   ]
             },
             {
@@ -26341,15 +19672,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "People's Museum",
-                  "text": "A Nép Múzeuma Jalazonében a menekülttábor történelmét és kultúráját dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
             {
                   "name": "Efraim Farm",
                   "text": "Az Efraim Farm Jalazonében egy családi gazdaság olajligetekkel és állatállománnyal.",
@@ -26387,30 +19709,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Az Al Rozana Kulturális és Örökségvédelmi Egyesület Jalazonében kulturális programokat szervez egy történelmi épületben.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
                   "name": "Pais Hall",
                   "text": "A Pais Hall Jalazonében egy közösségi terem kulturális előadások és összejövetelek számára.",
                   "category": "cultural",
                   "coords": [
                         35.222857,
                         31.941312
-                  ]
-            },
-            {
-                  "name": "Sulam Yaakov",
-                  "text": "Sulam Yaakov egy történelmi helyszín Jalazonében, amely a bibliai Jákob létrájához kapcsolódik.",
-                  "category": "historical",
-                  "coords": [
-                        35.223077,
-                        31.935005
                   ]
             },
             {
@@ -26433,15 +19737,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "People's Museum",
-                  "text": "Muzeul Poporului din Jalazone documentează istoria și cultura taberei de refugiați.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
             {
                   "name": "Efraim Farm",
                   "text": "Ferma Efraim din Jalazone este o fermă de familie cu livezi de măslini și animale.",
@@ -26479,30 +19774,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Asociația Al Rozana pentru Cultură și Patrimoniu din Jalazone organizează programe culturale într-o clădire istorică.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
                   "name": "Pais Hall",
                   "text": "Sala Pais din Jalazone este o sală comunitară folosită pentru spectacole culturale și întruniri.",
                   "category": "cultural",
                   "coords": [
                         35.222857,
                         31.941312
-                  ]
-            },
-            {
-                  "name": "Sulam Yaakov",
-                  "text": "Sulam Yaakov este un sit istoric din Jalazone, asociat cu scara lui Iacov din Biblie.",
-                  "category": "historical",
-                  "coords": [
-                        35.223077,
-                        31.935005
                   ]
             },
             {
@@ -26525,15 +19802,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "People's Museum",
-                  "text": "The People's Museum in Jalazone documents the history and culture of the refugee camp.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
             {
                   "name": "Efraim Farm",
                   "text": "Efraim Farm in Jalazone is a family-run farm with olive groves and livestock.",
@@ -26571,30 +19839,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Al Rozana Association for Culture and Heritage in Jalazone runs cultural programs in a historic building.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
                   "name": "Pais Hall",
                   "text": "Pais Hall in Jalazone is a community hall used for cultural performances and gatherings.",
                   "category": "cultural",
                   "coords": [
                         35.222857,
                         31.941312
-                  ]
-            },
-            {
-                  "name": "Sulam Yaakov",
-                  "text": "Sulam Yaakov is a historical site in Jalazone, associated with the biblical Jacob's ladder.",
-                  "category": "historical",
-                  "coords": [
-                        35.223077,
-                        31.935005
                   ]
             },
             {
@@ -26682,15 +19932,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "HaShnayim Lookout",
-                  "text": "Der Aussichtspunkt HaShnayim bietet einen Blick auf zwei markante Hügel bei Azzun.",
-                  "category": "natural",
-                  "coords": [
-                        35.013571,
-                        32.173586
-                  ]
-            },
-            {
                   "name": "Kaus al-Nasr",
                   "text": "Kaus al-Nasr ist ein historischer Bogen in Azzun, möglicherweise aus der Mamlukenzeit.",
                   "category": "historical",
@@ -26717,15 +19958,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.036615,
                         32.200264
-                  ]
-            },
-            {
-                  "name": "HaShnayim Lookout",
-                  "text": "A HaShnayim kilátó két kiemelkedő dombra nyújt rálátást Azzun közelében.",
-                  "category": "natural",
-                  "coords": [
-                        35.013571,
-                        32.173586
                   ]
             },
             {
@@ -26758,15 +19990,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "HaShnayim Lookout",
-                  "text": "Punctul de belvedere HaShnayim oferă o vedere asupra a doi dealuri proeminente lângă Azzun.",
-                  "category": "natural",
-                  "coords": [
-                        35.013571,
-                        32.173586
-                  ]
-            },
-            {
                   "name": "Kaus al-Nasr",
                   "text": "Kaus al-Nasr este un arc istoric din Azzun, posibil din perioada mamelucă.",
                   "category": "historical",
@@ -26793,15 +20016,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.036615,
                         32.200264
-                  ]
-            },
-            {
-                  "name": "HaShnayim Lookout",
-                  "text": "HaShnayim Lookout provides a view of two prominent hills near Azzun.",
-                  "category": "natural",
-                  "coords": [
-                        35.013571,
-                        32.173586
                   ]
             },
             {
@@ -26862,48 +20076,12 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-hableh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Saraya Al-Sultan Qalqilya Hall",
-                  "text": "Die Saraya Al-Sultan Qalqilya Hall in Hableh ist ein schlossartiges Gebäude mit gewölbten Decken.",
-                  "category": "castle",
-                  "coords": [
-                        34.961689,
-                        32.178813
-                  ]
-            },
-            {
-                  "name": "widding al qaseer",
-                  "text": "Widding al Qaseer in Hableh ist ein Kulturort, der oft für Hochzeiten und Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        34.979868,
-                        32.191228
-                  ]
-            },
-            {
                   "name": "Community Center",
                   "text": "Das Gemeindezentrum in Hableh bietet soziale Dienste und Kulturprogramme für die Bewohner.",
                   "category": "cultural",
                   "coords": [
                         34.991256,
                         32.157701
-                  ]
-            },
-            {
-                  "name": "Al-Shaima Roundabout",
-                  "text": "Der Shaimaa-Kreisverkehr in Hableh ist ein Verkehrskreisverkehr mit einem zentralen Denkmal oder einer Skulptur.",
-                  "category": "historical",
-                  "coords": [
-                        34.967311,
-                        32.187621
-                  ]
-            },
-            {
-                  "name": "Spot Land",
-                  "text": "Ein natürlicher Hügel mit Panoramablick auf Hableh.",
-                  "category": "natural",
-                  "coords": [
-                        34.983191,
-                        32.190744
                   ]
             },
             {
@@ -26918,48 +20096,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Saraya Al-Sultan Qalqilya Hall",
-                  "text": "A Saraya Al-Sultan Qalqilya Hall Hablehben egy kastélyszerű épület boltozatos mennyezettel.",
-                  "category": "castle",
-                  "coords": [
-                        34.961689,
-                        32.178813
-                  ]
-            },
-            {
-                  "name": "widding al qaseer",
-                  "text": "A Widding al Qaseer Hablehben egy kulturális helyszín, amelyet gyakran használnak esküvőkre és rendezvényekre.",
-                  "category": "cultural",
-                  "coords": [
-                        34.979868,
-                        32.191228
-                  ]
-            },
-            {
                   "name": "Community Center",
                   "text": "A Hablehi Közösségi Központ szociális szolgáltatásokat és kulturális programokat kínál a lakosoknak.",
                   "category": "cultural",
                   "coords": [
                         34.991256,
                         32.157701
-                  ]
-            },
-            {
-                  "name": "Al-Shaima Roundabout",
-                  "text": "A Shaimaa körforgalom Hablehben egy közlekedési körforgalom, központi emlékművel vagy szoborral.",
-                  "category": "historical",
-                  "coords": [
-                        34.967311,
-                        32.187621
-                  ]
-            },
-            {
-                  "name": "Spot Land",
-                  "text": "Egy természetes domb, panorámás kilátással Hableh-re.",
-                  "category": "natural",
-                  "coords": [
-                        34.983191,
-                        32.190744
                   ]
             },
             {
@@ -26974,48 +20116,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Saraya Al-Sultan Qalqilya Hall",
-                  "text": "Sala Saraya Al-Sultan Qalqilya din Hableh este o clădire asemănătoare unui castel cu tavane boltite.",
-                  "category": "castle",
-                  "coords": [
-                        34.961689,
-                        32.178813
-                  ]
-            },
-            {
-                  "name": "widding al qaseer",
-                  "text": "Widding al Qaseer din Hableh este un loc cultural adesea folosit pentru nunți și evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        34.979868,
-                        32.191228
-                  ]
-            },
-            {
                   "name": "Community Center",
                   "text": "Centrul Comunitar din Hableh oferă servicii sociale și programe culturale pentru locuitori.",
                   "category": "cultural",
                   "coords": [
                         34.991256,
                         32.157701
-                  ]
-            },
-            {
-                  "name": "Al-Shaima Roundabout",
-                  "text": "Sensul giratoriu Shaimaa din Hableh este un sens giratoriu cu un monument sau sculptură centrală.",
-                  "category": "historical",
-                  "coords": [
-                        34.967311,
-                        32.187621
-                  ]
-            },
-            {
-                  "name": "Spot Land",
-                  "text": "Un deal natural cu vedere panoramică asupra localității Hableh.",
-                  "category": "natural",
-                  "coords": [
-                        34.983191,
-                        32.190744
                   ]
             },
             {
@@ -27030,48 +20136,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Saraya Al-Sultan Qalqilya Hall",
-                  "text": "Saraya Al-Sultan Qalqilya Hall in Hableh is a castle-like building with vaulted ceilings.",
-                  "category": "castle",
-                  "coords": [
-                        34.961689,
-                        32.178813
-                  ]
-            },
-            {
-                  "name": "widding al qaseer",
-                  "text": "Widding al Qaseer in Hableh is a cultural venue often used for weddings and events.",
-                  "category": "cultural",
-                  "coords": [
-                        34.979868,
-                        32.191228
-                  ]
-            },
-            {
                   "name": "Community Center",
                   "text": "Community Center in Hableh offers social services and cultural programs for residents.",
                   "category": "cultural",
                   "coords": [
                         34.991256,
                         32.157701
-                  ]
-            },
-            {
-                  "name": "Shaimaa Roundabout",
-                  "text": "Shaimaa Roundabout in Hableh is a traffic circle featuring a central monument or sculpture.",
-                  "category": "historical",
-                  "coords": [
-                        34.967311,
-                        32.187621
-                  ]
-            },
-            {
-                  "name": "spot land",
-                  "text": "A natural hill offering panoramic views of Hableh.",
-                  "category": "natural",
-                  "coords": [
-                        34.983191,
-                        32.190744
                   ]
             },
             {
@@ -27157,15 +20227,6 @@ export const palestineCitiesV2: POI[] = [
                         35.038759,
                         32.240837
                   ]
-            },
-            {
-                  "name": "Social Center",
-                  "text": "Ein soziales Gemeindezentrum für Zusammenkünfte in Jayyous.",
-                  "category": "cultural",
-                  "coords": [
-                        35.036615,
-                        32.200264
-                  ]
             }
       ],
       "hu": [
@@ -27194,15 +20255,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.038759,
                         32.240837
-                  ]
-            },
-            {
-                  "name": "Social Center",
-                  "text": "Egy közösségi központ rendezvények számára Jayyous-ban.",
-                  "category": "cultural",
-                  "coords": [
-                        35.036615,
-                        32.200264
                   ]
             }
       ],
@@ -27233,15 +20285,6 @@ export const palestineCitiesV2: POI[] = [
                         35.038759,
                         32.240837
                   ]
-            },
-            {
-                  "name": "Social Center",
-                  "text": "Un centru comunitar pentru întruniri în Jayyous.",
-                  "category": "cultural",
-                  "coords": [
-                        35.036615,
-                        32.200264
-                  ]
             }
       ],
       "en": [
@@ -27270,15 +20313,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.038759,
                         32.240837
-                  ]
-            },
-            {
-                  "name": "Social Center",
-                  "text": "A community social center hosting gatherings in Jayyous.",
-                  "category": "cultural",
-                  "coords": [
-                        35.036615,
-                        32.200264
                   ]
             }
       ]
@@ -27329,33 +20363,6 @@ export const palestineCitiesV2: POI[] = [
   {
     id: "palestine-kafr-thulth-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Khirbet Barthone",
-                  "text": "Khirbet Barthone ist eine archäologische Stätte in Kafr Thulth mit antiken Ruinen und historischen Überresten.",
-                  "category": "historical",
-                  "coords": [
-                        35.032662,
-                        32.181959
-                  ]
-            },
-            {
-                  "name": "Kaus al-Nasr",
-                  "text": "Kaus al-Nasr ist ein Denkmal in Kafr Thulth, das zum Gedenken an ein bedeutendes Ereignis oder einen Sieg errichtet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        35.03427,
-                        32.182342
-                  ]
-            },
-            {
-                  "name": "Social Center",
-                  "text": "Das Sozialzentrum in Kafr Thulth dient als Treffpunkt für Gemeindetreffen, Kunst und lokale kulturelle Aktivitäten.",
-                  "category": "cultural",
-                  "coords": [
-                        35.036615,
-                        32.200264
-                  ]
-            },
             {
                   "name": "The tomb of the founder of the village",
                   "text": "Dieses Denkmal in Kafr Thulth markiert die Grabstätte des Dorfgründers und ehrt die Geschichte des Ortes.",
@@ -27503,33 +20510,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Khirbet Barthone",
-                  "text": "Khirbet Barthone egy régészeti lelőhely Kafr Thulthban, ahol ősi romok és történelmi maradványok találhatók.",
-                  "category": "historical",
-                  "coords": [
-                        35.032662,
-                        32.181959
-                  ]
-            },
-            {
-                  "name": "Kaus al-Nasr",
-                  "text": "A Kaus al-Nasr egy emlékmű Kafr Thulthban, amelyet egy jelentős esemény vagy győzelem emlékére emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        35.03427,
-                        32.182342
-                  ]
-            },
-            {
-                  "name": "Social Center",
-                  "text": "A Kafr Thulth-i Szociális Központ a közösségi összejövetelek, a művészetek és a helyi kulturális tevékenységek központjaként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        35.036615,
-                        32.200264
-                  ]
-            },
-            {
                   "name": "The tomb of the founder of the village",
                   "text": "Ez a Kafr Thulth-i emlékmű a falu alapítójának sírhelyét jelzi, tisztelegve a település történelme előtt.",
                   "category": "historical",
@@ -27676,33 +20656,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Khirbet Barthone",
-                  "text": "Khirbet Barthone este un sit arheologic din Kafr Thulth care cuprinde ruine antice și vestigii istorice.",
-                  "category": "historical",
-                  "coords": [
-                        35.032662,
-                        32.181959
-                  ]
-            },
-            {
-                  "name": "Kaus al-Nasr",
-                  "text": "Kaus al-Nasr este un monument din Kafr Thulth ridicat pentru a comemora un eveniment sau o victorie semnificativă.",
-                  "category": "historical",
-                  "coords": [
-                        35.03427,
-                        32.182342
-                  ]
-            },
-            {
-                  "name": "Social Center",
-                  "text": "Centrul Social din Kafr Thulth servește ca un hub pentru adunările comunității, artă și activități culturale locale.",
-                  "category": "cultural",
-                  "coords": [
-                        35.036615,
-                        32.200264
-                  ]
-            },
-            {
                   "name": "The tomb of the founder of the village",
                   "text": "Acest monument din Kafr Thulth marchează locul de înmormântare al fondatorului satului, onorând istoria localității.",
                   "category": "historical",
@@ -27848,33 +20801,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Khirbet Barthone",
-                  "text": "Khirbet Barthone is an archaeological site in Kafr Thulth featuring ancient ruins and historical remains.",
-                  "category": "historical",
-                  "coords": [
-                        35.032662,
-                        32.181959
-                  ]
-            },
-            {
-                  "name": "Kaus al-Nasr",
-                  "text": "Kaus al-Nasr is a monument in Kafr Thulth erected to commemorate a significant event or victory.",
-                  "category": "historical",
-                  "coords": [
-                        35.03427,
-                        32.182342
-                  ]
-            },
-            {
-                  "name": "Social Center",
-                  "text": "The Social Center in Kafr Thulth serves as a hub for community gatherings, arts, and local cultural activities.",
-                  "category": "cultural",
-                  "coords": [
-                        35.036615,
-                        32.200264
-                  ]
-            },
             {
                   "name": "The tomb of the founder of the village",
                   "text": "This monument in Kafr Thulth marks the burial site of the village's founder, honoring the town's history.",
@@ -29812,50 +22738,10 @@ export const palestineCitiesV2: POI[] = [
   },
   {
     id: "palestine-jaba-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Maqam Hureish",
-                  "text": "Ein historisches Heiligtum oder Grab von Hureish in Jaba.",
-                  "category": "historical",
-                  "coords": [
-                        35.255824,
-                        32.337115
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Maqam Hureish",
-                  "text": "Egy történelmi szentély vagy sír Hureish tiszteletére Jabában.",
-                  "category": "historical",
-                  "coords": [
-                        35.255824,
-                        32.337115
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Maqam Hureish",
-                  "text": "Un sanctuar istoric sau mormânt al lui Hureish în Jaba.",
-                  "category": "historical",
-                  "coords": [
-                        35.255824,
-                        32.337115
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Maqam Hureish",
-                  "text": "A historical shrine or tomb of Hureish in Jaba.",
-                  "category": "historical",
-                  "coords": [
-                        35.255824,
-                        32.337115
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "PS",
     type: "town",
@@ -29904,15 +22790,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-silat-ad-dhahr-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Abdel Razzaq Shehadeh House",
-                  "text": "Ein natürliches Gebiet um ein historisches Haus in Silat Ad Dhahr.",
-                  "category": "natural",
-                  "coords": [
-                        35.205587,
-                        32.32112
-                  ]
-            },
-            {
                   "name": "Fakhoury Auto Body Shop",
                   "text": "Eine markante Autowerkstatt als Wahrzeichen in Silat Ad Dhahr.",
                   "category": "landmark",
@@ -29920,27 +22797,9 @@ export const palestineCitiesV2: POI[] = [
                         35.205118,
                         32.334941
                   ]
-            },
-            {
-                  "name": "Sheikh Abu Yazid Ruins",
-                  "text": "Ruinen des Scheichs Abu Yazid in Silat Ad Dhahr.",
-                  "category": "historical",
-                  "coords": [
-                        35.219227,
-                        32.304394
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Abdel Razzaq Shehadeh House",
-                  "text": "Egy természetes terület egy történelmi ház körül Silat Ad Dhahr-ban.",
-                  "category": "natural",
-                  "coords": [
-                        35.205587,
-                        32.32112
-                  ]
-            },
             {
                   "name": "Fakhoury Auto Body Shop",
                   "text": "Egy feltűnő autókarosszéria-műhely, nevezetesség Silat Ad Dhahr-ban.",
@@ -29949,27 +22808,9 @@ export const palestineCitiesV2: POI[] = [
                         35.205118,
                         32.334941
                   ]
-            },
-            {
-                  "name": "Sheikh Abu Yazid Ruins",
-                  "text": "Sejk Abu Yazid romjai Silat Ad Dhahr-ban.",
-                  "category": "historical",
-                  "coords": [
-                        35.219227,
-                        32.304394
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Abdel Razzaq Shehadeh House",
-                  "text": "O zonă naturală în jurul unei case istorice în Silat Ad Dhahr.",
-                  "category": "natural",
-                  "coords": [
-                        35.205587,
-                        32.32112
-                  ]
-            },
             {
                   "name": "Fakhoury Auto Body Shop",
                   "text": "Un atelier de caroserie auto proeminent, reper în Silat Ad Dhahr.",
@@ -29978,27 +22819,9 @@ export const palestineCitiesV2: POI[] = [
                         35.205118,
                         32.334941
                   ]
-            },
-            {
-                  "name": "Sheikh Abu Yazid Ruins",
-                  "text": "Ruinele șeicului Abu Yazid în Silat Ad Dhahr.",
-                  "category": "historical",
-                  "coords": [
-                        35.219227,
-                        32.304394
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Abdel Razzaq Shehadeh House",
-                  "text": "A natural area around a historic house in Silat Ad Dhahr.",
-                  "category": "natural",
-                  "coords": [
-                        35.205587,
-                        32.32112
-                  ]
-            },
             {
                   "name": "Fakhoury Auto Body Shop",
                   "text": "A prominent auto body shop landmark in Silat Ad Dhahr.",
@@ -30006,15 +22829,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.205118,
                         32.334941
-                  ]
-            },
-            {
-                  "name": "Sheikh Abu Yazid Ruins",
-                  "text": "Ruins of Sheikh Abu Yazid in Silat Ad Dhahr.",
-                  "category": "historical",
-                  "coords": [
-                        35.219227,
-                        32.304394
                   ]
             }
       ]
@@ -30066,24 +22880,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-burqin-cities-v2", "sights": {
       "de": [
             {
-                  "name": "The Freedom Theatre",
-                  "text": "Das Freedom Theatre in Burqin ist ein Kulturzentrum, das Theaterkunst im Westjordanland fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        35.287232,
-                        32.463367
-                  ]
-            },
-            {
-                  "name": "Janat Park",
-                  "text": "Ein Familienpark mit Spielplätzen in Burqin.",
-                  "category": "family",
-                  "coords": [
-                        35.287657,
-                        32.439851
-                  ]
-            },
-            {
                   "name": "Bal'ama Tunnel",
                   "text": "Ein alter Tunnel, möglicherweise ein Aquädukt oder Durchgang in Burqin.",
                   "category": "historical",
@@ -30102,30 +22898,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument",
-                  "text": "Ein historisches Denkmal in Burqin, das an die lokale Geschichte erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        35.292125,
-                        32.46597
-                  ]
-            },
-            {
                   "name": "Tank Junction",
                   "text": "Ein natürlicher Knotenpunkt oder Wasserbehälterbereich in Burqin.",
                   "category": "natural",
                   "coords": [
                         35.266769,
                         32.43092
-                  ]
-            },
-            {
-                  "name": "Salah Al-Din Mosque",
-                  "text": "Eine nach Salah Al-Din benannte Moschee in Burqin.",
-                  "category": "landmark",
-                  "coords": [
-                        35.293916,
-                        32.459233
                   ]
             },
             {
@@ -30145,36 +22923,9 @@ export const palestineCitiesV2: POI[] = [
                         35.261871,
                         32.45629
                   ]
-            },
-            {
-                  "name": "Borken Churche",
-                  "text": "Eine der ältesten Kirchen der Welt, über einer Quelle erbaut.",
-                  "category": "religious",
-                  "coords": [
-                        35.260061,
-                        32.457597
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "The Freedom Theatre",
-                  "text": "A Freedom Theatre Burqinban egy kulturális központ, amely színházművészetet népszerűsít Ciszjordániában.",
-                  "category": "cultural",
-                  "coords": [
-                        35.287232,
-                        32.463367
-                  ]
-            },
-            {
-                  "name": "Janat Park",
-                  "text": "Egy családi park játszóterekkel Burqinban.",
-                  "category": "family",
-                  "coords": [
-                        35.287657,
-                        32.439851
-                  ]
-            },
             {
                   "name": "Bal'ama Tunnel",
                   "text": "Egy ősi alagút, esetleg vízvezeték vagy átjáró Burqinban.",
@@ -30194,30 +22945,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument",
-                  "text": "Egy történelmi emlékmű Burqinban, a helyi történelemre emlékeztetve.",
-                  "category": "historical",
-                  "coords": [
-                        35.292125,
-                        32.46597
-                  ]
-            },
-            {
                   "name": "Tank Junction",
                   "text": "Egy természetes csomópont vagy víztározó terület Burqinban.",
                   "category": "natural",
                   "coords": [
                         35.266769,
                         32.43092
-                  ]
-            },
-            {
-                  "name": "Salah Al-Din Mosque",
-                  "text": "Egy Salah Al-Dinről elnevezett mecset Burqinban.",
-                  "category": "landmark",
-                  "coords": [
-                        35.293916,
-                        32.459233
                   ]
             },
             {
@@ -30237,36 +22970,9 @@ export const palestineCitiesV2: POI[] = [
                         35.261871,
                         32.45629
                   ]
-            },
-            {
-                  "name": "Borken Churche",
-                  "text": "A világ egyik legrégebbi temploma, egy forrás fölé építve.",
-                  "category": "religious",
-                  "coords": [
-                        35.260061,
-                        32.457597
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "The Freedom Theatre",
-                  "text": "Freedom Theatre în Burqin este un centru cultural care promovează arta teatrală în Cisiordania.",
-                  "category": "cultural",
-                  "coords": [
-                        35.287232,
-                        32.463367
-                  ]
-            },
-            {
-                  "name": "Janat Park",
-                  "text": "Un parc de familie cu locuri de joacă în Burqin.",
-                  "category": "family",
-                  "coords": [
-                        35.287657,
-                        32.439851
-                  ]
-            },
             {
                   "name": "Bal'ama Tunnel",
                   "text": "Un tunel antic, posibil un apeduct sau un pasaj în Burqin.",
@@ -30286,30 +22992,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument",
-                  "text": "Un monument istoric în Burqin, care comemorează istoria locală.",
-                  "category": "historical",
-                  "coords": [
-                        35.292125,
-                        32.46597
-                  ]
-            },
-            {
                   "name": "Tank Junction",
                   "text": "O intersecție naturală sau o zonă cu rezervor de apă în Burqin.",
                   "category": "natural",
                   "coords": [
                         35.266769,
                         32.43092
-                  ]
-            },
-            {
-                  "name": "Salah Al-Din Mosque",
-                  "text": "O moschee numită după Salah Al-Din în Burqin.",
-                  "category": "landmark",
-                  "coords": [
-                        35.293916,
-                        32.459233
                   ]
             },
             {
@@ -30329,36 +23017,9 @@ export const palestineCitiesV2: POI[] = [
                         35.261871,
                         32.45629
                   ]
-            },
-            {
-                  "name": "Borken Churche",
-                  "text": "Una dintre cele mai vechi biserici din lume, construită peste un izvor.",
-                  "category": "religious",
-                  "coords": [
-                        35.260061,
-                        32.457597
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "The Freedom Theatre",
-                  "text": "The Freedom Theatre in Burqin, a cultural centre promoting performing arts in the West Bank.",
-                  "category": "cultural",
-                  "coords": [
-                        35.287232,
-                        32.463367
-                  ]
-            },
-            {
-                  "name": "Janat Park",
-                  "text": "A family park with playgrounds in Burqin.",
-                  "category": "family",
-                  "coords": [
-                        35.287657,
-                        32.439851
-                  ]
-            },
             {
                   "name": "Bal'ama Tunnel",
                   "text": "An ancient tunnel, possibly an aqueduct or passage, in Burqin.",
@@ -30378,30 +23039,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument",
-                  "text": "A historical monument in Burqin, commemorating local history.",
-                  "category": "historical",
-                  "coords": [
-                        35.292125,
-                        32.46597
-                  ]
-            },
-            {
                   "name": "Tank Junction",
                   "text": "A natural junction or water tank area in Burqin.",
                   "category": "natural",
                   "coords": [
                         35.266769,
                         32.43092
-                  ]
-            },
-            {
-                  "name": "Salah Al-Din Mosque",
-                  "text": "A mosque named after Salah Al-Din in Burqin.",
-                  "category": "landmark",
-                  "coords": [
-                        35.293916,
-                        32.459233
                   ]
             },
             {
@@ -30420,15 +23063,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         35.261871,
                         32.45629
-                  ]
-            },
-            {
-                  "name": "Burkin Church",
-                  "text": "One of the oldest churches in the world, built over a spring.",
-                  "category": "religious",
-                  "coords": [
-                        35.260061,
-                        32.457597
                   ]
             }
       ]
@@ -31065,15 +23699,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "AL-shhdda",
-                  "text": "AL-shhdda ist ein bemerkenswertes Gedenkmonument in Bani Suheila.",
-                  "category": "historical",
-                  "coords": [
-                        34.35982,
-                        31.313056
-                  ]
-            },
-            {
                   "name": "alzanna sport playgroung",
                   "text": "Der Sportplatz Alzanna ist eine Freizeitanlage im Freien in Bani Suheila.",
                   "category": "landmark",
@@ -31415,15 +24040,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.3997,
                         31.325159
-                  ]
-            },
-            {
-                  "name": "AL-shhdda",
-                  "text": "Az AL-shhdda egy figyelemre méltó emlékmű Bani Suheila városában.",
-                  "category": "historical",
-                  "coords": [
-                        34.35982,
-                        31.313056
                   ]
             },
             {
@@ -31771,15 +24387,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "AL-shhdda",
-                  "text": "AL-shhdda este un monument memorial remarcabil situat în Bani Suheila.",
-                  "category": "historical",
-                  "coords": [
-                        34.35982,
-                        31.313056
-                  ]
-            },
-            {
                   "name": "alzanna sport playgroung",
                   "text": "Terenul de sport Alzanna este o atracție de recreere în aer liber în Bani Suheila.",
                   "category": "landmark",
@@ -32121,15 +24728,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.3997,
                         31.325159
-                  ]
-            },
-            {
-                  "name": "AL-shhdda",
-                  "text": "AL-shhdda is a notable memorial monument situated in Bani Suheila.",
-                  "category": "historical",
-                  "coords": [
-                        34.35982,
-                        31.313056
                   ]
             },
             {
@@ -32478,15 +25076,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-abasan-al-kabira-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Bani Suheila Municipality",
-                  "text": "Das Rathaus von Bani Suheila in Abasan Al Kabira ist ein historisches Gebäude aus osmanischer Zeit.",
-                  "category": "historical",
-                  "coords": [
-                        34.322255,
-                        31.34033
-                  ]
-            },
-            {
                   "name": "Al-Zana Sports Stadium",
                   "text": "Als lokales Wahrzeichen zieht das ملعب الزنة الرياضي Besucher in die Stadt Abasan al-Kabira. Diese sportliche Attraktion ist ein zentraler Treffpunkt der palästinensischen Gemeinde. Gäste können hier das lebhafte lokale Treiben beobachten.",
                   "category": "landmark",
@@ -32569,15 +25158,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Bani Suheila Municipality",
-                  "text": "A Bani Suheila önkormányzati épület Abasan Al Kabirában egy oszmán kori történelmi épület.",
-                  "category": "historical",
-                  "coords": [
-                        34.322255,
-                        31.34033
-                  ]
-            },
             {
                   "name": "Al-Zana Sports Stadium",
                   "text": "Helyi nevezetességként a ملعب الزنة الرياضي vonzza a látogatókat Abaszan al-Kabira városába. Ez a sportlétesítmény a palesztin közösség központi találkozóhelye. A vendégek itt megfigyelhetik az élénk helyi életet.",
@@ -32662,15 +25242,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Bani Suheila Municipality",
-                  "text": "Primăria Bani Suheila din Abasan Al Kabira este o clădire istorică din perioada otomană.",
-                  "category": "historical",
-                  "coords": [
-                        34.322255,
-                        31.34033
-                  ]
-            },
-            {
                   "name": "Al-Zana Sports Stadium",
                   "text": "Ca punct de reper local, ملعب الزنة الرياضي atrage vizitatorii în orașul Abasan al-Kabira. Această atracție sportivă este un loc central de întâlnire al comunității palestiniene. Oaspeții pot observa aici viața locală vibrantă.",
                   "category": "landmark",
@@ -32753,24 +25324,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Bani Suheila Municipality",
-                  "text": "Bani Suheila Municipality building in Abasan Al Kabira, a historic Ottoman-era structure.",
-                  "category": "historical",
-                  "coords": [
-                        34.322255,
-                        31.34033
-                  ]
-            },
-            {
-                  "name": "alzanna sport playgroung",
-                  "text": "As a local landmark, the ملعب الزنة الرياضي draws visitors to the city of Abasan Al Kabira. This sporting attraction is a central meeting point for the Palestinian community. Guests can observe the vibrant local life here.",
-                  "category": "landmark",
-                  "coords": [
-                        34.337174,
-                        31.350205
-                  ]
-            },
             {
                   "name": "Al-Najjar Games Hall",
                   "text": "In the heart of Abasan Al Kabira, the attraction صالة العاب النجار awaits its visitors. This Palestinian landmark offers recreational opportunities for locals and guests alike. A visit promises entertaining moments in the urban environment.",
@@ -32892,75 +25445,12 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-zawayda-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Monastery of Saint-Hilarion",
-                  "text": "Das Monastery of Saint-Hilarion ist eine archäologische Stätte in al-Zawaida. Es bewahrt die Überreste eines der ältesten Klöster im Heiligen Land.",
-                  "category": "historical",
-                  "coords": [
-                        34.36639,
-                        31.44724
-                  ]
-            },
-            {
                   "name": "Abu Abdullah Al-Aidy",
                   "text": "Eine Burg oder Festung, benannt nach Abu Abdullah, in Al Zawayda.",
                   "category": "castle",
                   "coords": [
                         34.377113,
                         31.423441
-                  ]
-            },
-            {
-                  "name": "The English Cemetery",
-                  "text": "Der englische Friedhof, eine historische Begräbnisstätte in Al Zawayda.",
-                  "category": "historical",
-                  "coords": [
-                        34.374055,
-                        31.425159
-                  ]
-            },
-            {
-                  "name": "Hajj Ahmed Housing",
-                  "text": "Das Wahrzeichengebäude von Hajj Ahmed in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.403862,
-                        31.440988
-                  ]
-            },
-            {
-                  "name": "Wasama Salon",
-                  "text": "Ein natürlicher Garten oder Salonbereich in Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.396325,
-                        31.447071
-                  ]
-            },
-            {
-                  "name": "Sukkar Building",
-                  "text": "Das Sukkar-Gebäude, ein Wahrzeichen in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.398294,
-                        31.443243
-                  ]
-            },
-            {
-                  "name": "Musab Ibn Umayr Street",
-                  "text": "Eine nach Musab Ibn Umayr benannte Straße in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.408648,
-                        31.436475
-                  ]
-            },
-            {
-                  "name": "Al-Sikka Street",
-                  "text": "Die Al-Sikka-Straße, eine Hauptstraße in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.397925,
-                        31.441894
                   ]
             },
             {
@@ -32979,42 +25469,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.394787,
                         31.437773
-                  ]
-            },
-            {
-                  "name": "Scenic Views",
-                  "text": "Ein Aussichtspunkt mit malerischen Ausblicken in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.388963,
-                        31.444135
-                  ]
-            },
-            {
-                  "name": "Al-Hamlawi",
-                  "text": "Ein natürliches Gebiet namens Al-Hamlawi in Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.385422,
-                        31.447456
-                  ]
-            },
-            {
-                  "name": "20th Street",
-                  "text": "Die 20th Street, eine natürliche Straße oder Gegend in Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.394149,
-                        31.445188
-                  ]
-            },
-            {
-                  "name": "Hijazi Shops",
-                  "text": "Historische Läden der Familie Hijazi in Al Zawayda.",
-                  "category": "historical",
-                  "coords": [
-                        34.392359,
-                        31.447028
                   ]
             },
             {
@@ -33038,75 +25492,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Monastery of Saint-Hilarion",
-                  "text": "A Monastery of Saint-Hilarion egy régészeti lelőhely al-Zawaida városában. A Szentföld egyik legrégebbi kolostorának maradványait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        34.36639,
-                        31.44724
-                  ]
-            },
-            {
                   "name": "Abu Abdullah Al-Aidy",
                   "text": "Egy vár vagy erőd, amely Abu Abdullah nevét viseli, Al Zawaydában.",
                   "category": "castle",
                   "coords": [
                         34.377113,
                         31.423441
-                  ]
-            },
-            {
-                  "name": "The English Cemetery",
-                  "text": "Az angol temető, egy történelmi temetkezési hely Al Zawaydában.",
-                  "category": "historical",
-                  "coords": [
-                        34.374055,
-                        31.425159
-                  ]
-            },
-            {
-                  "name": "Hajj Ahmed Housing",
-                  "text": "Hajj Ahmed nevezetes épülete Al Zawaydában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.403862,
-                        31.440988
-                  ]
-            },
-            {
-                  "name": "Wasama Salon",
-                  "text": "Egy természetes kert vagy szalon terület Al Zawaydában.",
-                  "category": "natural",
-                  "coords": [
-                        34.396325,
-                        31.447071
-                  ]
-            },
-            {
-                  "name": "Sukkar Building",
-                  "text": "A Sukkar-épület, egy nevezetesség Al Zawaydában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.398294,
-                        31.443243
-                  ]
-            },
-            {
-                  "name": "Musab Ibn Umayr Street",
-                  "text": "Egy Musab Ibn Umayr nevét viselő utca Al Zawaydában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.408648,
-                        31.436475
-                  ]
-            },
-            {
-                  "name": "Al-Sikka Street",
-                  "text": "Az Al-Sikka utca, egy főút Al Zawaydában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.397925,
-                        31.441894
                   ]
             },
             {
@@ -33125,42 +25516,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.394787,
                         31.437773
-                  ]
-            },
-            {
-                  "name": "Scenic Views",
-                  "text": "Egy kilátó festői kilátással Al Zawaydában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.388963,
-                        31.444135
-                  ]
-            },
-            {
-                  "name": "Al-Hamlawi",
-                  "text": "Egy természetes terület, Al-Hamlawi, Al Zawaydában.",
-                  "category": "natural",
-                  "coords": [
-                        34.385422,
-                        31.447456
-                  ]
-            },
-            {
-                  "name": "20th Street",
-                  "text": "A 20. utca, egy természetes út vagy terület Al Zawaydában.",
-                  "category": "natural",
-                  "coords": [
-                        34.394149,
-                        31.445188
-                  ]
-            },
-            {
-                  "name": "Hijazi Shops",
-                  "text": "A Hijazi család történelmi boltjai Al Zawaydában.",
-                  "category": "historical",
-                  "coords": [
-                        34.392359,
-                        31.447028
                   ]
             },
             {
@@ -33184,75 +25539,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Monastery of Saint-Hilarion",
-                  "text": "Monastery of Saint-Hilarion este un sit arheologic din al-Zawaida. Acesta păstrează rămășițele uneia dintre cele mai vechi mănăstiri din Țara Sfântă.",
-                  "category": "historical",
-                  "coords": [
-                        34.36639,
-                        31.44724
-                  ]
-            },
-            {
                   "name": "Abu Abdullah Al-Aidy",
                   "text": "Un castel sau fort numit după Abu Abdullah în Al Zawayda.",
                   "category": "castle",
                   "coords": [
                         34.377113,
                         31.423441
-                  ]
-            },
-            {
-                  "name": "The English Cemetery",
-                  "text": "Cimitirul englez, un loc de înmormântare istoric în Al Zawayda.",
-                  "category": "historical",
-                  "coords": [
-                        34.374055,
-                        31.425159
-                  ]
-            },
-            {
-                  "name": "Hajj Ahmed Housing",
-                  "text": "Clădirea reper a lui Hajj Ahmed în Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.403862,
-                        31.440988
-                  ]
-            },
-            {
-                  "name": "Wasama Salon",
-                  "text": "O grădină naturală sau zonă de salon în Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.396325,
-                        31.447071
-                  ]
-            },
-            {
-                  "name": "Sukkar Building",
-                  "text": "Clădirea Sukkar, un reper în Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.398294,
-                        31.443243
-                  ]
-            },
-            {
-                  "name": "Musab Ibn Umayr Street",
-                  "text": "O stradă numită după Musab Ibn Umayr în Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.408648,
-                        31.436475
-                  ]
-            },
-            {
-                  "name": "Al-Sikka Street",
-                  "text": "Strada Al-Sikka, un drum principal în Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.397925,
-                        31.441894
                   ]
             },
             {
@@ -33271,42 +25563,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.394787,
                         31.437773
-                  ]
-            },
-            {
-                  "name": "Scenic Views",
-                  "text": "Un punct de belvedere cu priveliști pitorești în Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.388963,
-                        31.444135
-                  ]
-            },
-            {
-                  "name": "Al-Hamlawi",
-                  "text": "O zonă naturală numită Al-Hamlawi în Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.385422,
-                        31.447456
-                  ]
-            },
-            {
-                  "name": "20th Street",
-                  "text": "Strada a 20-a, un drum natural sau o zonă în Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.394149,
-                        31.445188
-                  ]
-            },
-            {
-                  "name": "Hijazi Shops",
-                  "text": "Magazine istorice ale familiei Hijazi în Al Zawayda.",
-                  "category": "historical",
-                  "coords": [
-                        34.392359,
-                        31.447028
                   ]
             },
             {
@@ -33330,75 +25586,12 @@ export const palestineCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Monastery of Saint-Hilarion",
-                  "text": "Monastery of Saint-Hilarion is an archaeological site in al-Zawaida. It preserves the remains of one of the oldest monasteries in the Holy Land.",
-                  "category": "historical",
-                  "coords": [
-                        34.36639,
-                        31.44724
-                  ]
-            },
-            {
                   "name": "Abu Abdullah Al-Aidy",
                   "text": "A castle or fort named after Abu Abdullah in Al Zawayda.",
                   "category": "castle",
                   "coords": [
                         34.377113,
                         31.423441
-                  ]
-            },
-            {
-                  "name": "The English Cemetery",
-                  "text": "The English Cemetery, a historical burial ground in Al Zawayda.",
-                  "category": "historical",
-                  "coords": [
-                        34.374055,
-                        31.425159
-                  ]
-            },
-            {
-                  "name": "Hajj Ahmed Building",
-                  "text": "The landmark building of Hajj Ahmed in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.403862,
-                        31.440988
-                  ]
-            },
-            {
-                  "name": "Wasama Salon",
-                  "text": "A natural garden or salon area in Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.396325,
-                        31.447071
-                  ]
-            },
-            {
-                  "name": "Sukkar Building",
-                  "text": "The Sukkar Building landmark in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.398294,
-                        31.443243
-                  ]
-            },
-            {
-                  "name": "Musab Ibn Umayr Street",
-                  "text": "A street named after Musab Ibn Umayr in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.408648,
-                        31.436475
-                  ]
-            },
-            {
-                  "name": "Al-Sikka Street",
-                  "text": "Al-Sikka Street, a main road in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.397925,
-                        31.441894
                   ]
             },
             {
@@ -33417,42 +25610,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.394787,
                         31.437773
-                  ]
-            },
-            {
-                  "name": "Scenic Views",
-                  "text": "A viewpoint offering scenic views in Al Zawayda.",
-                  "category": "landmark",
-                  "coords": [
-                        34.388963,
-                        31.444135
-                  ]
-            },
-            {
-                  "name": "Al-Hamlawi",
-                  "text": "A natural area named Al-Hamlawi in Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.385422,
-                        31.447456
-                  ]
-            },
-            {
-                  "name": "20th Street",
-                  "text": "20th Street, a natural road or area in Al Zawayda.",
-                  "category": "natural",
-                  "coords": [
-                        34.394149,
-                        31.445188
-                  ]
-            },
-            {
-                  "name": "Hijazi Shops",
-                  "text": "Historical shops of the Hijazi family in Al Zawayda.",
-                  "category": "historical",
-                  "coords": [
-                        34.392359,
-                        31.447028
                   ]
             },
             {
@@ -33549,33 +25706,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Nabahin Family Diwan",
-                  "text": "Der Al-Nabahin-Familiendiwan ist eine traditionelle Versammlungshalle der Familie Al-Nabahin in Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.423142,
-                        31.440802
-                  ]
-            },
-            {
-                  "name": "Sheikh Yusuf Al-Nabahin Lands",
-                  "text": "Die Ländereien von Scheich Yusuf Al-Nabahin sind landwirtschaftliche Flächen, die mit Scheich Yusuf Al-Nabahin in Al Nuseirat verbunden sind.",
-                  "category": "landmark",
-                  "coords": [
-                        34.421779,
-                        31.441152
-                  ]
-            },
-            {
-                  "name": "Musab Ibn Umayr Street",
-                  "text": "Die Musab-Ibn-Umayr-Straße ist eine Hauptstraße, benannt nach dem Gefährten Musab ibn Umayr in Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.408648,
-                        31.436475
-                  ]
-            },
-            {
                   "name": "Al-Sikka Street",
                   "text": "Die Al-Sikka-Straße ist eine historische Handelsroute in Al Nuseirat.",
                   "category": "landmark",
@@ -33594,39 +25724,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Usama Jaber Kuhail Home",
-                  "text": "Das Haus von Usama Jaber Kuhail ist der ehemalige Wohnsitz von Usama Jaber Kuhail in Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.39967,
-                        31.472056
-                  ]
-            },
-            {
-                  "name": "Taka Towers",
-                  "text": "Die Taka-Türme sind markante Felsformationen am Strand nahe Al Nuseirat.",
-                  "category": "natural",
-                  "coords": [
-                        34.426978,
-                        31.448957
-                  ]
-            },
-            {
                   "name": "Abu Fayyad Roundabout",
                   "text": "Der Abu-Fayyad-Kreisverkehr ist ein wichtiger Verkehrsknotenpunkt in Al Nuseirat.",
                   "category": "natural",
                   "coords": [
                         34.390588,
                         31.46088
-                  ]
-            },
-            {
-                  "name": "Palm Village",
-                  "text": "Das Palm Village ist ein Dattelpalmenhain in Al Nuseirat.",
-                  "category": "natural",
-                  "coords": [
-                        34.394787,
-                        31.437773
                   ]
             },
             {
@@ -33663,15 +25766,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.392359,
                         31.447028
-                  ]
-            },
-            {
-                  "name": "Suwarha Camp",
-                  "text": "Das Suwarha-Lager ist ein historisches Flüchtlingslager in Al Nuseirat.",
-                  "category": "historical",
-                  "coords": [
-                        34.371139,
-                        31.441463
                   ]
             },
             {
@@ -33713,33 +25807,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Nabahin Family Diwan",
-                  "text": "Az Al-Nabahin családi diwan egy hagyományos gyűlésterem az Al-Nabahin család számára Al Nuseiratban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.423142,
-                        31.440802
-                  ]
-            },
-            {
-                  "name": "Sheikh Yusuf Al-Nabahin Lands",
-                  "text": "Sejk Yusuf Al-Nabahin földjei mezőgazdasági területek, amelyek Sejk Yusuf Al-Nabahinhoz kapcsolódnak Al Nuseiratban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.421779,
-                        31.441152
-                  ]
-            },
-            {
-                  "name": "Musab Ibn Umayr Street",
-                  "text": "A Musab ibn Umayr utca egy főút, amely Musab ibn Umayr társáról kapta a nevét Al Nuseiratban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.408648,
-                        31.436475
-                  ]
-            },
-            {
                   "name": "Al-Sikka Street",
                   "text": "Az Al-Sikka utca egy történelmi kereskedelmi útvonal Al Nuseiratban.",
                   "category": "landmark",
@@ -33758,39 +25825,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Usama Jaber Kuhail Home",
-                  "text": "Usama Jaber Kuhail otthona Usama Jaber Kuhail egykori lakóhelye Al Nuseiratban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.39967,
-                        31.472056
-                  ]
-            },
-            {
-                  "name": "Taka Towers",
-                  "text": "A Taka tornyok jellegzetes sziklaformációk a tengerparton Al Nuseirat közelében.",
-                  "category": "natural",
-                  "coords": [
-                        34.426978,
-                        31.448957
-                  ]
-            },
-            {
                   "name": "Abu Fayyad Roundabout",
                   "text": "Az Abu Fayyad körforgalom egy jelentős közlekedési csomópont Al Nuseiratban.",
                   "category": "natural",
                   "coords": [
                         34.390588,
                         31.46088
-                  ]
-            },
-            {
-                  "name": "Palm Village",
-                  "text": "A Palm Village egy datolyapálma-liget Al Nuseiratban.",
-                  "category": "natural",
-                  "coords": [
-                        34.394787,
-                        31.437773
                   ]
             },
             {
@@ -33827,15 +25867,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.392359,
                         31.447028
-                  ]
-            },
-            {
-                  "name": "Suwarha Camp",
-                  "text": "A Suwarha tábor egy történelmi menekülttábor Al Nuseiratban.",
-                  "category": "historical",
-                  "coords": [
-                        34.371139,
-                        31.441463
                   ]
             },
             {
@@ -33877,33 +25908,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Nabahin Family Diwan",
-                  "text": "Diwanul familiei Al-Nabahin este o sală de întruniri tradițională a familiei Al-Nabahin din Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.423142,
-                        31.440802
-                  ]
-            },
-            {
-                  "name": "Sheikh Yusuf Al-Nabahin Lands",
-                  "text": "Teritoriile Șeicului Yusuf Al-Nabahin sunt terenuri agricole asociate cu Șeicul Yusuf Al-Nabahin în Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.421779,
-                        31.441152
-                  ]
-            },
-            {
-                  "name": "Musab Ibn Umayr Street",
-                  "text": "Strada Musab Ibn Umayr este o stradă principală numită după companionul Musab ibn Umayr în Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.408648,
-                        31.436475
-                  ]
-            },
-            {
                   "name": "Al-Sikka Street",
                   "text": "Strada Al-Sikka este un traseu comercial istoric în Al Nuseirat.",
                   "category": "landmark",
@@ -33922,39 +25926,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Usama Jaber Kuhail Home",
-                  "text": "Casa lui Usama Jaber Kuhail este fosta reședință a lui Usama Jaber Kuhail în Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.39967,
-                        31.472056
-                  ]
-            },
-            {
-                  "name": "Taka Towers",
-                  "text": "Turnurile Taka sunt formațiuni stâncoase distinctive pe plaja de lângă Al Nuseirat.",
-                  "category": "natural",
-                  "coords": [
-                        34.426978,
-                        31.448957
-                  ]
-            },
-            {
                   "name": "Abu Fayyad Roundabout",
                   "text": "Sensul giratoriu Abu Fayyad este un nod rutier important în Al Nuseirat.",
                   "category": "natural",
                   "coords": [
                         34.390588,
                         31.46088
-                  ]
-            },
-            {
-                  "name": "Palm Village",
-                  "text": "Palm Village este o livadă de curmali în Al Nuseirat.",
-                  "category": "natural",
-                  "coords": [
-                        34.394787,
-                        31.437773
                   ]
             },
             {
@@ -33991,15 +25968,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.392359,
                         31.447028
-                  ]
-            },
-            {
-                  "name": "Suwarha Camp",
-                  "text": "Tabăra Suwarha este o tabără istorică de refugiați în Al Nuseirat.",
-                  "category": "historical",
-                  "coords": [
-                        34.371139,
-                        31.441463
                   ]
             },
             {
@@ -34041,33 +26009,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Nabahin Family Diwan",
-                  "text": "The Al-Nabahin Family Diwan is a traditional family meeting hall of the Al-Nabahin family in Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.423142,
-                        31.440802
-                  ]
-            },
-            {
-                  "name": "Sheikh Yusuf Al-Nabahin Lands",
-                  "text": "Sheikh Yusuf Al-Nabahin Lands are agricultural lands associated with Sheikh Yusuf Al-Nabahin in Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.421779,
-                        31.441152
-                  ]
-            },
-            {
-                  "name": "Musab Ibn Umayr Street",
-                  "text": "Musab Ibn Umayr Street is a main street named after the companion Musab ibn Umayr in Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.408648,
-                        31.436475
-                  ]
-            },
-            {
                   "name": "Al-Sikka Street",
                   "text": "Al-Sikka Street is a historic trade route in Al Nuseirat.",
                   "category": "landmark",
@@ -34086,39 +26027,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Usama Jaber Kuhail Home",
-                  "text": "Usama Jaber Kuhail Home is the former residence of Usama Jaber Kuhail in Al Nuseirat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.39967,
-                        31.472056
-                  ]
-            },
-            {
-                  "name": "Taka Towers",
-                  "text": "Taka Towers are distinctive rock formations on the beach near Al Nuseirat.",
-                  "category": "natural",
-                  "coords": [
-                        34.426978,
-                        31.448957
-                  ]
-            },
-            {
                   "name": "Abu Fayyad Roundabout",
                   "text": "Abu Fayyad Roundabout is a major traffic circle in Al Nuseirat.",
                   "category": "natural",
                   "coords": [
                         34.390588,
                         31.46088
-                  ]
-            },
-            {
-                  "name": "Palm Village",
-                  "text": "Palm Village is a grove of date palms in Al Nuseirat.",
-                  "category": "natural",
-                  "coords": [
-                        34.394787,
-                        31.437773
                   ]
             },
             {
@@ -34155,15 +26069,6 @@ export const palestineCitiesV2: POI[] = [
                   "coords": [
                         34.392359,
                         31.447028
-                  ]
-            },
-            {
-                  "name": "Suwarha Camp",
-                  "text": "Suwarha Camp is a historic refugee camp in Al Nuseirat.",
-                  "category": "historical",
-                  "coords": [
-                        34.371139,
-                        31.441463
                   ]
             },
             {
@@ -34224,24 +26129,6 @@ export const palestineCitiesV2: POI[] = [
     id: "palestine-al-bureij-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Byzantine church, mosaic",
-                  "text": "Die Überreste einer byzantinischen Kirche mit gut erhaltenen Bodenmosaiken, die geometrische Muster zeigen.",
-                  "category": "historical",
-                  "coords": [
-                        34.435172,
-                        31.4182
-                  ]
-            },
-            {
-                  "name": "Horbot Gerarit",
-                  "text": "Diese Ruinenstätte auf dem Hügel Tel Haror zeigt beeindruckende Befestigungsanlagen aus der Eisenzeit.",
-                  "category": "historical",
-                  "coords": [
-                        34.440278,
-                        31.415833
-                  ]
-            },
-            {
                   "name": "Khirbat al-Kutshan",
                   "text": "Verstreute Mauerreste und Fundamente einer historischen Siedlung in der nördlichen Negev-Region.",
                   "category": "historical",
@@ -34279,24 +26166,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Byzantine church, mosaic",
-                  "text": "Egy bizánci templom maradványai, ahol geometrikus mintázatú, jól megőrzött padlómozaikok láthatók.",
-                  "category": "historical",
-                  "coords": [
-                        34.435172,
-                        31.4182
-                  ]
-            },
-            {
-                  "name": "Horbot Gerarit",
-                  "text": "Ez a Tel Haror dombján található romterület lenyűgöző vaskori erődítményeket mutat be.",
-                  "category": "historical",
-                  "coords": [
-                        34.440278,
-                        31.415833
-                  ]
-            },
             {
                   "name": "Khirbat al-Kutshan",
                   "text": "Egy történelmi település szétszórt falmaradványai és alapjai az északi Negev-régióban.",
@@ -34336,24 +26205,6 @@ export const palestineCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Byzantine church, mosaic",
-                  "text": "Rămășițele unei biserici bizantine cu mozaicuri pavimentare bine conservate, care prezintă modele geometrice.",
-                  "category": "historical",
-                  "coords": [
-                        34.435172,
-                        31.4182
-                  ]
-            },
-            {
-                  "name": "Horbot Gerarit",
-                  "text": "Acest sit cu ruine de pe dealul Tel Haror prezintă fortificații impresionante din epoca fierului.",
-                  "category": "historical",
-                  "coords": [
-                        34.440278,
-                        31.415833
-                  ]
-            },
-            {
                   "name": "Khirbat al-Kutshan",
                   "text": "Rămășițe de ziduri și fundații împrăștiate ale unei așezări istorice în regiunea de nord a Negevului.",
                   "category": "historical",
@@ -34391,24 +26242,6 @@ export const palestineCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Byzantine church, mosaic",
-                  "text": "The remains of a Byzantine church featuring well-preserved floor mosaics with intricate geometric patterns.",
-                  "category": "historical",
-                  "coords": [
-                        34.435172,
-                        31.4182
-                  ]
-            },
-            {
-                  "name": "Horbot Gerarit",
-                  "text": "This ruin site on the Tel Haror mound displays impressive fortifications dating back to the Iron Age.",
-                  "category": "historical",
-                  "coords": [
-                        34.440278,
-                        31.415833
-                  ]
-            },
             {
                   "name": "Khirbat al-Kutshan",
                   "text": "Scattered wall remains and foundations of a historical settlement located in the northern Negev region.",
@@ -34521,33 +26354,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajj Ahmed Housing",
-                  "text": "Das Hajj-Ahmed-Gebäude ist ein markantes altes Gebäude in Al Maghazi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.403862,
-                        31.440988
-                  ]
-            },
-            {
-                  "name": "Wasama Salon",
-                  "text": "Wasama Salon ist ein angelegter Garten in Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.396325,
-                        31.447071
-                  ]
-            },
-            {
-                  "name": "Sukkar Building",
-                  "text": "Das Sukkar-Gebäude ist ein mehrstöckiges Gebäude im Lager Al Maghazi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.398294,
-                        31.443243
-                  ]
-            },
-            {
                   "name": "Al-Nabahin Family Diwan",
                   "text": "Der Al-Nabahin-Familiendiwan ist eine Versammlungshalle der Familie Al-Nabahin in Al Maghazi.",
                   "category": "landmark",
@@ -34575,39 +26381,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Sikka Street",
-                  "text": "Die Al-Sikka-Straße ist eine historische Route in Al Maghazi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.397925,
-                        31.441894
-                  ]
-            },
-            {
                   "name": "Taka Towers",
                   "text": "Die Taka-Türme sind natürliche Felsformationen nahe Al Maghazi.",
                   "category": "natural",
                   "coords": [
                         34.426978,
                         31.448957
-                  ]
-            },
-            {
-                  "name": "Palm Village",
-                  "text": "Das Palm Village ist eine Ansammlung von Palmen in Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.394787,
-                        31.437773
-                  ]
-            },
-            {
-                  "name": "20th Street",
-                  "text": "Die 20th Street ist eine von Bäumen gesäumte Straße in Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.394149,
-                        31.445188
                   ]
             }
       ],
@@ -34640,33 +26419,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajj Ahmed Housing",
-                  "text": "A Hajj Ahmed épület egy jellegzetes régi épület Al Maghaziban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.403862,
-                        31.440988
-                  ]
-            },
-            {
-                  "name": "Wasama Salon",
-                  "text": "A Wasama Szalon egy parkosított kert Al Maghaziban.",
-                  "category": "natural",
-                  "coords": [
-                        34.396325,
-                        31.447071
-                  ]
-            },
-            {
-                  "name": "Sukkar Building",
-                  "text": "A Sukkar épület egy többszintes épület Al Maghazi táborában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.398294,
-                        31.443243
-                  ]
-            },
-            {
                   "name": "Al-Nabahin Family Diwan",
                   "text": "Az Al-Nabahin családi diwan egy gyűlésterem az Al-Nabahin család számára Al Maghaziban.",
                   "category": "landmark",
@@ -34694,39 +26446,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Sikka Street",
-                  "text": "Az Al-Sikka utca egy történelmi útvonal Al Maghaziban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.397925,
-                        31.441894
-                  ]
-            },
-            {
                   "name": "Taka Towers",
                   "text": "A Taka tornyok természetes sziklaformációk Al Maghazi közelében.",
                   "category": "natural",
                   "coords": [
                         34.426978,
                         31.448957
-                  ]
-            },
-            {
-                  "name": "Palm Village",
-                  "text": "A Palm Village egy pálmafacsoport Al Maghaziban.",
-                  "category": "natural",
-                  "coords": [
-                        34.394787,
-                        31.437773
-                  ]
-            },
-            {
-                  "name": "20th Street",
-                  "text": "A 20th Street egy fákkal szegélyezett utca Al Maghaziban.",
-                  "category": "natural",
-                  "coords": [
-                        34.394149,
-                        31.445188
                   ]
             }
       ],
@@ -34759,33 +26484,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajj Ahmed Housing",
-                  "text": "Clădirea Hajj Ahmed este o clădire veche notabilă în Al Maghazi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.403862,
-                        31.440988
-                  ]
-            },
-            {
-                  "name": "Wasama Salon",
-                  "text": "Wasama Salon este o grădină amenajată în Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.396325,
-                        31.447071
-                  ]
-            },
-            {
-                  "name": "Sukkar Building",
-                  "text": "Clădirea Sukkar este un imobil cu mai multe etaje în tabăra Al Maghazi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.398294,
-                        31.443243
-                  ]
-            },
-            {
                   "name": "Al-Nabahin Family Diwan",
                   "text": "Diwanul familiei Al-Nabahin este o sală de întruniri a familiei Al-Nabahin în Al Maghazi.",
                   "category": "landmark",
@@ -34813,39 +26511,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Sikka Street",
-                  "text": "Strada Al-Sikka este un traseu istoric în Al Maghazi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.397925,
-                        31.441894
-                  ]
-            },
-            {
                   "name": "Taka Towers",
                   "text": "Turnurile Taka sunt formațiuni stâncoase naturale lângă Al Maghazi.",
                   "category": "natural",
                   "coords": [
                         34.426978,
                         31.448957
-                  ]
-            },
-            {
-                  "name": "Palm Village",
-                  "text": "Palm Village este un grup de palmieri în Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.394787,
-                        31.437773
-                  ]
-            },
-            {
-                  "name": "20th Street",
-                  "text": "Strada 20 este o stradă mărginită de copaci în Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.394149,
-                        31.445188
                   ]
             }
       ],
@@ -34878,33 +26549,6 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajj Ahmed Building",
-                  "text": "Hajj Ahmed Building is a notable old building in Al Maghazi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.403862,
-                        31.440988
-                  ]
-            },
-            {
-                  "name": "Wasama Salon",
-                  "text": "Wasama Salon is a landscaped garden in Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.396325,
-                        31.447071
-                  ]
-            },
-            {
-                  "name": "Sukkar Building",
-                  "text": "The Sukkar Building is a multi-story building in the Al Maghazi camp.",
-                  "category": "landmark",
-                  "coords": [
-                        34.398294,
-                        31.443243
-                  ]
-            },
-            {
                   "name": "Al-Nabahin Family Diwan",
                   "text": "The Al-Nabahin Family Diwan is a meeting hall of the Al-Nabahin family in Al Maghazi.",
                   "category": "landmark",
@@ -34932,39 +26576,12 @@ export const palestineCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Sikka Street",
-                  "text": "Al-Sikka Street is a historic route in Al Maghazi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.397925,
-                        31.441894
-                  ]
-            },
-            {
                   "name": "Taka Towers",
                   "text": "Taka Towers are natural rock formations near Al Maghazi.",
                   "category": "natural",
                   "coords": [
                         34.426978,
                         31.448957
-                  ]
-            },
-            {
-                  "name": "Palm Village",
-                  "text": "Palm Village is a cluster of palm trees in Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.394787,
-                        31.437773
-                  ]
-            },
-            {
-                  "name": "20th Street",
-                  "text": "20th Street is a tree-lined street in Al Maghazi.",
-                  "category": "natural",
-                  "coords": [
-                        34.394149,
-                        31.445188
                   ]
             }
       ]

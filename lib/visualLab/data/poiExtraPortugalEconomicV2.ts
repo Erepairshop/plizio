@@ -409,42 +409,6 @@ export const portugalEconomicV2: POI[] = [
                         -8.930912,
                         39.751571
                   ]
-            },
-            {
-                  "name": "Baloiço do Forno da Telha",
-                  "text": "Eine beliebte Panorama-Schaukelattraktion mit Blick über das Gebiet von Marinha Grande.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.940636,
-                        39.760769
-                  ]
-            },
-            {
-                  "name": "Baloiço Pé Descalço",
-                  "text": "Eine malerische Freizeitattraktion in der Region Marinha Grande mit einer Panorama-Schaukel.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.961865,
-                        39.742036
-                  ]
-            },
-            {
-                  "name": "Guardião d'El Rei",
-                  "text": "Eine hundertjährige Kiefer im Nationalwald von Leiria, die als Naturdenkmal eingestuft ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.946361,
-                        39.754
-                  ]
-            },
-            {
-                  "name": "Antiga Vigia da Boavista",
-                  "text": "Ein historisches Küstenausguckgebäude bei Boavista im Gebiet von Marinha Grande.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.925076,
-                        39.759582
-                  ]
             }
       ],
       "hu": [
@@ -464,42 +428,6 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.930912,
                         39.751571
-                  ]
-            },
-            {
-                  "name": "Baloiço do Forno da Telha",
-                  "text": "Népszerű panorámás hinta, amely kilátást nyújt Marinha Grande környékére.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.940636,
-                        39.760769
-                  ]
-            },
-            {
-                  "name": "Baloiço Pé Descalço",
-                  "text": "Festői szabadidős attrakció Marinha Grande régiójában, egy panorámás hintával.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.961865,
-                        39.742036
-                  ]
-            },
-            {
-                  "name": "Guardião d'El Rei",
-                  "text": "Százéves fenyőfa a Leiria Nemzeti Erdőben, amelyet természeti emlékké nyilvánítottak.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.946361,
-                        39.754
-                  ]
-            },
-            {
-                  "name": "Antiga Vigia da Boavista",
-                  "text": "Történelmi parti figyelőépület Boavista közelében, Marinha Grande területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.925076,
-                        39.759582
                   ]
             }
       ],
@@ -521,42 +449,6 @@ export const portugalEconomicV2: POI[] = [
                         -8.930912,
                         39.751571
                   ]
-            },
-            {
-                  "name": "Baloiço do Forno da Telha",
-                  "text": "O atracție populară cu leagăn panoramic care oferă vedere asupra zonei Marinha Grande.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.940636,
-                        39.760769
-                  ]
-            },
-            {
-                  "name": "Baloiço Pé Descalço",
-                  "text": "O atracție pitorească de agrement din regiunea Marinha Grande, cu un leagăn panoramic.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.961865,
-                        39.742036
-                  ]
-            },
-            {
-                  "name": "Guardião d'El Rei",
-                  "text": "Un pin centenar din Pădurea Națională Leiria, clasificat ca monument al naturii.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.946361,
-                        39.754
-                  ]
-            },
-            {
-                  "name": "Antiga Vigia da Boavista",
-                  "text": "O clădire istorică de observație de coastă lângă Boavista, în zona Marinha Grande.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.925076,
-                        39.759582
-                  ]
             }
       ],
       "en": [
@@ -576,42 +468,6 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.930912,
                         39.751571
-                  ]
-            },
-            {
-                  "name": "Baloiço do Forno da Telha",
-                  "text": "A popular panoramic swing attraction offering views over the Marinha Grande area.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.940636,
-                        39.760769
-                  ]
-            },
-            {
-                  "name": "Baloiço Pé Descalço",
-                  "text": "A scenic leisure attraction in the Marinha Grande region featuring a panoramic swing.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.961865,
-                        39.742036
-                  ]
-            },
-            {
-                  "name": "Guardião d'El Rei",
-                  "text": "A centennial pine tree in the National Forest of Leiria, classified as a natural monument.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.946361,
-                        39.754
-                  ]
-            },
-            {
-                  "name": "Antiga Vigia da Boavista",
-                  "text": "A historic coastal lookout building near Boavista in the Marinha Grande area.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.925076,
-                        39.759582
                   ]
             }
       ]
@@ -1329,15 +1185,6 @@ export const portugalEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
-                  "text": "Ein ökologisch bedeutendes Flussdelta und Teil des Naturparks Litoral Norte.",
-                  "category": "natural",
-                  "coords": [
-                        -8.763226,
-                        41.511231
-                  ]
-            },
-            {
                   "name": "Praia Suave Mar (Norte)",
                   "text": "Ein beliebter Badestrand im nördlichen Teil von Esposende.",
                   "category": "recreational",
@@ -1362,15 +1209,6 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.79258,
                         41.544928
-                  ]
-            },
-            {
-                  "name": "Centro Social João Paulo II",
-                  "text": "Ein Gemeinschaftszentrum mit Schwimmbad in der Nähe der Fischereien von Esposende.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.783842,
-                        41.49548
                   ]
             },
             {
@@ -1430,15 +1268,6 @@ export const portugalEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
-                  "text": "Ökológiailag jelentős folyótorkolat, a Litoral Norte natúrpark része.",
-                  "category": "natural",
-                  "coords": [
-                        -8.763226,
-                        41.511231
-                  ]
-            },
-            {
                   "name": "Praia Suave Mar (Norte)",
                   "text": "Népszerű strand Esposende északi részén.",
                   "category": "recreational",
@@ -1463,15 +1292,6 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.79258,
                         41.544928
-                  ]
-            },
-            {
-                  "name": "Centro Social João Paulo II",
-                  "text": "Közösségi központ úszómedencével Esposende halászati övezetének közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.783842,
-                        41.49548
                   ]
             },
             {
@@ -1531,15 +1351,6 @@ export const portugalEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
-                  "text": "Un estuar de importanță ecologică, parte a Parcului Natural Litoral Norte.",
-                  "category": "natural",
-                  "coords": [
-                        -8.763226,
-                        41.511231
-                  ]
-            },
-            {
                   "name": "Praia Suave Mar (Norte)",
                   "text": "O plajă populară situată în partea de nord a orașului Esposende.",
                   "category": "recreational",
@@ -1564,15 +1375,6 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.79258,
                         41.544928
-                  ]
-            },
-            {
-                  "name": "Centro Social João Paulo II",
-                  "text": "Un centru comunitar cu piscină lângă zona de pescuit din Esposende.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.783842,
-                        41.49548
                   ]
             },
             {
@@ -1632,15 +1434,6 @@ export const portugalEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
-                  "text": "An ecologically significant estuary and part of the Litoral Norte Natural Park.",
-                  "category": "natural",
-                  "coords": [
-                        -8.763226,
-                        41.511231
-                  ]
-            },
-            {
                   "name": "Praia Suave Mar (Norte)",
                   "text": "A popular swimming beach located in the northern part of Esposende.",
                   "category": "recreational",
@@ -1665,15 +1458,6 @@ export const portugalEconomicV2: POI[] = [
                   "coords": [
                         -8.79258,
                         41.544928
-                  ]
-            },
-            {
-                  "name": "Centro Social João Paulo II",
-                  "text": "A community center with a swimming pool near the Esposende fisheries.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.783842,
-                        41.49548
                   ]
             },
             {

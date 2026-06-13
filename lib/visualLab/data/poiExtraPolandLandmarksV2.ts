@@ -402,15 +402,6 @@ export const polandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Informationszentrum und Einstiegsstelle für Floßfahrten auf dem Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
                   "name": "Miejsce dawnego dworu obronnego",
                   "text": "Stätte eines ehemaligen Wehrhofs aus dem 16. Jahrhundert nahe der Burg Niedzica.",
                   "category": "historical",
@@ -491,15 +482,6 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         20.333157,
                         49.437608
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Információs központ és a dunajeci tutajozás indulóállomása.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
                   ]
             },
             {
@@ -586,15 +568,6 @@ export const polandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Centru de informare și punct de plecare pentru plimbările cu pluta pe Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
                   "name": "Miejsce dawnego dworu obronnego",
                   "text": "Locul unui fost conac fortificat din secolul al XVI-lea lângă Castelul Niedzica.",
                   "category": "historical",
@@ -675,15 +648,6 @@ export const polandLandmarksV2: POI[] = [
                   "coords": [
                         20.333157,
                         49.437608
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Information center and starting point for rafting trips on the Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
                   ]
             },
             {

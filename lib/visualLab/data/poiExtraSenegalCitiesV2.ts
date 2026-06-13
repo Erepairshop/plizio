@@ -52,15 +52,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
     id: "pikine-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Foyer Culturel Hamo 4",
-                  "text": "Ein Kulturzentrum mit Ausstellungen in Pikine.",
-                  "category": "museum",
-                  "coords": [
-                        -17.38843,
-                        14.781225
-                  ]
-            },
-            {
                   "name": "Plage de Hann",
                   "text": "Die Plage de Hann säumt den Rand von Pikine und fungiert als lebendiger Küstenstreifen inmitten der geschäftigen Stadtlandschaft Senegals. Es erwartet Sie eine lebhafte, lokale Atmosphäre, in der das Stadtleben sanft in den Sand übergeht. Es ist ein erstklassiger Ort, um die alltäglichen Abläufe an der Küste zu beobachten, am Meer spazieren zu gehen oder die quirlige Energie der Gemeinschaft zu genießen. Ein Besuch am späten Nachmittag offenbart die leuchtenden Farben der untergehenden Sonne am Horizont.",
                   "category": "recreational",
@@ -76,24 +67,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
                   "coords": [
                         -17.408887,
                         14.759322
-                  ]
-            },
-            {
-                  "name": "Rond Point Mamelles",
-                  "text": "Ein Kreisverkehr mit einem Denkmal in Mamelles, Pikine.",
-                  "category": "historical",
-                  "coords": [
-                        -17.382503,
-                        14.776416
-                  ]
-            },
-            {
-                  "name": "Chez Nanda",
-                  "text": "Ein bekanntes Restaurant in Pikine.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.370934,
-                        14.78205
                   ]
             },
             {
@@ -117,15 +90,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Foyer Culturel Hamo 4",
-                  "text": "Egy kulturális központ kiállításokkal Pikine-ben.",
-                  "category": "museum",
-                  "coords": [
-                        -17.38843,
-                        14.781225
-                  ]
-            },
-            {
                   "name": "Plage de Hann",
                   "text": "A Plage de Hann Pikine szélén húzódik, élénk tengerparti sávként szolgálva Szenegál nyüzsgő városi tájában. Kellemes, helyi hangulatra számíthatunk, ahol a városi élet zökkenőmentesen olvad össze a homokos parttal. Kiváló helyszín a mindennapi parti teendők megfigyelésére, egy tengerparti sétára vagy a közösség pezsgő energiájának megtapasztalására. A késő délutáni látogatás során megcsodálhatjuk a lemenő nap ragyogó árnyalatait a horizonton.",
                   "category": "recreational",
@@ -141,24 +105,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
                   "coords": [
                         -17.408887,
                         14.759322
-                  ]
-            },
-            {
-                  "name": "Rond Point Mamelles",
-                  "text": "Egy körforgalom emlékművel Mamelles-ben, Pikine-ben.",
-                  "category": "historical",
-                  "coords": [
-                        -17.382503,
-                        14.776416
-                  ]
-            },
-            {
-                  "name": "Chez Nanda",
-                  "text": "Egy helyi nevezetesség, étterem Pikine-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.370934,
-                        14.78205
                   ]
             },
             {
@@ -182,15 +128,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Foyer Culturel Hamo 4",
-                  "text": "Un centru cultural cu expoziții în Pikine.",
-                  "category": "museum",
-                  "coords": [
-                        -17.38843,
-                        14.781225
-                  ]
-            },
-            {
                   "name": "Plage de Hann",
                   "text": "Plage de Hann mărginește periferia orașului Pikine, funcționând ca o fâșie de coastă plină de viață în peisajul urban aglomerat al Senegalului. Așteptați-vă la o atmosferă animată, locală, unde viața orașului se mută firesc pe nisip. Este un loc excelent pentru a observa rutina zilnică de coastă, pentru a face o plimbare pe malul mării sau pentru a vă bucura de energia vibrantă a comunității. Vizitarea în timpul după-amiezii târzii dezvăluie nuanțele vibrante ale soarelui care apune la orizont.",
                   "category": "recreational",
@@ -206,24 +143,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
                   "coords": [
                         -17.408887,
                         14.759322
-                  ]
-            },
-            {
-                  "name": "Rond Point Mamelles",
-                  "text": "Un sens giratoriu cu un monument în Mamelles, Pikine.",
-                  "category": "historical",
-                  "coords": [
-                        -17.382503,
-                        14.776416
-                  ]
-            },
-            {
-                  "name": "Chez Nanda",
-                  "text": "Un reper local, un restaurant în Pikine.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.370934,
-                        14.78205
                   ]
             },
             {
@@ -247,15 +166,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Foyer Culturel Hamo 4",
-                  "text": "A cultural center hosting exhibitions in Pikine.",
-                  "category": "museum",
-                  "coords": [
-                        -17.38843,
-                        14.781225
-                  ]
-            },
-            {
                   "name": "Hann beach",
                   "text": "Plage de Hann lines the edge of Pikine, functioning as a vibrant coastal strip within Senegal's bustling urban landscape. Expect a lively, localized atmosphere where city life smoothly transitions onto the sand. It is a prime spot for observing daily coastal routines, taking a seaside walk, or enjoying the lively energy of the community. Visiting during the late afternoon reveals the vibrant hues of the setting sun over the horizon.",
                   "category": "recreational",
@@ -271,24 +181,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
                   "coords": [
                         -17.408887,
                         14.759322
-                  ]
-            },
-            {
-                  "name": "Rond Point Mamelles",
-                  "text": "A roundabout with a monument at Mamelles in Pikine.",
-                  "category": "historical",
-                  "coords": [
-                        -17.382503,
-                        14.776416
-                  ]
-            },
-            {
-                  "name": "Chez Nanda",
-                  "text": "A local landmark restaurant in Pikine.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.370934,
-                        14.78205
                   ]
             },
             {
@@ -420,15 +312,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument Diambar",
-                  "text": "Das Monument Diambar ist ein historisches Denkmal in Thies.",
-                  "category": "historical",
-                  "coords": [
-                        -16.915623,
-                        14.775723
-                  ]
-            },
-            {
                   "name": "Manufacture Sénégalaise Des Arts Décoratifs",
                   "text": "Die Manufacture Sénégalaise Des Arts Décoratifs präsentiert senegalesisches Kunsthandwerk in Thies.",
                   "category": "cultural",
@@ -464,15 +347,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
                   "coords": [
                         -16.927513,
                         14.790615
-                  ]
-            },
-            {
-                  "name": "Monument Diambar",
-                  "text": "A Monument Diambar egy történelmi emlékmű Thiesben.",
-                  "category": "historical",
-                  "coords": [
-                        -16.915623,
-                        14.775723
                   ]
             },
             {
@@ -514,15 +388,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument Diambar",
-                  "text": "Monumentul Diambar este un monument istoric în Thies.",
-                  "category": "historical",
-                  "coords": [
-                        -16.915623,
-                        14.775723
-                  ]
-            },
-            {
                   "name": "Manufacture Sénégalaise Des Arts Décoratifs",
                   "text": "Manufacture Sénégalaise Des Arts Décoratifs expune meșteșugul senegalez în Thies.",
                   "category": "cultural",
@@ -558,15 +423,6 @@ export const poiExtraSenegalCitiesV2: POI[] = [
                   "coords": [
                         -16.927513,
                         14.790615
-                  ]
-            },
-            {
-                  "name": "Monument Diambar",
-                  "text": "Monument Diambar is a historical monument in Thies.",
-                  "category": "historical",
-                  "coords": [
-                        -16.915623,
-                        14.775723
                   ]
             },
             {

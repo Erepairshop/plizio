@@ -6,87 +6,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-kapetan-misa-palace-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Ein historischer, tiefer Schacht in der Belgrader Festung mit einer beeindruckenden Wendeltreppe.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Die Grundmauern der einstigen Residenz des serbischen Despoten Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Das Museum präsentiert die politische und kulturelle Entwicklung Serbiens durch die Jahrhunderte.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Eine Sammlung von Exponaten zur Geschichte und Technik des Eisenbahnwesens in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Das Museum im ehemaligen Apartment des Nobelpreisträgers zeigt persönliche Gegenstände und Manuskripte.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Gewidmet dem Leben und Werk des bedeutenden serbischen Malers Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Eine private Kunstgalerie, die moderne und zeitgenössische Werke serbischer Künstler ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Ein Museum über die Entwicklung des Post- und Fernmeldewesens in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Ein Gesundheitsclub und Schwimmbad in der Gegend von Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ein öffentliches Aquarium in Belgrad mit verschiedenen Fischen und Reptilien.",
                   "category": "recreational",
@@ -112,99 +31,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Der Belgrader Zoo, der sich in der historischen Festung Kalemegdan befindet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Egy történelmi, mély kút a belgrádi várban, lenyűgöző csigalépcsővel.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević szerb despota egykori rezidenciájának alapfalai.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "A múzeum Szerbia politikai és kulturális fejlődését mutatja be az évszázadok során.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Kiállítási tárgyak gyűjteménye a szerbiai vasút történetéről és technológiájáról.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "A Nobel-díjas író egykori lakásában található múzeum személyes tárgyakat és kéziratokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Paja Jovanović jelentős szerb festőművész életének és munkásságának szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Magánművészeti galéria, amely szerb művészek modern és kortárs alkotásait állítja ki.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Múzeum a szerbiai posta- és távközlési szolgáltatások fejlődéséről.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Egészségközpont és úszómedence Belgrád környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
             {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Belgrádi nyilvános akvárium, amely különféle halakat és hüllőket mutat be.",
@@ -244,87 +73,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "O fântână istorică adâncă în cetatea Belgradului, cu o scară în spirală impresionantă.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Fundatiile fostei reședințe a despotului sârb Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Muzeul prezintă dezvoltarea politică și culturală a Serbiei de-a lungul secolelor.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "O colecție de exponate despre istoria și tehnologia căilor ferate din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Muzeul din fostul apartament al laureatului Nobel expune obiecte personale și manuscrise.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Dedicat vieții și operei importantului pictor sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "O galerie de artă privată care expune lucrări moderne și contemporane ale artiștilor sârbi.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Un muzeu despre dezvoltarea serviciilor poștale și de telecomunicații din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Un club de sănătate și o piscină situată în zona Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Un acvariu public din Belgrad care prezintă diverși pești și reptile.",
                   "category": "recreational",
@@ -361,125 +109,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Roman Well",
-                  "text": "A historic, deep shaft in the Belgrade Fortress with an impressive spiral staircase.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "The foundations of the former residence of the Serbian Despot Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "The museum presents the political and cultural development of Serbia through the centuries.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "A collection of exhibits on the history and technology of railways in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "The museum in the former apartment of the Nobel laureate displays personal items and manuscripts.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "Dedicated to the life and work of the prominent Serbian painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "A private art gallery exhibiting modern and contemporary works by Serbian artists.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "A museum about the development of postal and telecommunication services in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A health club and swimming pool facility located in the Belgrade area.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "A public aquarium in Belgrade featuring various fish and reptiles.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "Dino Park Kalemegdan – Jura Avantura is a dinosaur park within Kalemegdan Fortress near Kapetan Miša Palace.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A river beach on the Great War Island in Belgrade, popular for summer recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "Belgrade's city zoo, situated within the historic Kalemegdan Fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "palace",
     parent: "RS",
@@ -528,87 +158,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-serbian-national-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Ein tiefer historischer Brunnen innerhalb der Festung Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Mittelalterliche Burgruine des Despoten Stefan Lazarević unweit des Serbischen Nationalmuseums in Belgrad.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Museum in Belgrad, das der Geschichte des serbischen Volkes gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Museum in Belgrad, das die Geschichte des Eisenbahnwesens in Serbien zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Gedenkmuseum für den Literaturnobelpreisträger Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ein Museum, das dem Leben und Werk des Malers Paja Jovanović gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ein privates Kunstmuseum in Belgrad mit zeitgenössischen Werken.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Museum zur Geschichte der Post, des Telegrafen und des Telefons in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Der Aqua Termal Club ist eine Schwimmbadanlage in der Nähe des Serbischen Nationalmuseums, die Erholung und Wasserspaß bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Dieses öffentliche Aquarium und Troparium in Belgrad präsentiert eine vielfältige Auswahl an Fischen, Reptilien und Amphibien.",
                   "category": "recreational",
@@ -634,99 +183,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Der 1936 gegründete Belgrader Zoo befindet sich in der Kalemegdan-Festung und beherbergt eine große Vielfalt an Tierarten.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Egy mély történelmi kút a belgrádi erődben.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević despota középkori várának romjai a Belgrádi Nemzeti Múzeum közelében.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Belgrádi múzeum, amelyet a szerb nép történelmének szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Belgrádi múzeum, amely a szerbiai vasút történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Emlékmúzeum Ivo Andrić Nobel-díjas író tiszteletére.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Paja Jovanović festőművész életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Magánkézben lévő művészeti múzeum Belgrádban, kortárs alkotásokkal.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "A szerbiai posta, távíró és telefon történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Az Aqua Termal Club egy úszómedencés létesítmény a Szerb Nemzeti Múzeum közelében, amely kikapcsolódást és vízi szórakozást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
             {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ez a belgrádi nyilvános akvárium és tropikárium halak, hüllők és kétéltűek széles választékát mutatja be.",
@@ -766,87 +225,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "O fântână istorică adâncă situată în incinta Cetății Belgradului.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Ruinele castelului medieval al despotului Stefan Lazarević, lângă Muzeul Național al Serbiei din Belgrad.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Muzeu din Belgrad dedicat istoriei poporului sârb.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Muzeu din Belgrad care prezintă istoria căilor ferate din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Muzeu memorial dedicat laureatului Premiului Nobel pentru Literatură, Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Un muzeu dedicat vieții și operei pictorului Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Un muzeu de artă privat din Belgrad care expune lucrări contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Muzeu dedicat istoriei poștei, telegrafului și telefonului din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Aqua Termal Club este o facilitate cu piscină situată lângă Muzeul Național al Serbiei, oferind relaxare și distracție acvatică.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Acest acvariu și tropicariu public din Belgrad prezintă o gamă diversă de pești, reptile și amfibieni.",
                   "category": "recreational",
@@ -883,125 +261,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Roman Well",
-                  "text": "A deep historic well located within the Belgrade Fortress.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Medieval castle ruins of Despot Stefan Lazarević near the Serbian National Museum in Belgrade.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "Museum in Belgrade dedicated to the history of the Serbian people.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Museum in Belgrade showcasing the history of railways in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "Memorial museum dedicated to the Nobel Prize-winning author Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "A museum dedicated to the life and work of the painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "A private art museum in Belgrade featuring contemporary works.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "Museum dedicated to the history of post, telegraph, and telephone in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Aqua Termal Club is a swimming pool facility located near the National Museum of Serbia, offering relaxation and water fun.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "This public aquarium and tropicarium in Belgrade features a diverse range of fish, reptiles, and amphibians.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "Dino Park Kalemegdan features life-sized dinosaur models and educational stations within Belgrade's historic fortress area.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "Lido is a popular beach area on the Danube in Belgrade's Zemun district, attracting visitors for swimming during summer.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "Founded in 1936, the Belgrade Zoo is located within the Kalemegdan fortress and is home to a wide variety of animal species.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "museum",
     parent: "RS",
@@ -1059,48 +319,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reichl Palast",
-                  "text": "Ein prächtiger Jugendstil-Palast in Subotica, entworfen vom Architekten Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Das Stadtmuseum von Subotica, das Exponate zur lokalen Geschichte und Kunst zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Ein spezialisiertes Museum in Subotica, das eine Sammlung wertvoller Porzellanstücke ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
                   "name": "Gradska kutsha",
                   "text": "Das monumentale Rathaus von Subotica, ein Meisterwerk des ungarischen Jugendstils.",
                   "category": "landmark",
                   "coords": [
                         19.664552,
                         46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Ein Kulturzentrum in Subotica, das sich der Bewahrung der Bunjewatzen-Traditionen widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
                   ]
             },
             {
@@ -1124,48 +348,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palata Rajkhl",
-                  "text": "Szabadka impozáns szecessziós palotája, melyet Raichle Ferenc építész tervezett.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Szabadkai Városi Múzeum",
-                  "text": "Szabadka városi múzeuma, amely a helyi történelmet és művészetet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Speciális múzeum Szabadkán, amely értékes porcelángyűjteményt mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
                   "name": "Városháza",
                   "text": "Szabadka monumentális városháza, a magyar szecessziós építészet remekműve.",
                   "category": "landmark",
                   "coords": [
                         19.664552,
                         46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Szabadkai kulturális központ, amely a bunyevác hagyományok ápolásával foglalkozik.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
                   ]
             },
             {
@@ -1189,48 +377,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palata Rajkhl",
-                  "text": "Un splendid palat în stil Secession din Subotica, proiectat de arhitectul Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Muzeul orașului Subotica, ce prezintă exponate legate de istoria și arta locală.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Un muzeu specializat din Subotica care expune o colecție de porțelanuri valoroase.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
                   "name": "Gradska kutsha",
                   "text": "Primăria monumentală din Subotica, o capodoperă a stilului Secession maghiar.",
                   "category": "landmark",
                   "coords": [
                         19.664552,
                         46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Centru cultural din Subotica dedicat păstrării tradițiilor comunității bunjevac.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
                   ]
             },
             {
@@ -1254,48 +406,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reichl Palace",
-                  "text": "A magnificent Art Nouveau palace in Subotica, designed by architect Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Subotica City Museum",
-                  "text": "The City Museum of Subotica, showcasing exhibits on local history and art.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "A specialized museum in Subotica displaying a collection of valuable porcelain.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
                   "name": "Town hall",
                   "text": "The monumental Town Hall of Subotica, a masterpiece of Hungarian Art Nouveau.",
                   "category": "landmark",
                   "coords": [
                         19.664552,
                         46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "A cultural center in Subotica dedicated to preserving the traditions of the Bunjevci community.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
                   ]
             },
             {
@@ -1662,15 +778,6 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik Uznesenje",
-                  "text": "Ein Gedenkmonument im Gedenkpark „Kragujevacer Oktober“.",
-                  "category": "historical",
-                  "coords": [
-                        20.918572,
-                        44.012422
-                  ]
-            },
-            {
                   "name": "Spomenik ,,Protiv zla\"",
                   "text": "Eine Gedenkskulptur im Gedenkpark „Kragujevacer Oktober“.",
                   "category": "historical",
@@ -1698,30 +805,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoo vrt Ilina voda",
-                  "text": "Ein Zoo in der Nähe des alten Parlamentsgebäudes in Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.941846,
-                        44.017003
-                  ]
-            },
-            {
                   "name": "Otvoreni bazeni",
                   "text": "Freibäder und Wasserpark nahe dem alten Parlament in Kragujevac.",
                   "category": "recreational",
                   "coords": [
                         20.902542,
                         44.019995
-                  ]
-            },
-            {
-                  "name": "Vojni bazen",
-                  "text": "Ein Schwimmbad in der Nähe des historischen Parlamentsgebäudes von Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.910325,
-                        44.009807
                   ]
             }
       ],
@@ -1733,15 +822,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.894361,
                         44.021312
-                  ]
-            },
-            {
-                  "name": "Spomenik Uznesenje",
-                  "text": "Emlékmű a Kragujevaci Október Emlékpark területén.",
-                  "category": "historical",
-                  "coords": [
-                        20.918572,
-                        44.012422
                   ]
             },
             {
@@ -1772,30 +852,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoo vrt Ilina voda",
-                  "text": "Állatkert Kragujevacban, a régi parlament épületének közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.941846,
-                        44.017003
-                  ]
-            },
-            {
                   "name": "Otvoreni bazeni",
                   "text": "Szabadtéri medencék és vízi park Kragujevac régi parlamentje közelében.",
                   "category": "recreational",
                   "coords": [
                         20.902542,
                         44.019995
-                  ]
-            },
-            {
-                  "name": "Vojni bazen",
-                  "text": "Úszómedence Kragujevac történelmi parlamentjének közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.910325,
-                        44.009807
                   ]
             }
       ],
@@ -1807,15 +869,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.894361,
                         44.021312
-                  ]
-            },
-            {
-                  "name": "Spomenik Uznesenje",
-                  "text": "Un monument memorial situat în Parcul Memorial Octombrie din Kragujevac.",
-                  "category": "historical",
-                  "coords": [
-                        20.918572,
-                        44.012422
                   ]
             },
             {
@@ -1846,30 +899,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoo vrt Ilina voda",
-                  "text": "O grădină zoologică lângă vechea clădire a Parlamentului din Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.941846,
-                        44.017003
-                  ]
-            },
-            {
                   "name": "Otvoreni bazeni",
                   "text": "Piscine în aer liber și parc acvatic lângă vechiul parlament din Kragujevac.",
                   "category": "recreational",
                   "coords": [
                         20.902542,
                         44.019995
-                  ]
-            },
-            {
-                  "name": "Vojni bazen",
-                  "text": "O piscină situată lângă clădirea istorică a Parlamentului din Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.910325,
-                        44.009807
                   ]
             }
       ],
@@ -1881,15 +916,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.894361,
                         44.021312
-                  ]
-            },
-            {
-                  "name": "Monument \"Ascension\"",
-                  "text": "A memorial monument located within the Kragujevac October Memorial Park.",
-                  "category": "historical",
-                  "coords": [
-                        20.918572,
-                        44.012422
                   ]
             },
             {
@@ -1920,30 +946,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoo vrt Ilina voda",
-                  "text": "A zoo located near the Old Parliament Building in Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.941846,
-                        44.017003
-                  ]
-            },
-            {
                   "name": "Otvoreni bazeni",
                   "text": "Open-air swimming pools and water park near the Old Parliament in Kragujevac.",
                   "category": "recreational",
                   "coords": [
                         20.902542,
                         44.019995
-                  ]
-            },
-            {
-                  "name": "Vojni bazen",
-                  "text": "A swimming pool located near the historic Parliament building in Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.910325,
-                        44.009807
                   ]
             }
       ]
@@ -1995,24 +1003,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-stari-dvor-belgrade-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Ein rätselhafter historischer Brunnen in der Festung von Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Überreste der mittelalterlichen Burg aus dem 15. Jahrhundert, erbaut von Despot Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
                   "name": "Istorijski muzej Srbije",
                   "text": "Ein Museum in Belgrad, das der reichen politischen und kulturellen Geschichte Serbiens gewidmet ist.",
                   "category": "museum",
@@ -2022,57 +1012,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zheleznichki muzej",
-                  "text": "Dieses Museum zeigt die Geschichte und Entwicklung des Eisenbahnsystems in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ein Museum, das dem Leben und Werk des Literaturnobelpreisträgers Ivo Andrić gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ein Museum, das Werke und persönliche Gegenstände des berühmten serbischen Malers Paja Jovanović zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ein privates Kunstmuseum in Belgrad mit einer bedeutenden Sammlung zeitgenössischer serbischer Werke.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
                   "name": "PTT muzej",
                   "text": "Ein Museum, das die Geschichte der Post-, Telegrafen- und Telefondienste in Serbien dokumentiert.",
                   "category": "museum",
                   "coords": [
                         20.468044,
                         44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Eine Wellness- und Schwimmeinrichtung in der Nähe des Alten Palastes in Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -2101,36 +1046,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Einer der ältesten Zoos in Europa, gelegen im Kalemegdan-Park in Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Rejtélyes történelmi kút a belgrádi vár területén.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Despota Stefan Lazarević 15. századi középkori várának maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
             {
                   "name": "Istorijski muzej Srbije",
                   "text": "Szerbia gazdag politikai és kulturális történelmének szentelt múzeum Belgrádban.",
@@ -2141,57 +1059,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zheleznichki muzej",
-                  "text": "A szerbiai vasúti rendszer történetét és fejlődését bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Az irodalmi Nobel-díjas író, Ivo Andrić életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "A neves szerb festő, Paja Jovanović műveit és személyes tárgyait bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Magánmúzeum Belgrádban, amely a kortárs szerb művészet jelentős gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
                   "name": "PTT muzej",
                   "text": "A szerbiai posta-, távíró- és telefonszolgáltatások történetét dokumentáló múzeum.",
                   "category": "museum",
                   "coords": [
                         20.468044,
                         44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Wellness- és úszólétesítmény a belgrádi Régi palota közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -2233,24 +1106,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "O fântână istorică enigmatică situată în Cetatea Belgradului.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Ruinele castelului medieval din secolul al XV-lea construit de despotul Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
                   "name": "Istorijski muzej Srbije",
                   "text": "Un muzeu din Belgrad dedicat istoriei politice și culturale bogate a Serbiei.",
                   "category": "museum",
@@ -2260,57 +1115,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zheleznichki muzej",
-                  "text": "Acest muzeu prezintă istoria și dezvoltarea sistemului feroviar din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Un muzeu dedicat vieții și operei scriitorului laureat al Premiului Nobel, Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Un muzeu care prezintă lucrările și obiectele personale ale renumitului pictor sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Un muzeu privat din Belgrad care găzduiește o colecție semnificativă de artă sârbă contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
                   "name": "PTT muzej",
                   "text": "Un muzeu care documentează istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
                   "category": "museum",
                   "coords": [
                         20.468044,
                         44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "O facilitate de wellness și înot situată lângă Palatul Vechi din Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -2352,24 +1162,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Roman Well",
-                  "text": "An enigmatic historic well located within the Belgrade Fortress.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Ruins of the 15th-century medieval castle built by Despot Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
                   "name": "Historical Museum of Serbia",
                   "text": "A museum in Belgrade dedicated to the rich political and cultural history of Serbia.",
                   "category": "museum",
@@ -2379,93 +1171,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Railway Museum",
-                  "text": "This museum showcases the history and development of the railway system in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "A museum dedicated to the life and work of the Nobel Prize-winning writer Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "A museum showcasing the works and personal items of the renowned Serbian painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "A private art museum in Belgrade featuring a significant collection of contemporary Serbian works.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
                   "name": "PTT Museum",
                   "text": "A museum documenting the history of postal, telegraph, and telephone services in Serbia.",
                   "category": "museum",
                   "coords": [
                         20.468044,
                         44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A wellness and swimming facility located near the Old Palace in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "A Belgrade aquarium displaying diverse species of fish, reptiles, and amphibians.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress area.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A popular river beach on the Great War Island in the Danube, accessible from Zemun.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan park in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
                   ]
             }
       ]
@@ -2560,33 +1271,6 @@ export const serbiaLandmarksV2: POI[] = [
                         21.888705,
                         43.330592
                   ]
-            },
-            {
-                  "name": "Dečiji Lunapark",
-                  "text": "Ein Kindervergnügungspark in der Nähe der historischen Festung von Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.920801,
-                        43.334685
-                  ]
-            },
-            {
-                  "name": "Mali bazen Chair",
-                  "text": "Ein kleines Schwimmbad im Chair-Park nahe der Festung Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.908558,
-                        43.313201
-                  ]
-            },
-            {
-                  "name": "Vrezhinski bazen",
-                  "text": "Ein Schwimmbad in Niš, in der Nähe der historischen Festung.",
-                  "category": "recreational",
-                  "coords": [
-                        21.945438,
-                        43.321038
-                  ]
             }
       ],
       "hu": [
@@ -2633,33 +1317,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         21.888705,
                         43.330592
-                  ]
-            },
-            {
-                  "name": "Dečiji Lunapark",
-                  "text": "A történelmi nisi erőd közelében található gyermekvidámpark.",
-                  "category": "recreational",
-                  "coords": [
-                        21.920801,
-                        43.334685
-                  ]
-            },
-            {
-                  "name": "Mali bazen Chair",
-                  "text": "Kis úszómedence a Chair parkban, a niši erőd közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.908558,
-                        43.313201
-                  ]
-            },
-            {
-                  "name": "Vrezhinski bazen",
-                  "text": "Úszómedence Nišben, a történelmi erőd közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.945438,
-                        43.321038
                   ]
             }
       ],
@@ -2708,33 +1365,6 @@ export const serbiaLandmarksV2: POI[] = [
                         21.888705,
                         43.330592
                   ]
-            },
-            {
-                  "name": "Dečiji Lunapark",
-                  "text": "Un parc de distracții pentru copii situat lângă cetatea istorică Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.920801,
-                        43.334685
-                  ]
-            },
-            {
-                  "name": "Mali bazen Chair",
-                  "text": "O piscină mică în parcul Chair, lângă Cetatea Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.908558,
-                        43.313201
-                  ]
-            },
-            {
-                  "name": "Vrezhinski bazen",
-                  "text": "O piscină în Niš, situată lângă cetatea istorică.",
-                  "category": "recreational",
-                  "coords": [
-                        21.945438,
-                        43.321038
-                  ]
             }
       ],
       "en": [
@@ -2781,33 +1411,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         21.888705,
                         43.330592
-                  ]
-            },
-            {
-                  "name": "Dečiji Lunapark",
-                  "text": "A children's amusement park located near the historic Niš Fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        21.920801,
-                        43.334685
-                  ]
-            },
-            {
-                  "name": "Mali bazen Chair",
-                  "text": "A small swimming pool in Chair Park, near the Niš Fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        21.908558,
-                        43.313201
-                  ]
-            },
-            {
-                  "name": "Vrezhinski bazen",
-                  "text": "A swimming pool in Niš, located near the historic fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        21.945438,
-                        43.321038
                   ]
             }
       ]
@@ -2859,84 +1462,12 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-kralj-petar-statue-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Der Römische Brunnen ist eine historische Sehenswürdigkeit in der Belgrader Festung.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Mittelalterliche Burgruine des Despoten Stefan Lazarević nahe der Kralj-Petar-Statue in Belgrad.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Dieses Museum in Belgrad widmet sich der reichen Geschichte Serbiens von der Antike bis zur Gegenwart.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Ein Museum, das die technische Entwicklung und das Erbe des serbischen Eisenbahnwesens dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Die ehemalige Wohnung des Nobelpreisträgers Ivo Andrić dient heute als Gedenkstätte für sein Leben und Werk.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ein Museum in Belgrad, das dem Leben und den Werken des bedeutenden serbischen Realisten Paja Jovanović gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
                   "name": "Muzej Tsepter",
                   "text": "Ein privates Museum für moderne Kunst, das eine bedeutende Sammlung serbischer und internationaler Werke zeigt.",
                   "category": "museum",
                   "coords": [
                         20.455944,
                         44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Dieses Museum zeigt die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Ein moderner Schwimmclub in Belgrad mit Einrichtungen für Freizeit- und Sportschwimmen.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -2965,72 +1496,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Der Zoo bietet Besuchern die Möglichkeit, seltene Tiere im Herzen der serbischen Hauptstadt zu sehen.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "A Római kút egy történelmi látványosság a belgrádi erődben.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević despota középkori várának romjai a Kralj Petar-szobor közelében, Belgrádban.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Ez a belgrádi múzeum Szerbia gazdag történelmét mutatja be az ókortól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "A szerb vasúti közlekedés technikai fejlődését és örökségét dokumentáló múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ivo Andrić Nobel-díjas író egykori lakása ma életét és munkásságát bemutató emlékhely.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Belgrádi múzeum, amely a jelentős szerb realista festő, Paja Jovanović életének és műveinek állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
             {
                   "name": "Muzej Tsepter",
                   "text": "Magán modern művészeti múzeum, amely jelentős szerb és nemzetközi alkotásokat mutat be.",
@@ -3038,24 +1506,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.455944,
                         44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Ez a múzeum a szerbiai posta, távíró és telefon történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Modern belgrádi úszóklub szabadidős és versenysportolási lehetőségekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -3097,84 +1547,12 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "Fântâna Romană este o atracție istorică din interiorul cetății Belgradului.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Ruinele castelului medieval al despotului Stefan Lazarević, lângă statuia regelui Petar I din Belgrad.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Acest muzeu din Belgrad este dedicat istoriei bogate a Serbiei, din antichitate până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Un muzeu care documentează dezvoltarea tehnică și moștenirea sistemului feroviar sârb.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Fosta locuință a laureatului premiului Nobel Ivo Andrić servește astăzi ca memorial dedicat vieții și operei sale.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Un muzeu din Belgrad dedicat vieții și operelor importantului pictor realist sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
                   "name": "Muzej Tsepter",
                   "text": "Un muzeu privat de artă modernă care expune o colecție importantă de lucrări sârbești și internaționale.",
                   "category": "museum",
                   "coords": [
                         20.455944,
                         44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Acest muzeu prezintă istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Un club de înot modern în Belgrad cu facilități pentru înot recreativ și sportiv.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -3216,120 +1594,12 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Roman Well",
-                  "text": "The Roman Well is a historic attraction located within the Belgrade Fortress.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Medieval castle ruins of Despot Stefan Lazarević near the Kralj Petar Statue in Belgrade.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "This museum in Belgrade is dedicated to the rich history of Serbia from antiquity to the present day.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "A museum documenting the technical development and heritage of the Serbian railway system.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "The former apartment of Nobel laureate Ivo Andrić now serves as a memorial to his life and work.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "A museum in Belgrade dedicated to the life and works of the prominent Serbian realist painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
                   "name": "Zepter Museum",
                   "text": "A private modern art museum showcasing a significant collection of Serbian and international works.",
                   "category": "museum",
                   "coords": [
                         20.455944,
                         44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "This museum showcases the history of postal, telegraph, and telephone services in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A modern swimming club in Belgrade with facilities for leisure and competitive swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "This center displays exotic aquatic animals and is a popular destination for families.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A dinosaur-themed park in Belgrade offering educational entertainment for children.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A sandy beach on the Danube, considered an important recreational area in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "The zoo offers visitors a chance to see rare animals in the heart of the Serbian capital.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
                   ]
             }
       ]
@@ -3379,266 +1649,10 @@ export const serbiaLandmarksV2: POI[] = [
   },
   {
     id: "serbia-subotica-synagogue-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Das prächtige Nationaltheater in Subotica, bekannt für seine klassizistische Architektur mit markanten Säulen.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palast",
-                  "text": "Ein prunkvolles Jugendstil-Palais in Subotica, entworfen vom Architekten Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Das Stadtmuseum von Subotica, das in einem historischen Gebäude wertvolle Sammlungen zur Region zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Ein spezialisiertes Museum in Subotica, das der Kunst und Geschichte der Porzellanherstellung gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Das Rathaus von Subotica ist ein Meisterwerk des ungarischen Jugendstils und Wahrzeichen der Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Ein Kulturzentrum in Subotica, das sich der Bewahrung und Förderung der bunjewatzischen Kultur widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Ein Denkmal zu Ehren von Ivan Sarić, einem Pionier der Luftfahrt aus Subotica.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Szabadkai Népszínház",
-                  "text": "A szabadkai Nemzeti Színház impozáns épülete, amely klasszicista oszlopsoráról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Pompás szecessziós palota Szabadkán, amelyet Raichle Ferenc építész tervezett.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Szabadkai Városi Múzeum",
-                  "text": "Szabadka városi múzeuma, amely egy történelmi épületben mutatja be a régió értékes gyűjteményeit.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Szabadkai szakmúzeum, amelyet a porcelánkészítés művészetének és történetének szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Városháza",
-                  "text": "Szabadka városházája a magyar szecesszió remekműve és a város jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Szabadkai kulturális központ, amely a bunyevác kultúra megőrzésével és népszerűsítésével foglalkozik.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Szárits János emlékműve",
-                  "text": "Sarić János, a szabadkai repülés úttörője tiszteletére emelt emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Teatrul Național din Subotica, o clădire grandioasă cunoscută pentru coloanele sale clasiciste.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Un palat somptuos în stil Art Nouveau din Subotica, proiectat de arhitectul Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Muzeul orașului Subotica, care expune colecții valoroase despre regiune într-o clădire istorică.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Un muzeu specializat din Subotica, dedicat artei și istoriei fabricării porțelanului.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Primăria din Subotica este o capodoperă a stilului Art Nouveau maghiar și un simbol al orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Un centru cultural din Subotica dedicat conservării și promovării culturii bunjevačke.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Un monument ridicat în cinstea lui Ivan Sarić, un pionier al aviației din Subotica.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Subotica National Theatre",
-                  "text": "The Subotica National Theatre, a grand building known for its Classicist columns.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palace",
-                  "text": "A magnificent Art Nouveau palace in Subotica, designed by architect Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Subotica City Museum",
-                  "text": "The Subotica City Museum, showcasing valuable regional collections in a historic building.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "A specialized museum in Subotica dedicated to the art and history of porcelain making.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Town hall",
-                  "text": "The Subotica Town Hall is a masterpiece of Hungarian Art Nouveau and a landmark of the city.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "A cultural centre in Subotica dedicated to preserving and promoting Bunjevac culture.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Ivan Sarić Monument",
-                  "text": "A monument honoring Ivan Sarić, an aviation pioneer from Subotica.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "RS",
@@ -3912,30 +1926,12 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-subotica-raichle-palace-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Ein ikonisches Theatergebäude in Subotica mit einer monumentalen neoklassizistischen Fassade.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
                   "name": "Reichl Palast",
                   "text": "Ein prächtiger Jugendstil-Palast in Subotica, in dem eine Galerie für moderne Kunst untergebracht ist.",
                   "category": "castle",
                   "coords": [
                         19.66865,
                         46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Ein Museum, das das archäologische, historische und künstlerische Erbe von Subotica zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
                   ]
             },
             {
@@ -3948,15 +1944,6 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gradska kutsha",
-                  "text": "Ein Meisterwerk des ungarischen Jugendstils und das Wahrzeichen von Subotica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
                   "name": "Bunjevački kulturni centar",
                   "text": "Ein Kulturzentrum in Subotica, das sich der Bewahrung des Erbes der Bunjewatzen widmet.",
                   "category": "cultural",
@@ -3964,27 +1951,9 @@ export const serbiaLandmarksV2: POI[] = [
                         19.670912,
                         46.100806
                   ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Ein Denkmal in Subotica für den lokalen Luftfahrtpionier Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Szabadkai Népszínház",
-                  "text": "Szabadkai színházépület monumentális neoklasszicista homlokzattal.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
             {
                   "name": "Palata Rajkhl",
                   "text": "Egy pompás szecessziós palota Szabadkán, amely modern művészeti galériának ad otthont.",
@@ -3992,15 +1961,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         19.66865,
                         46.10151
-                  ]
-            },
-            {
-                  "name": "Szabadkai Városi Múzeum",
-                  "text": "Szabadka régészeti, történelmi és művészeti örökségét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
                   ]
             },
             {
@@ -4013,15 +1973,6 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Városháza",
-                  "text": "A magyar szecesszió remekműve és Szabadka jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
                   "name": "Bunjevački kulturni centar",
                   "text": "A bunyevác népcsoport örökségének megőrzését szolgáló kulturális központ Szabadkán.",
                   "category": "cultural",
@@ -4029,27 +1980,9 @@ export const serbiaLandmarksV2: POI[] = [
                         19.670912,
                         46.100806
                   ]
-            },
-            {
-                  "name": "Szárits János emlékműve",
-                  "text": "Emlékmű Szabadkán, amelyet a helyi repülés úttörőjének, Sarić Ivánnak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "O clădire emblematică de teatru din Subotica, cu o fațadă neoclasică monumentală.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
             {
                   "name": "Palata Rajkhl",
                   "text": "Un palat Art Nouveau magnific din Subotica, care găzduiește o galerie de artă modernă.",
@@ -4057,15 +1990,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         19.66865,
                         46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Un muzeu care prezintă moștenirea arheologică, istorică și artistică a orașului Subotica.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
                   ]
             },
             {
@@ -4078,15 +2002,6 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gradska kutsha",
-                  "text": "O capodoperă a stilului Art Nouveau maghiar, servind drept simbol al orașului Subotica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
                   "name": "Bunjevački kulturni centar",
                   "text": "Un centru cultural dedicat conservării moștenirii poporului bunjevac din Subotica.",
                   "category": "cultural",
@@ -4094,27 +2009,9 @@ export const serbiaLandmarksV2: POI[] = [
                         19.670912,
                         46.100806
                   ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Un monument în Subotica dedicat pionierului aviației locale Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Subotica National Theatre",
-                  "text": "An iconic theater building in Subotica with a monumental neoclassical facade.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
             {
                   "name": "Reichl Palace",
                   "text": "A magnificent Art Nouveau palace in Subotica, housing a modern art gallery.",
@@ -4122,15 +2019,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         19.66865,
                         46.10151
-                  ]
-            },
-            {
-                  "name": "Subotica City Museum",
-                  "text": "A museum showcasing the archaeological, historical, and artistic heritage of Subotica.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
                   ]
             },
             {
@@ -4143,30 +2031,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town hall",
-                  "text": "A masterpiece of Hungarian Art Nouveau, serving as the landmark of Subotica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
                   "name": "Bunjevački kulturni centar",
                   "text": "A cultural center dedicated to preserving the heritage of the Bunjevci people in Subotica.",
                   "category": "cultural",
                   "coords": [
                         19.670912,
                         46.100806
-                  ]
-            },
-            {
-                  "name": "Ivan Sarić Monument",
-                  "text": "A monument in Subotica dedicated to the local aviation pioneer Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
                   ]
             }
       ]
@@ -4218,87 +2088,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-belgrade-ethnographic-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Ein geheimnisvoller historischer tiefer Brunnen in der Belgrader Festung Kalemegdan, der trotz seines Namens vermutlich im 18. Jahrhundert erbaut wurde.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Die archäologischen Überreste der mittelalterlichen Burg, die Despot Stefan Lazarević im 15. Jahrhundert errichten ließ.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Ein Museum, das der Bewahrung und Präsentation der nationalen Geschichte und des kulturellen Erbes Serbiens gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Ein Museum in Belgrad, das die Entwicklung des Eisenbahnsystems und historische Lokomotiven in Serbien zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ein Gedenkmuseum in der ehemaligen Wohnung von Ivo Andrić, dem jugoslawischen Nobelpreisträger für Literatur.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ein Museum, das dem Leben und Werk von Paja Jovanović gewidmet ist, einem der berühmtesten realistischen Maler Serbiens.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ein privates Kunstmuseum in Belgrad mit Werken moderner serbischer und internationaler Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Ein Museum, das die Geschichte der Post-, Telegrafen- und Telefondienste in Serbien erkundet.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Der Aqua Termal Club bietet Thermalwasser-Erholung nahe dem Ethnografischen Museum Belgrads.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ein öffentliches Aquarium in Belgrad mit verschiedenen Fischen und Reptilien.",
                   "category": "recreational",
@@ -4324,99 +2113,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Der Belgrader Zoo, der sich in der historischen Festung Kalemegdan befindet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Rejtélyes történelmi mély kút a belgrádi Kalemegdan erődben, amelyet neve ellenére valószínűleg a 18. században építettek.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević despota által a 15. században építtetett középkori vár régészeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Szerbia nemzeti történelmének és kulturális örökségének megőrzésére és bemutatására szolgáló múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Belgrádi múzeum, amely a vasúti rendszer fejlődését és a történelmi mozdonyokat mutatja be Szerbiában.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Emlékmúzeum Ivo Andrić Nobel-díjas jugoszláv író egykori lakásában.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Paja Jovanović, az egyik leghíresebb szerb realista festő életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Magánkézben lévő művészeti múzeum Belgrádban, amely modern szerb és nemzetközi művészek alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Szerbia postai, távíró- és telefonszolgáltatásainak történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Az Aqua Termal Club termálvizes kikapcsolódást kínál a Belgrádi Néprajzi Múzeum közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
             {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Belgrádi nyilvános akvárium, amely különféle halakat és hüllőket mutat be.",
@@ -4456,87 +2155,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "O fântână adâncă istorică misterioasă din Cetatea Kalemegdan din Belgrad, care, în ciuda numelui, a fost probabil construită în secolul al XVIII-lea.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Rămășițele arheologice ale castelului medieval construit de despotul Stefan Lazarević în secolul al XV-lea.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Un muzeu dedicat conservării și prezentării istoriei naționale și moștenirii culturale a Serbiei.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Un muzeu din Belgrad care prezintă dezvoltarea sistemului feroviar și locomotivele istorice din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Un muzeu memorial situat în fostul apartament al lui Ivo Andrić, romancierul iugoslav laureat al Premiului Nobel.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Un muzeu dedicat vieții și operei lui Paja Jovanović, unul dintre cei mai faimoși pictori realiști din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Un muzeu de artă privat din Belgrad, care prezintă lucrări ale artiștilor sârbi și internaționali moderni.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Un muzeu care explorează istoria serviciilor poștale, de telegraf și de telefonie din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Aqua Termal Club oferă recreere cu ape termale lângă Muzeul Etnografic din Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Un acvariu public din Belgrad care prezintă diverși pești și reptile.",
                   "category": "recreational",
@@ -4573,125 +2191,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Roman Well",
-                  "text": "A mysterious historic deep well in Belgrade's Kalemegdan Fortress, despite the name, likely built in the 18th century.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "The archaeological remains of the medieval castle built by Despot Stefan Lazarević in the 15th century.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "A museum dedicated to the preservation and presentation of Serbia's national history and cultural heritage.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "A museum in Belgrade showcasing the development of the railway system and historic locomotives in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "A memorial museum located in the former apartment of Ivo Andrić, the Nobel Prize-winning Yugoslav novelist.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "A museum dedicated to the life and work of Paja Jovanović, one of Serbia's most famous realistic painters.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "A private art museum in Belgrade featuring works by modern Serbian and international artists.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "A museum exploring the history of postal, telegraph, and telephone services in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Aqua Termal Club offers thermal water recreation near the Ethnographic Museum in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "A public aquarium in Belgrade featuring various fish and reptiles.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "Dino Park Kalemegdan – Jura Avantura is located near the Ethnographic Museum in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A river beach on the Great War Island in Belgrade, popular for summer recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "Belgrade's city zoo, situated within the historic Kalemegdan Fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "museum",
     parent: "RS",
@@ -4920,87 +2420,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-belgrade-terazije-fountain-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Ein tiefer und geheimnisvoller Brunnen innerhalb der Festung Belgrad, der aus dem 18. Jahrhundert stammt.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Archäologische Überreste der mittelalterlichen Residenz von Despot Stefan Lazarević in Belgrad.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Das Museum präsentiert die reiche politische und kulturelle Geschichte Serbiens von der Antike bis heute.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Ein Museum in Belgrad, das die Entwicklung des Schienenverkehrs und historischer Lokomotiven dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Das Gedenkmuseum für den Literaturnobelpreisträger Ivo Andrić in seiner ehemaligen Belgrader Wohnung.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ein Museum, das dem Leben und Werk des berühmten serbischen Malers Paja Jovanović gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ein privates Kunstmuseum in Belgrad, das Werke der modernen und zeitgenössischen serbischen Kunst ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Das Postmuseum in Belgrad zeigt die Geschichte des Post- und Telekommunikationswesens in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Eine Wellness- und Schwimmeinrichtung in der Nähe des Terazije-Brunnens in Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ein Belgrader Aquarium, das verschiedene Fisch-, Reptilien- und Amphibienarten zeigt.",
                   "category": "recreational",
@@ -5026,99 +2445,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Einer der ältesten Zoos in Europa, gelegen im Kalemegdan-Park in Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Mély és rejtélyes kút a belgrádi várban, amely a 18. századból származik.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević despota középkori belgrádi rezidenciájának régészeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "A múzeum Szerbia gazdag politikai és kulturális történelmét mutatja be az ókortól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Belgrádi múzeum, amely a vasúti közlekedés és a történelmi mozdonyok fejlődését dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Andrić Ivo Nobel-díjas író emlékmúzeuma egykori belgrádi lakásában.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "A híres szerb festőművész, Paja Jovanović életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Belgrádi magánművészeti múzeum, amely modern és kortárs szerb képzőművészeti alkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "A belgrádi postamúzeum Szerbia posta- és távközlési történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Wellness- és úszólétesítmény a belgrádi Terazije-kút közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
             {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Belgrádi akvárium, amely különféle halfajokat, hüllőket és kétéltűeket mutat be.",
@@ -5158,87 +2487,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "O fântână adâncă și misterioasă din incinta cetății Belgradului, datând din secolul al XVIII-lea.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Vestigii arheologice ale reședinței medievale a despotului Stefan Lazarević din Belgrad.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Muzeul prezintă istoria politică și culturală bogată a Serbiei, din antichitate până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Un muzeu din Belgrad care documentează dezvoltarea transportului feroviar și a locomotivelor istorice.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Muzeul memorial al scriitorului laureat al Premiului Nobel, Ivo Andrić, în fostul său apartament din Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Un muzeu dedicat vieții și operei celebrului pictor sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Un muzeu de artă privat din Belgrad care expune lucrări de artă modernă și contemporană sârbă.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Muzeul poștei din Belgrad prezintă istoria serviciilor poștale și de telecomunicații din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "O facilitate de wellness și înot situată lângă Fântâna Terazije din Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Un acvariu din Belgrad care expune diverse specii de pești, reptile și amfibieni.",
                   "category": "recreational",
@@ -5275,125 +2523,7 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Roman Well",
-                  "text": "A deep and mysterious well within the Belgrade Fortress, dating back to the 18th century.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Archaeological remains of the medieval residence of Despot Stefan Lazarevic in Belgrade.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "The museum presents the rich political and cultural history of Serbia from antiquity to the present day.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "A museum in Belgrade documenting the development of rail transport and historical locomotives.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "The memorial museum of the Nobel Prize-winning writer Ivo Andric in his former Belgrade apartment.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "A museum dedicated to the life and work of the famous Serbian painter Paja Jovanovic.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "A private art museum in Belgrade showcasing works of modern and contemporary Serbian art.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "The postal museum in Belgrade presents the history of postal and telecommunication services in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A wellness and swimming facility located near the Terazije Fountain in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "A Belgrade aquarium displaying diverse species of fish, reptiles, and amphibians.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress area.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A popular river beach on the Great War Island in the Danube, accessible from Zemun.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan park in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "monument",
     parent: "RS",
@@ -5649,15 +2779,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-zrenjanin-city-hall-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Narodni muzej Zrenjanin",
-                  "text": "Regionalmuseum in Zrenjanin, das bedeutende Kunst- und Geschichtssammlungen beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        20.389849,
-                        45.379773
-                  ]
-            },
-            {
                   "name": "Trockene Brücke",
                   "text": "Eine einzigartige Brücke in Zrenjanin, unter der kein Fluss mehr fließt.",
                   "category": "landmark",
@@ -5665,54 +2786,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.384094,
                         45.38157
                   ]
-            },
-            {
-                  "name": "Spomenik Zharku Zrenjaninu",
-                  "text": "Denkmal für den revolutionären Widerstandskämpfer Žarko Zrenjanin.",
-                  "category": "historical",
-                  "coords": [
-                        20.39079,
-                        45.381547
-                  ]
-            },
-            {
-                  "name": "Mariä-Entschlafens-Kirche",
-                  "text": "Serbisch-orthodoxe Kirche in Zrenjanin, bekannt für ihre Architektur und Ikonostase.",
-                  "category": "religious",
-                  "coords": [
-                        20.395724,
-                        45.380362
-                  ]
-            },
-            {
-                  "name": "Reformatska tsrkva",
-                  "text": "Ein historisches Kirchengebäude der reformierten Gemeinde in Zrenjanin.",
-                  "category": "religious",
-                  "coords": [
-                        20.389022,
-                        45.378373
-                  ]
-            },
-            {
-                  "name": "Kupalishte Peskara",
-                  "text": "Kupalište Peskara ist ein Sandstrand / Badeplatz am Ufer nahe dem Rathaus von Zrenjanin.",
-                  "category": "recreational",
-                  "coords": [
-                        20.384494,
-                        45.350045
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Narodni muzej Zrenjanin",
-                  "text": "Nagy múltú regionális múzeum Nagybecskereken, jelentős művészeti és történelmi gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        20.389849,
-                        45.379773
-                  ]
-            },
             {
                   "name": "Most na suvom",
                   "text": "Egy különleges híd Nagybecskereken, amely alatt a folyómeder elterelése miatt már nem folyik víz.",
@@ -5721,54 +2797,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.384094,
                         45.38157
                   ]
-            },
-            {
-                  "name": "Spomenik Zharku Zrenjaninu",
-                  "text": "Emlékmű Nagybecskereken, amelyet Žarko Zrenjanin forradalmár tiszteletére emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        20.39079,
-                        45.381547
-                  ]
-            },
-            {
-                  "name": "Tsrkva Uspenja Bogoroditse",
-                  "text": "Szerb ortodox templom Nagybecskereken, amely építészetéről és ikonosztázáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        20.395724,
-                        45.380362
-                  ]
-            },
-            {
-                  "name": "Reformatska tsrkva",
-                  "text": "A nagybecskereki református közösség történelmi templomépülete.",
-                  "category": "religious",
-                  "coords": [
-                        20.389022,
-                        45.378373
-                  ]
-            },
-            {
-                  "name": "Kupalishte Peskara",
-                  "text": "A Kupalište Peskara egy homokos strand / fürdőhely a Zrenjanini Városháza közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.384494,
-                        45.350045
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Narodni muzej Zrenjanin",
-                  "text": "Muzeu regional din Zrenjanin care găzduiește colecții importante de artă și istorie.",
-                  "category": "museum",
-                  "coords": [
-                        20.389849,
-                        45.379773
-                  ]
-            },
             {
                   "name": "Most na suvom",
                   "text": "Un pod unic din Zrenjanin sub care nu mai curge niciun râu.",
@@ -5777,54 +2808,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.384094,
                         45.38157
                   ]
-            },
-            {
-                  "name": "Spomenik Zharku Zrenjaninu",
-                  "text": "Monument dedicat luptătorului revoluționar Žarko Zrenjanin.",
-                  "category": "historical",
-                  "coords": [
-                        20.39079,
-                        45.381547
-                  ]
-            },
-            {
-                  "name": "Tsrkva Uspenja Bogoroditse",
-                  "text": "Biserică ortodoxă sârbă din Zrenjanin, cunoscută pentru arhitectura și iconostasul său.",
-                  "category": "religious",
-                  "coords": [
-                        20.395724,
-                        45.380362
-                  ]
-            },
-            {
-                  "name": "Reformatska tsrkva",
-                  "text": "O clădire istorică a bisericii aparținând comunității reformate din Zrenjanin.",
-                  "category": "religious",
-                  "coords": [
-                        20.389022,
-                        45.378373
-                  ]
-            },
-            {
-                  "name": "Kupalishte Peskara",
-                  "text": "Kupalište Peskara este o plajă nisipoasă / loc de scăldat lângă Primăria din Zrenjanin.",
-                  "category": "recreational",
-                  "coords": [
-                        20.384494,
-                        45.350045
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "National Museum of Zrenjanin",
-                  "text": "Regional museum in Zrenjanin housing significant art and history collections.",
-                  "category": "museum",
-                  "coords": [
-                        20.389849,
-                        45.379773
-                  ]
-            },
             {
                   "name": "Dry Bridge",
                   "text": "A unique bridge in Zrenjanin that no longer spans a river due to a diverted course.",
@@ -5832,42 +2818,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.384094,
                         45.38157
-                  ]
-            },
-            {
-                  "name": "Monument of Zarko Zrenjanin",
-                  "text": "Monument dedicated to the revolutionary resistance fighter Žarko Zrenjanin.",
-                  "category": "historical",
-                  "coords": [
-                        20.39079,
-                        45.381547
-                  ]
-            },
-            {
-                  "name": "Church of the Assumption",
-                  "text": "Serbian Orthodox church in Zrenjanin, known for its architecture and iconostasis.",
-                  "category": "religious",
-                  "coords": [
-                        20.395724,
-                        45.380362
-                  ]
-            },
-            {
-                  "name": "Reformed Church",
-                  "text": "A historic church building of the Reformed community in Zrenjanin.",
-                  "category": "religious",
-                  "coords": [
-                        20.389022,
-                        45.378373
-                  ]
-            },
-            {
-                  "name": "Kupalishte Peskara",
-                  "text": "Kupalište Peskara is a sandy beach / bathing spot near the Zrenjanin City Hall.",
-                  "category": "recreational",
-                  "coords": [
-                        20.384494,
-                        45.350045
                   ]
             }
       ]
@@ -6009,69 +2959,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-nis-skull-tower-monument-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Nishka tvrdjava",
-                  "text": "Diese bedeutende osmanische Festung in Niš beherbergt heute Parkanlagen und historische Monumente.",
-                  "category": "castle",
-                  "coords": [
-                        21.895447,
-                        43.325772
-                  ]
-            },
-            {
-                  "name": "Palata sa oktogonom",
-                  "text": "Eine archäologische Ausgrabungsstätte in Niš, die Überreste eines antiken Palastes mit achteckigem Grundriss zeigt.",
-                  "category": "historical",
-                  "coords": [
-                        21.892931,
-                        43.328275
-                  ]
-            },
-            {
-                  "name": "Khamam u nishkoj tvrdjavi",
-                  "text": "Überreste eines historischen türkischen Bades innerhalb der Festungsanlage von Niš.",
-                  "category": "historical",
-                  "coords": [
-                        21.895043,
-                        43.323494
-                  ]
-            },
-            {
-                  "name": "Archäologische Sammlung des Nationalmuseum Niš",
-                  "text": "Ein Museum in Niš, das archäologische Funde aus der Region präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        21.893301,
-                        43.318336
-                  ]
-            },
-            {
-                  "name": "Memorijalni kompleks ,,12. februar\"",
-                  "text": "Ein Museum am Ort des ehemaligen Konzentrationslagers Crveni Krst aus dem Zweiten Weltkrieg.",
-                  "category": "museum",
-                  "coords": [
-                        21.888705,
-                        43.330592
-                  ]
-            },
-            {
-                  "name": "Mediana",
-                  "text": "Eine wichtige römische Ausgrabungsstätte mit den Resten einer luxuriösen Residenz von Konstantin dem Großen.",
-                  "category": "historical",
-                  "coords": [
-                        21.948682,
-                        43.309932
-                  ]
-            },
-            {
-                  "name": "Dečiji Lunapark",
-                  "text": "Ein kleiner Vergnügungspark für Kinder in der Nähe des Schädelturms in Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.920801,
-                        43.334685
-                  ]
-            },
-            {
                   "name": "Mali bazen Chair",
                   "text": "Ein kleines Schwimmbad im Stadtteil Čair von Niš.",
                   "category": "recreational",
@@ -6079,81 +2966,9 @@ export const serbiaLandmarksV2: POI[] = [
                         21.908558,
                         43.313201
                   ]
-            },
-            {
-                  "name": "Vrezhinski bazen",
-                  "text": "Ein lokales Schwimmbad im Stadtteil Vrežina in Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.945438,
-                        43.321038
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Nishka tvrdjava",
-                  "text": "Ez a jelentős niši oszmán erődítmény ma parkoknak és történelmi emlékműveknek ad otthont.",
-                  "category": "castle",
-                  "coords": [
-                        21.895447,
-                        43.325772
-                  ]
-            },
-            {
-                  "name": "Palata sa oktogonom",
-                  "text": "Régészeti lelőhely Nišben, amely egy antik, nyolcszögletű alaprajzú palota maradványait mutatja be.",
-                  "category": "historical",
-                  "coords": [
-                        21.892931,
-                        43.328275
-                  ]
-            },
-            {
-                  "name": "Khamam u nishkoj tvrdjavi",
-                  "text": "Egy történelmi török fürdő maradványai a niši erőd területén.",
-                  "category": "historical",
-                  "coords": [
-                        21.895043,
-                        43.323494
-                  ]
-            },
-            {
-                  "name": "Narodni muzej",
-                  "text": "Múzeum Nišben, amely a régió régészeti leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        21.893301,
-                        43.318336
-                  ]
-            },
-            {
-                  "name": "Memorijalni kompleks ,,12. februar\"",
-                  "text": "Múzeum a második világháborús Crveni Krst koncentrációs tábor helyszínén.",
-                  "category": "museum",
-                  "coords": [
-                        21.888705,
-                        43.330592
-                  ]
-            },
-            {
-                  "name": "Medijana",
-                  "text": "Fontos római régészeti lelőhely Nagy Konstantin luxusrezidenciájának maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        21.948682,
-                        43.309932
-                  ]
-            },
-            {
-                  "name": "Dečiji Lunapark",
-                  "text": "Kisméretű gyermekvidámpark a niši Koponya-torony emlékmű közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.920801,
-                        43.334685
-                  ]
-            },
             {
                   "name": "Mali bazen Chair",
                   "text": "Kisméretű úszómedence Niš Čair negyedében.",
@@ -6162,81 +2977,9 @@ export const serbiaLandmarksV2: POI[] = [
                         21.908558,
                         43.313201
                   ]
-            },
-            {
-                  "name": "Vrezhinski bazen",
-                  "text": "Helyi úszólétesítmény Niš Vrežina negyedében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.945438,
-                        43.321038
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Nishka tvrdjava",
-                  "text": "Această fortăreață otomană importantă din Niș găzduiește astăzi parcuri și monumente istorice.",
-                  "category": "castle",
-                  "coords": [
-                        21.895447,
-                        43.325772
-                  ]
-            },
-            {
-                  "name": "Palata sa oktogonom",
-                  "text": "Un sit arheologic din Niș care prezintă resturile unui palat antic cu plan octogonal.",
-                  "category": "historical",
-                  "coords": [
-                        21.892931,
-                        43.328275
-                  ]
-            },
-            {
-                  "name": "Khamam u nishkoj tvrdjavi",
-                  "text": "Rămășițele unei băi turcești istorice în incinta cetății din Niș.",
-                  "category": "historical",
-                  "coords": [
-                        21.895043,
-                        43.323494
-                  ]
-            },
-            {
-                  "name": "Narodni muzej",
-                  "text": "Un muzeu din Niș care prezintă descoperiri arheologice din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        21.893301,
-                        43.318336
-                  ]
-            },
-            {
-                  "name": "Memorijalni kompleks ,,12. februar\"",
-                  "text": "Un muzeu situat pe locul fostului lagăr de concentrare Crveni Krst din al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        21.888705,
-                        43.330592
-                  ]
-            },
-            {
-                  "name": "Medijana",
-                  "text": "Un sit arheologic roman important cu resturile unei reședințe luxoase a lui Constantin cel Mare.",
-                  "category": "historical",
-                  "coords": [
-                        21.948682,
-                        43.309932
-                  ]
-            },
-            {
-                  "name": "Dečiji Lunapark",
-                  "text": "Un mic parc de distracții pentru copii situat lângă monumentul Turnul Craniilor din Niș.",
-                  "category": "recreational",
-                  "coords": [
-                        21.920801,
-                        43.334685
-                  ]
-            },
             {
                   "name": "Mali bazen Chair",
                   "text": "O piscină de mici dimensiuni situată în districtul Čair din Niš.",
@@ -6245,81 +2988,9 @@ export const serbiaLandmarksV2: POI[] = [
                         21.908558,
                         43.313201
                   ]
-            },
-            {
-                  "name": "Vrezhinski bazen",
-                  "text": "O unitate locală de înot în cartierul Vrežina din Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.945438,
-                        43.321038
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Niš Fortress",
-                  "text": "This significant Ottoman fortress in Niš now houses parks and historical monuments.",
-                  "category": "castle",
-                  "coords": [
-                        21.895447,
-                        43.325772
-                  ]
-            },
-            {
-                  "name": "The Octagon Palace",
-                  "text": "An archaeological site in Niš showing the remains of an ancient palace with an octagonal plan.",
-                  "category": "historical",
-                  "coords": [
-                        21.892931,
-                        43.328275
-                  ]
-            },
-            {
-                  "name": "Turkish bath",
-                  "text": "Remains of a historical Turkish bath located within the Niš Fortress complex.",
-                  "category": "historical",
-                  "coords": [
-                        21.895043,
-                        43.323494
-                  ]
-            },
-            {
-                  "name": "Archaeological Hall",
-                  "text": "A museum in Niš presenting archaeological finds from the region.",
-                  "category": "museum",
-                  "coords": [
-                        21.893301,
-                        43.318336
-                  ]
-            },
-            {
-                  "name": "Memorial complex „12th February“",
-                  "text": "A museum located at the site of the former Crveni Krst concentration camp from WWII.",
-                  "category": "museum",
-                  "coords": [
-                        21.888705,
-                        43.330592
-                  ]
-            },
-            {
-                  "name": "Mediana",
-                  "text": "An important Roman archaeological site with the remains of a luxury residence of Constantine the Great.",
-                  "category": "historical",
-                  "coords": [
-                        21.948682,
-                        43.309932
-                  ]
-            },
-            {
-                  "name": "Dečiji Lunapark",
-                  "text": "A small amusement park for children located near the Skull Tower monument in Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.920801,
-                        43.334685
-                  ]
-            },
             {
                   "name": "Mali bazen Chair",
                   "text": "A small swimming pool located in the Čair district of Niš.",
@@ -6327,15 +2998,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         21.908558,
                         43.313201
-                  ]
-            },
-            {
-                  "name": "Vrezhinski bazen",
-                  "text": "A local swimming pool facility in the Vrežina neighborhood of Niš.",
-                  "category": "recreational",
-                  "coords": [
-                        21.945438,
-                        43.321038
                   ]
             }
       ]
@@ -6477,33 +3139,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-belgrade-beogradjanka-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Der „Römische Brunnen“ ist eine historische Zisterne in der Festung von Belgrad aus dem 18. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Diese Ausgrabungsstätte zeigt die Fundamente des Schlosses von Despot Stefan Lazarević in der Belgrader Festung.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Das Museum präsentiert die reiche Geschichte Serbiens von der Antike bis zur Gegenwart.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
                   "name": "Zheleznichki muzej",
                   "text": "Das Eisenbahnmuseum in Belgrad zeigt die Entwicklung des Schienenverkehrs in Serbien.",
                   "category": "museum",
@@ -6528,33 +3163,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.464321,
                         44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ein privates Kunstmuseum in Belgrad, das moderne und zeitgenössische Werke ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Museum zur Geschichte der Post- und Telegrafendienste in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Ein Sport- und Wellnessclub in Belgrad mit verschiedenen Schwimmbecken.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -6583,45 +3191,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Der Belgrader Zoo präsentiert eine breite Palette an Tieren inmitten der historischen Festungsanlage.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "A „Római kút” egy 18. századi történelmi ciszterna a belgrádi erődben.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Ez a régészeti lelőhely Stefan Lazarević despota várának alapjait mutatja be a belgrádi erődben.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "A múzeum Szerbia gazdag történelmét mutatja be az ókortól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
             {
                   "name": "Zheleznichki muzej",
                   "text": "A belgrádi vasútmúzeum a szerbiai vasúti közlekedés fejlődését mutatja be.",
@@ -6647,33 +3219,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.464321,
                         44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Belgrádi magánmúzeum, amely modern és kortárs műalkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Szerbia postai és távíró-szolgáltatásainak történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Belgrádi sport- és wellnessklub különböző úszómedencékkel.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -6715,33 +3260,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "„Fântâna Romană” este o cisternă istorică din secolul al XVIII-lea situată în cetatea Belgradului.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Acest sit arheologic prezintă fundațiile castelului despotului Stefan Lazarević din cetatea Belgradului.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Muzeul prezintă istoria bogată a Serbiei, din antichitate până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
                   "name": "Zheleznichki muzej",
                   "text": "Muzeul Căilor Ferate din Belgrad prezintă evoluția transportului feroviar în Serbia.",
                   "category": "museum",
@@ -6766,33 +3284,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         20.464321,
                         44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Un muzeu de artă privat din Belgrad care expune lucrări moderne și contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Muzeu dedicat istoriei serviciilor poștale și telegrafice din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Un club de sport și wellness în Belgrad, cu diverse bazine de înot.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
                   ]
             },
             {
@@ -6834,33 +3325,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Roman Well",
-                  "text": "The \"Roman Well\" is a historical 18th-century cistern located in the Belgrade Fortress.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "This archaeological site showcases the foundations of Despot Stefan Lazarević's castle in the Belgrade Fortress.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "The museum presents the rich history of Serbia from antiquity to the present day.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
                   "name": "Railway Museum",
                   "text": "The Railway Museum in Belgrade showcases the development of rail transport in Serbia.",
                   "category": "museum",
@@ -6888,66 +3352,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zepter Museum",
-                  "text": "A private art museum in Belgrade exhibiting modern and contemporary works.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "Museum dedicated to the history of postal and telegraph services in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A sports and wellness club in Belgrade featuring various swimming pools.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Public Aquarium and Tropicarium",
                   "text": "This aquarium offers insights into marine and tropical ecosystems in central Belgrade.",
                   "category": "recreational",
                   "coords": [
                         20.450379,
                         44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A dino park in the city center displaying prehistoric replicas for families.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A popular river beach in Belgrade that attracts many bathers during the summer.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "The Belgrade Zoo presents a wide array of animals amidst the historical fortress complex.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
                   ]
             }
       ]
@@ -6999,15 +3409,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-kragujevac-amidza-konak-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Muzej 21. oktobar",
-                  "text": "Gedenkmuseum 21. Oktober im Stadtteil Amidza Konak von Kragujevac, das an die Erschießung von 1941 erinnert.",
-                  "category": "museum",
-                  "coords": [
-                        20.894361,
-                        44.021312
-                  ]
-            },
-            {
                   "name": "Spomenik Uznesenje",
                   "text": "Ein monumentales Denkmal in Kragujevac, das Teil des Gedenkparks der Stadt ist.",
                   "category": "historical",
@@ -7017,48 +3418,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik ,,Protiv zla\"",
-                  "text": "Ein Denkmal in Kragujevac, das als Mahnmal gegen das Böse und die Gewalt steht.",
-                  "category": "historical",
-                  "coords": [
-                        20.882625,
-                        44.015484
-                  ]
-            },
-            {
-                  "name": "„Unterbrochener Flug“ Denkmal für die ermordeten Schüler:innen und Lehrer:innen",
-                  "text": "Ein Denkmal in Kragujevac, das den erschossenen Schülern und Lehrern während des Zweiten Weltkriegs gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        20.885828,
-                        44.016013
-                  ]
-            },
-            {
-                  "name": "Spomen-park Kragujevachki oktobar",
-                  "text": "Ein weitläufiger Gedenkpark in Kragujevac, der den Opfern der Tragödie von 1941 gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        20.884033,
-                        44.022285
-                  ]
-            },
-            {
                   "name": "Zoo vrt Ilina voda",
                   "text": "Ein lokaler Zoo mit verschiedenen Tierarten im Ilina-Voda-Park von Kragujevac.",
                   "category": "recreational",
                   "coords": [
                         20.941846,
                         44.017003
-                  ]
-            },
-            {
-                  "name": "Otvoreni bazeni",
-                  "text": "Ein Komplex aus Freibädern und Wasserrutschen in der Stadt Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.902542,
-                        44.019995
                   ]
             },
             {
@@ -7073,15 +3438,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Muzej 21. oktobar",
-                  "text": "Október 21. Emlékmúzeum Kragujevac Amidza Konak negyedében, amely az 1941-es tömegkivégzés előtt tiszteleg.",
-                  "category": "museum",
-                  "coords": [
-                        20.894361,
-                        44.021312
-                  ]
-            },
-            {
                   "name": "Spomenik Uznesenje",
                   "text": "Monumentális emlékmű Kragujevacban, a város emlékparkjának része.",
                   "category": "historical",
@@ -7091,48 +3447,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik ,,Protiv zla\"",
-                  "text": "Kragujevaci emlékmű, amely mementóként áll a gonoszság és az erőszak ellen.",
-                  "category": "historical",
-                  "coords": [
-                        20.882625,
-                        44.015484
-                  ]
-            },
-            {
-                  "name": "Spomenik ,,Prekinut let\"",
-                  "text": "Kragujevaci emlékmű, amelyet a második világháborúban kivégzett diákoknak és tanároknak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        20.885828,
-                        44.016013
-                  ]
-            },
-            {
-                  "name": "Spomen-park Kragujevachki oktobar",
-                  "text": "Kiterjedt emlékpark Kragujevacban, az 1941-es tragédia áldozatainak szentelve.",
-                  "category": "park",
-                  "coords": [
-                        20.884033,
-                        44.022285
-                  ]
-            },
-            {
                   "name": "Zoo vrt Ilina voda",
                   "text": "Helyi állatkert különféle állatfajokkal Kragujevac Ilina Voda parkjában.",
                   "category": "recreational",
                   "coords": [
                         20.941846,
                         44.017003
-                  ]
-            },
-            {
-                  "name": "Otvoreni bazeni",
-                  "text": "Szabadtéri úszómedencékből és csúszdákból álló komplexum Kragujevac városában.",
-                  "category": "recreational",
-                  "coords": [
-                        20.902542,
-                        44.019995
                   ]
             },
             {
@@ -7147,15 +3467,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzej 21. oktobar",
-                  "text": "Muzeul Memorial 21 Octombrie în cartierul Amidza Konak din Kragujevac, comemorând masacrul din 1941.",
-                  "category": "museum",
-                  "coords": [
-                        20.894361,
-                        44.021312
-                  ]
-            },
-            {
                   "name": "Spomenik Uznesenje",
                   "text": "Un monument monumental în Kragujevac, făcând parte din parcul memorial al orașului.",
                   "category": "historical",
@@ -7165,48 +3476,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik ,,Protiv zla\"",
-                  "text": "Un monument în Kragujevac care servește ca un avertisment împotriva răului și violenței.",
-                  "category": "historical",
-                  "coords": [
-                        20.882625,
-                        44.015484
-                  ]
-            },
-            {
-                  "name": "Spomenik ,,Prekinut let\"",
-                  "text": "Un monument în Kragujevac dedicat elevilor și profesorilor împușcați în timpul celui de-al Doilea Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        20.885828,
-                        44.016013
-                  ]
-            },
-            {
-                  "name": "Spomen-park Kragujevachki oktobar",
-                  "text": "Un parc memorial vast în Kragujevac, dedicat victimelor tragediei din 1941.",
-                  "category": "park",
-                  "coords": [
-                        20.884033,
-                        44.022285
-                  ]
-            },
-            {
                   "name": "Zoo vrt Ilina voda",
                   "text": "O grădină zoologică locală care găzduiește diverse specii de animale în parcul Ilina Voda din Kragujevac.",
                   "category": "recreational",
                   "coords": [
                         20.941846,
                         44.017003
-                  ]
-            },
-            {
-                  "name": "Otvoreni bazeni",
-                  "text": "Un complex de piscine în aer liber și tobogane cu apă situat în Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.902542,
-                        44.019995
                   ]
             },
             {
@@ -7221,15 +3496,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museum 21 October",
-                  "text": "Museum 21 October in the Amidza Konak area of Kragujevac, commemorating the 1941 massacre.",
-                  "category": "museum",
-                  "coords": [
-                        20.894361,
-                        44.021312
-                  ]
-            },
-            {
                   "name": "Monument \"Ascension\"",
                   "text": "A monumental memorial in Kragujevac, part of the city's memorial park.",
                   "category": "historical",
@@ -7239,48 +3505,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Against evil\" Monument",
-                  "text": "A monument in Kragujevac standing as a reminder against evil and violence.",
-                  "category": "historical",
-                  "coords": [
-                        20.882625,
-                        44.015484
-                  ]
-            },
-            {
-                  "name": "\"Broken Wing\" Monument",
-                  "text": "A monument in Kragujevac dedicated to the students and teachers shot during World War II.",
-                  "category": "historical",
-                  "coords": [
-                        20.885828,
-                        44.016013
-                  ]
-            },
-            {
-                  "name": "Memorial Park \"Kragujevac October\"",
-                  "text": "A large memorial park in Kragujevac, dedicated to the victims of the 1941 tragedy.",
-                  "category": "park",
-                  "coords": [
-                        20.884033,
-                        44.022285
-                  ]
-            },
-            {
                   "name": "Zoo vrt Ilina voda",
                   "text": "A local zoo offering a variety of animal species in the Ilina Voda park of Kragujevac.",
                   "category": "recreational",
                   "coords": [
                         20.941846,
                         44.017003
-                  ]
-            },
-            {
-                  "name": "Otvoreni bazeni",
-                  "text": "A complex of outdoor swimming pools and water slides located in Kragujevac.",
-                  "category": "recreational",
-                  "coords": [
-                        20.902542,
-                        44.019995
                   ]
             },
             {
@@ -7384,266 +3614,10 @@ export const serbiaLandmarksV2: POI[] = [
   },
   {
     id: "serbia-subotica-city-library-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Das Nationaltheater Subotica, 1854 von János Skultéti erbaut, nahe der Stadtbibliothek von Subotica.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palast",
-                  "text": "Ein prächtiger Jugendstilpalast in Subotica, der heute die Galerie für moderne Kunst beherbergt.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Ein Museum, das die Geschichte, Archäologie und Kunst der Stadt Subotica präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Ein spezialisiertes Museum in Subotica, das eine Sammlung von Porzellan und Keramik ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Das Rathaus von Subotica ist ein herausragendes Beispiel für den ungarischen Jugendstil.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Ein Kulturzentrum in Subotica, das sich der Pflege der Traditionen der Bunjewatzen widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Ein Denkmal zu Ehren von Ivan Sarić, einem Pionier der Luftfahrt aus Subotica.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Szabadkai Népszínház",
-                  "text": "A Szabadkai Nemzeti Színház, 1854-ben építette Skultéti János, a szabadkai városi könyvtár közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Pompás szecessziós palota Szabadkán, amely ma a Modern Művészeti Galériának ad otthont.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Szabadkai Városi Múzeum",
-                  "text": "Múzeum, amely Szabadka városának történelmét, régészetét és művészetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Szabadkai szakmúzeum, amely porcelán- és kerámiagyűjteményt mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Városháza",
-                  "text": "A szabadkai városháza a magyar szecessziós építészet kiemelkedő példája és a város jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Kulturális központ Szabadkán, amely a bunyevác hagyományok ápolásának szentelt.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Szárits János emlékműve",
-                  "text": "Emlékmű Ivan Sarić, a szabadkai repülés úttörője tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Teatrul Național din Subotica, construit în 1854 de János Skultéti, lângă Biblioteca Orășenească.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Un palat somptuos în stil Art Nouveau din Subotica, care găzduiește astăzi Galeria de Artă Modernă.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Un muzeu care prezintă istoria, arheologia și arta orașului Subotica.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Un muzeu specializat din Subotica, care expune o colecție de porțelan și ceramică.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Primăria din Subotica este un exemplu remarcabil al stilului Art Nouveau maghiar.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Un centru cultural din Subotica, dedicat conservării tradițiilor populației bunjevac.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Un monument în onoarea lui Ivan Sarić, un pionier al aviației din Subotica.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Subotica National Theatre",
-                  "text": "Subotica National Theatre, built in 1854 by János Skultéti, near the City Library.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palace",
-                  "text": "A magnificent Art Nouveau palace in Subotica, now housing the Gallery of Modern Art.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Subotica City Museum",
-                  "text": "A museum presenting the history, archaeology, and art of the city of Subotica.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "A specialized museum in Subotica exhibiting a collection of porcelain and ceramics.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Town hall",
-                  "text": "The Subotica Town Hall is an outstanding example of Hungarian Art Nouveau and a city landmark.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "A cultural center in Subotica dedicated to preserving the traditions of the Bunjevac people.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Ivan Sarić Monument",
-                  "text": "A monument honoring Ivan Sarić, a pioneer of aviation from Subotica.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "RS",
@@ -7881,30 +3855,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trockene Brücke",
-                  "text": "Eine ungewöhnliche Brücke in Zrenjanin, die nach einer Flussumleitung auf trockenem Land steht.",
-                  "category": "landmark",
-                  "coords": [
-                        20.384094,
-                        45.38157
-                  ]
-            },
-            {
                   "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Ein Denkmal in Zrenjanin zu Ehren des jugoslawischen Widerstandskämpfers Žarko Zrenjanin.",
                   "category": "historical",
                   "coords": [
                         20.39079,
                         45.381547
-                  ]
-            },
-            {
-                  "name": "Mariä-Entschlafens-Kirche",
-                  "text": "Eine bedeutende serbisch-orthodoxe Kirche in Zrenjanin mit reicher Innenausstattung.",
-                  "category": "religious",
-                  "coords": [
-                        20.395724,
-                        45.380362
                   ]
             },
             {
@@ -7937,30 +3893,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Most na suvom",
-                  "text": "Különleges híd Nagybecskereken, amely egy folyóelterelés után szárazföldön áll.",
-                  "category": "landmark",
-                  "coords": [
-                        20.384094,
-                        45.38157
-                  ]
-            },
-            {
                   "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Emlékmű Nagybecskereken Žarko Zrenjanin jugoszláv ellenálló tiszteletére.",
                   "category": "historical",
                   "coords": [
                         20.39079,
                         45.381547
-                  ]
-            },
-            {
-                  "name": "Tsrkva Uspenja Bogoroditse",
-                  "text": "Jelentős szerb ortodox templom Nagybecskereken, gazdagon díszített belsővel.",
-                  "category": "religious",
-                  "coords": [
-                        20.395724,
-                        45.380362
                   ]
             },
             {
@@ -7993,30 +3931,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Most na suvom",
-                  "text": "Un pod neobișnuit în Zrenjanin, care stă pe uscat după devierea unui râu.",
-                  "category": "landmark",
-                  "coords": [
-                        20.384094,
-                        45.38157
-                  ]
-            },
-            {
                   "name": "Spomenik Zharku Zrenjaninu",
                   "text": "Un monument în Zrenjanin ridicat în onoarea luptătorului iugoslav Žarko Zrenjanin.",
                   "category": "historical",
                   "coords": [
                         20.39079,
                         45.381547
-                  ]
-            },
-            {
-                  "name": "Tsrkva Uspenja Bogoroditse",
-                  "text": "O biserică ortodoxă sârbă importantă în Zrenjanin, cu un interior bogat decorat.",
-                  "category": "religious",
-                  "coords": [
-                        20.395724,
-                        45.380362
                   ]
             },
             {
@@ -8049,30 +3969,12 @@ export const serbiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dry Bridge",
-                  "text": "An unusual bridge in Zrenjanin standing on dry land after a river diversion.",
-                  "category": "landmark",
-                  "coords": [
-                        20.384094,
-                        45.38157
-                  ]
-            },
-            {
                   "name": "Monument of Zarko Zrenjanin",
                   "text": "A monument in Zrenjanin honoring the Yugoslav resistance fighter Žarko Zrenjanin.",
                   "category": "historical",
                   "coords": [
                         20.39079,
                         45.381547
-                  ]
-            },
-            {
-                  "name": "Church of the Assumption",
-                  "text": "A significant Serbian Orthodox church in Zrenjanin with a richly decorated interior.",
-                  "category": "religious",
-                  "coords": [
-                        20.395724,
-                        45.380362
                   ]
             },
             {
@@ -8187,87 +4089,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-belgrade-vojni-muzej-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Ein tiefer historischer Brunnen in der Festung Kalemegdan in Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Archäologische Überreste einer Burg aus dem 15. Jahrhundert, die von Despot Stefan Lazarević erbaut wurde.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Ein Museum in Belgrad, das der Bewahrung des historischen Erbes Serbiens gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Ein Fachmuseum, das die Entwicklung des Schienenverkehrs in Serbien zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ein Gedenkmuseum in der ehemaligen Wohnung des Nobelpreisträgers Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ein Museum, das dem Leben und Werk des bedeutenden serbischen Malers Paja Jovanović gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ein privates Museum in Belgrad, das eine vielfältige Sammlung zeitgenössischer Kunst zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Ein Museum, das die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Eine Wellness- und Schwimmeinrichtung in der Nähe des Militärmuseums in Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ein Belgrader Aquarium, das verschiedene Fisch-, Reptilien- und Amphibienarten zeigt.",
                   "category": "recreational",
@@ -8293,99 +4114,9 @@ export const serbiaLandmarksV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Einer der ältesten Zoos in Europa, gelegen im Kalemegdan-Park in Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Mély történelmi kút a belgrádi Kalemegdan erődben.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Despot Stefan Lazarević által épített 15. századi kastély régészeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Belgrádi múzeum, amely Szerbia történelmi örökségének megőrzésével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Szakmúzeum, amely a szerbiai vasúti közlekedés fejlődését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Emlékmúzeum Ivo Andrić Nobel-díjas író egykori lakásában.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "A neves szerb festő, Paja Jovanović életének és műveinek szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Belgrádi magánmúzeum, amely kortárs művészeti alkotások változatos gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "A szerbiai posta-, távíró- és telefonszolgáltatások történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Wellness- és úszólétesítmény a belgrádi Katonai Múzeum közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
             {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Belgrádi akvárium, amely különféle halfajokat, hüllőket és kétéltűeket mutat be.",
@@ -8425,87 +4156,6 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "O fântână istorică adâncă situată în cadrul cetății Kalemegdan din Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Rămășițe arheologice ale unui castel din secolul al XV-lea construit de despotul Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Un muzeu din Belgrad dedicat conservării moștenirii istorice a Serbiei.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Un muzeu specializat care prezintă evoluția transportului feroviar în Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Un muzeu memorial situat în fostul apartament al laureatului Nobel Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Un muzeu dedicat vieții și operelor cunoscutului pictor sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Un muzeu privat din Belgrad care expune o colecție diversă de artă contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Un muzeu care documentează istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "O facilitate de wellness și înot situată lângă Muzeul Militar din Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Un acvariu din Belgrad care expune diverse specii de pești, reptile și amfibieni.",
                   "category": "recreational",
@@ -8544,120 +4194,12 @@ export const serbiaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Roman Well",
-                  "text": "A deep historic well located within the Kalemegdan Fortress in Belgrade.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Archaeological remains of a 15th-century castle built by Despot Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "A museum in Belgrade dedicated to preserving the historical heritage of Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "A specialized museum showcasing the evolution of railway transport in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "A memorial museum located in the former apartment of Nobel laureate Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "A museum dedicated to the life and works of the prominent Serbian painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "A private museum in Belgrade displaying a diverse collection of contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "A museum documenting the history of postal, telegraph, and telephone services in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A wellness and swimming facility located near the Military Museum in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "A Belgrade aquarium displaying diverse species of fish, reptiles, and amphibians.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
                   "name": "Dino Park Kalemegdan – Jura Avantura",
                   "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress area.",
                   "category": "recreational",
                   "coords": [
                         20.450851,
                         44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A popular river beach on the Great War Island in the Danube, accessible from Zemun.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan park in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
                   ]
             }
       ]
@@ -8754,24 +4296,6 @@ export const serbiaLandmarksV2: POI[] = [
     id: "serbia-subotica-city-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Ein bedeutendes neoklassizistisches Theatergebäude in Subotica.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palast",
-                  "text": "Ein prachtvolles Jugendstil-Palais, entworfen von Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
                   "name": "j Cy",
                   "text": "Das Stadtmuseum von Subotica beherbergt regionale historische Sammlungen.",
                   "category": "museum",
@@ -8779,63 +4303,9 @@ export const serbiaLandmarksV2: POI[] = [
                         19.661303,
                         46.102181
                   ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Ein Museum in Subotica, das verschiedenen Porzellansammlungen gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Das 1912 von Komor Marcell und Jakab Dezső erbaute Rathaus von Subotica ist ein Jugendstilbauwerk.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Ein Zentrum zur Pflege der Kultur und Traditionen der Bunjewatzen.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Das Ivan-Sarić-Denkmal ehrt den serbischen Flugpionier in der Nähe des Stadtmuseums Subotica.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Szabadkai Népszínház",
-                  "text": "Szabadka jelentős klasszicista színházépülete.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Pompás szecessziós palota, melyet Raichle Ferenc tervezett.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
             {
                   "name": "Szabadkai Városi Múzeum",
                   "text": "A Szabadkai Városi Múzeum regionális történelmi gyűjteményeknek ad otthont.",
@@ -8844,63 +4314,9 @@ export const serbiaLandmarksV2: POI[] = [
                         19.661303,
                         46.102181
                   ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Különböző porcelángyűjteményeknek szentelt múzeum Szabadkán.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Városháza",
-                  "text": "A szabadkai városháza 1912-ben épült Komor Marcell és Jakab Dezső tervei alapján, szecessziós stílusban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "A bunyevác kultúra és hagyományok ápolásának központja.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Szárits János emlékműve",
-                  "text": "Az Ivan Sarić-emlékmű a szerb repülési úttörőt tiszteli a Szabadkai Városi Múzeum közelében.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "O clădire teatrală neoclasică importantă din Subotica.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Un palat spectaculos în stil Secession, proiectat de Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
             {
                   "name": "j Cy",
                   "text": "Muzeul Orașului Subotica găzduiește colecții istorice regionale.",
@@ -8909,63 +4325,9 @@ export const serbiaLandmarksV2: POI[] = [
                         19.661303,
                         46.102181
                   ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Un muzeu din Subotica dedicat diverselor colecții de porțelan.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Primăria din Subotica, construită în 1912 de Komor Marcell și Jakab Dezső, este o clădire Art Nouveau.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Un centru pentru păstrarea culturii și tradițiilor bunjevačke.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Monumentul Ivan Sarić îl omagiază pe pionierul aviației sârbe lângă Muzeul Orașului Subotica.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Subotica National Theatre",
-                  "text": "A significant neoclassical theater building in Subotica.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palace",
-                  "text": "A magnificent Art Nouveau palace designed by Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
             {
                   "name": "Subotica City Museum",
                   "text": "The Subotica City Museum houses regional historical collections.",
@@ -8973,42 +4335,6 @@ export const serbiaLandmarksV2: POI[] = [
                   "coords": [
                         19.661303,
                         46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "A museum in Subotica dedicated to various porcelain collections.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Town hall",
-                  "text": "Subotica Town Hall, built in 1912 by Komor Marcell and Jakab Dezső, is an Art Nouveau building.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "A center for preserving the culture and traditions of the Bunjevci people.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Ivan Sarić Monument",
-                  "text": "The Ivan Sarić Monument honors the Serbian aviation pioneer near the Subotica City Museum.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
                   ]
             }
       ]

@@ -2746,15 +2746,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Mellužu pludmale",
-                  "text": "Ein beliebter Sandstrand in Jūrmala, ideal für lange Spaziergänge am Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        23.712213,
-                        56.965249
-                  ]
-            },
-            {
                   "name": "Mākslas stacija \"Dubulti\"",
                   "text": "Eine einzigartige Kunstgalerie, die sich im historischen Bahnhofsgebäude von Dubulti befindet.",
                   "category": "museum",
@@ -2773,39 +2764,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Piemineklis Mihailam Zadornovam",
-                  "text": "Ein Denkmal in Jūrmala, das dem bekannten russischen Satiriker Mikhail Zadorny gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        23.762321,
-                        56.960443
-                  ]
-            },
-            {
-                  "name": "Raiņa sēta",
-                  "text": "Ein historisches Anwesen in Jūrmala, das mit dem Leben des lettischen Nationaldichters Rainis verbunden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        23.745109,
-                        56.963115
-                  ]
-            },
-            {
                   "name": "Dubultu evanģēliski luteriskā baznīca",
                   "text": "Diese lutherische Kirche in Jūrmala ist ein markantes Beispiel für die Architektur des frühen 20. Jahrhunderts.",
                   "category": "religious",
                   "coords": [
                         23.773727,
                         56.969585
-                  ]
-            },
-            {
-                  "name": "Babbit-See",
-                  "text": "Ein weitläufiger See bei Jurmala, ideal für Beobachtungen in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        23.743318,
-                        56.924548
                   ]
             },
             {
@@ -2874,15 +2838,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Mellužu pludmale",
-                  "text": "Népszerű homokos strand Jūrmalában, amely ideális a hosszú tengerparti sétákhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        23.712213,
-                        56.965249
-                  ]
-            },
-            {
                   "name": "Mākslas stacija \"Dubulti\"",
                   "text": "Egyedülálló művészeti galéria, amely Dubulti történelmi vasútállomásának épületében található.",
                   "category": "museum",
@@ -2901,39 +2856,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Piemineklis Mihailam Zadornovam",
-                  "text": "Jūrmalai emlékmű, amelyet a jól ismert orosz szatirikusról, Mihail Zadornijról neveztek el.",
-                  "category": "historical",
-                  "coords": [
-                        23.762321,
-                        56.960443
-                  ]
-            },
-            {
-                  "name": "Raiņa sēta",
-                  "text": "Történelmi birtok Jūrmalában, amely Rainis lett nemzeti költő életéhez kapcsolódik.",
-                  "category": "landmark",
-                  "coords": [
-                        23.745109,
-                        56.963115
-                  ]
-            },
-            {
                   "name": "Dubultu evanģēliski luteriskā baznīca",
                   "text": "Ez a jūrmalai evangélikus templom a 20. század eleji építészet egyik kiemelkedő példája.",
                   "category": "religious",
                   "coords": [
                         23.773727,
                         56.969585
-                  ]
-            },
-            {
-                  "name": "Babītes ezers",
-                  "text": "Egy kiterjedt tó Jurmala közelében, ideális a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        23.743318,
-                        56.924548
                   ]
             },
             {
@@ -3002,15 +2930,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Mellužu pludmale",
-                  "text": "O plajă de nisip populară în Jūrmala, ideală pentru plimbări lungi pe malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        23.712213,
-                        56.965249
-                  ]
-            },
-            {
                   "name": "Mākslas stacija \"Dubulti\"",
                   "text": "O galerie de artă unică, situată în clădirea istorică a gării din Dubulti.",
                   "category": "museum",
@@ -3029,39 +2948,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Piemineklis Mihailam Zadornovam",
-                  "text": "Un monument din Jūrmala dedicat cunoscutului satiric rus Mihail Zadornîi.",
-                  "category": "historical",
-                  "coords": [
-                        23.762321,
-                        56.960443
-                  ]
-            },
-            {
-                  "name": "Raiņa sēta",
-                  "text": "O proprietate istorică din Jūrmala legată de viața poetului național leton Rainis.",
-                  "category": "landmark",
-                  "coords": [
-                        23.745109,
-                        56.963115
-                  ]
-            },
-            {
                   "name": "Dubultu evanģēliski luteriskā baznīca",
                   "text": "Această biserică luterană din Jūrmala este un exemplu proeminent al arhitecturii de la începutul secolului al XX-lea.",
                   "category": "religious",
                   "coords": [
                         23.773727,
                         56.969585
-                  ]
-            },
-            {
-                  "name": "Babītes ezers",
-                  "text": "Un lac întins lângă Jurmala, ideal pentru observații în natură.",
-                  "category": "natural",
-                  "coords": [
-                        23.743318,
-                        56.924548
                   ]
             },
             {
@@ -3130,15 +3022,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Mellužu pludmale",
-                  "text": "A popular sandy beach in Jūrmala, ideal for long walks by the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        23.712213,
-                        56.965249
-                  ]
-            },
-            {
                   "name": "Mākslas stacija \"Dubulti\"",
                   "text": "A unique art gallery located within the historic Dubulti railway station building.",
                   "category": "museum",
@@ -3157,39 +3040,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Monument to Mikhail Zadorny",
-                  "text": "A monument in Jūrmala dedicated to the well-known Russian satirist Mikhail Zadorny.",
-                  "category": "historical",
-                  "coords": [
-                        23.762321,
-                        56.960443
-                  ]
-            },
-            {
-                  "name": "Raiņa sēta",
-                  "text": "A historic property in Jūrmala associated with the life of the Latvian national poet Rainis.",
-                  "category": "landmark",
-                  "coords": [
-                        23.745109,
-                        56.963115
-                  ]
-            },
-            {
                   "name": "Dubultu evanģēliski luteriskā baznīca",
                   "text": "This Lutheran church in Jūrmala is a prominent example of early 20th-century architecture.",
                   "category": "religious",
                   "coords": [
                         23.773727,
                         56.969585
-                  ]
-            },
-            {
-                  "name": "Babītes ezers",
-                  "text": "An extensive lake near Jurmala, ideal for nature observations.",
-                  "category": "natural",
-                  "coords": [
-                        23.743318,
-                        56.924548
                   ]
             },
             {
@@ -3254,150 +3110,6 @@ export const latviaAllPoi = [
     id: "lv-sigulda", "sights": {
       "de": [
             {
-                  "name": "Die mittelalterliche Burg von Sigulda",
-                  "text": "Die Ruinen einer livländischen Burg aus dem 13. Jahrhundert, die über dem Gauja-Tal thronen.",
-                  "category": "castle",
-                  "coords": [
-                        24.849273,
-                        57.166623
-                  ]
-            },
-            {
-                  "name": "Burgruine Krimulda",
-                  "text": "Mittelalterliche Burgruinen in Krimulda, die einen weiten Blick auf das Gauja-Flusstal bieten.",
-                  "category": "castle",
-                  "coords": [
-                        24.832307,
-                        57.170859
-                  ]
-            },
-            {
-                  "name": "Satezeles pilskalns",
-                  "text": "Eine archäologische Stätte in Sigulda, die den Ort einer alten lettischen Wallburg markiert.",
-                  "category": "historical",
-                  "coords": [
-                        24.870701,
-                        57.171613
-                  ]
-            },
-            {
-                  "name": "Vikmestes pilskalns",
-                  "text": "Ein historischer Burgberg in Sigulda mit Überresten antiker Befestigungsanlagen im Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        24.828723,
-                        57.175793
-                  ]
-            },
-            {
-                  "name": "Turaidas Rata kakts",
-                  "text": "Ein bedeutender archäologischer Ort in der Nähe von Turaida mit Spuren früher Besiedlung.",
-                  "category": "historical",
-                  "coords": [
-                        24.83722,
-                        57.17305
-                  ]
-            },
-            {
-                  "name": "Krusta kalna pilskalns",
-                  "text": "Ein alter Burgberg, der Einblicke in die frühe Geschichte der Region Sigulda bietet.",
-                  "category": "historical",
-                  "coords": [
-                        24.848331,
-                        57.167754
-                  ]
-            },
-            {
-                  "name": "Nurmižu gravu rezervāts",
-                  "text": "Ein Naturschutzgebiet mit tiefen Schluchten und einer reichen Vielfalt an Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        24.903222,
-                        57.194381
-                  ]
-            },
-            {
-                  "name": "Gaujas plostnieku stāsts",
-                  "text": "Ein Museum in Sigulda, das die Traditionen und das Leben der Flößer auf dem Fluss Gauja zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        24.836454,
-                        57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "Ein Erholungsgebiet am Ufer der Gauja, das im Sommer zum Schwimmen und Sonnenbaden einlädt.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
-                  ]
-            },
-            {
-                  "name": "Gūtmaņa ala",
-                  "text": "Die größte Grotte im Baltikum, bekannt für ihre historischen Wandinscriptions und Legenden.",
-                  "category": "natural",
-                  "coords": [
-                        24.84236,
-                        57.176197
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunā pils",
-                  "text": "Ein Herrenhaus aus dem 19. Jahrhundert, das als Neues Schloss Sigulda bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        24.850132,
-                        57.16555
-                  ]
-            },
-            {
-                  "name": "Ķeizarskats",
-                  "text": "Ķeizarskats in Sigulda eröffnet einen atemberaubenden Weitblick über das malerische Gauja-Tal. Dieser natürliche Aussichtspunkt verdankt seinen Namen einem historischen Besuch eines Kaisers. Besucher können an diesem Ort die Ruhe und die majestätische Natur Lettlands genießen.",
-                  "category": "natural",
-                  "coords": [
-                        24.81779,
-                        57.142941
-                  ]
-            },
-            {
-                  "name": "Siguldas panorāmas rats",
-                  "text": "Ein Riesenrad in Sigulda, das Besuchern einen Blick aus der Vogelperspektive auf die Umgebung ermöglicht.",
-                  "category": "landmark",
-                  "coords": [
-                        24.843564,
-                        57.16223
-                  ]
-            },
-            {
-                  "name": "Kraukļu aiza",
-                  "text": "Eine enge Sandsteinschlucht in Sigulda, die Teil eines beliebten Wanderwegs ist.",
-                  "category": "landmark",
-                  "coords": [
-                        24.867386,
-                        57.173981
-                  ]
-            },
-            {
-                  "name": "skats uz Velnalu",
-                  "text": "Ein Aussichtspunkt, der einen Blick auf die legendäre Teufelshöhle (Velnala) im Gauja-Tal bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.811872,
-                        57.149799
-                  ]
-            },
-            {
-                  "name": "Ķeizarkrēsls",
-                  "text": "Ein historischer Aussichtspunkt in Sigulda, markiert durch einen steinernen Thron.",
-                  "category": "landmark",
-                  "coords": [
-                        24.823627,
-                        57.142742
-                  ]
-            },
-            {
                   "name": "Saltavots",
                   "text": "Eine natürliche Quelle in Sigulda, die für ihr klares und mineralreiches Wasser bekannt ist.",
                   "category": "landmark",
@@ -3407,138 +3119,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Krimuldas muiža",
-                  "text": "Ein elegantes Herrenhaus in Krimulda, das für seine Architektur und seinen Gesundheitstourismus bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        24.829355,
-                        57.16791
-                  ]
-            },
-            {
-                  "name": "Ziediņkalns",
-                  "text": "Ein malerischer Aussichtspunkt in Sigulda, der weite Ausblicke auf die bewaldete Landschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.842631,
-                        57.161056
-                  ]
-            },
-            {
-                  "name": "Satezeles kanjons",
-                  "text": "Ein markanter Canyon in der Nähe von Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.868609,
-                        57.171783
-                  ]
-            },
-            {
-                  "name": "Skats uz Gaujas senleju",
-                  "text": "Ein Aussichtspunkt mit Blick auf das Gauja-Urtal.",
-                  "category": "natural",
-                  "coords": [
-                        24.839022,
-                        57.149335
-                  ]
-            },
-            {
-                  "name": "Bungee jumping",
-                  "text": "Ein Ort für Bungee-Jumping in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.845736,
-                        57.164547
-                  ]
-            },
-            {
                   "name": "Dzintaru darbnīca",
                   "text": "Eine Bernsteinerwerkstatt in Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.850758,
                         57.149877
-                  ]
-            },
-            {
-                  "name": "Paradīzes kalns",
-                  "text": "Ein Hügel mit herrlicher Aussicht auf das Tal.",
-                  "category": "natural",
-                  "coords": [
-                        24.86574,
-                        57.175034
-                  ]
-            },
-            {
-                  "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "Ein Kultur- und Konzerthaus in Sigulda.",
-                  "category": "cultural",
-                  "coords": [
-                        24.844732,
-                        57.153154
-                  ]
-            },
-            {
-                  "name": "Mīlas Beka",
-                  "text": "Ein malerischer Aussichtspunkt in Sigulda.",
-                  "category": "natural",
-                  "coords": [
-                        24.841454,
-                        57.163714
-                  ]
-            },
-            {
-                  "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Ein Abenteuerpark mit Kletterparcours.",
-                  "category": "landmark",
-                  "coords": [
-                        24.8291,
-                        57.143582
-                  ]
-            },
-            {
-                  "name": "bijušais tramplīns",
-                  "text": "Der Standort einer ehemaligen Skisprungschanze.",
-                  "category": "landmark",
-                  "coords": [
-                        24.870748,
-                        57.176293
-                  ]
-            },
-            {
-                  "name": "Lindes atteka",
-                  "text": "Ein naturnaher Ort am Ufer der Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.832379,
-                        57.148774
-                  ]
-            },
-            {
-                  "name": "Kājnieku tilts",
-                  "text": "Eine Fußgängerbrücke über den Fluss Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.807073,
-                        57.149147
-                  ]
-            },
-            {
-                  "name": "Komplex neue Burg von Sigulda",
-                  "text": "Ein historischer Schlosskomplex in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.851292,
-                        57.165255
-                  ]
-            },
-            {
-                  "name": "Mežakaķis",
-                  "text": "Ein Wald-Abenteuerpark in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.828482,
-                        57.144959
                   ]
             },
             {
@@ -3587,15 +3173,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Jērkules ezers",
-                  "text": "Der Jērkules ezers ist ein friedliches Gewässer in Sigulda, das von Natur umgeben ist.",
-                  "category": "natural",
-                  "coords": [
-                        24.76253,
-                        57.209252
-                  ]
-            },
-            {
                   "name": "Nurmižu dzirnavu ezers",
                   "text": "Der Nurmižu dzirnavu ezers ist ein ruhiger See in Sigulda, ideal für eine Pause am Wasser.",
                   "category": "natural",
@@ -3639,162 +3216,9 @@ export const latviaAllPoi = [
                         24.889017,
                         57.128251
                   ]
-            },
-            {
-                  "name": "SSC peldbaseins",
-                  "text": "Ein Schwimmbecken in Sigulda für sportliches Training.",
-                  "category": "recreational",
-                  "coords": [
-                        24.859638,
-                        57.159248
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Siguldas viduslaiku pils",
-                  "text": "Egy 13. századi livóniai lovagrendi vár romjai, amelyek a Gauja-völgy felett magasodnak.",
-                  "category": "castle",
-                  "coords": [
-                        24.849273,
-                        57.166623
-                  ]
-            },
-            {
-                  "name": "Krimuldas pilsdrupas",
-                  "text": "Középkori várromok Krimuldában, amelyek tágas kilátást nyújtanak a Gauja folyó völgyére.",
-                  "category": "castle",
-                  "coords": [
-                        24.832307,
-                        57.170859
-                  ]
-            },
-            {
-                  "name": "Satezeles pilskalns",
-                  "text": "Régészeti helyszín Siguldában, amely egy ősi lett földvár helyét jelzi.",
-                  "category": "historical",
-                  "coords": [
-                        24.870701,
-                        57.171613
-                  ]
-            },
-            {
-                  "name": "Vikmestes pilskalns",
-                  "text": "Történelmi várhegy Siguldában, ókori erődítmények maradványaival a nemzeti park területén.",
-                  "category": "historical",
-                  "coords": [
-                        24.828723,
-                        57.175793
-                  ]
-            },
-            {
-                  "name": "Turaidas Rata kakts",
-                  "text": "Jelentős régészeti lelőhely Turaida közelében, korai településnyomokkal.",
-                  "category": "historical",
-                  "coords": [
-                        24.83722,
-                        57.17305
-                  ]
-            },
-            {
-                  "name": "Krusta kalna pilskalns",
-                  "text": "Ősi várhegy, amely betekintést nyújt Sigulda régiójának korai történelmébe.",
-                  "category": "historical",
-                  "coords": [
-                        24.848331,
-                        57.167754
-                  ]
-            },
-            {
-                  "name": "Nurmižu gravu rezervāts",
-                  "text": "Természetvédelmi terület mély szurdokokkal, valamint gazdag növény- és állatvilággal.",
-                  "category": "natural",
-                  "coords": [
-                        24.903222,
-                        57.194381
-                  ]
-            },
-            {
-                  "name": "Gaujas plostnieku stāsts",
-                  "text": "Siguldai múzeum, amely a Gauja folyón dolgozó tutajosok hagyományait és életét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        24.836454,
-                        57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "Pihenőhely a Gauja partján, amely nyáron úszásra és napozásra invitál.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
-                  ]
-            },
-            {
-                  "name": "Gūtmaņa ala",
-                  "text": "A Baltikum legnagyobb barlangja, amely történelmi falfeliratairól és legendáiról híres.",
-                  "category": "natural",
-                  "coords": [
-                        24.84236,
-                        57.176197
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunā pils",
-                  "text": "19. századi udvarház, amely Siguldai Új Kastélyként ismert.",
-                  "category": "historical",
-                  "coords": [
-                        24.850132,
-                        57.16555
-                  ]
-            },
-            {
-                  "name": "Ķeizarskats",
-                  "text": "A siguldai Ķeizarskats lélegzetelállító, széles kilátást nyújt a festői Gauja-völgyre. Ez a természeti kilátópont a nevét egy császár történelmi látogatásának köszönheti. A látogatók ezen a helyen élvezhetik Lettország nyugalmát és fenséges természetét.",
-                  "category": "natural",
-                  "coords": [
-                        24.81779,
-                        57.142941
-                  ]
-            },
-            {
-                  "name": "Siguldas panorāmas rats",
-                  "text": "Óriáskerék Siguldában, amely madártávlatból kínál kilátást a környékre.",
-                  "category": "landmark",
-                  "coords": [
-                        24.843564,
-                        57.16223
-                  ]
-            },
-            {
-                  "name": "Kraukļu aiza",
-                  "text": "Szűk homokkő-szurdok Siguldában, amely egy népszerű túraútvonal része.",
-                  "category": "landmark",
-                  "coords": [
-                        24.867386,
-                        57.173981
-                  ]
-            },
-            {
-                  "name": "skats uz Velnalu",
-                  "text": "Kilátóhely, amely rálátást biztosít a Gauja-völgyben található legendás Ördög-barlangra (Velnala).",
-                  "category": "natural",
-                  "coords": [
-                        24.811872,
-                        57.149799
-                  ]
-            },
-            {
-                  "name": "Ķeizarkrēsls",
-                  "text": "Történelmi kilátóhely Siguldában, amelyet egy kőszék jelöl.",
-                  "category": "landmark",
-                  "coords": [
-                        24.823627,
-                        57.142742
-                  ]
-            },
             {
                   "name": "Saltavots",
                   "text": "Természetes forrás Siguldában, amely tiszta és ásványi anyagokban gazdag vizéről ismert.",
@@ -3805,138 +3229,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Krimuldas muiža",
-                  "text": "Elegáns udvarház Krimuldában, amely építészetéről és egészségturizmusáról ismert.",
-                  "category": "historical",
-                  "coords": [
-                        24.829355,
-                        57.16791
-                  ]
-            },
-            {
-                  "name": "Ziediņkalns",
-                  "text": "Gleccservölgyi kilátó Siguldában, amely tágas rálátást biztosít az erdős tájra.",
-                  "category": "natural",
-                  "coords": [
-                        24.842631,
-                        57.161056
-                  ]
-            },
-            {
-                  "name": "Satezeles kanjons",
-                  "text": "Egy látványos kanyon Sigulda közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.868609,
-                        57.171783
-                  ]
-            },
-            {
-                  "name": "Skats uz Gaujas senleju",
-                  "text": "Kilátópont, ahonnan panoráma nyílik a Gauja-völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        24.839022,
-                        57.149335
-                  ]
-            },
-            {
-                  "name": "Bungee jumping",
-                  "text": "Bungee jumping helyszín Siguldában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.845736,
-                        57.164547
-                  ]
-            },
-            {
                   "name": "Dzintaru darbnīca",
                   "text": "Borostyánműhely Siguldában.",
                   "category": "landmark",
                   "coords": [
                         24.850758,
                         57.149877
-                  ]
-            },
-            {
-                  "name": "Paradīzes kalns",
-                  "text": "Domb, ahonnan gyönyörű kilátás nyílik a völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        24.86574,
-                        57.175034
-                  ]
-            },
-            {
-                  "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "Kulturális központ és koncertterem Siguldában.",
-                  "category": "cultural",
-                  "coords": [
-                        24.844732,
-                        57.153154
-                  ]
-            },
-            {
-                  "name": "Mīlas Beka",
-                  "text": "Gleccserhordalékos kilátóhely Siguldában.",
-                  "category": "natural",
-                  "coords": [
-                        24.841454,
-                        57.163714
-                  ]
-            },
-            {
-                  "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Kalandpark kötélpályákkal Siguldában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.8291,
-                        57.143582
-                  ]
-            },
-            {
-                  "name": "bijušais tramplīns",
-                  "text": "Egy egykori síugró sánc helyszíne.",
-                  "category": "landmark",
-                  "coords": [
-                        24.870748,
-                        57.176293
-                  ]
-            },
-            {
-                  "name": "Lindes atteka",
-                  "text": "Természetközeli hely a Gauja partján.",
-                  "category": "landmark",
-                  "coords": [
-                        24.832379,
-                        57.148774
-                  ]
-            },
-            {
-                  "name": "Kājnieku tilts",
-                  "text": "Gyalogoshíd a Gauja folyó felett.",
-                  "category": "landmark",
-                  "coords": [
-                        24.807073,
-                        57.149147
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunās pils komplekss",
-                  "text": "Történelmi kastélyegyüttes Siguldában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.851292,
-                        57.165255
-                  ]
-            },
-            {
-                  "name": "Mežakaķis",
-                  "text": "Erdei kalandpark Siguldában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.828482,
-                        57.144959
                   ]
             },
             {
@@ -3985,15 +3283,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Jērkules ezers",
-                  "text": "A Jērkules ezers egy békés tó Sigulda területén, amelyet természet vesz körül.",
-                  "category": "natural",
-                  "coords": [
-                        24.76253,
-                        57.209252
-                  ]
-            },
-            {
                   "name": "Nurmižu dzirnavu ezers",
                   "text": "A Nurmižu dzirnavu ezers egy csendes tó Sigulda területén, ideális egy vízparti pihenőhöz.",
                   "category": "natural",
@@ -4037,162 +3326,9 @@ export const latviaAllPoi = [
                         24.889017,
                         57.128251
                   ]
-            },
-            {
-                  "name": "SSC peldbaseins",
-                  "text": "Úszómedence Siguldában sportolási és edzési célokra.",
-                  "category": "recreational",
-                  "coords": [
-                        24.859638,
-                        57.159248
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Siguldas viduslaiku pils",
-                  "text": "Ruinele unui castel al Ordinului Livonian din secolul al XIII-lea, situat deasupra văii Gauja.",
-                  "category": "castle",
-                  "coords": [
-                        24.849273,
-                        57.166623
-                  ]
-            },
-            {
-                  "name": "Krimuldas pilsdrupas",
-                  "text": "Ruinele castelului medieval din Krimulda, care oferă o vedere largă asupra văii râului Gauja.",
-                  "category": "castle",
-                  "coords": [
-                        24.832307,
-                        57.170859
-                  ]
-            },
-            {
-                  "name": "Satezeles pilskalns",
-                  "text": "Un sit arheologic din Sigulda care marchează locul unei vechi cetăți letone.",
-                  "category": "historical",
-                  "coords": [
-                        24.870701,
-                        57.171613
-                  ]
-            },
-            {
-                  "name": "Vikmestes pilskalns",
-                  "text": "Un deal istoric al cetății din Sigulda, cu rămășițe ale fortificațiilor antice în parcul național.",
-                  "category": "historical",
-                  "coords": [
-                        24.828723,
-                        57.175793
-                  ]
-            },
-            {
-                  "name": "Turaidas Rata kakts",
-                  "text": "Un sit arheologic important lângă Turaida, cu urme de așezări timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        24.83722,
-                        57.17305
-                  ]
-            },
-            {
-                  "name": "Krusta kalna pilskalns",
-                  "text": "Un vechi deal al cetății care oferă perspective asupra istoriei timpurii a regiunii Sigulda.",
-                  "category": "historical",
-                  "coords": [
-                        24.848331,
-                        57.167754
-                  ]
-            },
-            {
-                  "name": "Nurmižu gravu rezervāts",
-                  "text": "O rezervație naturală cu defilee adânci și o mare diversitate de floră și faună.",
-                  "category": "natural",
-                  "coords": [
-                        24.903222,
-                        57.194381
-                  ]
-            },
-            {
-                  "name": "Gaujas plostnieku stāsts",
-                  "text": "Un muzeu din Sigulda care prezintă tradițiile și viața plutașilor de pe râul Gauja.",
-                  "category": "museum",
-                  "coords": [
-                        24.836454,
-                        57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "O zonă de recreere pe malul râului Gauja, populară pentru înot și plajă în timpul verii.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
-                  ]
-            },
-            {
-                  "name": "Gūtmaņa ala",
-                  "text": "Cea mai mare grotă din Țările Baltice, faimoasă pentru inscripțiile sale istorice și legende.",
-                  "category": "natural",
-                  "coords": [
-                        24.84236,
-                        57.176197
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunā pils",
-                  "text": "Un conac din secolul al XIX-lea, cunoscut sub numele de Noul Castel din Sigulda.",
-                  "category": "historical",
-                  "coords": [
-                        24.850132,
-                        57.16555
-                  ]
-            },
-            {
-                  "name": "Ķeizarskats",
-                  "text": "Ķeizarskats din Sigulda deschide o priveliște largă și uluitoare asupra pitoreștii Văi Gauja. Acest punct de belvedere natural își datorează numele unei vizite istorice a unui împărat. Vizitatorii se pot bucura de liniștea și natura maiestuoasă a Letoniei în acest loc.",
-                  "category": "natural",
-                  "coords": [
-                        24.81779,
-                        57.142941
-                  ]
-            },
-            {
-                  "name": "Siguldas panorāmas rats",
-                  "text": "O roată panoramică în Sigulda care oferă vizitatorilor o vedere de ansamblu asupra zonei înconjurătoare.",
-                  "category": "landmark",
-                  "coords": [
-                        24.843564,
-                        57.16223
-                  ]
-            },
-            {
-                  "name": "Kraukļu aiza",
-                  "text": "Un defileu îngust de gresie în Sigulda, parte a unui traseu popular de drumeție.",
-                  "category": "landmark",
-                  "coords": [
-                        24.867386,
-                        57.173981
-                  ]
-            },
-            {
-                  "name": "skats uz Velnalu",
-                  "text": "Un punct de belvedere care oferă o vedere spre legendara Peșteră a Diavolului (Velnala) din valea Gauja.",
-                  "category": "natural",
-                  "coords": [
-                        24.811872,
-                        57.149799
-                  ]
-            },
-            {
-                  "name": "Ķeizarkrēsls",
-                  "text": "Un punct de belvedere istoric din Sigulda, marcat de un scaun de piatră.",
-                  "category": "landmark",
-                  "coords": [
-                        24.823627,
-                        57.142742
-                  ]
-            },
             {
                   "name": "Saltavots",
                   "text": "Un izvor natural în Sigulda, cunoscut pentru apa sa limpede și bogată în minerale.",
@@ -4203,138 +3339,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Krimuldas muiža",
-                  "text": "Un conac elegant în Krimulda, cunoscut pentru arhitectura sa și turismul de sănătate.",
-                  "category": "historical",
-                  "coords": [
-                        24.829355,
-                        57.16791
-                  ]
-            },
-            {
-                  "name": "Ziediņkalns",
-                  "text": "Un punct de belvedere pitoresc în Sigulda, oferind vederi largi asupra peisajului împădurit.",
-                  "category": "natural",
-                  "coords": [
-                        24.842631,
-                        57.161056
-                  ]
-            },
-            {
-                  "name": "Satezeles kanjons",
-                  "text": "Un canyon spectaculos în apropiere de Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.868609,
-                        57.171783
-                  ]
-            },
-            {
-                  "name": "Skats uz Gaujas senleju",
-                  "text": "Un punct de observație cu vedere asupra văii Gauja.",
-                  "category": "natural",
-                  "coords": [
-                        24.839022,
-                        57.149335
-                  ]
-            },
-            {
-                  "name": "Bungee jumping",
-                  "text": "Locație pentru bungee jumping în Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.845736,
-                        57.164547
-                  ]
-            },
-            {
                   "name": "Dzintaru darbnīca",
                   "text": "Un atelier de chihlimbar în Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.850758,
                         57.149877
-                  ]
-            },
-            {
-                  "name": "Paradīzes kalns",
-                  "text": "Un deal cu o vedere pitorească asupra văii.",
-                  "category": "natural",
-                  "coords": [
-                        24.86574,
-                        57.175034
-                  ]
-            },
-            {
-                  "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "O sală de concerte și centru cultural în Sigulda.",
-                  "category": "cultural",
-                  "coords": [
-                        24.844732,
-                        57.153154
-                  ]
-            },
-            {
-                  "name": "Mīlas Beka",
-                  "text": "Un punct de observație pitoresc în Sigulda.",
-                  "category": "natural",
-                  "coords": [
-                        24.841454,
-                        57.163714
-                  ]
-            },
-            {
-                  "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Un parc de aventură cu trasee de cățărare.",
-                  "category": "landmark",
-                  "coords": [
-                        24.8291,
-                        57.143582
-                  ]
-            },
-            {
-                  "name": "bijušais tramplīns",
-                  "text": "Locul unei foste trambuline de sărituri cu schiurile.",
-                  "category": "landmark",
-                  "coords": [
-                        24.870748,
-                        57.176293
-                  ]
-            },
-            {
-                  "name": "Lindes atteka",
-                  "text": "O locație naturală pe malul râului Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.832379,
-                        57.148774
-                  ]
-            },
-            {
-                  "name": "Kājnieku tilts",
-                  "text": "Un pod pietonal peste râul Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.807073,
-                        57.149147
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunās pils komplekss",
-                  "text": "Un complex istoric de castele în Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.851292,
-                        57.165255
-                  ]
-            },
-            {
-                  "name": "Mežakaķis",
-                  "text": "Un parc de aventură în pădure la Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.828482,
-                        57.144959
                   ]
             },
             {
@@ -4383,15 +3393,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Jērkules ezers",
-                  "text": "Jērkules ezers este un lac liniștit în Sigulda, înconjurat de natură.",
-                  "category": "natural",
-                  "coords": [
-                        24.76253,
-                        57.209252
-                  ]
-            },
-            {
                   "name": "Nurmižu dzirnavu ezers",
                   "text": "Nurmižu dzirnavu ezers este un iaz liniștit în Sigulda, ideal pentru o pauză lângă apă.",
                   "category": "natural",
@@ -4435,162 +3436,9 @@ export const latviaAllPoi = [
                         24.889017,
                         57.128251
                   ]
-            },
-            {
-                  "name": "SSC peldbaseins",
-                  "text": "O piscină în Sigulda pentru sport și antrenament.",
-                  "category": "recreational",
-                  "coords": [
-                        24.859638,
-                        57.159248
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Siguldas viduslaiku pils",
-                  "text": "The ruins of a 13th-century Livonian Order castle perched above the Gauja Valley.",
-                  "category": "castle",
-                  "coords": [
-                        24.849273,
-                        57.166623
-                  ]
-            },
-            {
-                  "name": "Krimuldas castle",
-                  "text": "Medieval castle ruins in Krimulda offering wide views of the Gauja River valley.",
-                  "category": "castle",
-                  "coords": [
-                        24.832307,
-                        57.170859
-                  ]
-            },
-            {
-                  "name": "Satezeles pilskalns",
-                  "text": "An archaeological site in Sigulda marking the location of an ancient Latvian hillfort.",
-                  "category": "historical",
-                  "coords": [
-                        24.870701,
-                        57.171613
-                  ]
-            },
-            {
-                  "name": "Vikmestes pilskalns",
-                  "text": "A historical hillfort in Sigulda with remains of ancient fortifications within the national park.",
-                  "category": "historical",
-                  "coords": [
-                        24.828723,
-                        57.175793
-                  ]
-            },
-            {
-                  "name": "Turaidas Rata kakts",
-                  "text": "A significant archaeological site near Turaida with traces of early settlement.",
-                  "category": "historical",
-                  "coords": [
-                        24.83722,
-                        57.17305
-                  ]
-            },
-            {
-                  "name": "Krusta kalna pilskalns",
-                  "text": "An ancient hillfort providing insights into the early history of the Sigulda region.",
-                  "category": "historical",
-                  "coords": [
-                        24.848331,
-                        57.167754
-                  ]
-            },
-            {
-                  "name": "Nurmižu gravu rezervāts",
-                  "text": "A nature reserve featuring deep ravines and a rich diversity of flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        24.903222,
-                        57.194381
-                  ]
-            },
-            {
-                  "name": "Gaujas plostnieku stāsts",
-                  "text": "A museum in Sigulda showcasing the traditions and life of raftsmen on the Gauja River.",
-                  "category": "museum",
-                  "coords": [
-                        24.836454,
-                        57.158679
-                  ]
-            },
-            {
-                  "name": "Sigulda beach",
-                  "text": "A recreational area on the banks of the Gauja, popular for swimming and sunbathing in summer.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
-                  ]
-            },
-            {
-                  "name": "Gütmanis (Gutmann) Cave",
-                  "text": "The largest grotto in the Baltics, famous for its historic wall inscriptions and legends.",
-                  "category": "natural",
-                  "coords": [
-                        24.84236,
-                        57.176197
-                  ]
-            },
-            {
-                  "name": "Sigulda Castle",
-                  "text": "A 19th-century manor house known as the New Sigulda Castle.",
-                  "category": "historical",
-                  "coords": [
-                        24.850132,
-                        57.16555
-                  ]
-            },
-            {
-                  "name": "Ķeizarskats",
-                  "text": "Ķeizarskats in Sigulda opens up a breathtaking wide view over the picturesque Gauja Valley. This natural viewpoint owes its name to a historical visit by an emperor. Visitors can enjoy the tranquility and majestic nature of Latvia at this spot.",
-                  "category": "natural",
-                  "coords": [
-                        24.81779,
-                        57.142941
-                  ]
-            },
-            {
-                  "name": "Sigulda Ferris wheel",
-                  "text": "A Ferris wheel in Sigulda providing visitors with a bird's-eye view of the surrounding area.",
-                  "category": "landmark",
-                  "coords": [
-                        24.843564,
-                        57.16223
-                  ]
-            },
-            {
-                  "name": "Kraukļu aiza",
-                  "text": "A narrow sandstone ravine in Sigulda, part of a popular hiking trail.",
-                  "category": "landmark",
-                  "coords": [
-                        24.867386,
-                        57.173981
-                  ]
-            },
-            {
-                  "name": "skats uz Velnalu",
-                  "text": "A viewpoint providing a look at the legendary Devil's Cave (Velnala) in the Gauja Valley.",
-                  "category": "natural",
-                  "coords": [
-                        24.811872,
-                        57.149799
-                  ]
-            },
-            {
-                  "name": "Ķeizarkrēsls",
-                  "text": "A historical viewpoint in Sigulda marked by a stone chair.",
-                  "category": "landmark",
-                  "coords": [
-                        24.823627,
-                        57.142742
-                  ]
-            },
             {
                   "name": "Saltavots",
                   "text": "A natural spring in Sigulda known for its clear and mineral-rich water.",
@@ -4601,138 +3449,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Krimuldas muiža",
-                  "text": "An elegant manor house in Krimulda known for its architecture and health tourism.",
-                  "category": "historical",
-                  "coords": [
-                        24.829355,
-                        57.16791
-                  ]
-            },
-            {
-                  "name": "Ziediņkalns",
-                  "text": "A scenic viewpoint in Sigulda offering wide vistas of the forested landscape.",
-                  "category": "natural",
-                  "coords": [
-                        24.842631,
-                        57.161056
-                  ]
-            },
-            {
-                  "name": "Satezeles kanjons",
-                  "text": "A scenic canyon located near Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.868609,
-                        57.171783
-                  ]
-            },
-            {
-                  "name": "Skats uz Gaujas senleju",
-                  "text": "A viewpoint offering panoramic views of the Gauja valley.",
-                  "category": "natural",
-                  "coords": [
-                        24.839022,
-                        57.149335
-                  ]
-            },
-            {
-                  "name": "Bungee jumping",
-                  "text": "A bungee jumping site in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.845736,
-                        57.164547
-                  ]
-            },
-            {
                   "name": "Dzintaru darbnīca",
                   "text": "An amber workshop in Sigulda.",
                   "category": "landmark",
                   "coords": [
                         24.850758,
                         57.149877
-                  ]
-            },
-            {
-                  "name": "Paradise hill",
-                  "text": "A hill offering scenic views of the Gauja valley.",
-                  "category": "natural",
-                  "coords": [
-                        24.86574,
-                        57.175034
-                  ]
-            },
-            {
-                  "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "A concert hall and arts centre in Sigulda.",
-                  "category": "cultural",
-                  "coords": [
-                        24.844732,
-                        57.153154
-                  ]
-            },
-            {
-                  "name": "Mīlas Beka",
-                  "text": "A scenic viewpoint in Sigulda.",
-                  "category": "natural",
-                  "coords": [
-                        24.841454,
-                        57.163714
-                  ]
-            },
-            {
-                  "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "An adventure park with rope courses.",
-                  "category": "landmark",
-                  "coords": [
-                        24.8291,
-                        57.143582
-                  ]
-            },
-            {
-                  "name": "bijušais tramplīns",
-                  "text": "The site of a former ski jump.",
-                  "category": "landmark",
-                  "coords": [
-                        24.870748,
-                        57.176293
-                  ]
-            },
-            {
-                  "name": "Lindes atteka",
-                  "text": "A natural site along the banks of the Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.832379,
-                        57.148774
-                  ]
-            },
-            {
-                  "name": "Kājnieku tilts",
-                  "text": "A pedestrian bridge over the Gauja river.",
-                  "category": "landmark",
-                  "coords": [
-                        24.807073,
-                        57.149147
-                  ]
-            },
-            {
-                  "name": "Complex of Sigulda New Castle",
-                  "text": "A historic castle complex in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.851292,
-                        57.165255
-                  ]
-            },
-            {
-                  "name": "Mežakaķis",
-                  "text": "A forest adventure park in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.828482,
-                        57.144959
                   ]
             },
             {
@@ -4781,15 +3503,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Jērkules ezers",
-                  "text": "Jērkules ezers is a peaceful body of water in Sigulda, surrounded by natural beauty.",
-                  "category": "natural",
-                  "coords": [
-                        24.76253,
-                        57.209252
-                  ]
-            },
-            {
                   "name": "Nurmižu dzirnavu ezers",
                   "text": "Nurmižu dzirnavu ezers is a quiet lake in Sigulda, ideal for a break by the water.",
                   "category": "natural",
@@ -4832,15 +3545,6 @@ export const latviaAllPoi = [
                   "coords": [
                         24.889017,
                         57.128251
-                  ]
-            },
-            {
-                  "name": "SSC peldbaseins",
-                  "text": "A swimming pool in Sigulda used for sports and training.",
-                  "category": "recreational",
-                  "coords": [
-                        24.859638,
-                        57.159248
                   ]
             }
       ]
@@ -4932,15 +3636,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
-                  "text": "Erholungsgebiet und Strand in einem ehemaligen Steinbruch.",
-                  "category": "recreational",
-                  "coords": [
-                        25.317473,
-                        57.317432
-                  ]
-            },
-            {
                   "name": "Museum der nordischen Naturheilkunde",
                   "text": "Museum in Cēsis zur traditionellen nordischen Naturheilkunde und Pflanzen.",
                   "category": "museum",
@@ -4994,15 +3689,6 @@ export const latviaAllPoi = [
                   "coords": [
                         25.274883,
                         57.313081
-                  ]
-            },
-            {
-                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
-                  "text": "Pihenőpark és strand egy korábbi kőbánya területén.",
-                  "category": "recreational",
-                  "coords": [
-                        25.317473,
-                        57.317432
                   ]
             },
             {
@@ -5062,15 +3748,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
-                  "text": "Zonă de recreere și plajă situată într-o fostă carieră de piatră.",
-                  "category": "recreational",
-                  "coords": [
-                        25.317473,
-                        57.317432
-                  ]
-            },
-            {
                   "name": "Ziemeļu dabas medicīnas muzejs",
                   "text": "Muzeu în Cēsis dedicat practicilor tradiționale de medicină naturistă nordică și plantelor.",
                   "category": "museum",
@@ -5124,15 +3801,6 @@ export const latviaAllPoi = [
                   "coords": [
                         25.274883,
                         57.313081
-                  ]
-            },
-            {
-                  "name": "Cēsu aktīvās atpūtas parks \"Karjers\"",
-                  "text": "Recreation area and beach located in a former quarry.",
-                  "category": "recreational",
-                  "coords": [
-                        25.317473,
-                        57.317432
                   ]
             },
             {
@@ -8503,7 +7171,304 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-valmiera", "sights": {"de": [{"name": "Valmieras drāmas teātris", "text": "Ein bedeutendes professionelles Theater in Valmiera.", "category": "cultural", "coords": [25.425756, 57.53931]}, {"name": "Schloß Wolmar", "text": "Die Ruinen einer mittelalterlichen Burg in Valmiera.", "category": "castle", "coords": [25.427977, 57.539024]}, {"name": "Valmieras Peldbaseina Atpūtas Zona", "text": "Ein Freizeit- und Badebereich in Valmiera.", "category": "family", "coords": [25.388492, 57.527572]}, {"name": "Valmieras novadpētniecības muzejs", "text": "Ein Museum für regionale Geschichte und Kultur.", "category": "museum", "coords": [25.429035, 57.539328]}, {"name": "Daliņu Pludmale", "text": "Ein beliebter Strand am Fluss Gauja.", "category": "recreational", "coords": [25.454391, 57.541761]}, {"name": "Valmieras brīvdabas estrāde", "text": "Eine Freilichtbühne für Konzerte und Shows.", "category": "cultural", "coords": [25.438642, 57.538013]}, {"name": "Sašķeltā liepa", "text": "Ein lokales Naturdenkmal in Form einer markanten Linde.", "category": "historical", "coords": [25.432911, 57.540238]}, {"name": "Laipa", "text": "Die Galerie Laipa bringt zeitgenössische Kunst in das Herz von Valmiera. Als Museum bietet sie eine Bühne für moderne kreative Ausdrucksformen in Lettland. Kulturbegeisterte finden hier regelmäßig wechselnde Ausstellungen und frische künstlerische Perspektiven.", "category": "museum", "coords": [25.436832, 57.525406]}, {"name": "Barikāžu piemiņas vieta", "text": "Die Barikāžu piemiņas vieta ist eine wichtige historische Stätte in Valmiera. Das Denkmal erinnert feierlich an die dramatische Barrikadenzeit Lettlands. Für Besucher ist es ein Ort der Reflexion über den Kampf für Unabhängigkeit und Freiheit.", "category": "historical", "coords": [25.404995, 57.536092]}], "hu": [{"name": "Valmieras drāmas teātris", "text": "Jelentős hivatásos színház Valmierában.", "category": "cultural", "coords": [25.425756, 57.53931]}, {"name": "Valmieras pils", "text": "Egy középkori vár romjai Valmierában.", "category": "castle", "coords": [25.427977, 57.539024]}, {"name": "Valmieras Peldbaseina Atpūtas Zona", "text": "Szabadidős és fürdőhely Valmierában.", "category": "family", "coords": [25.388492, 57.527572]}, {"name": "Valmieras novadpētniecības muzejs", "text": "Regionális történelmi és kulturális múzeum.", "category": "museum", "coords": [25.429035, 57.539328]}, {"name": "Daliņu Pludmale", "text": "Népszerű strand a Gauja folyó partján.", "category": "recreational", "coords": [25.454391, 57.541761]}, {"name": "Valmieras brīvdabas estrāde", "text": "Szabadtéri színpad koncertekhez és előadásokhoz.", "category": "cultural", "coords": [25.438642, 57.538013]}, {"name": "Sašķeltā liepa", "text": "Helyi természeti emlék egy jellegzetes hársfa formájában.", "category": "historical", "coords": [25.432911, 57.540238]}, {"name": "Laipa", "text": "A Laipa galéria elhozza a kortárs művészetet Valmiera szívébe. Múzeumként a modern kreatív kifejezésmódok színterét kínálja Lettországban. A kultúra szerelmesei rendszeresen változó kiállításokat és friss művészeti perspektívákat találhatnak itt.", "category": "museum", "coords": [25.436832, 57.525406]}, {"name": "Barikāžu piemiņas vieta", "text": "A Barikāžu piemiņas vieta egy fontos történelmi helyszín Valmierában. Az emlékmű Lettország drámai barikádos időszakának állít ünnepélyes emléket. A látogatók számára a függetlenségért és szabadságért folytatott küzdelemről való elmélkedés helyszíne.", "category": "historical", "coords": [25.404995, 57.536092]}], "ro": [{"name": "Valmieras drāmas teātris", "text": "Un teatru profesionist important în Valmiera.", "category": "cultural", "coords": [25.425756, 57.53931]}, {"name": "Valmieras pils", "text": "Ruinele unui castel medieval în Valmiera.", "category": "castle", "coords": [25.427977, 57.539024]}, {"name": "Valmieras Peldbaseina Atpūtas Zona", "text": "O zonă de recreere și înot în Valmiera.", "category": "family", "coords": [25.388492, 57.527572]}, {"name": "Valmieras novadpētniecības muzejs", "text": "Un muzeu de istorie și cultură regională.", "category": "museum", "coords": [25.429035, 57.539328]}, {"name": "Daliņu Pludmale", "text": "O plajă populară pe malul râului Gauja.", "category": "recreational", "coords": [25.454391, 57.541761]}, {"name": "Valmieras brīvdabas estrāde", "text": "O scenă în aer liber pentru concerte și spectacole.", "category": "cultural", "coords": [25.438642, 57.538013]}, {"name": "Sašķeltā liepa", "text": "Un monument natural local sub forma unui tei distinctiv.", "category": "historical", "coords": [25.432911, 57.540238]}, {"name": "Laipa", "text": "Galeria Laipa aduce arta contemporană în inima orașului Valmiera. Ca muzeu, oferă o scenă pentru expresiile creative moderne din Letonia. Pasionații de cultură vor găsi aici expoziții care se schimbă regulat și perspective artistice proaspete.", "category": "museum", "coords": [25.436832, 57.525406]}, {"name": "Barikāžu piemiņas vieta", "text": "Barikāžu piemiņas vieta este un sit istoric important în Valmiera. Monumentul comemorează solemn era dramatică a baricadelor din Letonia. Pentru vizitatori, este un loc de reflecție asupra luptei pentru independență și libertate.", "category": "historical", "coords": [25.404995, 57.536092]}], "en": [{"name": "Valmieras drāmas teātris", "text": "A prominent professional theatre in Valmiera.", "category": "cultural", "coords": [25.425756, 57.53931]}, {"name": "Valmieras pils", "text": "The ruins of a medieval castle in Valmiera.", "category": "castle", "coords": [25.427977, 57.539024]}, {"name": "Valmieras Peldbaseina Atpūtas Zona", "text": "A recreation and swimming area in Valmiera.", "category": "family", "coords": [25.388492, 57.527572]}, {"name": "Valmieras novadpētniecības muzejs", "text": "A museum of regional history and culture.", "category": "museum", "coords": [25.429035, 57.539328]}, {"name": "Daliņu Pludmale", "text": "A popular beach on the banks of the Gauja river.", "category": "recreational", "coords": [25.454391, 57.541761]}, {"name": "Valmieras brīvdabas estrāde", "text": "An open-air stage for concerts and shows.", "category": "cultural", "coords": [25.438642, 57.538013]}, {"name": "Sašķeltā liepa", "text": "A local natural monument in the form of a distinctive linden tree.", "category": "historical", "coords": [25.432911, 57.540238]}, {"name": "Laipa", "text": "The Laipa gallery brings contemporary art to the heart of Valmiera. As a museum, it provides a stage for modern creative expression in Latvia. Culture enthusiasts will find regularly changing exhibitions and fresh artistic perspectives here.", "category": "museum", "coords": [25.436832, 57.525406]}, {"name": "Barikāžu piemiņas vieta", "text": "The Barikāžu piemiņas vieta is an important historical site in Valmiera. The monument solemnly commemorates Latvia's dramatic barricade era. For visitors, it is a place of reflection on the struggle for independence and freedom.", "category": "historical", "coords": [25.404995, 57.536092]}]},
+    id: "lv-valmiera", "sights": {
+      "de": [
+            {
+                  "name": "Valmieras drāmas teātris",
+                  "text": "Ein bedeutendes professionelles Theater in Valmiera.",
+                  "category": "cultural",
+                  "coords": [
+                        25.425756,
+                        57.53931
+                  ]
+            },
+            {
+                  "name": "Schloß Wolmar",
+                  "text": "Die Ruinen einer mittelalterlichen Burg in Valmiera.",
+                  "category": "castle",
+                  "coords": [
+                        25.427977,
+                        57.539024
+                  ]
+            },
+            {
+                  "name": "Valmieras Peldbaseina Atpūtas Zona",
+                  "text": "Ein Freizeit- und Badebereich in Valmiera.",
+                  "category": "family",
+                  "coords": [
+                        25.388492,
+                        57.527572
+                  ]
+            },
+            {
+                  "name": "Valmieras novadpētniecības muzejs",
+                  "text": "Ein Museum für regionale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        25.429035,
+                        57.539328
+                  ]
+            },
+            {
+                  "name": "Valmieras brīvdabas estrāde",
+                  "text": "Eine Freilichtbühne für Konzerte und Shows.",
+                  "category": "cultural",
+                  "coords": [
+                        25.438642,
+                        57.538013
+                  ]
+            },
+            {
+                  "name": "Sašķeltā liepa",
+                  "text": "Ein lokales Naturdenkmal in Form einer markanten Linde.",
+                  "category": "historical",
+                  "coords": [
+                        25.432911,
+                        57.540238
+                  ]
+            },
+            {
+                  "name": "Laipa",
+                  "text": "Die Galerie Laipa bringt zeitgenössische Kunst in das Herz von Valmiera. Als Museum bietet sie eine Bühne für moderne kreative Ausdrucksformen in Lettland. Kulturbegeisterte finden hier regelmäßig wechselnde Ausstellungen und frische künstlerische Perspektiven.",
+                  "category": "museum",
+                  "coords": [
+                        25.436832,
+                        57.525406
+                  ]
+            },
+            {
+                  "name": "Barikāžu piemiņas vieta",
+                  "text": "Die Barikāžu piemiņas vieta ist eine wichtige historische Stätte in Valmiera. Das Denkmal erinnert feierlich an die dramatische Barrikadenzeit Lettlands. Für Besucher ist es ein Ort der Reflexion über den Kampf für Unabhängigkeit und Freiheit.",
+                  "category": "historical",
+                  "coords": [
+                        25.404995,
+                        57.536092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valmieras drāmas teātris",
+                  "text": "Jelentős hivatásos színház Valmierában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.425756,
+                        57.53931
+                  ]
+            },
+            {
+                  "name": "Valmieras pils",
+                  "text": "Egy középkori vár romjai Valmierában.",
+                  "category": "castle",
+                  "coords": [
+                        25.427977,
+                        57.539024
+                  ]
+            },
+            {
+                  "name": "Valmieras Peldbaseina Atpūtas Zona",
+                  "text": "Szabadidős és fürdőhely Valmierában.",
+                  "category": "family",
+                  "coords": [
+                        25.388492,
+                        57.527572
+                  ]
+            },
+            {
+                  "name": "Valmieras novadpētniecības muzejs",
+                  "text": "Regionális történelmi és kulturális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.429035,
+                        57.539328
+                  ]
+            },
+            {
+                  "name": "Valmieras brīvdabas estrāde",
+                  "text": "Szabadtéri színpad koncertekhez és előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        25.438642,
+                        57.538013
+                  ]
+            },
+            {
+                  "name": "Sašķeltā liepa",
+                  "text": "Helyi természeti emlék egy jellegzetes hársfa formájában.",
+                  "category": "historical",
+                  "coords": [
+                        25.432911,
+                        57.540238
+                  ]
+            },
+            {
+                  "name": "Laipa",
+                  "text": "A Laipa galéria elhozza a kortárs művészetet Valmiera szívébe. Múzeumként a modern kreatív kifejezésmódok színterét kínálja Lettországban. A kultúra szerelmesei rendszeresen változó kiállításokat és friss művészeti perspektívákat találhatnak itt.",
+                  "category": "museum",
+                  "coords": [
+                        25.436832,
+                        57.525406
+                  ]
+            },
+            {
+                  "name": "Barikāžu piemiņas vieta",
+                  "text": "A Barikāžu piemiņas vieta egy fontos történelmi helyszín Valmierában. Az emlékmű Lettország drámai barikádos időszakának állít ünnepélyes emléket. A látogatók számára a függetlenségért és szabadságért folytatott küzdelemről való elmélkedés helyszíne.",
+                  "category": "historical",
+                  "coords": [
+                        25.404995,
+                        57.536092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valmieras drāmas teātris",
+                  "text": "Un teatru profesionist important în Valmiera.",
+                  "category": "cultural",
+                  "coords": [
+                        25.425756,
+                        57.53931
+                  ]
+            },
+            {
+                  "name": "Valmieras pils",
+                  "text": "Ruinele unui castel medieval în Valmiera.",
+                  "category": "castle",
+                  "coords": [
+                        25.427977,
+                        57.539024
+                  ]
+            },
+            {
+                  "name": "Valmieras Peldbaseina Atpūtas Zona",
+                  "text": "O zonă de recreere și înot în Valmiera.",
+                  "category": "family",
+                  "coords": [
+                        25.388492,
+                        57.527572
+                  ]
+            },
+            {
+                  "name": "Valmieras novadpētniecības muzejs",
+                  "text": "Un muzeu de istorie și cultură regională.",
+                  "category": "museum",
+                  "coords": [
+                        25.429035,
+                        57.539328
+                  ]
+            },
+            {
+                  "name": "Valmieras brīvdabas estrāde",
+                  "text": "O scenă în aer liber pentru concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        25.438642,
+                        57.538013
+                  ]
+            },
+            {
+                  "name": "Sašķeltā liepa",
+                  "text": "Un monument natural local sub forma unui tei distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        25.432911,
+                        57.540238
+                  ]
+            },
+            {
+                  "name": "Laipa",
+                  "text": "Galeria Laipa aduce arta contemporană în inima orașului Valmiera. Ca muzeu, oferă o scenă pentru expresiile creative moderne din Letonia. Pasionații de cultură vor găsi aici expoziții care se schimbă regulat și perspective artistice proaspete.",
+                  "category": "museum",
+                  "coords": [
+                        25.436832,
+                        57.525406
+                  ]
+            },
+            {
+                  "name": "Barikāžu piemiņas vieta",
+                  "text": "Barikāžu piemiņas vieta este un sit istoric important în Valmiera. Monumentul comemorează solemn era dramatică a baricadelor din Letonia. Pentru vizitatori, este un loc de reflecție asupra luptei pentru independență și libertate.",
+                  "category": "historical",
+                  "coords": [
+                        25.404995,
+                        57.536092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valmieras drāmas teātris",
+                  "text": "A prominent professional theatre in Valmiera.",
+                  "category": "cultural",
+                  "coords": [
+                        25.425756,
+                        57.53931
+                  ]
+            },
+            {
+                  "name": "Valmieras pils",
+                  "text": "The ruins of a medieval castle in Valmiera.",
+                  "category": "castle",
+                  "coords": [
+                        25.427977,
+                        57.539024
+                  ]
+            },
+            {
+                  "name": "Valmieras Peldbaseina Atpūtas Zona",
+                  "text": "A recreation and swimming area in Valmiera.",
+                  "category": "family",
+                  "coords": [
+                        25.388492,
+                        57.527572
+                  ]
+            },
+            {
+                  "name": "Valmieras novadpētniecības muzejs",
+                  "text": "A museum of regional history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        25.429035,
+                        57.539328
+                  ]
+            },
+            {
+                  "name": "Valmieras brīvdabas estrāde",
+                  "text": "An open-air stage for concerts and shows.",
+                  "category": "cultural",
+                  "coords": [
+                        25.438642,
+                        57.538013
+                  ]
+            },
+            {
+                  "name": "Sašķeltā liepa",
+                  "text": "A local natural monument in the form of a distinctive linden tree.",
+                  "category": "historical",
+                  "coords": [
+                        25.432911,
+                        57.540238
+                  ]
+            },
+            {
+                  "name": "Laipa",
+                  "text": "The Laipa gallery brings contemporary art to the heart of Valmiera. As a museum, it provides a stage for modern creative expression in Latvia. Culture enthusiasts will find regularly changing exhibitions and fresh artistic perspectives here.",
+                  "category": "museum",
+                  "coords": [
+                        25.436832,
+                        57.525406
+                  ]
+            },
+            {
+                  "name": "Barikāžu piemiņas vieta",
+                  "text": "The Barikāžu piemiņas vieta is an important historical site in Valmiera. The monument solemnly commemorates Latvia's dramatic barricade era. For visitors, it is a place of reflection on the struggle for independence and freedom.",
+                  "category": "historical",
+                  "coords": [
+                        25.404995,
+                        57.536092
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [25.4276, 57.5383],
@@ -10012,15 +8977,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Mārtiņsalas peldvieta",
-                  "text": "Ein beliebter Badeplatz am Fluss Venta auf der Insel Mārtiņsala in Kuldīga.",
-                  "category": "recreational",
-                  "coords": [
-                        21.981305,
-                        56.967852
-                  ]
-            },
-            {
                   "name": "Windauer Rummel",
                   "text": "Mit etwa 240 Metern Breite gilt dieser Wasserfall in Kuldīga als der breiteste Europas.",
                   "category": "landmark",
@@ -10164,15 +9120,6 @@ export const latviaAllPoi = [
                   "coords": [
                         22.003255,
                         56.999571
-                  ]
-            },
-            {
-                  "name": "Mārtiņsalas peldvieta",
-                  "text": "Népszerű fürdőhely a Venta-folyón, a kuldīgai Mārtiņsala-szigeten.",
-                  "category": "recreational",
-                  "coords": [
-                        21.981305,
-                        56.967852
                   ]
             },
             {
@@ -10322,15 +9269,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Mārtiņsalas peldvieta",
-                  "text": "Un loc popular pentru scăldat pe râul Venta, pe insula Mārtiņsala din Kuldīga.",
-                  "category": "recreational",
-                  "coords": [
-                        21.981305,
-                        56.967852
-                  ]
-            },
-            {
                   "name": "Ventas rumba",
                   "text": "Cu o lățime de aproximativ 240 de metri, această cascadă din Kuldīga este cea mai lată din Europa.",
                   "category": "landmark",
@@ -10474,15 +9412,6 @@ export const latviaAllPoi = [
                   "coords": [
                         22.003255,
                         56.999571
-                  ]
-            },
-            {
-                  "name": "Mārtiņsalas peldvieta",
-                  "text": "A popular swimming spot on the Venta River on Mārtiņsala Island in Kuldīga.",
-                  "category": "recreational",
-                  "coords": [
-                        21.981305,
-                        56.967852
                   ]
             },
             {
@@ -10664,15 +9593,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Sātiņu-Sesiles karjers",
-                  "text": "Der Sātiņu-Sesiles karjers bei Saldus ist ein ehemaliger Steinbruch, der heute als naturnaher See dient.",
-                  "category": "natural",
-                  "coords": [
-                        22.419981,
-                        56.638215
-                  ]
-            },
-            {
                   "name": "Cieceres dzirnavu dīķis",
                   "text": "Der Cieceres dzirnavu dīķis in Saldus ist ein malerischer Teich, ideal für einen kurzen Spaziergang.",
                   "category": "natural",
@@ -10762,15 +9682,6 @@ export const latviaAllPoi = [
                   "coords": [
                         22.490405,
                         56.671535
-                  ]
-            },
-            {
-                  "name": "Sātiņu-Sesiles karjers",
-                  "text": "A Sātiņu-Sesiles karjers Saldus közelében egy egykori kőfejtő, amely ma természetközeli tóként szolgál.",
-                  "category": "natural",
-                  "coords": [
-                        22.419981,
-                        56.638215
                   ]
             },
             {
@@ -10866,15 +9777,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Sātiņu-Sesiles karjers",
-                  "text": "Sātiņu-Sesiles karjers de lângă Saldus este o fostă carieră care astăzi servește ca lac natural.",
-                  "category": "natural",
-                  "coords": [
-                        22.419981,
-                        56.638215
-                  ]
-            },
-            {
                   "name": "Cieceres dzirnavu dīķis",
                   "text": "Cieceres dzirnavu dīķis din Saldus este un iaz pitoresc, ideal pentru o scurtă plimbare.",
                   "category": "natural",
@@ -10964,15 +9866,6 @@ export const latviaAllPoi = [
                   "coords": [
                         22.490405,
                         56.671535
-                  ]
-            },
-            {
-                  "name": "Sātiņu-Sesiles karjers",
-                  "text": "Sātiņu-Sesiles karjers near Saldus is a former quarry that now serves as a nature-oriented lake.",
-                  "category": "natural",
-                  "coords": [
-                        22.419981,
-                        56.638215
                   ]
             },
             {
@@ -14657,15 +13550,6 @@ export const latviaAllPoi = [
     id: "lv-kanieris-lake", "sights": {
       "de": [
             {
-                  "name": "Lapmežciema muzejs",
-                  "text": "Ein lokales Museum in Lapmežciems, das die Geschichte des Küstendorfes beleuchtet.",
-                  "category": "museum",
-                  "coords": [
-                        23.512177,
-                        57.000729
-                  ]
-            },
-            {
                   "name": "Sīliņupes akmens laikmeta apmetnes vieta",
                   "text": "Eine archäologische Ausgrabungsstätte, die den Standort einer antiken steinzeitlichen Siedlung markiert.",
                   "category": "historical",
@@ -14693,15 +13577,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Ķemeru liegums",
-                  "text": "Ein geschütztes Naturschutzgebiet, das Teil des Ökosystems des Nationalparks Ķemeri ist.",
-                  "category": "natural",
-                  "coords": [
-                        23.452036,
-                        56.982577
-                  ]
-            },
-            {
                   "name": "Lapmežciema - Bigauņciema pludmale",
                   "text": "Ein Sandstrand an der Küste des Golfs von Riga.",
                   "category": "recreational",
@@ -14709,36 +13584,9 @@ export const latviaAllPoi = [
                         23.525463,
                         56.994584
                   ]
-            },
-            {
-                  "name": "Ķemeru neitrālā zona",
-                  "text": "Ein Naturschutzgebiet in der Region Ķemeri, das dem Umweltschutz gewidmet ist.",
-                  "category": "natural",
-                  "coords": [
-                        23.490131,
-                        56.945039
-                  ]
-            },
-            {
-                  "name": "Ķemeru kūrorta parks",
-                  "text": "Ein historischer Kurpark in Ķemeri, bekannt für seine Landschaftsgestaltung und Architektur.",
-                  "category": "park",
-                  "coords": [
-                        23.497393,
-                        56.947003
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Lapmežciema muzejs",
-                  "text": "Lapmežciems helyi múzeuma, amely a parti falu történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        23.512177,
-                        57.000729
-                  ]
-            },
             {
                   "name": "Sīliņupes akmens laikmeta apmetnes vieta",
                   "text": "Régészeti lelőhely, amely egy ősi kőkorszaki település helyét jelzi.",
@@ -14767,15 +13615,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Ķemeru liegums",
-                  "text": "Védett természetvédelmi terület, amely a Ķemeri Nemzeti Park ökoszisztémájának része.",
-                  "category": "natural",
-                  "coords": [
-                        23.452036,
-                        56.982577
-                  ]
-            },
-            {
                   "name": "Lapmežciema - Bigauņciema pludmale",
                   "text": "Homokos tengerparti szakasz a Rigai-öböl partján.",
                   "category": "recreational",
@@ -14783,36 +13622,9 @@ export const latviaAllPoi = [
                         23.525463,
                         56.994584
                   ]
-            },
-            {
-                  "name": "Ķemeru neitrālā zona",
-                  "text": "Természetvédelmi terület a Ķemeri régióban, a környezet megóvása érdekében.",
-                  "category": "natural",
-                  "coords": [
-                        23.490131,
-                        56.945039
-                  ]
-            },
-            {
-                  "name": "Ķemeru kūrorta parks",
-                  "text": "Történelmi üdülőpark Ķemeriben, amely tájépítészetéről és építészetéről ismert.",
-                  "category": "park",
-                  "coords": [
-                        23.497393,
-                        56.947003
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Lapmežciema muzejs",
-                  "text": "Un muzeu local din Lapmežciems care explorează istoria satului de coastă.",
-                  "category": "museum",
-                  "coords": [
-                        23.512177,
-                        57.000729
-                  ]
-            },
             {
                   "name": "Sīliņupes akmens laikmeta apmetnes vieta",
                   "text": "Un sit arheologic care marchează locația unei așezări antice din epoca pietrei.",
@@ -14841,15 +13653,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Ķemeru liegums",
-                  "text": "O rezervație naturală protejată care face parte din ecosistemul Parcului Național Ķemeri.",
-                  "category": "natural",
-                  "coords": [
-                        23.452036,
-                        56.982577
-                  ]
-            },
-            {
                   "name": "Lapmežciema - Bigauņciema pludmale",
                   "text": "O zonă de plajă cu nisip pe coasta Golfului Riga.",
                   "category": "recreational",
@@ -14857,36 +13660,9 @@ export const latviaAllPoi = [
                         23.525463,
                         56.994584
                   ]
-            },
-            {
-                  "name": "Ķemeru neitrālā zona",
-                  "text": "O zonă de rezervație naturală în regiunea Ķemeri dedicată protecției mediului.",
-                  "category": "natural",
-                  "coords": [
-                        23.490131,
-                        56.945039
-                  ]
-            },
-            {
-                  "name": "Ķemeru kūrorta parks",
-                  "text": "Un parc istoric de stațiune din Ķemeri, cunoscut pentru designul peisagistic și arhitectura sa.",
-                  "category": "park",
-                  "coords": [
-                        23.497393,
-                        56.947003
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Lapmežciema muzejs",
-                  "text": "A local museum in Lapmežciems exploring the history of the coastal village.",
-                  "category": "museum",
-                  "coords": [
-                        23.512177,
-                        57.000729
-                  ]
-            },
             {
                   "name": "Sīliņupes akmens laikmeta apmetnes vieta",
                   "text": "An archaeological site marking the location of an ancient Stone Age settlement.",
@@ -14915,39 +13691,12 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Ķemeru liegums",
-                  "text": "A protected nature reserve forming part of the Ķemeri National Park ecosystem.",
-                  "category": "natural",
-                  "coords": [
-                        23.452036,
-                        56.982577
-                  ]
-            },
-            {
                   "name": "Lapmežciema - Bigauņciema pludmale",
                   "text": "A sandy beach area on the coast of the Gulf of Riga.",
                   "category": "recreational",
                   "coords": [
                         23.525463,
                         56.994584
-                  ]
-            },
-            {
-                  "name": "Ķemeru neitrālā zona",
-                  "text": "A nature reserve area within the Ķemeri region dedicated to environmental protection.",
-                  "category": "natural",
-                  "coords": [
-                        23.490131,
-                        56.945039
-                  ]
-            },
-            {
-                  "name": "Ķemeru kūrorta parks",
-                  "text": "A historic resort park in Ķemeri, known for its landscape design and architecture.",
-                  "category": "park",
-                  "coords": [
-                        23.497393,
-                        56.947003
                   ]
             }
       ]
@@ -16418,7 +15167,520 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-kraslava", "sights": {"de": [{"name": "Schloss Kreslau", "text": "Das Barockschloss der Familie Plater ist ein markantes Wahrzeichen von Krāslava.", "category": "castle", "coords": [27.159684, 55.899614]}, {"name": "dabas parks „Daugavas loki”", "text": "Ein Naturpark, der die malerischen Mäander des Flusses Düna bei Krāslava schützt.", "category": "natural", "coords": [26.928458, 55.895251]}, {"name": "Adamovas pilskalns", "text": "Eine archäologische Stätte eines alten Burgwalls in der Nähe von Krāslava.", "category": "historical", "coords": [27.13361, 55.89388]}, {"name": "Krāslavas pilskalns", "text": "Ein historischer Burgwall in Krāslava mit archäologischer Bedeutung.", "category": "historical", "coords": [27.16611, 55.91]}, {"name": "Zelta pludmale", "text": "Ein Strand in Krāslava, der zur Erholung am Wasser einlädt.", "category": "recreational", "coords": [27.15289, 55.895674]}, {"name": "Skatu laukums", "text": "Ein Aussichtspunkt in Krāslava mit Blick auf die umliegende Landschaft.", "category": "natural", "coords": [27.135769, 55.894383]}, {"name": "Karņicka kalns", "text": "Eine lokale Sehenswürdigkeit in Krāslava, die oft von Besuchern aufgesucht wird.", "category": "landmark", "coords": [27.146434, 55.899456]}, {"name": "Mākslas māja", "text": "Ein Kunstzentrum in Krāslava, das Raum für kreative Ausstellungen bietet.", "category": "cultural", "coords": [27.170254, 55.895231]}, {"name": "Krāslavas Svētā Ludvika Romas katoļu baznīca", "text": "Eine bedeutende römisch-katholische Kirche in Krāslava, dem heiligen Ludwig gewidmet.", "category": "religious", "coords": [27.169943, 55.897943]}, {"name": "Persteņa ezers", "text": "Ein kleiner See in Krāslava, der zum Entspannen in der Natur einlädt.", "category": "natural", "coords": [27.180779, 55.898308]}, {"name": "Skumbiņu ezers", "text": "Ein friedliches Gewässer bei Krāslava für ruhige Stunden im Freien.", "category": "natural", "coords": [27.177016, 55.868757]}, {"name": "vozera Prasvyata", "text": "Ein malerischer See in Krāslava für Naturbeobachtungen am Wasser.", "category": "natural", "coords": [27.110747, 55.838384]}, {"name": "Baļščicas ezers", "text": "Ein kleiner See bei Krāslava, der Teil der lokalen Landschaft ist.", "category": "natural", "coords": [27.210391, 55.841067]}, {"name": "vozera Akunya", "text": "Ein ruhiger Ort am See in Krāslava für eine Pause im Grünen.", "category": "natural", "coords": [27.156579, 55.824715]}, {"name": "Rožupoles Kalna dzirnavezers", "text": "Ein Mühlensee bei Krāslava für entspannte Spaziergänge in der Natur.", "category": "natural", "coords": [27.226869, 55.843685]}], "hu": [{"name": "Krāslavas Grāfu Plāteru pils", "text": "A Plater család barokk stílusú kastélya Krāslava egyik nevezetessége.", "category": "castle", "coords": [27.159684, 55.899614]}, {"name": "dabas parks „Daugavas loki”", "text": "Természetvédelmi terület, amely a Daugava folyó festői kanyarulatait védi Krāslava környékén.", "category": "natural", "coords": [26.928458, 55.895251]}, {"name": "Adamovas pilskalns", "text": "Egy ősi várhely régészeti lelőhelye Krāslava közelében.", "category": "historical", "coords": [27.13361, 55.89388]}, {"name": "Krāslavas pilskalns", "text": "Krāslava történelmi várhegye, amely fontos régészeti helyszín.", "category": "historical", "coords": [27.16611, 55.91]}, {"name": "Zelta pludmale", "text": "Strand Krāslava városában, amely kikapcsolódási lehetőséget kínál a vízparton.", "category": "recreational", "coords": [27.15289, 55.895674]}, {"name": "Skatu laukums", "text": "Kilátópont Krāslavában, ahonnan panoráma nyílik a környező tájra.", "category": "natural", "coords": [27.135769, 55.894383]}, {"name": "Karņicka kalns", "text": "Krāslava egyik helyi látványossága, amely népszerű a látogatók körében.", "category": "landmark", "coords": [27.146434, 55.899456]}, {"name": "Mākslas māja", "text": "Művészeti központ Krāslavában, amely különféle kiállításoknak ad otthont.", "category": "cultural", "coords": [27.170254, 55.895231]}, {"name": "Krāslavas Svētā Ludvika Romas katoļu baznīca", "text": "Szent Lajosnak szentelt jelentős római katolikus templom Krāslava városában.", "category": "religious", "coords": [27.169943, 55.897943]}, {"name": "Persteņa ezers", "text": "Egy kis tó Krāslavában, amely a természetben való pihenésre hív.", "category": "natural", "coords": [27.180779, 55.898308]}, {"name": "Skumbiņu ezers", "text": "Békés vízfelület Krāslava közelében a csendes szabadtéri órákhoz.", "category": "natural", "coords": [27.177016, 55.868757]}, {"name": "vozera Prasvyata", "text": "Festői tó Krāslavában a vízparti természetmegfigyeléshez.", "category": "natural", "coords": [27.110747, 55.838384]}, {"name": "Baļščicas ezers", "text": "Egy kis tó Krāslava közelében, amely a helyi táj része.", "category": "natural", "coords": [27.210391, 55.841067]}, {"name": "vozera Akunya", "text": "Csendes vízparti hely Krāslavában egy pihenőhöz a zöldben.", "category": "natural", "coords": [27.156579, 55.824715]}, {"name": "Rožupoles Kalna dzirnavezers", "text": "Egy malom-tó Krāslava közelében a pihentető természetjáró sétákhoz.", "category": "natural", "coords": [27.226869, 55.843685]}], "ro": [{"name": "Krāslavas Grāfu Plāteru pils", "text": "Palatul familiei Plater este un castel baroc reprezentativ pentru orașul Krāslava.", "category": "castle", "coords": [27.159684, 55.899614]}, {"name": "dabas parks „Daugavas loki”", "text": "Un parc natural care protejează meandrele pitorești ale râului Daugava lângă Krāslava.", "category": "natural", "coords": [26.928458, 55.895251]}, {"name": "Adamovas pilskalns", "text": "Un sit arheologic ce cuprinde o veche așezare fortificată lângă Krāslava.", "category": "historical", "coords": [27.13361, 55.89388]}, {"name": "Krāslavas pilskalns", "text": "Un vechi dâmb fortificat din Krāslava, având o mare importanță arheologică.", "category": "historical", "coords": [27.16611, 55.91]}, {"name": "Zelta pludmale", "text": "O plajă în Krāslava, ideală pentru relaxare pe malul apei.", "category": "recreational", "coords": [27.15289, 55.895674]}, {"name": "Skatu laukums", "text": "Un punct de observație în Krāslava ce oferă priveliști asupra peisajului înconjurător.", "category": "natural", "coords": [27.135769, 55.894383]}, {"name": "Karņicka kalns", "text": "O atracție locală din Krāslava, frecventată de turiști și localnici.", "category": "landmark", "coords": [27.146434, 55.899456]}, {"name": "Mākslas māja", "text": "Un centru de artă din Krāslava care găzduiește diverse activități creative și expoziții.", "category": "cultural", "coords": [27.170254, 55.895231]}, {"name": "Krāslavas Svētā Ludvika Romas katoļu baznīca", "text": "O biserică romano-catolică importantă din Krāslava, dedicată Sfântului Ludovic.", "category": "religious", "coords": [27.169943, 55.897943]}, {"name": "Persteņa ezers", "text": "Un lac mic în Krāslava, care invită la relaxare în natură.", "category": "natural", "coords": [27.180779, 55.898308]}, {"name": "Skumbiņu ezers", "text": "O apă pașnică lângă Krāslava pentru ore liniștite în aer liber.", "category": "natural", "coords": [27.177016, 55.868757]}, {"name": "vozera Prasvyata", "text": "Un lac pitoresc în Krāslava pentru observații în natură pe malul apei.", "category": "natural", "coords": [27.110747, 55.838384]}, {"name": "Baļščicas ezers", "text": "Un lac mic lângă Krāslava, care face parte din peisajul local.", "category": "natural", "coords": [27.210391, 55.841067]}, {"name": "vozera Akunya", "text": "Un loc liniștit lângă lac în Krāslava pentru o pauză în natură.", "category": "natural", "coords": [27.156579, 55.824715]}, {"name": "Rožupoles Kalna dzirnavezers", "text": "Un lac de moară lângă Krāslava pentru plimbări relaxante în natură.", "category": "natural", "coords": [27.226869, 55.843685]}], "en": [{"name": "Krāslava Plater Palace", "text": "The Plater family's Baroque palace is a prominent landmark in Krāslava.", "category": "castle", "coords": [27.159684, 55.899614]}, {"name": "Daugava river bends nature park", "text": "A nature park protecting the scenic meanders of the Daugava River near Krāslava.", "category": "natural", "coords": [26.928458, 55.895251]}, {"name": "Adamovas pilskalns", "text": "An archaeological site of an ancient hillfort located near Krāslava.", "category": "historical", "coords": [27.13361, 55.89388]}, {"name": "Krāslavas pilskalns", "text": "A historic hillfort in Krāslava with significant archaeological value.", "category": "historical", "coords": [27.16611, 55.91]}, {"name": "Zelta pludmale", "text": "A beach in Krāslava offering a place for recreation by the water.", "category": "recreational", "coords": [27.15289, 55.895674]}, {"name": "Skatu laukums", "text": "A viewpoint in Krāslava offering views of the surrounding landscape.", "category": "natural", "coords": [27.135769, 55.894383]}, {"name": "Karņicka kalns", "text": "A local attraction in Krāslava frequently visited by tourists.", "category": "landmark", "coords": [27.146434, 55.899456]}, {"name": "Mākslas māja", "text": "An arts centre in Krāslava that hosts various creative exhibitions.", "category": "cultural", "coords": [27.170254, 55.895231]}, {"name": "Krāslavas Svētā Ludvika Romas katoļu baznīca", "text": "A significant Roman Catholic church in Krāslava dedicated to Saint Louis.", "category": "religious", "coords": [27.169943, 55.897943]}, {"name": "Persteņa ezers", "text": "A small lake in Krāslava, inviting for relaxation in nature.", "category": "natural", "coords": [27.180779, 55.898308]}, {"name": "Skumbiņu ezers", "text": "A peaceful body of water near Krāslava for quiet hours outdoors.", "category": "natural", "coords": [27.177016, 55.868757]}, {"name": "vozera Prasvyata", "text": "A picturesque lake in Krāslava for nature observations by the water.", "category": "natural", "coords": [27.110747, 55.838384]}, {"name": "Baļščicas ezers", "text": "A small lake near Krāslava, part of the local landscape.", "category": "natural", "coords": [27.210391, 55.841067]}, {"name": "vozera Akunya", "text": "A quiet spot by the lake in Krāslava for a break in the greenery.", "category": "natural", "coords": [27.156579, 55.824715]}, {"name": "Rožupoles Kalna dzirnavezers", "text": "A mill lake near Krāslava for relaxed nature walks.", "category": "natural", "coords": [27.226869, 55.843685]}]},
+    id: "lv-kraslava", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Kreslau",
+                  "text": "Das Barockschloss der Familie Plater ist ein markantes Wahrzeichen von Krāslava.",
+                  "category": "castle",
+                  "coords": [
+                        27.159684,
+                        55.899614
+                  ]
+            },
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Ein Naturpark, der die malerischen Mäander des Flusses Düna bei Krāslava schützt.",
+                  "category": "natural",
+                  "coords": [
+                        26.928458,
+                        55.895251
+                  ]
+            },
+            {
+                  "name": "Adamovas pilskalns",
+                  "text": "Eine archäologische Stätte eines alten Burgwalls in der Nähe von Krāslava.",
+                  "category": "historical",
+                  "coords": [
+                        27.13361,
+                        55.89388
+                  ]
+            },
+            {
+                  "name": "Krāslavas pilskalns",
+                  "text": "Ein historischer Burgwall in Krāslava mit archäologischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        27.16611,
+                        55.91
+                  ]
+            },
+            {
+                  "name": "Skatu laukums",
+                  "text": "Ein Aussichtspunkt in Krāslava mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        27.135769,
+                        55.894383
+                  ]
+            },
+            {
+                  "name": "Karņicka kalns",
+                  "text": "Eine lokale Sehenswürdigkeit in Krāslava, die oft von Besuchern aufgesucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        27.146434,
+                        55.899456
+                  ]
+            },
+            {
+                  "name": "Mākslas māja",
+                  "text": "Ein Kunstzentrum in Krāslava, das Raum für kreative Ausstellungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        27.170254,
+                        55.895231
+                  ]
+            },
+            {
+                  "name": "Krāslavas Svētā Ludvika Romas katoļu baznīca",
+                  "text": "Eine bedeutende römisch-katholische Kirche in Krāslava, dem heiligen Ludwig gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        27.169943,
+                        55.897943
+                  ]
+            },
+            {
+                  "name": "Persteņa ezers",
+                  "text": "Ein kleiner See in Krāslava, der zum Entspannen in der Natur einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        27.180779,
+                        55.898308
+                  ]
+            },
+            {
+                  "name": "Skumbiņu ezers",
+                  "text": "Ein friedliches Gewässer bei Krāslava für ruhige Stunden im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        27.177016,
+                        55.868757
+                  ]
+            },
+            {
+                  "name": "vozera Prasvyata",
+                  "text": "Ein malerischer See in Krāslava für Naturbeobachtungen am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        27.110747,
+                        55.838384
+                  ]
+            },
+            {
+                  "name": "Baļščicas ezers",
+                  "text": "Ein kleiner See bei Krāslava, der Teil der lokalen Landschaft ist.",
+                  "category": "natural",
+                  "coords": [
+                        27.210391,
+                        55.841067
+                  ]
+            },
+            {
+                  "name": "vozera Akunya",
+                  "text": "Ein ruhiger Ort am See in Krāslava für eine Pause im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        27.156579,
+                        55.824715
+                  ]
+            },
+            {
+                  "name": "Rožupoles Kalna dzirnavezers",
+                  "text": "Ein Mühlensee bei Krāslava für entspannte Spaziergänge in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        27.226869,
+                        55.843685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krāslavas Grāfu Plāteru pils",
+                  "text": "A Plater család barokk stílusú kastélya Krāslava egyik nevezetessége.",
+                  "category": "castle",
+                  "coords": [
+                        27.159684,
+                        55.899614
+                  ]
+            },
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Természetvédelmi terület, amely a Daugava folyó festői kanyarulatait védi Krāslava környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.928458,
+                        55.895251
+                  ]
+            },
+            {
+                  "name": "Adamovas pilskalns",
+                  "text": "Egy ősi várhely régészeti lelőhelye Krāslava közelében.",
+                  "category": "historical",
+                  "coords": [
+                        27.13361,
+                        55.89388
+                  ]
+            },
+            {
+                  "name": "Krāslavas pilskalns",
+                  "text": "Krāslava történelmi várhegye, amely fontos régészeti helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        27.16611,
+                        55.91
+                  ]
+            },
+            {
+                  "name": "Skatu laukums",
+                  "text": "Kilátópont Krāslavában, ahonnan panoráma nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        27.135769,
+                        55.894383
+                  ]
+            },
+            {
+                  "name": "Karņicka kalns",
+                  "text": "Krāslava egyik helyi látványossága, amely népszerű a látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.146434,
+                        55.899456
+                  ]
+            },
+            {
+                  "name": "Mākslas māja",
+                  "text": "Művészeti központ Krāslavában, amely különféle kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        27.170254,
+                        55.895231
+                  ]
+            },
+            {
+                  "name": "Krāslavas Svētā Ludvika Romas katoļu baznīca",
+                  "text": "Szent Lajosnak szentelt jelentős római katolikus templom Krāslava városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.169943,
+                        55.897943
+                  ]
+            },
+            {
+                  "name": "Persteņa ezers",
+                  "text": "Egy kis tó Krāslavában, amely a természetben való pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        27.180779,
+                        55.898308
+                  ]
+            },
+            {
+                  "name": "Skumbiņu ezers",
+                  "text": "Békés vízfelület Krāslava közelében a csendes szabadtéri órákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.177016,
+                        55.868757
+                  ]
+            },
+            {
+                  "name": "vozera Prasvyata",
+                  "text": "Festői tó Krāslavában a vízparti természetmegfigyeléshez.",
+                  "category": "natural",
+                  "coords": [
+                        27.110747,
+                        55.838384
+                  ]
+            },
+            {
+                  "name": "Baļščicas ezers",
+                  "text": "Egy kis tó Krāslava közelében, amely a helyi táj része.",
+                  "category": "natural",
+                  "coords": [
+                        27.210391,
+                        55.841067
+                  ]
+            },
+            {
+                  "name": "vozera Akunya",
+                  "text": "Csendes vízparti hely Krāslavában egy pihenőhöz a zöldben.",
+                  "category": "natural",
+                  "coords": [
+                        27.156579,
+                        55.824715
+                  ]
+            },
+            {
+                  "name": "Rožupoles Kalna dzirnavezers",
+                  "text": "Egy malom-tó Krāslava közelében a pihentető természetjáró sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.226869,
+                        55.843685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krāslavas Grāfu Plāteru pils",
+                  "text": "Palatul familiei Plater este un castel baroc reprezentativ pentru orașul Krāslava.",
+                  "category": "castle",
+                  "coords": [
+                        27.159684,
+                        55.899614
+                  ]
+            },
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Un parc natural care protejează meandrele pitorești ale râului Daugava lângă Krāslava.",
+                  "category": "natural",
+                  "coords": [
+                        26.928458,
+                        55.895251
+                  ]
+            },
+            {
+                  "name": "Adamovas pilskalns",
+                  "text": "Un sit arheologic ce cuprinde o veche așezare fortificată lângă Krāslava.",
+                  "category": "historical",
+                  "coords": [
+                        27.13361,
+                        55.89388
+                  ]
+            },
+            {
+                  "name": "Krāslavas pilskalns",
+                  "text": "Un vechi dâmb fortificat din Krāslava, având o mare importanță arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        27.16611,
+                        55.91
+                  ]
+            },
+            {
+                  "name": "Skatu laukums",
+                  "text": "Un punct de observație în Krāslava ce oferă priveliști asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        27.135769,
+                        55.894383
+                  ]
+            },
+            {
+                  "name": "Karņicka kalns",
+                  "text": "O atracție locală din Krāslava, frecventată de turiști și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        27.146434,
+                        55.899456
+                  ]
+            },
+            {
+                  "name": "Mākslas māja",
+                  "text": "Un centru de artă din Krāslava care găzduiește diverse activități creative și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        27.170254,
+                        55.895231
+                  ]
+            },
+            {
+                  "name": "Krāslavas Svētā Ludvika Romas katoļu baznīca",
+                  "text": "O biserică romano-catolică importantă din Krāslava, dedicată Sfântului Ludovic.",
+                  "category": "religious",
+                  "coords": [
+                        27.169943,
+                        55.897943
+                  ]
+            },
+            {
+                  "name": "Persteņa ezers",
+                  "text": "Un lac mic în Krāslava, care invită la relaxare în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.180779,
+                        55.898308
+                  ]
+            },
+            {
+                  "name": "Skumbiņu ezers",
+                  "text": "O apă pașnică lângă Krāslava pentru ore liniștite în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        27.177016,
+                        55.868757
+                  ]
+            },
+            {
+                  "name": "vozera Prasvyata",
+                  "text": "Un lac pitoresc în Krāslava pentru observații în natură pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        27.110747,
+                        55.838384
+                  ]
+            },
+            {
+                  "name": "Baļščicas ezers",
+                  "text": "Un lac mic lângă Krāslava, care face parte din peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        27.210391,
+                        55.841067
+                  ]
+            },
+            {
+                  "name": "vozera Akunya",
+                  "text": "Un loc liniștit lângă lac în Krāslava pentru o pauză în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.156579,
+                        55.824715
+                  ]
+            },
+            {
+                  "name": "Rožupoles Kalna dzirnavezers",
+                  "text": "Un lac de moară lângă Krāslava pentru plimbări relaxante în natură.",
+                  "category": "natural",
+                  "coords": [
+                        27.226869,
+                        55.843685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krāslava Plater Palace",
+                  "text": "The Plater family's Baroque palace is a prominent landmark in Krāslava.",
+                  "category": "castle",
+                  "coords": [
+                        27.159684,
+                        55.899614
+                  ]
+            },
+            {
+                  "name": "Daugava river bends nature park",
+                  "text": "A nature park protecting the scenic meanders of the Daugava River near Krāslava.",
+                  "category": "natural",
+                  "coords": [
+                        26.928458,
+                        55.895251
+                  ]
+            },
+            {
+                  "name": "Adamovas pilskalns",
+                  "text": "An archaeological site of an ancient hillfort located near Krāslava.",
+                  "category": "historical",
+                  "coords": [
+                        27.13361,
+                        55.89388
+                  ]
+            },
+            {
+                  "name": "Krāslavas pilskalns",
+                  "text": "A historic hillfort in Krāslava with significant archaeological value.",
+                  "category": "historical",
+                  "coords": [
+                        27.16611,
+                        55.91
+                  ]
+            },
+            {
+                  "name": "Skatu laukums",
+                  "text": "A viewpoint in Krāslava offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.135769,
+                        55.894383
+                  ]
+            },
+            {
+                  "name": "Karņicka kalns",
+                  "text": "A local attraction in Krāslava frequently visited by tourists.",
+                  "category": "landmark",
+                  "coords": [
+                        27.146434,
+                        55.899456
+                  ]
+            },
+            {
+                  "name": "Mākslas māja",
+                  "text": "An arts centre in Krāslava that hosts various creative exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        27.170254,
+                        55.895231
+                  ]
+            },
+            {
+                  "name": "Krāslavas Svētā Ludvika Romas katoļu baznīca",
+                  "text": "A significant Roman Catholic church in Krāslava dedicated to Saint Louis.",
+                  "category": "religious",
+                  "coords": [
+                        27.169943,
+                        55.897943
+                  ]
+            },
+            {
+                  "name": "Persteņa ezers",
+                  "text": "A small lake in Krāslava, inviting for relaxation in nature.",
+                  "category": "natural",
+                  "coords": [
+                        27.180779,
+                        55.898308
+                  ]
+            },
+            {
+                  "name": "Skumbiņu ezers",
+                  "text": "A peaceful body of water near Krāslava for quiet hours outdoors.",
+                  "category": "natural",
+                  "coords": [
+                        27.177016,
+                        55.868757
+                  ]
+            },
+            {
+                  "name": "vozera Prasvyata",
+                  "text": "A picturesque lake in Krāslava for nature observations by the water.",
+                  "category": "natural",
+                  "coords": [
+                        27.110747,
+                        55.838384
+                  ]
+            },
+            {
+                  "name": "Baļščicas ezers",
+                  "text": "A small lake near Krāslava, part of the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.210391,
+                        55.841067
+                  ]
+            },
+            {
+                  "name": "vozera Akunya",
+                  "text": "A quiet spot by the lake in Krāslava for a break in the greenery.",
+                  "category": "natural",
+                  "coords": [
+                        27.156579,
+                        55.824715
+                  ]
+            },
+            {
+                  "name": "Rožupoles Kalna dzirnavezers",
+                  "text": "A mill lake near Krāslava for relaxed nature walks.",
+                  "category": "natural",
+                  "coords": [
+                        27.226869,
+                        55.843685
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [27.1660, 55.8950],
@@ -16488,15 +15750,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Viļakas pilsētas pludmale",
-                  "text": "Der städtische Strand von Viļaka am Ufer des Viļaka-Sees.",
-                  "category": "recreational",
-                  "coords": [
-                        27.683489,
-                        57.188856
-                  ]
-            },
-            {
                   "name": "Viļakas Vissvētā Jēzus Sirds Romas katoļu baznīca",
                   "text": "Eine neugotische katholische Kirche in Viļaka, ein bedeutendes lokales Wahrzeichen.",
                   "category": "religious",
@@ -16550,15 +15803,6 @@ export const latviaAllPoi = [
                   "coords": [
                         27.669227,
                         57.183823
-                  ]
-            },
-            {
-                  "name": "Viļakas pilsētas pludmale",
-                  "text": "Viļaka városi strandja a Viļaka-tó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        27.683489,
-                        57.188856
                   ]
             },
             {
@@ -16618,15 +15862,6 @@ export const latviaAllPoi = [
                   ]
             },
             {
-                  "name": "Viļakas pilsētas pludmale",
-                  "text": "Plaja orașului Viļaka, situată pe malul lacului Viļaka.",
-                  "category": "recreational",
-                  "coords": [
-                        27.683489,
-                        57.188856
-                  ]
-            },
-            {
                   "name": "Viļakas Vissvētā Jēzus Sirds Romas katoļu baznīca",
                   "text": "O biserică catolică neogotică din Viļaka, un reper local important.",
                   "category": "religious",
@@ -16680,15 +15915,6 @@ export const latviaAllPoi = [
                   "coords": [
                         27.669227,
                         57.183823
-                  ]
-            },
-            {
-                  "name": "Viļakas pilsētas pludmale",
-                  "text": "The city beach of Viļaka located on the shores of Lake Viļaka.",
-                  "category": "recreational",
-                  "coords": [
-                        27.683489,
-                        57.188856
                   ]
             },
             {
@@ -17511,15 +16737,6 @@ export const latviaCities = [
                   ]
             },
             {
-                  "name": "Šuņezera pludmale",
-                  "text": "Ein öffentlicher Strand am Šuņezers-See in Daugavpils.",
-                  "category": "recreational",
-                  "coords": [
-                        26.512441,
-                        55.896768
-                  ]
-            },
-            {
                   "name": "Dubrovina parks",
                   "text": "Ein zentraler Park in Daugavpils, benannt nach dem ehemaligen Bürgermeister Pawel Dubrowin.",
                   "category": "park",
@@ -17879,15 +17096,6 @@ export const latviaCities = [
                   "coords": [
                         26.512233,
                         55.873577
-                  ]
-            },
-            {
-                  "name": "Šuņezera pludmale",
-                  "text": "Nyilvános strand a daugavpilsi Šuņezers-tónál.",
-                  "category": "recreational",
-                  "coords": [
-                        26.512441,
-                        55.896768
                   ]
             },
             {
@@ -18253,15 +17461,6 @@ export const latviaCities = [
                   ]
             },
             {
-                  "name": "Šuņezera pludmale",
-                  "text": "O plajă publică la lacul Šuņezers din Daugavpils.",
-                  "category": "recreational",
-                  "coords": [
-                        26.512441,
-                        55.896768
-                  ]
-            },
-            {
                   "name": "Dubrovina parks",
                   "text": "Un parc central din Daugavpils, numit după fostul primar Pavel Dubrovin.",
                   "category": "park",
@@ -18621,15 +17820,6 @@ export const latviaCities = [
                   "coords": [
                         26.512233,
                         55.873577
-                  ]
-            },
-            {
-                  "name": "Šuņezera pludmale",
-                  "text": "A public beach at Lake Šuņezers in Daugavpils.",
-                  "category": "recreational",
-                  "coords": [
-                        26.512441,
-                        55.896768
                   ]
             },
             {
@@ -19643,15 +18833,6 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "dabas parks „Salacas ieleja”",
-                  "text": "Ein Naturschutzgebiet, das das malerische Tal des Flusses Salaca bewahrt.",
-                  "category": "natural",
-                  "coords": [
-                        24.698862,
-                        57.839221
-                  ]
-            },
-            {
                   "name": "Leuchtturm Salismünde",
                   "text": "Ein historischer Leuchtturm in Salacgrīva, der an der Küste der Rigaer Bucht steht.",
                   "category": "landmark",
@@ -19687,15 +18868,6 @@ export const latviaNature = [
                   "coords": [
                         24.363215,
                         57.754382
-                  ]
-            },
-            {
-                  "name": "dabas parks „Salacas ieleja”",
-                  "text": "Természetvédelmi terület, amely a Salaca folyó festői völgyét óvja.",
-                  "category": "natural",
-                  "coords": [
-                        24.698862,
-                        57.839221
                   ]
             },
             {
@@ -19737,15 +18909,6 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "dabas parks „Salacas ieleja”",
-                  "text": "O rezervație naturală care protejează valea pitorească a râului Salaca.",
-                  "category": "natural",
-                  "coords": [
-                        24.698862,
-                        57.839221
-                  ]
-            },
-            {
                   "name": "Salacgrīvas bāka",
                   "text": "Un far istoric situat în Salacgrīva, pe malul Golfului Riga.",
                   "category": "landmark",
@@ -19781,15 +18944,6 @@ export const latviaNature = [
                   "coords": [
                         24.363215,
                         57.754382
-                  ]
-            },
-            {
-                  "name": "Salaca Valley nature park",
-                  "text": "A nature reserve protecting the scenic valley of the Salaca River.",
-                  "category": "natural",
-                  "coords": [
-                        24.698862,
-                        57.839221
                   ]
             },
             {
@@ -20335,39 +19489,12 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Valga Muuseum",
-                  "text": "Ein informatives Museum, das die Geschichte der geteilten Grenzstadt dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        26.037383,
-                        57.777014
-                  ]
-            },
-            {
-                  "name": "Valga isamaalise kasvatuse püsiekspositsioon",
-                  "text": "Museumsausstellung in Valga, die sich auf Militärgeschichte und patriotische Erziehung konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        26.053037,
-                        57.78231
-                  ]
-            },
-            {
                   "name": "Valkas estrāde",
                   "text": "Eine Freilichtbühne in Valka für Konzerte und kulturelle Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         26.004501,
                         57.783916
-                  ]
-            },
-            {
-                  "name": "Planču pilskalns",
-                  "text": "Eine archäologische Stätte eines antiken Burgwalls in der Nähe von Valka.",
-                  "category": "historical",
-                  "coords": [
-                        26.03788,
-                        57.765982
                   ]
             },
             {
@@ -20380,15 +19507,6 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Valga Pedeli supelrand",
-                  "text": "Ein beliebtes Erholungsgebiet und Badestelle am Ufer des Flusses Pedeli.",
-                  "category": "recreational",
-                  "coords": [
-                        26.047817,
-                        57.786931
-                  ]
-            },
-            {
                   "name": "Valkas kultūras nams",
                   "text": "Ein zentraler Veranstaltungsort für kulturelle Aktivitäten und Aufführungen in Valka.",
                   "category": "cultural",
@@ -20398,75 +19516,12 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Linnapark",
-                  "text": "Ein zentraler Stadtpark, der Grünflächen und Erholung in Valga bietet.",
-                  "category": "park",
-                  "coords": [
-                        26.050617,
-                        57.779426
-                  ]
-            },
-            {
                   "name": "Monument",
                   "text": "Ein Gedenkmonument in der Stadt Valka.",
                   "category": "historical",
                   "coords": [
                         25.998162,
                         57.785267
-                  ]
-            },
-            {
-                  "name": "Putraskalna skatu platforma",
-                  "text": "Eine erhöhte Plattform mit Panoramablick auf die umliegende Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        26.025283,
-                        57.780379
-                  ]
-            },
-            {
-                  "name": "Valga raekoda",
-                  "text": "Das historische Rathausgebäude ist ein markantes Wahrzeichen von Valga.",
-                  "category": "historical",
-                  "coords": [
-                        26.031133,
-                        57.77649
-                  ]
-            },
-            {
-                  "name": "Valga Pühavaimu kirik",
-                  "text": "Ein bemerkenswertes lutherisches Kirchengebäude in Valga.",
-                  "category": "religious",
-                  "coords": [
-                        26.054926,
-                        57.777191
-                  ]
-            },
-            {
-                  "name": "Jumalaema Vladimiri Pühakuju kirik",
-                  "text": "Eine orthodoxe Kirche in Valga, die für ihre traditionelle Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        26.052854,
-                        57.772683
-                  ]
-            },
-            {
-                  "name": "Valga adventkirik",
-                  "text": "Die Kirche der Siebenten-Tags-Adventisten für die lokale Gemeinde in Valga.",
-                  "category": "religious",
-                  "coords": [
-                        26.036455,
-                        57.775822
-                  ]
-            },
-            {
-                  "name": "Valga Issidori peakirik",
-                  "text": "Eine wunderschöne orthodoxe Kathedrale, die das religiöse Erbe von Valga repräsentiert.",
-                  "category": "religious",
-                  "coords": [
-                        26.044553,
-                        57.775722
                   ]
             },
             {
@@ -20486,42 +19541,6 @@ export const latviaNature = [
                         25.914645,
                         57.818736
                   ]
-            },
-            {
-                  "name": "Pedeli kolmas paisjärv",
-                  "text": "Der Pedeli kolmas paisjärv in Valka ist ein Teil einer Kette von Teichen, ideal für ruhige Momente.",
-                  "category": "natural",
-                  "coords": [
-                        26.041412,
-                        57.782205
-                  ]
-            },
-            {
-                  "name": "Pedeli neljas paisjärv",
-                  "text": "Der Pedeli neljas paisjärv in Valka lädt zu entspannten Spaziergängen entlang des Ufers ein.",
-                  "category": "natural",
-                  "coords": [
-                        26.046116,
-                        57.784976
-                  ]
-            },
-            {
-                  "name": "Pedeli paisjärv",
-                  "text": "Der Pedeli paisjärv in Valka ist ein zentraler See, der Möglichkeiten zur Erholung im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.029518,
-                        57.779418
-                  ]
-            },
-            {
-                  "name": "Pedeli teine paisjärv",
-                  "text": "Der Pedeli teine paisjärv in Valka ist ein ruhiges Gewässer, ideal für eine kleine Pause in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        26.035855,
-                        57.781023
-                  ]
             }
       ],
       "hu": [
@@ -20535,39 +19554,12 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Valga Muuseum",
-                  "text": "Érdekes múzeum, amely a kettéosztott határváros történelmét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        26.037383,
-                        57.777014
-                  ]
-            },
-            {
-                  "name": "Valga isamaalise kasvatuse püsiekspositsioon",
-                  "text": "Valgai múzeumi kiállítás, amely a hadtörténetre és a hazafias nevelésre összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        26.053037,
-                        57.78231
-                  ]
-            },
-            {
                   "name": "Valkas estrāde",
                   "text": "Szabadtéri színpad Valkában, amely koncerteknek és kulturális előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         26.004501,
                         57.783916
-                  ]
-            },
-            {
-                  "name": "Planču pilskalns",
-                  "text": "Egy ősi várhely régészeti lelőhelye Valka közelében.",
-                  "category": "historical",
-                  "coords": [
-                        26.03788,
-                        57.765982
                   ]
             },
             {
@@ -20580,15 +19572,6 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Valga Pedeli supelrand",
-                  "text": "Népszerű üdülőhely és fürdőhely a Pedeli-folyó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        26.047817,
-                        57.786931
-                  ]
-            },
-            {
                   "name": "Valkas kultūras nams",
                   "text": "Kulturális tevékenységek és előadások központi helyszíne Valkában.",
                   "category": "cultural",
@@ -20598,75 +19581,12 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Linnapark",
-                  "text": "Központi városi park, amely zöldterületet és kikapcsolódást nyújt Valgában.",
-                  "category": "park",
-                  "coords": [
-                        26.050617,
-                        57.779426
-                  ]
-            },
-            {
                   "name": "Monument",
                   "text": "Emlékmű Valka városában.",
                   "category": "historical",
                   "coords": [
                         25.998162,
                         57.785267
-                  ]
-            },
-            {
-                  "name": "Putraskalna skatu platforma",
-                  "text": "Kilátóplatform, amelyről panorámás kilátás nyílik a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        26.025283,
-                        57.780379
-                  ]
-            },
-            {
-                  "name": "Valga raekoda",
-                  "text": "A történelmi városháza épülete Valga egyik kiemelkedő látnivalója.",
-                  "category": "historical",
-                  "coords": [
-                        26.031133,
-                        57.77649
-                  ]
-            },
-            {
-                  "name": "Valga Pühavaimu kirik",
-                  "text": "Figyelemre méltó evangélikus templomépület Valgában.",
-                  "category": "religious",
-                  "coords": [
-                        26.054926,
-                        57.777191
-                  ]
-            },
-            {
-                  "name": "Jumalaema Vladimiri Pühakuju kirik",
-                  "text": "Tradicionális építészetéről ismert ortodox templom Valgában.",
-                  "category": "religious",
-                  "coords": [
-                        26.052854,
-                        57.772683
-                  ]
-            },
-            {
-                  "name": "Valga adventkirik",
-                  "text": "A helyi közösséget kiszolgáló hetednapi adventista templom Valgában.",
-                  "category": "religious",
-                  "coords": [
-                        26.036455,
-                        57.775822
-                  ]
-            },
-            {
-                  "name": "Valga Issidori peakirik",
-                  "text": "Gyönyörű ortodox székesegyház, amely Valga vallási örökségét képviseli.",
-                  "category": "religious",
-                  "coords": [
-                        26.044553,
-                        57.775722
                   ]
             },
             {
@@ -20686,42 +19606,6 @@ export const latviaNature = [
                         25.914645,
                         57.818736
                   ]
-            },
-            {
-                  "name": "Pedeli kolmas paisjärv",
-                  "text": "A Pedeli kolmas paisjärv Valka területén egy tórendszer része, ideális a csendes pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.041412,
-                        57.782205
-                  ]
-            },
-            {
-                  "name": "Pedeli neljas paisjärv",
-                  "text": "A Pedeli neljas paisjärv Valka városában pihentető sétákra hív a part mentén.",
-                  "category": "natural",
-                  "coords": [
-                        26.046116,
-                        57.784976
-                  ]
-            },
-            {
-                  "name": "Pedeli paisjärv",
-                  "text": "A Pedeli paisjärv Valka központi tava, amely lehetőséget nyújt a szabadtéri kikapcsolódásra.",
-                  "category": "natural",
-                  "coords": [
-                        26.029518,
-                        57.779418
-                  ]
-            },
-            {
-                  "name": "Pedeli teine paisjärv",
-                  "text": "A Pedeli teine paisjärv Valka területén egy nyugodt vízfelület, ideális egy rövid természeti pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        26.035855,
-                        57.781023
-                  ]
             }
       ],
       "ro": [
@@ -20735,39 +19619,12 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Valga Muuseum",
-                  "text": "Un muzeu informativ care documentează istoria orașului de frontieră divizat.",
-                  "category": "museum",
-                  "coords": [
-                        26.037383,
-                        57.777014
-                  ]
-            },
-            {
-                  "name": "Valga isamaalise kasvatuse püsiekspositsioon",
-                  "text": "Expoziție muzeală axată pe istoria militară și educația patriotică în Valga.",
-                  "category": "museum",
-                  "coords": [
-                        26.053037,
-                        57.78231
-                  ]
-            },
-            {
                   "name": "Valkas estrāde",
                   "text": "O scenă în aer liber utilizată pentru concerte și spectacole culturale în Valka.",
                   "category": "cultural",
                   "coords": [
                         26.004501,
                         57.783916
-                  ]
-            },
-            {
-                  "name": "Planču pilskalns",
-                  "text": "Un sit arheologic al unei cetăți antice situat lângă Valka.",
-                  "category": "historical",
-                  "coords": [
-                        26.03788,
-                        57.765982
                   ]
             },
             {
@@ -20780,15 +19637,6 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Valga Pedeli supelrand",
-                  "text": "O zonă de recreere populară și loc de scăldat pe malul râului Pedeli.",
-                  "category": "recreational",
-                  "coords": [
-                        26.047817,
-                        57.786931
-                  ]
-            },
-            {
                   "name": "Valkas kultūras nams",
                   "text": "O locație centrală pentru activități culturale și spectacole în Valka.",
                   "category": "cultural",
@@ -20798,75 +19646,12 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Linnapark",
-                  "text": "Un parc urban central care oferă spațiu verde și recreere în Valga.",
-                  "category": "park",
-                  "coords": [
-                        26.050617,
-                        57.779426
-                  ]
-            },
-            {
                   "name": "Monument",
                   "text": "Un monument comemorativ situat în orașul Valka.",
                   "category": "historical",
                   "coords": [
                         25.998162,
                         57.785267
-                  ]
-            },
-            {
-                  "name": "Putraskalna skatu platforma",
-                  "text": "O platformă ridicată care oferă vederi panoramice asupra peisajului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        26.025283,
-                        57.780379
-                  ]
-            },
-            {
-                  "name": "Valga raekoda",
-                  "text": "Clădirea istorică a primăriei, un reper proeminent în Valga.",
-                  "category": "historical",
-                  "coords": [
-                        26.031133,
-                        57.77649
-                  ]
-            },
-            {
-                  "name": "Valga Pühavaimu kirik",
-                  "text": "O remarcabilă clădire a bisericii luterane din Valga.",
-                  "category": "religious",
-                  "coords": [
-                        26.054926,
-                        57.777191
-                  ]
-            },
-            {
-                  "name": "Jumalaema Vladimiri Pühakuju kirik",
-                  "text": "O biserică ortodoxă din Valga cunoscută pentru arhitectura sa tradițională.",
-                  "category": "religious",
-                  "coords": [
-                        26.052854,
-                        57.772683
-                  ]
-            },
-            {
-                  "name": "Valga adventkirik",
-                  "text": "Biserica Adventistă de Ziua a Șaptea care deservește comunitatea locală din Valga.",
-                  "category": "religious",
-                  "coords": [
-                        26.036455,
-                        57.775822
-                  ]
-            },
-            {
-                  "name": "Valga Issidori peakirik",
-                  "text": "O frumoasă catedrală ortodoxă ce reprezintă moștenirea religioasă a orașului Valga.",
-                  "category": "religious",
-                  "coords": [
-                        26.044553,
-                        57.775722
                   ]
             },
             {
@@ -20886,42 +19671,6 @@ export const latviaNature = [
                         25.914645,
                         57.818736
                   ]
-            },
-            {
-                  "name": "Pedeli kolmas paisjärv",
-                  "text": "Pedeli kolmas paisjärv din Valka face parte dintr-un lanț de iazuri, fiind ideal pentru momente de liniște.",
-                  "category": "natural",
-                  "coords": [
-                        26.041412,
-                        57.782205
-                  ]
-            },
-            {
-                  "name": "Pedeli neljas paisjärv",
-                  "text": "Pedeli neljas paisjärv din Valka invită la plimbări relaxante de-a lungul malului.",
-                  "category": "natural",
-                  "coords": [
-                        26.046116,
-                        57.784976
-                  ]
-            },
-            {
-                  "name": "Pedeli paisjärv",
-                  "text": "Pedeli paisjärv din Valka este un lac central care oferă posibilități pentru recreere în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        26.029518,
-                        57.779418
-                  ]
-            },
-            {
-                  "name": "Pedeli teine paisjärv",
-                  "text": "Pedeli teine paisjärv din Valka este o apă liniștită, ideală pentru o scurtă pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        26.035855,
-                        57.781023
-                  ]
             }
       ],
       "en": [
@@ -20935,39 +19684,12 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Valga Museum",
-                  "text": "An informative museum documenting the history of the divided border town.",
-                  "category": "museum",
-                  "coords": [
-                        26.037383,
-                        57.777014
-                  ]
-            },
-            {
-                  "name": "Permanent Exhibition of Patriotic Education in Valga",
-                  "text": "A museum exhibition focused on military history and patriotic education in Valga.",
-                  "category": "museum",
-                  "coords": [
-                        26.053037,
-                        57.78231
-                  ]
-            },
-            {
                   "name": "Valkas estrāde",
                   "text": "An open-air stage used for concerts and cultural performances in Valka.",
                   "category": "cultural",
                   "coords": [
                         26.004501,
                         57.783916
-                  ]
-            },
-            {
-                  "name": "Planču pilskalns",
-                  "text": "An archaeological site of an ancient hillfort located near Valka.",
-                  "category": "historical",
-                  "coords": [
-                        26.03788,
-                        57.765982
                   ]
             },
             {
@@ -20998,75 +19720,12 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Linnapark",
-                  "text": "A central urban park providing green space and recreation in Valga.",
-                  "category": "park",
-                  "coords": [
-                        26.050617,
-                        57.779426
-                  ]
-            },
-            {
                   "name": "Monument",
                   "text": "A commemorative monument located in the town of Valka.",
                   "category": "historical",
                   "coords": [
                         25.998162,
                         57.785267
-                  ]
-            },
-            {
-                  "name": "Putraskalna skatu platforma",
-                  "text": "An elevated platform offering panoramic views of the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        26.025283,
-                        57.780379
-                  ]
-            },
-            {
-                  "name": "Valga raekoda",
-                  "text": "The historic town hall building, a prominent landmark in Valga.",
-                  "category": "historical",
-                  "coords": [
-                        26.031133,
-                        57.77649
-                  ]
-            },
-            {
-                  "name": "Valga Pühavaimu kirik",
-                  "text": "A notable Lutheran church building in Valga.",
-                  "category": "religious",
-                  "coords": [
-                        26.054926,
-                        57.777191
-                  ]
-            },
-            {
-                  "name": "Jumalaema Vladimiri Pühakuju kirik",
-                  "text": "An Orthodox church in Valga known for its traditional architecture.",
-                  "category": "religious",
-                  "coords": [
-                        26.052854,
-                        57.772683
-                  ]
-            },
-            {
-                  "name": "Valga adventkirik",
-                  "text": "The Seventh-day Adventist church serving the local community in Valga.",
-                  "category": "religious",
-                  "coords": [
-                        26.036455,
-                        57.775822
-                  ]
-            },
-            {
-                  "name": "Valga Issidori peakirik",
-                  "text": "A beautiful Orthodox cathedral representing the religious heritage of Valga.",
-                  "category": "religious",
-                  "coords": [
-                        26.044553,
-                        57.775722
                   ]
             },
             {
@@ -21085,42 +19744,6 @@ export const latviaNature = [
                   "coords": [
                         25.914645,
                         57.818736
-                  ]
-            },
-            {
-                  "name": "Pedeli kolmas paisjärv",
-                  "text": "Pedeli kolmas paisjärv in Valka is part of a chain of ponds, ideal for quiet moments.",
-                  "category": "natural",
-                  "coords": [
-                        26.041412,
-                        57.782205
-                  ]
-            },
-            {
-                  "name": "Pedeli neljas paisjärv",
-                  "text": "Pedeli neljas paisjärv in Valka invites visitors for relaxed walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        26.046116,
-                        57.784976
-                  ]
-            },
-            {
-                  "name": "Pedeli paisjärv",
-                  "text": "Pedeli paisjärv in Valka is a central lake offering opportunities for outdoor recreation.",
-                  "category": "natural",
-                  "coords": [
-                        26.029518,
-                        57.779418
-                  ]
-            },
-            {
-                  "name": "Pedeli teine paisjärv",
-                  "text": "Pedeli teine paisjärv in Valka is a calm body of water, ideal for a short break in nature.",
-                  "category": "natural",
-                  "coords": [
-                        26.035855,
-                        57.781023
                   ]
             }
       ]
@@ -22340,15 +20963,6 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Dzirnavas dīķa peldētava",
-                  "text": "Ein Badeplatz am Mühlenteich in Grobiņa für Freizeit und Erholung.",
-                  "category": "recreational",
-                  "coords": [
-                        21.155364,
-                        56.534015
-                  ]
-            },
-            {
                   "name": "Zentas Mauriņas piemiņas istabas",
                   "text": "Ein Gedenkmuseum in Grobiņa, das der lettischen Schriftstellerin Zenta Mauriņa gewidmet ist.",
                   "category": "museum",
@@ -22429,15 +21043,6 @@ export const latviaNature = [
                   "coords": [
                         21.189121,
                         56.528522
-                  ]
-            },
-            {
-                  "name": "Dzirnavas dīķa peldētava",
-                  "text": "Fürdőhely a grobiņai Malom-tónál, amely kikapcsolódást nyújt.",
-                  "category": "recreational",
-                  "coords": [
-                        21.155364,
-                        56.534015
                   ]
             },
             {
@@ -22524,15 +21129,6 @@ export const latviaNature = [
                   ]
             },
             {
-                  "name": "Dzirnavas dīķa peldētava",
-                  "text": "Un loc de scăldat la iazul morii din Grobiņa, destinat recreerii.",
-                  "category": "recreational",
-                  "coords": [
-                        21.155364,
-                        56.534015
-                  ]
-            },
-            {
                   "name": "Zentas Mauriņas piemiņas istabas",
                   "text": "Camere memoriale în Grobiņa dedicate scriitoarei letone Zenta Mauriņa.",
                   "category": "museum",
@@ -22613,15 +21209,6 @@ export const latviaNature = [
                   "coords": [
                         21.189121,
                         56.528522
-                  ]
-            },
-            {
-                  "name": "Dzirnavas dīķa peldētava",
-                  "text": "A bathing spot at the mill pond in Grobiņa for leisure and recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        21.155364,
-                        56.534015
                   ]
             },
             {

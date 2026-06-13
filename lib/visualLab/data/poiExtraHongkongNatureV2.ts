@@ -429,15 +429,6 @@ export const hongkongNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nam Shan Viewing Point",
-                  "text": "Der Nam Shan Viewing Point ist ein Aussichtspunkt am Sunset Peak, der weite Panoramablicke in die umliegende Natur ermöglicht.",
-                  "category": "natural",
-                  "coords": [
-                        113.987922,
-                        22.254956
-                  ]
-            },
-            {
                   "name": "Lin Fa Shan",
                   "text": "Der Lin Fa Shan ist ein bedeutender Berggipfel, der sich aus der zerklüfteten Landschaft von Lantau erhebt.",
                   "category": "natural",
@@ -453,33 +444,6 @@ export const hongkongNatureV2: POI[] = [
                   "coords": [
                         113.963965,
                         22.258699
-                  ]
-            },
-            {
-                  "name": "Tai Ngau Wu Teng",
-                  "text": "Der Tai Ngau Wu Teng ist ein bekannter Berggipfel auf Lantau Island mit ausgedehnten natürlichen Wanderwegen.",
-                  "category": "natural",
-                  "coords": [
-                        113.989394,
-                        22.249599
-                  ]
-            },
-            {
-                  "name": "Pui O Beach",
-                  "text": "Der Pui O Beach ist ein bekannter Sandstrand auf Lantau Island, der oft von wilden Wasserbüffeln besucht wird.",
-                  "category": "recreational",
-                  "coords": [
-                        113.977325,
-                        22.239231
-                  ]
-            },
-            {
-                  "name": "Pui O Playground, Lantau",
-                  "text": "Der Pui O Playground ist ein öffentlicher Park in unmittelbarer Nähe zum Strand auf Lantau.",
-                  "category": "park",
-                  "coords": [
-                        113.977369,
-                        22.241353
                   ]
             }
       ],
@@ -521,15 +485,6 @@ export const hongkongNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nam Shan Viewing Point",
-                  "text": "A Nam Shan Viewing Point egy kilátó a Sunset Peaknél, amely széles panorámát nyújt a környező természetre.",
-                  "category": "natural",
-                  "coords": [
-                        113.987922,
-                        22.254956
-                  ]
-            },
-            {
                   "name": "Lin Fa Shan",
                   "text": "A Lin Fa Shan egy jelentős hegycsúcs, amely Lantau zord tájából emelkedik ki.",
                   "category": "natural",
@@ -545,33 +500,6 @@ export const hongkongNatureV2: POI[] = [
                   "coords": [
                         113.963965,
                         22.258699
-                  ]
-            },
-            {
-                  "name": "Tai Ngau Wu Teng",
-                  "text": "A Tai Ngau Wu Teng egy ismert hegycsúcs a Lantau-szigeten, kiterjedt természetes túraútvonalakkal.",
-                  "category": "natural",
-                  "coords": [
-                        113.989394,
-                        22.249599
-                  ]
-            },
-            {
-                  "name": "Pui O Beach",
-                  "text": "A Pui O Beach egy híres homokos strand a Lantau-szigeten, amelyet gyakran látogatnak vad vízibivalyok.",
-                  "category": "recreational",
-                  "coords": [
-                        113.977325,
-                        22.239231
-                  ]
-            },
-            {
-                  "name": "Pui O Playground, Lantau",
-                  "text": "A Pui O Playground egy nyilvános park közvetlenül a tengerpart közelében Lantaun.",
-                  "category": "park",
-                  "coords": [
-                        113.977369,
-                        22.241353
                   ]
             }
       ],
@@ -613,15 +541,6 @@ export const hongkongNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nam Shan Viewing Point",
-                  "text": "Nam Shan Viewing Point este un punct de belvedere la Sunset Peak care oferă priveliști panoramice asupra naturii înconjurătoare.",
-                  "category": "natural",
-                  "coords": [
-                        113.987922,
-                        22.254956
-                  ]
-            },
-            {
                   "name": "Lin Fa Shan",
                   "text": "Lin Fa Shan este un vârf montan important care se înalță din peisajul accidentat al insulei Lantau.",
                   "category": "natural",
@@ -637,33 +556,6 @@ export const hongkongNatureV2: POI[] = [
                   "coords": [
                         113.963965,
                         22.258699
-                  ]
-            },
-            {
-                  "name": "Tai Ngau Wu Teng",
-                  "text": "Tai Ngau Wu Teng este un vârf montan proeminent pe insula Lantau, prevăzut cu trasee naturale extinse.",
-                  "category": "natural",
-                  "coords": [
-                        113.989394,
-                        22.249599
-                  ]
-            },
-            {
-                  "name": "Pui O Beach",
-                  "text": "Pui O Beach este o plajă de nisip cunoscută pe insula Lantau, vizitată adesea de bivoli de apă sălbatici.",
-                  "category": "recreational",
-                  "coords": [
-                        113.977325,
-                        22.239231
-                  ]
-            },
-            {
-                  "name": "Pui O Playground, Lantau",
-                  "text": "Pui O Playground este un parc public situat în imediata apropiere a plajei de pe Lantau.",
-                  "category": "park",
-                  "coords": [
-                        113.977369,
-                        22.241353
                   ]
             }
       ],
@@ -705,15 +597,6 @@ export const hongkongNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nam Shan Viewing Point",
-                  "text": "Nam Shan Viewing Point is an observation deck near Sunset Peak that provides wide panoramic views of the surrounding natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        113.987922,
-                        22.254956
-                  ]
-            },
-            {
                   "name": "Lin Fa Shan",
                   "text": "Lin Fa Shan is a notable mountain peak rising from the rugged landscape of Lantau Island.",
                   "category": "natural",
@@ -729,33 +612,6 @@ export const hongkongNatureV2: POI[] = [
                   "coords": [
                         113.963965,
                         22.258699
-                  ]
-            },
-            {
-                  "name": "Tai Ngau Wu Teng",
-                  "text": "Tai Ngau Wu Teng is a recognized mountain peak on Lantau Island featuring extensive natural hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        113.989394,
-                        22.249599
-                  ]
-            },
-            {
-                  "name": "Pui O Beach",
-                  "text": "Pui O Beach is a renowned sandy beach on Lantau Island that is frequently visited by wild water buffalo.",
-                  "category": "recreational",
-                  "coords": [
-                        113.977325,
-                        22.239231
-                  ]
-            },
-            {
-                  "name": "Pui O Playground, Lantau",
-                  "text": "Pui O Playground is a public park located in close proximity to the beach on Lantau Island.",
-                  "category": "park",
-                  "coords": [
-                        113.977369,
-                        22.241353
                   ]
             }
       ]
@@ -1059,24 +915,6 @@ export const hongkongNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shek O Beach",
-                  "text": "Ein beliebter, von Felsklippen umschlossener Sandstrand, der bei Einheimischen zum Surfen und Schwimmen begehrt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        114.250889,
-                        22.228692
-                  ]
-            },
-            {
-                  "name": "Rocky Bay Beach",
-                  "text": "Ein kleiner, sandiger Küstenabschnitt, der in einer rauen und felsigen Bucht liegt.",
-                  "category": "recreational",
-                  "coords": [
-                        114.251863,
-                        22.231694
-                  ]
-            },
-            {
                   "name": "Tin Hau temple",
                   "text": "Eine traditionelle, buddhistisch geprägte Stätte, die der Meeresgöttin gewidmet ist und lokalen Seeleuten Schutz bieten soll.",
                   "category": "landmark",
@@ -1103,24 +941,6 @@ export const hongkongNatureV2: POI[] = [
                   "coords": [
                         114.239232,
                         22.228435
-                  ]
-            },
-            {
-                  "name": "Shek O Beach",
-                  "text": "Sziklás sziklákkal körülvett népszerű homokos strand, amelyet a helyiek szörfözésre és úszásra használnak.",
-                  "category": "recreational",
-                  "coords": [
-                        114.250889,
-                        22.228692
-                  ]
-            },
-            {
-                  "name": "Rocky Bay Beach",
-                  "text": "Egy kis homokos partszakasz, amely egy zord és sziklás öbölben fészkel.",
-                  "category": "recreational",
-                  "coords": [
-                        114.251863,
-                        22.231694
                   ]
             },
             {
@@ -1153,24 +973,6 @@ export const hongkongNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shek O Beach",
-                  "text": "O plajă populară de nisip, închisă de stânci, preferată de localnici pentru surfing și înot.",
-                  "category": "recreational",
-                  "coords": [
-                        114.250889,
-                        22.228692
-                  ]
-            },
-            {
-                  "name": "Rocky Bay Beach",
-                  "text": "O mică întindere de coastă cu nisip, amplasată într-un golf stâncos și accidentat.",
-                  "category": "recreational",
-                  "coords": [
-                        114.251863,
-                        22.231694
-                  ]
-            },
-            {
                   "name": "Tin Hau temple",
                   "text": "Un site tradițional afiliat budismului dedicat zeiței mării, oferind protecție navigatorilor locali.",
                   "category": "landmark",
@@ -1197,24 +999,6 @@ export const hongkongNatureV2: POI[] = [
                   "coords": [
                         114.239232,
                         22.228435
-                  ]
-            },
-            {
-                  "name": "Shek O Beach",
-                  "text": "A popular sandy beach enclosed by rocky cliffs, favored by locals for surfing and swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        114.250889,
-                        22.228692
-                  ]
-            },
-            {
-                  "name": "Rocky Bay Beach",
-                  "text": "A small stretch of sandy coastline nestled within a rugged and rocky bay.",
-                  "category": "recreational",
-                  "coords": [
-                        114.251863,
-                        22.231694
                   ]
             },
             {

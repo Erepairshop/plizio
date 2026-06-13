@@ -110,15 +110,6 @@ export const kosovoPois: POI[] = [
                         20.267105,
                         42.548524
                   ]
-            },
-            {
-                  "name": "Fish Farm",
-                  "text": "Die Fish Farm ist ein Aquarium und Fischereibetrieb in der Nähe des Klosters Visoki Dečani.",
-                  "category": "recreational",
-                  "coords": [
-                        20.239665,
-                        42.499803
-                  ]
             }
       ],
       "hu": [
@@ -156,15 +147,6 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.267105,
                         42.548524
-                  ]
-            },
-            {
-                  "name": "Fish Farm",
-                  "text": "A Fish Farm egy akvárium és haltenyészet a Visoki Dečani kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.239665,
-                        42.499803
                   ]
             }
       ],
@@ -204,15 +186,6 @@ export const kosovoPois: POI[] = [
                         20.267105,
                         42.548524
                   ]
-            },
-            {
-                  "name": "Fish Farm",
-                  "text": "Fish Farm este un acvariu și o fermă piscicolă situată lângă mănăstirea Visoki Dečani.",
-                  "category": "recreational",
-                  "coords": [
-                        20.239665,
-                        42.499803
-                  ]
             }
       ],
       "en": [
@@ -250,15 +223,6 @@ export const kosovoPois: POI[] = [
                   "coords": [
                         20.267105,
                         42.548524
-                  ]
-            },
-            {
-                  "name": "Fish Farm",
-                  "text": "Fish Farm is an aquarium and fishery located near the Visoki Dečani Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        20.239665,
-                        42.499803
                   ]
             }
       ]

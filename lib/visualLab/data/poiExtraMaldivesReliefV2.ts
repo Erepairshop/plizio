@@ -657,15 +657,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     id: "cocoa-island-beach-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Biyadoo Kuda Giri",
-                  "text": "Biyadoo Kuda Giri ist eine bekannte Sehenswürdigkeit in cocoa-island-beach-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.448786,
-                        3.906479
-                  ]
-            },
-            {
                   "name": "Sandbank lunch",
                   "text": "Sandbank lunch ist eine Attraktion in cocoa-island-beach-relief-v2.",
                   "category": "landmark",
@@ -685,15 +676,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Biyadoo Kuda Giri",
-                  "text": "A Biyadoo Kuda Giri egy látványosság a cocoa-island-beach-relief-v2 régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        73.448786,
-                        3.906479
-                  ]
-            },
             {
                   "name": "Sandbank lunch",
                   "text": "A Sandbank lunch egy látványosság a cocoa-island-beach-relief-v2 területén.",
@@ -715,15 +697,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Biyadoo Kuda Giri",
-                  "text": "Biyadoo Kuda Giri este o atracție din cocoa-island-beach-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.448786,
-                        3.906479
-                  ]
-            },
-            {
                   "name": "Sandbank lunch",
                   "text": "Sandbank lunch este o atracție în cocoa-island-beach-relief-v2.",
                   "category": "landmark",
@@ -743,15 +716,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Biyadoo Kuda Giri",
-                  "text": "Biyadoo Kuda Giri is an attraction in cocoa-island-beach-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.448786,
-                        3.906479
-                  ]
-            },
             {
                   "name": "Sandbank lunch",
                   "text": "Sandbank lunch is an attraction in cocoa-island-beach-relief-v2.",
@@ -1104,15 +1068,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
     id: "soneva-fushi-beach-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Polla Aquarium",
-                  "text": "Das Polla Aquarium ist ein lokales Schauaquarium in soneva-fushi-beach-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.071295,
-                        5.101841
-                  ]
-            },
-            {
                   "name": "Turtle Beach",
                   "text": "Turtle Beach ist ein Küstenabschnitt in soneva-fushi-beach-relief-v2.",
                   "category": "recreational",
@@ -1168,15 +1123,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Polla Aquarium",
-                  "text": "A Polla Aquarium egy helyi akvárium soneva-fushi-beach-relief-v2 területén.",
-                  "category": "recreational",
-                  "coords": [
-                        73.071295,
-                        5.101841
-                  ]
-            },
             {
                   "name": "Turtle Beach",
                   "text": "A Turtle Beach egy tengerparti szakasz soneva-fushi-beach-relief-v2 területén.",
@@ -1234,15 +1180,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Polla Aquarium",
-                  "text": "Polla Aquarium este o facilitate acvatică locală din soneva-fushi-beach-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.071295,
-                        5.101841
-                  ]
-            },
-            {
                   "name": "Turtle Beach",
                   "text": "Turtle Beach este o zonă de coastă în soneva-fushi-beach-relief-v2.",
                   "category": "recreational",
@@ -1298,15 +1235,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Polla Aquarium",
-                  "text": "Polla Aquarium is a local aquatic facility located in soneva-fushi-beach-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.071295,
-                        5.101841
-                  ]
-            },
             {
                   "name": "Turtle Beach",
                   "text": "Turtle Beach is a coastal stretch in soneva-fushi-beach-relief-v2.",
@@ -2248,15 +2176,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
                         73.441489,
                         5.521231
                   ]
-            },
-            {
-                  "name": "Kudadoo Private Island",
-                  "text": "Kudadoo Private Island ist ein exklusives Strandresort in kuredu-beach-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.43341,
-                        5.502906
-                  ]
             }
       ],
       "hu": [
@@ -2267,15 +2186,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
                   "coords": [
                         73.441489,
                         5.521231
-                  ]
-            },
-            {
-                  "name": "Kudadoo Private Island",
-                  "text": "A Kudadoo Private Island egy exkluzív tengerparti üdülőhely kuredu-beach-relief-v2 területén.",
-                  "category": "recreational",
-                  "coords": [
-                        73.43341,
-                        5.502906
                   ]
             }
       ],
@@ -2288,15 +2198,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
                         73.441489,
                         5.521231
                   ]
-            },
-            {
-                  "name": "Kudadoo Private Island",
-                  "text": "Kudadoo Private Island este o destinație exclusivistă de stațiune pe plajă în kuredu-beach-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.43341,
-                        5.502906
-                  ]
             }
       ],
       "en": [
@@ -2307,15 +2208,6 @@ export const poiExtraMaldivesReliefV2: POI[] = [
                   "coords": [
                         73.441489,
                         5.521231
-                  ]
-            },
-            {
-                  "name": "Kudadoo Private Island",
-                  "text": "Kudadoo Private Island is an exclusive beach resort destination in kuredu-beach-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.43341,
-                        5.502906
                   ]
             }
       ]

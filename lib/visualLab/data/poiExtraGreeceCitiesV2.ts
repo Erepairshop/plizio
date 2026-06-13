@@ -76,15 +76,6 @@ export const greeceCitiesV2: POI[] = [
                         21.735499,
                         38.24663
                   ]
-            },
-            {
-                  "name": "N.O.P",
-                  "text": "Der N.O.P. ist der Nautische Club von Patras mit Segel- und Schwimmanlagen am Golf von Patras.",
-                  "category": "recreational",
-                  "coords": [
-                        21.725148,
-                        38.238812
-                  ]
             }
       ],
       "hu": [
@@ -158,15 +149,6 @@ export const greeceCitiesV2: POI[] = [
                   "coords": [
                         21.735499,
                         38.24663
-                  ]
-            },
-            {
-                  "name": "N.O.P",
-                  "text": "A N.O.P. a Patraszi Nautikai Klub, vitorlázási és úszási lehetőségekkel a Patraszi-öbölben.",
-                  "category": "recreational",
-                  "coords": [
-                        21.725148,
-                        38.238812
                   ]
             }
       ],
@@ -242,15 +224,6 @@ export const greeceCitiesV2: POI[] = [
                         21.735499,
                         38.24663
                   ]
-            },
-            {
-                  "name": "N.O.P",
-                  "text": "N.O.P. este Clubul Nautic din Patras, oferind facilități de navigație și înot pe Golful Patras.",
-                  "category": "recreational",
-                  "coords": [
-                        21.725148,
-                        38.238812
-                  ]
             }
       ],
       "en": [
@@ -324,15 +297,6 @@ export const greeceCitiesV2: POI[] = [
                   "coords": [
                         21.735499,
                         38.24663
-                  ]
-            },
-            {
-                  "name": "N.O.P",
-                  "text": "The N.O.P. is the Nautical Club of Patras, offering sailing and swimming facilities on the Gulf of Patras.",
-                  "category": "recreational",
-                  "coords": [
-                        21.725148,
-                        38.238812
                   ]
             }
       ]
@@ -3094,15 +3058,6 @@ imageHint: "Ancient Theater of Larissa in city center",
                   ]
             },
             {
-                  "name": "Goritsa archaeological site",
-                  "text": "Goritsa archaeological site, a fortified hill near Volos.",
-                  "category": "historical",
-                  "coords": [
-                        22.980637,
-                        39.3561
-                  ]
-            },
-            {
                   "name": "Dimotiko Theatro Neas Ionias",
                   "text": "Museum of National Resistance in Volos, with exhibits on the Greek partisan movement of the 1940s.",
                   "category": "cultural",
@@ -3154,15 +3109,6 @@ imageHint: "Ancient Theater of Larissa in city center",
                   "coords": [
                         22.933295,
                         39.365027
-                  ]
-            },
-            {
-                  "name": "Fortification of Episkopi",
-                  "text": "Fortification ruins on a strategic hill near Volos.",
-                  "category": "castle",
-                  "coords": [
-                        22.981109,
-                        39.375318
                   ]
             },
             {
@@ -17974,15 +17920,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
     id: "greece-peristeri-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Archäologische Stätte der Akademie von Plato",
-                  "text": "Die archäologische Stätte der berühmten Akademie, die von Platon im antiken Athen gegründet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        23.708381,
-                        37.991368
-                  ]
-            },
-            {
                   "name": "Psifiako Moyseio tis Akadimias Platonos",
                   "text": "Ein modernes Museum in Peristeri, das die Geschichte und Philosophie von Platons Akademie präsentiert.",
                   "category": "museum",
@@ -18214,15 +18151,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         23.677722,
                         38.029698
-                  ]
-            },
-            {
-                  "name": "Academia 8th. Floor Pool",
-                  "text": "Ein Schwimmbad in der 8. Etage in Peristeri, das eine besondere Atmosphäre zum Schwimmen bietet.",
-                  "category": "family",
-                  "coords": [
-                        23.714506,
-                        37.986062
                   ]
             }
       ],
@@ -18469,15 +18397,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         23.677722,
                         38.029698
                   ]
-            },
-            {
-                  "name": "Academia 8th. Floor Pool",
-                  "text": "A 8. emeleten található úszómedence Periszteriben, amely különleges hangulatot biztosít az úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        23.714506,
-                        37.986062
-                  ]
             }
       ],
       "ro": [
@@ -18723,27 +18642,9 @@ imageHint: "Chania Venetian harbor and lighthouse",
                         23.677722,
                         38.029698
                   ]
-            },
-            {
-                  "name": "Academia 8th. Floor Pool",
-                  "text": "O piscină situată la etajul 8 în Peristeri, oferind o atmosferă specială pentru înot.",
-                  "category": "family",
-                  "coords": [
-                        23.714506,
-                        37.986062
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Plato's Academy Archaeological Site",
-                  "text": "The archaeological site of the famous academy founded by Plato in ancient Athens.",
-                  "category": "historical",
-                  "coords": [
-                        23.708381,
-                        37.991368
-                  ]
-            },
             {
                   "name": "Psifiako Moyseio tis Akadimias Platonos",
                   "text": "A modern museum in Peristeri showcasing the history and philosophy of Plato's Academy.",
@@ -18976,15 +18877,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   "coords": [
                         23.677722,
                         38.029698
-                  ]
-            },
-            {
-                  "name": "Academia 8th. Floor Pool",
-                  "text": "A swimming pool located on the 8th floor in Peristeri, offering a unique atmosphere for swimming.",
-                  "category": "family",
-                  "coords": [
-                        23.714506,
-                        37.986062
                   ]
             }
       ]
@@ -22952,24 +22844,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Kastro Agias Mayras",
-                  "text": "Eine beeindruckende mittelalterliche Festung, die den Eingang zur Insel Lefkada bewacht.",
-                  "category": "castle",
-                  "coords": [
-                        20.719758,
-                        38.844633
-                  ]
-            },
-            {
-                  "name": "Moyseio Fonografoy",
-                  "text": "Ein privates Museum in Lefkada mit einer Sammlung historischer Grammophone und Radios.",
-                  "category": "museum",
-                  "coords": [
-                        20.708019,
-                        38.833503
-                  ]
-            },
-            {
                   "name": "Gyra (Anna)",
                   "text": "Ein langer Sandstrand in der Nähe der Stadt Lefkada, bekannt für seine Windmühlen.",
                   "category": "recreational",
@@ -22988,48 +22862,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Faros",
-                  "text": "Ein markanter Leuchtturm an der Küste von Lefkada, der Schiffen den Weg weist.",
-                  "category": "landmark",
-                  "coords": [
-                        20.720679,
-                        38.84785
-                  ]
-            },
-            {
-                  "name": "Ochyro Konstantinos",
-                  "text": "Die Überreste einer historischen Befestigungsanlage auf der Insel Lefkada.",
-                  "category": "historical",
-                  "coords": [
-                        20.722099,
-                        38.813235
-                  ]
-            },
-            {
                   "name": "Ai Giannis",
                   "text": "Ein malerischer Küstenbereich auf Lefkada, der für sein kristallklares Wasser bekannt ist.",
                   "category": "recreational",
                   "coords": [
                         20.669874,
                         38.831586
-                  ]
-            },
-            {
-                  "name": "Kastro",
-                  "text": "Ein Strandabschnitt in Lefkada, der in unmittelbarer Nähe der historischen Festung liegt.",
-                  "category": "recreational",
-                  "coords": [
-                        20.718024,
-                        38.847106
-                  ]
-            },
-            {
-                  "name": "Moyseio «Aggelos Sikelianos»",
-                  "text": "Ein Museum in Lefkada, das dem Leben und Werk des Dichters Angelos Sikelianos gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.707023,
-                        38.833576
                   ]
             },
             {
@@ -23042,15 +22880,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ereipia Ag.Gorgioy",
-                  "text": "Die Ruinen einer dem Heiligen Georg geweihten Stätte auf der Insel Lefkada.",
-                  "category": "historical",
-                  "coords": [
-                        20.718058,
-                        38.811536
-                  ]
-            },
-            {
                   "name": "Agglikaniki Ekklisia Leykados",
                   "text": "Die anglikanische Kirche von Lefkada ist ein historisches Gebäude.",
                   "category": "historical",
@@ -23060,48 +22889,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ereipia archaias polis",
-                  "text": "Die Ruinen der antiken Stadt auf Lefkada sind eine archäologische Stätte.",
-                  "category": "historical",
-                  "coords": [
-                        20.718238,
-                        38.812496
-                  ]
-            },
-            {
-                  "name": "Ancient Nirikos",
-                  "text": "Das antike Nirikos auf Lefkada ist eine archäologische Stätte.",
-                  "category": "historical",
-                  "coords": [
-                        20.709975,
-                        38.810708
-                  ]
-            },
-            {
                   "name": "Agios Ioannis toy Antzoysi",
                   "text": "Eine historische Kapelle, die Johannes dem Täufer gewidmet ist und in der Nähe von Lefkada liegt.",
                   "category": "religious",
                   "coords": [
                         20.666989,
                         38.83155
-                  ]
-            },
-            {
-                  "name": "Agios Charalampos",
-                  "text": "Griechisch-orthodoxe Kirche des Hl. Charalampos auf der Ionischen Insel Lefkada.",
-                  "category": "religious",
-                  "coords": [
-                        20.710228,
-                        38.833425
-                  ]
-            },
-            {
-                  "name": "Pantokratoras",
-                  "text": "Eine griechisch-orthodoxe Kirche in Lefkada mit religiöser Bedeutung.",
-                  "category": "religious",
-                  "coords": [
-                        20.706408,
-                        38.832402
                   ]
             },
             {
@@ -23123,30 +22916,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Alykes Alexandroy",
-                  "text": "Die Salinen von Alexandros auf Lefkada sind ein Seengebiet, das sich durch einzigartige Küstenlandschaften auszeichnet.",
-                  "category": "natural",
-                  "coords": [
-                        20.722807,
-                        38.804601
-                  ]
-            },
-            {
                   "name": "Limnothalassa Gyras",
                   "text": "Der Gyra-See ist ein wunderschönes Gewässer auf Lefkada, das sich perfekt dazu eignet, die friedliche Landschaft zu genießen.",
                   "category": "natural",
                   "coords": [
                         20.699663,
                         38.842369
-                  ]
-            },
-            {
-                  "name": "Marina Playground",
-                  "text": "Der Marina Playground ist ein Außenbereich auf Lefkada, wo Familien mit ihren Kindern aktiv Spaß haben können.",
-                  "category": "family",
-                  "coords": [
-                        20.711158,
-                        38.829357
                   ]
             },
             {
@@ -23170,24 +22945,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Kastro Agias Mayras",
-                  "text": "Lenyűgöző középkori erődítmény, amely Lefkada szigetének bejáratát őrzi.",
-                  "category": "castle",
-                  "coords": [
-                        20.719758,
-                        38.844633
-                  ]
-            },
-            {
-                  "name": "Moyseio Fonografoy",
-                  "text": "Magánmúzeum Lefkadán, amely történelmi gramofonok és rádiók gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.708019,
-                        38.833503
-                  ]
-            },
-            {
                   "name": "Gyra (Anna)",
                   "text": "Hosszú homokos strand Lefkada városa közelében, amely szélmalmairól ismert.",
                   "category": "recreational",
@@ -23206,48 +22963,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Faros",
-                  "text": "Jellegzetes világítótorony Lefkada partjainál, amely a hajók navigálását segíti.",
-                  "category": "landmark",
-                  "coords": [
-                        20.720679,
-                        38.84785
-                  ]
-            },
-            {
-                  "name": "Ochyro Konstantinos",
-                  "text": "Történelmi erődítmény maradványai Lefkada szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        20.722099,
-                        38.813235
-                  ]
-            },
-            {
                   "name": "Ai Giannis",
                   "text": "Gleccserkék vizéről ismert festői tengerparti szakasz Lefkadán.",
                   "category": "recreational",
                   "coords": [
                         20.669874,
                         38.831586
-                  ]
-            },
-            {
-                  "name": "Kastro",
-                  "text": "Tengerparti szakasz Lefkadán, közvetlenül a történelmi erőd szomszédságában.",
-                  "category": "recreational",
-                  "coords": [
-                        20.718024,
-                        38.847106
-                  ]
-            },
-            {
-                  "name": "Moyseio «Aggelos Sikelianos»",
-                  "text": "Múzeum Lefkadán, amely Angelos Sikelianos költő életének és munkásságának állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        20.707023,
-                        38.833576
                   ]
             },
             {
@@ -23260,15 +22981,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ereipia Ag.Gorgioy",
-                  "text": "Szent György tiszteletére szentelt egykori épület romjai Lefkada szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        20.718058,
-                        38.811536
-                  ]
-            },
-            {
                   "name": "Agglikaniki Ekklisia Leykados",
                   "text": "A lefkadai Anglikán Templom történelmi épület.",
                   "category": "historical",
@@ -23278,48 +22990,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ereipia archaias polis",
-                  "text": "Lefkada ókori városának romjai régészeti lelőhely.",
-                  "category": "historical",
-                  "coords": [
-                        20.718238,
-                        38.812496
-                  ]
-            },
-            {
-                  "name": "Ancient Nirikos",
-                  "text": "Az ókori Nirikos Lefkadán régészeti lelőhely.",
-                  "category": "historical",
-                  "coords": [
-                        20.709975,
-                        38.810708
-                  ]
-            },
-            {
                   "name": "Agios Ioannis toy Antzoysi",
                   "text": "Keresztelő Szent Jánosnak szentelt történelmi kápolna Lefkada közelében.",
                   "category": "religious",
                   "coords": [
                         20.666989,
                         38.83155
-                  ]
-            },
-            {
-                  "name": "Agios Charalampos",
-                  "text": "Szent Haralambosz görög ortodox temploma a Jón-szigeti Lefkadán.",
-                  "category": "religious",
-                  "coords": [
-                        20.710228,
-                        38.833425
-                  ]
-            },
-            {
-                  "name": "Pantokratoras",
-                  "text": "Vallási jelentőségű görög ortodox templom Lefkada városában.",
-                  "category": "religious",
-                  "coords": [
-                        20.706408,
-                        38.832402
                   ]
             },
             {
@@ -23341,30 +23017,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Alykes Alexandroy",
-                  "text": "A lefkadai Alexandros sólepárló egy egyedülálló partmenti tájakkal rendelkező tóvidék.",
-                  "category": "natural",
-                  "coords": [
-                        20.722807,
-                        38.804601
-                  ]
-            },
-            {
                   "name": "Limnothalassa Gyras",
                   "text": "A Gyra-tó egy gyönyörű vízfelület Lefkadán, amely tökéletes a békés táj élvezetéhez.",
                   "category": "natural",
                   "coords": [
                         20.699663,
                         38.842369
-                  ]
-            },
-            {
-                  "name": "Marina Playground",
-                  "text": "A Marina Playground egy lefkadai szabadtéri terület, ahol a családok aktív szórakozásra vihetik el gyermekeiket.",
-                  "category": "family",
-                  "coords": [
-                        20.711158,
-                        38.829357
                   ]
             },
             {
@@ -23388,24 +23046,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Kastro Agias Mayras",
-                  "text": "O fortăreață medievală impresionantă care străjuiește intrarea pe insula Lefkada.",
-                  "category": "castle",
-                  "coords": [
-                        20.719758,
-                        38.844633
-                  ]
-            },
-            {
-                  "name": "Moyseio Fonografoy",
-                  "text": "Un muzeu privat din Lefkada care adăpostește o colecție de gramofoane și aparate de radio istorice.",
-                  "category": "museum",
-                  "coords": [
-                        20.708019,
-                        38.833503
-                  ]
-            },
-            {
                   "name": "Gyra (Anna)",
                   "text": "O plajă lungă de nisip lângă orașul Lefkada, cunoscută pentru morile sale de vânt.",
                   "category": "recreational",
@@ -23424,48 +23064,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Faros",
-                  "text": "Un far distinctiv pe coasta insulei Lefkada, care ghidează navigația vaselor.",
-                  "category": "landmark",
-                  "coords": [
-                        20.720679,
-                        38.84785
-                  ]
-            },
-            {
-                  "name": "Ochyro Konstantinos",
-                  "text": "Rămășițele unei fortificații istorice pe insula Lefkada.",
-                  "category": "historical",
-                  "coords": [
-                        20.722099,
-                        38.813235
-                  ]
-            },
-            {
                   "name": "Ai Giannis",
                   "text": "O zonă de coastă pitorească din Lefkada, cunoscută pentru apa sa cristalină.",
                   "category": "recreational",
                   "coords": [
                         20.669874,
                         38.831586
-                  ]
-            },
-            {
-                  "name": "Kastro",
-                  "text": "O secțiune de plajă din Lefkada situată în imediata apropiere a fortăreței istorice.",
-                  "category": "recreational",
-                  "coords": [
-                        20.718024,
-                        38.847106
-                  ]
-            },
-            {
-                  "name": "Moyseio «Aggelos Sikelianos»",
-                  "text": "Un muzeu din Lefkada dedicat vieții și operei poetului Angelos Sikelianos.",
-                  "category": "museum",
-                  "coords": [
-                        20.707023,
-                        38.833576
                   ]
             },
             {
@@ -23478,15 +23082,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ereipia Ag.Gorgioy",
-                  "text": "Ruinele unui lăcaș dedicat Sfântului Gheorghe pe insula Lefkada.",
-                  "category": "historical",
-                  "coords": [
-                        20.718058,
-                        38.811536
-                  ]
-            },
-            {
                   "name": "Agglikaniki Ekklisia Leykados",
                   "text": "Biserica Anglicană din Lefkada este o clădire istorică.",
                   "category": "historical",
@@ -23496,48 +23091,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ereipia archaias polis",
-                  "text": "Ruinele orașului antic de pe Lefkada sunt un sit arheologic.",
-                  "category": "historical",
-                  "coords": [
-                        20.718238,
-                        38.812496
-                  ]
-            },
-            {
-                  "name": "Ancient Nirikos",
-                  "text": "Nirikosul antic de pe Lefkada este un sit arheologic.",
-                  "category": "historical",
-                  "coords": [
-                        20.709975,
-                        38.810708
-                  ]
-            },
-            {
                   "name": "Agios Ioannis toy Antzoysi",
                   "text": "O capelă istorică dedicată Sfântului Ioan Botezătorul, situată lângă Lefkada.",
                   "category": "religious",
                   "coords": [
                         20.666989,
                         38.83155
-                  ]
-            },
-            {
-                  "name": "Agios Charalampos",
-                  "text": "Biserica ortodoxă greacă Sfântul Haralambie pe insula ioniană Lefkada.",
-                  "category": "religious",
-                  "coords": [
-                        20.710228,
-                        38.833425
-                  ]
-            },
-            {
-                  "name": "Pantokratoras",
-                  "text": "O biserică ortodoxă greacă din Lefkada, cu semnificație religioasă.",
-                  "category": "religious",
-                  "coords": [
-                        20.706408,
-                        38.832402
                   ]
             },
             {
@@ -23559,30 +23118,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Alykes Alexandroy",
-                  "text": "Salinele Alexandros din Lefkada reprezintă o zonă de lac cu peisaje de coastă unice.",
-                  "category": "natural",
-                  "coords": [
-                        20.722807,
-                        38.804601
-                  ]
-            },
-            {
                   "name": "Limnothalassa Gyras",
                   "text": "Lacul Gyra este un corp de apă frumos din Lefkada, perfect pentru a vă bucura de peisajul liniștit.",
                   "category": "natural",
                   "coords": [
                         20.699663,
                         38.842369
-                  ]
-            },
-            {
-                  "name": "Marina Playground",
-                  "text": "Marina Playground este un spațiu în aer liber din Lefkada, unde familiile își pot aduce copiii pentru distracție activă.",
-                  "category": "family",
-                  "coords": [
-                        20.711158,
-                        38.829357
                   ]
             },
             {
@@ -23606,24 +23147,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Agia Mavra Castle",
-                  "text": "An impressive medieval fortress guarding the entrance to the island of Lefkada.",
-                  "category": "castle",
-                  "coords": [
-                        20.719758,
-                        38.844633
-                  ]
-            },
-            {
-                  "name": "Moyseio Fonografoy",
-                  "text": "A private museum in Lefkada featuring a collection of historical phonographs and radios.",
-                  "category": "museum",
-                  "coords": [
-                        20.708019,
-                        38.833503
-                  ]
-            },
-            {
                   "name": "Gyra (Anna)",
                   "text": "A long sandy beach near Lefkada town, known for its windmills.",
                   "category": "recreational",
@@ -23642,48 +23165,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Faros",
-                  "text": "A distinctive lighthouse on the coast of Lefkada, guiding the navigation of ships.",
-                  "category": "landmark",
-                  "coords": [
-                        20.720679,
-                        38.84785
-                  ]
-            },
-            {
-                  "name": "Ochyro Konstantinos",
-                  "text": "The remains of a historical fortification on the island of Lefkada.",
-                  "category": "historical",
-                  "coords": [
-                        20.722099,
-                        38.813235
-                  ]
-            },
-            {
                   "name": "Ai Giannis",
                   "text": "A picturesque coastal area on Lefkada known for its crystal-clear water.",
                   "category": "recreational",
                   "coords": [
                         20.669874,
                         38.831586
-                  ]
-            },
-            {
-                  "name": "Kastro",
-                  "text": "A beach section in Lefkada located in the immediate vicinity of the historical fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        20.718024,
-                        38.847106
-                  ]
-            },
-            {
-                  "name": "Moyseio «Aggelos Sikelianos»",
-                  "text": "A museum in Lefkada dedicated to the life and work of the poet Angelos Sikelianos.",
-                  "category": "museum",
-                  "coords": [
-                        20.707023,
-                        38.833576
                   ]
             },
             {
@@ -23696,15 +23183,6 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ereipia Ag.Gorgioy",
-                  "text": "The ruins of a site dedicated to Saint George on the island of Lefkada.",
-                  "category": "historical",
-                  "coords": [
-                        20.718058,
-                        38.811536
-                  ]
-            },
-            {
                   "name": "Agglikaniki Ekklisia Leykados",
                   "text": "The Anglican Church of Lefkada is a historic building.",
                   "category": "historical",
@@ -23714,48 +23192,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Ancient City Ruins",
-                  "text": "The ruins of the ancient city on Lefkada are an archaeological site.",
-                  "category": "historical",
-                  "coords": [
-                        20.718238,
-                        38.812496
-                  ]
-            },
-            {
-                  "name": "Ancient Nirikos",
-                  "text": "Ancient Nirikos on Lefkada is an archaeological site.",
-                  "category": "historical",
-                  "coords": [
-                        20.709975,
-                        38.810708
-                  ]
-            },
-            {
                   "name": "St John of Antzousi",
                   "text": "A historical chapel dedicated to St John the Baptist, located near Lefkada.",
                   "category": "religious",
                   "coords": [
                         20.666989,
                         38.83155
-                  ]
-            },
-            {
-                  "name": "Agios Charalampos",
-                  "text": "Greek Orthodox church of St. Charalampos on the Ionian island of Lefkada.",
-                  "category": "religious",
-                  "coords": [
-                        20.710228,
-                        38.833425
-                  ]
-            },
-            {
-                  "name": "Pantokratoras",
-                  "text": "A Greek Orthodox church in Lefkada with religious significance.",
-                  "category": "religious",
-                  "coords": [
-                        20.706408,
-                        38.832402
                   ]
             },
             {
@@ -23777,30 +23219,12 @@ imageHint: "Chania Venetian harbor and lighthouse",
                   ]
             },
             {
-                  "name": "Alexandros salt pans",
-                  "text": "Alexandros salt pans in Lefkada is a lake area featuring unique coastal landscapes.",
-                  "category": "natural",
-                  "coords": [
-                        20.722807,
-                        38.804601
-                  ]
-            },
-            {
                   "name": "Gyra Lake",
                   "text": "Gyra Lake is a beautiful water body in Lefkada, perfect for enjoying peaceful scenery.",
                   "category": "natural",
                   "coords": [
                         20.699663,
                         38.842369
-                  ]
-            },
-            {
-                  "name": "Marina Playground",
-                  "text": "Marina Playground is an outdoor space in Lefkada where families can bring their kids for some active fun.",
-                  "category": "family",
-                  "coords": [
-                        20.711158,
-                        38.829357
                   ]
             },
             {

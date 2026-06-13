@@ -408,15 +408,6 @@ export const poiExtraGuineaLifeV2: POI[] = [
     id: "nzerekore-palm-oil-life-v2", "sights": {
       "de": [
             {
-                  "name": "Place des Martyrs",
-                  "text": "Die Place des Martyrs ist ein Gedenkmonument in der lebhaften Stadt Nzérékoré.",
-                  "category": "historical",
-                  "coords": [
-                        -8.820135,
-                        7.746116
-                  ]
-            },
-            {
                   "name": "Les Bas-Fonds",
                   "text": "Les Bas-Fonds ist eine Naturattraktion in den tiefer gelegenen Feuchtgebieten von Nzérékoré.",
                   "category": "landmark",
@@ -424,27 +415,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
                         -8.797988,
                         7.734937
                   ]
-            },
-            {
-                  "name": "Carrefour Dix-Huit-Horia",
-                  "text": "Carrefour Dix-Huit-Horia ist eine belebte städtische Kreuzung, die als zentraler Treffpunkt in Nzérékoré dient.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.811051,
-                        7.735306
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Place des Martyrs",
-                  "text": "A Place des Martyrs egy emlékmű Nzérékoré nyüzsgő városában.",
-                  "category": "historical",
-                  "coords": [
-                        -8.820135,
-                        7.746116
-                  ]
-            },
             {
                   "name": "Les Bas-Fonds",
                   "text": "A Les Bas-Fonds egy természeti látványosság Nzérékoré alacsonyan fekvő vizes élőhelyein.",
@@ -453,27 +426,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
                         -8.797988,
                         7.734937
                   ]
-            },
-            {
-                  "name": "Carrefour Dix-Huit-Horia",
-                  "text": "A Carrefour Dix-Huit-Horia egy forgalmas városi útkereszteződés, amely központi találkozóhelyként szolgál Nzérékoréban.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.811051,
-                        7.735306
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Place des Martyrs",
-                  "text": "Place des Martyrs este un monument comemorativ situat în orașul plin de viață Nzérékoré.",
-                  "category": "historical",
-                  "coords": [
-                        -8.820135,
-                        7.746116
-                  ]
-            },
             {
                   "name": "Les Bas-Fonds",
                   "text": "Les Bas-Fonds este o atracție naturală situată în zonele umede joase din Nzérékoré.",
@@ -482,27 +437,9 @@ export const poiExtraGuineaLifeV2: POI[] = [
                         -8.797988,
                         7.734937
                   ]
-            },
-            {
-                  "name": "Carrefour Dix-Huit-Horia",
-                  "text": "Carrefour Dix-Huit-Horia este o intersecție urbană plină de viață, servind drept punct central de întâlnire în Nzérékoré.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.811051,
-                        7.735306
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Place des Martyrs",
-                  "text": "Place des Martyrs is a commemorative monument situated in the vibrant city of Nzérékoré.",
-                  "category": "historical",
-                  "coords": [
-                        -8.820135,
-                        7.746116
-                  ]
-            },
             {
                   "name": "Les Bas-Fonds",
                   "text": "Les Bas-Fonds is a natural attraction nestled in the low-lying wetlands of Nzérékoré.",
@@ -510,15 +447,6 @@ export const poiExtraGuineaLifeV2: POI[] = [
                   "coords": [
                         -8.797988,
                         7.734937
-                  ]
-            },
-            {
-                  "name": "Carrefour Dix-Huit-Horia",
-                  "text": "Carrefour Dix-Huit-Horia is a bustling urban intersection serving as a central meeting point in Nzérékoré.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.811051,
-                        7.735306
                   ]
             }
       ]
@@ -679,50 +607,10 @@ export const poiExtraGuineaLifeV2: POI[] = [
     }, image: "/poi-images/kissidougou-forest-habitat-life-v2.webp"},
   {
     id: "dubreka-mangrove-habitats-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Centre Culturel de Dubréka",
-                  "text": "Inmitten der küstennahen Mangrovenlebensräume von Dubréka veranstaltet dieses Kulturzentrum lokale Aufführungen und Ausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -13.521304,
-                        9.790312
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Centre Culturel de Dubréka",
-                  "text": "A Dubréka part menti mangrove-élőhelyeivel körülvett művészeti központ helyi kulturális előadásoknak és kiállításoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -13.521304,
-                        9.790312
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Centre Culturel de Dubréka",
-                  "text": "Înconjurat de habitatele de mangrove de coastă din Dubréka, acest centru de arte găzduiește spectacole și expoziții culturale locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -13.521304,
-                        9.790312
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Centre Culturel de Dubréka",
-                  "text": "Surrounded by the coastal mangrove habitats of Dubréka, this arts centre hosts local cultural performances and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -13.521304,
-                        9.790312
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "animal-habitat",
     parent: "GN-D",

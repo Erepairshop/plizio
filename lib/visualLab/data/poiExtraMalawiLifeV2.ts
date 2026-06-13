@@ -2515,15 +2515,6 @@ export const malawiLifeV2: POI[] = [
                         34.045614,
                         -11.449548
                   ]
-            },
-            {
-                  "name": "Clocktower",
-                  "text": "Der Uhrenturm steht als zentrales bürgerliches Denkmal an einer markanten Kreuzung der Siedlung und markiert das Vergehen der Zeit.",
-                  "category": "historical",
-                  "coords": [
-                        34.020126,
-                        -11.462264
-                  ]
             }
       ],
       "hu": [
@@ -2534,15 +2525,6 @@ export const malawiLifeV2: POI[] = [
                   "coords": [
                         34.045614,
                         -11.449548
-                  ]
-            },
-            {
-                  "name": "Clocktower",
-                  "text": "Az óratorony a település egy forgalmas kereszteződésében álló központi polgári emlékmű, amely az idő múlását jelzi.",
-                  "category": "historical",
-                  "coords": [
-                        34.020126,
-                        -11.462264
                   ]
             }
       ],
@@ -2555,15 +2537,6 @@ export const malawiLifeV2: POI[] = [
                         34.045614,
                         -11.449548
                   ]
-            },
-            {
-                  "name": "Clocktower",
-                  "text": "Turnul cu ceas se înalță ca un monument civic central care marchează trecerea timpului la o intersecție proeminentă din așezare.",
-                  "category": "historical",
-                  "coords": [
-                        34.020126,
-                        -11.462264
-                  ]
             }
       ],
       "en": [
@@ -2574,15 +2547,6 @@ export const malawiLifeV2: POI[] = [
                   "coords": [
                         34.045614,
                         -11.449548
-                  ]
-            },
-            {
-                  "name": "Clocktower",
-                  "text": "The Clocktower stands as a central civic monument marking the passing of time at a prominent intersection in the settlement.",
-                  "category": "historical",
-                  "coords": [
-                        34.020126,
-                        -11.462264
                   ]
             }
       ]

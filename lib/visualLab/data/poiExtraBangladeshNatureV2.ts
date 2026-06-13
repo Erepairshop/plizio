@@ -3106,15 +3106,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     id: "bd-teesta-river-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Saidpur Bypass mor",
-                  "text": "Ein lokales Denkmal, das eine wichtige Kreuzung und einen Transitpunkt in der Region nahe dem Teesta-Fluss markiert.",
-                  "category": "historical",
-                  "coords": [
-                        88.91608,
-                        25.780858
-                  ]
-            },
-            {
                   "name": "Power Office Jame Masjid, Place of worship",
                   "text": "Ein lokales islamisches Gotteshaus, das den täglichen spirituellen Bedürfnissen der Gemeinde in der Region des Flusses Teesta dient.",
                   "category": "religious",
@@ -3413,15 +3404,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Saidpur Bypass mor",
-                  "text": "Egy helyi emlékmű, amely egy kiemelkedő kereszteződést és tranzitpontot jelöl a Teesta folyó közelében.",
-                  "category": "historical",
-                  "coords": [
-                        88.91608,
-                        25.780858
-                  ]
-            },
             {
                   "name": "Power Office Jame Masjid, Place of worship",
                   "text": "Egy helyi iszlám istentiszteleti hely, amely a Teesta folyó régiójában élő közösség napi spirituális szükségleteit szolgálja ki.",
@@ -3722,15 +3704,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Saidpur Bypass mor",
-                  "text": "Un monument local care marchează o intersecție proeminentă și un punct de tranzit în regiunea din apropierea râului Teesta.",
-                  "category": "historical",
-                  "coords": [
-                        88.91608,
-                        25.780858
-                  ]
-            },
-            {
                   "name": "Power Office Jame Masjid, Place of worship",
                   "text": "Un lăcaș de cult islamic local care deservește nevoile spirituale zilnice ale comunității din regiunea râului Teesta.",
                   "category": "religious",
@@ -4029,15 +4002,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Saidpur Bypass mor",
-                  "text": "A local monument marking a prominent crossroads and transit point in the region near the Teesta River.",
-                  "category": "historical",
-                  "coords": [
-                        88.91608,
-                        25.780858
-                  ]
-            },
             {
                   "name": "Power Office Jame Masjid, Place of worship",
                   "text": "A local Islamic place of worship serving the daily spiritual needs of the community in the Teesta River region.",
@@ -9844,15 +9808,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
     id: "bd-ramsagar-national-park-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Dinajpur Museum",
-                  "text": "Ein Regionalmuseum, das archäologische Funde ausstellt, darunter Statuen und Relikte aus dem historischen Dinajpur-Rajbari-Palast.",
-                  "category": "museum",
-                  "coords": [
-                        88.635637,
-                        25.628364
-                  ]
-            },
-            {
                   "name": "মহারাজা মোড়",
                   "text": "Ein markanter Verkehrsknotenpunkt und Denkmal im Herzen von Dinajpur, benannt nach den historischen Maharajas der Region.",
                   "category": "historical",
@@ -9868,15 +9823,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
                   "coords": [
                         88.68211,
                         25.608396
-                  ]
-            },
-            {
-                  "name": "Dinajpur Shahid Minar",
-                  "text": "Ein Denkmal zur Erinnerung an die Märtyrer der Sprachbewegung von 1952, das durch seine charakteristischen weißen Säulen auffällt.",
-                  "category": "historical",
-                  "coords": [
-                        88.634365,
-                        25.622715
                   ]
             },
             {
@@ -9940,24 +9886,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
                   "coords": [
                         88.710919,
                         25.588926
-                  ]
-            },
-            {
-                  "name": "Law College More",
-                  "text": "Eine belebte Straßenkreuzung in Dinajpur, die sich in der Nähe des örtlichen Gebäudes der juristischen Hochschule befindet.",
-                  "category": "landmark",
-                  "coords": [
-                        88.640669,
-                        25.628098
-                  ]
-            },
-            {
-                  "name": "Map of Southeast Asia",
-                  "text": "Eine großformatige Landkartendarstellung im Freien in Dinajpur, die die Geografie und Länder Südostasiens zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        88.637443,
-                        25.624827
                   ]
             },
             {
@@ -10143,15 +10071,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Dinajpur Museum",
-                  "text": "Regionális múzeum, amely régészeti leleteket, többek között a történelmi Dinajpur Rajbari palotából származó szobrokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        88.635637,
-                        25.628364
-                  ]
-            },
-            {
                   "name": "মহারাজা মোড়",
                   "text": "Jellegzetes közlekedési csomópont és emlékmű Dinajpur szívében, amelyet a régió történelmi maharadzsáiról neveztek el.",
                   "category": "historical",
@@ -10167,15 +10086,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
                   "coords": [
                         88.68211,
                         25.608396
-                  ]
-            },
-            {
-                  "name": "Dinajpur Shahid Minar",
-                  "text": "Az 1952-es nyelvmozgalom mártírjainak emlékműve, amely jellegzetes fehér oszlopaival tűnik ki.",
-                  "category": "historical",
-                  "coords": [
-                        88.634365,
-                        25.622715
                   ]
             },
             {
@@ -10239,24 +10149,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
                   "coords": [
                         88.710919,
                         25.588926
-                  ]
-            },
-            {
-                  "name": "Law College More",
-                  "text": "Forgalmas útkereszteződés Dinajpurban, a helyi jogi főiskola épülete közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        88.640669,
-                        25.628098
-                  ]
-            },
-            {
-                  "name": "Map of Southeast Asia",
-                  "text": "Egy nagyméretű szabadtéri térképinstalláció Dinajpurban, amely Délkelet-Ázsia földrajzát és országait ábrázolja.",
-                  "category": "landmark",
-                  "coords": [
-                        88.637443,
-                        25.624827
                   ]
             },
             {
@@ -10442,15 +10334,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Dinajpur Museum",
-                  "text": "Un muzeu regional care expune descoperiri arheologice, inclusiv statui și relicve de la istoricul palat Dinajpur Rajbari.",
-                  "category": "museum",
-                  "coords": [
-                        88.635637,
-                        25.628364
-                  ]
-            },
-            {
                   "name": "মহারাজা মোড়",
                   "text": "Un nod de trafic și monument distinctiv în inima orașului Dinajpur, numit după istoricii maharadjahi ai regiunii.",
                   "category": "historical",
@@ -10466,15 +10349,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
                   "coords": [
                         88.68211,
                         25.608396
-                  ]
-            },
-            {
-                  "name": "Dinajpur Shahid Minar",
-                  "text": "Un monument dedicat martirilor Mișcării pentru Limbă din 1952, remarcabil prin coloanele sale albe caracteristice.",
-                  "category": "historical",
-                  "coords": [
-                        88.634365,
-                        25.622715
                   ]
             },
             {
@@ -10538,24 +10412,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
                   "coords": [
                         88.710919,
                         25.588926
-                  ]
-            },
-            {
-                  "name": "Law College More",
-                  "text": "O intersecție rutieră aglomerată în Dinajpur, situată lângă clădirea colegiului local de drept.",
-                  "category": "landmark",
-                  "coords": [
-                        88.640669,
-                        25.628098
-                  ]
-            },
-            {
-                  "name": "Map of Southeast Asia",
-                  "text": "O instalație cartografică de mari dimensiuni în aer liber din Dinajpur, care înfățișează geografia și țările din Asia de Sud-Est.",
-                  "category": "landmark",
-                  "coords": [
-                        88.637443,
-                        25.624827
                   ]
             },
             {
@@ -10741,15 +10597,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Dinajpur Museum",
-                  "text": "A regional museum displaying archaeological finds, including statues and relics from the historic Dinajpur Rajbari palace.",
-                  "category": "museum",
-                  "coords": [
-                        88.635637,
-                        25.628364
-                  ]
-            },
-            {
                   "name": "মহারাজা মোড়",
                   "text": "A prominent traffic junction and monument in the heart of Dinajpur, named after the region's historic Maharajas.",
                   "category": "historical",
@@ -10765,15 +10612,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
                   "coords": [
                         88.68211,
                         25.608396
-                  ]
-            },
-            {
-                  "name": "Dinajpur Shahid Minar",
-                  "text": "A monument commemorating the martyrs of the 1952 Language Movement, featuring its characteristic white columns.",
-                  "category": "historical",
-                  "coords": [
-                        88.634365,
-                        25.622715
                   ]
             },
             {
@@ -10846,15 +10684,6 @@ export const poiExtraBangladeshNatureV2: POI[] = [
                   "coords": [
                         88.640669,
                         25.628098
-                  ]
-            },
-            {
-                  "name": "Map of Southeast Asia",
-                  "text": "A large-scale outdoor map installation in Dinajpur depicting the geography and countries of Southeast Asia.",
-                  "category": "landmark",
-                  "coords": [
-                        88.637443,
-                        25.624827
                   ]
             },
             {

@@ -240,42 +240,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
     id: "dukhan-oil-field-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Viewing platform",
-                  "text": "Die Aussichtsplattform ist eine Attraktion in Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.785029,
-                        25.424201
-                  ]
-            },
-            {
-                  "name": "Fountain with seating place",
-                  "text": "Dieser Springbrunnen mit Sitzgelegenheiten ist eine Attraktion in Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.786004,
-                        25.423779
-                  ]
-            },
-            {
-                  "name": "First production well",
-                  "text": "Der erste Produktionsbrunnen ist eine Attraktion in Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.784343,
-                        25.42226
-                  ]
-            },
-            {
-                  "name": "Dukhan View Point",
-                  "text": "Der Dukhan View Point ist ein Aussichtspunkt in Dukhan Oil Field Economic V2.",
-                  "category": "natural",
-                  "coords": [
-                        50.787291,
-                        25.422606
-                  ]
-            },
-            {
                   "name": "Souq Dukhan",
                   "text": "Souq Dukhan ist ein lokaler Marktplatz in Dukhan Oil Field Economic V2.",
                   "category": "cultural",
@@ -286,42 +250,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Viewing platform",
-                  "text": "A kilátó egy látványosság a Dukhan Oil Field Economic V2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        50.785029,
-                        25.424201
-                  ]
-            },
-            {
-                  "name": "Fountain with seating place",
-                  "text": "Ez az ülőhelyekkel ellátott szökőkút egy látványosság a Dukhan Oil Field Economic V2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        50.786004,
-                        25.423779
-                  ]
-            },
-            {
-                  "name": "First production well",
-                  "text": "Az első termelőkút egy látványosság a Dukhan Oil Field Economic V2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        50.784343,
-                        25.42226
-                  ]
-            },
-            {
-                  "name": "Dukhan View Point",
-                  "text": "A Dukhan View Point egy kilátó a Dukhan Oil Field Economic V2 területén.",
-                  "category": "natural",
-                  "coords": [
-                        50.787291,
-                        25.422606
-                  ]
-            },
             {
                   "name": "Souq Dukhan",
                   "text": "A Souq Dukhan egy helyi piac a Dukhan Oil Field Economic V2 területén.",
@@ -334,42 +262,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Viewing platform",
-                  "text": "Platforma de observare este o atracție în Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.785029,
-                        25.424201
-                  ]
-            },
-            {
-                  "name": "Fountain with seating place",
-                  "text": "Această fântână cu locuri de relaxare este o atracție în Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.786004,
-                        25.423779
-                  ]
-            },
-            {
-                  "name": "First production well",
-                  "text": "Prima sondă de producție este o atracție în Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.784343,
-                        25.42226
-                  ]
-            },
-            {
-                  "name": "Dukhan View Point",
-                  "text": "Dukhan View Point este un punct de observare în Dukhan Oil Field Economic V2.",
-                  "category": "natural",
-                  "coords": [
-                        50.787291,
-                        25.422606
-                  ]
-            },
-            {
                   "name": "Souq Dukhan",
                   "text": "Souq Dukhan este o piață locală din Dukhan Oil Field Economic V2.",
                   "category": "cultural",
@@ -380,42 +272,6 @@ export const poiExtraQatarEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Viewing platform",
-                  "text": "The Viewing platform is an attraction located in Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.785029,
-                        25.424201
-                  ]
-            },
-            {
-                  "name": "Fountain with seating place",
-                  "text": "This Fountain with seating place is an attraction in Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.786004,
-                        25.423779
-                  ]
-            },
-            {
-                  "name": "First production well",
-                  "text": "The First production well is an attraction in Dukhan Oil Field Economic V2.",
-                  "category": "landmark",
-                  "coords": [
-                        50.784343,
-                        25.42226
-                  ]
-            },
-            {
-                  "name": "Dukhan View Point",
-                  "text": "Dukhan View Point is a viewpoint in Dukhan Oil Field Economic V2.",
-                  "category": "natural",
-                  "coords": [
-                        50.787291,
-                        25.422606
-                  ]
-            },
             {
                   "name": "Souq Dukhan",
                   "text": "Souq Dukhan is a local marketplace located in Dukhan Oil Field Economic V2.",

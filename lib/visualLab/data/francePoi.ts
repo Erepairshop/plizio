@@ -511,15 +511,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Moulin Rouge",
-                  "text": "Das legendäre Kabarett in Pigmont mit seinen roten Windmühlenflügeln ist seit 1889 weltberühmt für seinen French Cancan.",
-                  "category": "cultural",
-                  "coords": [
-                        2.332222,
-                        48.884167
-                  ]
-            },
-            {
                   "name": "Palais Garnier",
                   "text": "Das prunkvolle Opernhaus aus dem Second Empire mit der berühmten Marmortreppe und dem Chagall-Deckengemälde.",
                   "category": "cultural",
@@ -698,15 +689,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         2.321236,
                         48.865633
-                  ]
-            },
-            {
-                  "name": "Moulin Rouge",
-                  "text": "A Pigalle legendás kabaréja vörös szélmalomszárnyaival 1889 óta világhírű a francia kankánról.",
-                  "category": "cultural",
-                  "coords": [
-                        2.332222,
-                        48.884167
                   ]
             },
             {
@@ -891,15 +873,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Moulin Rouge",
-                  "text": "Legendarul cabaret din Pigalle cu aripi roșii de moară este celebru în lume pentru french cancan din 1889.",
-                  "category": "cultural",
-                  "coords": [
-                        2.332222,
-                        48.884167
-                  ]
-            },
-            {
                   "name": "Palais Garnier",
                   "text": "Sumptuoasa operă a Imperiului al Doilea, faimoasă pentru scara de marmură și plafonul pictat de Chagall.",
                   "category": "cultural",
@@ -1081,15 +1054,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Moulin Rouge",
-                  "text": "The legendary cabaret in Pigalle with its red windmill sails has been world-famous for the French cancan since 1889.",
-                  "category": "cultural",
-                  "coords": [
-                        2.332222,
-                        48.884167
-                  ]
-            },
-            {
                   "name": "Palais Garnier",
                   "text": "The sumptuous Second Empire opera house, famous for its marble staircase and Chagall-painted ceiling.",
                   "category": "cultural",
@@ -1263,15 +1227,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Moulin Rouge",
-                  "text": "Le cabaret légendaire de Pigalle aux ailes de moulin rouges est mondialement célèbre pour son french cancan depuis 1889.",
-                  "category": "cultural",
-                  "coords": [
-                        2.332222,
-                        48.884167
-                  ]
-            },
-            {
                   "name": "Palais Garnier",
                   "text": "Le somptueux opéra du Second Empire est célèbre pour son grand escalier en marbre et son plafond peint par Chagall.",
                   "category": "cultural",
@@ -1437,39 +1392,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Station de Filtrage Du Merlan",
-                  "text": "Ein markantes Gewässer in Marseille, das das Stadtbild bereichert.",
-                  "category": "natural",
-                  "coords": [
-                        5.403,
-                        43.337826
-                  ]
-            },
-            {
-                  "name": "Réservoir du Vallon Dol",
-                  "text": "Ein bekanntes Reservoir in Marseille, das für seine ruhige Atmosphäre geschätzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        5.401013,
-                        43.362701
-                  ]
-            },
-            {
                   "name": "Bassin d’entraînement à la survie en mer",
                   "text": "Ein technisches Becken in Marseille, das als ruhiger Wasserpunkt in der Stadt liegt.",
                   "category": "natural",
                   "coords": [
                         5.358874,
                         43.32157
-                  ]
-            },
-            {
-                  "name": "Bassin d'essais de la COMEX",
-                  "text": "Dieses Becken in Marseille ist ein interessantes Element der lokalen Wasserlandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        5.401457,
-                        43.238802
                   ]
             },
             {
@@ -1599,39 +1527,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Station de Filtrage Du Merlan",
-                  "text": "Egy jellegzetes vízfelület Marseille-ben, amely gazdagítja a városképet.",
-                  "category": "natural",
-                  "coords": [
-                        5.403,
-                        43.337826
-                  ]
-            },
-            {
-                  "name": "Réservoir du Vallon Dol",
-                  "text": "Egy jól ismert víztározó Marseille-ben, amelyet nyugodt légköréért kedvelnek.",
-                  "category": "natural",
-                  "coords": [
-                        5.401013,
-                        43.362701
-                  ]
-            },
-            {
                   "name": "Bassin d’entraînement à la survie en mer",
                   "text": "Egy technikai jellegű medence Marseille-ben, amely nyugodt vízi pontként szolgál a városban.",
                   "category": "natural",
                   "coords": [
                         5.358874,
                         43.32157
-                  ]
-            },
-            {
-                  "name": "Bassin d'essais de la COMEX",
-                  "text": "Ez a marseille-i medence a helyi vízi táj érdekes eleme.",
-                  "category": "natural",
-                  "coords": [
-                        5.401457,
-                        43.238802
                   ]
             },
             {
@@ -1761,39 +1662,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Station de Filtrage Du Merlan",
-                  "text": "Un corp de apă distinctiv în Marsilia, care îmbogățește peisajul urban.",
-                  "category": "natural",
-                  "coords": [
-                        5.403,
-                        43.337826
-                  ]
-            },
-            {
-                  "name": "Réservoir du Vallon Dol",
-                  "text": "Un rezervor cunoscut în Marsilia, apreciat pentru atmosfera sa liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        5.401013,
-                        43.362701
-                  ]
-            },
-            {
                   "name": "Bassin d’entraînement à la survie en mer",
                   "text": "Un bazin tehnic în Marsilia, situat ca un punct de apă liniștit în oraș.",
                   "category": "natural",
                   "coords": [
                         5.358874,
                         43.32157
-                  ]
-            },
-            {
-                  "name": "Bassin d'essais de la COMEX",
-                  "text": "Acest bazin din Marsilia este un element interesant al peisajului acvatic local.",
-                  "category": "natural",
-                  "coords": [
-                        5.401457,
-                        43.238802
                   ]
             },
             {
@@ -1923,39 +1797,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Station de Filtrage Du Merlan",
-                  "text": "A distinctive body of water in Marseille, enriching the urban landscape.",
-                  "category": "natural",
-                  "coords": [
-                        5.403,
-                        43.337826
-                  ]
-            },
-            {
-                  "name": "Réservoir du Vallon Dol",
-                  "text": "A well-known reservoir in Marseille, appreciated for its calm atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        5.401013,
-                        43.362701
-                  ]
-            },
-            {
                   "name": "Bassin d’entraînement à la survie en mer",
                   "text": "A technical basin in Marseille, situated as a quiet water point in the city.",
                   "category": "natural",
                   "coords": [
                         5.358874,
                         43.32157
-                  ]
-            },
-            {
-                  "name": "Bassin d'essais de la COMEX",
-                  "text": "This basin in Marseille is an interesting element of the local water landscape.",
-                  "category": "natural",
-                  "coords": [
-                        5.401457,
-                        43.238802
                   ]
             },
             {
@@ -2150,16 +1997,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée des Confluences",
-                  "text": "Ein modernes Wissenschafts- und Anthropologiemuseum am Zusammenfluss von Rhône und Saône in futuristischer Architektur.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        4.818888,
-                        45.733594
-                  ]
-            },
-            {
                   "name": "Römisches Theater von Fourvière",
                   "text": "Die antiken Ruinen zeugen von der römischen Gründung der Stadt Lugdunum und werden heute für Freilichtaufführungen genutzt.",
                   "category": "historical",
@@ -2180,30 +2017,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Kapla Animation",
-                  "text": "Das Centre Kapla Animation ist ein Freizeitpark in Lyon. Er bietet Unterhaltung für Familien mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        4.840829,
-                        45.7481
-                  ]
-            },
-            {
                   "name": "Bains He-Mal",
                   "text": "Die Bains He-Mal sind ein öffentliches Bad in Lyon.",
                   "category": "family",
                   "coords": [
                         4.843675,
                         45.757161
-                  ]
-            },
-            {
-                  "name": "L'eau de soie",
-                  "text": "L'eau de soie ist ein Wasserpark in Lyon. Ideal für Wasserspaß mit der Familie.",
-                  "category": "family",
-                  "coords": [
-                        4.794255,
-                        45.772862
                   ]
             },
             {
@@ -2216,30 +2035,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Résidentielle",
-                  "text": "Das Schwimmbad Résidentielle ist eine Bademöglichkeit in Lyon.",
-                  "category": "family",
-                  "coords": [
-                        4.787164,
-                        45.763251
-                  ]
-            },
-            {
                   "name": "Parc aux Daims",
                   "text": "Der Parc aux Daims ist ein Zoo in Lyon. Ein schönes Ziel für einen entspannten Familienausflug.",
                   "category": "family",
                   "coords": [
                         4.853826,
                         45.774955
-                  ]
-            },
-            {
-                  "name": "Zoo de la Tête d'Or",
-                  "text": "Der Zoo de la Tête d'Or in Lyon lädt Familien ein, verschiedene Tierarten zu entdecken.",
-                  "category": "family",
-                  "coords": [
-                        4.855511,
-                        45.777428
                   ]
             }
       ],
@@ -2285,16 +2086,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée des Confluences",
-                  "text": "A Rhône és a Saône folyók találkozásánál épült futurisztikus múzeum, amely az emberiség történetét és a tudományt mutatja be.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        4.818888,
-                        45.733594
-                  ]
-            },
-            {
                   "name": "Fourvière-i római színházak",
                   "text": "Két jól megőrzött ókori amfiteátrum a domboldalon, amelyek az egykori Lugdunum városának fénykorát idézik fel.",
                   "category": "historical",
@@ -2315,30 +2106,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Kapla Animation",
-                  "text": "A Centre Kapla Animation egy vidámpark Lyonban. Szórakozást nyújt a gyermekes családok számára.",
-                  "category": "family",
-                  "coords": [
-                        4.840829,
-                        45.7481
-                  ]
-            },
-            {
                   "name": "Bains He-Mal",
                   "text": "A Bains He-Mal egy nyilvános fürdő Lyonban.",
                   "category": "family",
                   "coords": [
                         4.843675,
                         45.757161
-                  ]
-            },
-            {
-                  "name": "L'eau de soie",
-                  "text": "A L'eau de soie egy vízipark Lyonban. Ideális családi vízi szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        4.794255,
-                        45.772862
                   ]
             },
             {
@@ -2351,30 +2124,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Résidentielle",
-                  "text": "A Résidentielle uszoda egy fürdési lehetőség Lyonban.",
-                  "category": "family",
-                  "coords": [
-                        4.787164,
-                        45.763251
-                  ]
-            },
-            {
                   "name": "Parc aux Daims",
                   "text": "A Parc aux Daims egy állatkert Lyonban. Szép úti cél egy pihentető családi kiránduláshoz.",
                   "category": "family",
                   "coords": [
                         4.853826,
                         45.774955
-                  ]
-            },
-            {
-                  "name": "Zoo de la Tête d'Or",
-                  "text": "A lyoni Zoo de la Tête d'Or különféle állatfajok felfedezésére hívja a családokat.",
-                  "category": "family",
-                  "coords": [
-                        4.855511,
-                        45.777428
                   ]
             }
       ],
@@ -2450,30 +2205,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Kapla Animation",
-                  "text": "Centre Kapla Animation este un parc tematic în Lyon. Oferă divertisment pentru familiile cu copii.",
-                  "category": "family",
-                  "coords": [
-                        4.840829,
-                        45.7481
-                  ]
-            },
-            {
                   "name": "Bains He-Mal",
                   "text": "Bains He-Mal este o baie publică din Lyon.",
                   "category": "family",
                   "coords": [
                         4.843675,
                         45.757161
-                  ]
-            },
-            {
-                  "name": "L'eau de soie",
-                  "text": "L'eau de soie este un parc acvatic în Lyon. Ideal pentru distracție în apă cu familia.",
-                  "category": "family",
-                  "coords": [
-                        4.794255,
-                        45.772862
                   ]
             },
             {
@@ -2486,30 +2223,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Résidentielle",
-                  "text": "Piscina Résidentielle este o opțiune de înot în Lyon.",
-                  "category": "family",
-                  "coords": [
-                        4.787164,
-                        45.763251
-                  ]
-            },
-            {
                   "name": "Parc aux Daims",
                   "text": "Parc aux Daims este o grădină zoologică în Lyon. O destinație frumoasă pentru o ieșire relaxantă în familie.",
                   "category": "family",
                   "coords": [
                         4.853826,
                         45.774955
-                  ]
-            },
-            {
-                  "name": "Zoo de la Tête d'Or",
-                  "text": "Grădina zoologică Zoo de la Tête d'Or din Lyon invită familiile să descopere diverse specii de animale.",
-                  "category": "family",
-                  "coords": [
-                        4.855511,
-                        45.777428
                   ]
             }
       ],
@@ -2555,16 +2274,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée des Confluences",
-                  "text": "A science center and anthropology museum housed in a bold, futuristic building where the Rhône and Saône rivers meet.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        4.818888,
-                        45.733594
-                  ]
-            },
-            {
                   "name": "Ancient Theatre of Fourvière",
                   "text": "The oldest Roman theater in France, built on the slopes of Fourvière hill and still used for cultural festivals today.",
                   "category": "historical",
@@ -2585,30 +2294,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Kapla Animation",
-                  "text": "Centre Kapla Animation is a theme park in Lyon. It offers entertainment for families with children.",
-                  "category": "family",
-                  "coords": [
-                        4.840829,
-                        45.7481
-                  ]
-            },
-            {
                   "name": "Bains He-Mal",
                   "text": "The Bains He-Mal is a public bath in Lyon.",
                   "category": "family",
                   "coords": [
                         4.843675,
                         45.757161
-                  ]
-            },
-            {
-                  "name": "L'eau de soie",
-                  "text": "L'eau de soie is a water park in Lyon. Ideal for water fun with the family.",
-                  "category": "family",
-                  "coords": [
-                        4.794255,
-                        45.772862
                   ]
             },
             {
@@ -2621,30 +2312,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Résidentielle",
-                  "text": "The Résidentielle swimming pool is a swimming option in Lyon.",
-                  "category": "family",
-                  "coords": [
-                        4.787164,
-                        45.763251
-                  ]
-            },
-            {
                   "name": "Parc aux Daims",
                   "text": "Parc aux Daims is a zoo in Lyon. A nice destination for a relaxing family outing.",
                   "category": "family",
                   "coords": [
                         4.853826,
                         45.774955
-                  ]
-            },
-            {
-                  "name": "Zoo de la Tête d'Or",
-                  "text": "The Zoo de la Tête d'Or in Lyon invites families to discover various animal species.",
-                  "category": "family",
-                  "coords": [
-                        4.855511,
-                        45.777428
                   ]
             }
       ],
@@ -2683,15 +2356,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.854167,
                         45.780556
-                  ]
-            },
-            {
-                  "name": "Musée des Confluences",
-                  "text": "Un musée moderne de sciences et d'anthropologie à l'architecture futuriste situé au confluent du Rhône et de la Saône.",
-                  "category": "museum",
-                  "coords": [
-                        4.818888,
-                        45.733594
                   ]
             },
             {
@@ -2815,69 +2479,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de Sesquières",
-                  "text": "Ein malerischer See in Toulouse, der zu entspannten Spaziergängen am Wasser einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        1.41792,
-                        43.651176
-                  ]
-            },
-            {
-                  "name": "Bassin de Radoub",
-                  "text": "Dieses Gewässer in Toulouse bietet eine ruhige Kulisse für Naturbeobachtungen und Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        1.45934,
-                        43.589335
-                  ]
-            },
-            {
-                  "name": "Lac Saint-Caprais",
-                  "text": "Ein schöner See in Toulouse, ideal für einen Ausflug ins Grüne und zum Entspannen.",
-                  "category": "natural",
-                  "coords": [
-                        1.482169,
-                        43.645394
-                  ]
-            },
-            {
-                  "name": "Lac des pêcheurs de la Ramée",
-                  "text": "Dieser See in Toulouse ist ein beliebtes Ziel für alle, die Ruhe und Natur suchen.",
-                  "category": "natural",
-                  "coords": [
-                        1.361446,
-                        43.57005
-                  ]
-            },
-            {
-                  "name": "Lac du Vieux Pigeonnier",
-                  "text": "Ein idyllischer See in Toulouse, der eine wunderbare Kulisse für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        1.35877,
-                        43.585528
-                  ]
-            },
-            {
-                  "name": "Lac de la Ramée",
-                  "text": "Ein weitläufiger See in Toulouse, der zu verschiedenen Freizeitaktivitäten in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        1.350291,
-                        43.569893
-                  ]
-            },
-            {
-                  "name": "Soupetard",
-                  "text": "Ein öffentlicher Spielplatz in Toulouse, der Kindern viel Platz zum Toben bietet.",
-                  "category": "family",
-                  "coords": [
-                        1.472014,
-                        43.608863
-                  ]
-            },
-            {
                   "name": "Le moulin à nef de la Garonne",
                   "text": "Dieser Spielbereich in Toulouse ist ein beliebter Treffpunkt für Familien aus der Nachbarschaft.",
                   "category": "family",
@@ -2968,15 +2569,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Île du Ramier 2",
-                  "text": "Dieser Bereich in Toulouse bietet Kindern eine sichere Umgebung für Spiel und Spaß.",
-                  "category": "family",
-                  "coords": [
-                        1.43989,
-                        43.591358
-                  ]
-            },
-            {
                   "name": "Jean Jaurès",
                   "text": "Ein zentraler Treffpunkt für Familien in Toulouse mit einem ansprechenden Spielplatz.",
                   "category": "family",
@@ -2995,33 +2587,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux métro Empalot",
-                  "text": "Ein gut erreichbarer Spielplatz in Toulouse, ideal für eine Pause zwischendurch.",
-                  "category": "family",
-                  "coords": [
-                        1.442334,
-                        43.579736
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Robespierre",
-                  "text": "Dieser öffentliche Spielbereich in Toulouse lädt Kinder zum aktiven Spielen ein.",
-                  "category": "family",
-                  "coords": [
-                        1.44913,
-                        43.585926
-                  ]
-            },
-            {
-                  "name": "Aire de jeu du télégraphe Claude Chappe",
-                  "text": "Ein themenbezogener Spielplatz in Toulouse, der die Fantasie der Kinder anregt.",
-                  "category": "family",
-                  "coords": [
-                        1.473108,
-                        43.60174
-                  ]
-            },
-            {
                   "name": "Ausone",
                   "text": "Dieser moderne Spielplatz in Toulouse ist ein idealer Ort für tägliche Abenteuer.",
                   "category": "family",
@@ -3031,39 +2596,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Michelet Nord",
-                  "text": "Ein einladender Spielbereich in Toulouse, der Kindern viel Freude bereitet.",
-                  "category": "family",
-                  "coords": [
-                        1.455403,
-                        43.603789
-                  ]
-            },
-            {
                   "name": "Grand bassin Léo Lagrange",
                   "text": "Das Schwimmbad Grand bassin Léo Lagrange befindet sich in Toulouse.",
                   "category": "family",
                   "coords": [
                         1.45487,
                         43.60743
-                  ]
-            },
-            {
-                  "name": "Bassin Castex",
-                  "text": "Das Schwimmbad Bassin Castex befindet sich in Toulouse.",
-                  "category": "family",
-                  "coords": [
-                        1.434334,
-                        43.586107
-                  ]
-            },
-            {
-                  "name": "Pataugeoire",
-                  "text": "Das Schwimmbad Pataugeoire befindet sich in Toulouse.",
-                  "category": "family",
-                  "coords": [
-                        1.436583,
-                        43.585464
                   ]
             }
       ],
@@ -3136,69 +2674,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.446,
                         43.601
-                  ]
-            },
-            {
-                  "name": "Lac de Sesquières",
-                  "text": "Malerikus tó Toulouse-ban, amely pihentető vízparti sétákra hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        1.41792,
-                        43.651176
-                  ]
-            },
-            {
-                  "name": "Bassin de Radoub",
-                  "text": "Ez a Toulouse-i vízfelület nyugodt hátteret biztosít a természet megfigyeléséhez és a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        1.45934,
-                        43.589335
-                  ]
-            },
-            {
-                  "name": "Lac Saint-Caprais",
-                  "text": "Szép tó Toulouse-ban, amely ideális a zöldbe való kiruccanáshoz és pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        1.482169,
-                        43.645394
-                  ]
-            },
-            {
-                  "name": "Lac des pêcheurs de la Ramée",
-                  "text": "Ez a Toulouse-i tó kedvelt célpont azok számára, akik nyugalmat és természetet keresnek.",
-                  "category": "natural",
-                  "coords": [
-                        1.361446,
-                        43.57005
-                  ]
-            },
-            {
-                  "name": "Lac du Vieux Pigeonnier",
-                  "text": "Idilli tó Toulouse-ban, amely csodálatos hátteret biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        1.35877,
-                        43.585528
-                  ]
-            },
-            {
-                  "name": "Lac de la Ramée",
-                  "text": "Kiterjedt tó Toulouse-ban, amely különféle szabadtéri szabadidős tevékenységekre hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        1.350291,
-                        43.569893
-                  ]
-            },
-            {
-                  "name": "Soupetard",
-                  "text": "Nyilvános játszótér Toulouse-ban, amely tágas helyet biztosít a gyerekeknek a mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        1.472014,
-                        43.608863
                   ]
             },
             {
@@ -3292,15 +2767,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Île du Ramier 2",
-                  "text": "Ez a Toulouse-i terület biztonságos környezetet kínál a gyerekeknek a játékhoz és szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        1.43989,
-                        43.591358
-                  ]
-            },
-            {
                   "name": "Jean Jaurès",
                   "text": "Központi találkozóhely családoknak Toulouse-ban, vonzó játszótérrel.",
                   "category": "family",
@@ -3319,33 +2785,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux métro Empalot",
-                  "text": "Könnyen megközelíthető játszótér Toulouse-ban, ideális egy köztes szünetre.",
-                  "category": "family",
-                  "coords": [
-                        1.442334,
-                        43.579736
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Robespierre",
-                  "text": "Ez a nyilvános Toulouse-i játszóterület aktív játékra hívja a gyerekeket.",
-                  "category": "family",
-                  "coords": [
-                        1.44913,
-                        43.585926
-                  ]
-            },
-            {
-                  "name": "Aire de jeu du télégraphe Claude Chappe",
-                  "text": "Tematikus játszótér Toulouse-ban, amely megmozgatja a gyerekek fantáziáját.",
-                  "category": "family",
-                  "coords": [
-                        1.473108,
-                        43.60174
-                  ]
-            },
-            {
                   "name": "Ausone",
                   "text": "Ez a modern játszótér Toulouse-ban ideális hely a mindennapi kalandokhoz.",
                   "category": "family",
@@ -3355,39 +2794,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Michelet Nord",
-                  "text": "Hívogató játszóterület Toulouse-ban, amely sok örömet szerez a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        1.455403,
-                        43.603789
-                  ]
-            },
-            {
                   "name": "Grand bassin Léo Lagrange",
                   "text": "A Grand bassin Léo Lagrange úszómedence Toulouse-ban található.",
                   "category": "family",
                   "coords": [
                         1.45487,
                         43.60743
-                  ]
-            },
-            {
-                  "name": "Bassin Castex",
-                  "text": "A Bassin Castex úszómedence Toulouse-ban található.",
-                  "category": "family",
-                  "coords": [
-                        1.434334,
-                        43.586107
-                  ]
-            },
-            {
-                  "name": "Pataugeoire",
-                  "text": "A Pataugeoire úszómedence Toulouse-ban található.",
-                  "category": "family",
-                  "coords": [
-                        1.436583,
-                        43.585464
                   ]
             }
       ],
@@ -3460,69 +2872,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.446,
                         43.601
-                  ]
-            },
-            {
-                  "name": "Lac de Sesquières",
-                  "text": "Un lac pitoresc în Toulouse, care invită la plimbări relaxante pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        1.41792,
-                        43.651176
-                  ]
-            },
-            {
-                  "name": "Bassin de Radoub",
-                  "text": "Această apă din Toulouse oferă un cadru liniștit pentru observarea naturii și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        1.45934,
-                        43.589335
-                  ]
-            },
-            {
-                  "name": "Lac Saint-Caprais",
-                  "text": "Un lac frumos în Toulouse, ideal pentru o ieșire în natură și pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        1.482169,
-                        43.645394
-                  ]
-            },
-            {
-                  "name": "Lac des pêcheurs de la Ramée",
-                  "text": "Acest lac din Toulouse este o destinație populară pentru cei care caută liniște și natură.",
-                  "category": "natural",
-                  "coords": [
-                        1.361446,
-                        43.57005
-                  ]
-            },
-            {
-                  "name": "Lac du Vieux Pigeonnier",
-                  "text": "Un lac idilic în Toulouse, care oferă un cadru minunat pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        1.35877,
-                        43.585528
-                  ]
-            },
-            {
-                  "name": "Lac de la Ramée",
-                  "text": "Un lac vast în Toulouse, care invită la diverse activități de agrement în natură.",
-                  "category": "natural",
-                  "coords": [
-                        1.350291,
-                        43.569893
-                  ]
-            },
-            {
-                  "name": "Soupetard",
-                  "text": "Un loc de joacă public în Toulouse, care oferă copiilor mult spațiu pentru joacă.",
-                  "category": "family",
-                  "coords": [
-                        1.472014,
-                        43.608863
                   ]
             },
             {
@@ -3616,15 +2965,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Île du Ramier 2",
-                  "text": "Această zonă din Toulouse oferă copiilor un mediu sigur pentru joacă și distracție.",
-                  "category": "family",
-                  "coords": [
-                        1.43989,
-                        43.591358
-                  ]
-            },
-            {
                   "name": "Jean Jaurès",
                   "text": "Un punct de întâlnire central pentru familii în Toulouse, cu un loc de joacă atractiv.",
                   "category": "family",
@@ -3643,33 +2983,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux métro Empalot",
-                  "text": "Un loc de joacă ușor accesibil în Toulouse, ideal pentru o pauză între activități.",
-                  "category": "family",
-                  "coords": [
-                        1.442334,
-                        43.579736
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Robespierre",
-                  "text": "Această zonă publică de joacă din Toulouse invită copiii la joc activ.",
-                  "category": "family",
-                  "coords": [
-                        1.44913,
-                        43.585926
-                  ]
-            },
-            {
-                  "name": "Aire de jeu du télégraphe Claude Chappe",
-                  "text": "Un loc de joacă tematic în Toulouse, care stimulează imaginația copiilor.",
-                  "category": "family",
-                  "coords": [
-                        1.473108,
-                        43.60174
-                  ]
-            },
-            {
                   "name": "Ausone",
                   "text": "Acest loc de joacă modern din Toulouse este un loc ideal pentru aventuri zilnice.",
                   "category": "family",
@@ -3679,39 +2992,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Michelet Nord",
-                  "text": "O zonă de joacă primitoare în Toulouse, care aduce multă bucurie copiilor.",
-                  "category": "family",
-                  "coords": [
-                        1.455403,
-                        43.603789
-                  ]
-            },
-            {
                   "name": "Grand bassin Léo Lagrange",
                   "text": "Piscina Grand bassin Léo Lagrange este situată în Toulouse.",
                   "category": "family",
                   "coords": [
                         1.45487,
                         43.60743
-                  ]
-            },
-            {
-                  "name": "Bassin Castex",
-                  "text": "Piscina Bassin Castex este situată în Toulouse.",
-                  "category": "family",
-                  "coords": [
-                        1.434334,
-                        43.586107
-                  ]
-            },
-            {
-                  "name": "Pataugeoire",
-                  "text": "Piscina Pataugeoire este situată în Toulouse.",
-                  "category": "family",
-                  "coords": [
-                        1.436583,
-                        43.585464
                   ]
             }
       ],
@@ -3784,69 +3070,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.446,
                         43.601
-                  ]
-            },
-            {
-                  "name": "Lac de Sesquières",
-                  "text": "A scenic lake in Toulouse that invites you to enjoy relaxing walks by the water.",
-                  "category": "natural",
-                  "coords": [
-                        1.41792,
-                        43.651176
-                  ]
-            },
-            {
-                  "name": "Bassin de Radoub",
-                  "text": "This body of water in Toulouse provides a peaceful setting for nature observation and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        1.45934,
-                        43.589335
-                  ]
-            },
-            {
-                  "name": "Lac Saint-Caprais",
-                  "text": "A lovely lake in Toulouse, ideal for a trip into nature and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        1.482169,
-                        43.645394
-                  ]
-            },
-            {
-                  "name": "Lac des pêcheurs de la Ramée",
-                  "text": "This lake in Toulouse is a popular destination for those seeking peace and nature.",
-                  "category": "natural",
-                  "coords": [
-                        1.361446,
-                        43.57005
-                  ]
-            },
-            {
-                  "name": "Lac du Vieux Pigeonnier",
-                  "text": "An idyllic lake in Toulouse providing a wonderful backdrop for walks.",
-                  "category": "natural",
-                  "coords": [
-                        1.35877,
-                        43.585528
-                  ]
-            },
-            {
-                  "name": "Lac de la Ramée",
-                  "text": "A large lake in Toulouse that invites various leisure activities in nature.",
-                  "category": "natural",
-                  "coords": [
-                        1.350291,
-                        43.569893
-                  ]
-            },
-            {
-                  "name": "Soupetard",
-                  "text": "A public playground in Toulouse offering children plenty of space to run around.",
-                  "category": "family",
-                  "coords": [
-                        1.472014,
-                        43.608863
                   ]
             },
             {
@@ -3940,15 +3163,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Île du Ramier 2",
-                  "text": "This area in Toulouse provides children with a safe environment for fun and games.",
-                  "category": "family",
-                  "coords": [
-                        1.43989,
-                        43.591358
-                  ]
-            },
-            {
                   "name": "Jean Jaurès",
                   "text": "A central meeting point for families in Toulouse with an appealing playground.",
                   "category": "family",
@@ -3967,33 +3181,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux métro Empalot",
-                  "text": "An easily accessible playground in Toulouse, ideal for a quick break.",
-                  "category": "family",
-                  "coords": [
-                        1.442334,
-                        43.579736
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Robespierre",
-                  "text": "This public play area in Toulouse invites children to engage in active play.",
-                  "category": "family",
-                  "coords": [
-                        1.44913,
-                        43.585926
-                  ]
-            },
-            {
-                  "name": "Aire de jeu du télégraphe Claude Chappe",
-                  "text": "A themed playground in Toulouse that sparks children's imaginations.",
-                  "category": "family",
-                  "coords": [
-                        1.473108,
-                        43.60174
-                  ]
-            },
-            {
                   "name": "Ausone",
                   "text": "This modern playground in Toulouse is an ideal spot for daily adventures.",
                   "category": "family",
@@ -4003,39 +3190,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Michelet Nord",
-                  "text": "An inviting play area in Toulouse that brings much joy to children.",
-                  "category": "family",
-                  "coords": [
-                        1.455403,
-                        43.603789
-                  ]
-            },
-            {
                   "name": "Grand bassin Léo Lagrange",
                   "text": "The swimming pool Grand bassin Léo Lagrange is located in Toulouse.",
                   "category": "family",
                   "coords": [
                         1.45487,
                         43.60743
-                  ]
-            },
-            {
-                  "name": "Bassin Castex",
-                  "text": "The swimming pool Bassin Castex is located in Toulouse.",
-                  "category": "family",
-                  "coords": [
-                        1.434334,
-                        43.586107
-                  ]
-            },
-            {
-                  "name": "Pataugeoire",
-                  "text": "The swimming pool Pataugeoire is located in Toulouse.",
-                  "category": "family",
-                  "coords": [
-                        1.436583,
-                        43.585464
                   ]
             }
       ],
@@ -4135,16 +3295,6 @@ export const franceCities: POI[] = [
     },
     "sights": {
       "de": [
-            {
-                  "name": "Promenade des Anglais",
-                  "text": "Diese berühmte, sieben Kilometer lange Uferpromenade am Mittelmeer ist das Wahrzeichen von Nizza und lädt zum Flanieren am azurblauen Wasser ein.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        7.2475,
-                        43.691111
-                  ]
-            },
             {
                   "name": "Vieux Nice",
                   "text": "Die charmante Altstadt besticht durch enge Gassen, barocke Kirchen und lebhafte Märkte wie den Cours Saleya mit seinem berühmten Blumenmarkt.",
@@ -4276,39 +3426,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parc Carol de Roumanie",
-                  "text": "Eine charmante Minigolfanlage in Nizza, die Spaß für die ganze Familie verspricht.",
-                  "category": "family",
-                  "coords": [
-                        7.230594,
-                        43.688231
-                  ]
-            },
-            {
-                  "name": "Parc d'Estienne d'Orves",
-                  "text": "Ein weitläufiger Spielbereich in Nizza, eingebettet in eine angenehme Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        7.244451,
-                        43.699292
-                  ]
-            },
-            {
                   "name": "Jardin Charles Caressa",
                   "text": "Ein schöner Gartenspielplatz in Nizza, ideal für Kinder zum Austoben.",
                   "category": "family",
                   "coords": [
                         7.291189,
                         43.712554
-                  ]
-            },
-            {
-                  "name": "Jardin Comte de Falicon",
-                  "text": "Ein gepflegter Spielplatz in Nizza, der eine sichere Umgebung für Kinder bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.255288,
-                        43.725849
                   ]
             },
             {
@@ -4321,39 +3444,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux d'enfants",
-                  "text": "Ein klassischer Spielbereich in Nizza, der Kindern viel Freude bereitet.",
-                  "category": "family",
-                  "coords": [
-                        7.281678,
-                        43.694825
-                  ]
-            },
-            {
-                  "name": "Square des Chasseurs",
-                  "text": "Ein toller Ort in Nizza für Kinder, um an der frischen Luft zu spielen.",
-                  "category": "family",
-                  "coords": [
-                        7.309399,
-                        43.699858
-                  ]
-            },
-            {
                   "name": "Parc Bellanda",
                   "text": "Dieser Spielplatz in Nizza ist ein beliebter Treffpunkt für Familien der Umgebung.",
                   "category": "family",
                   "coords": [
                         7.277566,
                         43.7179
-                  ]
-            },
-            {
-                  "name": "Jardin d'éveil Les Capucines",
-                  "text": "Ein spezieller Spielbereich in Nizza, der die Neugier von Kindern weckt.",
-                  "category": "family",
-                  "coords": [
-                        7.307475,
-                        43.700057
                   ]
             },
             {
@@ -4375,15 +3471,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "La Baleine",
-                  "text": "Ein fantasievoll benannter Spielplatz in Nizza, der zum Entdecken einlädt.",
-                  "category": "family",
-                  "coords": [
-                        7.27585,
-                        43.698405
-                  ]
-            },
-            {
                   "name": "Square Mirasol",
                   "text": "Ein angenehmer Spielbereich in Nizza, perfekt für einen Nachmittagsausflug.",
                   "category": "family",
@@ -4399,15 +3486,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.27958,
                         43.701776
-                  ]
-            },
-            {
-                  "name": "Grotte prehistorique du Lazaret",
-                  "text": "Eine prähistorische Höhle in Nizza, die wichtige Einblicke in das Leben früher Hominiden bietet.",
-                  "category": "historical",
-                  "coords": [
-                        7.294806,
-                        43.690727
                   ]
             },
             {
@@ -4427,28 +3505,9 @@ export const franceCities: POI[] = [
                         7.278911,
                         43.720124
                   ]
-            },
-            {
-                  "name": "Musee Terra Amata",
-                  "text": "Ein Museum in Nizza, das auf einer der ältesten bekannten Wohnstätten Europas errichtet wurde.",
-                  "category": "museum",
-                  "coords": [
-                        7.289289,
-                        43.697799
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Promenade des Anglais",
-                  "text": "Nizza híres tengerparti sétánya, amely hét kilométer hosszan nyúlik el az Angyal-öböl mentén, pálmafákkal és jellegzetes kék székekkel.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        7.2475,
-                        43.691111
-                  ]
-            },
             {
                   "name": "Vieux Nice",
                   "text": "Az óváros szűk utcái, színes homlokzatai és barokk templomai az olaszos hangulatot idézik, központjában a nyüzsgő Cours Saleya piaccal.",
@@ -4580,39 +3639,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parc Carol de Roumanie",
-                  "text": "Egy bájos minigolfpálya Nizzában, amely szórakozást ígér az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        7.230594,
-                        43.688231
-                  ]
-            },
-            {
-                  "name": "Parc d'Estienne d'Orves",
-                  "text": "Egy tágas játszóterület Nizzában, kellemes környezetben elhelyezve.",
-                  "category": "family",
-                  "coords": [
-                        7.244451,
-                        43.699292
-                  ]
-            },
-            {
                   "name": "Jardin Charles Caressa",
                   "text": "Egy szép kerti játszótér Nizzában, ideális a gyerekek számára a kikapcsolódáshoz.",
                   "category": "family",
                   "coords": [
                         7.291189,
                         43.712554
-                  ]
-            },
-            {
-                  "name": "Jardin Comte de Falicon",
-                  "text": "Egy gondozott játszótér Nizzában, amely biztonságos környezetet nyújt a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        7.255288,
-                        43.725849
                   ]
             },
             {
@@ -4625,39 +3657,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux d'enfants",
-                  "text": "Egy klasszikus játszóterület Nizzában, amely sok örömet okoz a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        7.281678,
-                        43.694825
-                  ]
-            },
-            {
-                  "name": "Square des Chasseurs",
-                  "text": "Egy remek hely Nizzában a gyerekek számára a friss levegőn való játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.309399,
-                        43.699858
-                  ]
-            },
-            {
                   "name": "Parc Bellanda",
                   "text": "Ez a nizzai játszótér kedvelt találkozóhely a környékbeli családok számára.",
                   "category": "family",
                   "coords": [
                         7.277566,
                         43.7179
-                  ]
-            },
-            {
-                  "name": "Jardin d'éveil Les Capucines",
-                  "text": "Egy különleges játszóterület Nizzában, amely felkelti a gyerekek kíváncsiságát.",
-                  "category": "family",
-                  "coords": [
-                        7.307475,
-                        43.700057
                   ]
             },
             {
@@ -4679,15 +3684,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "La Baleine",
-                  "text": "Egy fantáziadús nevű játszótér Nizzában, amely felfedezésre hív.",
-                  "category": "family",
-                  "coords": [
-                        7.27585,
-                        43.698405
-                  ]
-            },
-            {
                   "name": "Square Mirasol",
                   "text": "Egy kellemes játszóterület Nizzában, tökéletes egy délutáni kiránduláshoz.",
                   "category": "family",
@@ -4703,15 +3699,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.27958,
                         43.701776
-                  ]
-            },
-            {
-                  "name": "Grotte prehistorique du Lazaret",
-                  "text": "Őstörténeti barlang Nizzában, amely fontos betekintést nyújt a korai hominidák életébe.",
-                  "category": "historical",
-                  "coords": [
-                        7.294806,
-                        43.690727
                   ]
             },
             {
@@ -4731,28 +3718,9 @@ export const franceCities: POI[] = [
                         7.278911,
                         43.720124
                   ]
-            },
-            {
-                  "name": "Musee Terra Amata",
-                  "text": "Múzeum Nizzában, amely Európa egyik legrégebbi ismert lakóhelyén épült.",
-                  "category": "museum",
-                  "coords": [
-                        7.289289,
-                        43.697799
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Promenade des Anglais",
-                  "text": "Cea mai faimoasă faleză de pe Coasta de Azur, întinsă pe 7 km de-a lungul Golfului Îngerilor, fiind un loc ideal pentru plimbări și relaxare.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        7.2475,
-                        43.691111
-                  ]
-            },
             {
                   "name": "Vieux Nice",
                   "text": "Centrul vechi al orașului încântă prin străduțele înguste, clădirile în nuanțe calde și piața de flori Cours Saleya, plină de viață.",
@@ -4884,39 +3852,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parc Carol de Roumanie",
-                  "text": "Un teren de minigolf fermecător în Nisa, care promite distracție pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        7.230594,
-                        43.688231
-                  ]
-            },
-            {
-                  "name": "Parc d'Estienne d'Orves",
-                  "text": "O zonă de joacă spațioasă în Nisa, situată într-un mediu plăcut.",
-                  "category": "family",
-                  "coords": [
-                        7.244451,
-                        43.699292
-                  ]
-            },
-            {
                   "name": "Jardin Charles Caressa",
                   "text": "Un loc de joacă frumos într-o grădină din Nisa, ideal pentru copii să se joace.",
                   "category": "family",
                   "coords": [
                         7.291189,
                         43.712554
-                  ]
-            },
-            {
-                  "name": "Jardin Comte de Falicon",
-                  "text": "Un loc de joacă bine întreținut în Nisa, oferind un mediu sigur pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        7.255288,
-                        43.725849
                   ]
             },
             {
@@ -4929,39 +3870,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux d'enfants",
-                  "text": "O zonă de joacă clasică în Nisa, care aduce multă bucurie copiilor.",
-                  "category": "family",
-                  "coords": [
-                        7.281678,
-                        43.694825
-                  ]
-            },
-            {
-                  "name": "Square des Chasseurs",
-                  "text": "Un loc minunat în Nisa pentru copii, unde se pot juca în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.309399,
-                        43.699858
-                  ]
-            },
-            {
                   "name": "Parc Bellanda",
                   "text": "Acest loc de joacă din Nisa este un punct de întâlnire popular pentru familiile din zonă.",
                   "category": "family",
                   "coords": [
                         7.277566,
                         43.7179
-                  ]
-            },
-            {
-                  "name": "Jardin d'éveil Les Capucines",
-                  "text": "O zonă de joacă specială în Nisa, care trezește curiozitatea copiilor.",
-                  "category": "family",
-                  "coords": [
-                        7.307475,
-                        43.700057
                   ]
             },
             {
@@ -4983,15 +3897,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "La Baleine",
-                  "text": "Un loc de joacă cu un nume plin de imaginație în Nisa, care invită la explorare.",
-                  "category": "family",
-                  "coords": [
-                        7.27585,
-                        43.698405
-                  ]
-            },
-            {
                   "name": "Square Mirasol",
                   "text": "O zonă de joacă plăcută în Nisa, perfectă pentru o ieșire de după-amiază.",
                   "category": "family",
@@ -5007,15 +3912,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.27958,
                         43.701776
-                  ]
-            },
-            {
-                  "name": "Grotte prehistorique du Lazaret",
-                  "text": "O peșteră preistorică în Nisa, care oferă informații importante despre viața hominizilor timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        7.294806,
-                        43.690727
                   ]
             },
             {
@@ -5035,28 +3931,9 @@ export const franceCities: POI[] = [
                         7.278911,
                         43.720124
                   ]
-            },
-            {
-                  "name": "Musee Terra Amata",
-                  "text": "Un muzeu în Nisa construit pe unul dintre cele mai vechi situri de locuire cunoscute din Europa.",
-                  "category": "museum",
-                  "coords": [
-                        7.289289,
-                        43.697799
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Promenade des Anglais",
-                  "text": "Stretching along the Mediterranean coast, this iconic 7-kilometer seaside walk is lined with palm trees and offers views of the azure waters.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        7.2475,
-                        43.691111
-                  ]
-            },
             {
                   "name": "Vieux Nice",
                   "text": "The Old Town is a maze of narrow streets filled with colorful buildings, local shops, and the famous Cours Saleya flower and food market.",
@@ -5188,39 +4065,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parc Carol de Roumanie",
-                  "text": "A charming minigolf course in Nizza, promising fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        7.230594,
-                        43.688231
-                  ]
-            },
-            {
-                  "name": "Parc d'Estienne d'Orves",
-                  "text": "A spacious play area in Nizza, set in a pleasant environment.",
-                  "category": "family",
-                  "coords": [
-                        7.244451,
-                        43.699292
-                  ]
-            },
-            {
                   "name": "Jardin Charles Caressa",
                   "text": "A lovely garden playground in Nizza, ideal for children to enjoy themselves.",
                   "category": "family",
                   "coords": [
                         7.291189,
                         43.712554
-                  ]
-            },
-            {
-                  "name": "Jardin Comte de Falicon",
-                  "text": "A well-maintained playground in Nizza, providing a safe environment for children.",
-                  "category": "family",
-                  "coords": [
-                        7.255288,
-                        43.725849
                   ]
             },
             {
@@ -5233,39 +4083,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux d'enfants",
-                  "text": "A classic play area in Nizza that brings much joy to children.",
-                  "category": "family",
-                  "coords": [
-                        7.281678,
-                        43.694825
-                  ]
-            },
-            {
-                  "name": "Square des Chasseurs",
-                  "text": "A great spot in Nizza for children to play in the fresh air.",
-                  "category": "family",
-                  "coords": [
-                        7.309399,
-                        43.699858
-                  ]
-            },
-            {
                   "name": "Parc Bellanda",
                   "text": "This playground in Nizza is a popular meeting point for local families.",
                   "category": "family",
                   "coords": [
                         7.277566,
                         43.7179
-                  ]
-            },
-            {
-                  "name": "Jardin d'éveil Les Capucines",
-                  "text": "A special play area in Nizza that sparks children's curiosity.",
-                  "category": "family",
-                  "coords": [
-                        7.307475,
-                        43.700057
                   ]
             },
             {
@@ -5287,15 +4110,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "La Baleine",
-                  "text": "An imaginatively named playground in Nizza that invites exploration.",
-                  "category": "family",
-                  "coords": [
-                        7.27585,
-                        43.698405
-                  ]
-            },
-            {
                   "name": "Square Mirasol",
                   "text": "A pleasant play area in Nizza, perfect for an afternoon outing.",
                   "category": "family",
@@ -5314,15 +4128,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Grotte prehistorique du Lazaret",
-                  "text": "A prehistoric cave in Nice providing important insights into the life of early hominids.",
-                  "category": "historical",
-                  "coords": [
-                        7.294806,
-                        43.690727
-                  ]
-            },
-            {
                   "name": "Musee de la photographie Charles Negre",
                   "text": "A photography museum in Nice presenting exhibitions on the history and art of photography.",
                   "category": "museum",
@@ -5338,15 +4143,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.278911,
                         43.720124
-                  ]
-            },
-            {
-                  "name": "Musee Terra Amata",
-                  "text": "A museum in Nice built upon one of the oldest known habitation sites in Europe.",
-                  "category": "museum",
-                  "coords": [
-                        7.289289,
-                        43.697799
                   ]
             }
       ]
@@ -5452,16 +4248,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trentemoult",
-                  "text": "Ein ehemaliges Fischerdorf am Ufer der Loire, bekannt für seine farbenfrohen Häuser, schmalen Gassen und entspannte Atmosphäre.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.582415,
-                        47.195473
-                  ]
-            },
-            {
                   "name": "Tour Bretagne",
                   "text": "Ein 144 Meter hoher Wolkenkratzer mit Panoramablick über die Stadt von der Bar „Le Nid“ auf dem Dachgeschoss.",
                   "category": "civic",
@@ -5542,15 +4328,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "aire de jeu de belle isle",
-                  "text": "Dieser Spielplatz in Nantes bietet einen schönen Ort zum Spielen am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        -1.542636,
-                        47.246549
-                  ]
-            },
-            {
                   "name": "Quiz Room",
                   "text": "Die Quiz Room in Nantes bietet interaktiven Spielspaß für Gruppen und Familien.",
                   "category": "family",
@@ -5560,39 +4337,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parc aux champignons",
-                  "text": "Dieser Spielplatz in Nantes ist ein origineller Ort für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        -1.540353,
-                        47.241541
-                  ]
-            },
-            {
                   "name": "tv quiz",
                   "text": "Diese Spielhalle in Nantes bietet unterhaltsame Aktivitäten für einen Ausflug.",
                   "category": "family",
                   "coords": [
                         -1.560849,
                         47.20568
-                  ]
-            },
-            {
-                  "name": "Parc du Croissant",
-                  "text": "Der Parc du Croissant in Nantes bietet Spielbereiche in einer Grünanlage.",
-                  "category": "family",
-                  "coords": [
-                        -1.523545,
-                        47.23525
-                  ]
-            },
-            {
-                  "name": "Square Marco Polo",
-                  "text": "Der Square Marco Polo in Nantes ist ein Treffpunkt für Familien mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        -1.515453,
-                        47.240328
                   ]
             },
             {
@@ -5641,30 +4391,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pateaugeoire Honduras",
-                  "text": "Das Schwimmbad Pateaugeoire Honduras liegt in Nantes.",
-                  "category": "family",
-                  "coords": [
-                        -1.564525,
-                        47.260049
-                  ]
-            },
-            {
                   "name": "La ménagerie",
                   "text": "La ménagerie ist ein Tierpark in Nantes. Ideal für einen Besuch mit der Familie.",
                   "category": "family",
                   "coords": [
                         -1.541165,
                         47.218596
-                  ]
-            },
-            {
-                  "name": "Pateaugeoire Boissière",
-                  "text": "Das Schwimmbad Pateaugeoire Boissière in Nantes lädt zum Schwimmen ein.",
-                  "category": "family",
-                  "coords": [
-                        -1.568261,
-                        47.254176
                   ]
             },
             {
@@ -5794,16 +4526,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trentemoult",
-                  "text": "A Loire partján fekvő festői halászfalu színes házaival és hangulatos éttermeivel kedvelt kirándulóhely a város lakói számára.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.582415,
-                        47.195473
-                  ]
-            },
-            {
                   "name": "Bretagne-torony",
                   "text": "144 méter magas felhőkarcoló, amelynek tetőtéri bárjából, a hatalmas madarat formázó „Le Nid”-ből körpanoráma nyílik.",
                   "category": "civic",
@@ -5884,15 +4606,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "aire de jeu de belle isle",
-                  "text": "Ez a nantes-i játszótér kellemes helyet biztosít a játékhoz a víz közelében.",
-                  "category": "family",
-                  "coords": [
-                        -1.542636,
-                        47.246549
-                  ]
-            },
-            {
                   "name": "Quiz Room",
                   "text": "A nantes-i Quiz Room interaktív játékélményt kínál csoportoknak és családoknak.",
                   "category": "family",
@@ -5902,39 +4615,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parc aux champignons",
-                  "text": "Ez a nantes-i játszótér eredeti helyszín a gyerekek számára.",
-                  "category": "family",
-                  "coords": [
-                        -1.540353,
-                        47.241541
-                  ]
-            },
-            {
                   "name": "tv quiz",
                   "text": "Ez a nantes-i játékterem szórakoztató tevékenységeket kínál egy kiránduláshoz.",
                   "category": "family",
                   "coords": [
                         -1.560849,
                         47.20568
-                  ]
-            },
-            {
-                  "name": "Parc du Croissant",
-                  "text": "A nantes-i Parc du Croissant játszótereket kínál egy parkosított környezetben.",
-                  "category": "family",
-                  "coords": [
-                        -1.523545,
-                        47.23525
-                  ]
-            },
-            {
-                  "name": "Square Marco Polo",
-                  "text": "A nantes-i Square Marco Polo találkozóhely a gyermekes családok számára.",
-                  "category": "family",
-                  "coords": [
-                        -1.515453,
-                        47.240328
                   ]
             },
             {
@@ -5983,30 +4669,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pateaugeoire Honduras",
-                  "text": "A Pateaugeoire Honduras uszoda Nantes-ban található.",
-                  "category": "family",
-                  "coords": [
-                        -1.564525,
-                        47.260049
-                  ]
-            },
-            {
                   "name": "La ménagerie",
                   "text": "A La ménagerie egy állatkert Nantes-ban. Ideális egy családi látogatáshoz.",
                   "category": "family",
                   "coords": [
                         -1.541165,
                         47.218596
-                  ]
-            },
-            {
-                  "name": "Pateaugeoire Boissière",
-                  "text": "A nantes-i Pateaugeoire Boissière uszoda úszásra hív.",
-                  "category": "family",
-                  "coords": [
-                        -1.568261,
-                        47.254176
                   ]
             },
             {
@@ -6136,16 +4804,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trentemoult",
-                  "text": "Un fost sat de pescari situat pe malul stâng al Loarei, faimos pentru casele sale multicolore și grădinile pline de flori exotice.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.582415,
-                        47.195473
-                  ]
-            },
-            {
                   "name": "Turnul Bretania",
                   "text": "Un zgârie-nori de 144 de metri care oferă o vedere panoramică asupra orașului de la barul „Le Nid” de pe acoperiș.",
                   "category": "civic",
@@ -6226,15 +4884,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "aire de jeu de belle isle",
-                  "text": "Acest teren de joacă din Nantes oferă un loc plăcut pentru joacă lângă apă.",
-                  "category": "family",
-                  "coords": [
-                        -1.542636,
-                        47.246549
-                  ]
-            },
-            {
                   "name": "Quiz Room",
                   "text": "Quiz Room din Nantes oferă divertisment interactiv pentru grupuri și familii.",
                   "category": "family",
@@ -6244,39 +4893,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parc aux champignons",
-                  "text": "Acest teren de joacă din Nantes este un loc inedit pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        -1.540353,
-                        47.241541
-                  ]
-            },
-            {
                   "name": "tv quiz",
                   "text": "Această sală de jocuri din Nantes oferă activități distractive pentru o ieșire.",
                   "category": "family",
                   "coords": [
                         -1.560849,
                         47.20568
-                  ]
-            },
-            {
-                  "name": "Parc du Croissant",
-                  "text": "Parc du Croissant din Nantes oferă zone de joacă într-un cadru amenajat.",
-                  "category": "family",
-                  "coords": [
-                        -1.523545,
-                        47.23525
-                  ]
-            },
-            {
-                  "name": "Square Marco Polo",
-                  "text": "Square Marco Polo din Nantes este un punct de întâlnire pentru familiile cu copii.",
-                  "category": "family",
-                  "coords": [
-                        -1.515453,
-                        47.240328
                   ]
             },
             {
@@ -6325,30 +4947,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pateaugeoire Honduras",
-                  "text": "Piscina Pateaugeoire Honduras se află în Nantes.",
-                  "category": "family",
-                  "coords": [
-                        -1.564525,
-                        47.260049
-                  ]
-            },
-            {
                   "name": "La ménagerie",
                   "text": "La ménagerie este o grădină zoologică în Nantes. Ideală pentru o vizită cu familia.",
                   "category": "family",
                   "coords": [
                         -1.541165,
                         47.218596
-                  ]
-            },
-            {
-                  "name": "Pateaugeoire Boissière",
-                  "text": "Piscina Pateaugeoire Boissière din Nantes vă invită la înot.",
-                  "category": "family",
-                  "coords": [
-                        -1.568261,
-                        47.254176
                   ]
             },
             {
@@ -6478,16 +5082,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trentemoult",
-                  "text": "A picturesque former fishing village on the Loire river, characterized by narrow streets and brightly painted traditional houses.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        -1.582415,
-                        47.195473
-                  ]
-            },
-            {
                   "name": "Brittany Tower",
                   "text": "A 144-meter skyscraper offering a panoramic view of the city from its rooftop bar, \"Le Nid,\" shaped like a giant bird.",
                   "category": "civic",
@@ -6568,15 +5162,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "aire de jeu de belle isle",
-                  "text": "This playground in Nantes offers a nice place for play near the water.",
-                  "category": "family",
-                  "coords": [
-                        -1.542636,
-                        47.246549
-                  ]
-            },
-            {
                   "name": "Quiz Room",
                   "text": "The Quiz Room in Nantes offers interactive game fun for groups and families.",
                   "category": "family",
@@ -6586,39 +5171,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parc aux champignons",
-                  "text": "This playground in Nantes is an original spot for children.",
-                  "category": "family",
-                  "coords": [
-                        -1.540353,
-                        47.241541
-                  ]
-            },
-            {
                   "name": "tv quiz",
                   "text": "This amusement arcade in Nantes offers entertaining activities for an outing.",
                   "category": "family",
                   "coords": [
                         -1.560849,
                         47.20568
-                  ]
-            },
-            {
-                  "name": "Parc du Croissant",
-                  "text": "Parc du Croissant in Nantes offers play areas in a landscaped setting.",
-                  "category": "family",
-                  "coords": [
-                        -1.523545,
-                        47.23525
-                  ]
-            },
-            {
-                  "name": "Square Marco Polo",
-                  "text": "Square Marco Polo in Nantes is a meeting point for families with children.",
-                  "category": "family",
-                  "coords": [
-                        -1.515453,
-                        47.240328
                   ]
             },
             {
@@ -6667,30 +5225,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pateaugeoire Honduras",
-                  "text": "The Pateaugeoire Honduras swimming pool is located in Nantes.",
-                  "category": "family",
-                  "coords": [
-                        -1.564525,
-                        47.260049
-                  ]
-            },
-            {
                   "name": "La ménagerie",
                   "text": "La ménagerie is a zoo in Nantes. Ideal for a family visit.",
                   "category": "family",
                   "coords": [
                         -1.541165,
                         47.218596
-                  ]
-            },
-            {
-                  "name": "Pateaugeoire Boissière",
-                  "text": "The Pateaugeoire Boissière swimming pool in Nantes invites you for a swim.",
-                  "category": "family",
-                  "coords": [
-                        -1.568261,
-                        47.254176
                   ]
             },
             {
@@ -6810,15 +5350,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -1.545749,
                         47.215276
-                  ]
-            },
-            {
-                  "name": "Trentemoult",
-                  "text": "Ancien village de pêcheurs sur la Loire, connu pour ses maisons colorées, ses ruelles étroites et son atmosphère décontractée.",
-                  "category": "historical",
-                  "coords": [
-                        -1.582415,
-                        47.195473
                   ]
             }
       ]
@@ -7014,84 +5545,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Lac",
-                  "text": "Ein bekannter See in Bordeaux, der eine schöne Kulisse für Freizeitaktivitäten bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -0.577362,
-                        44.886246
-                  ]
-            },
-            {
-                  "name": "Lac Raymond Carsac",
-                  "text": "Dieser See in Bordeaux ist ein ruhiger Ort für Entspannung und Naturgenuss.",
-                  "category": "natural",
-                  "coords": [
-                        -0.551543,
-                        44.776456
-                  ]
-            },
-            {
-                  "name": "Bassin de rétention de Béquigneaux",
-                  "text": "Ein ruhiges Gewässer in Bordeaux, das zu einem entspannten Spaziergang einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        -0.585768,
-                        44.870697
-                  ]
-            },
-            {
-                  "name": "Bassin des eaux de pluie de Lamothe-Lescure",
-                  "text": "Dieses Wasserbecken in Bordeaux bietet eine angenehme Umgebung für eine Pause im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        -0.639361,
-                        44.874406
-                  ]
-            },
-            {
-                  "name": "Bassin de phytotraitement des eaux (Ancienne piscine 1975-2019)",
-                  "text": "Ein speziell gestaltetes Gewässer in Bordeaux, das Erholung in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -0.653207,
-                        44.872059
-                  ]
-            },
-            {
-                  "name": "Bassin de rétention du Bourgailh",
-                  "text": "Dieses Gewässer in Bordeaux fügt sich harmonisch in die umgebende Landschaft ein.",
-                  "category": "natural",
-                  "coords": [
-                        -0.669983,
-                        44.806359
-                  ]
-            },
-            {
                   "name": "Aire de jeux Visitation",
                   "text": "Ein öffentlicher Spielplatz in Bordeaux, der Kindern Raum zum Spielen und Entdecken bietet.",
                   "category": "family",
                   "coords": [
                         -0.594778,
                         44.848252
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Dieser Spielplatz in Bordeaux ist mit verschiedenen Geräten für viel Spielspaß ausgestattet.",
-                  "category": "family",
-                  "coords": [
-                        -0.531631,
-                        44.833052
-                  ]
-            },
-            {
-                  "name": "Espace motricité enfant de la piscine",
-                  "text": "Ein Spielbereich in Bordeaux, der speziell auf die Bedürfnisse von Kindern zugeschnitten ist.",
-                  "category": "family",
-                  "coords": [
-                        -0.553991,
-                        44.807172
                   ]
             },
             {
@@ -7113,15 +5572,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "École maternelle La Ferrade",
-                  "text": "Dieser Spielplatz in Bordeaux bietet Kindern vielfältige Möglichkeiten für Aktivitäten im Freien.",
-                  "category": "family",
-                  "coords": [
-                        -0.566007,
-                        44.810026
-                  ]
-            },
-            {
                   "name": "Le petit train de Ravezies",
                   "text": "Ein schöner Ort in Bordeaux, der Kindern Freude am Spiel an der frischen Luft ermöglicht.",
                   "category": "family",
@@ -7137,15 +5587,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.574506,
                         44.862897
-                  ]
-            },
-            {
-                  "name": "Quizz Room",
-                  "text": "Eine Spielhalle in Bordeaux, die zu unterhaltsamen Stunden mit verschiedenen Spielen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        -0.564098,
-                        44.868728
                   ]
             },
             {
@@ -7176,39 +5617,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kidooland",
-                  "text": "Ein beliebter Spielplatz in Bordeaux, der Kindern viel Spaß und Abwechslung bietet.",
-                  "category": "family",
-                  "coords": [
-                        -0.561766,
-                        44.870785
-                  ]
-            },
-            {
                   "name": "Place des Droits de l'Enfant",
                   "text": "Ein öffentlicher Spielbereich in Bordeaux, der Raum für Begegnung und Spiel bietet.",
                   "category": "family",
                   "coords": [
                         -0.564281,
                         44.84584
-                  ]
-            },
-            {
-                  "name": "Place Etienne Dolet",
-                  "text": "Dieser Spielplatz in Bordeaux lädt Kinder zu aktiver Erholung an der frischen Luft ein.",
-                  "category": "family",
-                  "coords": [
-                        -0.566946,
-                        44.81121
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Langevin",
-                  "text": "Ein gut ausgestatteter Spielplatz in Bordeaux für vielfältige Aktivitäten unter freiem Himmel.",
-                  "category": "family",
-                  "coords": [
-                        -0.569043,
-                        44.808515
                   ]
             },
             {
@@ -7236,33 +5650,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.593679,
                         44.842076
-                  ]
-            },
-            {
-                  "name": "Ferme animalière",
-                  "text": "Der Zoo Ferme animalière befindet sich in Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.604206,
-                        44.851848
-                  ]
-            },
-            {
-                  "name": "La Bulle D'O",
-                  "text": "Das Schwimmbad La Bulle D'O befindet sich in Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.613101,
-                        44.860577
-                  ]
-            },
-            {
-                  "name": "Piscine",
-                  "text": "Das Schwimmbad Piscine befindet sich in Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.572322,
-                        44.812238
                   ]
             },
             {
@@ -7446,84 +5833,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Lac",
-                  "text": "Ismert tó Bordeaux-ban, amely szép hátteret biztosít a szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        -0.577362,
-                        44.886246
-                  ]
-            },
-            {
-                  "name": "Lac Raymond Carsac",
-                  "text": "Ez a Bordeaux-i tó nyugodt hely a pihenésre és a természet élvezetére.",
-                  "category": "natural",
-                  "coords": [
-                        -0.551543,
-                        44.776456
-                  ]
-            },
-            {
-                  "name": "Bassin de rétention de Béquigneaux",
-                  "text": "Nyugodt vízfelület Bordeaux-ban, amely pihentető sétára hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        -0.585768,
-                        44.870697
-                  ]
-            },
-            {
-                  "name": "Bassin des eaux de pluie de Lamothe-Lescure",
-                  "text": "Ez a Bordeaux-i vízmedence kellemes környezetet biztosít a szabadtéri pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        -0.639361,
-                        44.874406
-                  ]
-            },
-            {
-                  "name": "Bassin de phytotraitement des eaux (Ancienne piscine 1975-2019)",
-                  "text": "Speciálisan kialakított vízfelület Bordeaux-ban, amely pihenést kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        -0.653207,
-                        44.872059
-                  ]
-            },
-            {
-                  "name": "Bassin de rétention du Bourgailh",
-                  "text": "Ez a Bordeaux-i vízfelület harmonikusan illeszkedik a környező tájba.",
-                  "category": "natural",
-                  "coords": [
-                        -0.669983,
-                        44.806359
-                  ]
-            },
-            {
                   "name": "Aire de jeux Visitation",
                   "text": "Nyilvános játszótér Bordeaux-ban, amely helyet biztosít a gyerekeknek a játékhoz és felfedezéshez.",
                   "category": "family",
                   "coords": [
                         -0.594778,
                         44.848252
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Ez a Bordeaux-i játszótér különféle eszközökkel van felszerelve a nagy játékélmény érdekében.",
-                  "category": "family",
-                  "coords": [
-                        -0.531631,
-                        44.833052
-                  ]
-            },
-            {
-                  "name": "Espace motricité enfant de la piscine",
-                  "text": "Bordeaux-i játszóterület, amelyet kifejezetten a gyermekek igényeire szabtak.",
-                  "category": "family",
-                  "coords": [
-                        -0.553991,
-                        44.807172
                   ]
             },
             {
@@ -7545,15 +5860,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "École maternelle La Ferrade",
-                  "text": "Ez a Bordeaux-i játszótér változatos lehetőségeket kínál a gyerekeknek a szabadtéri tevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        -0.566007,
-                        44.810026
-                  ]
-            },
-            {
                   "name": "Le petit train de Ravezies",
                   "text": "Szép hely Bordeaux-ban, amely lehetővé teszi a gyerekeknek a friss levegőn való játékot.",
                   "category": "family",
@@ -7569,15 +5875,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.574506,
                         44.862897
-                  ]
-            },
-            {
-                  "name": "Quizz Room",
-                  "text": "Bordeaux-i játékterem, amely szórakoztató órákra hívogat különféle játékokkal.",
-                  "category": "family",
-                  "coords": [
-                        -0.564098,
-                        44.868728
                   ]
             },
             {
@@ -7608,39 +5905,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kidooland",
-                  "text": "Kedvelt játszótér Bordeaux-ban, amely sok szórakozást és változatosságot kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        -0.561766,
-                        44.870785
-                  ]
-            },
-            {
                   "name": "Place des Droits de l'Enfant",
                   "text": "Nyilvános Bordeaux-i játszóterület, amely helyet biztosít a találkozásokhoz és a játékhoz.",
                   "category": "family",
                   "coords": [
                         -0.564281,
                         44.84584
-                  ]
-            },
-            {
-                  "name": "Place Etienne Dolet",
-                  "text": "Ez a Bordeaux-i játszótér aktív kikapcsolódásra hívja a gyerekeket a friss levegőn.",
-                  "category": "family",
-                  "coords": [
-                        -0.566946,
-                        44.81121
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Langevin",
-                  "text": "Jól felszerelt játszótér Bordeaux-ban a változatos szabadtéri tevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        -0.569043,
-                        44.808515
                   ]
             },
             {
@@ -7668,33 +5938,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.593679,
                         44.842076
-                  ]
-            },
-            {
-                  "name": "Ferme animalière",
-                  "text": "A Ferme animalière állatkert Bordeaux-ban található.",
-                  "category": "family",
-                  "coords": [
-                        -0.604206,
-                        44.851848
-                  ]
-            },
-            {
-                  "name": "La Bulle D'O",
-                  "text": "A La Bulle D'O úszómedence Bordeaux-ban található.",
-                  "category": "family",
-                  "coords": [
-                        -0.613101,
-                        44.860577
-                  ]
-            },
-            {
-                  "name": "Piscine",
-                  "text": "A Piscine úszómedence Bordeaux-ban található.",
-                  "category": "family",
-                  "coords": [
-                        -0.572322,
-                        44.812238
                   ]
             },
             {
@@ -7878,84 +6121,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Lac",
-                  "text": "Un lac cunoscut în Bordeaux, care oferă un cadru frumos pentru activități de agrement.",
-                  "category": "natural",
-                  "coords": [
-                        -0.577362,
-                        44.886246
-                  ]
-            },
-            {
-                  "name": "Lac Raymond Carsac",
-                  "text": "Acest lac din Bordeaux este un loc liniștit pentru relaxare și bucuria de a fi în natură.",
-                  "category": "natural",
-                  "coords": [
-                        -0.551543,
-                        44.776456
-                  ]
-            },
-            {
-                  "name": "Bassin de rétention de Béquigneaux",
-                  "text": "O apă liniștită în Bordeaux, care invită la o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        -0.585768,
-                        44.870697
-                  ]
-            },
-            {
-                  "name": "Bassin des eaux de pluie de Lamothe-Lescure",
-                  "text": "Acest bazin din Bordeaux oferă un mediu plăcut pentru o pauză în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        -0.639361,
-                        44.874406
-                  ]
-            },
-            {
-                  "name": "Bassin de phytotraitement des eaux (Ancienne piscine 1975-2019)",
-                  "text": "O apă special amenajată în Bordeaux, care oferă relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        -0.653207,
-                        44.872059
-                  ]
-            },
-            {
-                  "name": "Bassin de rétention du Bourgailh",
-                  "text": "Această apă din Bordeaux se integrează armonios în peisajul înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        -0.669983,
-                        44.806359
-                  ]
-            },
-            {
                   "name": "Aire de jeux Visitation",
                   "text": "Un loc de joacă public în Bordeaux, care oferă copiilor spațiu pentru joacă și explorare.",
                   "category": "family",
                   "coords": [
                         -0.594778,
                         44.848252
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Acest loc de joacă din Bordeaux este echipat cu diverse dispozitive pentru multă distracție.",
-                  "category": "family",
-                  "coords": [
-                        -0.531631,
-                        44.833052
-                  ]
-            },
-            {
-                  "name": "Espace motricité enfant de la piscine",
-                  "text": "O zonă de joacă în Bordeaux, adaptată special nevoilor copiilor.",
-                  "category": "family",
-                  "coords": [
-                        -0.553991,
-                        44.807172
                   ]
             },
             {
@@ -7977,15 +6148,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "École maternelle La Ferrade",
-                  "text": "Acest loc de joacă din Bordeaux oferă copiilor diverse posibilități pentru activități în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        -0.566007,
-                        44.810026
-                  ]
-            },
-            {
                   "name": "Le petit train de Ravezies",
                   "text": "Un loc frumos în Bordeaux, care le permite copiilor să se bucure de joacă în aer liber.",
                   "category": "family",
@@ -8001,15 +6163,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.574506,
                         44.862897
-                  ]
-            },
-            {
-                  "name": "Quizz Room",
-                  "text": "O sală de jocuri în Bordeaux, care invită la ore distractive cu diverse jocuri.",
-                  "category": "family",
-                  "coords": [
-                        -0.564098,
-                        44.868728
                   ]
             },
             {
@@ -8040,39 +6193,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kidooland",
-                  "text": "Un loc de joacă popular în Bordeaux, care oferă copiilor multă distracție și diversitate.",
-                  "category": "family",
-                  "coords": [
-                        -0.561766,
-                        44.870785
-                  ]
-            },
-            {
                   "name": "Place des Droits de l'Enfant",
                   "text": "O zonă de joacă publică în Bordeaux, care oferă spațiu pentru întâlniri și joacă.",
                   "category": "family",
                   "coords": [
                         -0.564281,
                         44.84584
-                  ]
-            },
-            {
-                  "name": "Place Etienne Dolet",
-                  "text": "Acest loc de joacă din Bordeaux invită copiii la o recreere activă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        -0.566946,
-                        44.81121
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Langevin",
-                  "text": "Un loc de joacă bine echipat în Bordeaux pentru diverse activități sub cerul liber.",
-                  "category": "family",
-                  "coords": [
-                        -0.569043,
-                        44.808515
                   ]
             },
             {
@@ -8100,33 +6226,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.593679,
                         44.842076
-                  ]
-            },
-            {
-                  "name": "Ferme animalière",
-                  "text": "Grădina zoologică Ferme animalière este situată în Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.604206,
-                        44.851848
-                  ]
-            },
-            {
-                  "name": "La Bulle D'O",
-                  "text": "Piscina La Bulle D'O este situată în Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.613101,
-                        44.860577
-                  ]
-            },
-            {
-                  "name": "Piscine",
-                  "text": "Piscina Piscine este situată în Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.572322,
-                        44.812238
                   ]
             },
             {
@@ -8310,84 +6409,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Lac",
-                  "text": "A well-known lake in Bordeaux providing a beautiful setting for leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        -0.577362,
-                        44.886246
-                  ]
-            },
-            {
-                  "name": "Lac Raymond Carsac",
-                  "text": "This lake in Bordeaux is a peaceful spot for relaxation and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        -0.551543,
-                        44.776456
-                  ]
-            },
-            {
-                  "name": "Bassin de rétention de Béquigneaux",
-                  "text": "A peaceful body of water in Bordeaux that invites you for a relaxing stroll.",
-                  "category": "natural",
-                  "coords": [
-                        -0.585768,
-                        44.870697
-                  ]
-            },
-            {
-                  "name": "Bassin des eaux de pluie de Lamothe-Lescure",
-                  "text": "This basin in Bordeaux offers a pleasant environment for an outdoor break.",
-                  "category": "natural",
-                  "coords": [
-                        -0.639361,
-                        44.874406
-                  ]
-            },
-            {
-                  "name": "Bassin de phytotraitement des eaux (Ancienne piscine 1975-2019)",
-                  "text": "A specially designed body of water in Bordeaux offering relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        -0.653207,
-                        44.872059
-                  ]
-            },
-            {
-                  "name": "Bassin de rétention du Bourgailh",
-                  "text": "This body of water in Bordeaux blends harmoniously into the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -0.669983,
-                        44.806359
-                  ]
-            },
-            {
                   "name": "Aire de jeux Visitation",
                   "text": "A public playground in Bordeaux providing children with space to play and explore.",
                   "category": "family",
                   "coords": [
                         -0.594778,
                         44.848252
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "This playground in Bordeaux is equipped with various features for lots of fun.",
-                  "category": "family",
-                  "coords": [
-                        -0.531631,
-                        44.833052
-                  ]
-            },
-            {
-                  "name": "Espace motricité enfant de la piscine",
-                  "text": "A play area in Bordeaux specifically tailored to the needs of children.",
-                  "category": "family",
-                  "coords": [
-                        -0.553991,
-                        44.807172
                   ]
             },
             {
@@ -8409,15 +6436,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "École maternelle La Ferrade",
-                  "text": "This playground in Bordeaux offers children varied opportunities for outdoor activities.",
-                  "category": "family",
-                  "coords": [
-                        -0.566007,
-                        44.810026
-                  ]
-            },
-            {
                   "name": "Le petit train de Ravezies",
                   "text": "A lovely spot in Bordeaux that allows children to enjoy playing in the fresh air.",
                   "category": "family",
@@ -8433,15 +6451,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.574506,
                         44.862897
-                  ]
-            },
-            {
-                  "name": "Quizz Room",
-                  "text": "An amusement arcade in Bordeaux that invites you to spend fun hours with various games.",
-                  "category": "family",
-                  "coords": [
-                        -0.564098,
-                        44.868728
                   ]
             },
             {
@@ -8472,39 +6481,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kidooland",
-                  "text": "A popular playground in Bordeaux offering children plenty of fun and variety.",
-                  "category": "family",
-                  "coords": [
-                        -0.561766,
-                        44.870785
-                  ]
-            },
-            {
                   "name": "Place des Droits de l'Enfant",
                   "text": "A public play area in Bordeaux providing space for social interaction and play.",
                   "category": "family",
                   "coords": [
                         -0.564281,
                         44.84584
-                  ]
-            },
-            {
-                  "name": "Place Etienne Dolet",
-                  "text": "This playground in Bordeaux invites children for active recreation in the fresh air.",
-                  "category": "family",
-                  "coords": [
-                        -0.566946,
-                        44.81121
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Langevin",
-                  "text": "A well-equipped playground in Bordeaux for various outdoor activities.",
-                  "category": "family",
-                  "coords": [
-                        -0.569043,
-                        44.808515
                   ]
             },
             {
@@ -8532,33 +6514,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         -0.593679,
                         44.842076
-                  ]
-            },
-            {
-                  "name": "Ferme animalière",
-                  "text": "The Ferme animalière zoo is located in Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.604206,
-                        44.851848
-                  ]
-            },
-            {
-                  "name": "La Bulle D'O",
-                  "text": "The swimming pool La Bulle D'O is located in Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.613101,
-                        44.860577
-                  ]
-            },
-            {
-                  "name": "Piscine",
-                  "text": "The swimming pool Piscine is located in Bordeaux.",
-                  "category": "family",
-                  "coords": [
-                        -0.572322,
-                        44.812238
                   ]
             },
             {
@@ -10666,16 +8621,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin des Plantes de Lille",
-                  "text": "Ein botanischer Garten mit historischen Gewächshäusern und einer großen Vielfalt an Pflanzenarten.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.0682,
-                        50.6149
-                  ]
-            },
-            {
                   "name": "Marché de Wazemmes",
                   "text": "Einer der größten Märkte Frankreichs, bekannt für seine multikulturelle Atmosphäre und Frische.",
                   "category": "culinary",
@@ -10693,15 +8638,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         3.069022,
                         50.626658
-                  ]
-            },
-            {
-                  "name": "L'ile de Tortuga",
-                  "text": "L'ile de Tortuga in Lille ist ein Freizeitpark für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        3.083989,
-                        50.617369
                   ]
             },
             {
@@ -10928,16 +8864,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin des Plantes de Lille",
-                  "text": "Botanikus kert üvegházakkal, amely változatos növényvilágot és nyugodt környezetet biztosít.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.0682,
-                        50.6149
-                  ]
-            },
-            {
                   "name": "Marché de Wazemmes",
                   "text": "Franciaország egyik legnagyobb és legélénkebb piaca, híres multikulturális hangulatáról.",
                   "category": "culinary",
@@ -10955,15 +8881,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         3.069022,
                         50.626658
-                  ]
-            },
-            {
-                  "name": "L'ile de Tortuga",
-                  "text": "A lille-i L'ile de Tortuga egy vidámpark az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        3.083989,
-                        50.617369
                   ]
             },
             {
@@ -11190,16 +9107,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin des Plantes de Lille",
-                  "text": "Grădină botanică cu sere istorice, oferind o colecție vastă de plante și un mediu relaxant.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.0682,
-                        50.6149
-                  ]
-            },
-            {
                   "name": "Marché de Wazemmes",
                   "text": "Una dintre cele mai mari piețe din Franța, renumită pentru diversitate și produse proaspete.",
                   "category": "culinary",
@@ -11217,15 +9124,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         3.069022,
                         50.626658
-                  ]
-            },
-            {
-                  "name": "L'ile de Tortuga",
-                  "text": "L'ile de Tortuga din Lille este un parc tematic pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        3.083989,
-                        50.617369
                   ]
             },
             {
@@ -11452,16 +9350,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin des Plantes de Lille",
-                  "text": "Botanical garden with historic greenhouses, offering a wide variety of plants and tranquility.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        3.0682,
-                        50.6149
-                  ]
-            },
-            {
                   "name": "Marché de Wazemmes",
                   "text": "One of the largest markets in France, known for its multicultural atmosphere and products.",
                   "category": "culinary",
@@ -11479,15 +9367,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         3.069022,
                         50.626658
-                  ]
-            },
-            {
-                  "name": "L'ile de Tortuga",
-                  "text": "L'ile de Tortuga in Lille is a theme park for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        3.083989,
-                        50.617369
                   ]
             },
             {
@@ -12394,15 +10273,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin de Rétention d'Eau",
-                  "text": "Ein ruhig gelegener See in Cannes, ideal für einen entspannten Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        7.012636,
-                        43.624397
-                  ]
-            },
-            {
                   "name": "Place Henri Bergia",
                   "text": "Ein zentraler Spielplatz in Cannes für abwechslungsreichen Familienspaß.",
                   "category": "family",
@@ -12427,15 +10297,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.0409,
                         43.54672
-                  ]
-            },
-            {
-                  "name": "Croisette Beach",
-                  "text": "Das Strandbad Croisette Beach in Cannes lädt zum Sonnen und Baden ein.",
-                  "category": "family",
-                  "coords": [
-                        7.028924,
-                        43.548016
                   ]
             },
             {
@@ -12493,15 +10354,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Catherine",
-                  "text": "Die Église Sainte-Catherine befindet sich in Le Cannet bei Cannes. Das sakrale Bauwerk ist ein geschütztes historisches Denkmal der Region.",
-                  "category": "religious",
-                  "coords": [
-                        7.01731,
-                        43.573205
-                  ]
-            },
-            {
                   "name": "Chapelle Notre-Dame-des-Anges du Cannet",
                   "text": "Diese Kapelle in Le Cannet ist für ihre historische Bedeutung und Architektur bekannt. Sie ist ein fester Bestandteil des religiösen Erbes von Cannes.",
                   "category": "religious",
@@ -12511,30 +10363,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tour des Danys",
-                  "text": "Die Tour des Danys ist ein historischer Turm in Le Cannet. Das Bauwerk gilt als eines der ältesten Gebäude der Gemeinde und ist ein lokales Wahrzeichen.",
-                  "category": "landmark",
-                  "coords": [
-                        7.021164,
-                        43.574241
-                  ]
-            },
-            {
                   "name": "Chapelle Bellini",
                   "text": "Die Chapelle Bellini war einst eine Kapelle und beherbergt heute das Museum des Malers Emmanuel Bellini. Es stellt zahlreiche Werke des Künstlers aus.",
                   "category": "museum",
                   "coords": [
                         7.032374,
                         43.560392
-                  ]
-            },
-            {
-                  "name": "Musée Bonnard",
-                  "text": "Das Musée Bonnard in Le Cannet ist dem Werk des Malers Pierre Bonnard gewidmet. Es ist das weltweit erste Museum, das ausschließlich diesem Künstler gilt.",
-                  "category": "museum",
-                  "coords": [
-                        7.019931,
-                        43.576481
                   ]
             },
             {
@@ -12562,15 +10396,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         6.981224,
                         43.549139
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint-Sauveur",
-                  "text": "Diese Kapelle ist ein ruhiger Ort der Andacht im Herzen von Cannes. Das Gebäude zeichnet sich durch seine schlichte und einladende Architektur aus.",
-                  "category": "religious",
-                  "coords": [
-                        7.021446,
-                        43.576352
                   ]
             },
             {
@@ -12802,15 +10627,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin de Rétention d'Eau",
-                  "text": "Csendes tó Cannes-ban, amely ideális egy pihentető sétához.",
-                  "category": "natural",
-                  "coords": [
-                        7.012636,
-                        43.624397
-                  ]
-            },
-            {
                   "name": "Place Henri Bergia",
                   "text": "Központi játszótér Cannes-ban a változatos családi szórakozáshoz.",
                   "category": "family",
@@ -12835,15 +10651,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.0409,
                         43.54672
-                  ]
-            },
-            {
-                  "name": "Croisette Beach",
-                  "text": "A cannes-i Croisette Beach strandfürdő napozásra és fürdésre hív.",
-                  "category": "family",
-                  "coords": [
-                        7.028924,
-                        43.548016
                   ]
             },
             {
@@ -12901,15 +10708,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Catherine",
-                  "text": "Az Église Sainte-Catherine Le Cannet-ben, Cannes mellett található. A szakrális épület a régió védett történelmi műemléke.",
-                  "category": "religious",
-                  "coords": [
-                        7.01731,
-                        43.573205
-                  ]
-            },
-            {
                   "name": "Chapelle Notre-Dame-des-Anges du Cannet",
                   "text": "Ez a Le Cannet-i kápolna történelmi jelentőségéről és építészetéről ismert. Cannes vallási örökségének szerves részét képezi.",
                   "category": "religious",
@@ -12919,30 +10717,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tour des Danys",
-                  "text": "A Tour des Danys egy történelmi torony Le Cannet-ben. Az építmény a település egyik legrégebbi épületének számít és helyi jelkép.",
-                  "category": "landmark",
-                  "coords": [
-                        7.021164,
-                        43.574241
-                  ]
-            },
-            {
                   "name": "Chapelle Bellini",
                   "text": "A Chapelle Bellini egykor kápolna volt, ma pedig Emmanuel Bellini festőművész múzeumának ad otthont. A művész számos alkotását mutatják be itt.",
                   "category": "museum",
                   "coords": [
                         7.032374,
                         43.560392
-                  ]
-            },
-            {
-                  "name": "Musée Bonnard",
-                  "text": "A Le Cannet-ben található Musée Bonnard Pierre Bonnard festőművész munkásságának szentelték. Ez a világ első múzeuma, amely kizárólag ennek a művésznek a műveit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.019931,
-                        43.576481
                   ]
             },
             {
@@ -12970,15 +10750,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         6.981224,
                         43.549139
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint-Sauveur",
-                  "text": "Ez a kápolna a nyugodt áhítat helyszíne Cannes szívében. Az épületet egyszerű és hívogató építészet jellemzi.",
-                  "category": "religious",
-                  "coords": [
-                        7.021446,
-                        43.576352
                   ]
             },
             {
@@ -13210,15 +10981,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin de Rétention d'Eau",
-                  "text": "Un lac liniștit în Cannes, ideal pentru o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        7.012636,
-                        43.624397
-                  ]
-            },
-            {
                   "name": "Place Henri Bergia",
                   "text": "Un loc de joacă central în Cannes pentru distracție variată în familie.",
                   "category": "family",
@@ -13243,15 +11005,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.0409,
                         43.54672
-                  ]
-            },
-            {
-                  "name": "Croisette Beach",
-                  "text": "Stațiunea balneară Croisette Beach din Cannes este un loc pentru plajă și înot.",
-                  "category": "family",
-                  "coords": [
-                        7.028924,
-                        43.548016
                   ]
             },
             {
@@ -13309,15 +11062,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Catherine",
-                  "text": "Biserica Sainte-Catherine se află în Le Cannet, lângă Cannes. Edificiul religios este un monument istoric protejat al regiunii.",
-                  "category": "religious",
-                  "coords": [
-                        7.01731,
-                        43.573205
-                  ]
-            },
-            {
                   "name": "Chapelle Notre-Dame-des-Anges du Cannet",
                   "text": "Această capelă din Le Cannet este cunoscută pentru importanța sa istorică și arhitectură. Face parte integrantă din patrimoniul religios din Cannes.",
                   "category": "religious",
@@ -13327,30 +11071,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tour des Danys",
-                  "text": "Tour des Danys este un turn istoric situat în Le Cannet. Structura este considerată una dintre cele mai vechi clădiri din comună și este un punct de reper local.",
-                  "category": "landmark",
-                  "coords": [
-                        7.021164,
-                        43.574241
-                  ]
-            },
-            {
                   "name": "Chapelle Bellini",
                   "text": "Chapelle Bellini a fost odinioară o capelă, iar astăzi găzduiește muzeul pictorului Emmanuel Bellini. Acesta expune numeroase lucrări ale artistului.",
                   "category": "museum",
                   "coords": [
                         7.032374,
                         43.560392
-                  ]
-            },
-            {
-                  "name": "Musée Bonnard",
-                  "text": "Muzeul Bonnard din Le Cannet este dedicat operei pictorului Pierre Bonnard. Este primul muzeu din lume consacrat exclusiv acestui artist.",
-                  "category": "museum",
-                  "coords": [
-                        7.019931,
-                        43.576481
                   ]
             },
             {
@@ -13378,15 +11104,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         6.981224,
                         43.549139
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint-Sauveur",
-                  "text": "Această capelă este un loc liniștit de rugăciune în inima orașului Cannes. Clădirea se remarcă prin arhitectura sa simplă și primitoare.",
-                  "category": "religious",
-                  "coords": [
-                        7.021446,
-                        43.576352
                   ]
             },
             {
@@ -13618,15 +11335,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin de Rétention d'Eau",
-                  "text": "A quiet lake in Cannes, ideal for a relaxing walk.",
-                  "category": "natural",
-                  "coords": [
-                        7.012636,
-                        43.624397
-                  ]
-            },
-            {
                   "name": "Place Henri Bergia",
                   "text": "A central playground in Cannes for varied family fun.",
                   "category": "family",
@@ -13651,15 +11359,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         7.0409,
                         43.54672
-                  ]
-            },
-            {
-                  "name": "Croisette Beach",
-                  "text": "The beach resort Croisette Beach in Cannes is a place for sunbathing and swimming.",
-                  "category": "family",
-                  "coords": [
-                        7.028924,
-                        43.548016
                   ]
             },
             {
@@ -13717,15 +11416,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Catherine",
-                  "text": "The Église Sainte-Catherine is located in Le Cannet, near Cannes. The religious building is a protected historic monument in the region.",
-                  "category": "religious",
-                  "coords": [
-                        7.01731,
-                        43.573205
-                  ]
-            },
-            {
                   "name": "Chapelle Notre-Dame-des-Anges du Cannet",
                   "text": "This chapel in Le Cannet is known for its historical significance and architecture. It is an integral part of the religious heritage of Cannes.",
                   "category": "religious",
@@ -13735,30 +11425,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tour des Danys",
-                  "text": "The Tour des Danys is a historic tower in Le Cannet. The structure is considered one of the oldest buildings in the community and is a local landmark.",
-                  "category": "landmark",
-                  "coords": [
-                        7.021164,
-                        43.574241
-                  ]
-            },
-            {
                   "name": "Chapelle Bellini",
                   "text": "The Chapelle Bellini was once a chapel and now houses the museum of painter Emmanuel Bellini. It exhibits many of the artist's works.",
                   "category": "museum",
                   "coords": [
                         7.032374,
                         43.560392
-                  ]
-            },
-            {
-                  "name": "Musée Bonnard",
-                  "text": "The Musée Bonnard in Le Cannet is dedicated to the work of painter Pierre Bonnard. It is the first museum in the world devoted entirely to this artist.",
-                  "category": "museum",
-                  "coords": [
-                        7.019931,
-                        43.576481
                   ]
             },
             {
@@ -13786,15 +11458,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         6.981224,
                         43.549139
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint-Sauveur",
-                  "text": "This chapel is a quiet place of worship in the heart of Cannes. The building is characterized by its simple and welcoming architecture.",
-                  "category": "religious",
-                  "coords": [
-                        7.021446,
-                        43.576352
                   ]
             },
             {
@@ -14447,24 +12110,6 @@ export const franceCities: POI[] = [
     id: "normandy-dday", "sights": {
       "de": [
             {
-                  "name": "Château de Vierville",
-                  "text": "Ein historisches Schloss aus dem 16. Jahrhundert nahe dem Omaha Beach.",
-                  "category": "castle",
-                  "coords": [
-                        -0.906904,
-                        49.374089
-                  ]
-            },
-            {
-                  "name": "Musée D-Day Omaha",
-                  "text": "Ein Museum, das den Landungen der Alliierten am Omaha Beach während des Zweiten Weltkriegs gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -0.908211,
-                        49.375253
-                  ]
-            },
-            {
                   "name": "Overlord Museum",
                   "text": "Dieses Museum zeigt eine umfangreiche Sammlung von Fahrzeugen und Ausrüstung aus der Schlacht um die Normandie.",
                   "category": "museum",
@@ -14474,30 +12119,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Mémorial d'Omaha Beach",
-                  "text": "Ein Museum, das den Landungen der Alliierten am Omaha Beach während des Zweiten Weltkriegs gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -0.882134,
-                        49.367049
-                  ]
-            },
-            {
                   "name": "Manoir de Saint-Laurent-sur-Mer",
                   "text": "Ein historisches Herrenhaus in der Nähe der Landungsstrände der Normandie.",
                   "category": "castle",
                   "coords": [
                         -0.878932,
                         49.359363
-                  ]
-            },
-            {
-                  "name": "Manoir de Vaumicel",
-                  "text": "Ein befestigtes Herrenhaus aus dem 16. Jahrhundert in der Region Calvados.",
-                  "category": "castle",
-                  "coords": [
-                        -0.909511,
-                        49.368373
                   ]
             },
             {
@@ -14521,24 +12148,6 @@ export const franceCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Château de Vierville",
-                  "text": "Egy 16. századi történelmi kastély az Omaha-part közelében.",
-                  "category": "castle",
-                  "coords": [
-                        -0.906904,
-                        49.374089
-                  ]
-            },
-            {
-                  "name": "Musée D-Day Omaha",
-                  "text": "Az Omaha-parton végrehajtott szövetséges partraszállásnak emléket állító múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -0.908211,
-                        49.375253
-                  ]
-            },
-            {
                   "name": "Overlord Museum",
                   "text": "Ez a múzeum a normandiai csatából származó járművek és felszerelések gazdag gyűjteményét mutatja be.",
                   "category": "museum",
@@ -14548,30 +12157,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Mémorial d'Omaha Beach",
-                  "text": "Az Omaha-parton végrehajtott szövetséges partraszállásnak emléket állító múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -0.882134,
-                        49.367049
-                  ]
-            },
-            {
                   "name": "Manoir de Saint-Laurent-sur-Mer",
                   "text": "Egy történelmi udvarház a normandiai partraszállási helyszínek közelében.",
                   "category": "castle",
                   "coords": [
                         -0.878932,
                         49.359363
-                  ]
-            },
-            {
-                  "name": "Manoir de Vaumicel",
-                  "text": "Egy 16. századi erődített udvarház a Calvados régióban.",
-                  "category": "castle",
-                  "coords": [
-                        -0.909511,
-                        49.368373
                   ]
             },
             {
@@ -14595,24 +12186,6 @@ export const franceCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Château de Vierville",
-                  "text": "Un castel istoric din secolul al 16-lea, situat lângă plaja Omaha.",
-                  "category": "castle",
-                  "coords": [
-                        -0.906904,
-                        49.374089
-                  ]
-            },
-            {
-                  "name": "Musée D-Day Omaha",
-                  "text": "Un muzeu dedicat debarcărilor aliate de pe plaja Omaha din timpul celui de-al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        -0.908211,
-                        49.375253
-                  ]
-            },
-            {
                   "name": "Overlord Museum",
                   "text": "Acest muzeu expune o colecție vastă de vehicule și echipamente din bătălia pentru Normandia.",
                   "category": "museum",
@@ -14622,30 +12195,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Mémorial d'Omaha Beach",
-                  "text": "Un muzeu dedicat debarcărilor aliate de pe plaja Omaha din timpul celui de-al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        -0.882134,
-                        49.367049
-                  ]
-            },
-            {
                   "name": "Manoir de Saint-Laurent-sur-Mer",
                   "text": "Un conac istoric situat în apropierea plajelor debarcării din Normandia.",
                   "category": "castle",
                   "coords": [
                         -0.878932,
                         49.359363
-                  ]
-            },
-            {
-                  "name": "Manoir de Vaumicel",
-                  "text": "Un conac fortificat din secolul al 16-lea din regiunea Calvados.",
-                  "category": "castle",
-                  "coords": [
-                        -0.909511,
-                        49.368373
                   ]
             },
             {
@@ -14669,24 +12224,6 @@ export const franceCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Château de Vierville",
-                  "text": "A historic 16th-century castle located near Omaha Beach.",
-                  "category": "castle",
-                  "coords": [
-                        -0.906904,
-                        49.374089
-                  ]
-            },
-            {
-                  "name": "D-Day Omaha Museum",
-                  "text": "A museum dedicated to the Allied landings at Omaha Beach during World War II.",
-                  "category": "museum",
-                  "coords": [
-                        -0.908211,
-                        49.375253
-                  ]
-            },
-            {
                   "name": "Overlord Museum",
                   "text": "This museum displays an extensive collection of vehicles and equipment from the Battle of Normandy.",
                   "category": "museum",
@@ -14696,30 +12233,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Mémorial d'Omaha Beach",
-                  "text": "A museum dedicated to the Allied landings at Omaha Beach during World War II.",
-                  "category": "museum",
-                  "coords": [
-                        -0.882134,
-                        49.367049
-                  ]
-            },
-            {
                   "name": "Manoir de Saint-Laurent-sur-Mer",
                   "text": "A historic manor house located near the Normandy landing beaches.",
                   "category": "castle",
                   "coords": [
                         -0.878932,
                         49.359363
-                  ]
-            },
-            {
-                  "name": "Manoir de Vaumicel",
-                  "text": "A 16th-century fortified manor house in the Calvados region.",
-                  "category": "castle",
-                  "coords": [
-                        -0.909511,
-                        49.368373
                   ]
             },
             {
@@ -15897,26 +13416,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palais du Tau",
-                  "text": "Die ehemalige Residenz der Erzbischöfe von Reims beherbergt heute Schätze der Kathedrale und Statuen.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        4.034444,
-                        49.253056
-                  ]
-            },
-            {
-                  "name": "Basilique Saint-Remi",
-                  "text": "Eine bedeutende romanisch-gotische Abteikirche, in der der Heilige Remigius bestattet wurde.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        4.041944,
-                        49.243056
-                  ]
-            },
-            {
                   "name": "Musée Saint-Remi",
                   "text": "Dieses Museum befindet sich in einer ehemaligen Abtei und zeigt die Geschichte von Reims seit der Antike.",
                   "category": "museum",
@@ -15934,16 +13433,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.029944,
                         49.260611
-                  ]
-            },
-            {
-                  "name": "Place Royale",
-                  "text": "Ein klassizistischer Platz aus dem 18. Jahrhundert mit einer Statue von Ludwig XV. in der Mitte.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        4.034128,
-                        49.255611
                   ]
             },
             {
@@ -16067,75 +13556,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin d'orage",
-                  "text": "Ein See in Reims, der zu einem entspannten Spaziergang in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        3.991004,
-                        49.281267
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Dieser Spielplatz in Reims bietet Spaß und Bewegung für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        4.021561,
-                        49.253739
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "Eine Spielhalle in Reims mit spannenden Aktivitäten für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        3.988161,
-                        49.239885
-                  ]
-            },
-            {
-                  "name": "Square des Droits de l'Enfant",
-                  "text": "Ein familienfreundlicher Spielplatz in Reims für kleine Abenteurer.",
-                  "category": "family",
-                  "coords": [
-                        4.002203,
-                        49.241807
-                  ]
-            },
-            {
                   "name": "Cours de récréation",
                   "text": "Ein Spielbereich in Reims, der Kindern Raum zum Toben bietet.",
                   "category": "family",
                   "coords": [
                         4.058746,
                         49.253025
-                  ]
-            },
-            {
-                  "name": "Cour de récréation",
-                  "text": "Ein Ort in Reims, an dem Kinder sicher spielen können.",
-                  "category": "family",
-                  "coords": [
-                        4.036345,
-                        49.243879
-                  ]
-            },
-            {
-                  "name": "SPA Avenue 51",
-                  "text": "Das SPA Avenue 51 in Reims bietet Entspannung und Wellness.",
-                  "category": "family",
-                  "coords": [
-                        3.979625,
-                        49.247042
-                  ]
-            },
-            {
-                  "name": "Spa Connect (Salon de bien-être)",
-                  "text": "Spa Connect in Reims verfügt über ein Schwimmbad.",
-                  "category": "family",
-                  "coords": [
-                        4.02185,
-                        49.240276
                   ]
             },
             {
@@ -16160,26 +13586,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palais du Tau",
-                  "text": "A reimsi érsekek egykori rezidenciája, ma a katedrális kincstárának és szobrainak ad otthont.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        4.034444,
-                        49.253056
-                  ]
-            },
-            {
-                  "name": "Basilique Saint-Remi",
-                  "text": "Fontos román-gótikus apátsági templom, ahol Szent Remigius, a frankok megtérítője nyugszik.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        4.041944,
-                        49.243056
-                  ]
-            },
-            {
                   "name": "Musée Saint-Remi",
                   "text": "Az egykori apátság épületében működő múzeum Reims történetét mutatja be az ókortól kezdve.",
                   "category": "museum",
@@ -16197,16 +13603,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.029944,
                         49.260611
-                  ]
-            },
-            {
-                  "name": "Place Royale",
-                  "text": "18. századi klasszicista stílusú tér a város szívében, közepén XV. Lajos király szobrával.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        4.034128,
-                        49.255611
                   ]
             },
             {
@@ -16330,75 +13726,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin d'orage",
-                  "text": "Egy tó Reimsben, amely kellemes környezetet kínál a sétáláshoz.",
-                  "category": "natural",
-                  "coords": [
-                        3.991004,
-                        49.281267
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Ez a reimsi játszótér szórakozást és mozgást kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        4.021561,
-                        49.253739
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "Egy reimsi játékterem izgalmas tevékenységekkel az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        3.988161,
-                        49.239885
-                  ]
-            },
-            {
-                  "name": "Square des Droits de l'Enfant",
-                  "text": "Családbarát játszótér Reimsben a kis kalandorok számára.",
-                  "category": "family",
-                  "coords": [
-                        4.002203,
-                        49.241807
-                  ]
-            },
-            {
                   "name": "Cours de récréation",
                   "text": "Egy reimsi játszóhely, amely teret biztosít a gyerekeknek a mozgáshoz.",
                   "category": "family",
                   "coords": [
                         4.058746,
                         49.253025
-                  ]
-            },
-            {
-                  "name": "Cour de récréation",
-                  "text": "Egy hely Reimsben, ahol a gyerekek biztonságosan játszhatnak.",
-                  "category": "family",
-                  "coords": [
-                        4.036345,
-                        49.243879
-                  ]
-            },
-            {
-                  "name": "SPA Avenue 51",
-                  "text": "A reimsi SPA Avenue 51 pihenést és wellnesst kínál.",
-                  "category": "family",
-                  "coords": [
-                        3.979625,
-                        49.247042
-                  ]
-            },
-            {
-                  "name": "Spa Connect (Salon de bien-être)",
-                  "text": "A reimsi Spa Connect rendelkezik úszómedencével.",
-                  "category": "family",
-                  "coords": [
-                        4.02185,
-                        49.240276
                   ]
             },
             {
@@ -16423,26 +13756,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palais du Tau",
-                  "text": "Fosta reședință a arhiepiscopilor din Reims găzduiește astăzi tezaurul catedralei și statui originale.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        4.034444,
-                        49.253056
-                  ]
-            },
-            {
-                  "name": "Basilique Saint-Remi",
-                  "text": "O importantă biserică abațială în stil romanic și gotic, unde este înmormântat Sfântul Remigius.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        4.041944,
-                        49.243056
-                  ]
-            },
-            {
                   "name": "Musée Saint-Remi",
                   "text": "Găzduit într-o fostă abație, acest muzeu prezintă istoria bogată a orașului Reims din antichitate.",
                   "category": "museum",
@@ -16460,16 +13773,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.029944,
                         49.260611
-                  ]
-            },
-            {
-                  "name": "Place Royale",
-                  "text": "O piață construită în stil neoclasic în secolul al XVIII-lea, având în centru statuia lui Ludovic al XV-lea.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        4.034128,
-                        49.255611
                   ]
             },
             {
@@ -16593,75 +13896,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin d'orage",
-                  "text": "Un lac în Reims, ideal pentru o plimbare relaxantă în natură.",
-                  "category": "natural",
-                  "coords": [
-                        3.991004,
-                        49.281267
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "Acest loc de joacă din Reims oferă distracție și mișcare pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        4.021561,
-                        49.253739
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "O sală de jocuri în Reims cu activități captivante pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        3.988161,
-                        49.239885
-                  ]
-            },
-            {
-                  "name": "Square des Droits de l'Enfant",
-                  "text": "Un loc de joacă prietenos pentru familii în Reims, pentru micii aventurieri.",
-                  "category": "family",
-                  "coords": [
-                        4.002203,
-                        49.241807
-                  ]
-            },
-            {
                   "name": "Cours de récréation",
                   "text": "O zonă de joacă în Reims care oferă copiilor spațiu de mișcare.",
                   "category": "family",
                   "coords": [
                         4.058746,
                         49.253025
-                  ]
-            },
-            {
-                  "name": "Cour de récréation",
-                  "text": "Un loc în Reims unde copiii se pot juca în siguranță.",
-                  "category": "family",
-                  "coords": [
-                        4.036345,
-                        49.243879
-                  ]
-            },
-            {
-                  "name": "SPA Avenue 51",
-                  "text": "SPA Avenue 51 din Reims oferă relaxare și wellness.",
-                  "category": "family",
-                  "coords": [
-                        3.979625,
-                        49.247042
-                  ]
-            },
-            {
-                  "name": "Spa Connect (Salon de bien-être)",
-                  "text": "Spa Connect din Reims are o piscină.",
-                  "category": "family",
-                  "coords": [
-                        4.02185,
-                        49.240276
                   ]
             },
             {
@@ -16686,26 +13926,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palais du Tau",
-                  "text": "The former residence of the Archbishops of Reims now houses the cathedral's treasury and original statues.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        4.034444,
-                        49.253056
-                  ]
-            },
-            {
-                  "name": "Basilique Saint-Remi",
-                  "text": "An important Romanesque-Gothic abbey church where Saint Remigius, who baptized Clovis, is buried.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        4.041944,
-                        49.243056
-                  ]
-            },
-            {
                   "name": "Musée Saint-Remi",
                   "text": "Located in a former abbey, this museum traces the history of Reims from prehistory to the Middle Ages.",
                   "category": "museum",
@@ -16723,16 +13943,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.029944,
                         49.260611
-                  ]
-            },
-            {
-                  "name": "Place Royale",
-                  "text": "An 18th-century neoclassical square in the city center featuring a bronze statue of King Louis XV.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        4.034128,
-                        49.255611
                   ]
             },
             {
@@ -16856,75 +14066,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin d'orage",
-                  "text": "A lake in Reims, offering a peaceful setting for a walk.",
-                  "category": "natural",
-                  "coords": [
-                        3.991004,
-                        49.281267
-                  ]
-            },
-            {
-                  "name": "Toboggan",
-                  "text": "This playground in Reims offers fun and outdoor activity for children.",
-                  "category": "family",
-                  "coords": [
-                        4.021561,
-                        49.253739
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "An amusement arcade in Reims with exciting activities for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        3.988161,
-                        49.239885
-                  ]
-            },
-            {
-                  "name": "Square des Droits de l'Enfant",
-                  "text": "A family-friendly playground in Reims for little adventurers.",
-                  "category": "family",
-                  "coords": [
-                        4.002203,
-                        49.241807
-                  ]
-            },
-            {
                   "name": "Cours de récréation",
                   "text": "A play area in Reims providing space for children to play.",
                   "category": "family",
                   "coords": [
                         4.058746,
                         49.253025
-                  ]
-            },
-            {
-                  "name": "Cour de récréation",
-                  "text": "A place in Reims where children can play safely.",
-                  "category": "family",
-                  "coords": [
-                        4.036345,
-                        49.243879
-                  ]
-            },
-            {
-                  "name": "SPA Avenue 51",
-                  "text": "The SPA Avenue 51 in Reims offers relaxation and wellness.",
-                  "category": "family",
-                  "coords": [
-                        3.979625,
-                        49.247042
-                  ]
-            },
-            {
-                  "name": "Spa Connect (Salon de bien-être)",
-                  "text": "Spa Connect in Reims features a swimming pool.",
-                  "category": "family",
-                  "coords": [
-                        4.02185,
-                        49.240276
                   ]
             },
             {
@@ -16948,24 +14095,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palais du Tau",
-                  "text": "L'ancienne résidence des archevêques de Reims abrite aujourd'hui les trésors de la cathédrale et des statues.",
-                  "category": "historical",
-                  "coords": [
-                        4.034444,
-                        49.253056
-                  ]
-            },
-            {
-                  "name": "Basilique Saint-Remi",
-                  "text": "Une église abbatiale romano-gothique importante où fut enterré Saint Rémi.",
-                  "category": "religious",
-                  "coords": [
-                        4.041944,
-                        49.243056
-                  ]
-            },
-            {
                   "name": "Musée Saint-Remi",
                   "text": "Ce musée situé dans une ancienne abbaye retrace l'histoire de Reims depuis l'Antiquité.",
                   "category": "museum",
@@ -16981,15 +14110,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.029944,
                         49.260611
-                  ]
-            },
-            {
-                  "name": "Place Royale",
-                  "text": "Une place classique du XVIIIe siècle ornée d'une statue de Louis XV en son centre.",
-                  "category": "civic",
-                  "coords": [
-                        4.034128,
-                        49.255611
                   ]
             },
             {
@@ -17900,15 +15020,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe du Dard",
-                  "text": "Ein Gipfel in den französischen Alpen im Nationalpark Vanoise.",
-                  "category": "landmark",
-                  "coords": [
-                        6.765809,
-                        45.364085
-                  ]
-            },
-            {
                   "name": "Le Grand Bec",
                   "text": "Ein prominenter Berg im Gebiet des Vanoise-Nationalparks.",
                   "category": "landmark",
@@ -17971,15 +15082,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         6.780271,
                         45.395099
-                  ]
-            },
-            {
-                  "name": "Pointe du Dard",
-                  "text": "Csúcs a francia Alpokban, a Vanoise Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        6.765809,
-                        45.364085
                   ]
             },
             {
@@ -18048,15 +15150,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe du Dard",
-                  "text": "Un vârf din Alpii francezi în Parcul Național Vanoise.",
-                  "category": "landmark",
-                  "coords": [
-                        6.765809,
-                        45.364085
-                  ]
-            },
-            {
                   "name": "Le Grand Bec",
                   "text": "Un munte proeminent în zona Parcului Național Vanoise.",
                   "category": "landmark",
@@ -18119,15 +15212,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         6.780271,
                         45.395099
-                  ]
-            },
-            {
-                  "name": "Pointe du Dard",
-                  "text": "A peak in the French Alps within the Vanoise National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        6.765809,
-                        45.364085
                   ]
             },
             {
@@ -18205,15 +15289,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Château de la Grande Filolie",
-                  "text": "Ein Schloss in der Nähe der Lascaux-Höhlen im Périgord.",
-                  "category": "castle",
-                  "coords": [
-                        1.210657,
-                        45.044501
-                  ]
-            },
-            {
                   "name": "Lascaux IV",
                   "text": "Modernes Besucherzentrum und Nachbildung der Lascaux-Höhle.",
                   "category": "museum",
@@ -18229,15 +15304,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.167186,
                         45.053702
-                  ]
-            },
-            {
-                  "name": "Le Parc du Thot",
-                  "text": "Ein Tier- und Archäologiepark in der Nähe der Höhle von Lascaux.",
-                  "category": "recreational",
-                  "coords": [
-                        1.122995,
-                        45.036392
                   ]
             },
             {
@@ -18270,15 +15336,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Château de la Grande Filolie",
-                  "text": "Kastély a Lascaux-barlangok közelében, Périgord vidékén.",
-                  "category": "castle",
-                  "coords": [
-                        1.210657,
-                        45.044501
-                  ]
-            },
-            {
                   "name": "Lascaux IV",
                   "text": "Modern látogatóközpont és a Lascaux-barlang élethű másolata.",
                   "category": "museum",
@@ -18294,15 +15351,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.167186,
                         45.053702
-                  ]
-            },
-            {
-                  "name": "Le Parc du Thot",
-                  "text": "Állat- és régészeti park a Lascaux-barlang közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        1.122995,
-                        45.036392
                   ]
             },
             {
@@ -18335,15 +15383,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Château de la Grande Filolie",
-                  "text": "Un castel situat în apropierea peșterilor Lascaux din Périgord.",
-                  "category": "castle",
-                  "coords": [
-                        1.210657,
-                        45.044501
-                  ]
-            },
-            {
                   "name": "Lascaux IV",
                   "text": "Centru modern pentru vizitatori și replică a peșterii Lascaux.",
                   "category": "museum",
@@ -18359,15 +15398,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.167186,
                         45.053702
-                  ]
-            },
-            {
-                  "name": "Le Parc du Thot",
-                  "text": "Un parc de animale și arheologie situat lângă peștera Lascaux.",
-                  "category": "recreational",
-                  "coords": [
-                        1.122995,
-                        45.036392
                   ]
             },
             {
@@ -18400,15 +15430,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Château de la Grande Filolie",
-                  "text": "A castle located near the Lascaux caves in the Périgord region.",
-                  "category": "castle",
-                  "coords": [
-                        1.210657,
-                        45.044501
-                  ]
-            },
-            {
                   "name": "Lascaux IV",
                   "text": "Modern visitor centre and complete replica of the Lascaux cave.",
                   "category": "museum",
@@ -18424,15 +15445,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         1.167186,
                         45.053702
-                  ]
-            },
-            {
-                  "name": "Le Parc du Thot",
-                  "text": "An animal and archaeology park located near the Lascaux cave.",
-                  "category": "recreational",
-                  "coords": [
-                        1.122995,
-                        45.036392
                   ]
             },
             {
@@ -18608,16 +15620,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Porte de Mars",
-                  "text": "Ein monumentaler römischer Triumphbogen aus dem 3. Jahrhundert, der größte seiner Art im römischen Reich.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        4.029944,
-                        49.260611
-                  ]
-            },
-            {
                   "name": "Place Royale",
                   "text": "Ein eleganter Platz im klassizistischen Stil mit einer zentralen Statue zu Ehren von König Ludwig XV.",
                   "category": "civic",
@@ -18625,16 +15627,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.034128,
                         49.255611
-                  ]
-            },
-            {
-                  "name": "Musée de la Reddition",
-                  "text": "In diesem Gebäude wurde am 7. Mai 1945 die bedingungslose Kapitulation der Wehrmacht unterzeichnet.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        4.0269,
-                        49.263
                   ]
             },
             {
@@ -18680,16 +15672,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Porte de Mars",
-                  "text": "Hatalmas római diadalív a 3. századból, amely az egyik legnagyobb ilyen jellegű emlék a Római Birodalomban.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        4.029944,
-                        49.260611
-                  ]
-            },
-            {
                   "name": "Place Royale",
                   "text": "Elegáns klasszicista stílusú tér, amelynek közepén XV. Lajos király tiszteletére emelt szobor áll.",
                   "category": "civic",
@@ -18697,16 +15679,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.034128,
                         49.255611
-                  ]
-            },
-            {
-                  "name": "Musée de la Reddition",
-                  "text": "Ebben az épületben írták alá 1945. május 7-én a német hadsereg feltétel nélküli megadását.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        4.0269,
-                        49.263
                   ]
             },
             {
@@ -18749,16 +15721,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         4.041944,
                         49.243056
-                  ]
-            },
-            {
-                  "name": "Porte de Mars",
-                  "text": "Un arc de triumf roman monumental din secolul al III-lea, cel mai mare de acest tip din Imperiul Roman.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        4.029944,
-                        49.260611
                   ]
             },
             {
@@ -18824,16 +15786,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Porte de Mars",
-                  "text": "An ancient Roman triumphal arch dating from the 3rd century, the widest in the Roman world.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        4.029944,
-                        49.260611
-                  ]
-            },
-            {
                   "name": "Place Royale",
                   "text": "A grand 18th-century square designed in the Neoclassical style, featuring a statue of Louis XV.",
                   "category": "civic",
@@ -18893,30 +15845,12 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Porte de Mars",
-                  "text": "Un arc de triomphe romain monumental du IIIe siècle, le plus grand de son genre dans l'Empire romain.",
-                  "category": "historical",
-                  "coords": [
-                        4.029944,
-                        49.260611
-                  ]
-            },
-            {
                   "name": "Place Royale",
                   "text": "Une place élégante de style classique dotée d'une statue centrale en l'honneur du roi Louis XV.",
                   "category": "civic",
                   "coords": [
                         4.034128,
                         49.255611
-                  ]
-            },
-            {
-                  "name": "Musée de la Reddition",
-                  "text": "C'est dans ce bâtiment que fut signée, le 7 mai 1945, la capitulation sans condition de l'armée allemande.",
-                  "category": "museum",
-                  "coords": [
-                        4.0269,
-                        49.263
                   ]
             },
             {
@@ -18976,7 +15910,433 @@ export const franceCities: POI[] = [
       pt: ["Saint-Tropez tem apenas cerca de 4000 habitantes permanentes.", "A cidadela foi construída entre 1602 e 1608.", "O porto oferece espaço para cerca de 730 barcos e iates.", "O filme com Brigitte Bardot foi lançado no ano de 1956.", "As praias de Pampelonne situam-se a cerca de 5 quilómetros do centro da cidade.", "O Museu da Gendarmerie recorda os famosos filmes com Louis de Funès."],
       fr: ["Saint-Tropez ne compte qu'environ 4 000 habitants permanents.", "La citadelle a été construite entre 1602 et 1608.", "Le port peut accueillir environ 730 bateaux et yachts.", "Le film avec Brigitte Bardot est sorti en 1956.", "Les plages de Pampelonne se trouvent à environ 5 kilomètres du centre-ville.", "Le musée de la Gendarmerie rend hommage aux célèbres films avec Louis de Funès."],
     },
-    "sights": {"de": [{"name": "Zitadelle von Saint-Tropez", "text": "Diese Festung aus dem 17. Jahrhundert bietet einen atemberaubenden Blick über die Bucht und beherbergt ein Museum.", "category": "fortress", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Hafen von Saint-Tropez", "text": "Der berühmte Yachthafen ist der ideale Ort, um luxuriöse Boote zu bewundern und das lebhafte Treiben zu genießen.", "category": "recreational", "confidence": "high", "coords": [6.63911, 43.27177]}, {"name": "Musée de l'Annonciade", "text": "Dieses Kunstmuseum in einer ehemaligen Kapelle zeigt Werke bedeutender moderner Maler wie Matisse und Signac.", "category": "museum", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Kirche Notre-Dame-de-l'Assomption", "text": "Die farbenfrohe ocker- und siena-farbene Kirche ist mit ihrem markanten Glockenturm das Wahrzeichen der Stadt.", "category": "religious", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "Ein charmanter Platz unter Platanen, auf dem Einheimische Boule spielen und regelmäßig Märkte stattfinden.", "category": "civic", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Plage de Pampelonne", "text": "Nahe Saint Tropez gelegen, präsentiert die weltberühmte Plage de Pampelonne eine atemberaubende Kulisse aus feinem Sand und mediterranem Flair. Die Stimmung ist außergewöhnlich exklusiv und lebhaft und zieht ein internationales Publikum in ihre renommierten Strandclubs. Gäste erwartet ein luxuriöser Tag voller Sonnenbäder, Geselligkeit und Schwimmen in den wunderschönen Küstengewässern. Eine frühzeitige Reservierung ist sehr zu empfehlen, wenn Sie die erstklassigen Club-Annehmlichkeiten genießen möchten.", "category": "natural", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Kapelle Sainte-Anne", "text": "Eine schlichte Kapelle auf einem Hügel, die Ruhe bietet und einen Panoramablick auf das Meer ermöglicht.", "category": "religious", "confidence": "high", "coords": [6.640347, 43.257488]}, {"name": "Le Diamant Plage", "text": "Le Diamant Plage in Saint Tropez ist ein Reiseziel am Meer, ideal für einen Familientag am Mittelmeer.", "category": "family", "coords": [6.626719, 43.302152]}, {"name": "La piscine en terrasse", "text": "Dieser Terrassenpool in Saint Tropez bietet Schwimmen mit Aussicht, geeignet für Familien.", "category": "family", "coords": [6.658406, 43.253941]}, {"name": "Piscine Odalys Les jardins d'Artémis", "text": "Dieser Swimmingpool in Saint Tropez ist Teil einer Ferienanlage, die für die Familienerholung konzipiert wurde.", "category": "family", "coords": [6.621601, 43.262278]}], "hu": [{"name": "Saint-Tropez citadella", "text": "Ez a 17. századi erőd lenyűgöző kilátást nyújt az öbölre, és tengerészeti múzeumnak ad otthont.", "category": "fortress", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Saint-Tropez kikötője", "text": "A híres jachtkikötő ideális hely a luxushajók megcsodálására és a pezsgő kikötői élet élvezetére.", "category": "recreational", "confidence": "high", "coords": [6.63911, 43.27177]}, {"name": "Musée de l'Annonciade", "text": "Egy egykori kápolnában berendezett művészeti múzeum olyan mesterek műveivel, mint Matisse és Signac.", "category": "museum", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Notre-Dame-de-l'Assomption templom", "text": "A jellegzetes okkersárga és vörös színeiről ismert templomtorony a város egyik fő ismertetőjele.", "category": "religious", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "Hangulatos tér platánfák alatt, ahol a helyiek petanque-ot játszanak és híres piacokat tartanak.", "category": "civic", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Pampelonne-strand", "text": "A Saint Tropez közelében található világhírű Plage de Pampelonne a finom homok és a mediterrán vonzerő lenyűgöző vásznát kínálja. A hangulat kivételesen exkluzív és vibráló, nemzetközi közönséget vonz a híres strandklubokba. A vendégek a napozás, a társasági élet és a gyönyörű part menti vizekben való úszás luxus napjára számíthatnak. Erősen ajánlott előre asztalt foglalni, ha élvezni szeretné a prémium klubszolgáltatásokat.", "category": "natural", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Szent Anna kápolna", "text": "Egyszerű dombtetői kápolna, amely nyugalmat és panorámás kilátást kínál a tengerre.", "category": "religious", "confidence": "high", "coords": [6.640347, 43.257488]}, {"name": "Le Diamant Plage", "text": "A Saint Tropez-i Le Diamant Plage egy tengerparti helyszín, amely tökéletes egy családi naphoz a Földközi-tenger partján.", "category": "family", "coords": [6.626719, 43.302152]}, {"name": "La piscine en terrasse", "text": "Ez a Saint Tropez-i teraszos medence kilátással egybekötött úszást kínál, családok számára is alkalmas.", "category": "family", "coords": [6.658406, 43.253941]}, {"name": "Piscine Odalys Les jardins d'Artémis", "text": "Ez a Saint Tropez-i úszómedence egy üdülőhely része, amelyet családi kikapcsolódásra terveztek.", "category": "family", "coords": [6.621601, 43.262278]}], "ro": [{"name": "Citadela din Saint-Tropez", "text": "Această fortăreață din secolul al XVII-lea oferă o vedere panoramică asupra golfului și găzduiește un muzeu.", "category": "fortress", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Portul din Saint-Tropez", "text": "Faimosul port de iahturi este locul ideal pentru a admira ambarcațiuni luxoase și a simți atmosfera vibrantă.", "category": "recreational", "confidence": "high", "coords": [6.63911, 43.27177]}, {"name": "Muzeul Annonciade", "text": "Un muzeu de artă situat într-o fostă chapelă, expunând lucrări de Matisse, Signac și alți maeștri moderni.", "category": "museum", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Biserica Notre-Dame-de-l'Assomption", "text": "Biserica barocă în culori de ocru și siena este simbolul iconic al orașului cu turnul său de clopotniță.", "category": "religious", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "O piață fermecătoare umbrită de platani, unde localnicii joacă petanque și au loc piețe săptămânale.", "category": "civic", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Plaja Pampelonne", "text": "Situată lângă Saint Tropez, faimoasa Plage de Pampelonne prezintă o pânză uimitoare de nisip fin și alură mediteraneană. Atmosfera este excepțional de exclusivistă și vibrantă, atrăgând o mulțime internațională la renumitele sale cluburi de plajă. Oaspeții se pot aștepta la o zi luxoasă de plajă, socializare și înot în frumoasele ape de coastă. O rezervare din timp este foarte recomandată dacă doriți să vă bucurați de facilitățile premium ale clubului.", "category": "natural", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Capela Sainte-Anne", "text": "O chapelă simplă situată pe o colină, oferind liniște și o priveliște superbă asupra mării.", "category": "religious", "confidence": "high", "coords": [6.640347, 43.257488]}, {"name": "Le Diamant Plage", "text": "Le Diamant Plage din Saint Tropez este o destinație de pe litoral, perfectă pentru o zi în familie la Marea Mediterană.", "category": "family", "coords": [6.626719, 43.302152]}, {"name": "La piscine en terrasse", "text": "Această piscină pe terasă din Saint Tropez oferă înot cu vedere, fiind potrivită pentru familii.", "category": "family", "coords": [6.658406, 43.253941]}, {"name": "Piscine Odalys Les jardins d'Artémis", "text": "Această piscină din Saint Tropez face parte dintr-o zonă de vacanță concepută pentru recreerea în familie.", "category": "family", "coords": [6.621601, 43.262278]}], "en": [{"name": "Citadel of Saint-Tropez", "text": "A 17th-century fortress featuring a maritime museum and stunning views of the Mediterranean gulf.", "category": "fortress", "confidence": "high", "coords": [6.64458, 43.2722]}, {"name": "Port of Saint-Tropez", "text": "The heart of the town, famous for its luxury yachts, vibrant cafes, and painter-filled promenade.", "category": "recreational", "confidence": "high", "coords": [6.63911, 43.27177]}, {"name": "Annonciade Museum", "text": "Housed in a former chapel, this museum displays an exceptional collection of modern art masterpieces.", "category": "museum", "confidence": "high", "coords": [6.637123, 43.271079]}, {"name": "Church of Notre-Dame-de-l'Assomption", "text": "The town's colorful parish church, easily recognized by its bright ochre and sienna bell tower.", "category": "religious", "confidence": "high", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "A lively central square where locals play boules under centenarian plane trees during market days.", "category": "civic", "confidence": "high", "coords": [6.641139, 43.27]}, {"name": "Pampelonne Beach", "text": "Situated near Saint Tropez, the world-famous Plage de Pampelonne presents a stunning canvas of fine sand and Mediterranean allure. The vibe is exceptionally exclusive and vibrant, drawing an international crowd to its renowned beach clubs. Guests can expect a luxurious day of sunbathing, socializing, and swimming in the beautiful coastal waters. Making reservations ahead of time is highly advisable if you wish to enjoy the premium club amenities.", "category": "natural", "confidence": "high", "coords": [6.648086, 43.235772]}, {"name": "Sainte-Anne Chapel", "text": "A quiet chapel built in 1618 on a hilltop, offering a panoramic viewpoint over the town and bay.", "category": "religious", "confidence": "high", "coords": [6.640347, 43.257488]}, {"name": "Le Diamant Plage", "text": "Le Diamant Plage in Saint Tropez is a seaside destination perfect for a family day by the Mediterranean.", "category": "family", "coords": [6.626719, 43.302152]}, {"name": "La piscine en terrasse", "text": "This terrace pool in Saint Tropez offers swimming with a view, suitable for families.", "category": "family", "coords": [6.658406, 43.253941]}, {"name": "Piscine Odalys Les jardins d'Artémis", "text": "This swimming pool in Saint Tropez is part of a resort area designed for family recreation.", "category": "family", "coords": [6.621601, 43.262278]}], "fr": [{"name": "Citadelle de Saint-Tropez", "text": "Cette forteresse du XVIIe siècle offre une vue imprenable sur la baie et abrite un musée maritime.", "category": "fortress", "coords": [6.64458, 43.2722]}, {"name": "Port de Saint-Tropez", "text": "Le célèbre port de plaisance est l'endroit idéal pour admirer des yachts luxueux et profiter de l'animation.", "category": "recreational", "coords": [6.63911, 43.27177]}, {"name": "Musée de l'Annonciade", "text": "Ce musée d'art installé dans une ancienne chapelle présente des œuvres de peintres modernes comme Matisse et Signac.", "category": "museum", "coords": [6.637123, 43.271079]}, {"name": "Église Notre-Dame-de-l'Assomption", "text": "Avec son clocher caractéristique, cette église aux tons ocre et sienne est l'emblème de la ville.", "category": "religious", "coords": [6.640127, 43.272855]}, {"name": "Place des Lices", "text": "Une charmante place sous les platanes où les locaux jouent à la pétanque et où se tiennent des marchés réguliers.", "category": "civic", "coords": [6.641139, 43.27]}, {"name": "Plage de Pampelonne", "text": "Située près de Saint-Tropez, la célèbre Plage de Pampelonne offre une toile époustouflante de sable fin et d'allure méditerranéenne. L'ambiance y est exceptionnellement exclusive et vibrante, attirant une foule internationale dans ses clubs de plage renommés. Les clients peuvent s'attendre à une journée luxueuse de bronzage, de rencontres et de baignades dans les magnifiques eaux côtières. Il est fortement conseillé de réserver à l'avance si vous souhaitez profiter des installations haut de gamme des clubs.", "category": "natural", "coords": [6.648086, 43.235772]}, {"name": "Chapelle Sainte-Anne", "text": "Une chapelle simple perchée sur une colline, offrant calme et une vue panoramique sur la mer.", "category": "religious", "coords": [6.640347, 43.257488]}]}
+    "sights": {
+      "de": [
+            {
+                  "name": "Zitadelle von Saint-Tropez",
+                  "text": "Diese Festung aus dem 17. Jahrhundert bietet einen atemberaubenden Blick über die Bucht und beherbergt ein Museum.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        6.64458,
+                        43.2722
+                  ]
+            },
+            {
+                  "name": "Hafen von Saint-Tropez",
+                  "text": "Der berühmte Yachthafen ist der ideale Ort, um luxuriöse Boote zu bewundern und das lebhafte Treiben zu genießen.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        6.63911,
+                        43.27177
+                  ]
+            },
+            {
+                  "name": "Musée de l'Annonciade",
+                  "text": "Dieses Kunstmuseum in einer ehemaligen Kapelle zeigt Werke bedeutender moderner Maler wie Matisse und Signac.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        6.637123,
+                        43.271079
+                  ]
+            },
+            {
+                  "name": "Kirche Notre-Dame-de-l'Assomption",
+                  "text": "Die farbenfrohe ocker- und siena-farbene Kirche ist mit ihrem markanten Glockenturm das Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        6.640127,
+                        43.272855
+                  ]
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "Ein charmanter Platz unter Platanen, auf dem Einheimische Boule spielen und regelmäßig Märkte stattfinden.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        6.641139,
+                        43.27
+                  ]
+            },
+            {
+                  "name": "Plage de Pampelonne",
+                  "text": "Nahe Saint Tropez gelegen, präsentiert die weltberühmte Plage de Pampelonne eine atemberaubende Kulisse aus feinem Sand und mediterranem Flair. Die Stimmung ist außergewöhnlich exklusiv und lebhaft und zieht ein internationales Publikum in ihre renommierten Strandclubs. Gäste erwartet ein luxuriöser Tag voller Sonnenbäder, Geselligkeit und Schwimmen in den wunderschönen Küstengewässern. Eine frühzeitige Reservierung ist sehr zu empfehlen, wenn Sie die erstklassigen Club-Annehmlichkeiten genießen möchten.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        6.648086,
+                        43.235772
+                  ]
+            },
+            {
+                  "name": "Kapelle Sainte-Anne",
+                  "text": "Eine schlichte Kapelle auf einem Hügel, die Ruhe bietet und einen Panoramablick auf das Meer ermöglicht.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        6.640347,
+                        43.257488
+                  ]
+            },
+            {
+                  "name": "La piscine en terrasse",
+                  "text": "Dieser Terrassenpool in Saint Tropez bietet Schwimmen mit Aussicht, geeignet für Familien.",
+                  "category": "family",
+                  "coords": [
+                        6.658406,
+                        43.253941
+                  ]
+            },
+            {
+                  "name": "Piscine Odalys Les jardins d'Artémis",
+                  "text": "Dieser Swimmingpool in Saint Tropez ist Teil einer Ferienanlage, die für die Familienerholung konzipiert wurde.",
+                  "category": "family",
+                  "coords": [
+                        6.621601,
+                        43.262278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saint-Tropez citadella",
+                  "text": "Ez a 17. századi erőd lenyűgöző kilátást nyújt az öbölre, és tengerészeti múzeumnak ad otthont.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        6.64458,
+                        43.2722
+                  ]
+            },
+            {
+                  "name": "Saint-Tropez kikötője",
+                  "text": "A híres jachtkikötő ideális hely a luxushajók megcsodálására és a pezsgő kikötői élet élvezetére.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        6.63911,
+                        43.27177
+                  ]
+            },
+            {
+                  "name": "Musée de l'Annonciade",
+                  "text": "Egy egykori kápolnában berendezett művészeti múzeum olyan mesterek műveivel, mint Matisse és Signac.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        6.637123,
+                        43.271079
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-l'Assomption templom",
+                  "text": "A jellegzetes okkersárga és vörös színeiről ismert templomtorony a város egyik fő ismertetőjele.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        6.640127,
+                        43.272855
+                  ]
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "Hangulatos tér platánfák alatt, ahol a helyiek petanque-ot játszanak és híres piacokat tartanak.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        6.641139,
+                        43.27
+                  ]
+            },
+            {
+                  "name": "Pampelonne-strand",
+                  "text": "A Saint Tropez közelében található világhírű Plage de Pampelonne a finom homok és a mediterrán vonzerő lenyűgöző vásznát kínálja. A hangulat kivételesen exkluzív és vibráló, nemzetközi közönséget vonz a híres strandklubokba. A vendégek a napozás, a társasági élet és a gyönyörű part menti vizekben való úszás luxus napjára számíthatnak. Erősen ajánlott előre asztalt foglalni, ha élvezni szeretné a prémium klubszolgáltatásokat.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        6.648086,
+                        43.235772
+                  ]
+            },
+            {
+                  "name": "Szent Anna kápolna",
+                  "text": "Egyszerű dombtetői kápolna, amely nyugalmat és panorámás kilátást kínál a tengerre.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        6.640347,
+                        43.257488
+                  ]
+            },
+            {
+                  "name": "La piscine en terrasse",
+                  "text": "Ez a Saint Tropez-i teraszos medence kilátással egybekötött úszást kínál, családok számára is alkalmas.",
+                  "category": "family",
+                  "coords": [
+                        6.658406,
+                        43.253941
+                  ]
+            },
+            {
+                  "name": "Piscine Odalys Les jardins d'Artémis",
+                  "text": "Ez a Saint Tropez-i úszómedence egy üdülőhely része, amelyet családi kikapcsolódásra terveztek.",
+                  "category": "family",
+                  "coords": [
+                        6.621601,
+                        43.262278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Citadela din Saint-Tropez",
+                  "text": "Această fortăreață din secolul al XVII-lea oferă o vedere panoramică asupra golfului și găzduiește un muzeu.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        6.64458,
+                        43.2722
+                  ]
+            },
+            {
+                  "name": "Portul din Saint-Tropez",
+                  "text": "Faimosul port de iahturi este locul ideal pentru a admira ambarcațiuni luxoase și a simți atmosfera vibrantă.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        6.63911,
+                        43.27177
+                  ]
+            },
+            {
+                  "name": "Muzeul Annonciade",
+                  "text": "Un muzeu de artă situat într-o fostă chapelă, expunând lucrări de Matisse, Signac și alți maeștri moderni.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        6.637123,
+                        43.271079
+                  ]
+            },
+            {
+                  "name": "Biserica Notre-Dame-de-l'Assomption",
+                  "text": "Biserica barocă în culori de ocru și siena este simbolul iconic al orașului cu turnul său de clopotniță.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        6.640127,
+                        43.272855
+                  ]
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "O piață fermecătoare umbrită de platani, unde localnicii joacă petanque și au loc piețe săptămânale.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        6.641139,
+                        43.27
+                  ]
+            },
+            {
+                  "name": "Plaja Pampelonne",
+                  "text": "Situată lângă Saint Tropez, faimoasa Plage de Pampelonne prezintă o pânză uimitoare de nisip fin și alură mediteraneană. Atmosfera este excepțional de exclusivistă și vibrantă, atrăgând o mulțime internațională la renumitele sale cluburi de plajă. Oaspeții se pot aștepta la o zi luxoasă de plajă, socializare și înot în frumoasele ape de coastă. O rezervare din timp este foarte recomandată dacă doriți să vă bucurați de facilitățile premium ale clubului.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        6.648086,
+                        43.235772
+                  ]
+            },
+            {
+                  "name": "Capela Sainte-Anne",
+                  "text": "O chapelă simplă situată pe o colină, oferind liniște și o priveliște superbă asupra mării.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        6.640347,
+                        43.257488
+                  ]
+            },
+            {
+                  "name": "La piscine en terrasse",
+                  "text": "Această piscină pe terasă din Saint Tropez oferă înot cu vedere, fiind potrivită pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        6.658406,
+                        43.253941
+                  ]
+            },
+            {
+                  "name": "Piscine Odalys Les jardins d'Artémis",
+                  "text": "Această piscină din Saint Tropez face parte dintr-o zonă de vacanță concepută pentru recreerea în familie.",
+                  "category": "family",
+                  "coords": [
+                        6.621601,
+                        43.262278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Citadel of Saint-Tropez",
+                  "text": "A 17th-century fortress featuring a maritime museum and stunning views of the Mediterranean gulf.",
+                  "category": "fortress",
+                  "confidence": "high",
+                  "coords": [
+                        6.64458,
+                        43.2722
+                  ]
+            },
+            {
+                  "name": "Port of Saint-Tropez",
+                  "text": "The heart of the town, famous for its luxury yachts, vibrant cafes, and painter-filled promenade.",
+                  "category": "recreational",
+                  "confidence": "high",
+                  "coords": [
+                        6.63911,
+                        43.27177
+                  ]
+            },
+            {
+                  "name": "Annonciade Museum",
+                  "text": "Housed in a former chapel, this museum displays an exceptional collection of modern art masterpieces.",
+                  "category": "museum",
+                  "confidence": "high",
+                  "coords": [
+                        6.637123,
+                        43.271079
+                  ]
+            },
+            {
+                  "name": "Church of Notre-Dame-de-l'Assomption",
+                  "text": "The town's colorful parish church, easily recognized by its bright ochre and sienna bell tower.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        6.640127,
+                        43.272855
+                  ]
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "A lively central square where locals play boules under centenarian plane trees during market days.",
+                  "category": "civic",
+                  "confidence": "high",
+                  "coords": [
+                        6.641139,
+                        43.27
+                  ]
+            },
+            {
+                  "name": "Pampelonne Beach",
+                  "text": "Situated near Saint Tropez, the world-famous Plage de Pampelonne presents a stunning canvas of fine sand and Mediterranean allure. The vibe is exceptionally exclusive and vibrant, drawing an international crowd to its renowned beach clubs. Guests can expect a luxurious day of sunbathing, socializing, and swimming in the beautiful coastal waters. Making reservations ahead of time is highly advisable if you wish to enjoy the premium club amenities.",
+                  "category": "natural",
+                  "confidence": "high",
+                  "coords": [
+                        6.648086,
+                        43.235772
+                  ]
+            },
+            {
+                  "name": "Sainte-Anne Chapel",
+                  "text": "A quiet chapel built in 1618 on a hilltop, offering a panoramic viewpoint over the town and bay.",
+                  "category": "religious",
+                  "confidence": "high",
+                  "coords": [
+                        6.640347,
+                        43.257488
+                  ]
+            },
+            {
+                  "name": "La piscine en terrasse",
+                  "text": "This terrace pool in Saint Tropez offers swimming with a view, suitable for families.",
+                  "category": "family",
+                  "coords": [
+                        6.658406,
+                        43.253941
+                  ]
+            },
+            {
+                  "name": "Piscine Odalys Les jardins d'Artémis",
+                  "text": "This swimming pool in Saint Tropez is part of a resort area designed for family recreation.",
+                  "category": "family",
+                  "coords": [
+                        6.621601,
+                        43.262278
+                  ]
+            }
+      ],
+      "fr": [
+            {
+                  "name": "Citadelle de Saint-Tropez",
+                  "text": "Cette forteresse du XVIIe siècle offre une vue imprenable sur la baie et abrite un musée maritime.",
+                  "category": "fortress",
+                  "coords": [
+                        6.64458,
+                        43.2722
+                  ]
+            },
+            {
+                  "name": "Port de Saint-Tropez",
+                  "text": "Le célèbre port de plaisance est l'endroit idéal pour admirer des yachts luxueux et profiter de l'animation.",
+                  "category": "recreational",
+                  "coords": [
+                        6.63911,
+                        43.27177
+                  ]
+            },
+            {
+                  "name": "Musée de l'Annonciade",
+                  "text": "Ce musée d'art installé dans une ancienne chapelle présente des œuvres de peintres modernes comme Matisse et Signac.",
+                  "category": "museum",
+                  "coords": [
+                        6.637123,
+                        43.271079
+                  ]
+            },
+            {
+                  "name": "Église Notre-Dame-de-l'Assomption",
+                  "text": "Avec son clocher caractéristique, cette église aux tons ocre et sienne est l'emblème de la ville.",
+                  "category": "religious",
+                  "coords": [
+                        6.640127,
+                        43.272855
+                  ]
+            },
+            {
+                  "name": "Place des Lices",
+                  "text": "Une charmante place sous les platanes où les locaux jouent à la pétanque et où se tiennent des marchés réguliers.",
+                  "category": "civic",
+                  "coords": [
+                        6.641139,
+                        43.27
+                  ]
+            },
+            {
+                  "name": "Plage de Pampelonne",
+                  "text": "Située près de Saint-Tropez, la célèbre Plage de Pampelonne offre une toile époustouflante de sable fin et d'allure méditerranéenne. L'ambiance y est exceptionnellement exclusive et vibrante, attirant une foule internationale dans ses clubs de plage renommés. Les clients peuvent s'attendre à une journée luxueuse de bronzage, de rencontres et de baignades dans les magnifiques eaux côtières. Il est fortement conseillé de réserver à l'avance si vous souhaitez profiter des installations haut de gamme des clubs.",
+                  "category": "natural",
+                  "coords": [
+                        6.648086,
+                        43.235772
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Anne",
+                  "text": "Une chapelle simple perchée sur une colline, offrant calme et une vue panoramique sur la mer.",
+                  "category": "religious",
+                  "coords": [
+                        6.640347,
+                        43.257488
+                  ]
+            }
+      ]
+}
   },
   {
     id: "fr-le-mans",
@@ -19103,15 +16463,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin extérieur de la piscine municipale",
-                  "text": "Dieses Außenbecken des städtischen Schwimmbads befindet sich in Le Mans.",
-                  "category": "family",
-                  "coords": [
-                        0.205961,
-                        48.026151
-                  ]
-            },
-            {
                   "name": "Papéa Parc",
                   "text": "Der Papéa Parc ist ein Freizeitpark in Le Mans. Ein aufregendes Erlebnis für Familien mit Kindern.",
                   "category": "family",
@@ -19199,15 +16550,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         0.225798,
                         47.988149
-                  ]
-            },
-            {
-                  "name": "Bassin extérieur de la piscine municipale",
-                  "text": "A városi uszoda szabadtéri medencéje Le Mans-ban található.",
-                  "category": "family",
-                  "coords": [
-                        0.205961,
-                        48.026151
                   ]
             },
             {
@@ -19301,15 +16643,6 @@ export const franceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin extérieur de la piscine municipale",
-                  "text": "Această piscină în aer liber a piscinei municipale se află în Le Mans.",
-                  "category": "family",
-                  "coords": [
-                        0.205961,
-                        48.026151
-                  ]
-            },
-            {
                   "name": "Papéa Parc",
                   "text": "Papéa Parc este un parc tematic în Le Mans. O experiență interesantă pentru familiile cu copii.",
                   "category": "family",
@@ -19397,15 +16730,6 @@ export const franceCities: POI[] = [
                   "coords": [
                         0.225798,
                         47.988149
-                  ]
-            },
-            {
-                  "name": "Bassin extérieur de la piscine municipale",
-                  "text": "This outdoor pool of the municipal swimming pool is located in Le Mans.",
-                  "category": "family",
-                  "coords": [
-                        0.205961,
-                        48.026151
                   ]
             },
             {

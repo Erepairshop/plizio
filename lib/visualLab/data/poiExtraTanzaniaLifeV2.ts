@@ -1680,24 +1680,6 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
     id: "shinyanga-acker-life-v2", "sights": {
       "de": [
             {
-                  "name": "Mazingira centre",
-                  "text": "Eine Attraktion, die sich auf Umwelt- und Gemeinschaftsthemen in Shinyanga konzentriert.",
-                  "category": "landmark",
-                  "coords": [
-                        33.426101,
-                        -3.668138
-                  ]
-            },
-            {
-                  "name": "Ibinzamata Fishi point",
-                  "text": "Eine mit dem Fischfang verbundene Attraktion und ein lokaler Treffpunkt in Shinyanga.",
-                  "category": "landmark",
-                  "coords": [
-                        33.426625,
-                        -3.676248
-                  ]
-            },
-            {
                   "name": "Boys hostel of Buhangija Secondary School",
                   "text": "Ein Studentenwohnheim, das zur weiterführenden Schule in Shinyanga gehört.",
                   "category": "landmark",
@@ -1708,24 +1690,6 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mazingira centre",
-                  "text": "A környezetvédelmi és közösségi témákra összpontosító látványosság Shinyangában.",
-                  "category": "landmark",
-                  "coords": [
-                        33.426101,
-                        -3.668138
-                  ]
-            },
-            {
-                  "name": "Ibinzamata Fishi point",
-                  "text": "Halászattal kapcsolatos látványosság és helyi gyülekezőhely Shinyangában.",
-                  "category": "landmark",
-                  "coords": [
-                        33.426625,
-                        -3.676248
-                  ]
-            },
             {
                   "name": "Boys hostel of Buhangija Secondary School",
                   "text": "A shinyangai középiskolához tartozó diákszálló épülete.",
@@ -1738,24 +1702,6 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mazingira centre",
-                  "text": "O atracție axată pe teme de mediu și comunitare în Shinyanga.",
-                  "category": "landmark",
-                  "coords": [
-                        33.426101,
-                        -3.668138
-                  ]
-            },
-            {
-                  "name": "Ibinzamata Fishi point",
-                  "text": "O atracție legată de pescuit și un loc de adunare local în Shinyanga.",
-                  "category": "landmark",
-                  "coords": [
-                        33.426625,
-                        -3.676248
-                  ]
-            },
-            {
                   "name": "Boys hostel of Buhangija Secondary School",
                   "text": "O clădire de cazare pentru elevi care deservește școala gimnazială din Shinyanga.",
                   "category": "landmark",
@@ -1766,24 +1712,6 @@ export const poiExtraTanzaniaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mazingira centre",
-                  "text": "An attraction focusing on environmental and community themes in Shinyanga.",
-                  "category": "landmark",
-                  "coords": [
-                        33.426101,
-                        -3.668138
-                  ]
-            },
-            {
-                  "name": "Ibinzamata Fishi point",
-                  "text": "A fishing-related attraction and local gathering spot in Shinyanga.",
-                  "category": "landmark",
-                  "coords": [
-                        33.426625,
-                        -3.676248
-                  ]
-            },
             {
                   "name": "Boys hostel of Buhangija Secondary School",
                   "text": "A student accommodation building serving the secondary school in Shinyanga.",

@@ -511,15 +511,6 @@ export const belarusLandmarksV2: POI[] = [
     id: "belarus-ruzhany-palace-ruins-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Palatsavy kompleks kniaziou Sapegau",
-                  "text": "Die Ruinen einer prächtigen Residenz der Familie Sapieha, einst ein bedeutendes politisches Zentrum.",
-                  "category": "castle",
-                  "coords": [
-                        24.895943,
-                        52.86066
-                  ]
-            },
-            {
                   "name": "Zalaty fazan",
                   "text": "Goldfasanen-Gehege in der Nähe der Ruzhany-Palastruinen.",
                   "category": "recreational",
@@ -530,15 +521,6 @@ export const belarusLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Palatsavy kompleks kniaziou Sapegau",
-                  "text": "A Sapieha család pompás rezidenciájának romjai, amely egykor jelentős politikai központ volt.",
-                  "category": "castle",
-                  "coords": [
-                        24.895943,
-                        52.86066
-                  ]
-            },
             {
                   "name": "Zalaty fazan",
                   "text": "Aranyfácános kifutó a Ruzsanyi palota romjai közelében.",
@@ -551,15 +533,6 @@ export const belarusLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Palatsavy kompleks kniaziou Sapegau",
-                  "text": "Ruinele unei reședințe magnifice a familiei Sapieha, odinioară un important centru politic.",
-                  "category": "castle",
-                  "coords": [
-                        24.895943,
-                        52.86066
-                  ]
-            },
-            {
                   "name": "Zalaty fazan",
                   "text": "Incintă cu fazani aurii lângă ruinele Palatului Ruzhany.",
                   "category": "recreational",
@@ -570,15 +543,6 @@ export const belarusLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Sapiehas palace ensemble",
-                  "text": "The ruins of a magnificent residence of the Sapieha family, once a major political center.",
-                  "category": "castle",
-                  "coords": [
-                        24.895943,
-                        52.86066
-                  ]
-            },
             {
                   "name": "Zalaty fazan",
                   "text": "Golden pheasant enclosure near the Ruzhany Palace ruins.",
@@ -1091,122 +1055,10 @@ export const belarusLandmarksV2: POI[] = [
   },
   {
     id: "belarus-halshany-castle-ruins-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gal'shanski zamak Sapegau",
-                  "text": "Die Ruinen eines befestigten Schlosses aus dem 17. Jahrhundert, einst Sitz der Familie Sapieha.",
-                  "category": "castle",
-                  "coords": [
-                        26.020329,
-                        54.251399
-                  ]
-            },
-            {
-                  "name": "XIX",
-                  "text": "Historische Arkadengänge aus dem 19. Jahrhundert im Zentrum von Halshany.",
-                  "category": "landmark",
-                  "coords": [
-                        26.01106,
-                        54.257422
-                  ]
-            },
-            {
-                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
-                  "text": "Eine bedeutende Barockkirche und ein ehemaliges Franziskanerkloster in Halshany.",
-                  "category": "religious",
-                  "coords": [
-                        26.009987,
-                        54.25687
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gal'shanski zamak Sapegau",
-                  "text": "Egy 17. századi erődített kastély romjai, amely egykor a Sapieha család székhelye volt.",
-                  "category": "castle",
-                  "coords": [
-                        26.020329,
-                        54.251399
-                  ]
-            },
-            {
-                  "name": "XIX",
-                  "text": "19. századi történelmi árkádsor Halshany központjában.",
-                  "category": "landmark",
-                  "coords": [
-                        26.01106,
-                        54.257422
-                  ]
-            },
-            {
-                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
-                  "text": "Jelentős barokk templom és egykori ferences kolostor Halshanyban.",
-                  "category": "religious",
-                  "coords": [
-                        26.009987,
-                        54.25687
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gal'shanski zamak Sapegau",
-                  "text": "Ruinele unui castel fortificat din secolul al XVII-lea, fostă reședință a familiei Sapieha.",
-                  "category": "castle",
-                  "coords": [
-                        26.020329,
-                        54.251399
-                  ]
-            },
-            {
-                  "name": "XIX",
-                  "text": "Arcade comerciale istorice din secolul al XIX-lea în centrul localității Halshany.",
-                  "category": "landmark",
-                  "coords": [
-                        26.01106,
-                        54.257422
-                  ]
-            },
-            {
-                  "name": "Kastsiol Sviatoga Iana Khrystsitselia",
-                  "text": "O biserică barocă importantă și o fostă mănăstire franciscană din Halshany.",
-                  "category": "religious",
-                  "coords": [
-                        26.009987,
-                        54.25687
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Halshany Sapieha Castle",
-                  "text": "The ruins of a 17th-century fortified castle, once the residence of the Sapieha family.",
-                  "category": "castle",
-                  "coords": [
-                        26.020329,
-                        54.251399
-                  ]
-            },
-            {
-                  "name": "Shopping arcade (XIX)",
-                  "text": "Historic 19th-century shopping arcades located in the center of Halshany.",
-                  "category": "landmark",
-                  "coords": [
-                        26.01106,
-                        54.257422
-                  ]
-            },
-            {
-                  "name": "St. John the Baptist Catholic Church",
-                  "text": "A significant Baroque church and a former Franciscan monastery in Halshany.",
-                  "category": "religious",
-                  "coords": [
-                        26.009987,
-                        54.25687
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "BY",
     type: "ruins",

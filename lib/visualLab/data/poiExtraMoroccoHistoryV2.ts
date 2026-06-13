@@ -3126,15 +3126,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
     id: "ma-lixus-ruins-history-v2", "sights": {
       "de": [
             {
-                  "name": "Fischhalle",
-                  "text": "Diese ehemalige Fischhalle ist eine markante Attraktion in der Nähe der Ruinen von Lixus.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.14353,
-                        35.19716
-                  ]
-            },
-            {
                   "name": "Lixus",
                   "text": "Diese antike archäologische Stätte zeugt von der reichen Geschichte der phönizischen und römischen Besiedlung.",
                   "category": "historical",
@@ -3160,36 +3151,9 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                         -6.111162,
                         35.196911
                   ]
-            },
-            {
-                  "name": "Tour de la cigogne",
-                  "text": "Diese als Storchenturm bekannte Burgruine prägt das historische Landschaftsbild nahe Lixus.",
-                  "category": "castle",
-                  "coords": [
-                        -6.149691,
-                        35.195312
-                  ]
-            },
-            {
-                  "name": "Bordj Essadien KBIBATE",
-                  "text": "Diese historische Festungsanlage aus der Saadier-Dynastie befindet sich in der Umgebung von Lixus.",
-                  "category": "castle",
-                  "coords": [
-                        -6.152719,
-                        35.199401
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Fischhalle",
-                  "text": "Ez az egykori halcsarnok egy feltűnő látványosság Lixus romjainak közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.14353,
-                        35.19716
-                  ]
-            },
             {
                   "name": "Lixus",
                   "text": "Ez az ősi régészeti lelőhely a föníciai és római település gazdag történetéről tanúskodik.",
@@ -3216,36 +3180,9 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                         -6.111162,
                         35.196911
                   ]
-            },
-            {
-                  "name": "Tour de la cigogne",
-                  "text": "Ez a gólyatoronyként is ismert várrom meghatározza a Lixus melletti történelmi tájképet.",
-                  "category": "castle",
-                  "coords": [
-                        -6.149691,
-                        35.195312
-                  ]
-            },
-            {
-                  "name": "Bordj Essadien KBIBATE",
-                  "text": "Ez a Szaadida-dinasztia korából származó történelmi erődítmény Lixus környékén található.",
-                  "category": "castle",
-                  "coords": [
-                        -6.152719,
-                        35.199401
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Fischhalle",
-                  "text": "Această fostă hală de pește este o atracție marcantă în apropierea ruinelor de la Lixus.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.14353,
-                        35.19716
-                  ]
-            },
             {
                   "name": "Lixus",
                   "text": "Acest sit arheologic antic mărturisește istoria bogată a așezărilor feniciene și romane.",
@@ -3272,36 +3209,9 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                         -6.111162,
                         35.196911
                   ]
-            },
-            {
-                  "name": "Tour de la cigogne",
-                  "text": "Această ruină de castel, cunoscută sub numele de turnul berzelor, domină peisajul istoric din apropiere de Lixus.",
-                  "category": "castle",
-                  "coords": [
-                        -6.149691,
-                        35.195312
-                  ]
-            },
-            {
-                  "name": "Bordj Essadien KBIBATE",
-                  "text": "Această fortăreață istorică din perioada dinastiei saadiene este situată în împrejurimile orașului Lixus.",
-                  "category": "castle",
-                  "coords": [
-                        -6.152719,
-                        35.199401
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Fischhalle",
-                  "text": "This former fish hall is a prominent attraction near the ruins of Lixus.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.14353,
-                        35.19716
-                  ]
-            },
             {
                   "name": "Lixus",
                   "text": "This ancient archaeological site testifies to the rich history of Phoenician and Roman settlement.",
@@ -3327,24 +3237,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   "coords": [
                         -6.111162,
                         35.196911
-                  ]
-            },
-            {
-                  "name": "Tour de la cigogne",
-                  "text": "This castle ruin, known as the stork tower, shapes the historic landscape near Lixus.",
-                  "category": "castle",
-                  "coords": [
-                        -6.149691,
-                        35.195312
-                  ]
-            },
-            {
-                  "name": "Bordj Essadien KBIBATE",
-                  "text": "This historic fortress from the Saadian dynasty is located in the vicinity of Lixus.",
-                  "category": "castle",
-                  "coords": [
-                        -6.152719,
-                        35.199401
                   ]
             }
       ]
@@ -4441,42 +4333,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                         -5.554013,
                         33.887303
                   ]
-            },
-            {
-                  "name": "Bab bouamair",
-                  "text": "Ein traditionelles monumentales Tor, das sorgfältig in die massiven historischen Mauern der Kaiserstadt integriert ist.",
-                  "category": "historical",
-                  "coords": [
-                        -5.557717,
-                        33.894152
-                  ]
-            },
-            {
-                  "name": "Theatre El Menouni",
-                  "text": "Ein lokaler Veranstaltungsort für darstellende Künste, der regionale Kulturveranstaltungen und Theaterproduktionen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.549936,
-                        33.894017
-                  ]
-            },
-            {
-                  "name": "Michel Joubert Cultural Center",
-                  "text": "Ein modernes Kunstzentrum, das zeitgenössischen Ausstellungen und dem kulturellen Austausch in der Stadt gewidmet ist.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.547503,
-                        33.901142
-                  ]
-            },
-            {
-                  "name": "Conservatoire de musique",
-                  "text": "Eine regionale Institution, die sich der musikalischen Ausbildung und der Inszenierung künstlerischer Darbietungen widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.547492,
-                        33.899412
-                  ]
             }
       ],
       "hu": [
@@ -4487,42 +4343,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   "coords": [
                         -5.554013,
                         33.887303
-                  ]
-            },
-            {
-                  "name": "Bab bouamair",
-                  "text": "A császárváros masszív történelmi falaiba gondosan beépített hagyományos monumentális kapu.",
-                  "category": "historical",
-                  "coords": [
-                        -5.557717,
-                        33.894152
-                  ]
-            },
-            {
-                  "name": "Theatre El Menouni",
-                  "text": "Egy helyi előadó-művészeti helyszín, amely regionális kulturális eseményeknek és színházi produkcióknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.549936,
-                        33.894017
-                  ]
-            },
-            {
-                  "name": "Michel Joubert Cultural Center",
-                  "text": "Egy modern művészeti központ, amelyet kortárs kiállításoknak és a városon belüli kulturális cserének szenteltek.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.547503,
-                        33.901142
-                  ]
-            },
-            {
-                  "name": "Conservatoire de musique",
-                  "text": "Egy dedikált regionális intézmény, amely fókuszált zenei oktatást és művészeti előadásokat szervez.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.547492,
-                        33.899412
                   ]
             }
       ],
@@ -4535,42 +4355,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                         -5.554013,
                         33.887303
                   ]
-            },
-            {
-                  "name": "Bab bouamair",
-                  "text": "O poartă monumentală tradițională integrată cu grijă în zidurile istorice masive ale orașului imperial.",
-                  "category": "historical",
-                  "coords": [
-                        -5.557717,
-                        33.894152
-                  ]
-            },
-            {
-                  "name": "Theatre El Menouni",
-                  "text": "Un loc local de artele spectacolului care găzduiește evenimente culturale regionale și producții de teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.549936,
-                        33.894017
-                  ]
-            },
-            {
-                  "name": "Michel Joubert Cultural Center",
-                  "text": "Un centru de artă modernă dedicat expozițiilor contemporane și schimburilor culturale din cadrul orașului.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.547503,
-                        33.901142
-                  ]
-            },
-            {
-                  "name": "Conservatoire de musique",
-                  "text": "O instituție regională dedicată care oferă educație muzicală concentrată și pune în scenă spectacole artistice.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.547492,
-                        33.899412
-                  ]
             }
       ],
       "en": [
@@ -4581,42 +4365,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   "coords": [
                         -5.554013,
                         33.887303
-                  ]
-            },
-            {
-                  "name": "Bab bouamair",
-                  "text": "A traditional monumental gate carefully integrated into the massive historic walls of the imperial city.",
-                  "category": "historical",
-                  "coords": [
-                        -5.557717,
-                        33.894152
-                  ]
-            },
-            {
-                  "name": "Theatre El Menouni",
-                  "text": "A local performing arts venue hosting regional cultural events and theatrical productions.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.549936,
-                        33.894017
-                  ]
-            },
-            {
-                  "name": "Michel Joubert Cultural Center",
-                  "text": "A modern arts center dedicated to contemporary exhibitions and cultural exchange within the city.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.547503,
-                        33.901142
-                  ]
-            },
-            {
-                  "name": "Conservatoire de musique",
-                  "text": "A dedicated regional institution providing focused music education and staging artistic performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.547492,
-                        33.899412
                   ]
             }
       ]
@@ -5052,24 +4800,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Concerie",
-                  "text": "Dieser Aussichtspunkt überblickt die traditionellen Lederwerkstätten und bietet einen weiten Blick auf die Farbbottiche und die geschäftigen Gerber.",
-                  "category": "natural",
-                  "coords": [
-                        -7.98046,
-                        31.633405
-                  ]
-            },
-            {
-                  "name": "Gerberei-Viertel",
-                  "text": "In diesen Freiluftwerkstätten werden Tierhäute nach jahrhundertealten Methoden mit natürlichen Materialien in irdenen Bottichen behandelt und gefärbt.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.978875,
-                        31.633714
-                  ]
-            },
-            {
                   "name": "Musée de la Palmeraie",
                   "text": "In einer üppigen Palmenoase gelegen, stellt dieses Museum für zeitgenössische Kunst moderne marokkanische Werke inmitten weitläufiger Landschaftsgärten aus.",
                   "category": "museum",
@@ -5195,24 +4925,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   "coords": [
                         -7.984367,
                         31.631986
-                  ]
-            },
-            {
-                  "name": "Concerie",
-                  "text": "A hagyományos bőrműhelyekre néző kilátópontról széles panoráma nyílik a festőkádakra és a nyüzsgő tímárokra.",
-                  "category": "natural",
-                  "coords": [
-                        -7.98046,
-                        31.633405
-                  ]
-            },
-            {
-                  "name": "Quartier des tanneurs",
-                  "text": "A több évszázados módszereket folytató szabadtéri műhelyekben természetes anyagokat használnak az állatbőrök cserépkádakban történő kezelésére és festésére.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.978875,
-                        31.633714
                   ]
             },
             {
@@ -5344,24 +5056,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Concerie",
-                  "text": "Oferind o vedere de sus asupra atelierelor tradiționale de pielărie, acest punct de belvedere prezintă o perspectivă largă asupra cuvelor de vopsire și a tăbăcarilor aglomerați.",
-                  "category": "natural",
-                  "coords": [
-                        -7.98046,
-                        31.633405
-                  ]
-            },
-            {
-                  "name": "Quartier des tanneurs",
-                  "text": "Continuând metode vechi de secole, aceste ateliere în aer liber folosesc materiale naturale pentru a trata și vopsi pieile de animale în cuve de pământ.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.978875,
-                        31.633714
-                  ]
-            },
-            {
                   "name": "Musée de la Palmeraie",
                   "text": "Situat într-o oază luxuriantă de palmieri, acest muzeu de artă contemporană expune lucrări moderne marocane în mijlocul unor grădini amenajate extinse.",
                   "category": "museum",
@@ -5487,24 +5181,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   "coords": [
                         -7.984367,
                         31.631986
-                  ]
-            },
-            {
-                  "name": "Concerie",
-                  "text": "Overlooking the traditional leather workshops, this viewpoint offers a sweeping perspective of the dye vats and bustling tanners.",
-                  "category": "natural",
-                  "coords": [
-                        -7.98046,
-                        31.633405
-                  ]
-            },
-            {
-                  "name": "The Tanneries of Marrakech",
-                  "text": "Continuing centuries-old methods, these open-air workshops use natural materials to treat and dye animal hides in earthen vats.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.978875,
-                        31.633714
                   ]
             },
             {
@@ -5658,15 +5334,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jojo Land",
-                  "text": "Ein Freizeitpark mit Fahrgeschäften und Unterhaltung für die ganze Familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.858771,
-                        35.773481
-                  ]
-            },
-            {
                   "name": "Kasbah de Ghaïlan",
                   "text": "Die Ruinen einer historischen Festungsanlage mit Blick auf die Küstenlandschaft.",
                   "category": "historical",
@@ -5810,15 +5477,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   "coords": [
                         -5.810702,
                         35.782005
-                  ]
-            },
-            {
-                  "name": "Jojo Land",
-                  "text": "Vidámpark szórakoztató attrakciókkal és családi programokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.858771,
-                        35.773481
                   ]
             },
             {
@@ -5968,15 +5626,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jojo Land",
-                  "text": "Un parc de distracții care oferă atracții recreative și divertisment pentru familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.858771,
-                        35.773481
-                  ]
-            },
-            {
                   "name": "Kasbah de Ghaïlan",
                   "text": "Ruinele unui complex de fortărețe istorice cu vedere la peisajul de coastă.",
                   "category": "historical",
@@ -6123,15 +5772,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jojo Land",
-                  "text": "An amusement park offering recreational rides and family entertainment.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.858771,
-                        35.773481
-                  ]
-            },
-            {
                   "name": "Kasbah de Ghaïlan",
                   "text": "The ruins of a historic fortress complex overlooking the coastal landscape.",
                   "category": "historical",
@@ -6183,15 +5823,6 @@ export const poiExtraMoroccoHistoryV2: POI[] = [
                   "coords": [
                         -5.817875,
                         35.781751
-                  ]
-            },
-            {
-                  "name": "Grand Mosque of Tangier",
-                  "text": "A large historic mosque built on the site of a former Roman temple and Portuguese cathedral.",
-                  "category": "religious",
-                  "coords": [
-                        -5.82357,
-                        35.766109
                   ]
             }
       ]

@@ -7827,15 +7827,6 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
     id: "tash-khauli-palace-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Tabiat muzeyi",
-                  "text": "Ein Museum in Chiwa, das die regionale Flora und Fauna der Oase Choresm präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        60.361095,
-                        41.377376
-                  ]
-            },
-            {
                   "name": "Sayid Sholikorboy minorasi",
                   "text": "Ein historisches Minarett in Chiwa mit traditionellem Ziegelmauerwerk und verjüngter Silhouette.",
                   "category": "historical",
@@ -7863,30 +7854,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagcha Darvoza",
-                  "text": "Das befestigte Nordtor der zum UNESCO-Welterbe gehörenden Altstadt Itchan Kala.",
-                  "category": "landmark",
-                  "coords": [
-                        60.36124,
-                        41.381684
-                  ]
-            },
-            {
                   "name": "Kuranty",
                   "text": "Ein markanter historischer Uhrenturm mit traditioneller Fassade und mechanischem Glockenspiel.",
                   "category": "landmark",
                   "coords": [
                         60.362879,
                         41.387112
-                  ]
-            },
-            {
-                  "name": "Kosh Darvaza",
-                  "text": "Ein historisches „Doppeltor“ in Chiwa, das einen Zugang durch die äußeren Befestigungen markiert.",
-                  "category": "historical",
-                  "coords": [
-                        60.362885,
-                        41.384904
                   ]
             },
             {
@@ -7946,15 +7919,6 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Tabiat muzeyi",
-                  "text": "Híva múzeuma, amely a Horezm-oázis regionális növény- és állatvilágát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        60.361095,
-                        41.377376
-                  ]
-            },
-            {
                   "name": "Sayid Sholikorboy minorasi",
                   "text": "Történelmi minaret Hívában, hagyományos mintás téglafallal és elvékonyodó sziluettel.",
                   "category": "historical",
@@ -7982,30 +7946,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagcha Darvoza",
-                  "text": "Itchan Kala fallal körülvett városának erődített északi kapuja az UNESCO-listáról.",
-                  "category": "landmark",
-                  "coords": [
-                        60.36124,
-                        41.381684
-                  ]
-            },
-            {
                   "name": "Kuranty",
                   "text": "Jellegzetes történelmi óratorony hagyományos homlokzattal és mechanikus harangjátékkal.",
                   "category": "landmark",
                   "coords": [
                         60.362879,
                         41.387112
-                  ]
-            },
-            {
-                  "name": "Kosh Darvaza",
-                  "text": "Híva történelmi „kettős kapuja”, amely a város külső erődítményein keresztüli bejáratot jelzi.",
-                  "category": "historical",
-                  "coords": [
-                        60.362885,
-                        41.384904
                   ]
             },
             {
@@ -8065,15 +8011,6 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tabiat muzeyi",
-                  "text": "Un muzeu din Hiva care prezintă flora și fauna regională a oazei Khorezm.",
-                  "category": "museum",
-                  "coords": [
-                        60.361095,
-                        41.377376
-                  ]
-            },
-            {
                   "name": "Sayid Sholikorboy minorasi",
                   "text": "Un minaret istoric din Hiva, cu zidărie tradițională cu modele și o siluetă conică.",
                   "category": "historical",
@@ -8101,30 +8038,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagcha Darvoza",
-                  "text": "Poarta de intrare nordică fortificată a orașului Itchan Kala, inclus în patrimoniul UNESCO.",
-                  "category": "landmark",
-                  "coords": [
-                        60.36124,
-                        41.381684
-                  ]
-            },
-            {
                   "name": "Kuranty",
                   "text": "Un turn cu ceas istoric proeminent, cu o fațadă tradițională și clopote mecanice.",
                   "category": "landmark",
                   "coords": [
                         60.362879,
                         41.387112
-                  ]
-            },
-            {
-                  "name": "Kosh Darvaza",
-                  "text": "O „poartă dublă” istorică din Hiva, marcând o intrare prin fortificațiile exterioare ale orașului.",
-                  "category": "historical",
-                  "coords": [
-                        60.362885,
-                        41.384904
                   ]
             },
             {
@@ -8184,15 +8103,6 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Nature Museum",
-                  "text": "A museum in Khiva showcasing the regional flora and fauna of the Khorezm oasis.",
-                  "category": "museum",
-                  "coords": [
-                        60.361095,
-                        41.377376
-                  ]
-            },
-            {
                   "name": "Said Niyoz Sholikorboy Minaret",
                   "text": "A historic minaret in Khiva featuring traditional patterned brickwork and a tapered silhouette.",
                   "category": "historical",
@@ -8220,30 +8130,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagcha Darvoza (North Gatel",
-                  "text": "The fortified northern entrance gate to the UNESCO-listed Itchan Kala walled city.",
-                  "category": "landmark",
-                  "coords": [
-                        60.36124,
-                        41.381684
-                  ]
-            },
-            {
                   "name": "Kuranty",
                   "text": "A prominent historic clock tower featuring a traditional facade and mechanical chimes.",
                   "category": "landmark",
                   "coords": [
                         60.362879,
                         41.387112
-                  ]
-            },
-            {
-                  "name": "Kosh Darvaza",
-                  "text": "A historic \"double gate\" of Khiva, marking an entrance through the city's outer fortifications.",
-                  "category": "historical",
-                  "coords": [
-                        60.362885,
-                        41.384904
                   ]
             },
             {
@@ -8349,15 +8241,6 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi",
-                  "text": "Ein 2002 eröffnetes Literaturmuseum in Nukus, das der Geschichte der karakalpakischen Dichtung gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        59.625262,
-                        42.451664
-                  ]
-            },
-            {
                   "name": "Igor-Savitsky-Museum",
                   "text": "Bekannt als „Louvre der Steppe“, beherbergt es eine weltberühmte Sammlung verbotener sowjetischer Avantgarde-Kunst.",
                   "category": "museum",
@@ -8412,39 +8295,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı",
-                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst und Skulpturen lokaler karakalpakischer Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        59.611688,
-                        42.453478
-                  ]
-            },
-            {
                   "name": "Russkii muzei pri Russkom kul'turnom tsentre",
                   "text": "Ein kulturelles Zentrum in Nukus, das sich der Bewahrung und Präsentation russischer Kunst und Traditionen widmet.",
                   "category": "museum",
                   "coords": [
                         59.611538,
                         42.457701
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi",
-                  "text": "Das 1987 eröffnete Museum ehrt militärische Leistungen und die industrielle Arbeit der Sowjetära.",
-                  "category": "museum",
-                  "coords": [
-                        59.613163,
-                        42.45747
-                  ]
-            },
-            {
-                  "name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi",
-                  "text": "Ein wichtiges Gedenkmuseum, das den Opfern politischer Repressionen in Karakalpakstan gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        59.627062,
-                        42.452111
                   ]
             },
             {
@@ -8475,48 +8331,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amfiteatr",
-                  "text": "Ein großes Freilufttheater in Nukus, das für Konzerte und öffentliche Feierlichkeiten genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        59.611644,
-                        42.4398
-                  ]
-            },
-            {
-                  "name": "Universitet amfiteatrı",
-                  "text": "Das Amphitheater der staatlichen Universität, ein zentraler Ort für studentische Kulturveranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        59.629359,
-                        42.452754
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaq mámleketlik quwırshaq teatrı",
-                  "text": "Ein spezialisiertes Puppentheater in Nukus, das Märchenaufführungen für Kinder anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        59.631738,
-                        42.445886
-                  ]
-            },
-            {
                   "name": "Jazǵı kinoteatr",
                   "text": "Ein traditionelles Sommerkino in Nukus für Filmvorführungen unter freiem Abendhimmel.",
                   "category": "cultural",
                   "coords": [
                         59.656451,
                         42.46916
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaqstan kórkem óner sarayı",
-                  "text": "Ein prachtvoller Nukuser Veranstaltungsort für große Konzerte und nationale Theaterproduktionen.",
-                  "category": "cultural",
-                  "coords": [
-                        59.618061,
-                        42.467573
                   ]
             },
             {
@@ -8666,15 +8486,6 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi",
-                  "text": "2002-ben megnyílt irodalmi múzeum Nukusban, amely a karakalpak költészet történetének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        59.625262,
-                        42.451664
-                  ]
-            },
-            {
                   "name": "I.V. Savitskiy atındaģı Qaraqalpaqstan kórkem-óner muzeyi",
                   "text": "A „sztyeppe Louvre-jaként” ismert múzeum a tiltott szovjet avantgárd művészet világhírű gyűjteményének ad otthont.",
                   "category": "museum",
@@ -8729,39 +8540,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı",
-                  "text": "Kiállítótér a helyi karakalpak művészek kortárs alkotásai és szobrai számára.",
-                  "category": "museum",
-                  "coords": [
-                        59.611688,
-                        42.453478
-                  ]
-            },
-            {
                   "name": "Russkii muzei pri Russkom kul'turnom tsentre",
                   "text": "Nukusi kulturális központ, amely az orosz művészet és hagyományok megőrzésének és bemutatásának szentelt.",
                   "category": "museum",
                   "coords": [
                         59.611538,
                         42.457701
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi",
-                  "text": "Az 1987-ben megnyílt múzeum a katonai teljesítmények és a szovjet korszak ipari munkássága előtt tiszteleg.",
-                  "category": "museum",
-                  "coords": [
-                        59.613163,
-                        42.45747
-                  ]
-            },
-            {
-                  "name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi",
-                  "text": "Fontos emlékmúzeum, amelyet a Karakalpaksztánban zajló politikai repressziók áldozatainak szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        59.627062,
-                        42.452111
                   ]
             },
             {
@@ -8792,48 +8576,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amfiteatr",
-                  "text": "Nagy szabadtéri színház Nukusban, amelyet koncertekre és nyilvános ünnepségekre használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        59.611644,
-                        42.4398
-                  ]
-            },
-            {
-                  "name": "Universitet amfiteatrı",
-                  "text": "Az állami egyetem amfiteátruma, a hallgatói kulturális rendezvények központi helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        59.629359,
-                        42.452754
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaq mámleketlik quwırshaq teatrı",
-                  "text": "Speciális bábszínház Nukusban, amely gyermekek számára kínál meseelőadásokat.",
-                  "category": "cultural",
-                  "coords": [
-                        59.631738,
-                        42.445886
-                  ]
-            },
-            {
                   "name": "Jazǵı kinoteatr",
                   "text": "Hagyományos kertmozi Nukusban, esti szabadtéri filmvetítésekhez.",
                   "category": "cultural",
                   "coords": [
                         59.656451,
                         42.46916
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaqstan kórkem óner sarayı",
-                  "text": "Pompás nukusi rendezvényhelyszín nagyszabású koncertek és nemzeti színházi produkciók számára.",
-                  "category": "cultural",
-                  "coords": [
-                        59.618061,
-                        42.467573
                   ]
             },
             {
@@ -8983,15 +8731,6 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi",
-                  "text": "Un muzeu de literatură deschis în 2002 la Nukus, dedicat istoriei poeziei karakalpake.",
-                  "category": "museum",
-                  "coords": [
-                        59.625262,
-                        42.451664
-                  ]
-            },
-            {
                   "name": "I.V. Savitskiy atındaģı Qaraqalpaqstan kórkem-óner muzeyi",
                   "text": "Cunoscut sub numele de „Luvrul stepei”, găzduiește o colecție de renume mondial de artă de avangardă sovietică interzisă.",
                   "category": "museum",
@@ -9046,39 +8785,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı",
-                  "text": "Un spațiu expozițional pentru arta contemporană și sculpturile artiștilor locali karakalpaki.",
-                  "category": "museum",
-                  "coords": [
-                        59.611688,
-                        42.453478
-                  ]
-            },
-            {
                   "name": "Russkii muzei pri Russkom kul'turnom tsentre",
                   "text": "Un centru cultural din Nukus dedicat conservării și prezentării artei și tradițiilor rusești.",
                   "category": "museum",
                   "coords": [
                         59.611538,
                         42.457701
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi",
-                  "text": "Muzeul, deschis în 1987, onorează realizările militare și munca industrială din epoca sovietică.",
-                  "category": "museum",
-                  "coords": [
-                        59.613163,
-                        42.45747
-                  ]
-            },
-            {
-                  "name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi",
-                  "text": "Un muzeu memorial important dedicat victimelor represiunilor politice din Karakalpakstan.",
-                  "category": "museum",
-                  "coords": [
-                        59.627062,
-                        42.452111
                   ]
             },
             {
@@ -9109,48 +8821,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amfiteatr",
-                  "text": "Un amfiteatru mare în aer liber în Nukus, utilizat pentru concerte și festivități publice.",
-                  "category": "cultural",
-                  "coords": [
-                        59.611644,
-                        42.4398
-                  ]
-            },
-            {
-                  "name": "Universitet amfiteatrı",
-                  "text": "Amfiteatrul universității de stat, un loc central pentru evenimente culturale studențești.",
-                  "category": "cultural",
-                  "coords": [
-                        59.629359,
-                        42.452754
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaq mámleketlik quwırshaq teatrı",
-                  "text": "Un teatru de păpuși specializat din Nukus, care oferă spectacole de basm pentru copii.",
-                  "category": "cultural",
-                  "coords": [
-                        59.631738,
-                        42.445886
-                  ]
-            },
-            {
                   "name": "Jazǵı kinoteatr",
                   "text": "Un cinematograf tradițional de vară în Nukus, pentru proiecții de filme sub cerul liber.",
                   "category": "cultural",
                   "coords": [
                         59.656451,
                         42.46916
-                  ]
-            },
-            {
-                  "name": "Qaraqalpaqstan kórkem óner sarayı",
-                  "text": "O locație somptuoasă din Nukus pentru concerte mari și producții teatrale naționale.",
-                  "category": "cultural",
-                  "coords": [
-                        59.618061,
-                        42.467573
                   ]
             },
             {
@@ -9300,15 +8976,6 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Berdakh State Museum of the History of Karakalpak Literature",
-                  "text": "A literature museum opened in 2002 in Nukus, dedicated to the history of Karakalpak poetry.",
-                  "category": "museum",
-                  "coords": [
-                        59.625262,
-                        42.451664
-                  ]
-            },
-            {
                   "name": "State Museum of Art named after I.V. Savitsky",
                   "text": "Known as the 'Louvre of the Steppe', it houses a world-renowned collection of forbidden Soviet avant-garde art.",
                   "category": "museum",
@@ -9363,39 +9030,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Exhibition Hall of the Karakalpak Department of the Academy of Arts of Uzbekistan",
-                  "text": "An exhibition space for contemporary art and sculptures by local Karakalpak artists.",
-                  "category": "museum",
-                  "coords": [
-                        59.611688,
-                        42.453478
-                  ]
-            },
-            {
                   "name": "Russian Museum at The Russian cultural center",
                   "text": "A cultural center in Nukus dedicated to preserving and presenting Russian art and traditions.",
                   "category": "museum",
                   "coords": [
                         59.611538,
                         42.457701
-                  ]
-            },
-            {
-                  "name": "State Museum of Military and Labor Glory under the Ministry of Internal Affairs of the Republic of Karakalpakstan",
-                  "text": "The museum, opened in 1987, honors military achievements and industrial labor of the Soviet era.",
-                  "category": "museum",
-                  "coords": [
-                        59.613163,
-                        42.45747
-                  ]
-            },
-            {
-                  "name": "Museum of Remembrance of the Victims of Repression at KSU Berdakh",
-                  "text": "An important memorial museum dedicated to the victims of political repressions in Karakalpakstan.",
-                  "category": "museum",
-                  "coords": [
-                        59.627062,
-                        42.452111
                   ]
             },
             {
@@ -9426,48 +9066,12 @@ export const poiExtraUzbekistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amfiteatr",
-                  "text": "A large open-air theater in Nukus used for concerts and public festivities.",
-                  "category": "cultural",
-                  "coords": [
-                        59.611644,
-                        42.4398
-                  ]
-            },
-            {
-                  "name": "Universitet amfiteatrı",
-                  "text": "The state university amphitheater, a central venue for student cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        59.629359,
-                        42.452754
-                  ]
-            },
-            {
-                  "name": "Karakalpak State Puppet Theater",
-                  "text": "A specialized puppet theater in Nukus offering fairy-tale performances for children.",
-                  "category": "cultural",
-                  "coords": [
-                        59.631738,
-                        42.445886
-                  ]
-            },
-            {
                   "name": "Jazǵı kinoteatr",
                   "text": "A traditional summer cinema in Nukus for open-air film screenings in the evening.",
                   "category": "cultural",
                   "coords": [
                         59.656451,
                         42.46916
-                  ]
-            },
-            {
-                  "name": "Karakalpakstan Palace of Arts",
-                  "text": "A grand Nukus venue for large-scale concerts and national theatrical productions.",
-                  "category": "cultural",
-                  "coords": [
-                        59.618061,
-                        42.467573
                   ]
             },
             {

@@ -1258,86 +1258,10 @@ export const poiExtraChadHistoryV2: POI[] = [
   },
   {
     id: "bahr-el-gazel-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Chez MCD",
-                  "text": "Als lokaler Treffpunkt bietet diese Attraktion schattige Sitzplätze und fördert den gemeinschaftlichen Austausch in der Region Bahr el Gazel.",
-                  "category": "landmark",
-                  "coords": [
-                        16.467924,
-                        13.640338
-                  ]
-            },
-            {
-                  "name": "Centre de Lecture et d'animation culturelle",
-                  "text": "Dieses kulturelle Animationszentrum beherbergt eine regionale Bibliothek und Aktivitätsräume zur Förderung von Literatur und Kunst in Bahr el Gazel.",
-                  "category": "cultural",
-                  "coords": [
-                        16.485834,
-                        13.653583
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Chez MCD",
-                  "text": "Helyi gyülekezőhelyként működve ez a látványosság árnyékos ülőhelyeket és közösségi interakciót biztosít a Bahr el Gazel régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        16.467924,
-                        13.640338
-                  ]
-            },
-            {
-                  "name": "Centre de Lecture et d'animation culturelle",
-                  "text": "Ez a kulturális animációs központ egy regionális könyvtárnak és foglalkoztatótermeknek ad otthont, amelyek az irodalom és a művészetek népszerűsítését célozzák Bahr el Gazelben.",
-                  "category": "cultural",
-                  "coords": [
-                        16.485834,
-                        13.653583
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Chez MCD",
-                  "text": "Funcționând ca un loc de adunare local, această atracție oferă locuri umbrite și interacțiune comunitară în regiunea Bahr el Gazel.",
-                  "category": "landmark",
-                  "coords": [
-                        16.467924,
-                        13.640338
-                  ]
-            },
-            {
-                  "name": "Centre de Lecture et d'animation culturelle",
-                  "text": "Acest centru de animație culturală găzduiește o bibliotecă regională și săli de activități menite să promoveze literatura și artele în Bahr el Gazel.",
-                  "category": "cultural",
-                  "coords": [
-                        16.485834,
-                        13.653583
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Chez MCD",
-                  "text": "Functioning as a local gathering establishment, this attraction provides shaded seating and community interaction in the Bahr el Gazel region.",
-                  "category": "landmark",
-                  "coords": [
-                        16.467924,
-                        13.640338
-                  ]
-            },
-            {
-                  "name": "Centre de Lecture et d'animation culturelle",
-                  "text": "This cultural animation center houses a regional library and activity rooms aimed at promoting literature and the arts in Bahr el Gazel.",
-                  "category": "cultural",
-                  "coords": [
-                        16.485834,
-                        13.653583
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "TD-BG",

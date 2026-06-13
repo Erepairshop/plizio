@@ -1056,15 +1056,6 @@ export const poiExtraPortugalHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Citânia de Briteiros",
-                  "text": "Eine bedeutende archäologische Stätte einer befestigten Siedlung aus der Eisenzeit in Portugal.",
-                  "category": "historical",
-                  "coords": [
-                        -8.316304,
-                        41.528076
-                  ]
-            },
-            {
                   "name": "Banhos Velhos das Caldas das Taipas",
                   "text": "Antike Badeanlagen in Caldas das Taipas mit historischer Bedeutung.",
                   "category": "historical",
@@ -1154,15 +1145,6 @@ export const poiExtraPortugalHistorical: POI[] = [
                   "coords": [
                         -8.32532,
                         41.520473
-                  ]
-            },
-            {
-                  "name": "Citânia de Briteiros",
-                  "text": "Fontos vaskori erődített település régészeti lelőhelye Portugáliában.",
-                  "category": "historical",
-                  "coords": [
-                        -8.316304,
-                        41.528076
                   ]
             },
             {
@@ -1258,15 +1240,6 @@ export const poiExtraPortugalHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Citânia de Briteiros",
-                  "text": "Un sit arheologic important al unei așezări fortificate din epoca fierului în Portugalia.",
-                  "category": "historical",
-                  "coords": [
-                        -8.316304,
-                        41.528076
-                  ]
-            },
-            {
                   "name": "Banhos Velhos das Caldas das Taipas",
                   "text": "Băi antice în Caldas das Taipas, având o importanță istorică.",
                   "category": "historical",
@@ -1356,15 +1329,6 @@ export const poiExtraPortugalHistorical: POI[] = [
                   "coords": [
                         -8.32532,
                         41.520473
-                  ]
-            },
-            {
-                  "name": "Citânia de Briteiros",
-                  "text": "A major archaeological site of a fortified Iron Age settlement in Portugal.",
-                  "category": "historical",
-                  "coords": [
-                        -8.316304,
-                        41.528076
                   ]
             },
             {
@@ -1485,15 +1449,6 @@ export const poiExtraPortugalHistorical: POI[] = [
     id: "historical-lanhoso", "sights": {
       "de": [
             {
-                  "name": "Museu da Cultura Castreja",
-                  "text": "Ein Museum beim Schloss Lanhoso, das der Castro-Kultur gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -8.32532,
-                        41.520473
-                  ]
-            },
-            {
                   "name": "Citânia de Briteiros",
                   "text": "Eine bedeutende archäologische Ausgrabungsstätte einer eisenzeitlichen Siedlung.",
                   "category": "historical",
@@ -1567,15 +1522,6 @@ export const poiExtraPortugalHistorical: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museu da Cultura Castreja",
-                  "text": "A Lanhoso vára melletti múzeum a kelta-ibér castro-kultúrát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -8.32532,
-                        41.520473
-                  ]
-            },
             {
                   "name": "Citânia de Briteiros",
                   "text": "Egy jelentős vaskori település régészeti lelőhelye.",
@@ -1651,15 +1597,6 @@ export const poiExtraPortugalHistorical: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museu da Cultura Castreja",
-                  "text": "Un muzeu de lângă Castelul Lanhoso dedicat culturii castre de tip celtiberic.",
-                  "category": "museum",
-                  "coords": [
-                        -8.32532,
-                        41.520473
-                  ]
-            },
-            {
                   "name": "Citânia de Briteiros",
                   "text": "Un sit arheologic important al unei așezări din epoca fierului.",
                   "category": "historical",
@@ -1733,15 +1670,6 @@ export const poiExtraPortugalHistorical: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museu da Cultura Castreja",
-                  "text": "A museum near the Castle of Lanhoso dedicated to the Castro culture.",
-                  "category": "museum",
-                  "coords": [
-                        -8.32532,
-                        41.520473
-                  ]
-            },
             {
                   "name": "Citânia de Briteiros",
                   "text": "An important archaeological site of an Iron Age settlement.",
@@ -1858,50 +1786,10 @@ export const poiExtraPortugalHistorical: POI[] = [
     }, image: "/poi-images/historical-lanhoso.webp"},
   {
     id: "historical-troia", "sights": {
-      "de": [
-            {
-                  "name": "Naturreservat Sado-Mündung",
-                  "text": "Ein bedeutendes Naturschutzgebiet im Sado-Estuar, bekannt für seine Delfinpopulation und Wattflächen.",
-                  "category": "natural",
-                  "coords": [
-                        -8.735223,
-                        38.463171
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Reserva Natural do Estuário do Sado",
-                  "text": "A Sado-estuarium jelentős természetvédelmi területe, amely delfinjeiről és mocsaras vidékeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -8.735223,
-                        38.463171
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Reserva Natural do Estuário do Sado",
-                  "text": "O rezervație naturală importantă în estuarul Sado, cunoscută pentru populația de delfini și zonele umede.",
-                  "category": "natural",
-                  "coords": [
-                        -8.735223,
-                        38.463171
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Estuario do Sado Nature Reserve",
-                  "text": "A significant nature reserve in the Sado Estuary, known for its dolphin population and wetlands.",
-                  "category": "natural",
-                  "coords": [
-                        -8.735223,
-                        38.463171
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "portugal",

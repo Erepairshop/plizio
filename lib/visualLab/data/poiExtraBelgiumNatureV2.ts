@@ -6,30 +6,12 @@ export const belgiumNatureV2: POI[] = [
     id: "belgium-signal-de-botrange-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
-                  "text": "Ein Dokumentationszentrum und Museum in Signal de Botrange, das sich dem Erbe der Region Hohes Venn widmet.",
-                  "category": "museum",
-                  "coords": [
-                        6.118976,
-                        50.472608
-                  ]
-            },
-            {
                   "name": "Baltia-Hügel",
                   "text": "Ein künstlicher Hügel am Signal de Botrange, der errichtet wurde, um eine Höhe von genau 700 Metern zu erreichen.",
                   "category": "natural",
                   "coords": [
                         6.092609,
                         50.501694
-                  ]
-            },
-            {
-                  "name": "Michelshütte",
-                  "text": "Ein historisches Gasthaus und markanter Gipfelpunkt im Hohen Venn, gelegen in der Nähe des höchsten Punktes Belgiens.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
                   ]
             },
             {
@@ -40,45 +22,9 @@ export const belgiumNatureV2: POI[] = [
                         6.086883,
                         50.478288
                   ]
-            },
-            {
-                  "name": "Monument Pietkin",
-                  "text": "Ein lokales Denkmal am Signal de Botrange, das einer bedeutenden regionalen Persönlichkeit gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        6.120091,
-                        50.47187
-                  ]
-            },
-            {
-                  "name": "Monument Dehousse",
-                  "text": "Ein Gedenkmonument in der Region Signal de Botrange, das an das kulturelle Erbe des Gebiets erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        6.130296,
-                        50.491513
-                  ]
-            },
-            {
-                  "name": "Monument Didier Comès",
-                  "text": "Ein Denkmal zu Ehren des belgischen Comicautors Didier Comès in der Nähe des Signal de Botrange.",
-                  "category": "historical",
-                  "coords": [
-                        6.131618,
-                        50.492904
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
-                  "text": "Dokumentációs központ és múzeum a Signal de Botrange-nál, amely a Magas-Láp vidékének örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        6.118976,
-                        50.472608
-                  ]
-            },
             {
                   "name": "Butte Baltia",
                   "text": "Mesterséges domb a Signal de Botrange-nál, amelyet azért emeltek, hogy elérjék a pontosan 700 méteres magasságot.",
@@ -89,15 +35,6 @@ export const belgiumNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baraque Michel",
-                  "text": "Történelmi fogadó és jellegzetes csúcspont a Magas-Lápban, Belgium legmagasabb pontjának közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
                   "name": "Cascade du Bayehon",
                   "text": "Lenyűgöző vízesés a Signal de Botrange közelében, amely Belgium egyik legmagasabb és legismertebb vízesése.",
                   "category": "landmark",
@@ -105,45 +42,9 @@ export const belgiumNatureV2: POI[] = [
                         6.086883,
                         50.478288
                   ]
-            },
-            {
-                  "name": "Monument Pietkin",
-                  "text": "Helyi emlékmű a Signal de Botrange-nál, amelyet egy jelentős regionális személyiségnek szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        6.120091,
-                        50.47187
-                  ]
-            },
-            {
-                  "name": "Monument Dehousse",
-                  "text": "Emlékmű a Signal de Botrange régióban, amely a terület kulturális örökségére emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        6.130296,
-                        50.491513
-                  ]
-            },
-            {
-                  "name": "Monument Didier Comès",
-                  "text": "Didier Comès belga képregényíró tiszteletére állított emlékmű a Signal de Botrange közelében.",
-                  "category": "historical",
-                  "coords": [
-                        6.131618,
-                        50.492904
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
-                  "text": "Un centru de documentare și muzeu la Signal de Botrange, dedicat patrimoniului regiunii Hautes Fagnes.",
-                  "category": "museum",
-                  "coords": [
-                        6.118976,
-                        50.472608
-                  ]
-            },
             {
                   "name": "Butte Baltia",
                   "text": "O movilă artificială la Signal de Botrange, construită pentru a atinge înălțimea de exact 700 de metri.",
@@ -154,15 +55,6 @@ export const belgiumNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baraque Michel",
-                  "text": "Un han istoric și un vârf proeminent în Hautes Fagnes, situat lângă cel mai înalt punct al Belgiei.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
                   "name": "Cascade du Bayehon",
                   "text": "O cascadă impresionantă lângă Signal de Botrange, fiind una dintre cele mai înalte și cunoscute cascade din Belgia.",
                   "category": "landmark",
@@ -170,45 +62,9 @@ export const belgiumNatureV2: POI[] = [
                         6.086883,
                         50.478288
                   ]
-            },
-            {
-                  "name": "Monument Pietkin",
-                  "text": "Un monument local la Signal de Botrange, dedicat unei personalități regionale importante.",
-                  "category": "historical",
-                  "coords": [
-                        6.120091,
-                        50.47187
-                  ]
-            },
-            {
-                  "name": "Monument Dehousse",
-                  "text": "Un monument comemorativ în regiunea Signal de Botrange, amintind de moștenirea culturală a zonei.",
-                  "category": "historical",
-                  "coords": [
-                        6.130296,
-                        50.491513
-                  ]
-            },
-            {
-                  "name": "Monument Didier Comès",
-                  "text": "Un monument în onoarea autorului belgian de benzi desenate Didier Comès, situat lângă Signal de Botrange.",
-                  "category": "historical",
-                  "coords": [
-                        6.131618,
-                        50.492904
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
-                  "text": "A documentation centre and museum at Signal de Botrange dedicated to the heritage of the High Fens region.",
-                  "category": "museum",
-                  "coords": [
-                        6.118976,
-                        50.472608
-                  ]
-            },
             {
                   "name": "Butte Baltia",
                   "text": "An artificial mound at Signal de Botrange constructed to reach an altitude of exactly 700 metres.",
@@ -219,48 +75,12 @@ export const belgiumNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baraque Michel",
-                  "text": "A historic inn and prominent peak in the High Fens, located near the highest point of Belgium.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
                   "name": "Cascade du Bayehon",
                   "text": "An impressive waterfall near Signal de Botrange, one of the highest and best-known waterfalls in Belgium.",
                   "category": "landmark",
                   "coords": [
                         6.086883,
                         50.478288
-                  ]
-            },
-            {
-                  "name": "Monument Pietkin",
-                  "text": "A local monument at Signal de Botrange dedicated to an important regional figure.",
-                  "category": "historical",
-                  "coords": [
-                        6.120091,
-                        50.47187
-                  ]
-            },
-            {
-                  "name": "Monument Dehousse",
-                  "text": "A commemorative monument in the Signal de Botrange region, recalling the area's cultural heritage.",
-                  "category": "historical",
-                  "coords": [
-                        6.130296,
-                        50.491513
-                  ]
-            },
-            {
-                  "name": "Monument Didier Comès",
-                  "text": "A monument in honour of the Belgian comic artist Didier Comès, located near Signal de Botrange.",
-                  "category": "historical",
-                  "coords": [
-                        6.131618,
-                        50.492904
                   ]
             }
       ]
@@ -331,33 +151,6 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
                   ]
             },
             {
-                  "name": "Waldreservat Ticton A",
-                  "text": "Ein geschütztes Waldgebiet im Sonian-Wald, das der Erhaltung der biologischen Vielfalt gewidmet ist.",
-                  "category": "natural",
-                  "coords": [
-                        4.436884,
-                        50.734207
-                  ]
-            },
-            {
-                  "name": "Waldreservat Ticton B",
-                  "text": "Teil des Naturschutzgebietsnetzes im Sonian-Wald mit Schwerpunkt auf Waldökologie.",
-                  "category": "natural",
-                  "coords": [
-                        4.4308,
-                        50.726807
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
-                  "text": "Ein ausgewiesenes Naturschutzgebiet im Sonian-Wald, das für seine natürliche Walddynamik bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        4.426745,
-                        50.781593
-                  ]
-            },
-            {
                   "name": "Château de La Fougeraie - Kasteel van Fougeraie",
                   "text": "Ein prächtiges Schloss aus dem frühen 20. Jahrhundert am Rande des Sonian-Waldes.",
                   "category": "castle",
@@ -373,15 +166,6 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
                   "coords": [
                         4.375178,
                         50.779567
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
-                  "text": "Ein Schutzgebiet im Sonian-Wald, das das natürliche Ökosystem der Region bewahrt.",
-                  "category": "natural",
-                  "coords": [
-                        4.431961,
-                        50.783589
                   ]
             }
       ],
@@ -405,33 +189,6 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
                   ]
             },
             {
-                  "name": "Réserve forestière du Ticton A",
-                  "text": "Védett erdőterület a Sonian-erdőben, a biológiai sokféleség megőrzésére kijelölve.",
-                  "category": "natural",
-                  "coords": [
-                        4.436884,
-                        50.734207
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Ticton B",
-                  "text": "A Sonian-erdő természetvédelmi hálózatának része, amely az erdőökológiára összpontosít.",
-                  "category": "natural",
-                  "coords": [
-                        4.4308,
-                        50.726807
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
-                  "text": "Kijelölt természetvédelmi terület a Sonian-erdőben, amely a természetes erdődinamikájáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        4.426745,
-                        50.781593
-                  ]
-            },
-            {
                   "name": "Château de La Fougeraie - Kasteel van Fougeraie",
                   "text": "Impozáns, 20. század eleji kastély a Sonian-erdő szélén.",
                   "category": "castle",
@@ -447,15 +204,6 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
                   "coords": [
                         4.375178,
                         50.779567
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
-                  "text": "Védett terület a Sonian-erdőben, amely a régió természetes ökoszisztémáját őrzi.",
-                  "category": "natural",
-                  "coords": [
-                        4.431961,
-                        50.783589
                   ]
             }
       ],
@@ -479,33 +227,6 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
                   ]
             },
             {
-                  "name": "Réserve forestière du Ticton A",
-                  "text": "O zonă forestieră protejată în Pădurea Sonian dedicată conservării biodiversității.",
-                  "category": "natural",
-                  "coords": [
-                        4.436884,
-                        50.734207
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Ticton B",
-                  "text": "Parte a rețelei de rezervații naturale din Pădurea Sonian, axată pe ecologia forestieră.",
-                  "category": "natural",
-                  "coords": [
-                        4.4308,
-                        50.726807
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
-                  "text": "O rezervație naturală desemnată în Pădurea Sonian, cunoscută pentru dinamica naturală a pădurii.",
-                  "category": "natural",
-                  "coords": [
-                        4.426745,
-                        50.781593
-                  ]
-            },
-            {
                   "name": "Château de La Fougeraie - Kasteel van Fougeraie",
                   "text": "Un castel impunător de la începutul secolului al XX-lea situat la marginea Pădurii Sonian.",
                   "category": "castle",
@@ -521,15 +242,6 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
                   "coords": [
                         4.375178,
                         50.779567
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
-                  "text": "O zonă protejată în Pădurea Sonian care conservă ecosistemul natural al regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        4.431961,
-                        50.783589
                   ]
             }
       ],
@@ -553,33 +265,6 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
                   ]
             },
             {
-                  "name": "Forest reserve Ticton A",
-                  "text": "A protected forest area in the Sonian Forest dedicated to biodiversity conservation.",
-                  "category": "natural",
-                  "coords": [
-                        4.436884,
-                        50.734207
-                  ]
-            },
-            {
-                  "name": "Forest reserve Ticton B",
-                  "text": "Part of the nature reserve network within the Sonian Forest, focusing on forest ecology.",
-                  "category": "natural",
-                  "coords": [
-                        4.4308,
-                        50.726807
-                  ]
-            },
-            {
-                  "name": "Sonian Forest - Grippensdelle A",
-                  "text": "A designated nature reserve within the Sonian Forest known for its natural forest dynamics.",
-                  "category": "natural",
-                  "coords": [
-                        4.426745,
-                        50.781593
-                  ]
-            },
-            {
                   "name": "Château de La Fougeraie - Kasteel van Fougeraie",
                   "text": "A grand early 20th-century castle situated on the edge of the Sonian Forest.",
                   "category": "castle",
@@ -595,15 +280,6 @@ imageHint: "Signal de Botrange stone tower and monument in High Fens",
                   "coords": [
                         4.375178,
                         50.779567
-                  ]
-            },
-            {
-                  "name": "Sonian Forest - Grippensdelle B",
-                  "text": "A protected area within the Sonian Forest preserving the region's natural ecosystem.",
-                  "category": "natural",
-                  "coords": [
-                        4.431961,
-                        50.783589
                   ]
             }
       ]
@@ -945,15 +621,6 @@ imageHint: "Cascade de Coo waterfall with bridge",
                   ]
             },
             {
-                  "name": "PrehistoHan",
-                  "text": "Eine Ausstellung über prähistorische Funde, die in den Grotten von Han entdeckt wurden.",
-                  "category": "museum",
-                  "coords": [
-                        5.191447,
-                        50.124336
-                  ]
-            },
-            {
                   "name": "Tienne d'Aise",
                   "text": "Ein Naturschutzgebiet bei Han-sur-Lesse, das für seine kalkhaltigen Rasenflächen bekannt ist.",
                   "category": "natural",
@@ -997,15 +664,6 @@ imageHint: "Cascade de Coo waterfall with bridge",
                         5.191479,
                         50.093466
                   ]
-            },
-            {
-                  "name": "Domaine des Grottes de Han",
-                  "text": "Ein Naturschutzgebiet und Wildpark bei den Höhlen von Han.",
-                  "category": "natural",
-                  "coords": [
-                        5.202666,
-                        50.11774
-                  ]
             }
       ],
       "hu": [
@@ -1025,15 +683,6 @@ imageHint: "Cascade de Coo waterfall with bridge",
                   "coords": [
                         5.188694,
                         50.124728
-                  ]
-            },
-            {
-                  "name": "PrehistoHan",
-                  "text": "A Han-barlangokban talált őskori leleteket bemutató régészeti kiállítás.",
-                  "category": "museum",
-                  "coords": [
-                        5.191447,
-                        50.124336
                   ]
             },
             {
@@ -1080,15 +729,6 @@ imageHint: "Cascade de Coo waterfall with bridge",
                         5.191479,
                         50.093466
                   ]
-            },
-            {
-                  "name": "Domaine des Grottes de Han",
-                  "text": "Természetvédelmi terület és vadaspark a Han-barlangoknál.",
-                  "category": "natural",
-                  "coords": [
-                        5.202666,
-                        50.11774
-                  ]
             }
       ],
       "ro": [
@@ -1108,15 +748,6 @@ imageHint: "Cascade de Coo waterfall with bridge",
                   "coords": [
                         5.188694,
                         50.124728
-                  ]
-            },
-            {
-                  "name": "PrehistoHan",
-                  "text": "O expoziție despre descoperirile preistorice făcute în peșterile de la Han.",
-                  "category": "museum",
-                  "coords": [
-                        5.191447,
-                        50.124336
                   ]
             },
             {
@@ -1163,15 +794,6 @@ imageHint: "Cascade de Coo waterfall with bridge",
                         5.191479,
                         50.093466
                   ]
-            },
-            {
-                  "name": "Domaine des Grottes de Han",
-                  "text": "O rezervație naturală și parc sălbatic asociat cu Peșterile din Han.",
-                  "category": "natural",
-                  "coords": [
-                        5.202666,
-                        50.11774
-                  ]
             }
       ],
       "en": [
@@ -1191,15 +813,6 @@ imageHint: "Cascade de Coo waterfall with bridge",
                   "coords": [
                         5.188694,
                         50.124728
-                  ]
-            },
-            {
-                  "name": "PrehistoHan",
-                  "text": "An exhibition featuring prehistoric finds discovered within the Caves of Han.",
-                  "category": "museum",
-                  "coords": [
-                        5.191447,
-                        50.124336
                   ]
             },
             {
@@ -1245,15 +858,6 @@ imageHint: "Cascade de Coo waterfall with bridge",
                   "coords": [
                         5.191479,
                         50.093466
-                  ]
-            },
-            {
-                  "name": "Domaine des Grottes de Han",
-                  "text": "A nature reserve and wildlife park associated with the Caves of Han.",
-                  "category": "natural",
-                  "coords": [
-                        5.202666,
-                        50.11774
                   ]
             }
       ]
@@ -2665,15 +2269,6 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
     id: "belgium-baraque-de-fraiture-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Trou des Massotais",
-                  "text": "Eine historische Stätte und Höhle in der Nähe der Baraque de Fraiture in den Ardennen.",
-                  "category": "historical",
-                  "coords": [
-                        5.748736,
-                        50.237707
-                  ]
-            },
-            {
                   "name": "Fanges de Nazieufa",
                   "text": "Ein Naturschutzgebiet mit Moorlandschaften bei der Baraque de Fraiture.",
                   "category": "natural",
@@ -2726,27 +2321,9 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
                         5.717117,
                         50.280931
                   ]
-            },
-            {
-                  "name": "Stele Jean Marie Dumont",
-                  "text": "Ein Gedenkmonument für Jean Marie Dumont an der Baraque de Fraiture.",
-                  "category": "historical",
-                  "coords": [
-                        5.778865,
-                        50.244938
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Trou des Massotais",
-                  "text": "Történelmi helyszín és barlang a Baraque de Fraiture közelében, az Ardennekben.",
-                  "category": "historical",
-                  "coords": [
-                        5.748736,
-                        50.237707
-                  ]
-            },
             {
                   "name": "Fanges de Nazieufa",
                   "text": "Lápos területeket magába foglaló természetvédelmi terület a Baraque de Fraiture közelében.",
@@ -2800,27 +2377,9 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
                         5.717117,
                         50.280931
                   ]
-            },
-            {
-                  "name": "Stele Jean Marie Dumont",
-                  "text": "Jean Marie Dumont emlékére állított emlékmű a Baraque de Fraiture-nél.",
-                  "category": "historical",
-                  "coords": [
-                        5.778865,
-                        50.244938
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Trou des Massotais",
-                  "text": "Un sit istoric și o peșteră situată lângă Baraque de Fraiture în Ardeni.",
-                  "category": "historical",
-                  "coords": [
-                        5.748736,
-                        50.237707
-                  ]
-            },
             {
                   "name": "Fanges de Nazieufa",
                   "text": "O rezervație naturală cu zone mlăștinoase lângă Baraque de Fraiture.",
@@ -2874,27 +2433,9 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
                         5.717117,
                         50.280931
                   ]
-            },
-            {
-                  "name": "Stele Jean Marie Dumont",
-                  "text": "Un monument comemorativ dedicat lui Jean Marie Dumont la Baraque de Fraiture.",
-                  "category": "historical",
-                  "coords": [
-                        5.778865,
-                        50.244938
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Trou des Massotais",
-                  "text": "A historical site and cave located near Baraque de Fraiture in the Ardennes.",
-                  "category": "historical",
-                  "coords": [
-                        5.748736,
-                        50.237707
-                  ]
-            },
             {
                   "name": "Fanges de Nazieufa",
                   "text": "A nature reserve featuring marshlands near Baraque de Fraiture.",
@@ -2948,15 +2489,6 @@ imageHint: "Aerial view of Lake Plate Taille and Eau d'Heure dams",
                         5.717117,
                         50.280931
                   ]
-            },
-            {
-                  "name": "Stele Jean Marie Dumont",
-                  "text": "A commemorative monument dedicated to Jean Marie Dumont at Baraque de Fraiture.",
-                  "category": "historical",
-                  "coords": [
-                        5.778865,
-                        50.244938
-                  ]
             }
       ]
 },
@@ -3008,15 +2540,6 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
     id: "belgium-ninglinspo-valley-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Château de Montjardin",
-                  "text": "Ein historisches Schloss im Ninglinspo-Tal, das majestätisch über der Landschaft thront.",
-                  "category": "castle",
-                  "coords": [
-                        5.711075,
-                        50.47629
-                  ]
-            },
-            {
                   "name": "Le Pré Des Secrets",
                   "text": "Ein kleiner Tierpark im Ninglinspo-Tal, der Besuchern die Begegnung mit verschiedenen Tierarten ermöglicht.",
                   "category": "recreational",
@@ -3035,39 +2558,12 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
                   ]
             },
             {
-                  "name": "Monde Sauvage Aywaille",
-                  "text": "Ein bekannter Safaripark in der Nähe des Ninglinspo-Tals, der afrikanische Tiere in weitläufigen Gehegen zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        5.742522,
-                        50.499667
-                  ]
-            },
-            {
-                  "name": "Château de Spirlet",
-                  "text": "Ein prächtiges Schloss im Ninglinspo-Tal, das als Beispiel für die regionale Architektur dient.",
-                  "category": "castle",
-                  "coords": [
-                        5.735593,
-                        50.443822
-                  ]
-            },
-            {
                   "name": "Château de Hautregard",
                   "text": "Ein historisches Anwesen im Ninglinspo-Tal, das für seine architektonischen Details bekannt ist.",
                   "category": "castle",
                   "coords": [
                         5.770561,
                         50.485399
-                  ]
-            },
-            {
-                  "name": "Grottes de Remouchamps",
-                  "text": "Berühmte Tropfsteinhöhlen in Remouchamps, die eine der längsten unterirdischen Bootsfahrten der Welt bieten.",
-                  "category": "landmark",
-                  "coords": [
-                        5.712109,
-                        50.480207
                   ]
             },
             {
@@ -3081,15 +2577,6 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
             }
       ],
       "hu": [
-            {
-                  "name": "Château de Montjardin",
-                  "text": "Történelmi kastély a Ninglinspo-völgyben, amely fenségesen magasodik a táj fölé.",
-                  "category": "castle",
-                  "coords": [
-                        5.711075,
-                        50.47629
-                  ]
-            },
             {
                   "name": "Le Pré Des Secrets",
                   "text": "Kis állatkert a Ninglinspo-völgyben, amely lehetőséget nyújt a látogatóknak különféle állatfajok megismerésére.",
@@ -3109,39 +2596,12 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
                   ]
             },
             {
-                  "name": "Monde Sauvage Aywaille",
-                  "text": "Ismert szafaripark a Ninglinspo-völgy közelében, amely afrikai állatokat mutat be tágas kifutókban.",
-                  "category": "recreational",
-                  "coords": [
-                        5.742522,
-                        50.499667
-                  ]
-            },
-            {
-                  "name": "Château de Spirlet",
-                  "text": "Pompás kastély a Ninglinspo-völgyben, amely a regionális építészet példájaként szolgál.",
-                  "category": "castle",
-                  "coords": [
-                        5.735593,
-                        50.443822
-                  ]
-            },
-            {
                   "name": "Château de Hautregard",
                   "text": "Történelmi birtok a Ninglinspo-völgyben, amely építészeti részleteiről ismert.",
                   "category": "castle",
                   "coords": [
                         5.770561,
                         50.485399
-                  ]
-            },
-            {
-                  "name": "Grottes de Remouchamps",
-                  "text": "Híres cseppkőbarlangok Remouchamps-ban, amelyek a világ egyik leghosszabb föld alatti csónakázását kínálják.",
-                  "category": "landmark",
-                  "coords": [
-                        5.712109,
-                        50.480207
                   ]
             },
             {
@@ -3155,15 +2615,6 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
             }
       ],
       "ro": [
-            {
-                  "name": "Château de Montjardin",
-                  "text": "Un castel istoric din valea Ninglinspo, care domină maiestuos peisajul.",
-                  "category": "castle",
-                  "coords": [
-                        5.711075,
-                        50.47629
-                  ]
-            },
             {
                   "name": "Le Pré Des Secrets",
                   "text": "Un mic parc zoologic din valea Ninglinspo, care permite vizitatorilor să întâlnească diverse specii de animale.",
@@ -3183,39 +2634,12 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
                   ]
             },
             {
-                  "name": "Monde Sauvage Aywaille",
-                  "text": "Un cunoscut parc safari lângă valea Ninglinspo, care prezintă animale africane în împrejmuiri vaste.",
-                  "category": "recreational",
-                  "coords": [
-                        5.742522,
-                        50.499667
-                  ]
-            },
-            {
-                  "name": "Château de Spirlet",
-                  "text": "Un castel magnific din valea Ninglinspo, care servește ca exemplu de arhitectură regională.",
-                  "category": "castle",
-                  "coords": [
-                        5.735593,
-                        50.443822
-                  ]
-            },
-            {
                   "name": "Château de Hautregard",
                   "text": "O proprietate istorică din valea Ninglinspo, cunoscută pentru detaliile sale arhitecturale.",
                   "category": "castle",
                   "coords": [
                         5.770561,
                         50.485399
-                  ]
-            },
-            {
-                  "name": "Grottes de Remouchamps",
-                  "text": "Celebre peșteri cu stalactite din Remouchamps, care oferă una dintre cele mai lungi plimbări subterane cu barca din lume.",
-                  "category": "landmark",
-                  "coords": [
-                        5.712109,
-                        50.480207
                   ]
             },
             {
@@ -3229,15 +2653,6 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
             }
       ],
       "en": [
-            {
-                  "name": "Château de Montjardin",
-                  "text": "A historic castle in the Ninglinspo Valley, majestically overlooking the landscape.",
-                  "category": "castle",
-                  "coords": [
-                        5.711075,
-                        50.47629
-                  ]
-            },
             {
                   "name": "Le Pré Des Secrets",
                   "text": "A small animal park in the Ninglinspo Valley that allows visitors to encounter various animal species.",
@@ -3257,39 +2672,12 @@ imageHint: "Baraque de Fraiture summit with ski lift in winter",
                   ]
             },
             {
-                  "name": "Monde Sauvage Aywaille",
-                  "text": "A well-known safari park near the Ninglinspo Valley, featuring African animals in spacious enclosures.",
-                  "category": "recreational",
-                  "coords": [
-                        5.742522,
-                        50.499667
-                  ]
-            },
-            {
-                  "name": "Château de Spirlet",
-                  "text": "A magnificent castle in the Ninglinspo Valley that serves as an example of regional architecture.",
-                  "category": "castle",
-                  "coords": [
-                        5.735593,
-                        50.443822
-                  ]
-            },
-            {
                   "name": "Château de Hautregard",
                   "text": "A historic estate in the Ninglinspo Valley known for its architectural details.",
                   "category": "castle",
                   "coords": [
                         5.770561,
                         50.485399
-                  ]
-            },
-            {
-                  "name": "Grottes de Remouchamps",
-                  "text": "Famous stalactite caves in Remouchamps, offering one of the longest underground boat trips in the world.",
-                  "category": "landmark",
-                  "coords": [
-                        5.712109,
-                        50.480207
                   ]
             },
             {
@@ -3965,51 +3353,6 @@ imageHint: "Railbikes in the green Molignée valley",
     id: "belgium-westhoek-dunes-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Delvaux museum",
-                  "text": "Ein Museum, das dem Leben und Werk des belgischen Surrealisten Paul Delvaux gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        2.610382,
-                        51.105807
-                  ]
-            },
-            {
-                  "name": "Plopsaqua De Panne",
-                  "text": "Ein thematisiertes Erlebnisbad in De Panne mit verschiedenen Wasserattraktionen.",
-                  "category": "recreational",
-                  "coords": [
-                        2.601315,
-                        51.082006
-                  ]
-            },
-            {
-                  "name": "Krakeelduinen",
-                  "text": "Ein Naturschutzgebiet an der belgischen Küste mit einer charakteristischen Dünenlandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        2.584349,
-                        51.086346
-                  ]
-            },
-            {
-                  "name": "Natuurreservaat De Westhoek",
-                  "text": "Das älteste Naturschutzgebiet Flanderns, das weite Teile der Küstendünen umfasst.",
-                  "category": "natural",
-                  "coords": [
-                        2.56428,
-                        51.085348
-                  ]
-            },
-            {
-                  "name": "Plopsaland Belgium",
-                  "text": "Ein bekannter Themenpark in De Panne mit Attraktionen für die ganze Familie.",
-                  "category": "recreational",
-                  "coords": [
-                        2.598347,
-                        51.081171
-                  ]
-            },
-            {
                   "name": "Oosthoekduinen",
                   "text": "Ein vielseitiges Naturgebiet mit Dünen, Wäldern und Feuchtwiesen an der Küste.",
                   "category": "natural",
@@ -4035,63 +3378,9 @@ imageHint: "Railbikes in the green Molignée valley",
                         2.520748,
                         51.081966
                   ]
-            },
-            {
-                  "name": "Arizona",
-                  "text": "Ein Themenbereich oder Park zur Unterhaltung in den Dünen von Westhoek.",
-                  "category": "recreational",
-                  "coords": [
-                        2.583654,
-                        51.101182
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Delvaux museum",
-                  "text": "A belga szürrealista festő, Paul Delvaux életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        2.610382,
-                        51.105807
-                  ]
-            },
-            {
-                  "name": "Plopsaqua De Panne",
-                  "text": "Tematikus élményfürdő De Panne-ban, különféle vízi attrakciókkal.",
-                  "category": "recreational",
-                  "coords": [
-                        2.601315,
-                        51.082006
-                  ]
-            },
-            {
-                  "name": "Krakeelduinen",
-                  "text": "Természetvédelmi terület a belga tengerparton, jellegzetes dűnékkel.",
-                  "category": "natural",
-                  "coords": [
-                        2.584349,
-                        51.086346
-                  ]
-            },
-            {
-                  "name": "Natuurreservaat De Westhoek",
-                  "text": "Flandria legrégebbi természetvédelmi területe, amely a parti dűnék nagy részét lefedi.",
-                  "category": "natural",
-                  "coords": [
-                        2.56428,
-                        51.085348
-                  ]
-            },
-            {
-                  "name": "Plopsaland Belgium",
-                  "text": "Ismert vidámpark De Panne-ban, amely az egész család számára kínál attrakciókat.",
-                  "category": "recreational",
-                  "coords": [
-                        2.598347,
-                        51.081171
-                  ]
-            },
             {
                   "name": "Oosthoekduinen",
                   "text": "Sokszínű természeti terület dűnékkel, erdőkkel és nedves rétekkel a part mentén.",
@@ -4118,63 +3407,9 @@ imageHint: "Railbikes in the green Molignée valley",
                         2.520748,
                         51.081966
                   ]
-            },
-            {
-                  "name": "Arizona",
-                  "text": "Szórakoztató tematikus terület vagy park a Westhoek dűnéknél.",
-                  "category": "recreational",
-                  "coords": [
-                        2.583654,
-                        51.101182
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Delvaux museum",
-                  "text": "Un muzeu dedicat vieții și operei pictorului suprarealist belgian Paul Delvaux.",
-                  "category": "museum",
-                  "coords": [
-                        2.610382,
-                        51.105807
-                  ]
-            },
-            {
-                  "name": "Plopsaqua De Panne",
-                  "text": "Un parc acvatic tematic în De Panne, cu diverse atracții acvatice.",
-                  "category": "recreational",
-                  "coords": [
-                        2.601315,
-                        51.082006
-                  ]
-            },
-            {
-                  "name": "Krakeelduinen",
-                  "text": "O rezervație naturală pe coasta belgiană, cu un peisaj caracteristic de dune.",
-                  "category": "natural",
-                  "coords": [
-                        2.584349,
-                        51.086346
-                  ]
-            },
-            {
-                  "name": "Natuurreservaat De Westhoek",
-                  "text": "Cea mai veche rezervație naturală din Flandra, care cuprinde zone vaste de dune de coastă.",
-                  "category": "natural",
-                  "coords": [
-                        2.56428,
-                        51.085348
-                  ]
-            },
-            {
-                  "name": "Plopsaland Belgium",
-                  "text": "Un cunoscut parc tematic din De Panne, cu atracții pentru întreaga familie.",
-                  "category": "recreational",
-                  "coords": [
-                        2.598347,
-                        51.081171
-                  ]
-            },
             {
                   "name": "Oosthoekduinen",
                   "text": "O zonă naturală diversă, cu dune, păduri și pajiști umede de-a lungul coastei.",
@@ -4201,63 +3436,9 @@ imageHint: "Railbikes in the green Molignée valley",
                         2.520748,
                         51.081966
                   ]
-            },
-            {
-                  "name": "Arizona",
-                  "text": "O zonă tematică sau parc de distracții în dunele din Westhoek.",
-                  "category": "recreational",
-                  "coords": [
-                        2.583654,
-                        51.101182
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Delvaux museum",
-                  "text": "A museum dedicated to the life and works of the Belgian surrealist painter Paul Delvaux.",
-                  "category": "museum",
-                  "coords": [
-                        2.610382,
-                        51.105807
-                  ]
-            },
-            {
-                  "name": "Plopsaqua De Panne",
-                  "text": "A themed water park in De Panne featuring various water attractions.",
-                  "category": "recreational",
-                  "coords": [
-                        2.601315,
-                        51.082006
-                  ]
-            },
-            {
-                  "name": "Krakeelduinen",
-                  "text": "A nature reserve on the Belgian coast with a characteristic dune landscape.",
-                  "category": "natural",
-                  "coords": [
-                        2.584349,
-                        51.086346
-                  ]
-            },
-            {
-                  "name": "Natuurreservaat De Westhoek",
-                  "text": "The oldest nature reserve in Flanders, covering large areas of coastal dunes.",
-                  "category": "natural",
-                  "coords": [
-                        2.56428,
-                        51.085348
-                  ]
-            },
-            {
-                  "name": "Plopsaland Belgium",
-                  "text": "A well-known theme park in De Panne with attractions for the whole family.",
-                  "category": "recreational",
-                  "coords": [
-                        2.598347,
-                        51.081171
-                  ]
-            },
             {
                   "name": "Oosthoekduinen",
                   "text": "A diverse nature area with dunes, woods, and wet meadows along the coast.",
@@ -4283,15 +3464,6 @@ imageHint: "Railbikes in the green Molignée valley",
                   "coords": [
                         2.520748,
                         51.081966
-                  ]
-            },
-            {
-                  "name": "Arizona",
-                  "text": "A themed area or park for entertainment in the Westhoek dunes.",
-                  "category": "recreational",
-                  "coords": [
-                        2.583654,
-                        51.101182
                   ]
             }
       ]

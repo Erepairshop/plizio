@@ -4215,7 +4215,2320 @@ export const irelandRegions: POI[] = [
 
 export const irelandCities: POI[] = [
   {
-    id: "city-galway", "sights": {"de": [{"name": "Coneen", "text": "Coneen ist ein Strand bei Galway.", "category": "recreational", "coords": [-9.085879, 53.257106]}, {"name": "Trawclogh", "text": "Trawclogh ist ein Strandabschnitt bei Galway.", "category": "recreational", "coords": [-9.081263, 53.25777]}, {"name": "Ladies Beach", "text": "Entlang der malerischen Küste von Galway gelegen, bietet Ladies Beach eine wunderbare Kulisse, um die atlantische Seeluft zu genießen. Das Ufer lädt Besucher zu erfrischenden Küstenspaziergängen und friedlichen Momenten beim Lauschen der Wellen ein. Seine relativ ruhige Atmosphäre macht den Ort ideal für alle, die eine Pause vom Trubel der Stadt suchen. Es empfiehlt sich, sich im Zwiebellook zu kleiden, um auf die frische irische Meeresbrise vorbereitet zu sein.", "category": "recreational", "coords": [-9.084663, 53.257384]}, {"name": "Grattan Beach", "text": "In der lebhaften Stadt Galway gelegen, verbindet Grattan Beach städtischen Komfort harmonisch mit maritimem Charme. Besucher können am Wasser entlangschlendern und dabei die weiten Ausblicke sowie die frische Meeresbrise genießen. Die Gegend zieht naturgemäß Einheimische und Touristen an, die einen entspannten Ort nahe dem Stadtzentrum suchen. Es ist ein hervorragendes Ziel für einen abendlichen Spaziergang, um den Sonnenuntergang über dem Meer zu beobachten.", "category": "recreational", "coords": [-9.066874, 53.262602]}, {"name": "Blackrock Beach", "text": "Vor der markanten Küstenlandschaft nahe Galway gelegen, ist Blackrock Beach ein ikonisches Ziel für Meeresliebhaber. Die charakteristische Uferlinie lädt zum Erkunden, zum Sonnenbaden an wärmeren Tagen und zum Erleben des erfrischenden Atlantikwassers ein. Der Strand versprüht einen lebhaften und zugleich traditionellen Charme und ist oft gut besucht von begeisterten einheimischen Badegästen. Ein Besuch an einem klaren Morgen bietet die besten Ausblicke auf die umliegende Bucht.", "category": "recreational", "coords": [-9.089255, 53.257103]}, {"name": "James Mitchell Geology Museum", "text": "Ein geologisches Museum in Galway, das eine umfangreiche Sammlung von Fossilien und Mineralien zeigt.", "category": "museum", "coords": [-9.061715, 53.27733]}, {"name": "Galway City Museum", "text": "Ein Museum in Galway, das die lokale Geschichte, Kultur und das Erbe der Stadt präsentiert.", "category": "museum", "coords": [-9.053464, 53.269815]}, {"name": "Lynch's Castle", "text": "Ein gut erhaltenes mittelalterliches Stadthaus in Galway, das einst einer mächtigen Familie gehörte.", "category": "castle", "coords": [-9.052298, 53.273133]}, {"name": "An Taibhdhearc", "text": "Das nationale irischsprachige Theater in Galway, ein Zentrum für gälische Kultur.", "category": "cultural", "coords": [-9.052539, 53.271968]}, {"name": "Town Hall Theatre", "text": "Ein dynamisches Theater in einem ehemaligen Rathausgebäude in Galway.", "category": "cultural", "coords": [-9.054028, 53.276129]}, {"name": "Nun's Island Theatre", "text": "Ein intimes Theater in Galway, das sich in einer ehemaligen presbyterianischen Kirche befindet.", "category": "cultural", "coords": [-9.057701, 53.272247]}, {"name": "Church of Saint Nicholas", "text": "Die größte mittelalterliche Pfarrkirche Irlands, die sich im Zentrum von Galway befindet.", "category": "religious", "coords": [-9.05369, 53.272709]}, {"name": "Church of Saint Ignatius", "text": "Eine Jesuitenkirche in Galway, bekannt für ihre Architektur und ihre zentrale Lage.", "category": "religious", "coords": [-9.061638, 53.269638]}, {"name": "Eyre Square", "text": "Ein beliebter öffentlicher Park im Herzen von Galway, ein Ort für Entspannung und Denkmäler.", "category": "park", "coords": [-9.049243, 53.274353]}, {"name": "Quincentenary Bridge", "text": "Eine moderne Brücke über den Fluss Corrib in Galway, die wichtige Stadtteile verbindet.", "category": "landmark", "coords": [-9.060697, 53.282674]}, {"name": "Blake's Castle", "text": "Überreste eines historischen befestigten Hauses in Galway, benannt nach der Familie Blake.", "category": "castle", "coords": [-9.054563, 53.270777]}, {"name": "Hall of the Red Earl", "text": "Eine archäologische Stätte in Galway, die die Überreste eines mittelalterlichen Gerichtsgebäudes zeigt.", "category": "historical", "coords": [-9.053596, 53.270905]}, {"name": "The Black Box", "text": "Ein vielseitiger Veranstaltungsort für Theater und Musik in Galway.", "category": "cultural", "coords": [-9.052441, 53.280398]}, {"name": "United Methodist Presbyterian Church", "text": "Ein historisches Kirchengebäude in Galway, das die vereinte methodistisch-presbyterianische Gemeinde beherbergt.", "category": "religious", "coords": [-9.047913, 53.272867]}, {"name": "Galway Cathedral", "text": "Eine beeindruckende römisch-katholische Kathedrale in Galway mit einer markanten Steinkonstruktion.", "category": "religious", "coords": [-9.057594, 53.275211]}, {"name": "Saint Patrick's Garrison Church", "text": "Eine katholische Garnisonskirche in Galway, die der lokalen Gemeinde dient.", "category": "religious", "coords": [-9.029372, 53.272993]}, {"name": "Bohermore Cemetery Chapel", "text": "Eine Friedhofskapelle in Galway, die für Trauergottesdienste genutzt wird.", "category": "religious", "coords": [-9.039149, 53.281026]}, {"name": "Saint Mary's Priory", "text": "Ein historisches Priorat in Galway, das der Religionsausübung gewidmet ist.", "category": "religious", "coords": [-9.056023, 53.268502]}, {"name": "Saint Joseph's", "text": "Eine christliche Gebetsstätte in Galway.", "category": "religious", "coords": [-9.060567, 53.273385]}, {"name": "Mutton Island Lighthouse", "text": "Ein historischer Leuchtturm auf Mutton Island vor der Küste von Galway.", "category": "landmark", "coords": [-9.053537, 53.254061]}, {"name": "Blackrock Diving Tower", "text": "Ein markanter Sprungturm am Meer, ein Wahrzeichen von Salthill in Galway.", "category": "tower", "coords": [-9.092247, 53.256236]}, {"name": "William O'Brien Bridge", "text": "Eine Brücke über den Fluss Corrib im Stadtzentrum von Galway.", "category": "landmark", "coords": [-9.05598, 53.271716]}, {"name": "Lough Atalia Viaduct", "text": "Ein markantes Eisenbahnviadukt am Lough Atalia in Galway.", "category": "landmark", "coords": [-9.04308, 53.272164]}, {"name": "Zoology Museum", "text": "Ein Museum der Universität Galway, das eine Vielzahl zoologischer Exponate zeigt.", "category": "museum", "coords": [-9.059427, 53.277535]}, {"name": "Galway Arts Centre", "text": "Ein Zentrum für zeitgenössische Kunst im Herzen von Galway.", "category": "museum", "coords": [-9.057182, 53.27091]}, {"name": "Terryland Castle", "text": "Die Ruinen einer historischen Burg am Ufer des Flusses Corrib.", "category": "castle", "coords": [-9.059518, 53.283105]}, {"name": "126 Artist-Run Gallery", "text": "Eine von Künstlern geführte Galerie und ein Projektraum in Galway.", "category": "museum", "coords": [-9.049373, 53.277291]}, {"name": "Iodine Factory", "text": "Ruinen einer ehemaligen industriellen Jodfabrik in Galway.", "category": "historical", "coords": [-9.061039, 53.289448]}, {"name": "Saint Patrick", "text": "Ein Denkmal zu Ehren des Heiligen Patrick in Galway.", "category": "historical", "coords": [-9.063687, 53.277195]}, {"name": "Fr Burke Statue", "text": "Eine Statue in Galway, die an Fr. Burke erinnert.", "category": "historical", "coords": [-9.056732, 53.269432]}, {"name": "Saint James' Church", "text": "Historische Kirchenruinen in Galway.", "category": "historical", "coords": [-9.016842, 53.279443]}, {"name": "Royal Coat of Arms 1812", "text": "Ein historisches Denkmal in Galway, das das königliche Wappen von 1812 zeigt.", "category": "historical", "coords": [-9.062735, 53.277617]}, {"name": "Tea House Folly", "text": "Eine kleine architektonische Ruine in Galway, die als Folly bekannt ist.", "category": "historical", "coords": [-9.072244, 53.294209]}, {"name": "Old Fort", "text": "Überreste einer alten Befestigungsanlage in Galway.", "category": "historical", "coords": [-9.03266, 53.268734]}, {"name": "Siobhan McKenna Theatre", "text": "Ein Theater in Galway, benannt nach der berühmten Schauspielerin Siobhan McKenna.", "category": "cultural", "coords": [-9.063026, 53.279365]}, {"name": "Blue Teapot Theatre", "text": "Ein professionelles Theaterensemble in Galway, das mit Künstlern mit Behinderungen arbeitet.", "category": "cultural", "coords": [-9.059311, 53.26972]}, {"name": "Leisureland Theatre", "text": "Ein Veranstaltungsort für Theater und Unterhaltung in Galway.", "category": "cultural", "coords": [-9.082272, 53.259262]}, {"name": "The Black Gate", "text": "Ein Kultur- und Kunstzentrum in Galway, das für Live-Events bekannt ist.", "category": "cultural", "coords": [-9.053248, 53.274848]}, {"name": "Old city wall", "text": "Überreste der historischen Stadtmauer, die einst das mittelalterliche Galway schützte.", "category": "landmark", "coords": [-9.050601, 53.273524]}, {"name": "Katie's Claddagh Cottage", "text": "Ein traditionelles Cottage, das das Erbe des Claddagh-Viertels in Galway bewahrt.", "category": "landmark", "coords": [-9.057499, 53.266427]}, {"name": "Royal Tara Visitor Centre", "text": "Ein Besucherzentrum in Galway, das für sein Porzellan und lokales Kunsthandwerk bekannt ist.", "category": "landmark", "coords": [-9.019828, 53.2853]}, {"name": "Salmon Weir Bridge", "text": "Eine Brücke über den Corrib, bekannt für den Blick auf Lachsfischer.", "category": "natural", "coords": [-9.056, 53.275542]}, {"name": "Galway Atlantaquaria", "text": "Das nationale Aquarium Irlands in Galway mit vielfältigem Meeresleben.", "category": "family", "coords": [-9.074087, 53.260051]}, {"name": "Curry's Fun Park", "text": "Ein familienfreundlicher Freizeitpark am Meer in Galway.", "category": "family", "coords": [-9.083956, 53.258845]}, {"name": "Ballyloughane Beach", "text": "Im Ostteil der Stadt Galway gelegen, ist Ballyloughane Beach ein sehr beliebter lokaler Rückzugsort direkt am Meer. Der weitläufige Sandstrand bietet viel Platz für ausgedehnte Spaziergänge, Strandspiele und erholsame Momente unter der irischen Sonne. Seine offene und einladende Umgebung macht ihn zu einem bevorzugten Ort für Familien und Freundesgruppen. Ein Blick auf den Gezeitenkalender vor der Anreise garantiert das beste Erlebnis am sandigen Ufer.", "category": "recreational", "coords": [-9.019064, 53.269618]}, {"name": "Ballindooly Lough", "text": "Ballindooly Lough bei Galway ist ein schöner See.", "category": "natural", "coords": [-9.026934, 53.306328]}, {"name": "Drum Lough", "text": "Drum Lough bei Galway ist ein ruhiges Gewässer.", "category": "natural", "coords": [-9.139488, 53.297402]}, {"name": "Lough Nabrocky", "text": "Lough Nabrocky bei Galway ist ein friedlicher See.", "category": "natural", "coords": [-9.107598, 53.289677]}, {"name": "Drum Lough West", "text": "Drum Lough West bei Galway ist ein malerischer See.", "category": "natural", "coords": [-9.142586, 53.293674]}, {"name": "Lochán Mhionlaigh", "text": "Lochán Mhionlaigh bei Galway ist ein schöner See.", "category": "natural", "coords": [-9.06802, 53.302967]}, {"name": "Loughaunrone", "text": "Loughaunrone bei Galway ist ein idyllischer See.", "category": "natural", "coords": [-8.946136, 53.257348]}, {"name": "Loughaunascalia", "text": "Loughaunascalia bei Galway ist ein ruhiger See.", "category": "natural", "coords": [-9.001225, 53.233498]}, {"name": "Loch Inse", "text": "Der Lough Inch in Galway bietet eine ruhige Umgebung für einen Spaziergang.", "category": "natural", "coords": [-9.17038, 53.270781]}, {"name": "Lough Corrib - Loch Coirib", "text": "Der Lough Corrib in Galway ist ein malerischer See, ideal zum Entspannen.", "category": "natural", "coords": [-9.290415, 53.422269]}, {"name": "Lough Atalia", "text": "Der Lough Atalia in Galway bietet eine schöne Kulisse für Spaziergänge am Wasser.", "category": "natural", "coords": [-9.03758, 53.275008]}, {"name": "Virtual Reality World", "text": "Virtual Reality World in Galway bietet ein aufregendes Erlebnis für die ganze Familie.", "category": "family", "coords": [-9.035537, 53.287315]}, {"name": "Seapoint Leisure", "text": "Seapoint Leisure in Galway ist ein unterhaltsamer Ort für gemeinsame Familienzeit.", "category": "family", "coords": [-9.07567, 53.259605]}, {"name": "Mary Byrne Playground", "text": "Der Mary Byrne Spielplatz in Galway lädt Familien zum Spielen im Freien ein.", "category": "family", "coords": [-9.060052, 53.271324]}, {"name": "Claude Toft Park Playground", "text": "Der Claude Toft Park Spielplatz in Galway bietet viel Platz für Kinder zum Toben.", "category": "family", "coords": [-9.072685, 53.261015]}, {"name": "Claddagh Playground", "text": "Der Claddagh Spielplatz in Galway ist ein schöner Ort für einen Familienausflug.", "category": "family", "coords": [-9.053064, 53.267097]}], "hu": [{"name": "Coneen", "text": "A Coneen egy strand Galway közelében.", "category": "recreational", "coords": [-9.085879, 53.257106]}, {"name": "Trawclogh", "text": "A Trawclogh egy partszakasz Galway közelében.", "category": "recreational", "coords": [-9.081263, 53.25777]}, {"name": "Ladies Beach", "text": "A festői galway-i partvidék mentén elterülő Ladies Beach csodálatos helyszínt biztosít az atlanti óceán levegőjének élvezetéhez. A partvidék frissítő tengerparti sétákra és a hullámok csendes hallgatására csábítja a látogatókat. Viszonylag nyugodt légköre miatt nagyszerű menedék mindazok számára, akik szeretnének elszakadni a város zajától. Érdemes rétegesen öltözködni, hogy alkalmazkodjunk a hűvös ír tengeri szélhez.", "category": "recreational", "coords": [-9.084663, 53.257384]}, {"name": "Grattan Beach", "text": "A nyüzsgő Galway városában található Grattan Beach tökéletesen ötvözi a városi kényelmet a tengerparti bájjal. A látogatók a vízparton sétálva élvezhetik a hatalmas térséget és a friss óceáni szelet. A környék természetes módon vonzza a helyieket és a turistákat egyaránt, akik egy nyugodt helyet keresnek a városközpont közelében. Kiváló célpont egy esti sétához, ahonnan megcsodálhatjuk a tenger felett lemenő napot.", "category": "recreational", "coords": [-9.066874, 53.262602]}, {"name": "Blackrock Beach", "text": "A Galway közeli lenyűgöző tengerparti tájba simuló Blackrock Beach ikonikus célpont a tenger szerelmeseinek. A jellegzetes partvidék ideális felfedezésre, melegebb napokon napozásra és a frissítő atlanti vizek megtapasztalására. Élettel teli, mégis hagyományos bájt áraszt, és gyakran nyüzsög a lelkes helyi fürdőzőktől. Egy tiszta reggelen érdemes ide látogatni, hogy megcsodálhassuk a környező öböl legszebb kilátását.", "category": "recreational", "coords": [-9.089255, 53.257103]}, {"name": "James Mitchell Geology Museum", "text": "Geológiai múzeum Galway-ben, amely fosszíliák és ásványok gazdag gyűjteményét mutatja be.", "category": "museum", "coords": [-9.061715, 53.27733]}, {"name": "Galway City Museum", "text": "Galway városi múzeuma, amely a helyi történelmet, kultúrát és örökséget mutatja be.", "category": "museum", "coords": [-9.053464, 53.269815]}, {"name": "Lynch's Castle", "text": "Jó állapotban fennmaradt középkori városi ház Galway-ben, amely egykor egy hatalmas családé volt.", "category": "castle", "coords": [-9.052298, 53.273133]}, {"name": "An Taibhdhearc", "text": "Galway ír nyelvű nemzeti színháza, a kelta kultúra egyik központja.", "category": "cultural", "coords": [-9.052539, 53.271968]}, {"name": "Town Hall Theatre", "text": "Dinamikus színház Galway-ben, amely az egykori városháza épületében működik.", "category": "cultural", "coords": [-9.054028, 53.276129]}, {"name": "Nun's Island Theatre", "text": "Hangulatos színház Galway-ben, amely egy egykori presbiteriánus templomban kapott helyet.", "category": "cultural", "coords": [-9.057701, 53.272247]}, {"name": "Church of Saint Nicholas", "text": "Írország legnagyobb középkori plébániatemploma Galway központjában.", "category": "religious", "coords": [-9.05369, 53.272709]}, {"name": "Church of Saint Ignatius", "text": "Jezsuita templom Galway-ben, amely építészetéről és központi elhelyezkedéséről ismert.", "category": "religious", "coords": [-9.061638, 53.269638]}, {"name": "Eyre Square", "text": "Népszerű közpark Galway szívében, pihenőhely és számos emlékmű otthona.", "category": "park", "coords": [-9.049243, 53.274353]}, {"name": "Quincentenary Bridge", "text": "Modern híd a Corrib folyón Galway-ben, amely fontos városrészeket köt össze.", "category": "landmark", "coords": [-9.060697, 53.282674]}, {"name": "Blake's Castle", "text": "Galway-i történelmi erődített ház maradványa, amely a Blake családról kapta nevét.", "category": "castle", "coords": [-9.054563, 53.270777]}, {"name": "Hall of the Red Earl", "text": "Régészeti lelőhely Galway-ben, amely egy középkori bírósági épület maradványait mutatja be.", "category": "historical", "coords": [-9.053596, 53.270905]}, {"name": "The Black Box", "text": "Sokoldalú színházi és zenei rendezvényhelyszín Galway-ben.", "category": "cultural", "coords": [-9.052441, 53.280398]}, {"name": "United Methodist Presbyterian Church", "text": "Történelmi templomépület Galway-ben, az egyesült metodista-presbiteriánus közösség otthona.", "category": "religious", "coords": [-9.047913, 53.272867]}, {"name": "Galway Cathedral", "text": "Galway lenyűgöző római katolikus székesegyháza, amely jellegzetes kőépületéről ismert.", "category": "religious", "coords": [-9.057594, 53.275211]}, {"name": "Saint Patrick's Garrison Church", "text": "Galway katolikus helyőrségi temploma, amely a helyi közösséget szolgálja.", "category": "religious", "coords": [-9.029372, 53.272993]}, {"name": "Bohermore Cemetery Chapel", "text": "Galway temetőkápolnája, amelyet gyászszertartásokhoz használnak.", "category": "religious", "coords": [-9.039149, 53.281026]}, {"name": "Saint Mary's Priory", "text": "Történelmi perjel ség Galwayben, amely vallási célokat szolgál.", "category": "religious", "coords": [-9.056023, 53.268502]}, {"name": "Saint Joseph's", "text": "Keresztény istentiszteleti hely Galway városában.", "category": "religious", "coords": [-9.060567, 53.273385]}, {"name": "Mutton Island Lighthouse", "text": "Történelmi világítótorony a Galway partjainál fekvő Mutton-szigeten.", "category": "landmark", "coords": [-9.053537, 53.254061]}, {"name": "Blackrock Diving Tower", "text": "Jellegzetes tengerparti ugrótorony, Galway Salthill negyedének jelképe.", "category": "tower", "coords": [-9.092247, 53.256236]}, {"name": "William O'Brien Bridge", "text": "Híd a Corrib folyó felett Galway városközpontjában.", "category": "landmark", "coords": [-9.05598, 53.271716]}, {"name": "Lough Atalia Viaduct", "text": "Jellegzetes vasúti viadukt a galway-i Lough Atalia felett.", "category": "landmark", "coords": [-9.04308, 53.272164]}, {"name": "Zoology Museum", "text": "A Galway-i Egyetem múzeuma, amely számos zoológiai kiállítást mutat be.", "category": "museum", "coords": [-9.059427, 53.277535]}, {"name": "Galway Arts Centre", "text": "Kortárs művészeti központ Galway szívében.", "category": "museum", "coords": [-9.057182, 53.27091]}, {"name": "Terryland Castle", "text": "Egy történelmi vár romjai a Corrib folyó partján.", "category": "castle", "coords": [-9.059518, 53.283105]}, {"name": "126 Artist-Run Gallery", "text": "Művészek által vezetett galéria és projektközpont Galwayben.", "category": "museum", "coords": [-9.049373, 53.277291]}, {"name": "Iodine Factory", "text": "Egy egykori galway-i ipari jódgyár romjai.", "category": "historical", "coords": [-9.061039, 53.289448]}, {"name": "Saint Patrick", "text": "Szent Patrik tiszteletére emelt emlékmű Galwayben.", "category": "historical", "coords": [-9.063687, 53.277195]}, {"name": "Fr Burke Statue", "text": "Fr. Burke emlékére állított szobor Galwayben.", "category": "historical", "coords": [-9.056732, 53.269432]}, {"name": "Saint James' Church", "text": "Történelmi templomromok Galway városában.", "category": "historical", "coords": [-9.016842, 53.279443]}, {"name": "Royal Coat of Arms 1812", "text": "Történelmi emlékmű Galwayben, amely az 1812-es királyi címert ábrázolja.", "category": "historical", "coords": [-9.062735, 53.277617]}, {"name": "Tea House Folly", "text": "Kisméretű építészeti rom Galwayben, amelyet „folly”-ként ismernek.", "category": "historical", "coords": [-9.072244, 53.294209]}, {"name": "Old Fort", "text": "Egy régi erődítmény maradványai Galwayben.", "category": "historical", "coords": [-9.03266, 53.268734]}, {"name": "Siobhan McKenna Theatre", "text": "Galway-i színház, amelyet a híres színésznőről, Siobhan McKennáról neveztek el.", "category": "cultural", "coords": [-9.063026, 53.279365]}, {"name": "Blue Teapot Theatre", "text": "Galway-i professzionális színházi társulat, amely fogyatékkal élő művészekkel dolgozik.", "category": "cultural", "coords": [-9.059311, 53.26972]}, {"name": "Leisureland Theatre", "text": "Színházi és szórakoztató központ Galwayben.", "category": "cultural", "coords": [-9.082272, 53.259262]}, {"name": "The Black Gate", "text": "Galway-i kulturális és művészeti központ, amely élő rendezvényeiről ismert.", "category": "cultural", "coords": [-9.053248, 53.274848]}, {"name": "Old city wall", "text": "A történelmi városfal maradványai, amely egykor a középkori Galwayt védte.", "category": "landmark", "coords": [-9.050601, 53.273524]}, {"name": "Katie's Claddagh Cottage", "text": "Hagyományos házikó, amely Galway Claddagh negyedének örökségét őrzi.", "category": "landmark", "coords": [-9.057499, 53.266427]}, {"name": "Royal Tara Visitor Centre", "text": "Látogatóközpont Galwayben, amely porcelánjáról és helyi kézműves termékeiről ismert.", "category": "landmark", "coords": [-9.019828, 53.2853]}, {"name": "Salmon Weir Bridge", "text": "Híd a Corrib felett, amely a lazachalászok megfigyeléséről híres.", "category": "natural", "coords": [-9.056, 53.275542]}, {"name": "Galway Atlantaquaria", "text": "Írország nemzeti akváriuma Galwayben, gazdag tengeri élővilággal.", "category": "family", "coords": [-9.074087, 53.260051]}, {"name": "Curry's Fun Park", "text": "Családbarát tengerparti vidámpark Galwayben.", "category": "family", "coords": [-9.083956, 53.258845]}, {"name": "Ballyloughane Beach", "text": "Galway város keleti részén található a Ballyloughane Beach, amely egy nagyon kedvelt helyi menedék közvetlenül a tenger mellett. A kiterjedt homokos part bőséges teret kínál a kényelmes sétákhoz, strandjátékokhoz és a pihenéshez az ír napsütésben. Nyitott és hívogató környezete miatt a családok és baráti társaságok egyik kedvenc helye. Érkezés előtt érdemes ellenőrizni az árapály-táblázatot, hogy a legjobb élményben legyen részünk a homokos parton.", "category": "recreational", "coords": [-9.019064, 53.269618]}, {"name": "Ballindooly Lough", "text": "A galwayi Ballindooly Lough egy szép tó.", "category": "natural", "coords": [-9.026934, 53.306328]}, {"name": "Drum Lough", "text": "A galwayi Drum Lough egy nyugodt állóvíz.", "category": "natural", "coords": [-9.139488, 53.297402]}, {"name": "Lough Nabrocky", "text": "A galwayi Lough Nabrocky egy békés tó.", "category": "natural", "coords": [-9.107598, 53.289677]}, {"name": "Drum Lough West", "text": "A galwayi Drum Lough West egy festői tó.", "category": "natural", "coords": [-9.142586, 53.293674]}, {"name": "Lochán Mhionlaigh", "text": "A galwayi Lochán Mhionlaigh egy szép tó.", "category": "natural", "coords": [-9.06802, 53.302967]}, {"name": "Loughaunrone", "text": "A galwayi Loughaunrone egy idilli tó.", "category": "natural", "coords": [-8.946136, 53.257348]}, {"name": "Loughaunascalia", "text": "A galwayi Loughaunascalia egy csendes tó.", "category": "natural", "coords": [-9.001225, 53.233498]}, {"name": "Loch Inse", "text": "A galwayi Lough Inch tó nyugodt környezetet kínál egy sétához.", "category": "natural", "coords": [-9.17038, 53.270781]}, {"name": "Lough Corrib - Loch Coirib", "text": "A galwayi Lough Corrib egy festői tó, ideális a pihenéshez.", "category": "natural", "coords": [-9.290415, 53.422269]}, {"name": "Lough Atalia", "text": "A galwayi Lough Atalia gyönyörű hátteret biztosít a vízparti sétákhoz.", "category": "natural", "coords": [-9.03758, 53.275008]}, {"name": "Virtual Reality World", "text": "A galwayi Virtual Reality World izgalmas élményt nyújt az egész családnak.", "category": "family", "coords": [-9.035537, 53.287315]}, {"name": "Seapoint Leisure", "text": "A galwayi Seapoint Leisure szórakoztató hely a közös családi időtöltéshez.", "category": "family", "coords": [-9.07567, 53.259605]}, {"name": "Mary Byrne Playground", "text": "A galwayi Mary Byrne játszótér szabadtéri játékra csábítja a családokat.", "category": "family", "coords": [-9.060052, 53.271324]}, {"name": "Claude Toft Park Playground", "text": "A galwayi Claude Toft Park játszótér rengeteg helyet kínál a gyerekeknek a szaladgáláshoz.", "category": "family", "coords": [-9.072685, 53.261015]}, {"name": "Claddagh Playground", "text": "A galwayi Claddagh játszótér remek hely egy családi kiránduláshoz.", "category": "family", "coords": [-9.053064, 53.267097]}], "ro": [{"name": "Coneen", "text": "Coneen este o plajă lângă Galway.", "category": "recreational", "coords": [-9.085879, 53.257106]}, {"name": "Trawclogh", "text": "Trawclogh este o porțiune de plajă lângă Galway.", "category": "recreational", "coords": [-9.081263, 53.25777]}, {"name": "Ladies Beach", "text": "Situată de-a lungul coastei pitorești din Galway, Ladies Beach oferă un cadru minunat pentru a te bucura de aerul atlantic. Țărmul invită vizitatorii la plimbări răcoroase pe coastă și la momente de liniște ascultând valurile. Atmosfera sa relativ pașnică face din acest loc o oază excelentă pentru cei care caută o pauză de la agitația orașului. Îmbrăcămintea în straturi este o alegere înțeleaptă pentru a face față brizei aspre irlandeze.", "category": "recreational", "coords": [-9.084663, 53.257384]}, {"name": "Grattan Beach", "text": "Situată în orașul vibrant Galway, Grattan Beach îmbină perfect confortul urban cu farmecul maritim. Vizitatorii se pot plimba pe malul apei, bucurându-se de priveliștile ample și de briza rece a oceanului. Zona atrage în mod natural atât localnici, cât și turiști care caută un loc relaxat pentru a se destinde aproape de centrul orașului. Este o destinație excelentă pentru o plimbare de seară pentru a privi apusul soarelui peste mare.", "category": "recreational", "coords": [-9.066874, 53.262602]}, {"name": "Blackrock Beach", "text": "Amplasată pe fundalul peisajului de coastă impresionant de lângă Galway, Blackrock Beach este o destinație iconică pentru iubitorii mării. Litoralul său distinctiv este ideal pentru explorare, pentru plajă în zilele mai calde și pentru a experimenta apele răcoritoare ale Atlanticului. Radiază un farmec plin de viață, dar tradițional, fiind adesea animată de scăldătorii locali entuziaști. O vizită într-o dimineață senină oferă cele mai luminoase priveliști ale golfului înconjurător.", "category": "recreational", "coords": [-9.089255, 53.257103]}, {"name": "James Mitchell Geology Museum", "text": "Un muzeu de geologie în Galway, care expune o colecție bogată de fosile și minerale.", "category": "museum", "coords": [-9.061715, 53.27733]}, {"name": "Galway City Museum", "text": "Un muzeu din Galway care prezintă istoria locală, cultura și patrimoniul orașului.", "category": "museum", "coords": [-9.053464, 53.269815]}, {"name": "Lynch's Castle", "text": "O casă medievală bine conservată în Galway, care a aparținut odinioară unei familii puternice.", "category": "castle", "coords": [-9.052298, 53.273133]}, {"name": "An Taibhdhearc", "text": "Teatrul național de limbă irlandeză din Galway, un centru al culturii gaelice.", "category": "cultural", "coords": [-9.052539, 53.271968]}, {"name": "Town Hall Theatre", "text": "Un teatru dinamic situat în clădirea fostei primării din Galway.", "category": "cultural", "coords": [-9.054028, 53.276129]}, {"name": "Nun's Island Theatre", "text": "Un teatru intim din Galway situat într-o fostă biserică presbiteriană.", "category": "cultural", "coords": [-9.057701, 53.272247]}, {"name": "Church of Saint Nicholas", "text": "Cea mai mare biserică parohială medievală din Irlanda, situată în centrul orașului Galway.", "category": "religious", "coords": [-9.05369, 53.272709]}, {"name": "Church of Saint Ignatius", "text": "O biserică iezuită din Galway, cunoscută pentru arhitectura sa și locația centrală.", "category": "religious", "coords": [-9.061638, 53.269638]}, {"name": "Eyre Square", "text": "Un parc public popular în inima orașului Galway, loc de relaxare și gazdă a mai multor monumente.", "category": "park", "coords": [-9.049243, 53.274353]}, {"name": "Quincentenary Bridge", "text": "Un pod modern peste râul Corrib în Galway, care leagă zone importante ale orașului.", "category": "landmark", "coords": [-9.060697, 53.282674]}, {"name": "Blake's Castle", "text": "Rămășițele unei case fortificate istorice din Galway, numită după familia Blake.", "category": "castle", "coords": [-9.054563, 53.270777]}, {"name": "Hall of the Red Earl", "text": "Un sit arheologic în Galway care prezintă rămășițele unei clădiri medievale de judecată.", "category": "historical", "coords": [-9.053596, 53.270905]}, {"name": "The Black Box", "text": "O locație versatilă pentru teatru și muzică în Galway.", "category": "cultural", "coords": [-9.052441, 53.280398]}, {"name": "United Methodist Presbyterian Church", "text": "O clădire istorică de biserică din Galway, care găzduiește comunitatea unită metodist-presbiteriană.", "category": "religious", "coords": [-9.047913, 53.272867]}, {"name": "Galway Cathedral", "text": "O catedrală romano-catolică impresionantă în Galway, cunoscută pentru construcția sa din piatră.", "category": "religious", "coords": [-9.057594, 53.275211]}, {"name": "Saint Patrick's Garrison Church", "text": "O biserică catolică de garnizoană din Galway, care servește comunitatea locală.", "category": "religious", "coords": [-9.029372, 53.272993]}, {"name": "Bohermore Cemetery Chapel", "text": "O capelă de cimitir din Galway, utilizată pentru servicii funerare.", "category": "religious", "coords": [-9.039149, 53.281026]}, {"name": "Saint Mary's Priory", "text": "Un priorat istoric din Galway, dedicat practicilor religioase.", "category": "religious", "coords": [-9.056023, 53.268502]}, {"name": "Saint Joseph's", "text": "Un lăcaș de cult creștin situat în orașul Galway.", "category": "religious", "coords": [-9.060567, 53.273385]}, {"name": "Mutton Island Lighthouse", "text": "Un far istoric situat pe insula Mutton, în largul coastei orașului Galway.", "category": "landmark", "coords": [-9.053537, 53.254061]}, {"name": "Blackrock Diving Tower", "text": "Un turn de sărituri iconic la malul mării, un simbol al zonei Salthill din Galway.", "category": "tower", "coords": [-9.092247, 53.256236]}, {"name": "William O'Brien Bridge", "text": "Un pod peste râul Corrib, situat în centrul orașului Galway.", "category": "landmark", "coords": [-9.05598, 53.271716]}, {"name": "Lough Atalia Viaduct", "text": "Un viaduct feroviar distinctiv situat lângă Lough Atalia în Galway.", "category": "landmark", "coords": [-9.04308, 53.272164]}, {"name": "Zoology Museum", "text": "Un muzeu al Universității din Galway care prezintă o varietate de exponate zoologice.", "category": "museum", "coords": [-9.059427, 53.277535]}, {"name": "Galway Arts Centre", "text": "Un centru de artă contemporană situat în inima orașului Galway.", "category": "museum", "coords": [-9.057182, 53.27091]}, {"name": "Terryland Castle", "text": "Ruinele unui castel istoric situat pe malul râului Corrib.", "category": "castle", "coords": [-9.059518, 53.283105]}, {"name": "126 Artist-Run Gallery", "text": "O galerie condusă de artiști și un spațiu de proiecte în Galway.", "category": "museum", "coords": [-9.049373, 53.277291]}, {"name": "Iodine Factory", "text": "Ruinele unei foste fabrici industriale de iod din Galway.", "category": "historical", "coords": [-9.061039, 53.289448]}, {"name": "Saint Patrick", "text": "Un monument ridicat în cinstea Sfântului Patrick în Galway.", "category": "historical", "coords": [-9.063687, 53.277195]}, {"name": "Fr Burke Statue", "text": "O statuie din Galway care îl comemorează pe Fr. Burke.", "category": "historical", "coords": [-9.056732, 53.269432]}, {"name": "Saint James' Church", "text": "Ruinele unei biserici istorice din Galway.", "category": "historical", "coords": [-9.016842, 53.279443]}, {"name": "Royal Coat of Arms 1812", "text": "Un monument istoric din Galway care înfățișează blazonul regal din 1812.", "category": "historical", "coords": [-9.062735, 53.277617]}, {"name": "Tea House Folly", "text": "O mică ruină arhitecturală din Galway, cunoscută sub numele de „folly”.", "category": "historical", "coords": [-9.072244, 53.294209]}, {"name": "Old Fort", "text": "Rămășițele unei vechi fortificații din Galway.", "category": "historical", "coords": [-9.03266, 53.268734]}, {"name": "Siobhan McKenna Theatre", "text": "Un teatru din Galway numit după celebra actriță Siobhan McKenna.", "category": "cultural", "coords": [-9.063026, 53.279365]}, {"name": "Blue Teapot Theatre", "text": "O companie de teatru profesionist din Galway care lucrează cu artiști cu dizabilități.", "category": "cultural", "coords": [-9.059311, 53.26972]}, {"name": "Leisureland Theatre", "text": "Un loc pentru spectacole de teatru și divertisment în Galway.", "category": "cultural", "coords": [-9.082272, 53.259262]}, {"name": "The Black Gate", "text": "Un centru cultural și de artă din Galway, cunoscut pentru evenimente live.", "category": "cultural", "coords": [-9.053248, 53.274848]}, {"name": "Old city wall", "text": "Rămășițele zidului istoric al orașului, care proteja odinioară Galway-ul medieval.", "category": "landmark", "coords": [-9.050601, 53.273524]}, {"name": "Katie's Claddagh Cottage", "text": "O căsuță tradițională care păstrează moștenirea cartierului Claddagh din Galway.", "category": "landmark", "coords": [-9.057499, 53.266427]}, {"name": "Royal Tara Visitor Centre", "text": "Un centru pentru vizitatori din Galway, cunoscut pentru porțelan și meșteșuguri locale.", "category": "landmark", "coords": [-9.019828, 53.2853]}, {"name": "Salmon Weir Bridge", "text": "Un pod peste Corrib, cunoscut pentru vederea asupra pescarilor de somon.", "category": "natural", "coords": [-9.056, 53.275542]}, {"name": "Galway Atlantaquaria", "text": "Acvariul național al Irlandei din Galway, care prezintă viața marină diversă.", "category": "family", "coords": [-9.074087, 53.260051]}, {"name": "Curry's Fun Park", "text": "Un parc de distracții pentru familii, situat la malul mării în Galway.", "category": "family", "coords": [-9.083956, 53.258845]}, {"name": "Ballyloughane Beach", "text": "Situată în partea de est a orașului Galway, Ballyloughane Beach este un refugiu local foarte iubit, chiar pe malul mării. Nisipurile sale întinse oferă spațiu amplu pentru plimbări relaxante, jocuri pe plajă și odihnă sub soarele irlandez. Mediul său deschis și primitor o face un loc favorizat pentru familii și grupuri de prieteni. Verificarea orelor de maree înainte de a sosi vă asigură că veți avea parte de cea mai bună experiență pe țărmul nisipos.", "category": "recreational", "coords": [-9.019064, 53.269618]}, {"name": "Ballindooly Lough", "text": "Ballindooly Lough de lângă Galway este un lac frumos.", "category": "natural", "coords": [-9.026934, 53.306328]}, {"name": "Drum Lough", "text": "Drum Lough de lângă Galway este o apă liniștită.", "category": "natural", "coords": [-9.139488, 53.297402]}, {"name": "Lough Nabrocky", "text": "Lough Nabrocky de lângă Galway este un lac liniștit.", "category": "natural", "coords": [-9.107598, 53.289677]}, {"name": "Drum Lough West", "text": "Drum Lough West de lângă Galway este un lac pitoresc.", "category": "natural", "coords": [-9.142586, 53.293674]}, {"name": "Lochán Mhionlaigh", "text": "Lochán Mhionlaigh de lângă Galway este un lac frumos.", "category": "natural", "coords": [-9.06802, 53.302967]}, {"name": "Loughaunrone", "text": "Loughaunrone de lângă Galway este un lac idilic.", "category": "natural", "coords": [-8.946136, 53.257348]}, {"name": "Loughaunascalia", "text": "Loughaunascalia de lângă Galway este un lac liniștit.", "category": "natural", "coords": [-9.001225, 53.233498]}, {"name": "Loch Inse", "text": "Lough Inch din Galway oferă un cadru liniștit pentru o plimbare.", "category": "natural", "coords": [-9.17038, 53.270781]}, {"name": "Lough Corrib - Loch Coirib", "text": "Lough Corrib din Galway este un lac pitoresc, ideal pentru relaxare.", "category": "natural", "coords": [-9.290415, 53.422269]}, {"name": "Lough Atalia", "text": "Lough Atalia din Galway oferă un cadru frumos pentru plimbări pe malul apei.", "category": "natural", "coords": [-9.03758, 53.275008]}, {"name": "Virtual Reality World", "text": "Virtual Reality World din Galway oferă o experiență incitantă pentru întreaga familie.", "category": "family", "coords": [-9.035537, 53.287315]}, {"name": "Seapoint Leisure", "text": "Seapoint Leisure din Galway este un loc distractiv pentru timpul petrecut în familie.", "category": "family", "coords": [-9.07567, 53.259605]}, {"name": "Mary Byrne Playground", "text": "Locul de joacă Mary Byrne din Galway invită familiile la joacă în aer liber.", "category": "family", "coords": [-9.060052, 53.271324]}, {"name": "Claude Toft Park Playground", "text": "Locul de joacă Claude Toft Park din Galway oferă mult spațiu pentru joaca copiilor.", "category": "family", "coords": [-9.072685, 53.261015]}, {"name": "Claddagh Playground", "text": "Locul de joacă Claddagh din Galway este un loc minunat pentru o ieșire în familie.", "category": "family", "coords": [-9.053064, 53.267097]}], "en": [{"name": "Coneen", "text": "Coneen is a beach near Galway.", "category": "recreational", "coords": [-9.085879, 53.257106]}, {"name": "Trawclogh", "text": "Trawclogh is a beach area near Galway.", "category": "recreational", "coords": [-9.081263, 53.25777]}, {"name": "Ladies Beach", "text": "Situated along the scenic coastline of Galway, Ladies Beach provides a wonderful setting to enjoy the Atlantic air. The shore invites visitors for refreshing coastal walks and peaceful moments listening to the waves. Its relatively tranquil atmosphere makes it a great spot for those seeking a break from the city's hustle. Dressing in layers is a smart choice to adapt to the brisk Irish coastal breeze.", "category": "recreational", "coords": [-9.084663, 53.257384]}, {"name": "Grattan Beach", "text": "Found in the vibrant city of Galway, Grattan Beach seamlessly blends urban convenience with maritime charm. Visitors can stroll along the water's edge, enjoying the expansive views and the crisp ocean breeze. The area naturally draws both locals and tourists looking for a relaxed spot to unwind near the city center. It is an excellent destination for an evening walk to watch the sunset over the sea.", "category": "recreational", "coords": [-9.066874, 53.262602]}, {"name": "Blackrock Beach", "text": "Set against the striking coastal landscape near Galway, Blackrock Beach is an iconic destination for sea lovers. The distinctive shoreline is ideal for exploring, sunbathing on warmer days, and experiencing the refreshing Atlantic waters. It radiates a lively yet traditional charm, often busy with enthusiastic local bathers. Stopping by on a clear morning offers the brightest views of the surrounding bay.", "category": "recreational", "coords": [-9.089255, 53.257103]}, {"name": "James Mitchell Geology Museum", "text": "A geology museum in Galway displaying an extensive collection of fossils and minerals.", "category": "museum", "coords": [-9.061715, 53.27733]}, {"name": "Galway City Museum", "text": "A museum in Galway presenting the city's local history, culture, and heritage.", "category": "museum", "coords": [-9.053464, 53.269815]}, {"name": "Lynch's Castle", "text": "A well-preserved medieval fortified house in Galway once belonging to a powerful family.", "category": "castle", "coords": [-9.052298, 53.273133]}, {"name": "An Taibhdhearc", "text": "The national Irish-language theatre in Galway, a centre for Gaelic culture.", "category": "cultural", "coords": [-9.052539, 53.271968]}, {"name": "Town Hall Theatre", "text": "A dynamic theatre located in a former town hall building in Galway.", "category": "cultural", "coords": [-9.054028, 53.276129]}, {"name": "Nun's Island Theatre", "text": "An intimate theatre in Galway located in a former Presbyterian chapel.", "category": "cultural", "coords": [-9.057701, 53.272247]}, {"name": "Church of Saint Nicholas", "text": "The largest medieval parish church in Ireland, located in the centre of Galway.", "category": "religious", "coords": [-9.05369, 53.272709]}, {"name": "Church of Saint Ignatius", "text": "A Jesuit church in Galway known for its architecture and central location.", "category": "religious", "coords": [-9.061638, 53.269638]}, {"name": "Eyre Square", "text": "A popular public park in the heart of Galway, a place for relaxation and monuments.", "category": "park", "coords": [-9.049243, 53.274353]}, {"name": "Quincentenary Bridge", "text": "A modern bridge over the River Corrib in Galway, connecting major parts of the city.", "category": "landmark", "coords": [-9.060697, 53.282674]}, {"name": "Blake's Castle", "text": "Remains of a historical fortified house in Galway named after the Blake family.", "category": "castle", "coords": [-9.054563, 53.270777]}, {"name": "Hall of the Red Earl", "text": "An archaeological site in Galway showing the remains of a medieval hall.", "category": "historical", "coords": [-9.053596, 53.270905]}, {"name": "The Black Box", "text": "A versatile venue for theatre and music performances in Galway.", "category": "cultural", "coords": [-9.052441, 53.280398]}, {"name": "United Methodist Presbyterian Church", "text": "A historical church building in Galway housing the united Methodist-Presbyterian congregation.", "category": "religious", "coords": [-9.047913, 53.272867]}, {"name": "Galway Cathedral", "text": "An impressive Roman Catholic cathedral in Galway featuring a distinctive stone construction.", "category": "religious", "coords": [-9.057594, 53.275211]}, {"name": "Saint Patrick's Garrison Church", "text": "A Catholic garrison church in Galway serving the local community.", "category": "religious", "coords": [-9.029372, 53.272993]}, {"name": "Bohermore Cemetery Chapel", "text": "A cemetery chapel in Galway used for funeral services.", "category": "religious", "coords": [-9.039149, 53.281026]}, {"name": "Saint Mary's Priory", "text": "A historic priory in Galway dedicated to religious worship.", "category": "religious", "coords": [-9.056023, 53.268502]}, {"name": "Saint Joseph's", "text": "A Christian place of worship located in the city of Galway.", "category": "religious", "coords": [-9.060567, 53.273385]}, {"name": "Mutton Island Lighthouse", "text": "A historic lighthouse situated on Mutton Island off the Galway coast.", "category": "landmark", "coords": [-9.053537, 53.254061]}, {"name": "Blackrock Diving Tower", "text": "An iconic seaside diving tower and a landmark of Salthill in Galway.", "category": "tower", "coords": [-9.092247, 53.256236]}, {"name": "William O'Brien Bridge", "text": "A bridge crossing the River Corrib in the heart of Galway city.", "category": "landmark", "coords": [-9.05598, 53.271716]}, {"name": "Lough Atalia Viaduct", "text": "A distinctive railway viaduct spanning near Lough Atalia in Galway.", "category": "landmark", "coords": [-9.04308, 53.272164]}, {"name": "Zoology Museum", "text": "A museum at the University of Galway displaying a variety of zoological exhibits.", "category": "museum", "coords": [-9.059427, 53.277535]}, {"name": "Galway Arts Centre", "text": "A centre for contemporary art located in the heart of Galway.", "category": "museum", "coords": [-9.057182, 53.27091]}, {"name": "Terryland Castle", "text": "The ruins of a historic castle located on the banks of the River Corrib.", "category": "castle", "coords": [-9.059518, 53.283105]}, {"name": "126 Artist-Run Gallery", "text": "An artist-run gallery and project space located in Galway.", "category": "museum", "coords": [-9.049373, 53.277291]}, {"name": "Iodine Factory", "text": "Ruins of a former industrial iodine factory in Galway.", "category": "historical", "coords": [-9.061039, 53.289448]}, {"name": "Saint Patrick", "text": "A monument dedicated to Saint Patrick in Galway.", "category": "historical", "coords": [-9.063687, 53.277195]}, {"name": "Fr Burke Statue", "text": "A statue in Galway commemorating Fr. Burke.", "category": "historical", "coords": [-9.056732, 53.269432]}, {"name": "Saint James' Church", "text": "Historical church ruins located in Galway.", "category": "historical", "coords": [-9.016842, 53.279443]}, {"name": "Royal Coat of Arms 1812", "text": "A historic monument in Galway featuring the Royal Coat of Arms from 1812.", "category": "historical", "coords": [-9.062735, 53.277617]}, {"name": "Tea House Folly", "text": "A small architectural ruin in Galway known as a folly.", "category": "historical", "coords": [-9.072244, 53.294209]}, {"name": "Old Fort", "text": "Remains of an old fortification in Galway.", "category": "historical", "coords": [-9.03266, 53.268734]}, {"name": "Siobhan McKenna Theatre", "text": "A theatre in Galway named after the famous actress Siobhan McKenna.", "category": "cultural", "coords": [-9.063026, 53.279365]}, {"name": "Blue Teapot Theatre", "text": "A professional theatre company in Galway working with artists with disabilities.", "category": "cultural", "coords": [-9.059311, 53.26972]}, {"name": "Leisureland Theatre", "text": "A venue for theatre and entertainment located in Galway.", "category": "cultural", "coords": [-9.082272, 53.259262]}, {"name": "The Black Gate", "text": "A cultural and arts centre in Galway known for live events.", "category": "cultural", "coords": [-9.053248, 53.274848]}, {"name": "Old city wall", "text": "Remains of the historic city wall that once protected medieval Galway.", "category": "landmark", "coords": [-9.050601, 53.273524]}, {"name": "Katie's Claddagh Cottage", "text": "A traditional cottage preserving the heritage of the Claddagh area in Galway.", "category": "landmark", "coords": [-9.057499, 53.266427]}, {"name": "Royal Tara Visitor Centre", "text": "A visitor centre in Galway known for its china and local crafts.", "category": "landmark", "coords": [-9.019828, 53.2853]}, {"name": "Salmon Weir Bridge", "text": "A bridge over the Corrib known for views of salmon fishing.", "category": "natural", "coords": [-9.056, 53.275542]}, {"name": "Galway Atlantaquaria", "text": "Ireland's national aquarium in Galway showcasing diverse marine life.", "category": "family", "coords": [-9.074087, 53.260051]}, {"name": "Curry's Fun Park", "text": "A family-friendly seaside amusement park in Galway.", "category": "family", "coords": [-9.083956, 53.258845]}, {"name": "Ballyloughane Beach", "text": "Located in the eastern part of Galway City, Ballyloughane Beach is a much-loved local retreat right by the sea. The extensive sands provide ample space for leisurely walks, beach games, and relaxing under the Irish sun. Its open and welcoming environment makes it a favored spot for families and groups of friends. Checking the tide times before arriving ensures you have the best experience on the sandy shore.", "category": "recreational", "coords": [-9.019064, 53.269618]}, {"name": "Ballindooly Lough", "text": "Ballindooly Lough near Galway is a beautiful lake.", "category": "natural", "coords": [-9.026934, 53.306328]}, {"name": "Drum Lough", "text": "Drum Lough near Galway is a quiet body of water.", "category": "natural", "coords": [-9.139488, 53.297402]}, {"name": "Lough Nabrocky", "text": "Lough Nabrocky near Galway is a peaceful lake.", "category": "natural", "coords": [-9.107598, 53.289677]}, {"name": "Drum Lough West", "text": "Drum Lough West near Galway is a picturesque lake.", "category": "natural", "coords": [-9.142586, 53.293674]}, {"name": "Lochán Mhionlaigh", "text": "Lochán Mhionlaigh near Galway is a beautiful lake.", "category": "natural", "coords": [-9.06802, 53.302967]}, {"name": "Loughaunrone", "text": "Loughaunrone near Galway is an idyllic lake.", "category": "natural", "coords": [-8.946136, 53.257348]}, {"name": "Loughaunascalia", "text": "Loughaunascalia near Galway is a quiet lake.", "category": "natural", "coords": [-9.001225, 53.233498]}, {"name": "Lough Inch", "text": "Lough Inch in Galway offers a peaceful setting for a walk.", "category": "natural", "coords": [-9.17038, 53.270781]}, {"name": "Lough Corrib", "text": "Lough Corrib in Galway is a scenic lake, ideal for relaxing.", "category": "natural", "coords": [-9.290415, 53.422269]}, {"name": "Lough Atalia", "text": "Lough Atalia in Galway provides a lovely backdrop for waterfront walks.", "category": "natural", "coords": [-9.03758, 53.275008]}, {"name": "Virtual Reality World", "text": "Virtual Reality World in Galway offers an exciting experience for the whole family.", "category": "family", "coords": [-9.035537, 53.287315]}, {"name": "Seapoint Leisure", "text": "Seapoint Leisure in Galway is a fun place for shared family time.", "category": "family", "coords": [-9.07567, 53.259605]}, {"name": "Mary Byrne Playground", "text": "Mary Byrne playground in Galway invites families for outdoor play.", "category": "family", "coords": [-9.060052, 53.271324]}, {"name": "Claude Toft Park Playground", "text": "Claude Toft Park playground in Galway offers plenty of space for kids to play.", "category": "family", "coords": [-9.072685, 53.261015]}, {"name": "Claddagh Playground", "text": "Claddagh playground in Galway is a great spot for a family outing.", "category": "family", "coords": [-9.053064, 53.267097]}]},
+    id: "city-galway", "sights": {
+      "de": [
+            {
+                  "name": "Coneen",
+                  "text": "Coneen ist ein Strand bei Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.085879,
+                        53.257106
+                  ]
+            },
+            {
+                  "name": "Trawclogh",
+                  "text": "Trawclogh ist ein Strandabschnitt bei Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.081263,
+                        53.25777
+                  ]
+            },
+            {
+                  "name": "Ladies Beach",
+                  "text": "Entlang der malerischen Küste von Galway gelegen, bietet Ladies Beach eine wunderbare Kulisse, um die atlantische Seeluft zu genießen. Das Ufer lädt Besucher zu erfrischenden Küstenspaziergängen und friedlichen Momenten beim Lauschen der Wellen ein. Seine relativ ruhige Atmosphäre macht den Ort ideal für alle, die eine Pause vom Trubel der Stadt suchen. Es empfiehlt sich, sich im Zwiebellook zu kleiden, um auf die frische irische Meeresbrise vorbereitet zu sein.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084663,
+                        53.257384
+                  ]
+            },
+            {
+                  "name": "Grattan Beach",
+                  "text": "In der lebhaften Stadt Galway gelegen, verbindet Grattan Beach städtischen Komfort harmonisch mit maritimem Charme. Besucher können am Wasser entlangschlendern und dabei die weiten Ausblicke sowie die frische Meeresbrise genießen. Die Gegend zieht naturgemäß Einheimische und Touristen an, die einen entspannten Ort nahe dem Stadtzentrum suchen. Es ist ein hervorragendes Ziel für einen abendlichen Spaziergang, um den Sonnenuntergang über dem Meer zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.066874,
+                        53.262602
+                  ]
+            },
+            {
+                  "name": "Blackrock Beach",
+                  "text": "Vor der markanten Küstenlandschaft nahe Galway gelegen, ist Blackrock Beach ein ikonisches Ziel für Meeresliebhaber. Die charakteristische Uferlinie lädt zum Erkunden, zum Sonnenbaden an wärmeren Tagen und zum Erleben des erfrischenden Atlantikwassers ein. Der Strand versprüht einen lebhaften und zugleich traditionellen Charme und ist oft gut besucht von begeisterten einheimischen Badegästen. Ein Besuch an einem klaren Morgen bietet die besten Ausblicke auf die umliegende Bucht.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.089255,
+                        53.257103
+                  ]
+            },
+            {
+                  "name": "James Mitchell Geology Museum",
+                  "text": "Ein geologisches Museum in Galway, das eine umfangreiche Sammlung von Fossilien und Mineralien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.061715,
+                        53.27733
+                  ]
+            },
+            {
+                  "name": "Galway City Museum",
+                  "text": "Ein Museum in Galway, das die lokale Geschichte, Kultur und das Erbe der Stadt präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.053464,
+                        53.269815
+                  ]
+            },
+            {
+                  "name": "Lynch's Castle",
+                  "text": "Ein gut erhaltenes mittelalterliches Stadthaus in Galway, das einst einer mächtigen Familie gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        -9.052298,
+                        53.273133
+                  ]
+            },
+            {
+                  "name": "An Taibhdhearc",
+                  "text": "Das nationale irischsprachige Theater in Galway, ein Zentrum für gälische Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052539,
+                        53.271968
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "Ein dynamisches Theater in einem ehemaligen Rathausgebäude in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.054028,
+                        53.276129
+                  ]
+            },
+            {
+                  "name": "Nun's Island Theatre",
+                  "text": "Ein intimes Theater in Galway, das sich in einer ehemaligen presbyterianischen Kirche befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.057701,
+                        53.272247
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "Die größte mittelalterliche Pfarrkirche Irlands, die sich im Zentrum von Galway befindet.",
+                  "category": "religious",
+                  "coords": [
+                        -9.05369,
+                        53.272709
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "Eine Jesuitenkirche in Galway, bekannt für ihre Architektur und ihre zentrale Lage.",
+                  "category": "religious",
+                  "coords": [
+                        -9.061638,
+                        53.269638
+                  ]
+            },
+            {
+                  "name": "Eyre Square",
+                  "text": "Ein beliebter öffentlicher Park im Herzen von Galway, ein Ort für Entspannung und Denkmäler.",
+                  "category": "park",
+                  "coords": [
+                        -9.049243,
+                        53.274353
+                  ]
+            },
+            {
+                  "name": "Quincentenary Bridge",
+                  "text": "Eine moderne Brücke über den Fluss Corrib in Galway, die wichtige Stadtteile verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.060697,
+                        53.282674
+                  ]
+            },
+            {
+                  "name": "Blake's Castle",
+                  "text": "Überreste eines historischen befestigten Hauses in Galway, benannt nach der Familie Blake.",
+                  "category": "castle",
+                  "coords": [
+                        -9.054563,
+                        53.270777
+                  ]
+            },
+            {
+                  "name": "Hall of the Red Earl",
+                  "text": "Eine archäologische Stätte in Galway, die die Überreste eines mittelalterlichen Gerichtsgebäudes zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053596,
+                        53.270905
+                  ]
+            },
+            {
+                  "name": "The Black Box",
+                  "text": "Ein vielseitiger Veranstaltungsort für Theater und Musik in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052441,
+                        53.280398
+                  ]
+            },
+            {
+                  "name": "United Methodist Presbyterian Church",
+                  "text": "Ein historisches Kirchengebäude in Galway, das die vereinte methodistisch-presbyterianische Gemeinde beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        -9.047913,
+                        53.272867
+                  ]
+            },
+            {
+                  "name": "Galway Cathedral",
+                  "text": "Eine beeindruckende römisch-katholische Kathedrale in Galway mit einer markanten Steinkonstruktion.",
+                  "category": "religious",
+                  "coords": [
+                        -9.057594,
+                        53.275211
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Garrison Church",
+                  "text": "Eine katholische Garnisonskirche in Galway, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -9.029372,
+                        53.272993
+                  ]
+            },
+            {
+                  "name": "Bohermore Cemetery Chapel",
+                  "text": "Eine Friedhofskapelle in Galway, die für Trauergottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -9.039149,
+                        53.281026
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Priory",
+                  "text": "Ein historisches Priorat in Galway, das der Religionsausübung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -9.056023,
+                        53.268502
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Eine christliche Gebetsstätte in Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.060567,
+                        53.273385
+                  ]
+            },
+            {
+                  "name": "Mutton Island Lighthouse",
+                  "text": "Ein historischer Leuchtturm auf Mutton Island vor der Küste von Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.053537,
+                        53.254061
+                  ]
+            },
+            {
+                  "name": "Blackrock Diving Tower",
+                  "text": "Ein markanter Sprungturm am Meer, ein Wahrzeichen von Salthill in Galway.",
+                  "category": "tower",
+                  "coords": [
+                        -9.092247,
+                        53.256236
+                  ]
+            },
+            {
+                  "name": "William O'Brien Bridge",
+                  "text": "Eine Brücke über den Fluss Corrib im Stadtzentrum von Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.05598,
+                        53.271716
+                  ]
+            },
+            {
+                  "name": "Lough Atalia Viaduct",
+                  "text": "Ein markantes Eisenbahnviadukt am Lough Atalia in Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.04308,
+                        53.272164
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "Ein Museum der Universität Galway, das eine Vielzahl zoologischer Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.059427,
+                        53.277535
+                  ]
+            },
+            {
+                  "name": "Galway Arts Centre",
+                  "text": "Ein Zentrum für zeitgenössische Kunst im Herzen von Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.057182,
+                        53.27091
+                  ]
+            },
+            {
+                  "name": "Terryland Castle",
+                  "text": "Die Ruinen einer historischen Burg am Ufer des Flusses Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.059518,
+                        53.283105
+                  ]
+            },
+            {
+                  "name": "126 Artist-Run Gallery",
+                  "text": "Eine von Künstlern geführte Galerie und ein Projektraum in Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.049373,
+                        53.277291
+                  ]
+            },
+            {
+                  "name": "Iodine Factory",
+                  "text": "Ruinen einer ehemaligen industriellen Jodfabrik in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.061039,
+                        53.289448
+                  ]
+            },
+            {
+                  "name": "Saint Patrick",
+                  "text": "Ein Denkmal zu Ehren des Heiligen Patrick in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.063687,
+                        53.277195
+                  ]
+            },
+            {
+                  "name": "Fr Burke Statue",
+                  "text": "Eine Statue in Galway, die an Fr. Burke erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056732,
+                        53.269432
+                  ]
+            },
+            {
+                  "name": "Saint James' Church",
+                  "text": "Historische Kirchenruinen in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.016842,
+                        53.279443
+                  ]
+            },
+            {
+                  "name": "Royal Coat of Arms 1812",
+                  "text": "Ein historisches Denkmal in Galway, das das königliche Wappen von 1812 zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.062735,
+                        53.277617
+                  ]
+            },
+            {
+                  "name": "Tea House Folly",
+                  "text": "Eine kleine architektonische Ruine in Galway, die als Folly bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.072244,
+                        53.294209
+                  ]
+            },
+            {
+                  "name": "Old Fort",
+                  "text": "Überreste einer alten Befestigungsanlage in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.03266,
+                        53.268734
+                  ]
+            },
+            {
+                  "name": "Siobhan McKenna Theatre",
+                  "text": "Ein Theater in Galway, benannt nach der berühmten Schauspielerin Siobhan McKenna.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.063026,
+                        53.279365
+                  ]
+            },
+            {
+                  "name": "Blue Teapot Theatre",
+                  "text": "Ein professionelles Theaterensemble in Galway, das mit Künstlern mit Behinderungen arbeitet.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.059311,
+                        53.26972
+                  ]
+            },
+            {
+                  "name": "Leisureland Theatre",
+                  "text": "Ein Veranstaltungsort für Theater und Unterhaltung in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.082272,
+                        53.259262
+                  ]
+            },
+            {
+                  "name": "The Black Gate",
+                  "text": "Ein Kultur- und Kunstzentrum in Galway, das für Live-Events bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.053248,
+                        53.274848
+                  ]
+            },
+            {
+                  "name": "Old city wall",
+                  "text": "Überreste der historischen Stadtmauer, die einst das mittelalterliche Galway schützte.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.050601,
+                        53.273524
+                  ]
+            },
+            {
+                  "name": "Katie's Claddagh Cottage",
+                  "text": "Ein traditionelles Cottage, das das Erbe des Claddagh-Viertels in Galway bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.057499,
+                        53.266427
+                  ]
+            },
+            {
+                  "name": "Royal Tara Visitor Centre",
+                  "text": "Ein Besucherzentrum in Galway, das für sein Porzellan und lokales Kunsthandwerk bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.019828,
+                        53.2853
+                  ]
+            },
+            {
+                  "name": "Salmon Weir Bridge",
+                  "text": "Eine Brücke über den Corrib, bekannt für den Blick auf Lachsfischer.",
+                  "category": "natural",
+                  "coords": [
+                        -9.056,
+                        53.275542
+                  ]
+            },
+            {
+                  "name": "Galway Atlantaquaria",
+                  "text": "Das nationale Aquarium Irlands in Galway mit vielfältigem Meeresleben.",
+                  "category": "family",
+                  "coords": [
+                        -9.074087,
+                        53.260051
+                  ]
+            },
+            {
+                  "name": "Curry's Fun Park",
+                  "text": "Ein familienfreundlicher Freizeitpark am Meer in Galway.",
+                  "category": "family",
+                  "coords": [
+                        -9.083956,
+                        53.258845
+                  ]
+            },
+            {
+                  "name": "Ballindooly Lough",
+                  "text": "Ballindooly Lough bei Galway ist ein schöner See.",
+                  "category": "natural",
+                  "coords": [
+                        -9.026934,
+                        53.306328
+                  ]
+            },
+            {
+                  "name": "Drum Lough",
+                  "text": "Drum Lough bei Galway ist ein ruhiges Gewässer.",
+                  "category": "natural",
+                  "coords": [
+                        -9.139488,
+                        53.297402
+                  ]
+            },
+            {
+                  "name": "Lough Nabrocky",
+                  "text": "Lough Nabrocky bei Galway ist ein friedlicher See.",
+                  "category": "natural",
+                  "coords": [
+                        -9.107598,
+                        53.289677
+                  ]
+            },
+            {
+                  "name": "Drum Lough West",
+                  "text": "Drum Lough West bei Galway ist ein malerischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -9.142586,
+                        53.293674
+                  ]
+            },
+            {
+                  "name": "Lochán Mhionlaigh",
+                  "text": "Lochán Mhionlaigh bei Galway ist ein schöner See.",
+                  "category": "natural",
+                  "coords": [
+                        -9.06802,
+                        53.302967
+                  ]
+            },
+            {
+                  "name": "Loughaunrone",
+                  "text": "Loughaunrone bei Galway ist ein idyllischer See.",
+                  "category": "natural",
+                  "coords": [
+                        -8.946136,
+                        53.257348
+                  ]
+            },
+            {
+                  "name": "Loughaunascalia",
+                  "text": "Loughaunascalia bei Galway ist ein ruhiger See.",
+                  "category": "natural",
+                  "coords": [
+                        -9.001225,
+                        53.233498
+                  ]
+            },
+            {
+                  "name": "Loch Inse",
+                  "text": "Der Lough Inch in Galway bietet eine ruhige Umgebung für einen Spaziergang.",
+                  "category": "natural",
+                  "coords": [
+                        -9.17038,
+                        53.270781
+                  ]
+            },
+            {
+                  "name": "Lough Corrib - Loch Coirib",
+                  "text": "Der Lough Corrib in Galway ist ein malerischer See, ideal zum Entspannen.",
+                  "category": "natural",
+                  "coords": [
+                        -9.290415,
+                        53.422269
+                  ]
+            },
+            {
+                  "name": "Lough Atalia",
+                  "text": "Der Lough Atalia in Galway bietet eine schöne Kulisse für Spaziergänge am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        -9.03758,
+                        53.275008
+                  ]
+            },
+            {
+                  "name": "Virtual Reality World",
+                  "text": "Virtual Reality World in Galway bietet ein aufregendes Erlebnis für die ganze Familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.035537,
+                        53.287315
+                  ]
+            },
+            {
+                  "name": "Seapoint Leisure",
+                  "text": "Seapoint Leisure in Galway ist ein unterhaltsamer Ort für gemeinsame Familienzeit.",
+                  "category": "family",
+                  "coords": [
+                        -9.07567,
+                        53.259605
+                  ]
+            },
+            {
+                  "name": "Mary Byrne Playground",
+                  "text": "Der Mary Byrne Spielplatz in Galway lädt Familien zum Spielen im Freien ein.",
+                  "category": "family",
+                  "coords": [
+                        -9.060052,
+                        53.271324
+                  ]
+            },
+            {
+                  "name": "Claude Toft Park Playground",
+                  "text": "Der Claude Toft Park Spielplatz in Galway bietet viel Platz für Kinder zum Toben.",
+                  "category": "family",
+                  "coords": [
+                        -9.072685,
+                        53.261015
+                  ]
+            },
+            {
+                  "name": "Claddagh Playground",
+                  "text": "Der Claddagh Spielplatz in Galway ist ein schöner Ort für einen Familienausflug.",
+                  "category": "family",
+                  "coords": [
+                        -9.053064,
+                        53.267097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coneen",
+                  "text": "A Coneen egy strand Galway közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.085879,
+                        53.257106
+                  ]
+            },
+            {
+                  "name": "Trawclogh",
+                  "text": "A Trawclogh egy partszakasz Galway közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.081263,
+                        53.25777
+                  ]
+            },
+            {
+                  "name": "Ladies Beach",
+                  "text": "A festői galway-i partvidék mentén elterülő Ladies Beach csodálatos helyszínt biztosít az atlanti óceán levegőjének élvezetéhez. A partvidék frissítő tengerparti sétákra és a hullámok csendes hallgatására csábítja a látogatókat. Viszonylag nyugodt légköre miatt nagyszerű menedék mindazok számára, akik szeretnének elszakadni a város zajától. Érdemes rétegesen öltözködni, hogy alkalmazkodjunk a hűvös ír tengeri szélhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084663,
+                        53.257384
+                  ]
+            },
+            {
+                  "name": "Grattan Beach",
+                  "text": "A nyüzsgő Galway városában található Grattan Beach tökéletesen ötvözi a városi kényelmet a tengerparti bájjal. A látogatók a vízparton sétálva élvezhetik a hatalmas térséget és a friss óceáni szelet. A környék természetes módon vonzza a helyieket és a turistákat egyaránt, akik egy nyugodt helyet keresnek a városközpont közelében. Kiváló célpont egy esti sétához, ahonnan megcsodálhatjuk a tenger felett lemenő napot.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.066874,
+                        53.262602
+                  ]
+            },
+            {
+                  "name": "Blackrock Beach",
+                  "text": "A Galway közeli lenyűgöző tengerparti tájba simuló Blackrock Beach ikonikus célpont a tenger szerelmeseinek. A jellegzetes partvidék ideális felfedezésre, melegebb napokon napozásra és a frissítő atlanti vizek megtapasztalására. Élettel teli, mégis hagyományos bájt áraszt, és gyakran nyüzsög a lelkes helyi fürdőzőktől. Egy tiszta reggelen érdemes ide látogatni, hogy megcsodálhassuk a környező öböl legszebb kilátását.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.089255,
+                        53.257103
+                  ]
+            },
+            {
+                  "name": "James Mitchell Geology Museum",
+                  "text": "Geológiai múzeum Galway-ben, amely fosszíliák és ásványok gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.061715,
+                        53.27733
+                  ]
+            },
+            {
+                  "name": "Galway City Museum",
+                  "text": "Galway városi múzeuma, amely a helyi történelmet, kultúrát és örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.053464,
+                        53.269815
+                  ]
+            },
+            {
+                  "name": "Lynch's Castle",
+                  "text": "Jó állapotban fennmaradt középkori városi ház Galway-ben, amely egykor egy hatalmas családé volt.",
+                  "category": "castle",
+                  "coords": [
+                        -9.052298,
+                        53.273133
+                  ]
+            },
+            {
+                  "name": "An Taibhdhearc",
+                  "text": "Galway ír nyelvű nemzeti színháza, a kelta kultúra egyik központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052539,
+                        53.271968
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "Dinamikus színház Galway-ben, amely az egykori városháza épületében működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.054028,
+                        53.276129
+                  ]
+            },
+            {
+                  "name": "Nun's Island Theatre",
+                  "text": "Hangulatos színház Galway-ben, amely egy egykori presbiteriánus templomban kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.057701,
+                        53.272247
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "Írország legnagyobb középkori plébániatemploma Galway központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.05369,
+                        53.272709
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "Jezsuita templom Galway-ben, amely építészetéről és központi elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -9.061638,
+                        53.269638
+                  ]
+            },
+            {
+                  "name": "Eyre Square",
+                  "text": "Népszerű közpark Galway szívében, pihenőhely és számos emlékmű otthona.",
+                  "category": "park",
+                  "coords": [
+                        -9.049243,
+                        53.274353
+                  ]
+            },
+            {
+                  "name": "Quincentenary Bridge",
+                  "text": "Modern híd a Corrib folyón Galway-ben, amely fontos városrészeket köt össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.060697,
+                        53.282674
+                  ]
+            },
+            {
+                  "name": "Blake's Castle",
+                  "text": "Galway-i történelmi erődített ház maradványa, amely a Blake családról kapta nevét.",
+                  "category": "castle",
+                  "coords": [
+                        -9.054563,
+                        53.270777
+                  ]
+            },
+            {
+                  "name": "Hall of the Red Earl",
+                  "text": "Régészeti lelőhely Galway-ben, amely egy középkori bírósági épület maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053596,
+                        53.270905
+                  ]
+            },
+            {
+                  "name": "The Black Box",
+                  "text": "Sokoldalú színházi és zenei rendezvényhelyszín Galway-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052441,
+                        53.280398
+                  ]
+            },
+            {
+                  "name": "United Methodist Presbyterian Church",
+                  "text": "Történelmi templomépület Galway-ben, az egyesült metodista-presbiteriánus közösség otthona.",
+                  "category": "religious",
+                  "coords": [
+                        -9.047913,
+                        53.272867
+                  ]
+            },
+            {
+                  "name": "Galway Cathedral",
+                  "text": "Galway lenyűgöző római katolikus székesegyháza, amely jellegzetes kőépületéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -9.057594,
+                        53.275211
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Garrison Church",
+                  "text": "Galway katolikus helyőrségi temploma, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -9.029372,
+                        53.272993
+                  ]
+            },
+            {
+                  "name": "Bohermore Cemetery Chapel",
+                  "text": "Galway temetőkápolnája, amelyet gyászszertartásokhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -9.039149,
+                        53.281026
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Priory",
+                  "text": "Történelmi perjel ség Galwayben, amely vallási célokat szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -9.056023,
+                        53.268502
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Keresztény istentiszteleti hely Galway városában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.060567,
+                        53.273385
+                  ]
+            },
+            {
+                  "name": "Mutton Island Lighthouse",
+                  "text": "Történelmi világítótorony a Galway partjainál fekvő Mutton-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.053537,
+                        53.254061
+                  ]
+            },
+            {
+                  "name": "Blackrock Diving Tower",
+                  "text": "Jellegzetes tengerparti ugrótorony, Galway Salthill negyedének jelképe.",
+                  "category": "tower",
+                  "coords": [
+                        -9.092247,
+                        53.256236
+                  ]
+            },
+            {
+                  "name": "William O'Brien Bridge",
+                  "text": "Híd a Corrib folyó felett Galway városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.05598,
+                        53.271716
+                  ]
+            },
+            {
+                  "name": "Lough Atalia Viaduct",
+                  "text": "Jellegzetes vasúti viadukt a galway-i Lough Atalia felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.04308,
+                        53.272164
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "A Galway-i Egyetem múzeuma, amely számos zoológiai kiállítást mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.059427,
+                        53.277535
+                  ]
+            },
+            {
+                  "name": "Galway Arts Centre",
+                  "text": "Kortárs művészeti központ Galway szívében.",
+                  "category": "museum",
+                  "coords": [
+                        -9.057182,
+                        53.27091
+                  ]
+            },
+            {
+                  "name": "Terryland Castle",
+                  "text": "Egy történelmi vár romjai a Corrib folyó partján.",
+                  "category": "castle",
+                  "coords": [
+                        -9.059518,
+                        53.283105
+                  ]
+            },
+            {
+                  "name": "126 Artist-Run Gallery",
+                  "text": "Művészek által vezetett galéria és projektközpont Galwayben.",
+                  "category": "museum",
+                  "coords": [
+                        -9.049373,
+                        53.277291
+                  ]
+            },
+            {
+                  "name": "Iodine Factory",
+                  "text": "Egy egykori galway-i ipari jódgyár romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -9.061039,
+                        53.289448
+                  ]
+            },
+            {
+                  "name": "Saint Patrick",
+                  "text": "Szent Patrik tiszteletére emelt emlékmű Galwayben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.063687,
+                        53.277195
+                  ]
+            },
+            {
+                  "name": "Fr Burke Statue",
+                  "text": "Fr. Burke emlékére állított szobor Galwayben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056732,
+                        53.269432
+                  ]
+            },
+            {
+                  "name": "Saint James' Church",
+                  "text": "Történelmi templomromok Galway városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.016842,
+                        53.279443
+                  ]
+            },
+            {
+                  "name": "Royal Coat of Arms 1812",
+                  "text": "Történelmi emlékmű Galwayben, amely az 1812-es királyi címert ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        -9.062735,
+                        53.277617
+                  ]
+            },
+            {
+                  "name": "Tea House Folly",
+                  "text": "Kisméretű építészeti rom Galwayben, amelyet „folly”-ként ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        -9.072244,
+                        53.294209
+                  ]
+            },
+            {
+                  "name": "Old Fort",
+                  "text": "Egy régi erődítmény maradványai Galwayben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.03266,
+                        53.268734
+                  ]
+            },
+            {
+                  "name": "Siobhan McKenna Theatre",
+                  "text": "Galway-i színház, amelyet a híres színésznőről, Siobhan McKennáról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.063026,
+                        53.279365
+                  ]
+            },
+            {
+                  "name": "Blue Teapot Theatre",
+                  "text": "Galway-i professzionális színházi társulat, amely fogyatékkal élő művészekkel dolgozik.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.059311,
+                        53.26972
+                  ]
+            },
+            {
+                  "name": "Leisureland Theatre",
+                  "text": "Színházi és szórakoztató központ Galwayben.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.082272,
+                        53.259262
+                  ]
+            },
+            {
+                  "name": "The Black Gate",
+                  "text": "Galway-i kulturális és művészeti központ, amely élő rendezvényeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.053248,
+                        53.274848
+                  ]
+            },
+            {
+                  "name": "Old city wall",
+                  "text": "A történelmi városfal maradványai, amely egykor a középkori Galwayt védte.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.050601,
+                        53.273524
+                  ]
+            },
+            {
+                  "name": "Katie's Claddagh Cottage",
+                  "text": "Hagyományos házikó, amely Galway Claddagh negyedének örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.057499,
+                        53.266427
+                  ]
+            },
+            {
+                  "name": "Royal Tara Visitor Centre",
+                  "text": "Látogatóközpont Galwayben, amely porcelánjáról és helyi kézműves termékeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.019828,
+                        53.2853
+                  ]
+            },
+            {
+                  "name": "Salmon Weir Bridge",
+                  "text": "Híd a Corrib felett, amely a lazachalászok megfigyeléséről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -9.056,
+                        53.275542
+                  ]
+            },
+            {
+                  "name": "Galway Atlantaquaria",
+                  "text": "Írország nemzeti akváriuma Galwayben, gazdag tengeri élővilággal.",
+                  "category": "family",
+                  "coords": [
+                        -9.074087,
+                        53.260051
+                  ]
+            },
+            {
+                  "name": "Curry's Fun Park",
+                  "text": "Családbarát tengerparti vidámpark Galwayben.",
+                  "category": "family",
+                  "coords": [
+                        -9.083956,
+                        53.258845
+                  ]
+            },
+            {
+                  "name": "Ballindooly Lough",
+                  "text": "A galwayi Ballindooly Lough egy szép tó.",
+                  "category": "natural",
+                  "coords": [
+                        -9.026934,
+                        53.306328
+                  ]
+            },
+            {
+                  "name": "Drum Lough",
+                  "text": "A galwayi Drum Lough egy nyugodt állóvíz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.139488,
+                        53.297402
+                  ]
+            },
+            {
+                  "name": "Lough Nabrocky",
+                  "text": "A galwayi Lough Nabrocky egy békés tó.",
+                  "category": "natural",
+                  "coords": [
+                        -9.107598,
+                        53.289677
+                  ]
+            },
+            {
+                  "name": "Drum Lough West",
+                  "text": "A galwayi Drum Lough West egy festői tó.",
+                  "category": "natural",
+                  "coords": [
+                        -9.142586,
+                        53.293674
+                  ]
+            },
+            {
+                  "name": "Lochán Mhionlaigh",
+                  "text": "A galwayi Lochán Mhionlaigh egy szép tó.",
+                  "category": "natural",
+                  "coords": [
+                        -9.06802,
+                        53.302967
+                  ]
+            },
+            {
+                  "name": "Loughaunrone",
+                  "text": "A galwayi Loughaunrone egy idilli tó.",
+                  "category": "natural",
+                  "coords": [
+                        -8.946136,
+                        53.257348
+                  ]
+            },
+            {
+                  "name": "Loughaunascalia",
+                  "text": "A galwayi Loughaunascalia egy csendes tó.",
+                  "category": "natural",
+                  "coords": [
+                        -9.001225,
+                        53.233498
+                  ]
+            },
+            {
+                  "name": "Loch Inse",
+                  "text": "A galwayi Lough Inch tó nyugodt környezetet kínál egy sétához.",
+                  "category": "natural",
+                  "coords": [
+                        -9.17038,
+                        53.270781
+                  ]
+            },
+            {
+                  "name": "Lough Corrib - Loch Coirib",
+                  "text": "A galwayi Lough Corrib egy festői tó, ideális a pihenéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -9.290415,
+                        53.422269
+                  ]
+            },
+            {
+                  "name": "Lough Atalia",
+                  "text": "A galwayi Lough Atalia gyönyörű hátteret biztosít a vízparti sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        -9.03758,
+                        53.275008
+                  ]
+            },
+            {
+                  "name": "Virtual Reality World",
+                  "text": "A galwayi Virtual Reality World izgalmas élményt nyújt az egész családnak.",
+                  "category": "family",
+                  "coords": [
+                        -9.035537,
+                        53.287315
+                  ]
+            },
+            {
+                  "name": "Seapoint Leisure",
+                  "text": "A galwayi Seapoint Leisure szórakoztató hely a közös családi időtöltéshez.",
+                  "category": "family",
+                  "coords": [
+                        -9.07567,
+                        53.259605
+                  ]
+            },
+            {
+                  "name": "Mary Byrne Playground",
+                  "text": "A galwayi Mary Byrne játszótér szabadtéri játékra csábítja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        -9.060052,
+                        53.271324
+                  ]
+            },
+            {
+                  "name": "Claude Toft Park Playground",
+                  "text": "A galwayi Claude Toft Park játszótér rengeteg helyet kínál a gyerekeknek a szaladgáláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.072685,
+                        53.261015
+                  ]
+            },
+            {
+                  "name": "Claddagh Playground",
+                  "text": "A galwayi Claddagh játszótér remek hely egy családi kiránduláshoz.",
+                  "category": "family",
+                  "coords": [
+                        -9.053064,
+                        53.267097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coneen",
+                  "text": "Coneen este o plajă lângă Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.085879,
+                        53.257106
+                  ]
+            },
+            {
+                  "name": "Trawclogh",
+                  "text": "Trawclogh este o porțiune de plajă lângă Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.081263,
+                        53.25777
+                  ]
+            },
+            {
+                  "name": "Ladies Beach",
+                  "text": "Situată de-a lungul coastei pitorești din Galway, Ladies Beach oferă un cadru minunat pentru a te bucura de aerul atlantic. Țărmul invită vizitatorii la plimbări răcoroase pe coastă și la momente de liniște ascultând valurile. Atmosfera sa relativ pașnică face din acest loc o oază excelentă pentru cei care caută o pauză de la agitația orașului. Îmbrăcămintea în straturi este o alegere înțeleaptă pentru a face față brizei aspre irlandeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084663,
+                        53.257384
+                  ]
+            },
+            {
+                  "name": "Grattan Beach",
+                  "text": "Situată în orașul vibrant Galway, Grattan Beach îmbină perfect confortul urban cu farmecul maritim. Vizitatorii se pot plimba pe malul apei, bucurându-se de priveliștile ample și de briza rece a oceanului. Zona atrage în mod natural atât localnici, cât și turiști care caută un loc relaxat pentru a se destinde aproape de centrul orașului. Este o destinație excelentă pentru o plimbare de seară pentru a privi apusul soarelui peste mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.066874,
+                        53.262602
+                  ]
+            },
+            {
+                  "name": "Blackrock Beach",
+                  "text": "Amplasată pe fundalul peisajului de coastă impresionant de lângă Galway, Blackrock Beach este o destinație iconică pentru iubitorii mării. Litoralul său distinctiv este ideal pentru explorare, pentru plajă în zilele mai calde și pentru a experimenta apele răcoritoare ale Atlanticului. Radiază un farmec plin de viață, dar tradițional, fiind adesea animată de scăldătorii locali entuziaști. O vizită într-o dimineață senină oferă cele mai luminoase priveliști ale golfului înconjurător.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.089255,
+                        53.257103
+                  ]
+            },
+            {
+                  "name": "James Mitchell Geology Museum",
+                  "text": "Un muzeu de geologie în Galway, care expune o colecție bogată de fosile și minerale.",
+                  "category": "museum",
+                  "coords": [
+                        -9.061715,
+                        53.27733
+                  ]
+            },
+            {
+                  "name": "Galway City Museum",
+                  "text": "Un muzeu din Galway care prezintă istoria locală, cultura și patrimoniul orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -9.053464,
+                        53.269815
+                  ]
+            },
+            {
+                  "name": "Lynch's Castle",
+                  "text": "O casă medievală bine conservată în Galway, care a aparținut odinioară unei familii puternice.",
+                  "category": "castle",
+                  "coords": [
+                        -9.052298,
+                        53.273133
+                  ]
+            },
+            {
+                  "name": "An Taibhdhearc",
+                  "text": "Teatrul național de limbă irlandeză din Galway, un centru al culturii gaelice.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052539,
+                        53.271968
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "Un teatru dinamic situat în clădirea fostei primării din Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.054028,
+                        53.276129
+                  ]
+            },
+            {
+                  "name": "Nun's Island Theatre",
+                  "text": "Un teatru intim din Galway situat într-o fostă biserică presbiteriană.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.057701,
+                        53.272247
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "Cea mai mare biserică parohială medievală din Irlanda, situată în centrul orașului Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.05369,
+                        53.272709
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "O biserică iezuită din Galway, cunoscută pentru arhitectura sa și locația centrală.",
+                  "category": "religious",
+                  "coords": [
+                        -9.061638,
+                        53.269638
+                  ]
+            },
+            {
+                  "name": "Eyre Square",
+                  "text": "Un parc public popular în inima orașului Galway, loc de relaxare și gazdă a mai multor monumente.",
+                  "category": "park",
+                  "coords": [
+                        -9.049243,
+                        53.274353
+                  ]
+            },
+            {
+                  "name": "Quincentenary Bridge",
+                  "text": "Un pod modern peste râul Corrib în Galway, care leagă zone importante ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.060697,
+                        53.282674
+                  ]
+            },
+            {
+                  "name": "Blake's Castle",
+                  "text": "Rămășițele unei case fortificate istorice din Galway, numită după familia Blake.",
+                  "category": "castle",
+                  "coords": [
+                        -9.054563,
+                        53.270777
+                  ]
+            },
+            {
+                  "name": "Hall of the Red Earl",
+                  "text": "Un sit arheologic în Galway care prezintă rămășițele unei clădiri medievale de judecată.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053596,
+                        53.270905
+                  ]
+            },
+            {
+                  "name": "The Black Box",
+                  "text": "O locație versatilă pentru teatru și muzică în Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052441,
+                        53.280398
+                  ]
+            },
+            {
+                  "name": "United Methodist Presbyterian Church",
+                  "text": "O clădire istorică de biserică din Galway, care găzduiește comunitatea unită metodist-presbiteriană.",
+                  "category": "religious",
+                  "coords": [
+                        -9.047913,
+                        53.272867
+                  ]
+            },
+            {
+                  "name": "Galway Cathedral",
+                  "text": "O catedrală romano-catolică impresionantă în Galway, cunoscută pentru construcția sa din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        -9.057594,
+                        53.275211
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Garrison Church",
+                  "text": "O biserică catolică de garnizoană din Galway, care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -9.029372,
+                        53.272993
+                  ]
+            },
+            {
+                  "name": "Bohermore Cemetery Chapel",
+                  "text": "O capelă de cimitir din Galway, utilizată pentru servicii funerare.",
+                  "category": "religious",
+                  "coords": [
+                        -9.039149,
+                        53.281026
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Priory",
+                  "text": "Un priorat istoric din Galway, dedicat practicilor religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -9.056023,
+                        53.268502
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Un lăcaș de cult creștin situat în orașul Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.060567,
+                        53.273385
+                  ]
+            },
+            {
+                  "name": "Mutton Island Lighthouse",
+                  "text": "Un far istoric situat pe insula Mutton, în largul coastei orașului Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.053537,
+                        53.254061
+                  ]
+            },
+            {
+                  "name": "Blackrock Diving Tower",
+                  "text": "Un turn de sărituri iconic la malul mării, un simbol al zonei Salthill din Galway.",
+                  "category": "tower",
+                  "coords": [
+                        -9.092247,
+                        53.256236
+                  ]
+            },
+            {
+                  "name": "William O'Brien Bridge",
+                  "text": "Un pod peste râul Corrib, situat în centrul orașului Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.05598,
+                        53.271716
+                  ]
+            },
+            {
+                  "name": "Lough Atalia Viaduct",
+                  "text": "Un viaduct feroviar distinctiv situat lângă Lough Atalia în Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.04308,
+                        53.272164
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "Un muzeu al Universității din Galway care prezintă o varietate de exponate zoologice.",
+                  "category": "museum",
+                  "coords": [
+                        -9.059427,
+                        53.277535
+                  ]
+            },
+            {
+                  "name": "Galway Arts Centre",
+                  "text": "Un centru de artă contemporană situat în inima orașului Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.057182,
+                        53.27091
+                  ]
+            },
+            {
+                  "name": "Terryland Castle",
+                  "text": "Ruinele unui castel istoric situat pe malul râului Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.059518,
+                        53.283105
+                  ]
+            },
+            {
+                  "name": "126 Artist-Run Gallery",
+                  "text": "O galerie condusă de artiști și un spațiu de proiecte în Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.049373,
+                        53.277291
+                  ]
+            },
+            {
+                  "name": "Iodine Factory",
+                  "text": "Ruinele unei foste fabrici industriale de iod din Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.061039,
+                        53.289448
+                  ]
+            },
+            {
+                  "name": "Saint Patrick",
+                  "text": "Un monument ridicat în cinstea Sfântului Patrick în Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.063687,
+                        53.277195
+                  ]
+            },
+            {
+                  "name": "Fr Burke Statue",
+                  "text": "O statuie din Galway care îl comemorează pe Fr. Burke.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056732,
+                        53.269432
+                  ]
+            },
+            {
+                  "name": "Saint James' Church",
+                  "text": "Ruinele unei biserici istorice din Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.016842,
+                        53.279443
+                  ]
+            },
+            {
+                  "name": "Royal Coat of Arms 1812",
+                  "text": "Un monument istoric din Galway care înfățișează blazonul regal din 1812.",
+                  "category": "historical",
+                  "coords": [
+                        -9.062735,
+                        53.277617
+                  ]
+            },
+            {
+                  "name": "Tea House Folly",
+                  "text": "O mică ruină arhitecturală din Galway, cunoscută sub numele de „folly”.",
+                  "category": "historical",
+                  "coords": [
+                        -9.072244,
+                        53.294209
+                  ]
+            },
+            {
+                  "name": "Old Fort",
+                  "text": "Rămășițele unei vechi fortificații din Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.03266,
+                        53.268734
+                  ]
+            },
+            {
+                  "name": "Siobhan McKenna Theatre",
+                  "text": "Un teatru din Galway numit după celebra actriță Siobhan McKenna.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.063026,
+                        53.279365
+                  ]
+            },
+            {
+                  "name": "Blue Teapot Theatre",
+                  "text": "O companie de teatru profesionist din Galway care lucrează cu artiști cu dizabilități.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.059311,
+                        53.26972
+                  ]
+            },
+            {
+                  "name": "Leisureland Theatre",
+                  "text": "Un loc pentru spectacole de teatru și divertisment în Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.082272,
+                        53.259262
+                  ]
+            },
+            {
+                  "name": "The Black Gate",
+                  "text": "Un centru cultural și de artă din Galway, cunoscut pentru evenimente live.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.053248,
+                        53.274848
+                  ]
+            },
+            {
+                  "name": "Old city wall",
+                  "text": "Rămășițele zidului istoric al orașului, care proteja odinioară Galway-ul medieval.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.050601,
+                        53.273524
+                  ]
+            },
+            {
+                  "name": "Katie's Claddagh Cottage",
+                  "text": "O căsuță tradițională care păstrează moștenirea cartierului Claddagh din Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.057499,
+                        53.266427
+                  ]
+            },
+            {
+                  "name": "Royal Tara Visitor Centre",
+                  "text": "Un centru pentru vizitatori din Galway, cunoscut pentru porțelan și meșteșuguri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.019828,
+                        53.2853
+                  ]
+            },
+            {
+                  "name": "Salmon Weir Bridge",
+                  "text": "Un pod peste Corrib, cunoscut pentru vederea asupra pescarilor de somon.",
+                  "category": "natural",
+                  "coords": [
+                        -9.056,
+                        53.275542
+                  ]
+            },
+            {
+                  "name": "Galway Atlantaquaria",
+                  "text": "Acvariul național al Irlandei din Galway, care prezintă viața marină diversă.",
+                  "category": "family",
+                  "coords": [
+                        -9.074087,
+                        53.260051
+                  ]
+            },
+            {
+                  "name": "Curry's Fun Park",
+                  "text": "Un parc de distracții pentru familii, situat la malul mării în Galway.",
+                  "category": "family",
+                  "coords": [
+                        -9.083956,
+                        53.258845
+                  ]
+            },
+            {
+                  "name": "Ballindooly Lough",
+                  "text": "Ballindooly Lough de lângă Galway este un lac frumos.",
+                  "category": "natural",
+                  "coords": [
+                        -9.026934,
+                        53.306328
+                  ]
+            },
+            {
+                  "name": "Drum Lough",
+                  "text": "Drum Lough de lângă Galway este o apă liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        -9.139488,
+                        53.297402
+                  ]
+            },
+            {
+                  "name": "Lough Nabrocky",
+                  "text": "Lough Nabrocky de lângă Galway este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -9.107598,
+                        53.289677
+                  ]
+            },
+            {
+                  "name": "Drum Lough West",
+                  "text": "Drum Lough West de lângă Galway este un lac pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        -9.142586,
+                        53.293674
+                  ]
+            },
+            {
+                  "name": "Lochán Mhionlaigh",
+                  "text": "Lochán Mhionlaigh de lângă Galway este un lac frumos.",
+                  "category": "natural",
+                  "coords": [
+                        -9.06802,
+                        53.302967
+                  ]
+            },
+            {
+                  "name": "Loughaunrone",
+                  "text": "Loughaunrone de lângă Galway este un lac idilic.",
+                  "category": "natural",
+                  "coords": [
+                        -8.946136,
+                        53.257348
+                  ]
+            },
+            {
+                  "name": "Loughaunascalia",
+                  "text": "Loughaunascalia de lângă Galway este un lac liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        -9.001225,
+                        53.233498
+                  ]
+            },
+            {
+                  "name": "Loch Inse",
+                  "text": "Lough Inch din Galway oferă un cadru liniștit pentru o plimbare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.17038,
+                        53.270781
+                  ]
+            },
+            {
+                  "name": "Lough Corrib - Loch Coirib",
+                  "text": "Lough Corrib din Galway este un lac pitoresc, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.290415,
+                        53.422269
+                  ]
+            },
+            {
+                  "name": "Lough Atalia",
+                  "text": "Lough Atalia din Galway oferă un cadru frumos pentru plimbări pe malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        -9.03758,
+                        53.275008
+                  ]
+            },
+            {
+                  "name": "Virtual Reality World",
+                  "text": "Virtual Reality World din Galway oferă o experiență incitantă pentru întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.035537,
+                        53.287315
+                  ]
+            },
+            {
+                  "name": "Seapoint Leisure",
+                  "text": "Seapoint Leisure din Galway este un loc distractiv pentru timpul petrecut în familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.07567,
+                        53.259605
+                  ]
+            },
+            {
+                  "name": "Mary Byrne Playground",
+                  "text": "Locul de joacă Mary Byrne din Galway invită familiile la joacă în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -9.060052,
+                        53.271324
+                  ]
+            },
+            {
+                  "name": "Claude Toft Park Playground",
+                  "text": "Locul de joacă Claude Toft Park din Galway oferă mult spațiu pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -9.072685,
+                        53.261015
+                  ]
+            },
+            {
+                  "name": "Claddagh Playground",
+                  "text": "Locul de joacă Claddagh din Galway este un loc minunat pentru o ieșire în familie.",
+                  "category": "family",
+                  "coords": [
+                        -9.053064,
+                        53.267097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coneen",
+                  "text": "Coneen is a beach near Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.085879,
+                        53.257106
+                  ]
+            },
+            {
+                  "name": "Trawclogh",
+                  "text": "Trawclogh is a beach area near Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.081263,
+                        53.25777
+                  ]
+            },
+            {
+                  "name": "Ladies Beach",
+                  "text": "Situated along the scenic coastline of Galway, Ladies Beach provides a wonderful setting to enjoy the Atlantic air. The shore invites visitors for refreshing coastal walks and peaceful moments listening to the waves. Its relatively tranquil atmosphere makes it a great spot for those seeking a break from the city's hustle. Dressing in layers is a smart choice to adapt to the brisk Irish coastal breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.084663,
+                        53.257384
+                  ]
+            },
+            {
+                  "name": "Grattan Beach",
+                  "text": "Found in the vibrant city of Galway, Grattan Beach seamlessly blends urban convenience with maritime charm. Visitors can stroll along the water's edge, enjoying the expansive views and the crisp ocean breeze. The area naturally draws both locals and tourists looking for a relaxed spot to unwind near the city center. It is an excellent destination for an evening walk to watch the sunset over the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.066874,
+                        53.262602
+                  ]
+            },
+            {
+                  "name": "Blackrock Beach",
+                  "text": "Set against the striking coastal landscape near Galway, Blackrock Beach is an iconic destination for sea lovers. The distinctive shoreline is ideal for exploring, sunbathing on warmer days, and experiencing the refreshing Atlantic waters. It radiates a lively yet traditional charm, often busy with enthusiastic local bathers. Stopping by on a clear morning offers the brightest views of the surrounding bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.089255,
+                        53.257103
+                  ]
+            },
+            {
+                  "name": "James Mitchell Geology Museum",
+                  "text": "A geology museum in Galway displaying an extensive collection of fossils and minerals.",
+                  "category": "museum",
+                  "coords": [
+                        -9.061715,
+                        53.27733
+                  ]
+            },
+            {
+                  "name": "Galway City Museum",
+                  "text": "A museum in Galway presenting the city's local history, culture, and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -9.053464,
+                        53.269815
+                  ]
+            },
+            {
+                  "name": "Lynch's Castle",
+                  "text": "A well-preserved medieval fortified house in Galway once belonging to a powerful family.",
+                  "category": "castle",
+                  "coords": [
+                        -9.052298,
+                        53.273133
+                  ]
+            },
+            {
+                  "name": "An Taibhdhearc",
+                  "text": "The national Irish-language theatre in Galway, a centre for Gaelic culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052539,
+                        53.271968
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "A dynamic theatre located in a former town hall building in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.054028,
+                        53.276129
+                  ]
+            },
+            {
+                  "name": "Nun's Island Theatre",
+                  "text": "An intimate theatre in Galway located in a former Presbyterian chapel.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.057701,
+                        53.272247
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "The largest medieval parish church in Ireland, located in the centre of Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.05369,
+                        53.272709
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "A Jesuit church in Galway known for its architecture and central location.",
+                  "category": "religious",
+                  "coords": [
+                        -9.061638,
+                        53.269638
+                  ]
+            },
+            {
+                  "name": "Eyre Square",
+                  "text": "A popular public park in the heart of Galway, a place for relaxation and monuments.",
+                  "category": "park",
+                  "coords": [
+                        -9.049243,
+                        53.274353
+                  ]
+            },
+            {
+                  "name": "Quincentenary Bridge",
+                  "text": "A modern bridge over the River Corrib in Galway, connecting major parts of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.060697,
+                        53.282674
+                  ]
+            },
+            {
+                  "name": "Blake's Castle",
+                  "text": "Remains of a historical fortified house in Galway named after the Blake family.",
+                  "category": "castle",
+                  "coords": [
+                        -9.054563,
+                        53.270777
+                  ]
+            },
+            {
+                  "name": "Hall of the Red Earl",
+                  "text": "An archaeological site in Galway showing the remains of a medieval hall.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053596,
+                        53.270905
+                  ]
+            },
+            {
+                  "name": "The Black Box",
+                  "text": "A versatile venue for theatre and music performances in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052441,
+                        53.280398
+                  ]
+            },
+            {
+                  "name": "United Methodist Presbyterian Church",
+                  "text": "A historical church building in Galway housing the united Methodist-Presbyterian congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -9.047913,
+                        53.272867
+                  ]
+            },
+            {
+                  "name": "Galway Cathedral",
+                  "text": "An impressive Roman Catholic cathedral in Galway featuring a distinctive stone construction.",
+                  "category": "religious",
+                  "coords": [
+                        -9.057594,
+                        53.275211
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Garrison Church",
+                  "text": "A Catholic garrison church in Galway serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -9.029372,
+                        53.272993
+                  ]
+            },
+            {
+                  "name": "Bohermore Cemetery Chapel",
+                  "text": "A cemetery chapel in Galway used for funeral services.",
+                  "category": "religious",
+                  "coords": [
+                        -9.039149,
+                        53.281026
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Priory",
+                  "text": "A historic priory in Galway dedicated to religious worship.",
+                  "category": "religious",
+                  "coords": [
+                        -9.056023,
+                        53.268502
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "A Christian place of worship located in the city of Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.060567,
+                        53.273385
+                  ]
+            },
+            {
+                  "name": "Mutton Island Lighthouse",
+                  "text": "A historic lighthouse situated on Mutton Island off the Galway coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.053537,
+                        53.254061
+                  ]
+            },
+            {
+                  "name": "Blackrock Diving Tower",
+                  "text": "An iconic seaside diving tower and a landmark of Salthill in Galway.",
+                  "category": "tower",
+                  "coords": [
+                        -9.092247,
+                        53.256236
+                  ]
+            },
+            {
+                  "name": "William O'Brien Bridge",
+                  "text": "A bridge crossing the River Corrib in the heart of Galway city.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.05598,
+                        53.271716
+                  ]
+            },
+            {
+                  "name": "Lough Atalia Viaduct",
+                  "text": "A distinctive railway viaduct spanning near Lough Atalia in Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.04308,
+                        53.272164
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "A museum at the University of Galway displaying a variety of zoological exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -9.059427,
+                        53.277535
+                  ]
+            },
+            {
+                  "name": "Galway Arts Centre",
+                  "text": "A centre for contemporary art located in the heart of Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.057182,
+                        53.27091
+                  ]
+            },
+            {
+                  "name": "Terryland Castle",
+                  "text": "The ruins of a historic castle located on the banks of the River Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.059518,
+                        53.283105
+                  ]
+            },
+            {
+                  "name": "126 Artist-Run Gallery",
+                  "text": "An artist-run gallery and project space located in Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.049373,
+                        53.277291
+                  ]
+            },
+            {
+                  "name": "Iodine Factory",
+                  "text": "Ruins of a former industrial iodine factory in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.061039,
+                        53.289448
+                  ]
+            },
+            {
+                  "name": "Saint Patrick",
+                  "text": "A monument dedicated to Saint Patrick in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.063687,
+                        53.277195
+                  ]
+            },
+            {
+                  "name": "Fr Burke Statue",
+                  "text": "A statue in Galway commemorating Fr. Burke.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056732,
+                        53.269432
+                  ]
+            },
+            {
+                  "name": "Saint James' Church",
+                  "text": "Historical church ruins located in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.016842,
+                        53.279443
+                  ]
+            },
+            {
+                  "name": "Royal Coat of Arms 1812",
+                  "text": "A historic monument in Galway featuring the Royal Coat of Arms from 1812.",
+                  "category": "historical",
+                  "coords": [
+                        -9.062735,
+                        53.277617
+                  ]
+            },
+            {
+                  "name": "Tea House Folly",
+                  "text": "A small architectural ruin in Galway known as a folly.",
+                  "category": "historical",
+                  "coords": [
+                        -9.072244,
+                        53.294209
+                  ]
+            },
+            {
+                  "name": "Old Fort",
+                  "text": "Remains of an old fortification in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.03266,
+                        53.268734
+                  ]
+            },
+            {
+                  "name": "Siobhan McKenna Theatre",
+                  "text": "A theatre in Galway named after the famous actress Siobhan McKenna.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.063026,
+                        53.279365
+                  ]
+            },
+            {
+                  "name": "Blue Teapot Theatre",
+                  "text": "A professional theatre company in Galway working with artists with disabilities.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.059311,
+                        53.26972
+                  ]
+            },
+            {
+                  "name": "Leisureland Theatre",
+                  "text": "A venue for theatre and entertainment located in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.082272,
+                        53.259262
+                  ]
+            },
+            {
+                  "name": "The Black Gate",
+                  "text": "A cultural and arts centre in Galway known for live events.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.053248,
+                        53.274848
+                  ]
+            },
+            {
+                  "name": "Old city wall",
+                  "text": "Remains of the historic city wall that once protected medieval Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.050601,
+                        53.273524
+                  ]
+            },
+            {
+                  "name": "Katie's Claddagh Cottage",
+                  "text": "A traditional cottage preserving the heritage of the Claddagh area in Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.057499,
+                        53.266427
+                  ]
+            },
+            {
+                  "name": "Royal Tara Visitor Centre",
+                  "text": "A visitor centre in Galway known for its china and local crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.019828,
+                        53.2853
+                  ]
+            },
+            {
+                  "name": "Salmon Weir Bridge",
+                  "text": "A bridge over the Corrib known for views of salmon fishing.",
+                  "category": "natural",
+                  "coords": [
+                        -9.056,
+                        53.275542
+                  ]
+            },
+            {
+                  "name": "Galway Atlantaquaria",
+                  "text": "Ireland's national aquarium in Galway showcasing diverse marine life.",
+                  "category": "family",
+                  "coords": [
+                        -9.074087,
+                        53.260051
+                  ]
+            },
+            {
+                  "name": "Curry's Fun Park",
+                  "text": "A family-friendly seaside amusement park in Galway.",
+                  "category": "family",
+                  "coords": [
+                        -9.083956,
+                        53.258845
+                  ]
+            },
+            {
+                  "name": "Ballindooly Lough",
+                  "text": "Ballindooly Lough near Galway is a beautiful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -9.026934,
+                        53.306328
+                  ]
+            },
+            {
+                  "name": "Drum Lough",
+                  "text": "Drum Lough near Galway is a quiet body of water.",
+                  "category": "natural",
+                  "coords": [
+                        -9.139488,
+                        53.297402
+                  ]
+            },
+            {
+                  "name": "Lough Nabrocky",
+                  "text": "Lough Nabrocky near Galway is a peaceful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -9.107598,
+                        53.289677
+                  ]
+            },
+            {
+                  "name": "Drum Lough West",
+                  "text": "Drum Lough West near Galway is a picturesque lake.",
+                  "category": "natural",
+                  "coords": [
+                        -9.142586,
+                        53.293674
+                  ]
+            },
+            {
+                  "name": "Lochán Mhionlaigh",
+                  "text": "Lochán Mhionlaigh near Galway is a beautiful lake.",
+                  "category": "natural",
+                  "coords": [
+                        -9.06802,
+                        53.302967
+                  ]
+            },
+            {
+                  "name": "Loughaunrone",
+                  "text": "Loughaunrone near Galway is an idyllic lake.",
+                  "category": "natural",
+                  "coords": [
+                        -8.946136,
+                        53.257348
+                  ]
+            },
+            {
+                  "name": "Loughaunascalia",
+                  "text": "Loughaunascalia near Galway is a quiet lake.",
+                  "category": "natural",
+                  "coords": [
+                        -9.001225,
+                        53.233498
+                  ]
+            },
+            {
+                  "name": "Lough Inch",
+                  "text": "Lough Inch in Galway offers a peaceful setting for a walk.",
+                  "category": "natural",
+                  "coords": [
+                        -9.17038,
+                        53.270781
+                  ]
+            },
+            {
+                  "name": "Lough Corrib",
+                  "text": "Lough Corrib in Galway is a scenic lake, ideal for relaxing.",
+                  "category": "natural",
+                  "coords": [
+                        -9.290415,
+                        53.422269
+                  ]
+            },
+            {
+                  "name": "Lough Atalia",
+                  "text": "Lough Atalia in Galway provides a lovely backdrop for waterfront walks.",
+                  "category": "natural",
+                  "coords": [
+                        -9.03758,
+                        53.275008
+                  ]
+            },
+            {
+                  "name": "Virtual Reality World",
+                  "text": "Virtual Reality World in Galway offers an exciting experience for the whole family.",
+                  "category": "family",
+                  "coords": [
+                        -9.035537,
+                        53.287315
+                  ]
+            },
+            {
+                  "name": "Seapoint Leisure",
+                  "text": "Seapoint Leisure in Galway is a fun place for shared family time.",
+                  "category": "family",
+                  "coords": [
+                        -9.07567,
+                        53.259605
+                  ]
+            },
+            {
+                  "name": "Mary Byrne Playground",
+                  "text": "Mary Byrne playground in Galway invites families for outdoor play.",
+                  "category": "family",
+                  "coords": [
+                        -9.060052,
+                        53.271324
+                  ]
+            },
+            {
+                  "name": "Claude Toft Park Playground",
+                  "text": "Claude Toft Park playground in Galway offers plenty of space for kids to play.",
+                  "category": "family",
+                  "coords": [
+                        -9.072685,
+                        53.261015
+                  ]
+            },
+            {
+                  "name": "Claddagh Playground",
+                  "text": "Claddagh playground in Galway is a great spot for a family outing.",
+                  "category": "family",
+                  "coords": [
+                        -9.053064,
+                        53.267097
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-9.0568, 53.2707],
@@ -5503,15 +7816,6 @@ export const irelandCities: POI[] = [
     id: "city-belfast", "sights": {
       "de": [
             {
-                  "name": "Ulster Museum",
-                  "text": "Das größte Museum Nordirlands mit Sammlungen zu Kunst, Geschichte und Naturwissenschaften.",
-                  "category": "museum",
-                  "coords": [
-                        -5.935348,
-                        54.582313
-                  ]
-            },
-            {
                   "name": "Crumlin Road Gaol",
                   "text": "Ein historisches ehemaliges Gefängnis in Belfast, das heute als Museum und Besucherattraktion dient.",
                   "category": "museum",
@@ -5536,33 +7840,6 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -5.930096,
                         54.596941
-                  ]
-            },
-            {
-                  "name": "Lyric Theatre",
-                  "text": "Ein führendes Theater in Belfast, das für sein Engagement für neue irische Dramatik bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.930884,
-                        54.577153
-                  ]
-            },
-            {
-                  "name": "Ulster Hall",
-                  "text": "Eine historische Konzerthalle und ein Wahrzeichen in Belfast, bekannt für große Musikveranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.930517,
-                        54.594632
-                  ]
-            },
-            {
-                  "name": "Grand Opera House",
-                  "text": "Ein prachtvolles viktorianisches Theater in Belfast, entworfen vom renommierten Architekten Frank Matcham.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.935239,
-                        54.595386
                   ]
             },
             {
@@ -5991,15 +8268,6 @@ export const irelandCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ulster Museum",
-                  "text": "Észak-Írország legnagyobb múzeuma, szépművészeti, történelmi és természettudományi gyűjteményekkel.",
-                  "category": "museum",
-                  "coords": [
-                        -5.935348,
-                        54.582313
-                  ]
-            },
-            {
                   "name": "Crumlin Road Gaol",
                   "text": "Egykori történelmi börtön Belfastban, amely ma múzeumként és látogatóközpontként működik.",
                   "category": "museum",
@@ -6024,33 +8292,6 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -5.930096,
                         54.596941
-                  ]
-            },
-            {
-                  "name": "Lyric Theatre",
-                  "text": "Belfast egyik vezető színháza, amely az új ír drámák iránti elkötelezettségéről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.930884,
-                        54.577153
-                  ]
-            },
-            {
-                  "name": "Ulster Hall",
-                  "text": "Történelmi koncertterem és jelkép Belfastban, amely híres nagyszabású zenei eseményeiről.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.930517,
-                        54.594632
-                  ]
-            },
-            {
-                  "name": "Grand Opera House",
-                  "text": "Díszes viktoriánus színház Belfastban, amelyet a neves építész, Frank Matcham tervezett.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.935239,
-                        54.595386
                   ]
             },
             {
@@ -6479,15 +8720,6 @@ export const irelandCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ulster Museum",
-                  "text": "Cel mai mare muzeu din Irlanda de Nord, cu colecții de artă plastică, istorie și științe naturale.",
-                  "category": "museum",
-                  "coords": [
-                        -5.935348,
-                        54.582313
-                  ]
-            },
-            {
                   "name": "Crumlin Road Gaol",
                   "text": "O fostă închisoare istorică din Belfast, care servește acum ca muzeu și atracție pentru vizitatori.",
                   "category": "museum",
@@ -6512,33 +8744,6 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -5.930096,
                         54.596941
-                  ]
-            },
-            {
-                  "name": "Lyric Theatre",
-                  "text": "Un teatru de top din Belfast, cunoscut pentru angajamentul său față de noile scrieri irlandeze.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.930884,
-                        54.577153
-                  ]
-            },
-            {
-                  "name": "Ulster Hall",
-                  "text": "O sală de concerte istorică și un punct de reper în Belfast, celebră pentru găzduirea unor evenimente muzicale majore.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.930517,
-                        54.594632
-                  ]
-            },
-            {
-                  "name": "Grand Opera House",
-                  "text": "Un teatru victorian ornamentat din Belfast, proiectat de renumitul arhitect Frank Matcham.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.935239,
-                        54.595386
                   ]
             },
             {
@@ -6967,15 +9172,6 @@ export const irelandCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Ulster Museum",
-                  "text": "Northern Ireland's largest museum, featuring collections of fine art, history, and natural sciences.",
-                  "category": "museum",
-                  "coords": [
-                        -5.935348,
-                        54.582313
-                  ]
-            },
-            {
                   "name": "Crumlin Road Gaol",
                   "text": "A historic former prison in Belfast that now serves as a museum and visitor attraction.",
                   "category": "museum",
@@ -7000,33 +9196,6 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -5.930096,
                         54.596941
-                  ]
-            },
-            {
-                  "name": "Lyric Theatre",
-                  "text": "A leading producing theatre in Belfast, known for its commitment to new Irish writing.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.930884,
-                        54.577153
-                  ]
-            },
-            {
-                  "name": "Ulster Hall",
-                  "text": "A historic concert hall and landmark in Belfast, famous for hosting major musical events.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.930517,
-                        54.594632
-                  ]
-            },
-            {
-                  "name": "Grand Opera House",
-                  "text": "An ornate Victorian theatre in Belfast designed by renowned architect Frank Matcham.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.935239,
-                        54.595386
                   ]
             },
             {
@@ -15683,15 +17852,6 @@ export const irelandNature: POI[] = [
                   ]
             },
             {
-                  "name": "Portballintrae Beach",
-                  "text": "Ein Sandstrand im Dorf Portballintrae in der Nähe des Giant's Causeway.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.547167,
-                        55.216657
-                  ]
-            },
-            {
                   "name": "Giant's Causeway",
                   "text": "Ein UNESCO-Welterbe aus tausenden hexagonalen Basaltsäulen.",
                   "category": "landmark",
@@ -15754,15 +17914,6 @@ export const irelandNature: POI[] = [
                   "coords": [
                         -6.538897,
                         55.218426
-                  ]
-            },
-            {
-                  "name": "Portballintrae Beach",
-                  "text": "Homokos tengerpart Portballintrae falujában, az Óriások útja közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.547167,
-                        55.216657
                   ]
             },
             {
@@ -15831,15 +17982,6 @@ export const irelandNature: POI[] = [
                   ]
             },
             {
-                  "name": "Portballintrae Beach",
-                  "text": "O plajă cu nisip în satul Portballintrae, lângă Giant's Causeway.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.547167,
-                        55.216657
-                  ]
-            },
-            {
                   "name": "Giant's Causeway",
                   "text": "Un sit din patrimoniul mondial UNESCO format din mii de coloane de bazalt hexagonale.",
                   "category": "landmark",
@@ -15902,15 +18044,6 @@ export const irelandNature: POI[] = [
                   "coords": [
                         -6.538897,
                         55.218426
-                  ]
-            },
-            {
-                  "name": "Portballintrae Beach",
-                  "text": "A sandy beach in the village of Portballintrae near the Giant's Causeway.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.547167,
-                        55.216657
                   ]
             },
             {
@@ -16230,15 +18363,6 @@ export const irelandNature: POI[] = [
                   ]
             },
             {
-                  "name": "Cnoc Lios Uachtair",
-                  "text": "Ein markanter Hügel in der irischen Region Connemara.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.71848,
-                        53.483593
-                  ]
-            },
-            {
                   "name": "Binn idir an dá Log",
                   "text": "Der höchste Gipfel der Maumturk-Berge im Westen Irlands.",
                   "category": "landmark",
@@ -16274,15 +18398,6 @@ export const irelandNature: POI[] = [
                   "coords": [
                         -9.703991,
                         53.52186
-                  ]
-            },
-            {
-                  "name": "Cnoc Lios Uachtair",
-                  "text": "Jellegzetes domb az írországi Connemara régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.71848,
-                        53.483593
                   ]
             },
             {
@@ -16324,15 +18439,6 @@ export const irelandNature: POI[] = [
                   ]
             },
             {
-                  "name": "Cnoc Lios Uachtair",
-                  "text": "Un deal proeminent în regiunea irlandeză Connemara.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.71848,
-                        53.483593
-                  ]
-            },
-            {
                   "name": "Binn idir an dá Log",
                   "text": "Cel mai înalt vârf din munții Maumturks din vestul Irlandei.",
                   "category": "landmark",
@@ -16368,15 +18474,6 @@ export const irelandNature: POI[] = [
                   "coords": [
                         -9.703991,
                         53.52186
-                  ]
-            },
-            {
-                  "name": "Lissaughter",
-                  "text": "A prominent hill in the Connemara region of Ireland.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.71848,
-                        53.483593
                   ]
             },
             {
@@ -16832,39 +18929,12 @@ export const irelandNature: POI[] = [
                   ]
             },
             {
-                  "name": "Maolán Buí",
-                  "text": "Ein Berggipfel in der Bergkette MacGillycuddy’s Reeks in Irland.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.700877,
-                        51.994651
-                  ]
-            },
-            {
                   "name": "The Bones",
                   "text": "Ein markanter Gipfel am Hauptgrat der MacGillycuddy’s Reeks.",
                   "category": "landmark",
                   "coords": [
                         -9.74704,
                         52.001703
-                  ]
-            },
-            {
-                  "name": "Cnoc an Chuillinn",
-                  "text": "Ein Gipfel in den MacGillycuddy’s Reeks, Teil der höchsten Berge Irlands.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.713327,
-                        51.990166
-                  ]
-            },
-            {
-                  "name": "The Big Gun",
-                  "text": "Ein schmaler Felsgipfel im östlichen Teil der MacGillycuddy’s Reeks.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.68867,
-                        52.000874
                   ]
             }
       ],
@@ -16906,39 +18976,12 @@ export const irelandNature: POI[] = [
                   ]
             },
             {
-                  "name": "Maolán Buí",
-                  "text": "Hegycsúcs a MacGillycuddy’s Reeks hegyláncban Írországban.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.700877,
-                        51.994651
-                  ]
-            },
-            {
                   "name": "The Bones",
                   "text": "Jellegzetes csúcs a MacGillycuddy’s Reeks főgerincén.",
                   "category": "landmark",
                   "coords": [
                         -9.74704,
                         52.001703
-                  ]
-            },
-            {
-                  "name": "Cnoc an Chuillinn",
-                  "text": "Hegycsúcs a MacGillycuddy’s Reeks hegységben, Írország legmagasabb hegyei között.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.713327,
-                        51.990166
-                  ]
-            },
-            {
-                  "name": "The Big Gun",
-                  "text": "Keskeny sziklás csúcs a MacGillycuddy’s Reeks keleti részén.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.68867,
-                        52.000874
                   ]
             }
       ],
@@ -16980,39 +19023,12 @@ export const irelandNature: POI[] = [
                   ]
             },
             {
-                  "name": "Maolán Buí",
-                  "text": "Un vârf muntos din lanțul MacGillycuddy’s Reeks din Irlanda.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.700877,
-                        51.994651
-                  ]
-            },
-            {
                   "name": "The Bones",
                   "text": "Un vârf distinctiv pe creasta principală a masivului MacGillycuddy’s Reeks.",
                   "category": "landmark",
                   "coords": [
                         -9.74704,
                         52.001703
-                  ]
-            },
-            {
-                  "name": "Cnoc an Chuillinn",
-                  "text": "Un vârf din MacGillycuddy’s Reeks, parte a celor mai înalți munți din Irlanda.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.713327,
-                        51.990166
-                  ]
-            },
-            {
-                  "name": "The Big Gun",
-                  "text": "Un vârf stâncos îngust în partea de est a masivului MacGillycuddy’s Reeks.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.68867,
-                        52.000874
                   ]
             }
       ],
@@ -17054,39 +19070,12 @@ export const irelandNature: POI[] = [
                   ]
             },
             {
-                  "name": "Maolán Buí",
-                  "text": "A mountain peak within the MacGillycuddy’s Reeks range in Ireland.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.700877,
-                        51.994651
-                  ]
-            },
-            {
                   "name": "The Bones",
                   "text": "A distinctive peak on the main ridge of the MacGillycuddy’s Reeks.",
                   "category": "landmark",
                   "coords": [
                         -9.74704,
                         52.001703
-                  ]
-            },
-            {
-                  "name": "Cnoc an Chuillinn",
-                  "text": "A peak in the MacGillycuddy’s Reeks, part of Ireland's highest mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.713327,
-                        51.990166
-                  ]
-            },
-            {
-                  "name": "The Big Gun",
-                  "text": "A narrow rocky peak in the eastern section of the MacGillycuddy’s Reeks.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.68867,
-                        52.000874
                   ]
             }
       ]
@@ -18720,15 +20709,6 @@ export const irelandCulture: POI[] = [
     id: "hist-battle-of-the-boyne", "sights": {
       "de": [
             {
-                  "name": "Knowth",
-                  "text": "Eine bedeutende neolithische Grabanlage und Teil des Weltkulturerbes Brú na Bóinne.",
-                  "category": "historical",
-                  "coords": [
-                        -6.491406,
-                        53.701204
-                  ]
-            },
-            {
                   "name": "Mellifont Abbey",
                   "text": "Die Ruinen der ersten in Irland gegründeten Zisterzienserabtei.",
                   "category": "landmark",
@@ -18736,54 +20716,9 @@ export const irelandCulture: POI[] = [
                         -6.466312,
                         53.742299
                   ]
-            },
-            {
-                  "name": "Slane Abbey Cross",
-                  "text": "Ein historisches Steinkreuz auf dem Gelände der Abtei Slane.",
-                  "category": "historical",
-                  "coords": [
-                        -6.542993,
-                        53.717177
-                  ]
-            },
-            {
-                  "name": "Pat's Art Studio",
-                  "text": "Eine lokale Kunstgalerie, die Werke zeitgenössischer Künstler zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -6.542307,
-                        53.708486
-                  ]
-            },
-            {
-                  "name": "Saint Patrick's Church",
-                  "text": "Eine dem Heiligen Patrick gewidmete christliche Kirche in der Region Boyne.",
-                  "category": "religious",
-                  "coords": [
-                        -6.546186,
-                        53.708967
-                  ]
-            },
-            {
-                  "name": "St. Patricks Roman Catholic Church",
-                  "text": "Eine römisch-katholische Pfarrkirche im historischen Tal des Boyne.",
-                  "category": "religious",
-                  "coords": [
-                        -6.541251,
-                        53.710323
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Knowth",
-                  "text": "Jelentős újkőkorszaki folyosósír-komplexum, a Brú na Bóinne világörökségi helyszín része.",
-                  "category": "historical",
-                  "coords": [
-                        -6.491406,
-                        53.701204
-                  ]
-            },
             {
                   "name": "Mellifont Abbey",
                   "text": "Az Írországban alapított első ciszterci apátság romjai.",
@@ -18792,54 +20727,9 @@ export const irelandCulture: POI[] = [
                         -6.466312,
                         53.742299
                   ]
-            },
-            {
-                  "name": "Slane Abbey Cross",
-                  "text": "Történelmi kőkereszt a Slane-apátság területén.",
-                  "category": "historical",
-                  "coords": [
-                        -6.542993,
-                        53.717177
-                  ]
-            },
-            {
-                  "name": "Pat's Art Studio",
-                  "text": "Helyi művészeti galéria, ahol kortárs művészek alkotásait mutatják be.",
-                  "category": "museum",
-                  "coords": [
-                        -6.542307,
-                        53.708486
-                  ]
-            },
-            {
-                  "name": "Saint Patrick's Church",
-                  "text": "Szent Patrik tiszteletére szentelt keresztény templom a Boyne-vidéken.",
-                  "category": "religious",
-                  "coords": [
-                        -6.546186,
-                        53.708967
-                  ]
-            },
-            {
-                  "name": "St. Patricks Roman Catholic Church",
-                  "text": "Római katolikus plébániatemplom a történelmi Boyne-völgyben.",
-                  "category": "religious",
-                  "coords": [
-                        -6.541251,
-                        53.710323
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Knowth",
-                  "text": "Un complex semnificativ de morminte neolitice cu pasaj, parte a sitului Brú na Bóinne din patrimoniul mondial.",
-                  "category": "historical",
-                  "coords": [
-                        -6.491406,
-                        53.701204
-                  ]
-            },
             {
                   "name": "Mellifont Abbey",
                   "text": "Ruinele primei abații cisterciene fondate în Irlanda.",
@@ -18848,54 +20738,9 @@ export const irelandCulture: POI[] = [
                         -6.466312,
                         53.742299
                   ]
-            },
-            {
-                  "name": "Slane Abbey Cross",
-                  "text": "O cruce istorică de piatră situată pe locul Abației Slane.",
-                  "category": "historical",
-                  "coords": [
-                        -6.542993,
-                        53.717177
-                  ]
-            },
-            {
-                  "name": "Pat's Art Studio",
-                  "text": "O galerie de artă locală care prezintă lucrări ale artiștilor contemporani.",
-                  "category": "museum",
-                  "coords": [
-                        -6.542307,
-                        53.708486
-                  ]
-            },
-            {
-                  "name": "Saint Patrick's Church",
-                  "text": "O biserică creștină dedicată Sfântului Patrick în regiunea Boyne.",
-                  "category": "religious",
-                  "coords": [
-                        -6.546186,
-                        53.708967
-                  ]
-            },
-            {
-                  "name": "St. Patricks Roman Catholic Church",
-                  "text": "O biserică parohială romano-catolică situată în zona istorică a văii Boyne.",
-                  "category": "religious",
-                  "coords": [
-                        -6.541251,
-                        53.710323
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Knowth",
-                  "text": "A significant Neolithic passage tomb complex and part of the Brú na Bóinne World Heritage site.",
-                  "category": "historical",
-                  "coords": [
-                        -6.491406,
-                        53.701204
-                  ]
-            },
             {
                   "name": "Mellifont Abbey",
                   "text": "The ruins of the first Cistercian abbey founded in Ireland.",
@@ -18903,42 +20748,6 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -6.466312,
                         53.742299
-                  ]
-            },
-            {
-                  "name": "Slane Abbey Cross",
-                  "text": "A historical stone cross located at the site of Slane Abbey.",
-                  "category": "historical",
-                  "coords": [
-                        -6.542993,
-                        53.717177
-                  ]
-            },
-            {
-                  "name": "Pat's Art Studio",
-                  "text": "A local art gallery showcasing works by contemporary artists.",
-                  "category": "museum",
-                  "coords": [
-                        -6.542307,
-                        53.708486
-                  ]
-            },
-            {
-                  "name": "Saint Patrick's Church",
-                  "text": "A Christian church dedicated to Saint Patrick in the Boyne region.",
-                  "category": "religious",
-                  "coords": [
-                        -6.546186,
-                        53.708967
-                  ]
-            },
-            {
-                  "name": "St. Patricks Roman Catholic Church",
-                  "text": "A Roman Catholic parish church located in the historic Boyne valley area.",
-                  "category": "religious",
-                  "coords": [
-                        -6.541251,
-                        53.710323
                   ]
             }
       ]
@@ -18986,7 +20795,12 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "hist-charles-fort", "sights": {"de": [{"name": "Dock Beach", "text": "Nur einen Steinwurf vom historischen Charles Fort entfernt, ist Dock Beach eine kleine, charmante Enklave an der Küste. Sie bietet eine einzigartige Kulisse, in der sich maritime Geschichte und natürliche Schönheit des Meeres subtil miteinander verflechten. Besucher können hier eine entspannte Pause am Wasser einlegen und vielleicht die Füße ins Wasser tauchen, bevor sie ihre historische Tour fortsetzen. Es ist ein ausgezeichneter kurzer Zwischenstopp bei der Erkundung der umliegenden Festungsanlagen und Küstenpfade.", "category": "recreational", "coords": [-8.512957, 51.695538]}], "hu": [{"name": "Dock Beach", "text": "A történelmi Charles Fort-tól csak egy kőhajításnyira található Dock Beach egy kicsi, bájos enklávé a tengerpart mentén. Egyedülálló környezetet kínál, ahol a tengeri történelem és a tengerpart természetes szépsége finoman összefonódik. A látogatók élvezhetik a pihentető szünetet a vízparton, esetleg megmárthatják a lábukat, mielőtt folytatnák történelmi túrájukat. Kiváló rövid megálló a környező erődítmények és tengerparti ösvények felfedezése során.", "category": "recreational", "coords": [-8.512957, 51.695538]}], "ro": [{"name": "Dock Beach", "text": "Situată la doar o aruncătură de băț de istoricul Charles Fort, Dock Beach este o mică și fermecătoare enclavă de-a lungul coastei. Oferă un cadru unic în care istoria maritimă și frumusețea naturală a litoralului se împletesc subtil. Vizitatorii se pot bucura de o pauză relaxantă lângă apă, poate înmuindu-și picioarele înainte de a-și continua turul istoric. Este o scurtă escală excelentă atunci când explorați fortificațiile și potecile de coastă din împrejurimi.", "category": "recreational", "coords": [-8.512957, 51.695538]}], "en": [{"name": "Dock Beach", "text": "Situated just a stone's throw from the historic Charles Fort, Dock Beach is a small, charming enclave along the coast. It provides a unique setting where maritime history and natural seaside beauty subtly intertwine. Visitors can enjoy a relaxing break by the water, perhaps dipping their toes before continuing their historical tour. It is an excellent brief stopover when exploring the surrounding fortifications and coastal paths.", "category": "recreational", "coords": [-8.512957, 51.695538]}]},
+    id: "hist-charles-fort", "sights": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
+},
     type: "historical",
     parent: "ireland",
     coords: [-8.4990, 51.7039],
@@ -28431,24 +30245,6 @@ export const irelandCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Sunnyside",
-                  "text": "Sunnyside in Westport. Ein schöner Ort zum Schwimmen und Entspannen.",
-                  "category": "family",
-                  "coords": [
-                        -9.566852,
-                        53.793015
-                  ]
-            },
-            {
-                  "name": "The Point",
-                  "text": "The Point in Westport. Ein schöner Ort zum Schwimmen und Entspannen.",
-                  "category": "family",
-                  "coords": [
-                        -9.560247,
-                        53.802371
-                  ]
-            },
-            {
                   "name": "Pirates Haven",
                   "text": "Pirates Haven in Westport. Ein tolles Ausflugsziel für die ganze Familie.",
                   "category": "family",
@@ -28682,24 +30478,6 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -9.410809,
                         53.822909
-                  ]
-            },
-            {
-                  "name": "Sunnyside",
-                  "text": "Sunnyside Westport területén. Kellemes hely az úszáshoz és a pihenéshez.",
-                  "category": "family",
-                  "coords": [
-                        -9.566852,
-                        53.793015
-                  ]
-            },
-            {
-                  "name": "The Point",
-                  "text": "The Point Westport területén. Kellemes hely az úszáshoz és a pihenéshez.",
-                  "category": "family",
-                  "coords": [
-                        -9.560247,
-                        53.802371
                   ]
             },
             {
@@ -28939,24 +30717,6 @@ export const irelandCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Sunnyside",
-                  "text": "Sunnyside din Westport. Un loc plăcut pentru înot și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        -9.566852,
-                        53.793015
-                  ]
-            },
-            {
-                  "name": "The Point",
-                  "text": "The Point din Westport. Un loc plăcut pentru înot și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        -9.560247,
-                        53.802371
-                  ]
-            },
-            {
                   "name": "Pirates Haven",
                   "text": "Pirates Haven din Westport. O destinație excelentă pentru întreaga familie.",
                   "category": "family",
@@ -29190,24 +30950,6 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -9.410809,
                         53.822909
-                  ]
-            },
-            {
-                  "name": "Sunnyside",
-                  "text": "Sunnyside in Westport. A pleasant place for swimming and relaxation.",
-                  "category": "family",
-                  "coords": [
-                        -9.566852,
-                        53.793015
-                  ]
-            },
-            {
-                  "name": "The Point",
-                  "text": "The Point in Westport. A pleasant place for swimming and relaxation.",
-                  "category": "family",
-                  "coords": [
-                        -9.560247,
-                        53.802371
                   ]
             },
             {

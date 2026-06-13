@@ -817,50 +817,10 @@ export const poiExtraSwazilandLifeV2: POI[] = [
   },
   {
     id: "ngwenya-glass-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ngwenya Glass",
-                  "text": "Ngwenya Glass ist eine berühmte Werkstatt, in der Handwerker wunderschöne Glaskunstwerke aus recyceltem Glas herstellen.",
-                  "category": "landmark",
-                  "coords": [
-                        31.031456,
-                        -26.22223
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ngwenya Glass",
-                  "text": "A Ngwenya Glass egy híres látványosság, ahol a kézművesek gyönyörű üvegfúvó alkotásokat készítenek újrahasznosított üvegből.",
-                  "category": "landmark",
-                  "coords": [
-                        31.031456,
-                        -26.22223
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ngwenya Glass",
-                  "text": "Ngwenya Glass este un atelier renumit unde artizanii creează piese superbe de sticlărie din sticlă reciclată.",
-                  "category": "landmark",
-                  "coords": [
-                        31.031456,
-                        -26.22223
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ngwenya Glass",
-                  "text": "Ngwenya Glass is an interactive factory attraction where skilled artisans blow hot recycled glass into intricate African animal figurines.",
-                  "category": "landmark",
-                  "coords": [
-                        31.031456,
-                        -26.22223
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "kid-landmark",
     parent: "SZ-HH",

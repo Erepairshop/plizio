@@ -49,33 +49,6 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
     id: "animal-habitat-tierpark-lohberg-extra", "sights": {
       "de": [
             {
-                  "name": "Naturdenkmal Künisches Gebirge",
-                  "text": "Ein Naturschutzgebiet im Böhmerwald, das für seine unberührte Waldlandschaft bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        13.171931,
-                        49.175491
-                  ]
-            },
-            {
-                  "name": "Nationales Naturreservat Klammerloch",
-                  "text": "Ein Naturschutzgebiet, in dem sich der höchste Wasserfall des Böhmerwaldes befindet.",
-                  "category": "natural",
-                  "coords": [
-                        13.158391,
-                        49.191217
-                  ]
-            },
-            {
-                  "name": "Nationales Naturreservat Schwarzer See und Teufelssee",
-                  "text": "Ein bedeutendes Naturschutzgebiet, das zwei der größten Gletscherseen im Böhmerwald schützt.",
-                  "category": "natural",
-                  "coords": [
-                        13.183903,
-                        49.171077
-                  ]
-            },
-            {
                   "name": "Bayerwald-Tierpark",
                   "text": "Ein Wildpark in Lohberg, der die heimische Tierwelt des Bayerischen Waldes präsentiert.",
                   "category": "recreational",
@@ -112,15 +85,6 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
                   ]
             },
             {
-                  "name": "Hohe Seewand",
-                  "text": "Der höchste Gipfel des Böhmerwaldes auf tschechischer Seite, nahe der Gletscherseen gelegen.",
-                  "category": "landmark",
-                  "coords": [
-                        13.184762,
-                        49.168656
-                  ]
-            },
-            {
                   "name": "Naturbad Huber Weiher",
                   "text": "Das Naturbad Huber Weiher ist ein Naturbad in der Nähe des Bayerwald-Tierparks Lohberg.",
                   "category": "recreational",
@@ -131,33 +95,6 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "přírodní památka Královský hvozd",
-                  "text": "Természetvédelmi terület a Cseh-erdőben, amely érintetlen erdei tájairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        13.171931,
-                        49.175491
-                  ]
-            },
-            {
-                  "name": "národní přírodní rezervace Bílá strž",
-                  "text": "Természetvédelmi terület, ahol a Cseh-erdő legmagasabb vízesése található.",
-                  "category": "natural",
-                  "coords": [
-                        13.158391,
-                        49.191217
-                  ]
-            },
-            {
-                  "name": "národní přírodní rezervace Černé a Čertovo jezero",
-                  "text": "Jelentős természetvédelmi terület, amely a Cseh-erdő két legnagyobb gleccsertavát védi.",
-                  "category": "natural",
-                  "coords": [
-                        13.183903,
-                        49.171077
-                  ]
-            },
             {
                   "name": "Bayerwald-Tierpark",
                   "text": "Vadaspark Lohbergben, amely a Bajor-erdő őshonos állatvilágát mutatja be.",
@@ -195,15 +132,6 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
                   ]
             },
             {
-                  "name": "Jezerní hora",
-                  "text": "A Cseh-erdő legmagasabb csúcsa cseh oldalon, a gleccsertavak közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        13.184762,
-                        49.168656
-                  ]
-            },
-            {
                   "name": "Naturbad Huber Weiher",
                   "text": "A Naturbad Huber Weiher egy természetes fürdőhely a Lohbergi Bajor Erdei Állatkert közelében.",
                   "category": "recreational",
@@ -214,33 +142,6 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "přírodní památka Královský hvozd",
-                  "text": "O rezervație naturală în Munții Boemiei, cunoscută pentru peisajul forestier virgin.",
-                  "category": "natural",
-                  "coords": [
-                        13.171931,
-                        49.175491
-                  ]
-            },
-            {
-                  "name": "národní přírodní rezervace Bílá strž",
-                  "text": "O rezervație naturală ce adăpostește cea mai înaltă cascadă din Munții Boemiei.",
-                  "category": "natural",
-                  "coords": [
-                        13.158391,
-                        49.191217
-                  ]
-            },
-            {
-                  "name": "národní přírodní rezervace Černé a Čertovo jezero",
-                  "text": "O rezervație naturală importantă care protejează două dintre cele mai mari lacuri glaciare din Munții Boemiei.",
-                  "category": "natural",
-                  "coords": [
-                        13.183903,
-                        49.171077
-                  ]
-            },
             {
                   "name": "Bayerwald-Tierpark",
                   "text": "Un parc de animale în Lohberg, care prezintă fauna nativă a Pădurii Bavareze.",
@@ -278,15 +179,6 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
                   ]
             },
             {
-                  "name": "Jezerní hora",
-                  "text": "Cel mai înalt vârf al Munților Boemiei pe partea cehă, situat lângă lacurile glaciare.",
-                  "category": "landmark",
-                  "coords": [
-                        13.184762,
-                        49.168656
-                  ]
-            },
-            {
                   "name": "Naturbad Huber Weiher",
                   "text": "Naturbad Huber Weiher este o zonă naturală de înot situată lângă Grădina Zoologică Lohberg din Pădurea Bavareză.",
                   "category": "recreational",
@@ -297,33 +189,6 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "přírodní památka Královský hvozd",
-                  "text": "A nature reserve in the Bohemian Forest known for its untouched forest landscape.",
-                  "category": "natural",
-                  "coords": [
-                        13.171931,
-                        49.175491
-                  ]
-            },
-            {
-                  "name": "national nature reserve Bílá strž",
-                  "text": "A nature reserve home to the highest waterfall in the Bohemian Forest.",
-                  "category": "natural",
-                  "coords": [
-                        13.158391,
-                        49.191217
-                  ]
-            },
-            {
-                  "name": "národní přírodní rezervace Černé a Čertovo jezero",
-                  "text": "An important nature reserve protecting two of the largest glacial lakes in the Bohemian Forest.",
-                  "category": "natural",
-                  "coords": [
-                        13.183903,
-                        49.171077
-                  ]
-            },
             {
                   "name": "Bayerwald-Tierpark",
                   "text": "A wildlife park in Lohberg showcasing the native animals of the Bavarian Forest.",
@@ -358,15 +223,6 @@ export const poiExtraDeLebenWirtschaft: POI[] = [
                   "coords": [
                         13.103084,
                         49.201687
-                  ]
-            },
-            {
-                  "name": "Jezerní hora",
-                  "text": "The highest peak of the Bohemian Forest on the Czech side, located near the glacial lakes.",
-                  "category": "landmark",
-                  "coords": [
-                        13.184762,
-                        49.168656
                   ]
             },
             {

@@ -2099,15 +2099,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     id: "samarra-great-mosque-history-v2", "sights": {
       "de": [
             {
-                  "name": "samarra park 2",
-                  "text": "Eine öffentliche Grünanlage in Samarra, die Raum für Erholung inmitten der historischen Denkmäler bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        43.892362,
-                        34.20366
-                  ]
-            },
-            {
                   "name": "Palace bath",
                   "text": "Die Überreste dieser historischen Badeanlage gehörten einst zum prunkvollen Palastkomplex der Abbasiden-Kalifen.",
                   "category": "historical",
@@ -2172,15 +2163,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "samarra park 2",
-                  "text": "Szamarra egyik nyilvános parkja, amely pihenési lehetőséget nyújt a történelmi műemlékek szomszédságában.",
-                  "category": "landmark",
-                  "coords": [
-                        43.892362,
-                        34.20366
-                  ]
-            },
             {
                   "name": "Palace bath",
                   "text": "Ennek a történelmi fürdőnek a maradványai egykor az abbászida kalifák pompás palotakomplexumához tartoztak.",
@@ -2247,15 +2229,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "samarra park 2",
-                  "text": "Un spațiu verde public din Samarra, care oferă loc de recreere în mijlocul monumentelor istorice.",
-                  "category": "landmark",
-                  "coords": [
-                        43.892362,
-                        34.20366
-                  ]
-            },
-            {
                   "name": "Palace bath",
                   "text": "Rămășițele acestei băi istorice au aparținut odinioară complexului palatului somptuos al califilor abbasizi.",
                   "category": "historical",
@@ -2320,15 +2293,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "samarra park 2",
-                  "text": "A public green space in Samarra that provides room for recreation amidst the historical monuments.",
-                  "category": "landmark",
-                  "coords": [
-                        43.892362,
-                        34.20366
-                  ]
-            },
             {
                   "name": "Palace bath",
                   "text": "The remains of this historical bathhouse were once part of the grand palace complex of the Abbasid caliphs.",
@@ -5324,24 +5288,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
     id: "dur-kurigalzu-history-v2", "sights": {
       "de": [
             {
-                  "name": "court",
-                  "text": "Die Ruinen eines antiken Palasthofes in der einstigen kassitischen Hauptstadt.",
-                  "category": "castle",
-                  "coords": [
-                        44.198098,
-                        33.30794
-                  ]
-            },
-            {
-                  "name": "Tall Abu Safa",
-                  "text": "Eine topografische Erhebung, die Ausblicke über die mesopotamische Ebene bietet.",
-                  "category": "natural",
-                  "coords": [
-                        44.188658,
-                        33.290138
-                  ]
-            },
-            {
                   "name": "Camp Liberty",
                   "text": "Eine ehemalige Militäranlage, die heute für zivile Zwecke und Unterkünfte genutzt wird.",
                   "category": "fortress",
@@ -5469,24 +5415,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "court",
-                  "text": "Egy ősi palotaudvar romjai az egykori kasszita fővárosban.",
-                  "category": "castle",
-                  "coords": [
-                        44.198098,
-                        33.30794
-                  ]
-            },
-            {
-                  "name": "Tall Abu Safa",
-                  "text": "Topográfiai kiemelkedés, amely kilátást nyújt a mezopotámiai síkságra.",
-                  "category": "natural",
-                  "coords": [
-                        44.188658,
-                        33.290138
-                  ]
-            },
             {
                   "name": "Camp Liberty",
                   "text": "Egykori katonai létesítmény, amelyet ma civil célokra és szálláshelyként használnak.",
@@ -5616,24 +5544,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "court",
-                  "text": "Ruinele unei curți de palat antice în fosta capitală casită.",
-                  "category": "castle",
-                  "coords": [
-                        44.198098,
-                        33.30794
-                  ]
-            },
-            {
-                  "name": "Tall Abu Safa",
-                  "text": "O proeminență topografică ce oferă priveliști asupra câmpiei mesopotamiene.",
-                  "category": "natural",
-                  "coords": [
-                        44.188658,
-                        33.290138
-                  ]
-            },
-            {
                   "name": "Camp Liberty",
                   "text": "O fostă instalație militară utilizată astăzi în scopuri civile și pentru cazare.",
                   "category": "fortress",
@@ -5761,24 +5671,6 @@ export const poiExtraIraqHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "court",
-                  "text": "The ruins of an ancient palace courtyard located within the historic Kassite capital complex.",
-                  "category": "castle",
-                  "coords": [
-                        44.198098,
-                        33.30794
-                  ]
-            },
-            {
-                  "name": "Tall Abu Safa",
-                  "text": "A topographic eminence in the landscape offering views across the Mesopotamian plains.",
-                  "category": "natural",
-                  "coords": [
-                        44.188658,
-                        33.290138
-                  ]
-            },
             {
                   "name": "Camp Liberty",
                   "text": "A former military installation that has transitioned to use for civilian housing and services.",

@@ -618,15 +618,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ibrahim Aldiabat Abu Ali",
-                  "text": "Eine lokale befestigte Residenz oder historische Stätte in der Nähe des Industriegebiets Al-Hassan.",
-                  "category": "castle",
-                  "coords": [
-                        36.001343,
-                        32.534187
-                  ]
-            },
-            {
                   "name": "Khirbat al Rumaythah",
                   "text": "Bedeutende Eisenzeit-Ruinen in Nordjordanien, die wichtige Erkenntnisse über antike Handelswege liefern.",
                   "category": "historical",
@@ -689,15 +680,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
                   "coords": [
                         36.0,
                         32.4
-                  ]
-            },
-            {
-                  "name": "Ibrahim Aldiabat Abu Ali",
-                  "text": "Helyi erődített rezidencia vagy történelmi helyszín az Al-Hassan ipari negyed közelében.",
-                  "category": "castle",
-                  "coords": [
-                        36.001343,
-                        32.534187
                   ]
             },
             {
@@ -766,15 +748,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ibrahim Aldiabat Abu Ali",
-                  "text": "O reședință fortificată locală sau sit istoric situat lângă zona industrială Al-Hassan.",
-                  "category": "castle",
-                  "coords": [
-                        36.001343,
-                        32.534187
-                  ]
-            },
-            {
                   "name": "Khirbat al Rumaythah",
                   "text": "Importante ruine din epoca fierului în nordul Iordaniei, oferind perspective asupra rutelor comerciale antice.",
                   "category": "historical",
@@ -837,15 +810,6 @@ export const poiExtraJordanEconomicV2: POI[] = [
                   "coords": [
                         36.0,
                         32.4
-                  ]
-            },
-            {
-                  "name": "Ibrahim Aldiabat Abu Ali",
-                  "text": "A local fortified residence or historical site situated near the Al-Hassan industrial estate.",
-                  "category": "castle",
-                  "coords": [
-                        36.001343,
-                        32.534187
                   ]
             },
             {
@@ -3372,48 +3336,12 @@ export const poiExtraJordanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prince Haya Park",
-                  "text": "Diese zentrale Grünanlage in Akaba bietet einen schattigen Rückzugsort inmitten des geschäftigen Stadtzentrums.",
-                  "category": "park",
-                  "coords": [
-                        35.001599,
-                        29.534295
-                  ]
-            },
-            {
                   "name": "Aqaba Trail",
                   "text": "Ein Wanderweg, der durch die Landschaften von Akaba führt und Einblicke in das lokale Erbe bietet.",
                   "category": "landmark",
                   "coords": [
                         35.007174,
                         29.533143
-                  ]
-            },
-            {
-                  "name": "Roof viewpoint",
-                  "text": "Ein erhöhter Aussichtspunkt, der ein Panorama über den Golf von Akaba und die umliegenden Wüstenberge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        35.003267,
-                        29.530147
-                  ]
-            },
-            {
-                  "name": "Rosary Sister School",
-                  "text": "Ein lokales Theater, das als Veranstaltungsort für kulturelle Aufführungen und Gemeinschaftsevents dient.",
-                  "category": "cultural",
-                  "coords": [
-                        35.00018,
-                        29.543012
-                  ]
-            },
-            {
-                  "name": "Rose City Saraya Waterpark",
-                  "text": "Ein moderner Wasserpark an der Küste des Roten Meeres mit zahlreichen Rutschen und Erlebnisbecken.",
-                  "category": "recreational",
-                  "coords": [
-                        34.99297,
-                        29.541568
                   ]
             },
             {
@@ -3482,48 +3410,12 @@ export const poiExtraJordanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prince Haya Park",
-                  "text": "Ez a központi zöldterület Ákabában árnyas pihenőhelyet kínál a nyüzsgő városközpont közepén.",
-                  "category": "park",
-                  "coords": [
-                        35.001599,
-                        29.534295
-                  ]
-            },
-            {
                   "name": "Aqaba Trail",
                   "text": "Egy túraútvonal, amely Ákaba tájain vezet keresztül, betekintést nyújtva a helyi örökségbe.",
                   "category": "landmark",
                   "coords": [
                         35.007174,
                         29.533143
-                  ]
-            },
-            {
-                  "name": "Roof viewpoint",
-                  "text": "Egy magaslati kilátópont, amely panorámát nyújt az Ákabai-öbölre és a környező sivatagi hegyekre.",
-                  "category": "natural",
-                  "coords": [
-                        35.003267,
-                        29.530147
-                  ]
-            },
-            {
-                  "name": "Rosary Sister School",
-                  "text": "Egy helyi színház, amely kulturális előadások és közösségi események helyszínéül szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        35.00018,
-                        29.543012
-                  ]
-            },
-            {
-                  "name": "Rose City Saraya Waterpark",
-                  "text": "Egy modern vízi park a Vörös-tenger partján, számos csúszdával és élménymedencével.",
-                  "category": "recreational",
-                  "coords": [
-                        34.99297,
-                        29.541568
                   ]
             },
             {
@@ -3592,48 +3484,12 @@ export const poiExtraJordanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prince Haya Park",
-                  "text": "Această zonă verde centrală din Aqaba oferă un refugiu umbrit în mijlocul centrului aglomerat al orașului.",
-                  "category": "park",
-                  "coords": [
-                        35.001599,
-                        29.534295
-                  ]
-            },
-            {
                   "name": "Aqaba Trail",
                   "text": "Un traseu de drumeție care traversează peisajele din Aqaba, oferind perspective asupra moștenirii locale.",
                   "category": "landmark",
                   "coords": [
                         35.007174,
                         29.533143
-                  ]
-            },
-            {
-                  "name": "Roof viewpoint",
-                  "text": "Un punct de observare ridicat care oferă o panoramă asupra Golfului Aqaba și a munților deșertici din jur.",
-                  "category": "natural",
-                  "coords": [
-                        35.003267,
-                        29.530147
-                  ]
-            },
-            {
-                  "name": "Rosary Sister School",
-                  "text": "Un teatru local care servește drept loc de desfășurare pentru spectacole culturale și evenimente comunitare.",
-                  "category": "cultural",
-                  "coords": [
-                        35.00018,
-                        29.543012
-                  ]
-            },
-            {
-                  "name": "Rose City Saraya Waterpark",
-                  "text": "Un parc acvatic modern pe coasta Mării Roșii, dotat cu numeroase tobogane și bazine cu valuri.",
-                  "category": "recreational",
-                  "coords": [
-                        34.99297,
-                        29.541568
                   ]
             },
             {
@@ -3702,48 +3558,12 @@ export const poiExtraJordanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prince Haya Park",
-                  "text": "This central green space in Aqaba offers a shaded retreat amidst the bustling city center.",
-                  "category": "park",
-                  "coords": [
-                        35.001599,
-                        29.534295
-                  ]
-            },
-            {
                   "name": "Aqaba Trail",
                   "text": "A hiking trail that traverses the landscapes of Aqaba, offering insights into the local heritage.",
                   "category": "landmark",
                   "coords": [
                         35.007174,
                         29.533143
-                  ]
-            },
-            {
-                  "name": "Roof viewpoint",
-                  "text": "An elevated vantage point providing a panorama over the Gulf of Aqaba and the surrounding desert mountains.",
-                  "category": "natural",
-                  "coords": [
-                        35.003267,
-                        29.530147
-                  ]
-            },
-            {
-                  "name": "Rosary Sister School",
-                  "text": "A local theatre that serves as a venue for cultural performances and community events.",
-                  "category": "cultural",
-                  "coords": [
-                        35.00018,
-                        29.543012
-                  ]
-            },
-            {
-                  "name": "Rose City Saraya Waterpark",
-                  "text": "A modern water park on the Red Sea coast featuring numerous slides and adventure pools.",
-                  "category": "recreational",
-                  "coords": [
-                        34.99297,
-                        29.541568
                   ]
             },
             {

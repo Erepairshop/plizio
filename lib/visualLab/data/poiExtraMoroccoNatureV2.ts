@@ -762,15 +762,6 @@ export const poiExtraMoroccoNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre à ciel ouvert",
-                  "text": "Dieses Freilichttheater in der Nähe des Sees bietet eine Freiluftbühne für lokale Kulturveranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -6.611238,
-                        34.259162
-                  ]
-            },
-            {
                   "name": "Kasbah Mahdiyya",
                   "text": "Die Kasbah Mahdiyya ist eine Festungsruine an der Mündung des Sebou, die eine lange militärische Geschichte aufweist.",
                   "category": "historical",
@@ -824,15 +815,6 @@ export const poiExtraMoroccoNatureV2: POI[] = [
                   "coords": [
                         -6.678424,
                         34.235177
-                  ]
-            },
-            {
-                  "name": "Théâtre à ciel ouvert",
-                  "text": "A tó közelében található szabadtéri színház helyi kulturális események és előadások helyszíneként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        -6.611238,
-                        34.259162
                   ]
             },
             {
@@ -892,15 +874,6 @@ export const poiExtraMoroccoNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre à ciel ouvert",
-                  "text": "Acest teatru în aer liber de lângă lac oferă o scenă deschisă pentru spectacole și evenimente culturale locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -6.611238,
-                        34.259162
-                  ]
-            },
-            {
                   "name": "Kasbah Mahdiyya",
                   "text": "Kasbah Mahdiyya este o fortăreață ruinată situată la gura râului Sebou, cu un bogat trecut militar.",
                   "category": "historical",
@@ -954,15 +927,6 @@ export const poiExtraMoroccoNatureV2: POI[] = [
                   "coords": [
                         -6.678424,
                         34.235177
-                  ]
-            },
-            {
-                  "name": "Théâtre à ciel ouvert",
-                  "text": "This open-air theatre near the lake provides an outdoor stage for local cultural events and performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -6.611238,
-                        34.259162
                   ]
             },
             {

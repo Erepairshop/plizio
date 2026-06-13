@@ -15177,15 +15177,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Shop Wahyu",
-                  "text": "Art Shop Wahyu ist eine lokale Galerie, die verschiedene Kunstwerke in waterbom-bali-life-v2 anbietet.",
-                  "category": "museum",
-                  "coords": [
-                        115.17349,
-                        -8.724494
-                  ]
-            },
-            {
                   "name": "Gerbang Perumahan Bukit Pratama Jimbaran",
                   "text": "Gerbang Perumahan Bukit Pratama Jimbaran ist ein monumentales Wohngebietstor in waterbom-bali-life-v2.",
                   "category": "historical",
@@ -15509,15 +15500,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
                   "coords": [
                         115.180356,
                         -8.738523
-                  ]
-            },
-            {
-                  "name": "Art Shop Wahyu",
-                  "text": "Az Art Shop Wahyu egy helyi galéria, amely különféle művészeti alkotásokat kínál waterbom-bali-life-v2 területén.",
-                  "category": "museum",
-                  "coords": [
-                        115.17349,
-                        -8.724494
                   ]
             },
             {
@@ -15847,15 +15829,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Shop Wahyu",
-                  "text": "Art Shop Wahyu este o galerie locală care oferă diverse piese artistice în waterbom-bali-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        115.17349,
-                        -8.724494
-                  ]
-            },
-            {
                   "name": "Gerbang Perumahan Bukit Pratama Jimbaran",
                   "text": "Gerbang Perumahan Bukit Pratama Jimbaran este o poartă rezidențială monumentală din waterbom-bali-life-v2.",
                   "category": "historical",
@@ -16179,15 +16152,6 @@ export const poiExtraIndonesiaLifeV2: POI[] = [
                   "coords": [
                         115.180356,
                         -8.738523
-                  ]
-            },
-            {
-                  "name": "Art Shop Wahyu",
-                  "text": "Art Shop Wahyu is a local gallery offering various artistic pieces in waterbom-bali-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        115.17349,
-                        -8.724494
                   ]
             },
             {

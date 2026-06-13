@@ -126,15 +126,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wachoraji",
-                  "text": "Wachoraji bietet einen kreativen Raum für bildende Künste und fördert den lokalen künstlerischen Ausdruck im Wirtschaftszentrum Tanga.",
-                  "category": "cultural",
-                  "coords": [
-                        39.093074,
-                        -5.083917
-                  ]
-            },
-            {
                   "name": "Jaffery Hall",
                   "text": "Die Jaffery Hall dient als Indoor-Sport- und Erholungsstätte für sportliche Aktivitäten in Tanga.",
                   "category": "landmark",
@@ -179,15 +170,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   "coords": [
                         39.121423,
                         -5.054619
-                  ]
-            },
-            {
-                  "name": "Wachoraji",
-                  "text": "A Wachoraji kreatív teret biztosít a vizuális művészeteknek, és támogatja a helyi művészeti kifejezést Tanga gazdasági központjában.",
-                  "category": "cultural",
-                  "coords": [
-                        39.093074,
-                        -5.083917
                   ]
             },
             {
@@ -238,15 +220,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wachoraji",
-                  "text": "Wachoraji oferă un spațiu creativ pentru artele vizuale, promovând expresia artistică locală în centrul economic Tanga.",
-                  "category": "cultural",
-                  "coords": [
-                        39.093074,
-                        -5.083917
-                  ]
-            },
-            {
                   "name": "Jaffery Hall",
                   "text": "Jaffery Hall funcționează ca un spațiu sportiv și de recreere acoperit, destinat activităților atletice din Tanga.",
                   "category": "landmark",
@@ -291,15 +264,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   "coords": [
                         39.121423,
                         -5.054619
-                  ]
-            },
-            {
-                  "name": "Wachoraji",
-                  "text": "Wachoraji provides a creative space for visual arts, fostering local artistic expression in the economic hub of Tanga.",
-                  "category": "cultural",
-                  "coords": [
-                        39.093074,
-                        -5.083917
                   ]
             },
             {
@@ -420,15 +384,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     id: "tz-port-kigoma-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Gombe/Mahale Visitors Information Centre",
-                  "text": "Dieses Informationszentrum in der Nähe des Hafens von Kigoma unterstützt Reisende bei der Planung von Ausflügen zu den Schimpansen-Habitaten der Nationalparks Gombe und Mahale.",
-                  "category": "landmark",
-                  "coords": [
-                        29.636279,
-                        -4.88329
-                  ]
-            },
-            {
                   "name": "Kaiser House",
                   "text": "Das Kaiserhaus ist ein historisches Gebäude aus der Kolonialzeit in Kigoma, das den deutschen Architektureinfluss im frühen 20. Jahrhundert widerspiegelt.",
                   "category": "landmark",
@@ -456,15 +411,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kibi Reception Hall",
-                  "text": "Die Kibi Reception Hall bietet einen malerischen Veranstaltungsort für Zusammenkünfte und Events in der Nähe der geschäftigen Uferpromenade von Kigoma.",
-                  "category": "landmark",
-                  "coords": [
-                        29.631591,
-                        -4.884484
-                  ]
-            },
-            {
                   "name": "Rock Lookout",
                   "text": "Rock Lookout bietet einen natürlichen, erhöhten Aussichtspunkt über die weiten Gewässer des Tanganjikasees und die Küstenlinie von Kigoma.",
                   "category": "natural",
@@ -475,15 +421,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Gombe/Mahale Visitors Information Centre",
-                  "text": "Ez a Kigoma kikötője közelében található információs központ segíti a Gombe és Mahale Nemzeti Parkok csimpánzélőhelyeire utazókat.",
-                  "category": "landmark",
-                  "coords": [
-                        29.636279,
-                        -4.88329
-                  ]
-            },
             {
                   "name": "Kaiser House",
                   "text": "A Kaiser-ház egy történelmi, gyarmati korszakból származó épület Kigomában, amely a kora 20. századi német építészeti hatást tükrözi.",
@@ -512,15 +449,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kibi Reception Hall",
-                  "text": "A Kibi Reception Hall festői helyszínt biztosít az összejövetelek és rendezvények számára Kigoma forgalmas vízpartja közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        29.631591,
-                        -4.884484
-                  ]
-            },
-            {
                   "name": "Rock Lookout",
                   "text": "A Rock Lookout természetes, magaslati kilátópontot nyújt a Tanganyika-tó hatalmas vizére és Kigoma partvonalára.",
                   "category": "natural",
@@ -531,15 +459,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Gombe/Mahale Visitors Information Centre",
-                  "text": "Acest centru de informare din apropierea portului Kigoma asistă călătorii care își planifică excursii către habitatele cimpanzeilor din Parcurile Naționale Gombe și Mahale.",
-                  "category": "landmark",
-                  "coords": [
-                        29.636279,
-                        -4.88329
-                  ]
-            },
             {
                   "name": "Kaiser House",
                   "text": "Kaiser House este o clădire istorică din epoca colonială situată în Kigoma, care reflectă influența arhitecturală germană la începutul secolului al XX-lea.",
@@ -568,15 +487,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kibi Reception Hall",
-                  "text": "Kibi Reception Hall oferă o locație pitorească pentru adunări și evenimente aproape de faleza aglomerată din Kigoma.",
-                  "category": "landmark",
-                  "coords": [
-                        29.631591,
-                        -4.884484
-                  ]
-            },
-            {
                   "name": "Rock Lookout",
                   "text": "Rock Lookout oferă un punct de observație natural, înalt, asupra apelor întinse ale Lacului Tanganyika și țărmului orașului Kigoma.",
                   "category": "natural",
@@ -587,15 +497,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Gombe/Mahale Visitors Information Centre",
-                  "text": "This Information Centre near Kigoma port assists travelers planning trips to the chimpanzee habitats of Gombe and Mahale National Parks.",
-                  "category": "landmark",
-                  "coords": [
-                        29.636279,
-                        -4.88329
-                  ]
-            },
             {
                   "name": "Kaiser House",
                   "text": "Kaiser House is a historic colonial-era building in Kigoma that reflects the German architectural influence during the early 20th century.",
@@ -621,15 +522,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   "coords": [
                         29.627807,
                         -4.87686
-                  ]
-            },
-            {
-                  "name": "Kibi Reception Hall",
-                  "text": "Kibi Reception Hall offers a scenic venue for gatherings and events near the busy waterfront of Kigoma.",
-                  "category": "landmark",
-                  "coords": [
-                        29.631591,
-                        -4.884484
                   ]
             },
             {
@@ -1690,24 +1582,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                         32.271239,
                         -2.876743
                   ]
-            },
-            {
-                  "name": "KB Hotel",
-                  "text": "Ein bekanntes Gastgewerbe-Wahrzeichen, das Unterkünfte in der geschäftigen Stadt Geita bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        32.247855,
-                        -2.87216
-                  ]
-            },
-            {
-                  "name": "Roman Catholic Nyankumbu",
-                  "text": "Eine herausragende religiöse Attraktion, die der lokalen katholischen Gemeinde in Geita dient.",
-                  "category": "landmark",
-                  "coords": [
-                        32.236685,
-                        -2.881556
-                  ]
             }
       ],
       "hu": [
@@ -1727,24 +1601,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   "coords": [
                         32.271239,
                         -2.876743
-                  ]
-            },
-            {
-                  "name": "KB Hotel",
-                  "text": "Egy jól ismert vendéglátóipari nevezetesség, amely szállást kínál a nyüzsgő Geita városában.",
-                  "category": "landmark",
-                  "coords": [
-                        32.247855,
-                        -2.87216
-                  ]
-            },
-            {
-                  "name": "Roman Catholic Nyankumbu",
-                  "text": "Egy kiemelkedő vallási látványosság, amely a helyi katolikus közösséget szolgálja ki Geitában.",
-                  "category": "landmark",
-                  "coords": [
-                        32.236685,
-                        -2.881556
                   ]
             }
       ],
@@ -1766,24 +1622,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                         32.271239,
                         -2.876743
                   ]
-            },
-            {
-                  "name": "KB Hotel",
-                  "text": "Un reper bine-cunoscut de ospitalitate care oferă cazare în orașul plin de viață Geita.",
-                  "category": "landmark",
-                  "coords": [
-                        32.247855,
-                        -2.87216
-                  ]
-            },
-            {
-                  "name": "Roman Catholic Nyankumbu",
-                  "text": "O atracție religioasă proeminentă care deservește comunitatea catolică locală din Geita.",
-                  "category": "landmark",
-                  "coords": [
-                        32.236685,
-                        -2.881556
-                  ]
             }
       ],
       "en": [
@@ -1803,24 +1641,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
                   "coords": [
                         32.271239,
                         -2.876743
-                  ]
-            },
-            {
-                  "name": "KB Hotel",
-                  "text": "A prominent hospitality landmark providing accommodation in the bustling town of Geita.",
-                  "category": "landmark",
-                  "coords": [
-                        32.247855,
-                        -2.87216
-                  ]
-            },
-            {
-                  "name": "Roman Catholic Nyankumbu",
-                  "text": "A prominent religious attraction serving the local Catholic community in Geita.",
-                  "category": "landmark",
-                  "coords": [
-                        32.236685,
-                        -2.881556
                   ]
             }
       ]
@@ -3387,24 +3207,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
     id: "tz-industry-ubungo-power-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Sherehe Arts Association Saccoss Ltd",
-                  "text": "Ein kooperatives Kunst- und Kulturzentrum im Bezirk Ubungo in Daressalam, das lokale tansanische Kreative unterstützt.",
-                  "category": "cultural",
-                  "coords": [
-                        39.218945,
-                        -6.793696
-                  ]
-            },
-            {
-                  "name": "Forest",
-                  "text": "Ein natürliches Waldgebiet, das eine grüne Oase inmitten der industriellen Kulisse des Bezirks Ubungo bildet.",
-                  "category": "landmark",
-                  "coords": [
-                        39.203405,
-                        -6.784806
-                  ]
-            },
-            {
                   "name": "Sinza near wanyama hotel",
                   "text": "Ein lokales Denkmal im belebten Viertel Sinza in der Nähe des Wanyama Hotels.",
                   "category": "historical",
@@ -3460,24 +3262,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Sherehe Arts Association Saccoss Ltd",
-                  "text": "Egy szövetkezeti művészeti és kulturális központ Dar es-Salaam Ubungo kerületében, amely a helyi tanzániai alkotókat támogatja.",
-                  "category": "cultural",
-                  "coords": [
-                        39.218945,
-                        -6.793696
-                  ]
-            },
-            {
-                  "name": "Forest",
-                  "text": "Egy természetes erdős rész, amely zöld oázist nyújt az Ubungo kerület ipari háttere közepette.",
-                  "category": "landmark",
-                  "coords": [
-                        39.203405,
-                        -6.784806
-                  ]
-            },
             {
                   "name": "Sinza near wanyama hotel",
                   "text": "Egy helyi emlékmű, amely a nyüzsgő Sinza negyedben, a Wanyama Hotel közelében található.",
@@ -3535,24 +3319,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Sherehe Arts Association Saccoss Ltd",
-                  "text": "Un centru de artă și cultură cooperativ din cartierul Ubungo al orașului Dar es Salaam, ce susține creatorii locali tanzanieni.",
-                  "category": "cultural",
-                  "coords": [
-                        39.218945,
-                        -6.793696
-                  ]
-            },
-            {
-                  "name": "Forest",
-                  "text": "O zonă de pădure naturală care oferă o oază verde în mijlocul fundalului industrial al cartierului Ubungo.",
-                  "category": "landmark",
-                  "coords": [
-                        39.203405,
-                        -6.784806
-                  ]
-            },
-            {
                   "name": "Sinza near wanyama hotel",
                   "text": "O structură memorială locală situată în cartierul plin de viață Sinza, lângă Hotelul Wanyama.",
                   "category": "historical",
@@ -3608,24 +3374,6 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Sherehe Arts Association Saccoss Ltd",
-                  "text": "A cooperative arts and cultural hub in the Ubungo district of Dar es Salaam, supporting local Tanzanian creatives.",
-                  "category": "cultural",
-                  "coords": [
-                        39.218945,
-                        -6.793696
-                  ]
-            },
-            {
-                  "name": "Forest",
-                  "text": "A pocket of natural woodland providing a green oasis amidst the industrial backdrop of the Ubungo district.",
-                  "category": "landmark",
-                  "coords": [
-                        39.203405,
-                        -6.784806
-                  ]
-            },
             {
                   "name": "Sinza near wanyama hotel",
                   "text": "A local memorial structure situated in the bustling Sinza neighborhood near the Wanyama Hotel.",

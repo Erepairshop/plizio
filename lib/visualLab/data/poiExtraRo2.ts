@@ -4309,50 +4309,10 @@ export const poiExtraRo2: POI[] = [
     }, image: "/poi-images/river-trotus-extra.webp"},
   {
     id: "river-putna-extra", "sights": {
-      "de": [
-            {
-                  "name": "Cascada Putnei",
-                  "text": "Ein malerischer Wasserfall am Fluss Putna, der als Touristenattraktion bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        26.598711,
-                        45.929667
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cascada Putnei",
-                  "text": "Festői vízesés a Putna-folyón, amely népszerű turisztikai látványosság.",
-                  "category": "landmark",
-                  "coords": [
-                        26.598711,
-                        45.929667
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cascada Putnei",
-                  "text": "O cascadă pitorească pe râul Putna, cunoscută ca atracție turistică.",
-                  "category": "landmark",
-                  "coords": [
-                        26.598711,
-                        45.929667
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cascada Putnei",
-                  "text": "A picturesque waterfall on the Putna River, known as a tourist attraction.",
-                  "category": "landmark",
-                  "coords": [
-                        26.598711,
-                        45.929667
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "river",
     parent: "RO-VN",

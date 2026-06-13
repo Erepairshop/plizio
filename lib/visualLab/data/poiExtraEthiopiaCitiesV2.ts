@@ -2977,50 +2977,10 @@ export const poiExtraEthiopiaCitiesV2: POI[] = [
   },
   {
     id: "kombolcha-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Shibiin area",
-                  "text": "Das Shibiin-Gebiet dient als malerischer Aussichtspunkt in Kombolcha.",
-                  "category": "natural",
-                  "coords": [
-                        39.75095,
-                        11.082463
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Shibiin area",
-                  "text": "A Shibiin terület egy festői kilátóhely Kombolcha városában.",
-                  "category": "natural",
-                  "coords": [
-                        39.75095,
-                        11.082463
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Shibiin area",
-                  "text": "Zona Shibiin servește drept punct de belvedere pitoresc în Kombolcha.",
-                  "category": "natural",
-                  "coords": [
-                        39.75095,
-                        11.082463
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Shibiin area",
-                  "text": "The Shibiin area serves as a scenic viewpoint in Kombolcha.",
-                  "category": "natural",
-                  "coords": [
-                        39.75095,
-                        11.082463
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "ET-AM",

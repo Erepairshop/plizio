@@ -52,33 +52,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
     id: "port-of-nueva-palmira-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Monumento 25 de Mayo",
-                  "text": "Das Monumento 25 de Mayo ist ein historisches Denkmal in der Hafenstadt Nueva Palmira, das an die Mairevolution erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        -58.417032,
-                        -33.872115
-                  ]
-            },
-            {
-                  "name": "Reloj De Sol",
-                  "text": "Reloj De Sol ist eine als historische Sonnenuhr gestaltete Freiluftattraktion im Hafengebiet von Nueva Palmira.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.415877,
-                        -33.870017
-                  ]
-            },
-            {
-                  "name": "Muelle Nueva Palmira",
-                  "text": "Muelle Nueva Palmira ist eine belebte Uferpromenade mit Pier, die Ausblicke über die Schiffe im Hafen von Nueva Palmira bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.41635,
-                        -33.86876
-                  ]
-            },
-            {
                   "name": "Pirámide Juan Díaz de Solís",
                   "text": "Die Pirámide Juan Díaz de Solís ist ein pyramidenförmiges Steindenkmal in der Hafenstadt Nueva Palmira, das dem spanischen Seefahrer gewidmet ist.",
                   "category": "landmark",
@@ -143,33 +116,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Monumento 25 de Mayo",
-                  "text": "A Monumento 25 de Mayo egy történelmi emlékmű a kikötővárosban, Nueva Palmirában, amely a májusi forradalomnak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -58.417032,
-                        -33.872115
-                  ]
-            },
-            {
-                  "name": "Reloj De Sol",
-                  "text": "A Reloj De Sol egy történelmi napóraként kialakított szabadtéri látványosság Nueva Palmira kikötővárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.415877,
-                        -33.870017
-                  ]
-            },
-            {
-                  "name": "Muelle Nueva Palmira",
-                  "text": "A Muelle Nueva Palmira egy nyüzsgő tengerparti móló, amely kilátást nyújt a horgonyzó hajókra Nueva Palmira kikötőjében.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.41635,
-                        -33.86876
-                  ]
-            },
             {
                   "name": "Pirámide Juan Díaz de Solís",
                   "text": "A Pirámide Juan Díaz de Solís egy piramis alakú kőemlékmű Nueva Palmira kikötővárosában, amelyet a spanyol tengerésznek szenteltek.",
@@ -236,33 +182,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Monumento 25 de Mayo",
-                  "text": "Monumento 25 de Mayo este un monument istoric în orașul-port Nueva Palmira care comemorează Revoluția din Mai.",
-                  "category": "historical",
-                  "coords": [
-                        -58.417032,
-                        -33.872115
-                  ]
-            },
-            {
-                  "name": "Reloj De Sol",
-                  "text": "Reloj De Sol este o atracție în aer liber amenajată ca un ceas solar istoric în zona portuară din Nueva Palmira.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.415877,
-                        -33.870017
-                  ]
-            },
-            {
-                  "name": "Muelle Nueva Palmira",
-                  "text": "Muelle Nueva Palmira este un debarcader pe malul apei care oferă vedere la navele acostate în portul Nueva Palmira.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.41635,
-                        -33.86876
-                  ]
-            },
-            {
                   "name": "Pirámide Juan Díaz de Solís",
                   "text": "Pirámide Juan Díaz de Solís este un monument de piatră în formă piramidală situat în orașul-port Nueva Palmira, dedicat navigatorului spaniol.",
                   "category": "landmark",
@@ -327,33 +246,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Monumento 25 de Mayo",
-                  "text": "The Monumento 25 de Mayo is a historical monument located in the port city of Nueva Palmira commemorating the May Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        -58.417032,
-                        -33.872115
-                  ]
-            },
-            {
-                  "name": "Reloj De Sol",
-                  "text": "Reloj De Sol is a sundial attraction situated outdoors in the port area of Nueva Palmira.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.415877,
-                        -33.870017
-                  ]
-            },
-            {
-                  "name": "Muelle Nueva Palmira",
-                  "text": "Muelle Nueva Palmira is a waterfront pier offering sweeping views over the docked vessels in the port of Nueva Palmira.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.41635,
-                        -33.86876
-                  ]
-            },
             {
                   "name": "Pirámide Juan Díaz de Solís",
                   "text": "The Pirámide Juan Díaz de Solís is a stone pyramidal monument located in the port city of Nueva Palmira dedicated to the Spanish navigator.",
@@ -640,33 +532,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
     id: "upm-paso-de-los-toros-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Playa santa isabel",
-                  "text": "Dieser Sandstrand am Flussufer in Paso de los Toros lädt Besucher zum Schwimmen und Sonnenbaden ein.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.521804,
-                        -32.818447
-                  ]
-            },
-            {
-                  "name": "Playa la picada",
-                  "text": "Der Strand La Picada in Paso de los Toros ist ein beliebter Küstenabschnitt, der direkten Zugang zum Süßwasser bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.497812,
-                        -32.817482
-                  ]
-            },
-            {
-                  "name": "Playa el sauce",
-                  "text": "Unter schattenspendenden Bäumen gelegen, bietet dieser Flussstrand in Paso de los Toros eine entspannte Atmosphäre am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.503102,
-                        -32.820805
-                  ]
-            },
-            {
                   "name": "Salón del Reino de los Testigos de Jehová",
                   "text": "Dieser Königreichssaal in Paso de los Toros dient der Gemeinschaft der Zeugen Jehovas als Raum für das Bibelstudium.",
                   "category": "landmark",
@@ -677,33 +542,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Playa santa isabel",
-                  "text": "Ez a folyóparti homokos strand Paso de los Torosban fürdőzésre és napozásra invitálja a látogatókat.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.521804,
-                        -32.818447
-                  ]
-            },
-            {
-                  "name": "Playa la picada",
-                  "text": "A La Picada strand Paso de los Torosban egy népszerű partszakasz, amely közvetlen hozzáférést nyújt a folyó vizéhez.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.497812,
-                        -32.817482
-                  ]
-            },
-            {
-                  "name": "Playa el sauce",
-                  "text": "Az árnyékot adó fák alatt elterülő folyóparti strand Paso de los Torosban pihentető vízparti légkört biztosít.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.503102,
-                        -32.820805
-                  ]
-            },
             {
                   "name": "Salón del Reino de los Testigos de Jehová",
                   "text": "Ez a Paso de los Toros-i Királyság-terem Jehova Tanúi közösségének bibliai tanulmányozó helyeként szolgál.",
@@ -716,33 +554,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Playa santa isabel",
-                  "text": "Această plajă cu nisip de pe malul râului din Paso de los Toros invită vizitatorii la înot și plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.521804,
-                        -32.818447
-                  ]
-            },
-            {
-                  "name": "Playa la picada",
-                  "text": "Plaja La Picada din Paso de los Toros este o porțiune de coastă populară care oferă acces direct la apa dulce.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.497812,
-                        -32.817482
-                  ]
-            },
-            {
-                  "name": "Playa el sauce",
-                  "text": "Situată sub umbra copacilor, această plajă pe malul râului din Paso de los Toros oferă o atmosferă relaxantă lângă apă.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.503102,
-                        -32.820805
-                  ]
-            },
-            {
                   "name": "Salón del Reino de los Testigos de Jehová",
                   "text": "Această Sală a Regatului din Paso de los Toros servește comunității Martorilor lui Iehova ca spațiu pentru studiul biblic.",
                   "category": "landmark",
@@ -753,33 +564,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Playa santa isabel",
-                  "text": "This sandy riverside beach in Paso de los Toros provides a natural setting for swimming and sunbathing.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.521804,
-                        -32.818447
-                  ]
-            },
-            {
-                  "name": "Playa la picada",
-                  "text": "La Picada beach in Paso de los Toros is a popular stretch of shoreline offering direct access to the fresh water.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.497812,
-                        -32.817482
-                  ]
-            },
-            {
-                  "name": "Playa el sauce",
-                  "text": "Nestled under shade trees, this riverside beach in Paso de los Toros provides a relaxing waterfront atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        -56.503102,
-                        -32.820805
-                  ]
-            },
             {
                   "name": "Salón del Reino de los Testigos de Jehová",
                   "text": "This Kingdom Hall in Paso de los Toros serves the Jehovah's Witnesses community as a dedicated space for Bible study.",
@@ -9172,57 +8956,12 @@ export const poiExtraUruguayEconomicV2: POI[] = [
     id: "port-of-maldonado-punta-del-este-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Vista 4 mares",
-                  "text": "Ein Panoramapunkt am Hafen, von dem aus man das Zusammentreffen von Rio de la Plata und Atlantik beobachten kann.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.951175,
-                        -34.967622
-                  ]
-            },
-            {
-                  "name": "Mirador Punta de Salinas",
-                  "text": "Der südlichste Punkt der Halbinsel, der die offizielle Grenze zwischen dem Fluss und dem Meer markiert.",
-                  "category": "natural",
-                  "coords": [
-                        -54.951963,
-                        -34.973355
-                  ]
-            },
-            {
-                  "name": "Guerra",
-                  "text": "Eine moderne Kunstgalerie im Hafenviertel, die Werke zeitgenössischer uruguayischer Künstler präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -54.949037,
-                        -34.96546
-                  ]
-            },
-            {
                   "name": "Playa de los Ingleses",
                   "text": "Ein felsiger Küstenabschnitt an der Südspitze, ideal für Spaziergänge am Meer bei Sonnenuntergang.",
                   "category": "recreational",
                   "coords": [
                         -54.946981,
                         -34.967495
-                  ]
-            },
-            {
-                  "name": "Faro de Punta del Este",
-                  "text": "Ein Leuchtturm aus dem Jahr 1860, der mit Vulkanerde aus Italien erbaut wurde, um die Seefahrt zu leiten.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.951642,
-                        -34.968863
-                  ]
-            },
-            {
-                  "name": "Iglesia de la Candelaria",
-                  "text": "Eine charakteristische blau-weiße Kirche in der Nähe des Leuchtturms, die der Schutzpatronin der Stadt gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        -54.950478,
-                        -34.968987
                   ]
             },
             {
@@ -9255,57 +8994,12 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Vista 4 mares",
-                  "text": "Panorámás pont a kikötőnél, ahonnan megfigyelhető a Rio de la Plata és az Atlanti-óceán találkozása.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.951175,
-                        -34.967622
-                  ]
-            },
-            {
-                  "name": "Mirador Punta de Salinas",
-                  "text": "A félsziget legdélebbi pontja, amely a folyó és az óceán közötti hivatalos határt jelzi.",
-                  "category": "natural",
-                  "coords": [
-                        -54.951963,
-                        -34.973355
-                  ]
-            },
-            {
-                  "name": "Guerra",
-                  "text": "Modern művészeti galéria a kikötői negyedben, amely kortárs uruguayi művészek alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -54.949037,
-                        -34.96546
-                  ]
-            },
-            {
                   "name": "Playa de los Ingleses",
                   "text": "Sziklás tengerparti szakasz a déli csücsökben, amely ideális tengerparti sétákhoz naplementekor.",
                   "category": "recreational",
                   "coords": [
                         -54.946981,
                         -34.967495
-                  ]
-            },
-            {
-                  "name": "Faro de Punta del Este",
-                  "text": "1860-ban épült világítótorony, amely olaszországi vulkáni földből készült a tengeri hajózás segítésére.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.951642,
-                        -34.968863
-                  ]
-            },
-            {
-                  "name": "Iglesia de la Candelaria",
-                  "text": "Jellegzetes kék-fehér templom a világítótorony közelében, amelyet a város védőszentjének szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        -54.950478,
-                        -34.968987
                   ]
             },
             {
@@ -9338,57 +9032,12 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Vista 4 mares",
-                  "text": "Un punct panoramic în port, de unde se poate observa întâlnirea dintre Rio de la Plata și Atlantic.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.951175,
-                        -34.967622
-                  ]
-            },
-            {
-                  "name": "Mirador Punta de Salinas",
-                  "text": "Cel mai sudic punct al peninsulei, marcând limita oficială dintre râu și ocean.",
-                  "category": "natural",
-                  "coords": [
-                        -54.951963,
-                        -34.973355
-                  ]
-            },
-            {
-                  "name": "Guerra",
-                  "text": "O galerie de artă modernă în zona portului, prezentând lucrări ale artiștilor uruguayeni contemporani.",
-                  "category": "museum",
-                  "coords": [
-                        -54.949037,
-                        -34.96546
-                  ]
-            },
-            {
                   "name": "Playa de los Ingleses",
                   "text": "O porțiune de coastă stâncoasă în vârful sudic, ideală pentru plimbări la malul mării la apus.",
                   "category": "recreational",
                   "coords": [
                         -54.946981,
                         -34.967495
-                  ]
-            },
-            {
-                  "name": "Faro de Punta del Este",
-                  "text": "Un far din 1860, construit cu pământ vulcanic din Italia pentru a ghida navigația maritimă.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.951642,
-                        -34.968863
-                  ]
-            },
-            {
-                  "name": "Iglesia de la Candelaria",
-                  "text": "O biserică distinctivă albastru-alb situată lângă far, dedicată patroanei spirituale a orașului.",
-                  "category": "religious",
-                  "coords": [
-                        -54.950478,
-                        -34.968987
                   ]
             },
             {
@@ -9421,57 +9070,12 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Vista 4 mares",
-                  "text": "A panoramic spot near the port where you can observe the meeting of the Rio de la Plata and the Atlantic.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.951175,
-                        -34.967622
-                  ]
-            },
-            {
-                  "name": "Mirador Punta de Salinas",
-                  "text": "The southernmost point of the peninsula, marking the official limit between the river and the ocean.",
-                  "category": "natural",
-                  "coords": [
-                        -54.951963,
-                        -34.973355
-                  ]
-            },
-            {
-                  "name": "Guerra",
-                  "text": "A modern art gallery in the port area showcasing works by contemporary Uruguayan artists.",
-                  "category": "museum",
-                  "coords": [
-                        -54.949037,
-                        -34.96546
-                  ]
-            },
-            {
                   "name": "Playa de los Ingleses",
                   "text": "A rocky coastal stretch at the southern tip, ideal for seaside walks at sunset.",
                   "category": "recreational",
                   "coords": [
                         -54.946981,
                         -34.967495
-                  ]
-            },
-            {
-                  "name": "Faro de Punta del Este",
-                  "text": "An 1860 lighthouse built with volcanic earth from Italy to guide maritime navigation.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.951642,
-                        -34.968863
-                  ]
-            },
-            {
-                  "name": "Iglesia de la Candelaria",
-                  "text": "A distinctive blue and white church near the lighthouse, dedicated to the city's patron saint.",
-                  "category": "religious",
-                  "coords": [
-                        -54.950478,
-                        -34.968987
                   ]
             },
             {
@@ -9807,33 +9411,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
     id: "port-of-la-paloma-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Playa La Balconada",
-                  "text": "Ein beliebter Atlantikstrand in La Paloma, bekannt für seine spektakulären Sonnenuntergänge über dem Ozean.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.165304,
-                        -34.664685
-                  ]
-            },
-            {
-                  "name": "Playa El Cabito",
-                  "text": "Ein kleiner, familienfreundlicher Strand mit natürlichen Felsenbecken an der Küste von Rocha.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.168927,
-                        -34.664759
-                  ]
-            },
-            {
-                  "name": "Playa Los Botes",
-                  "text": "Ein traditioneller Strand, an dem lokale Fischerboote täglich ihren Fang in La Paloma anlanden.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.176003,
-                        -34.662363
-                  ]
-            },
-            {
                   "name": "Faro Cabo Santa Maria",
                   "text": "Ein historischer Leuchtturm aus dem 19. Jahrhundert, der weite Ausblicke über das Kap und den Atlantik bietet.",
                   "category": "natural",
@@ -9849,15 +9426,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
                   "coords": [
                         -54.154847,
                         -34.667688
-                  ]
-            },
-            {
-                  "name": "Playa del Faro",
-                  "text": "Dieser Sandstrand liegt direkt unterhalb des markanten Leuchtturms von La Paloma.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.160646,
-                        -34.666707
                   ]
             },
             {
@@ -9926,33 +9494,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Playa La Balconada",
-                  "text": "Népszerű atlanti strand La Palomában, amely látványos óceáni naplementéiről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.165304,
-                        -34.664685
-                  ]
-            },
-            {
-                  "name": "Playa El Cabito",
-                  "text": "Családbarát kis strand természetes sziklás medencékkel Rocha partjainál.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.168927,
-                        -34.664759
-                  ]
-            },
-            {
-                  "name": "Playa Los Botes",
-                  "text": "Hagyományos strand, ahol a helyi halászhajók naponta partra teszik zsákmányukat La Palomában.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.176003,
-                        -34.662363
-                  ]
-            },
-            {
                   "name": "Faro Cabo Santa Maria",
                   "text": "19. századi történelmi világítótorony, ahonnan kilátás nyílik a fokra és az Atlanti-óceánra.",
                   "category": "natural",
@@ -9968,15 +9509,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
                   "coords": [
                         -54.154847,
                         -34.667688
-                  ]
-            },
-            {
-                  "name": "Playa del Faro",
-                  "text": "Ez a homokos part közvetlenül a La Paloma-i világítótorony alatt terül el.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.160646,
-                        -34.666707
                   ]
             },
             {
@@ -10045,33 +9577,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Playa La Balconada",
-                  "text": "O plajă populară la Atlantic în La Paloma, renumită pentru apusurile sale spectaculoase de soare peste ocean.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.165304,
-                        -34.664685
-                  ]
-            },
-            {
-                  "name": "Playa El Cabito",
-                  "text": "O plajă mică, ideală pentru familii, cu bazine stâncoase naturale de-a lungul coastei Rocha.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.168927,
-                        -34.664759
-                  ]
-            },
-            {
-                  "name": "Playa Los Botes",
-                  "text": "O plajă tradițională unde bărcile locale de pescuit își aduc captura zilnică în La Paloma.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.176003,
-                        -34.662363
-                  ]
-            },
-            {
                   "name": "Faro Cabo Santa Maria",
                   "text": "Un far istoric din secolul al XIX-lea care oferă vederi asupra cape-ului și a Oceanului Atlantic.",
                   "category": "natural",
@@ -10087,15 +9592,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
                   "coords": [
                         -54.154847,
                         -34.667688
-                  ]
-            },
-            {
-                  "name": "Playa del Faro",
-                  "text": "Această plajă de nisip se află direct sub farul emblematic din La Paloma.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.160646,
-                        -34.666707
                   ]
             },
             {
@@ -10164,33 +9660,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Playa La Balconada",
-                  "text": "A popular Atlantic beach in La Paloma, renowned for its spectacular ocean sunsets.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.165304,
-                        -34.664685
-                  ]
-            },
-            {
-                  "name": "Playa El Cabito",
-                  "text": "A small, family-friendly beach with natural rocky pools along the Rocha coast.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.168927,
-                        -34.664759
-                  ]
-            },
-            {
-                  "name": "Playa Los Botes",
-                  "text": "A traditional beach where local fishing boats land their daily catch in La Paloma.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.176003,
-                        -34.662363
-                  ]
-            },
-            {
                   "name": "Faro Cabo Santa Maria",
                   "text": "A historic 19th-century lighthouse providing views over the Cape and the Atlantic Ocean.",
                   "category": "natural",
@@ -10206,15 +9675,6 @@ export const poiExtraUruguayEconomicV2: POI[] = [
                   "coords": [
                         -54.154847,
                         -34.667688
-                  ]
-            },
-            {
-                  "name": "Playa del Faro",
-                  "text": "This sandy beach is located directly beneath the iconic lighthouse of La Paloma.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.160646,
-                        -34.666707
                   ]
             },
             {

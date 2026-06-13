@@ -2259,50 +2259,10 @@ export const poiExtraMadagascarEconomicV2: POI[] = [
   },
   {
     id: "soavoanio-coconut-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "HOUSE",
-                  "text": "Dieses Schlossgebäude befindet sich in der Nähe des ausgedehnten Kokosnussanbaugebiets von Soavoanio.",
-                  "category": "castle",
-                  "coords": [
-                        50.164903,
-                        -14.264931
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "HOUSE",
-                  "text": "Ez a kastélyépület a soavoaniói kókuszültetvények gazdasági övezetének közelében található.",
-                  "category": "castle",
-                  "coords": [
-                        50.164903,
-                        -14.264931
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "HOUSE",
-                  "text": "Această clădire asemănătoare unui castel este situată în apropierea zonei economice de cultivare a nucilor de cocos din Soavoanio.",
-                  "category": "castle",
-                  "coords": [
-                        50.164903,
-                        -14.264931
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "HOUSE",
-                  "text": "This castle-like building is situated near the Soavoanio coconut agricultural zone.",
-                  "category": "castle",
-                  "coords": [
-                        50.164903,
-                        -14.264931
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "MG-D",

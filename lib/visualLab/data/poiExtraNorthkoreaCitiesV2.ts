@@ -946,51 +946,6 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
     id: "kp-kaesong-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Koryo Museum (Sungyangwan Academy)",
-                  "text": "Das Koryo-Museum in der ehemaligen Sungyangwan-Konfuzius-Akademie in Kaesong, das Artefakte aus der Goryeo-Zeit zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        126.570744,
-                        37.991184
-                  ]
-            },
-            {
-                  "name": "Sungyang Seowon",
-                  "text": "Sungyang Seowon ist eine archäologische Stätte in Kaesŏng. Es ist eine historische konfuzianische Akademie aus der Joseon-Dynastie.",
-                  "category": "historical",
-                  "coords": [
-                        126.560924,
-                        37.974968
-                  ]
-            },
-            {
-                  "name": "Revolutionary Museum for the History of Kaesong",
-                  "text": "Ein Museum in Kaesong, das der Geschichte der Revolution in der Region gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        126.559262,
-                        37.975954
-                  ]
-            },
-            {
-                  "name": "Manwoldae Palace",
-                  "text": "Die Ruinen des Manwoldae-Palastes, der wichtigsten Goryeo-Königspalastes in Kaesong.",
-                  "category": "historical",
-                  "coords": [
-                        126.542601,
-                        37.985627
-                  ]
-            },
-            {
-                  "name": "Kaesong Chomsongdae",
-                  "text": "Kaesong Chomsongdae, eine historische astronomische Sternwarte aus der Goryeo-Zeit.",
-                  "category": "historical",
-                  "coords": [
-                        126.539708,
-                        37.986809
-                  ]
-            },
-            {
                   "name": "Sonjuk Bridge and Phyochung Monuments",
                   "text": "Die Sonjuk-Brücke und die Phyochung-Denkmäler in Kaesong, Gedenkstätten für den Gelehrten Jeong Mong-ju.",
                   "category": "historical",
@@ -1009,15 +964,6 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Namsan Mountain",
-                  "text": "Berg mit Aussicht auf die historische Stadt Kaesong.",
-                  "category": "natural",
-                  "coords": [
-                        126.55362,
-                        37.956007
-                  ]
-            },
-            {
                   "name": "Namdaemun",
                   "text": "Südliches Stadttor von Kaesong aus der Goryeo-Dynastie.",
                   "category": "historical",
@@ -1028,51 +974,6 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Koryo Museum (Sungyangwan Academy)",
-                  "text": "A Korjo Múzeum a hajdani Sungyangwan Konfuciánus Akadémiában Kaesongban, korjo kori tárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        126.570744,
-                        37.991184
-                  ]
-            },
-            {
-                  "name": "Sungyang Seowon",
-                  "text": "A Sungyang Seowon egy régészeti lelőhely Kaesŏng városában. Ez egy történelmi konfuciánus akadémia a Csoszon-dinasztia korából.",
-                  "category": "historical",
-                  "coords": [
-                        126.560924,
-                        37.974968
-                  ]
-            },
-            {
-                  "name": "Revolutionary Museum for the History of Kaesong",
-                  "text": "Múzeum Kaesongban, amely a régió forradalmának történetének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        126.559262,
-                        37.975954
-                  ]
-            },
-            {
-                  "name": "Manwoldae Palace",
-                  "text": "A Manwoldae palota romjai, a fő korjo királyi palota Kaesongban.",
-                  "category": "historical",
-                  "coords": [
-                        126.542601,
-                        37.985627
-                  ]
-            },
-            {
-                  "name": "Kaesong Chomsongdae",
-                  "text": "Kaesong Chomsongdae, történelmi csillagvizsgáló a korjo korból.",
-                  "category": "historical",
-                  "coords": [
-                        126.539708,
-                        37.986809
-                  ]
-            },
             {
                   "name": "Sonjuk Bridge and Phyochung Monuments",
                   "text": "A Sonjuk híd és a Phyochung emlékművek Kaesongban, Jeong Mong-ju tudós emlékére.",
@@ -1092,15 +993,6 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Namsan Mountain",
-                  "text": "Kilátóhegy a történelmi Kaesong város felett.",
-                  "category": "natural",
-                  "coords": [
-                        126.55362,
-                        37.956007
-                  ]
-            },
-            {
                   "name": "Namdaemun",
                   "text": "Kaesong déli kapuja a Korjo-dinasztia korából.",
                   "category": "historical",
@@ -1111,51 +1003,6 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Koryo Museum (Sungyangwan Academy)",
-                  "text": "Muzeul Koryo găzduit în fosta Academie Confucianistă Sungyangwan din Kaesong, care expune artefacte din perioada Goryeo.",
-                  "category": "museum",
-                  "coords": [
-                        126.570744,
-                        37.991184
-                  ]
-            },
-            {
-                  "name": "Sungyang Seowon",
-                  "text": "Sungyang Seowon este un sit arheologic în Kaesŏng. Este o academie istorică confucianistă care datează din timpul dinastiei Joseon.",
-                  "category": "historical",
-                  "coords": [
-                        126.560924,
-                        37.974968
-                  ]
-            },
-            {
-                  "name": "Revolutionary Museum for the History of Kaesong",
-                  "text": "Un muzeu în Kaesong dedicat istoriei revoluției în regiune.",
-                  "category": "museum",
-                  "coords": [
-                        126.559262,
-                        37.975954
-                  ]
-            },
-            {
-                  "name": "Manwoldae Palace",
-                  "text": "Ruinele Palatului Manwoldae, principalul palat regal Goryeo din Kaesong.",
-                  "category": "historical",
-                  "coords": [
-                        126.542601,
-                        37.985627
-                  ]
-            },
-            {
-                  "name": "Kaesong Chomsongdae",
-                  "text": "Kaesong Chomsongdae, un observator astronomic istoric din perioada Goryeo.",
-                  "category": "historical",
-                  "coords": [
-                        126.539708,
-                        37.986809
-                  ]
-            },
             {
                   "name": "Sonjuk Bridge and Phyochung Monuments",
                   "text": "Podul Sonjuk și Monumentele Phyochung din Kaesong, memoriale dedicate savantului Jeong Mong-ju.",
@@ -1175,15 +1022,6 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Namsan Mountain",
-                  "text": "Munte cu vedere asupra orașului istoric Kaesong.",
-                  "category": "natural",
-                  "coords": [
-                        126.55362,
-                        37.956007
-                  ]
-            },
-            {
                   "name": "Namdaemun",
                   "text": "Poarta de sud a orașului Kaesong din dinastia Goryeo.",
                   "category": "historical",
@@ -1194,51 +1032,6 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Koryo Museum (Sungyangwan Academy)",
-                  "text": "The Koryo Museum housed in the former Sungyangwan Confucian Academy in Kaesong, displaying Goryeo-era artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        126.570744,
-                        37.991184
-                  ]
-            },
-            {
-                  "name": "Sungyang Seowon",
-                  "text": "Sungyang Seowon is an archaeological site in Kaesŏng. It is a historic Confucian academy dating back to the Joseon Dynasty.",
-                  "category": "historical",
-                  "coords": [
-                        126.560924,
-                        37.974968
-                  ]
-            },
-            {
-                  "name": "Revolutionary Museum for the History of Kaesong",
-                  "text": "A museum in Kaesong dedicated to the history of the revolution in the region.",
-                  "category": "museum",
-                  "coords": [
-                        126.559262,
-                        37.975954
-                  ]
-            },
-            {
-                  "name": "Manwoldae Palace",
-                  "text": "The ruins of Manwoldae Palace, the main Goryeo royal palace in Kaesong.",
-                  "category": "historical",
-                  "coords": [
-                        126.542601,
-                        37.985627
-                  ]
-            },
-            {
-                  "name": "Kaesong Chomsongdae",
-                  "text": "Kaesong Chomsongdae, a historic astronomical observatory from the Goryeo period.",
-                  "category": "historical",
-                  "coords": [
-                        126.539708,
-                        37.986809
-                  ]
-            },
             {
                   "name": "Sonjuk Bridge and Phyochung Monuments",
                   "text": "Sonjuk Bridge and the Phyochung Monuments in Kaesong, memorials to the scholar Jeong Mong-ju.",
@@ -1255,15 +1048,6 @@ export const poiExtraNorthkoreaCitiesV2: POI[] = [
                   "coords": [
                         126.535538,
                         37.983989
-                  ]
-            },
-            {
-                  "name": "Namsan Mountain",
-                  "text": "Mountain with views over the historic city of Kaesong.",
-                  "category": "natural",
-                  "coords": [
-                        126.55362,
-                        37.956007
                   ]
             },
             {

@@ -2510,24 +2510,6 @@ imageHint: "Varazdin Stari Grad castle white",
                   ]
             },
             {
-                  "name": "Prokljansko jezero",
-                  "text": "Der Prokljan-See in Sibenik ist ein großer See, der mit dem Meer verbunden ist, was ihn zu einem großartigen Ort macht, um die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        15.866879,
-                        43.812935
-                  ]
-            },
-            {
-                  "name": "Mala Solina",
-                  "text": "Mala Solina ist ein See bei Sibenik, der eine beruhigende Umgebung für Spaziergänge in der Küstennatur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        15.866655,
-                        43.712038
-                  ]
-            },
-            {
                   "name": "Vela Solina",
                   "text": "Vela Solina ist ein malerischer See in Sibenik, der sich perfekt dazu anbietet, das Wasser und die umliegende Flora zu bewundern.",
                   "category": "natural",
@@ -2543,33 +2525,6 @@ imageHint: "Varazdin Stari Grad castle white",
                   "coords": [
                         15.897985,
                         43.731523
-                  ]
-            },
-            {
-                  "name": "LVLup",
-                  "text": "LVLup ist eine Spielhalle in Sibenik mit Videospielen und lustigen Aktivitäten für Jugendliche und Familien.",
-                  "category": "family",
-                  "coords": [
-                        15.912319,
-                        43.71345
-                  ]
-            },
-            {
-                  "name": "Solaris Aqua Park",
-                  "text": "Ein großer Wasserpark in Sibenik mit thematischen Rutschen und Erlebnisbecken für Familien.",
-                  "category": "family",
-                  "coords": [
-                        15.889581,
-                        43.699545
-                  ]
-            },
-            {
-                  "name": "Aqua Rain Fortress",
-                  "text": "Ein Schwimmbad in Sibenik mit spielerischen Elementen für Kinder in einer Festungsoptik.",
-                  "category": "family",
-                  "coords": [
-                        15.888561,
-                        43.699856
                   ]
             }
       ],
@@ -2737,24 +2692,6 @@ imageHint: "Varazdin Stari Grad castle white",
                   ]
             },
             {
-                  "name": "Prukljan-tó",
-                  "text": "A šibeniki Prokljansko jezero egy tengerhez csatlakozó nagy tó, amely kiváló hely a táj megcsodálására.",
-                  "category": "natural",
-                  "coords": [
-                        15.866879,
-                        43.812935
-                  ]
-            },
-            {
-                  "name": "Mala Solina",
-                  "text": "A Mala Solina egy Šibenikhez közeli tó, amely nyugtató környezetet biztosít a tengerparti természetjárásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        15.866655,
-                        43.712038
-                  ]
-            },
-            {
                   "name": "Vela Solina",
                   "text": "A Vela Solina egy Šibenikben található festői tó, amely tökéletes a víz és a környező növényvilág megcsodálására.",
                   "category": "natural",
@@ -2770,33 +2707,6 @@ imageHint: "Varazdin Stari Grad castle white",
                   "coords": [
                         15.897985,
                         43.731523
-                  ]
-            },
-            {
-                  "name": "LVLup",
-                  "text": "Az LVLup egy šibeniki játékterem, amely videojátékokkal és szórakoztató tevékenységekkel várja a tinédzsereket és a családokat.",
-                  "category": "family",
-                  "coords": [
-                        15.912319,
-                        43.71345
-                  ]
-            },
-            {
-                  "name": "Solaris Aqua Park",
-                  "text": "Nagy vízipark Sibenikben, tematikus csúszdákkal és élménymedencékkel családoknak.",
-                  "category": "family",
-                  "coords": [
-                        15.889581,
-                        43.699545
-                  ]
-            },
-            {
-                  "name": "Aqua Rain Fortress",
-                  "text": "Vár alakú úszómedence Sibenikben játékos elemekkel a gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        15.888561,
-                        43.699856
                   ]
             }
       ],
@@ -2964,24 +2874,6 @@ imageHint: "Varazdin Stari Grad castle white",
                   ]
             },
             {
-                  "name": "Prokljansko jezero",
-                  "text": "Prokljansko jezero din Sibenik este un lac mare care se leagă de mare, făcându-l un loc minunat pentru a aprecia peisajul.",
-                  "category": "natural",
-                  "coords": [
-                        15.866879,
-                        43.812935
-                  ]
-            },
-            {
-                  "name": "Mala Solina",
-                  "text": "Mala Solina este un lac din apropiere de Sibenik, care oferă un mediu liniștitor pentru plimbări prin natura de coastă.",
-                  "category": "natural",
-                  "coords": [
-                        15.866655,
-                        43.712038
-                  ]
-            },
-            {
                   "name": "Vela Solina",
                   "text": "Vela Solina este un lac pitoresc situat în Sibenik, perfect pentru a admira apa și flora înconjurătoare.",
                   "category": "natural",
@@ -2997,33 +2889,6 @@ imageHint: "Varazdin Stari Grad castle white",
                   "coords": [
                         15.897985,
                         43.731523
-                  ]
-            },
-            {
-                  "name": "LVLup",
-                  "text": "LVLup este o sală de jocuri din Sibenik, care oferă jocuri video și activități distractive pentru adolescenți și familii.",
-                  "category": "family",
-                  "coords": [
-                        15.912319,
-                        43.71345
-                  ]
-            },
-            {
-                  "name": "Solaris Aqua Park",
-                  "text": "Un parc acvatic mare în Sibenik, cu tobogane tematice și piscine cu experiențe pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        15.889581,
-                        43.699545
-                  ]
-            },
-            {
-                  "name": "Aqua Rain Fortress",
-                  "text": "O piscină în Sibenik cu elemente ludice pentru copii, integrată într-un decor de fortăreață.",
-                  "category": "family",
-                  "coords": [
-                        15.888561,
-                        43.699856
                   ]
             }
       ],
@@ -3191,24 +3056,6 @@ imageHint: "Varazdin Stari Grad castle white",
                   ]
             },
             {
-                  "name": "Prokljansko jezero",
-                  "text": "Prokljansko jezero in Sibenik is a large lake connecting to the sea, making it a great place to appreciate the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.866879,
-                        43.812935
-                  ]
-            },
-            {
-                  "name": "Mala Solina",
-                  "text": "Mala Solina is a lake near Sibenik offering a calming environment for coastal nature walks.",
-                  "category": "natural",
-                  "coords": [
-                        15.866655,
-                        43.712038
-                  ]
-            },
-            {
                   "name": "Vela Solina",
                   "text": "Vela Solina is a scenic lake situated in Sibenik, perfect for admiring the water and surrounding flora.",
                   "category": "natural",
@@ -3224,33 +3071,6 @@ imageHint: "Varazdin Stari Grad castle white",
                   "coords": [
                         15.897985,
                         43.731523
-                  ]
-            },
-            {
-                  "name": "LVLup",
-                  "text": "LVLup is an amusement arcade in Sibenik featuring video games and fun activities for teenagers and families.",
-                  "category": "family",
-                  "coords": [
-                        15.912319,
-                        43.71345
-                  ]
-            },
-            {
-                  "name": "Solaris Aqua Park",
-                  "text": "A large water park in Sibenik featuring themed slides and experience pools for families.",
-                  "category": "family",
-                  "coords": [
-                        15.889581,
-                        43.699545
-                  ]
-            },
-            {
-                  "name": "Aqua Rain Fortress",
-                  "text": "A swimming pool in Sibenik with playful elements for children set in a fortress-themed area.",
-                  "category": "family",
-                  "coords": [
-                        15.888561,
-                        43.699856
                   ]
             }
       ],
@@ -7448,15 +7268,6 @@ imageHint: "Vinkovci central square and church",
                         16.434538,
                         46.390519
                   ]
-            },
-            {
-                  "name": "Varaždinsko jezero",
-                  "text": "Der Stausee Varaždinsko jezero bei Cakovec bietet wunderschöne Landschaften und Orte für Spaziergänge am Ufer.",
-                  "category": "natural",
-                  "coords": [
-                        16.415607,
-                        46.314963
-                  ]
             }
       ],
       "hu": [
@@ -7476,15 +7287,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.434538,
                         46.390519
-                  ]
-            },
-            {
-                  "name": "Varaždinsko jezero",
-                  "text": "A Csáktornya közelében található Varaždinsko jezero egy mesterséges tó, amely gyönyörű tájat és vízparti sétahelyeket kínál.",
-                  "category": "natural",
-                  "coords": [
-                        16.415607,
-                        46.314963
                   ]
             }
       ],
@@ -7506,15 +7308,6 @@ imageHint: "Vinkovci central square and church",
                         16.434538,
                         46.390519
                   ]
-            },
-            {
-                  "name": "Varaždinsko jezero",
-                  "text": "Varaždinsko jezero de lângă Cakovec este un lac artificial care oferă peisaje frumoase și locuri pentru plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        16.415607,
-                        46.314963
-                  ]
             }
       ],
       "en": [
@@ -7534,15 +7327,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.434538,
                         46.390519
-                  ]
-            },
-            {
-                  "name": "Varaždinsko jezero",
-                  "text": "Varaždinsko jezero near Cakovec is an artificial lake offering beautiful scenery and spots for waterfront walks.",
-                  "category": "natural",
-                  "coords": [
-                        16.415607,
-                        46.314963
                   ]
             }
       ],
@@ -8178,24 +7962,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Finzula",
-                  "text": "Der Finzula-See in Zapresic lädt Besucher zu idyllischen Momenten am Wasser ein.",
-                  "category": "natural",
-                  "coords": [
-                        15.835147,
-                        45.798861
-                  ]
-            },
-            {
-                  "name": "Orešje",
-                  "text": "Der See Orešje in Zapresic eignet sich wunderbar für einen erholsamen Ausflug in die Natur.",
-                  "category": "natural",
-                  "coords": [
-                        15.816895,
-                        45.816824
-                  ]
-            },
-            {
                   "name": "Plavo dječje igralište",
                   "text": "Der Spielplatz Plavo dječje igralište in Zapresic begeistert Kinder mit bunten Geräten für vergnügliche Stunden.",
                   "category": "family",
@@ -8321,24 +8087,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.803938,
                         45.843231
-                  ]
-            },
-            {
-                  "name": "Finzula",
-                  "text": "A Zapresic-i Finzula tó idillikus pillanatokra hívja a látogatókat a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        15.835147,
-                        45.798861
-                  ]
-            },
-            {
-                  "name": "Orešje",
-                  "text": "A Zapresic-ben található Orešje tó csodálatos helyszín egy pihentető természeti kiránduláshoz.",
-                  "category": "natural",
-                  "coords": [
-                        15.816895,
-                        45.816824
                   ]
             },
             {
@@ -8470,24 +8218,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Finzula",
-                  "text": "Lacul Finzula din Zapresic invită vizitatorii la momente idilice la malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        15.835147,
-                        45.798861
-                  ]
-            },
-            {
-                  "name": "Orešje",
-                  "text": "Lacul Orešje din Zapresic este minunat pentru o excursie relaxantă în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.816895,
-                        45.816824
-                  ]
-            },
-            {
                   "name": "Plavo dječje igralište",
                   "text": "Locul de joacă Plavo dječje igralište din Zapresic încântă copiii cu echipamente colorate pentru ore de distracție.",
                   "category": "family",
@@ -8613,24 +8343,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.803938,
                         45.843231
-                  ]
-            },
-            {
-                  "name": "Finzula",
-                  "text": "The Finzula lake in Zapresic invites visitors to enjoy idyllic moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        15.835147,
-                        45.798861
-                  ]
-            },
-            {
-                  "name": "Orešje",
-                  "text": "The Orešje lake in Zapresic is wonderfully suited for a relaxing trip into nature.",
-                  "category": "natural",
-                  "coords": [
-                        15.816895,
-                        45.816824
                   ]
             },
             {
@@ -9342,24 +9054,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sutikva",
-                  "text": "Ein markanter Hügel und Gipfel bei Solin, bekannt für seine archäologische Bedeutung und die Aussicht auf die Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        16.508072,
-                        43.533853
-                  ]
-            },
-            {
-                  "name": "Ploča",
-                  "text": "Ein Gipfel in der Gegend von Solin, der Wanderern einen schönen Aussichtspunkt bietet.",
-                  "category": "natural",
-                  "coords": [
-                        16.513675,
-                        43.524683
-                  ]
-            },
-            {
                   "name": "Starine",
                   "text": "Ein Parkgelände in Solin, das eng mit den weitläufigen Ruinen der antiken römischen Stadt Salona verbunden ist.",
                   "category": "park",
@@ -9384,15 +9078,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49082,
                         43.534151
-                  ]
-            },
-            {
-                  "name": "Kliško polje",
-                  "text": "Das Kliško polje ist eine fruchtbare Ebene unterhalb der Festung Klis bei Solin.",
-                  "category": "landmark",
-                  "coords": [
-                        16.519852,
-                        43.547495
                   ]
             },
             {
@@ -9423,15 +9108,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "crkva svetog Lovre od Pazdigrada",
-                  "text": "Kleine historische Kirche des Heiligen Laurentius im Ortsteil Pazdigrad in Solin.",
-                  "category": "religious",
-                  "coords": [
-                        16.487965,
-                        43.50849
-                  ]
-            },
-            {
                   "name": "Sv. Dujam",
                   "text": "Die Kirche des Heiligen Domnius in Dujmovača ist ein wichtiger Sakralbau in Solin.",
                   "category": "religious",
@@ -9456,24 +9132,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49451,
                         43.539857
-                  ]
-            },
-            {
-                  "name": "Mistral Beach Club",
-                  "text": "Mistral Beach Club in Solin bietet Besuchern ein erfrischendes Badeerlebnis.",
-                  "category": "family",
-                  "coords": [
-                        16.470118,
-                        43.501505
-                  ]
-            },
-            {
-                  "name": "Bel Etage Private Pool",
-                  "text": "Bel Etage Private Pool in Solin bietet Besuchern ein erfrischendes Badeerlebnis.",
-                  "category": "family",
-                  "coords": [
-                        16.496188,
-                        43.503623
                   ]
             }
       ],
@@ -9587,24 +9245,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sutikva",
-                  "text": "Egy kiemelkedő domb és hegycsúcs Solin közelében, amely régészeti jelentőségéről és a környékre nyíló kilátásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        16.508072,
-                        43.533853
-                  ]
-            },
-            {
-                  "name": "Ploča",
-                  "text": "Solin környékén található hegycsúcs, amely szép kilátópontot kínál a túrázóknak.",
-                  "category": "natural",
-                  "coords": [
-                        16.513675,
-                        43.524683
-                  ]
-            },
-            {
                   "name": "Starine",
                   "text": "Parkterület Solinban, amely szorosan kapcsolódik az ókori római város, Salona kiterjedt romjaihoz.",
                   "category": "park",
@@ -9629,15 +9269,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49082,
                         43.534151
-                  ]
-            },
-            {
-                  "name": "Kliško polje",
-                  "text": "A Kliško polje egy termékeny síkság a Klis-erőd lábánál, Solin közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        16.519852,
-                        43.547495
                   ]
             },
             {
@@ -9668,15 +9299,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "crkva svetog Lovre od Pazdigrada",
-                  "text": "Szent Lőrinc tiszteletére szentelt kis történelmi templom Solin Pazdigrad városrészében.",
-                  "category": "religious",
-                  "coords": [
-                        16.487965,
-                        43.50849
-                  ]
-            },
-            {
                   "name": "Sv. Dujam",
                   "text": "Szent Dujam temploma Dujmovačában, Solin egyik jelentős egyházi épülete.",
                   "category": "religious",
@@ -9701,24 +9323,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49451,
                         43.539857
-                  ]
-            },
-            {
-                  "name": "Mistral Beach Club",
-                  "text": "A Solin településen található Mistral Beach Club frissítő úszási élményt kínál a látogatóknak.",
-                  "category": "family",
-                  "coords": [
-                        16.470118,
-                        43.501505
-                  ]
-            },
-            {
-                  "name": "Bel Etage Private Pool",
-                  "text": "A Solin településen található Bel Etage Private Pool frissítő úszási élményt kínál a látogatóknak.",
-                  "category": "family",
-                  "coords": [
-                        16.496188,
-                        43.503623
                   ]
             }
       ],
@@ -9832,24 +9436,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sutikva",
-                  "text": "Un deal și vârf proeminent lângă Solin, cunoscut pentru importanța sa arheologică și priveliștile asupra zonei înconjurătoare.",
-                  "category": "natural",
-                  "coords": [
-                        16.508072,
-                        43.533853
-                  ]
-            },
-            {
-                  "name": "Ploča",
-                  "text": "Un vârf situat în zona Solin, oferind un punct de belvedere pitoresc pentru excursioniști.",
-                  "category": "natural",
-                  "coords": [
-                        16.513675,
-                        43.524683
-                  ]
-            },
-            {
                   "name": "Starine",
                   "text": "O zonă de parc în Solin, strâns asociată cu ruinele extinse ale orașului roman antic Salona.",
                   "category": "park",
@@ -9874,15 +9460,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49082,
                         43.534151
-                  ]
-            },
-            {
-                  "name": "Kliško polje",
-                  "text": "Kliško polje este o câmpie fertilă situată la poalele cetății Klis, lângă Solin.",
-                  "category": "landmark",
-                  "coords": [
-                        16.519852,
-                        43.547495
                   ]
             },
             {
@@ -9913,15 +9490,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "crkva svetog Lovre od Pazdigrada",
-                  "text": "Mică biserică istorică dedicată Sfântului Laurențiu în cartierul Pazdigrad din Solin.",
-                  "category": "religious",
-                  "coords": [
-                        16.487965,
-                        43.50849
-                  ]
-            },
-            {
                   "name": "Sv. Dujam",
                   "text": "Biserica Sfântul Domnius din Dujmovača este un edificiu religios important din Solin.",
                   "category": "religious",
@@ -9946,24 +9514,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49451,
                         43.539857
-                  ]
-            },
-            {
-                  "name": "Mistral Beach Club",
-                  "text": "Mistral Beach Club din Solin oferă vizitatorilor o experiență revigorantă de înot.",
-                  "category": "family",
-                  "coords": [
-                        16.470118,
-                        43.501505
-                  ]
-            },
-            {
-                  "name": "Bel Etage Private Pool",
-                  "text": "Bel Etage Private Pool din Solin oferă vizitatorilor o experiență revigorantă de înot.",
-                  "category": "family",
-                  "coords": [
-                        16.496188,
-                        43.503623
                   ]
             }
       ],
@@ -10077,24 +9627,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sutikva",
-                  "text": "A prominent hill and peak near Solin, known for its archaeological importance and views of the surrounding area.",
-                  "category": "natural",
-                  "coords": [
-                        16.508072,
-                        43.533853
-                  ]
-            },
-            {
-                  "name": "Ploča",
-                  "text": "A peak located in the Solin area, offering a scenic viewpoint for hikers.",
-                  "category": "natural",
-                  "coords": [
-                        16.513675,
-                        43.524683
-                  ]
-            },
-            {
                   "name": "Starine",
                   "text": "A park area in Solin closely associated with the extensive ruins of the ancient Roman city of Salona.",
                   "category": "park",
@@ -10119,15 +9651,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49082,
                         43.534151
-                  ]
-            },
-            {
-                  "name": "Kliško polje",
-                  "text": "Kliško polje is a fertile plain located at the foot of the Klis Fortress near Solin.",
-                  "category": "landmark",
-                  "coords": [
-                        16.519852,
-                        43.547495
                   ]
             },
             {
@@ -10158,15 +9681,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "crkva svetog Lovre od Pazdigrada",
-                  "text": "A small historical church dedicated to Saint Lawrence in the Pazdigrad neighborhood of Solin.",
-                  "category": "religious",
-                  "coords": [
-                        16.487965,
-                        43.50849
-                  ]
-            },
-            {
                   "name": "Sv. Dujam",
                   "text": "The Church of Saint Domnius in Dujmovača is an important religious building in Solin.",
                   "category": "religious",
@@ -10191,24 +9705,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.49451,
                         43.539857
-                  ]
-            },
-            {
-                  "name": "Mistral Beach Club",
-                  "text": "Mistral Beach Club in Solin offers a refreshing swimming experience for visitors.",
-                  "category": "family",
-                  "coords": [
-                        16.470118,
-                        43.501505
-                  ]
-            },
-            {
-                  "name": "Bel Etage Private Pool",
-                  "text": "Bel Etage Private Pool in Solin offers a refreshing swimming experience for visitors.",
-                  "category": "family",
-                  "coords": [
-                        16.496188,
-                        43.503623
                   ]
             }
       ],
@@ -10322,24 +9818,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sutikva",
-                  "text": "Istaknuto brdo i vrh u blizini Solina, poznat po svojoj arheološkoj važnosti i pogledu na okolinu.",
-                  "category": "natural",
-                  "coords": [
-                        16.508072,
-                        43.533853
-                  ]
-            },
-            {
-                  "name": "Ploča",
-                  "text": "Vrh smješten na području Solina, koji nudi slikovit vidikovac za planinare.",
-                  "category": "natural",
-                  "coords": [
-                        16.513675,
-                        43.524683
-                  ]
-            },
-            {
                   "name": "Starine",
                   "text": "Park u Solinu koji je usko povezan s opsežnim ruševinama antičkog rimskog grada Salone.",
                   "category": "park",
@@ -10367,15 +9845,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Kliško polje",
-                  "text": "Kliško polje je plodna ravnica smještena u podnožju kliške tvrđave u blizini Solina.",
-                  "category": "landmark",
-                  "coords": [
-                        16.519852,
-                        43.547495
-                  ]
-            },
-            {
                   "name": "Panoramic view: Solin & Split & Valley",
                   "text": "Vidikovac koji pruža široki panoramski pogled na Solin, Split i okolicu.",
                   "category": "natural",
@@ -10400,15 +9869,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.490556,
                         43.535241
-                  ]
-            },
-            {
-                  "name": "crkva svetog Lovre od Pazdigrada",
-                  "text": "Mala povijesna crkva svetog Lovre u solinskom naselju Pazdigrad.",
-                  "category": "religious",
-                  "coords": [
-                        16.487965,
-                        43.50849
                   ]
             },
             {
@@ -10543,15 +10003,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Svitavsko jezero",
-                  "text": "Der Svitavsko jezero ist ein See in der Nähe von Metkovic, der für seine reiche Feuchtgebietslandschaft bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        17.773338,
-                        43.034451
-                  ]
-            },
-            {
                   "name": "igraliste vrtica",
                   "text": "igraliste vrtica ist ein Spielplatz in Metkovic, der dafür konzipiert ist, dass Kinder herumlaufen, spielen und Freunde finden können.",
                   "category": "family",
@@ -10614,15 +10065,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.652341,
                         43.054644
-                  ]
-            },
-            {
-                  "name": "Svitavsko jezero",
-                  "text": "A Metković közelében található Svitavsko jezero gazdag vizenyős tájáról ismert tó.",
-                  "category": "natural",
-                  "coords": [
-                        17.773338,
-                        43.034451
                   ]
             },
             {
@@ -10691,15 +10133,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Svitavsko jezero",
-                  "text": "Svitavsko jezero este un lac situat în apropiere de Metkovic, cunoscut pentru peisajele sale bogate din zonele umede.",
-                  "category": "natural",
-                  "coords": [
-                        17.773338,
-                        43.034451
-                  ]
-            },
-            {
                   "name": "igraliste vrtica",
                   "text": "igraliste vrtica este un loc de joacă din Metkovic conceput pentru ca cei mici să alerge, să se joace și să-și facă prieteni.",
                   "category": "family",
@@ -10762,15 +10195,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.652341,
                         43.054644
-                  ]
-            },
-            {
-                  "name": "Svitavsko jezero",
-                  "text": "Svitavsko jezero is a lake located near Metkovic, known for its rich wetland scenery.",
-                  "category": "natural",
-                  "coords": [
-                        17.773338,
-                        43.034451
                   ]
             },
             {
@@ -10933,7 +10357,288 @@ imageHint: "Vinkovci central square and church",
     },
   },
   {
-    id: "croatia-sinj-cities-v2", "sights": {"de": [{"name": "Sinjska tvrđava", "text": "Eine Festung auf einem Hügel über Sinj, Schauplatz einer historischen Schlacht im Jahr 1715.", "category": "castle", "coords": [16.632353, 43.702529]}, {"name": "Kamičak", "text": "Ein befestigter Turm mit Glocke im Zentrum von Sinj, erbaut im Jahr 1712.", "category": "castle", "coords": [16.63628, 43.701795]}, {"name": "Franjevački Muzej", "text": "Ein Museum in Sinj, das archäologische Funde aus dem Franziskanerkloster ausstellt.", "category": "museum", "coords": [16.637806, 43.702025]}, {"name": "Muzej Sinjske alke", "text": "Ein Museum in Sinj, das dem traditionellen Ritterturnier Sinjska alka gewidmet ist.", "category": "museum", "coords": [16.635452, 43.700865]}, {"name": "Šušnjevača", "text": "Die Šušnjevača ist ein markanter Berggipfel in der Region um Sinj. Wanderfreunde finden hier in der kroatischen Natur ein lohnendes Ausflugsziel.", "category": "natural", "coords": [16.65492, 43.718641]}, {"name": "Streljani Prvog splitskog partizanskog odreda", "text": "Ein Denkmal in Sinj zur Erinnerung an die im Zweiten Weltkrieg hingerichteten Partisanen.", "category": "historical", "coords": [16.625218, 43.698373]}, {"name": "Bunker iz II.WW", "text": "Überreste eines Betonbunkers aus dem Zweiten Weltkrieg in der Nähe von Sinj.", "category": "historical", "coords": [16.620735, 43.709144]}, {"name": "Bunker", "text": "Die Überreste einer alten militärischen Verteidigungsanlage in Sinj.", "category": "historical", "coords": [16.623057, 43.697054]}, {"name": "Lokva", "text": "Der Lokva-See in Sinj bietet eine ruhige Umgebung in der Natur.", "category": "natural", "coords": [16.618199, 43.708419]}], "hu": [{"name": "Sinjska tvrđava", "text": "Erőd a Sinj feletti dombon, az 1715-ös történelmi csata helyszíne.", "category": "castle", "coords": [16.632353, 43.702529]}, {"name": "Kamičak", "text": "Erődített harangtorony Sinj központjában, amely 1712-ben épült.", "category": "castle", "coords": [16.63628, 43.701795]}, {"name": "Franjevački Muzej", "text": "Múzeum Sinjben, amely a ferences kolostorból származó régészeti leleteket mutat be.", "category": "museum", "coords": [16.637806, 43.702025]}, {"name": "Muzej Sinjske alke", "text": "A hagyományos Sinjska alka lovagi tornának szentelt múzeum Sinjben.", "category": "museum", "coords": [16.635452, 43.700865]}, {"name": "Šušnjevača", "text": "A Šušnjevača egy kiemelkedő hegycsúcs a Sinj körüli régióban. A túrázás kedvelői számára ez egy érdemes kirándulóhely a horvát természetben.", "category": "natural", "coords": [16.65492, 43.718641]}, {"name": "Streljani Prvog splitskog partizanskog odreda", "text": "Emlékmű Sinjben a második világháborúban kivégzett partizánok emlékére.", "category": "historical", "coords": [16.625218, 43.698373]}, {"name": "Bunker iz II.WW", "text": "Egy második világháborús betonbunker maradványai Sinj közelében.", "category": "historical", "coords": [16.620735, 43.709144]}, {"name": "Bunker", "text": "Régi katonai védelmi építmény maradványai Sinjben.", "category": "historical", "coords": [16.623057, 43.697054]}, {"name": "Lokva", "text": "A Sinj-beli Lokva-tó csendes környezetet kínál a természetben.", "category": "natural", "coords": [16.618199, 43.708419]}], "ro": [{"name": "Sinjska tvrđava", "text": "O cetate pe un deal deasupra orașului Sinj, locul unei bătălii istorice în 1715.", "category": "castle", "coords": [16.632353, 43.702529]}, {"name": "Kamičak", "text": "Un turn fortificat cu clopot în centrul orașului Sinj, construit în 1712.", "category": "castle", "coords": [16.63628, 43.701795]}, {"name": "Franjevački Muzej", "text": "Un muzeu din Sinj care expune descoperiri arheologice de la mănăstirea franciscană.", "category": "museum", "coords": [16.637806, 43.702025]}, {"name": "Muzej Sinjske alke", "text": "Un muzeu dedicat turneului tradițional Sinjska alka din Sinj.", "category": "museum", "coords": [16.635452, 43.700865]}, {"name": "Šušnjevača", "text": "Šušnjevača este un vârf de munte proeminent în regiunea din jurul orașului Sinj. Pasionații de drumeții vor găsi aici o destinație de excursie valoroasă în natura croată.", "category": "natural", "coords": [16.65492, 43.718641]}, {"name": "Streljani Prvog splitskog partizanskog odreda", "text": "Un monument în Sinj ridicat în memoria partizanilor executați în Al Doilea Război Mondial.", "category": "historical", "coords": [16.625218, 43.698373]}, {"name": "Bunker iz II.WW", "text": "Ruinele unui buncăr de beton din Al Doilea Război Mondial, situat lângă Sinj.", "category": "historical", "coords": [16.620735, 43.709144]}, {"name": "Bunker", "text": "Vestigiile unei vechi structuri de apărare militară din Sinj.", "category": "historical", "coords": [16.623057, 43.697054]}, {"name": "Lokva", "text": "Lacul Lokva din Sinj oferă un cadru liniștit în natură.", "category": "natural", "coords": [16.618199, 43.708419]}], "en": [{"name": "Sinjska tvrđava", "text": "A fortress on a hill above Sinj, site of a historic battle in 1715.", "category": "castle", "coords": [16.632353, 43.702529]}, {"name": "Kamičak", "text": "A fortified tower with a bell in the center of Sinj, built in 1712.", "category": "castle", "coords": [16.63628, 43.701795]}, {"name": "Franjevački Muzej", "text": "A museum in Sinj displaying archaeological finds from the Franciscan monastery.", "category": "museum", "coords": [16.637806, 43.702025]}, {"name": "Muzej Sinjske alke", "text": "A museum dedicated to the traditional Sinjska alka tournament in Sinj.", "category": "museum", "coords": [16.635452, 43.700865]}, {"name": "Šušnjevača", "text": "Šušnjevača is a prominent mountain peak in the region around Sinj. Hiking enthusiasts will find this a worthwhile destination in the Croatian nature.", "category": "natural", "coords": [16.65492, 43.718641]}, {"name": "Streljani Prvog splitskog partizanskog odreda", "text": "A monument in Sinj commemorating the partisans executed during World War II.", "category": "historical", "coords": [16.625218, 43.698373]}, {"name": "Bunker iz II.WW", "text": "Ruins of a concrete bunker from the Second World War located near Sinj.", "category": "historical", "coords": [16.620735, 43.709144]}, {"name": "Bunker", "text": "The remains of an old military defense structure in Sinj.", "category": "historical", "coords": [16.623057, 43.697054]}, {"name": "Lokva", "text": "Lokva lake in Sinj offers a quiet environment in nature.", "category": "natural", "coords": [16.618199, 43.708419]}], "hr": [{"name": "Sinjska tvrđava", "text": "Tvrđava na brdu iznad Sinja, mjesto povijesne bitke 1715. godine.", "category": "castle", "coords": [16.632353, 43.702529]}, {"name": "Kamičak", "text": "Utvrđena kula sa zvonom u središtu Sinja, sagrađena 1712. godine.", "category": "castle", "coords": [16.63628, 43.701795]}, {"name": "Franjevački Muzej", "text": "Muzej u Sinju koji izlaže arheološke nalaze iz franjevačkog samostana.", "category": "museum", "coords": [16.637806, 43.702025]}, {"name": "Muzej Sinjske alke", "text": "Muzej posvećen tradicionalnom viteškom turniru Sinjskoj alci u Sinju.", "category": "museum", "coords": [16.635452, 43.700865]}, {"name": "Šušnjevača", "text": "Šušnjevača je istaknuti planinski vrh u regiji oko Sinja. Ljubitelji planinarenja ovdje će pronaći vrijedno izletište u hrvatskoj prirodi.", "category": "natural", "coords": [16.65492, 43.718641]}, {"name": "Streljani Prvog splitskog partizanskog odreda", "text": "Spomenik u Sinju podignut u sjećanje na strijeljane pripadnike Prvog splitskog partizanskog odreda.", "category": "historical", "coords": [16.625218, 43.698373]}, {"name": "Bunker iz II.WW", "text": "Ostatci betonskog bunkera iz Drugog svjetskog rata u blizini Sinja.", "category": "historical", "coords": [16.620735, 43.709144]}, {"name": "Bunker", "text": "Ostatci stare vojne obrambene građevine u Sinju.", "category": "historical", "coords": [16.623057, 43.697054]}]},
+    id: "croatia-sinj-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "Eine Festung auf einem Hügel über Sinj, Schauplatz einer historischen Schlacht im Jahr 1715.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "Ein befestigter Turm mit Glocke im Zentrum von Sinj, erbaut im Jahr 1712.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "Ein Museum in Sinj, das archäologische Funde aus dem Franziskanerkloster ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "Ein Museum in Sinj, das dem traditionellen Ritterturnier Sinjska alka gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "Ein Denkmal in Sinj zur Erinnerung an die im Zweiten Weltkrieg hingerichteten Partisanen.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Die Überreste einer alten militärischen Verteidigungsanlage in Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "Erőd a Sinj feletti dombon, az 1715-ös történelmi csata helyszíne.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "Erődített harangtorony Sinj központjában, amely 1712-ben épült.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "Múzeum Sinjben, amely a ferences kolostorból származó régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "A hagyományos Sinjska alka lovagi tornának szentelt múzeum Sinjben.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "Emlékmű Sinjben a második világháborúban kivégzett partizánok emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Régi katonai védelmi építmény maradványai Sinjben.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "O cetate pe un deal deasupra orașului Sinj, locul unei bătălii istorice în 1715.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "Un turn fortificat cu clopot în centrul orașului Sinj, construit în 1712.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "Un muzeu din Sinj care expune descoperiri arheologice de la mănăstirea franciscană.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "Un muzeu dedicat turneului tradițional Sinjska alka din Sinj.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "Un monument în Sinj ridicat în memoria partizanilor executați în Al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Vestigiile unei vechi structuri de apărare militară din Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "A fortress on a hill above Sinj, site of a historic battle in 1715.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "A fortified tower with a bell in the center of Sinj, built in 1712.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "A museum in Sinj displaying archaeological finds from the Franciscan monastery.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "A museum dedicated to the traditional Sinjska alka tournament in Sinj.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "A monument in Sinj commemorating the partisans executed during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "The remains of an old military defense structure in Sinj.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ],
+      "hr": [
+            {
+                  "name": "Sinjska tvrđava",
+                  "text": "Tvrđava na brdu iznad Sinja, mjesto povijesne bitke 1715. godine.",
+                  "category": "castle",
+                  "coords": [
+                        16.632353,
+                        43.702529
+                  ]
+            },
+            {
+                  "name": "Kamičak",
+                  "text": "Utvrđena kula sa zvonom u središtu Sinja, sagrađena 1712. godine.",
+                  "category": "castle",
+                  "coords": [
+                        16.63628,
+                        43.701795
+                  ]
+            },
+            {
+                  "name": "Franjevački Muzej",
+                  "text": "Muzej u Sinju koji izlaže arheološke nalaze iz franjevačkog samostana.",
+                  "category": "museum",
+                  "coords": [
+                        16.637806,
+                        43.702025
+                  ]
+            },
+            {
+                  "name": "Muzej Sinjske alke",
+                  "text": "Muzej posvećen tradicionalnom viteškom turniru Sinjskoj alci u Sinju.",
+                  "category": "museum",
+                  "coords": [
+                        16.635452,
+                        43.700865
+                  ]
+            },
+            {
+                  "name": "Streljani Prvog splitskog partizanskog odreda",
+                  "text": "Spomenik u Sinju podignut u sjećanje na strijeljane pripadnike Prvog splitskog partizanskog odreda.",
+                  "category": "historical",
+                  "coords": [
+                        16.625218,
+                        43.698373
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Ostatci stare vojne obrambene građevine u Sinju.",
+                  "category": "historical",
+                  "coords": [
+                        16.623057,
+                        43.697054
+                  ]
+            }
+      ]
+},
     parent: "HR",
     type: "city",
     name: { de: "Sinj", hu: "Sinj", ro: "Sinj", en: "Sinj"},
@@ -11230,39 +10935,12 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Jezera Strmec",
-                  "text": "Jezera Strmec in Sveta Nedelja ist ein Seengebiet, das eine angenehme Umgebung für einen ruhigen Spaziergang am Wasser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        15.801011,
-                        45.825467
-                  ]
-            },
-            {
-                  "name": "Zajarki - malo jezero",
-                  "text": "Zajarki - malo jezero ist ein kleiner See in Sveta Nedelja, ideal, um ruhige Momente in der Natur zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        15.801919,
-                        45.846405
-                  ]
-            },
-            {
                   "name": "Jezero Kerestinec",
                   "text": "Der Kerestinec-See in Sveta Nedelja ist ein lokaler See, der bei allen beliebt ist, die eine friedliche Landschaft zu schätzen wissen.",
                   "category": "natural",
                   "coords": [
                         15.81465,
                         45.776423
-                  ]
-            },
-            {
-                  "name": "Zajarki",
-                  "text": "Zajarki ist ein bekannter See in Sveta Nedelja, der eine schöne Kulisse für einen erholsamen Tag im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        15.803938,
-                        45.843231
                   ]
             },
             {
@@ -11304,39 +10982,12 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Jezera Strmec",
-                  "text": "A Sveta Nedelja-i Jezera Strmec egy tóvidék, amely kellemes környezetet kínál egy nyugodt vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        15.801011,
-                        45.825467
-                  ]
-            },
-            {
-                  "name": "Zajarki - malo jezero",
-                  "text": "A Zajarki - malo jezero egy kis tó Sveta Nedeljában, amely tökéletes a csendes természetbeni pillanatok élvezetére.",
-                  "category": "natural",
-                  "coords": [
-                        15.801919,
-                        45.846405
-                  ]
-            },
-            {
                   "name": "Jezero Kerestinec",
                   "text": "A Sveta Nedelja-i Jezero Kerestinec egy helyi tó, amely népszerű a nyugodt tájakat kedvelők körében.",
                   "category": "natural",
                   "coords": [
                         15.81465,
                         45.776423
-                  ]
-            },
-            {
-                  "name": "Zajarki",
-                  "text": "A Zajarki egy kiemelkedő tó Sveta Nedeljában, amely kellemes környezetet biztosít egy pihentető szabadtéri naphoz.",
-                  "category": "natural",
-                  "coords": [
-                        15.803938,
-                        45.843231
                   ]
             },
             {
@@ -11378,39 +11029,12 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Jezera Strmec",
-                  "text": "Jezera Strmec din Sveta Nedelja este o zonă cu lac care oferă un cadru plăcut pentru o plimbare liniștită pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        15.801011,
-                        45.825467
-                  ]
-            },
-            {
-                  "name": "Zajarki - malo jezero",
-                  "text": "Zajarki - malo jezero este un lac mic din Sveta Nedelja, perfect pentru a vă bucura de momente liniștite în natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.801919,
-                        45.846405
-                  ]
-            },
-            {
                   "name": "Jezero Kerestinec",
                   "text": "Jezero Kerestinec din Sveta Nedelja este un lac local popular printre cei care apreciază peisajele senine.",
                   "category": "natural",
                   "coords": [
                         15.81465,
                         45.776423
-                  ]
-            },
-            {
-                  "name": "Zajarki",
-                  "text": "Zajarki este un lac proeminent din Sveta Nedelja, oferind un cadru frumos pentru o zi relaxantă în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        15.803938,
-                        45.843231
                   ]
             },
             {
@@ -11452,39 +11076,12 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Jezera Strmec",
-                  "text": "Jezera Strmec in Sveta Nedelja is a lake area offering pleasant surroundings for a calm walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        15.801011,
-                        45.825467
-                  ]
-            },
-            {
-                  "name": "Zajarki - malo jezero",
-                  "text": "Zajarki - malo jezero is a small lake in Sveta Nedelja, perfect for enjoying quiet moments in nature.",
-                  "category": "natural",
-                  "coords": [
-                        15.801919,
-                        45.846405
-                  ]
-            },
-            {
                   "name": "Jezero Kerestinec",
                   "text": "Jezero Kerestinec in Sveta Nedelja is a local lake popular among those who appreciate serene landscapes.",
                   "category": "natural",
                   "coords": [
                         15.81465,
                         45.776423
-                  ]
-            },
-            {
-                  "name": "Zajarki",
-                  "text": "Zajarki is a prominent lake in Sveta Nedelja, providing a nice setting for a relaxing day outside.",
-                  "category": "natural",
-                  "coords": [
-                        15.803938,
-                        45.843231
                   ]
             },
             {
@@ -12130,15 +11727,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sv. Nikola",
-                  "text": "Die dem Heiligen Nikolaus geweihte Kirche ist ein historisches Sakralbauwerk im Zentrum von Knin.",
-                  "category": "religious",
-                  "coords": [
-                        16.194431,
-                        44.00928
-                  ]
-            },
-            {
                   "name": "crkva svetog Ante Padovanskog",
                   "text": "Die barocke Kirche des Heiligen Antonius von Padua gehört zum Franziskanerkloster in Knin.",
                   "category": "religious",
@@ -12154,15 +11742,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.195776,
                         44.033113
-                  ]
-            },
-            {
-                  "name": "Bracića jezero",
-                  "text": "Bracića jezero ist ein See in Knin, der Naturliebhabern ein malerisches und ruhiges Gewässer präsentiert.",
-                  "category": "natural",
-                  "coords": [
-                        16.232493,
-                        43.990457
                   ]
             }
       ],
@@ -12213,15 +11792,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sv. Nikola",
-                  "text": "A Szent Miklósnak szentelt templom Knin központjának egyik történelmi egyházi épülete.",
-                  "category": "religious",
-                  "coords": [
-                        16.194431,
-                        44.00928
-                  ]
-            },
-            {
                   "name": "crkva svetog Ante Padovanskog",
                   "text": "A Páduai Szent Antal-templom a knini ferences kolostorhoz tartozó barokk stílusú épület.",
                   "category": "religious",
@@ -12237,15 +11807,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.195776,
                         44.033113
-                  ]
-            },
-            {
-                  "name": "Bracića jezero",
-                  "text": "A Bracića jezero egy knini tó, amely festői és csendes vízfelületet kínál a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        16.232493,
-                        43.990457
                   ]
             }
       ],
@@ -12296,15 +11857,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sv. Nikola",
-                  "text": "Biserica dedicată Sfântului Nicolae este un edificiu religios istoric situat în centrul orașului Knin.",
-                  "category": "religious",
-                  "coords": [
-                        16.194431,
-                        44.00928
-                  ]
-            },
-            {
                   "name": "crkva svetog Ante Padovanskog",
                   "text": "Biserica barocă Sfântul Anton de Padova aparține mănăstirii franciscane din Knin.",
                   "category": "religious",
@@ -12320,15 +11872,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.195776,
                         44.033113
-                  ]
-            },
-            {
-                  "name": "Bracića jezero",
-                  "text": "Bracića jezero este un lac din Knin, prezentând un corp de apă pitoresc și liniștit pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.232493,
-                        43.990457
                   ]
             }
       ],
@@ -12379,15 +11922,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Sv. Nikola",
-                  "text": "The church dedicated to St. Nicholas is a historical religious building in the center of Knin.",
-                  "category": "religious",
-                  "coords": [
-                        16.194431,
-                        44.00928
-                  ]
-            },
-            {
                   "name": "crkva svetog Ante Padovanskog",
                   "text": "The Baroque church of St. Anthony of Padua is part of the Franciscan monastery in Knin.",
                   "category": "religious",
@@ -12403,15 +11937,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.195776,
                         44.033113
-                  ]
-            },
-            {
-                  "name": "Bracića jezero",
-                  "text": "Bracića jezero is a lake in Knin, presenting a scenic and quiet body of water for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        16.232493,
-                        43.990457
                   ]
             }
       ],
@@ -12459,15 +11984,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.190042,
                         44.033104
-                  ]
-            },
-            {
-                  "name": "Sv. Nikola",
-                  "text": "Crkva posvećena svetom Nikoli povijesna je sakralna građevina u centru Knina.",
-                  "category": "religious",
-                  "coords": [
-                        16.194431,
-                        44.00928
                   ]
             },
             {
@@ -12548,24 +12064,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Amatersko kazalište Belišće",
-                  "text": "Ein Amateurtheater in Belišće bei Valpovo, das regelmäßig lokale Aufführungen und Kulturveranstaltungen organisiert.",
-                  "category": "cultural",
-                  "coords": [
-                        18.404029,
-                        45.681747
-                  ]
-            },
-            {
-                  "name": "Bazeni Belišće",
-                  "text": "Ein Freizeitzentrum in Belišće mit mehreren Außenbecken für den Badebetrieb während der Sommermonate.",
-                  "category": "recreational",
-                  "coords": [
-                        18.406115,
-                        45.682555
-                  ]
-            },
-            {
                   "name": "Spomenik Majke božje sa Isusom",
                   "text": "Eine religiöse Statue in Valpovo, die Maria mit dem Jesuskind auf einem hohen Sockel darstellt.",
                   "category": "historical",
@@ -12592,24 +12090,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.415419,
                         45.659138
-                  ]
-            },
-            {
-                  "name": "Amatersko kazalište Belišće",
-                  "text": "Amatőr színház a Valpó melletti Belišće településen, amely rendszeresen szervez helyi előadásokat.",
-                  "category": "cultural",
-                  "coords": [
-                        18.404029,
-                        45.681747
-                  ]
-            },
-            {
-                  "name": "Bazeni Belišće",
-                  "text": "Szabadtéri fürdőkomplexum Belišće településen, amely több medencével várja a látogatókat a nyári hónapokban.",
-                  "category": "recreational",
-                  "coords": [
-                        18.406115,
-                        45.682555
                   ]
             },
             {
@@ -12642,24 +12122,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Amatersko kazalište Belišće",
-                  "text": "Un teatru de amatori din Belišće, lângă Valpovo, care organizează periodic spectacole locale.",
-                  "category": "cultural",
-                  "coords": [
-                        18.404029,
-                        45.681747
-                  ]
-            },
-            {
-                  "name": "Bazeni Belišće",
-                  "text": "Un complex de agrement în Belišće cu bazine exterioare deschise pentru înot în lunile de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        18.406115,
-                        45.682555
-                  ]
-            },
-            {
                   "name": "Spomenik Majke božje sa Isusom",
                   "text": "O statuie religioasă din Valpovo care îi înfățișează pe Maria și pruncul Isus pe un piedestal înalt.",
                   "category": "historical",
@@ -12689,24 +12151,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Amatersko kazalište Belišće",
-                  "text": "An amateur theatre in Belišće near Valpovo that regularly organizes local performances.",
-                  "category": "cultural",
-                  "coords": [
-                        18.404029,
-                        45.681747
-                  ]
-            },
-            {
-                  "name": "Bazeni Belišće",
-                  "text": "A recreation complex in Belišće with outdoor swimming pools open during the summer months.",
-                  "category": "recreational",
-                  "coords": [
-                        18.406115,
-                        45.682555
-                  ]
-            },
-            {
                   "name": "Spomenik Majke božje sa Isusom",
                   "text": "A religious statue in Valpovo depicting Mary and the infant Jesus on a high pedestal.",
                   "category": "historical",
@@ -12733,24 +12177,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.415419,
                         45.659138
-                  ]
-            },
-            {
-                  "name": "Amatersko kazalište Belišće",
-                  "text": "Amatersko kazalište u Belišću kod Valpova koje redovito organizira lokalne predstave.",
-                  "category": "cultural",
-                  "coords": [
-                        18.404029,
-                        45.681747
-                  ]
-            },
-            {
-                  "name": "Bazeni Belišće",
-                  "text": "Rekreacijski kompleks u Belišću s vanjskim bazenima otvorenim za kupanje tijekom ljetnih mjeseci.",
-                  "category": "recreational",
-                  "coords": [
-                        18.406115,
-                        45.682555
                   ]
             },
             {
@@ -12885,15 +12311,6 @@ imageHint: "Vinkovci central square and church",
                         18.695288,
                         45.076069
                   ]
-            },
-            {
-                  "name": "Špionice",
-                  "text": "Das Gewässer Špionice in Zupanja bietet einen entspannten Rückzugsort für Naturbeobachter am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        18.633772,
-                        45.020156
-                  ]
             }
       ],
       "hu": [
@@ -12922,15 +12339,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.695288,
                         45.076069
-                  ]
-            },
-            {
-                  "name": "Špionice",
-                  "text": "A Zupanja-ban található Špionice vízterület pihentető menedéket nyújt a vízparti természetkedvelőknek.",
-                  "category": "natural",
-                  "coords": [
-                        18.633772,
-                        45.020156
                   ]
             }
       ],
@@ -12961,15 +12369,6 @@ imageHint: "Vinkovci central square and church",
                         18.695288,
                         45.076069
                   ]
-            },
-            {
-                  "name": "Špionice",
-                  "text": "Lacul Špionice din Zupanja oferă o retragere relaxantă pentru observatorii naturii la malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        18.633772,
-                        45.020156
-                  ]
             }
       ],
       "en": [
@@ -12998,15 +12397,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         18.695288,
                         45.076069
-                  ]
-            },
-            {
-                  "name": "Špionice",
-                  "text": "The Špionice lake in Zupanja offers a relaxing retreat for nature observers by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.633772,
-                        45.020156
                   ]
             }
       ],
@@ -14555,42 +13945,6 @@ imageHint: "Vinkovci central square and church",
                         17.198597,
                         43.454961
                   ]
-            },
-            {
-                  "name": "Zečica",
-                  "text": "Der See Zečica in Imotski liegt in einer ruhigen Umgebung und ist perfekt für kleine Entdeckungstouren.",
-                  "category": "natural",
-                  "coords": [
-                        17.270217,
-                        43.487549
-                  ]
-            },
-            {
-                  "name": "Mali Kotao",
-                  "text": "Der See Mali Kotao in Imotski bietet eine friedliche Atmosphäre abseits des Trubels.",
-                  "category": "natural",
-                  "coords": [
-                        17.26749,
-                        43.499164
-                  ]
-            },
-            {
-                  "name": "Katkin bunar",
-                  "text": "Das Gewässer Katkin bunar in Imotski ist ein malerischer Ort für ruhige Momente im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        17.243973,
-                        43.499693
-                  ]
-            },
-            {
-                  "name": "Prološko jezero",
-                  "text": "Das Prološko jezero bei Imotski ist Teil eines interessanten Sumpfgebiets, das im Wechsel der Jahreszeiten sein Gesicht ändert.",
-                  "category": "natural",
-                  "coords": [
-                        17.115405,
-                        43.470941
-                  ]
             }
       ],
       "hu": [
@@ -14655,42 +14009,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.198597,
                         43.454961
-                  ]
-            },
-            {
-                  "name": "Zečica",
-                  "text": "Az Imotski-ben lévő Zečica tó csendes környezetben fekszik, és tökéletes kisebb felfedező túrákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        17.270217,
-                        43.487549
-                  ]
-            },
-            {
-                  "name": "Mali Kotao",
-                  "text": "Az Imotski melletti Mali Kotao tó békés légkört kínál a nyüzsgéstől távol.",
-                  "category": "natural",
-                  "coords": [
-                        17.26749,
-                        43.499164
-                  ]
-            },
-            {
-                  "name": "Katkin bunar",
-                  "text": "Az Imotski-ben található Katkin bunar festői helyszín a csendes szabadtéri pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        17.243973,
-                        43.499693
-                  ]
-            },
-            {
-                  "name": "Prološko jezero",
-                  "text": "Az Imotski melletti Prološko jezero egy érdekes mocsárvidék része, amely az évszakok változásával együtt változik.",
-                  "category": "natural",
-                  "coords": [
-                        17.115405,
-                        43.470941
                   ]
             }
       ],
@@ -14757,42 +14075,6 @@ imageHint: "Vinkovci central square and church",
                         17.198597,
                         43.454961
                   ]
-            },
-            {
-                  "name": "Zečica",
-                  "text": "Lacul Zečica din Imotski este situat într-un mediu liniștit și este perfect pentru mici tururi de explorare.",
-                  "category": "natural",
-                  "coords": [
-                        17.270217,
-                        43.487549
-                  ]
-            },
-            {
-                  "name": "Mali Kotao",
-                  "text": "Lacul Mali Kotao din Imotski oferă o atmosferă liniștită departe de agitație.",
-                  "category": "natural",
-                  "coords": [
-                        17.26749,
-                        43.499164
-                  ]
-            },
-            {
-                  "name": "Katkin bunar",
-                  "text": "Katkin bunar din Imotski este un loc pitoresc pentru momente liniștite în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        17.243973,
-                        43.499693
-                  ]
-            },
-            {
-                  "name": "Prološko jezero",
-                  "text": "Prološko jezero de lângă Imotski face parte dintr-o zonă mlăștinoasă interesantă care își schimbă aspectul odată cu anotimpurile.",
-                  "category": "natural",
-                  "coords": [
-                        17.115405,
-                        43.470941
-                  ]
             }
       ],
       "en": [
@@ -14857,42 +14139,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         17.198597,
                         43.454961
-                  ]
-            },
-            {
-                  "name": "Zečica",
-                  "text": "The Zečica lake in Imotski is situated in a quiet environment and is perfect for small exploration tours.",
-                  "category": "natural",
-                  "coords": [
-                        17.270217,
-                        43.487549
-                  ]
-            },
-            {
-                  "name": "Mali Kotao",
-                  "text": "The Mali Kotao lake in Imotski offers a peaceful atmosphere away from the hustle and bustle.",
-                  "category": "natural",
-                  "coords": [
-                        17.26749,
-                        43.499164
-                  ]
-            },
-            {
-                  "name": "Katkin bunar",
-                  "text": "Katkin bunar in Imotski is a picturesque spot for quiet moments outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        17.243973,
-                        43.499693
-                  ]
-            },
-            {
-                  "name": "Prološko jezero",
-                  "text": "The Prološko jezero near Imotski is part of an interesting wetland area that changes its face with the seasons.",
-                  "category": "natural",
-                  "coords": [
-                        17.115405,
-                        43.470941
                   ]
             }
       ],
@@ -15537,15 +14783,6 @@ imageHint: "Vinkovci central square and church",
     id: "croatia-gospic-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Park-šuma Jasikovac",
-                  "text": "Dieser geschützte Waldpark bei Gospić ist ein beliebtes Ausflugsziel mit Wanderwegen und einer reichen Flora.",
-                  "category": "natural",
-                  "coords": [
-                        15.373109,
-                        44.530973
-                  ]
-            },
-            {
                   "name": "Muzej Like",
                   "text": "Dieses Museum in Gospić bewahrt das reiche kulturelle und historische Erbe der Region Lika in verschiedenen Ausstellungen.",
                   "category": "museum",
@@ -15565,15 +14802,6 @@ imageHint: "Vinkovci central square and church",
             }
       ],
       "hu": [
-            {
-                  "name": "Park-šuma Jasikovac",
-                  "text": "Ez a Gospić melletti védett parkerdő népszerű pihenőhely sétányokkal és gazdag növényzettel.",
-                  "category": "natural",
-                  "coords": [
-                        15.373109,
-                        44.530973
-                  ]
-            },
             {
                   "name": "Muzej Like",
                   "text": "A gospići múzeum a Lika régió gazdag kulturális és történelmi örökségét mutatja be változatos kiállításokon keresztül.",
@@ -15595,15 +14823,6 @@ imageHint: "Vinkovci central square and church",
       ],
       "ro": [
             {
-                  "name": "Park-šuma Jasikovac",
-                  "text": "Acest parc forestier protejat de lângă Gospić este o destinație populară pentru recreere, cu trasee de plimbare și vegetație bogată.",
-                  "category": "natural",
-                  "coords": [
-                        15.373109,
-                        44.530973
-                  ]
-            },
-            {
                   "name": "Muzej Like",
                   "text": "Acest muzeu din Gospić păstrează moștenirea culturală și istorică bogată a regiunii Lika prin diverse expoziții.",
                   "category": "museum",
@@ -15624,15 +14843,6 @@ imageHint: "Vinkovci central square and church",
       ],
       "en": [
             {
-                  "name": "Park-šuma Jasikovac",
-                  "text": "This protected forest park near Gospić is a popular destination for recreation, featuring walking trails and lush greenery.",
-                  "category": "natural",
-                  "coords": [
-                        15.373109,
-                        44.530973
-                  ]
-            },
-            {
                   "name": "Muzej Like",
                   "text": "This museum in Gospić preserves the rich cultural and historical heritage of the Lika region through various exhibits.",
                   "category": "museum",
@@ -15652,15 +14862,6 @@ imageHint: "Vinkovci central square and church",
             }
       ],
       "hr": [
-            {
-                  "name": "Park-šuma Jasikovac",
-                  "text": "Zaštićena park-šuma nadomak Gospića popularno je odredište za rekreaciju i šetnju kroz prirodu.",
-                  "category": "natural",
-                  "coords": [
-                        15.373109,
-                        44.530973
-                  ]
-            },
             {
                   "name": "Muzej Like",
                   "text": "Muzej u Gospiću čuva bogatu kulturnu i povijesnu baštinu regije Like kroz raznovrsne zbirke.",
@@ -15979,66 +15180,12 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Zavoj S",
-                  "text": "Ein Kieselstrand an der Adriaküste bei Kastav, ideal zum Entspannen am Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        14.337057,
-                        45.351787
-                  ]
-            },
-            {
-                  "name": "Kuća halubajskega zvočara",
-                  "text": "Ein Museum in Kastav, das der Tradition der Halubajski-Glockenschläger (Zvončari) gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        14.377802,
-                        45.382818
-                  ]
-            },
-            {
-                  "name": "Ljetna pozornica Matulji",
-                  "text": "Eine Freilichtbühne in Matulji bei Kastav, die für verschiedene kulturelle Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        14.324765,
-                        45.362512
-                  ]
-            },
-            {
-                  "name": "Plaža za invalide",
-                  "text": "In Kastav befindet sich dieser barrierefrei gestaltete Küstenabschnitt, der speziell für Menschen mit Behinderungen eingerichtet wurde. Ein entspannter Aufenthalt am Meer wird hier durch den erleichterten Zugang zum Wasser ermöglicht. Für einen unbeschwerten Badetag empfiehlt sich ein Besuch bei sonnigem Sommerwetter.",
-                  "category": "recreational",
-                  "coords": [
-                        14.341608,
-                        45.350035
-                  ]
-            },
-            {
                   "name": "Kupalište hotela Hilton",
                   "text": "Der Strandbereich des Hilton-Resorts bei Kastav, der modernen Komfort und kristallklares Wasser bietet.",
                   "category": "recreational",
                   "coords": [
                         14.349924,
                         45.346207
-                  ]
-            },
-            {
-                  "name": "Plaža Ploče",
-                  "text": "Ein Strandresort in Kastav, das Besuchern Zugang zum Meer und verschiedenen Annehmlichkeiten bietet.",
-                  "category": "family",
-                  "coords": [
-                        14.371371,
-                        45.340805
-                  ]
-            },
-            {
-                  "name": "Plaža Črnikovica",
-                  "text": "Ein beliebter Strandabschnitt in Kastav für ein erfrischendes Bad an der Küste.",
-                  "category": "family",
-                  "coords": [
-                        14.321409,
-                        45.350961
                   ]
             }
       ],
@@ -16053,66 +15200,12 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Zavoj S",
-                  "text": "Kavicsos strand az Adria partján Kastav közelében, ideális pihenésre a tengerparton.",
-                  "category": "recreational",
-                  "coords": [
-                        14.337057,
-                        45.351787
-                  ]
-            },
-            {
-                  "name": "Kuća halubajskega zvočara",
-                  "text": "Kastavi múzeum, amely a halubajski kolomposok (zvončari) népi hagyományát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        14.377802,
-                        45.382818
-                  ]
-            },
-            {
-                  "name": "Ljetna pozornica Matulji",
-                  "text": "Matuljiban, Kastav közelében található szabadtéri színpad, amely különféle kulturális eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        14.324765,
-                        45.362512
-                  ]
-            },
-            {
-                  "name": "Plaža za invalide",
-                  "text": "Kastav városában található ez a speciálisan kialakított partszakasz, amely akadálymentes hozzáférést biztosít a tengerhez. A mozgásukban korlátozott látogatók itt biztonságosan és kényelmesen élvezhetik a fürdőzést. Egy meleg nyári napon ideális választás a gondtalan pihenéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        14.341608,
-                        45.350035
-                  ]
-            },
-            {
                   "name": "Kupalište hotela Hilton",
                   "text": "A Hilton üdülőhely strandja Kastav közelében, amely modern kényelmet és kristálytiszta vizet kínál.",
                   "category": "recreational",
                   "coords": [
                         14.349924,
                         45.346207
-                  ]
-            },
-            {
-                  "name": "Plaža Ploče",
-                  "text": "Tengerparti üdülőhely Kastavban, amely hozzáférést biztosít a tengerhez és különféle kényelmi szolgáltatásokhoz.",
-                  "category": "family",
-                  "coords": [
-                        14.371371,
-                        45.340805
-                  ]
-            },
-            {
-                  "name": "Plaža Črnikovica",
-                  "text": "Népszerű tengerparti szakasz Kastavban egy frissítő fürdőzéshez a parton.",
-                  "category": "family",
-                  "coords": [
-                        14.321409,
-                        45.350961
                   ]
             }
       ],
@@ -16127,66 +15220,12 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Zavoj S",
-                  "text": "O plajă cu pietriš pe coasta Adriaticii, lângă Kastav, ideală pentru relaxare la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        14.337057,
-                        45.351787
-                  ]
-            },
-            {
-                  "name": "Kuća halubajskega zvočara",
-                  "text": "Un muzeu din Kastav dedicat tradiției clopotarilor din Halubaj (zvončari).",
-                  "category": "museum",
-                  "coords": [
-                        14.377802,
-                        45.382818
-                  ]
-            },
-            {
-                  "name": "Ljetna pozornica Matulji",
-                  "text": "O scenă în aer liber din Matulji, lângă Kastav, utilizată pentru diverse evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        14.324765,
-                        45.362512
-                  ]
-            },
-            {
-                  "name": "Plaža za invalide",
-                  "text": "Această porțiune de coastă din Kastav este amenajată special pentru a oferi accesibilitate persoanelor cu dizabilități. Vizitatorii se pot bucura de o experiență sigură și relaxantă în apropierea apei. O vizită în timpul verii este perfectă pentru a profita din plin de o zi liniștită la mare.",
-                  "category": "recreational",
-                  "coords": [
-                        14.341608,
-                        45.350035
-                  ]
-            },
-            {
                   "name": "Kupalište hotela Hilton",
                   "text": "Zona de plajă a complexului Hilton de lângă Kastav, oferind confort modern și apă cristalină.",
                   "category": "recreational",
                   "coords": [
                         14.349924,
                         45.346207
-                  ]
-            },
-            {
-                  "name": "Plaža Ploče",
-                  "text": "O stațiune de plajă în Kastav, care oferă vizitatorilor acces la mare și diverse facilități.",
-                  "category": "family",
-                  "coords": [
-                        14.371371,
-                        45.340805
-                  ]
-            },
-            {
-                  "name": "Plaža Črnikovica",
-                  "text": "O porțiune de plajă populară în Kastav pentru o baie răcoritoare la malul mării.",
-                  "category": "family",
-                  "coords": [
-                        14.321409,
-                        45.350961
                   ]
             }
       ],
@@ -16201,66 +15240,12 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Zavoj S",
-                  "text": "A pebble beach on the Adriatic coast near Kastav, ideal for relaxing by the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        14.337057,
-                        45.351787
-                  ]
-            },
-            {
-                  "name": "Kuća halubajskega zvočara",
-                  "text": "A museum in Kastav dedicated to the tradition of the Halubajski bell ringers (zvončari).",
-                  "category": "museum",
-                  "coords": [
-                        14.377802,
-                        45.382818
-                  ]
-            },
-            {
-                  "name": "Ljetna pozornica Matulji",
-                  "text": "An open-air stage in Matulji near Kastav, used for various cultural events and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        14.324765,
-                        45.362512
-                  ]
-            },
-            {
-                  "name": "Beach for the disabled",
-                  "text": "Located in Kastav, this specially equipped coastal section is designed to offer full accessibility for people with disabilities. Visitors can enjoy a safe and comfortable environment for swimming and relaxing by the sea. Arriving on a warm summer day guarantees a carefree coastal experience.",
-                  "category": "recreational",
-                  "coords": [
-                        14.341608,
-                        45.350035
-                  ]
-            },
-            {
                   "name": "Kupalište hotela Hilton",
                   "text": "The beach area of the Hilton resort near Kastav, offering modern amenities and crystal clear water.",
                   "category": "recreational",
                   "coords": [
                         14.349924,
                         45.346207
-                  ]
-            },
-            {
-                  "name": "Beach Ploče",
-                  "text": "A beach resort in Kastav offering visitors access to the sea and various amenities.",
-                  "category": "family",
-                  "coords": [
-                        14.371371,
-                        45.340805
-                  ]
-            },
-            {
-                  "name": "Plaža Črnikovica",
-                  "text": "A popular beach section in Kastav for a refreshing swim on the coast.",
-                  "category": "family",
-                  "coords": [
-                        14.321409,
-                        45.350961
                   ]
             }
       ],
@@ -16272,42 +15257,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         14.348734,
                         45.373056
-                  ]
-            },
-            {
-                  "name": "Zavoj S",
-                  "text": "Šljunčana plaža na obali Jadrana kod Kastva, idealna za opuštanje uz more.",
-                  "category": "recreational",
-                  "coords": [
-                        14.337057,
-                        45.351787
-                  ]
-            },
-            {
-                  "name": "Kuća halubajskega zvočara",
-                  "text": "Muzej u Kastvu posvećen tradiciji halubajskih zvončara.",
-                  "category": "museum",
-                  "coords": [
-                        14.377802,
-                        45.382818
-                  ]
-            },
-            {
-                  "name": "Ljetna pozornica Matulji",
-                  "text": "Ljetna pozornica u Matuljima kod Kastva koja se koristi za razna kulturna događanja.",
-                  "category": "cultural",
-                  "coords": [
-                        14.324765,
-                        45.362512
-                  ]
-            },
-            {
-                  "name": "Beach for the disabled",
-                  "text": "Ovaj posebno opremljen dio obale u Kastvu osmišljen je kako bi pružio pristupačnost osobama s invaliditetom. Posjetitelji ovdje mogu uživati u sigurnom i opuštenom okruženju za kupanje i boravak uz more. Topli ljetni dani savršeni su za bezbrižan odmor na ovoj plaži.",
-                  "category": "recreational",
-                  "coords": [
-                        14.341608,
-                        45.350035
                   ]
             },
             {
@@ -17497,15 +16446,6 @@ imageHint: "Vinkovci central square and church",
                         16.549745,
                         46.229578
                   ]
-            },
-            {
-                  "name": "Dubrava-Stausee",
-                  "text": "Ein See umgeben von Eichenwäldern bei Ludbreg, ideal zum Angeln und Wandern.",
-                  "category": "natural",
-                  "coords": [
-                        16.652961,
-                        46.31778
-                  ]
             }
       ],
       "hu": [
@@ -17534,15 +16474,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.549745,
                         46.229578
-                  ]
-            },
-            {
-                  "name": "Dubravsko jezero",
-                  "text": "Tölgyesekkel körülvett tó Ludbreg mellett, ideális horgászathoz és túrázáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.652961,
-                        46.31778
                   ]
             }
       ],
@@ -17573,15 +16504,6 @@ imageHint: "Vinkovci central square and church",
                         16.549745,
                         46.229578
                   ]
-            },
-            {
-                  "name": "Dubravsko jezero",
-                  "text": "Un lac înconjurat de păduri de stejar lângă Ludbreg, ideal pentru pescuit și drumeții.",
-                  "category": "natural",
-                  "coords": [
-                        16.652961,
-                        46.31778
-                  ]
             }
       ],
       "en": [
@@ -17610,15 +16532,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         16.549745,
                         46.229578
-                  ]
-            },
-            {
-                  "name": "Lake Dubrava",
-                  "text": "A lake surrounded by oak forests near Ludbreg, ideal for fishing and hiking.",
-                  "category": "natural",
-                  "coords": [
-                        16.652961,
-                        46.31778
                   ]
             }
       ],
@@ -18390,15 +17303,6 @@ imageHint: "Vinkovci central square and church",
     id: "croatia-belisce-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Dvorac Normann-Prandau",
-                  "text": "Ein Barockschloss in Valpovo, Kroatien, erbaut von der Familie Normann-Prandau.",
-                  "category": "castle",
-                  "coords": [
-                        18.415419,
-                        45.659138
-                  ]
-            },
-            {
                   "name": "Amatersko kazalište Belišće",
                   "text": "Ein lokales Amateurtheater in Belišće mit langer Tradition.",
                   "category": "cultural",
@@ -18435,15 +17339,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Bara - Mrtvača",
-                  "text": "Ein Altarm der Drau nahe Belišće, wichtig für Wasservögel.",
-                  "category": "natural",
-                  "coords": [
-                        18.456349,
-                        45.6727
-                  ]
-            },
-            {
                   "name": "Gatska pumpa za vodu",
                   "text": "Der kleine See Gatska pumpa za vodu in Belisce liegt eingebettet in eine erholsame Umgebung.",
                   "category": "natural",
@@ -18454,15 +17349,6 @@ imageHint: "Vinkovci central square and church",
             }
       ],
       "hu": [
-            {
-                  "name": "Dvorac Normann-Prandau",
-                  "text": "Barokk kastély Valpovóban, Horvátországban, a Normann-Prandau család építtette.",
-                  "category": "castle",
-                  "coords": [
-                        18.415419,
-                        45.659138
-                  ]
-            },
             {
                   "name": "Amatersko kazalište Belišće",
                   "text": "Egy hosszú hagyományokkal rendelkező helyi amatőr színház Belišće városában.",
@@ -18500,15 +17386,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Bara - Mrtvača",
-                  "text": "A Dráva egy holtága Belišće közelében, fontos vízimadarak számára.",
-                  "category": "natural",
-                  "coords": [
-                        18.456349,
-                        45.6727
-                  ]
-            },
-            {
                   "name": "Gatska pumpa za vodu",
                   "text": "A Belisce-i Gatska pumpa za vodu kis tava pihentető környezetben fekszik.",
                   "category": "natural",
@@ -18519,15 +17396,6 @@ imageHint: "Vinkovci central square and church",
             }
       ],
       "ro": [
-            {
-                  "name": "Dvorac Normann-Prandau",
-                  "text": "Un castel baroc în Valpovo, Croația, construit de familia Normann-Prandau.",
-                  "category": "castle",
-                  "coords": [
-                        18.415419,
-                        45.659138
-                  ]
-            },
             {
                   "name": "Amatersko kazalište Belišće",
                   "text": "Un teatru de amatori local din Belišće, cu o tradiție îndelungată.",
@@ -18565,15 +17433,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Bara - Mrtvača",
-                  "text": "Un braț mort al râului Drava lângă Belišće, important pentru păsările de apă.",
-                  "category": "natural",
-                  "coords": [
-                        18.456349,
-                        45.6727
-                  ]
-            },
-            {
                   "name": "Gatska pumpa za vodu",
                   "text": "Micul lac Gatska pumpa za vodu din Belisce este situat într-un mediu relaxant.",
                   "category": "natural",
@@ -18584,15 +17443,6 @@ imageHint: "Vinkovci central square and church",
             }
       ],
       "en": [
-            {
-                  "name": "Dvorac Normann-Prandau",
-                  "text": "A Baroque castle in Valpovo, Croatia, built by the Normann-Prandau family.",
-                  "category": "castle",
-                  "coords": [
-                        18.415419,
-                        45.659138
-                  ]
-            },
             {
                   "name": "Amatersko kazalište Belišće",
                   "text": "A local amateur theatre in Belišće with a long tradition.",
@@ -18630,15 +17480,6 @@ imageHint: "Vinkovci central square and church",
                   ]
             },
             {
-                  "name": "Bara - Mrtvača",
-                  "text": "An oxbow of the Drava near Belišće, important for waterbirds.",
-                  "category": "natural",
-                  "coords": [
-                        18.456349,
-                        45.6727
-                  ]
-            },
-            {
                   "name": "Gatska pumpa za vodu",
                   "text": "The small lake Gatska pumpa za vodu in Belisce is nestled in a relaxing environment.",
                   "category": "natural",
@@ -18649,15 +17490,6 @@ imageHint: "Vinkovci central square and church",
             }
       ],
       "hr": [
-            {
-                  "name": "Dvorac Normann-Prandau",
-                  "text": "Povijesni dvorac obitelji Normann-Prandau u regiji.",
-                  "category": "castle",
-                  "coords": [
-                        18.415419,
-                        45.659138
-                  ]
-            },
             {
                   "name": "Amatersko kazalište Belišće",
                   "text": "Lokalno amatersko kazalište u Belišću s dugom tradicijom.",
@@ -19147,42 +17979,6 @@ imageHint: "Vinkovci central square and church",
     id: "croatia-supetar-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Plaža Vela Luka",
-                  "text": "Auf der malerischen Insel Brač bietet dieser gut besuchte Kieselstrand in Supetar ideale Bedingungen für Familien. Das sanft abfallende Ufer lädt zum ausgiebigen Schwimmen und gemeinsamen Sonnenbaden ein. Frühaufsteher sichern sich hier die besten Plätze in der Hauptsaison.",
-                  "category": "recreational",
-                  "coords": [
-                        16.538077,
-                        43.383503
-                  ]
-            },
-            {
-                  "name": "Muzej uljarstva",
-                  "text": "Ein Museum in Supetar, das der traditionellen Olivenölproduktion auf der Insel Brač gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        16.522385,
-                        43.384769
-                  ]
-            },
-            {
-                  "name": "Plaža Mutnik",
-                  "text": "Umgeben von duftenden Pinienbäumen präsentiert sich dieser ruhigere Kieselstrand in der Nähe von Supetar als friedliche Oase. Wer dem Trubel entfliehen möchte, findet hier eine wunderbare Kulisse für ungestörtes Schwimmen und Entspannen. Ein Besuch am späten Nachmittag unterstreicht die idyllische Stimmung.",
-                  "category": "recreational",
-                  "coords": [
-                        16.529731,
-                        43.383975
-                  ]
-            },
-            {
-                  "name": "Banj",
-                  "text": "Ein bekannter Stadtstrand in Supetar mit flachem Wasser und vielfältigen Freizeitmöglichkeiten.",
-                  "category": "recreational",
-                  "coords": [
-                        16.54704,
-                        43.386654
-                  ]
-            },
-            {
                   "name": "Acapulco",
                   "text": "Ein moderner Kieselstrand in Supetar, der für seine lebhafte Atmosphäre bekannt ist.",
                   "category": "recreational",
@@ -19190,72 +17986,9 @@ imageHint: "Vinkovci central square and church",
                         16.556994,
                         43.385917
                   ]
-            },
-            {
-                  "name": "Dunaj",
-                  "text": "Eine kleine Bucht mit Kieselstrand auf der Insel Brač bei Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.586963,
-                        43.321785
-                  ]
-            },
-            {
-                  "name": "Prihode",
-                  "text": "Ein felsiges Kap mit phänomenalen Sonnenuntergängen bei Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.517398,
-                        43.364344
-                  ]
-            },
-            {
-                  "name": "Cura",
-                  "text": "Ein einsamer Sandstrand, nur zu Fuß erreichbar, bei Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.581075,
-                        43.325688
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Plaža Vela Luka",
-                  "text": "A festői Brač szigetén, Supetarban található ez a kedvelt kavicsos strand, amely ideális feltételeket kínál a családok számára. A part menti vizek kiválóan alkalmasak úszásra és közös napozásra. A nyári csúcsszezonban érdemes korán érkezni a legjobb helyekért.",
-                  "category": "recreational",
-                  "coords": [
-                        16.538077,
-                        43.383503
-                  ]
-            },
-            {
-                  "name": "Muzej uljarstva",
-                  "text": "Supetari múzeum, amely a Brac-szigeti hagyományos olívaolaj-termelést mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.522385,
-                        43.384769
-                  ]
-            },
-            {
-                  "name": "Plaža Mutnik",
-                  "text": "Az illatos fenyőfákkal körülvett, Supetar közelében fekvő csendesebb kavicsos strand igazi békés oázis. Aki szeretne elmenekülni a nyüzsgés elől, itt zavartalanul úszhat és pihenhet a természet lágy ölén. Egy késő délutáni látogatás még inkább kiemeli a hely idilli hangulatát.",
-                  "category": "recreational",
-                  "coords": [
-                        16.529731,
-                        43.383975
-                  ]
-            },
-            {
-                  "name": "Banj",
-                  "text": "Ismert városi strand Supetarban, sekély vízzel és számos szabadidős lehetőséggel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.54704,
-                        43.386654
-                  ]
-            },
             {
                   "name": "Acapulco",
                   "text": "Modern kavicsos strand Supetarban, amely élénk hangulatáról ismert.",
@@ -19264,72 +17997,9 @@ imageHint: "Vinkovci central square and church",
                         16.556994,
                         43.385917
                   ]
-            },
-            {
-                  "name": "Dunaj",
-                  "text": "Egy kis öböl kavicsos stranddal Brač szigetén, Supetar közelében.",
-                  "category": "natural",
-                  "coords": [
-                        16.586963,
-                        43.321785
-                  ]
-            },
-            {
-                  "name": "Prihode",
-                  "text": "Egy sziklás fok lenyűgöző naplementékkel Supetar közelében.",
-                  "category": "natural",
-                  "coords": [
-                        16.517398,
-                        43.364344
-                  ]
-            },
-            {
-                  "name": "Cura",
-                  "text": "Egy félreeső homokos strand, csak gyalog megközelíthető, Supetar közelében.",
-                  "category": "natural",
-                  "coords": [
-                        16.581075,
-                        43.325688
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Plaža Vela Luka",
-                  "text": "Pe insula pitorească Brač, această plajă cu pietriș din Supetar oferă condiții ideale pentru familii. Atmosfera primitoare este perfectă pentru înot și băi de soare relaxante la malul mării. Pentru a ocupa un loc bun în plin sezon, se recomandă să sosiți devreme.",
-                  "category": "recreational",
-                  "coords": [
-                        16.538077,
-                        43.383503
-                  ]
-            },
-            {
-                  "name": "Muzej uljarstva",
-                  "text": "Un muzeu din Supetar dedicat producției tradiționale de ulei de măsline de pe insula Brač.",
-                  "category": "museum",
-                  "coords": [
-                        16.522385,
-                        43.384769
-                  ]
-            },
-            {
-                  "name": "Plaža Mutnik",
-                  "text": "Înconjurată de pini parfumați, această plajă liniștită cu pietriș de lângă Supetar este o adevărată oază de pace. Cei care doresc să scape de agitație vor găsi aici cadrul perfect pentru o baie netulburată și relaxare. O vizită după-amiaza târziu accentuează atmosfera idilică a locului.",
-                  "category": "recreational",
-                  "coords": [
-                        16.529731,
-                        43.383975
-                  ]
-            },
-            {
-                  "name": "Banj",
-                  "text": "O plajă urbană cunoscută din Supetar, cu apă puțin adâncă și diverse facilități de recreere.",
-                  "category": "recreational",
-                  "coords": [
-                        16.54704,
-                        43.386654
-                  ]
-            },
             {
                   "name": "Acapulco",
                   "text": "O plajă modernă cu prundiş în Supetar, cunoscută pentru atmosfera sa plină de viață.",
@@ -19338,72 +18008,9 @@ imageHint: "Vinkovci central square and church",
                         16.556994,
                         43.385917
                   ]
-            },
-            {
-                  "name": "Dunaj",
-                  "text": "Un golf mic cu plajă de pietriș pe insula Brač, lângă Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.586963,
-                        43.321785
-                  ]
-            },
-            {
-                  "name": "Prihode",
-                  "text": "Un cap stâncos cu apusuri spectaculoase lângă Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.517398,
-                        43.364344
-                  ]
-            },
-            {
-                  "name": "Cura",
-                  "text": "O plajă izolată cu nisip, accesibilă doar pe jos, lângă Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.581075,
-                        43.325688
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Plaža Vela Luka",
-                  "text": "Located in Supetar on the island of Brač, this popular pebble beach provides an ideal setting for families. The inviting shoreline is perfect for extensive swimming and relaxing sunbathing sessions. Arriving early during the peak season ensures a prime spot by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        16.538077,
-                        43.383503
-                  ]
-            },
-            {
-                  "name": "Muzej uljarstva",
-                  "text": "A museum in Supetar dedicated to the traditional olive oil production of Brač island.",
-                  "category": "museum",
-                  "coords": [
-                        16.522385,
-                        43.384769
-                  ]
-            },
-            {
-                  "name": "Plaža Mutnik",
-                  "text": "Encircled by fragrant pine trees, this quieter pebble beach near Supetar serves as a peaceful coastal oasis. Those looking to escape the crowds will find a wonderful setting for undisturbed swimming and relaxation. A late afternoon visit beautifully highlights the idyllic atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        16.529731,
-                        43.383975
-                  ]
-            },
-            {
-                  "name": "Banj",
-                  "text": "A well-known town beach in Supetar with shallow water and various recreational facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        16.54704,
-                        43.386654
-                  ]
-            },
             {
                   "name": "Acapulco",
                   "text": "A modern pebble beach in Supetar known for its lively atmosphere.",
@@ -19412,72 +18019,9 @@ imageHint: "Vinkovci central square and church",
                         16.556994,
                         43.385917
                   ]
-            },
-            {
-                  "name": "Dunaj",
-                  "text": "A small cove with a pebble beach on the island of Brač near Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.586963,
-                        43.321785
-                  ]
-            },
-            {
-                  "name": "Prihode",
-                  "text": "A rocky cape with phenomenal sunsets near Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.517398,
-                        43.364344
-                  ]
-            },
-            {
-                  "name": "Cura",
-                  "text": "A secluded sandy beach accessible only on foot near Supetar.",
-                  "category": "natural",
-                  "coords": [
-                        16.581075,
-                        43.325688
-                  ]
             }
       ],
       "hr": [
-            {
-                  "name": "Plaža Vela Luka",
-                  "text": "Smještena u Supetru na otoku Braču, ova popularna šljunčana plaža idealna je za obitelji s djecom. Ugodan obalni pojas savršen je za plivanje i zajedničko sunčanje. Za najbolje mjesto tijekom glavne ljetne sezone preporučuje se raniji dolazak.",
-                  "category": "recreational",
-                  "coords": [
-                        16.538077,
-                        43.383503
-                  ]
-            },
-            {
-                  "name": "Muzej uljarstva",
-                  "text": "Muzej u Supetru posvećen tradicijskoj proizvodnji maslinovog ulja na otoku Braču.",
-                  "category": "museum",
-                  "coords": [
-                        16.522385,
-                        43.384769
-                  ]
-            },
-            {
-                  "name": "Plaža Mutnik",
-                  "text": "Okružena mirisnim borovima, ova mirnija šljunčana plaža u blizini Supetra nudi pravu obalnu oazu mira. Oni koji žele pobjeći od gužve ovdje će pronaći prekrasno okruženje za nesmetano plivanje i opuštanje. Posjet u kasnim poslijepodnevnim satima dodatno naglašava idiličnu atmosferu.",
-                  "category": "recreational",
-                  "coords": [
-                        16.529731,
-                        43.383975
-                  ]
-            },
-            {
-                  "name": "Banj",
-                  "text": "Poznata gradska plaža u Supetru s plitkim morem i raznim sadržajima za posjetitelje.",
-                  "category": "recreational",
-                  "coords": [
-                        16.54704,
-                        43.386654
-                  ]
-            },
             {
                   "name": "Acapulco",
                   "text": "Moderna šljunčana plaža u Supetru poznata po svojoj živahnoj atmosferi.",
@@ -19745,24 +18289,6 @@ imageHint: "Vinkovci central square and church",
                         14.795513,
                         45.39442
                   ]
-            },
-            {
-                  "name": "Vidikovac",
-                  "text": "Ein Aussichtspunkt bei Delnice, der einen Panoramablick auf die bewaldete Berglandschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        14.819607,
-                        45.38091
-                  ]
-            },
-            {
-                  "name": "Lokvarsko jezero",
-                  "text": "Der Lokvarsko-See bei Delnice ist ein traumhaftes Ziel für Naturfreunde.",
-                  "category": "natural",
-                  "coords": [
-                        14.694506,
-                        45.366783
-                  ]
             }
       ],
       "hu": [
@@ -19773,24 +18299,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         14.795513,
                         45.39442
-                  ]
-            },
-            {
-                  "name": "Vidikovac",
-                  "text": "Kilátópont Delnice közelében, ahonnan panorámás kilátás nyílik az erdős hegyvidékre.",
-                  "category": "natural",
-                  "coords": [
-                        14.819607,
-                        45.38091
-                  ]
-            },
-            {
-                  "name": "Lokvarsko jezero",
-                  "text": "A Delnice melletti Lokvarsko-tó álomszerű célpont a természetkedvelőknek.",
-                  "category": "natural",
-                  "coords": [
-                        14.694506,
-                        45.366783
                   ]
             }
       ],
@@ -19803,24 +18311,6 @@ imageHint: "Vinkovci central square and church",
                         14.795513,
                         45.39442
                   ]
-            },
-            {
-                  "name": "Vidikovac",
-                  "text": "Un punct de belvedere lângă Delnice, care oferă o vedere panoramică asupra peisajului montan împădurit.",
-                  "category": "natural",
-                  "coords": [
-                        14.819607,
-                        45.38091
-                  ]
-            },
-            {
-                  "name": "Lokvarsko jezero",
-                  "text": "Lacul Lokvarsko de lângă Delnice este o destinație de vis pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.694506,
-                        45.366783
-                  ]
             }
       ],
       "en": [
@@ -19832,24 +18322,6 @@ imageHint: "Vinkovci central square and church",
                         14.795513,
                         45.39442
                   ]
-            },
-            {
-                  "name": "Vidikovac",
-                  "text": "A viewpoint near Delnice offering a panoramic view of the forested mountain landscape.",
-                  "category": "natural",
-                  "coords": [
-                        14.819607,
-                        45.38091
-                  ]
-            },
-            {
-                  "name": "Lokvarsko jezero",
-                  "text": "Lokvarsko lake near Delnice is a dream destination for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        14.694506,
-                        45.366783
-                  ]
             }
       ],
       "hr": [
@@ -19860,15 +18332,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         14.795513,
                         45.39442
-                  ]
-            },
-            {
-                  "name": "Vidikovac",
-                  "text": "Vidikovac u blizini Delnica koji pruža panoramski pogled na planinski krajolik Gorskog kotara.",
-                  "category": "natural",
-                  "coords": [
-                        14.819607,
-                        45.38091
                   ]
             }
       ]
@@ -19972,24 +18435,6 @@ imageHint: "Vinkovci central square and church",
                         15.054551,
                         44.443583
                   ]
-            },
-            {
-                  "name": "Sveti Jure",
-                  "text": "Gipfelkirche zu Ehren des Heiligen Georg mit Blick auf Pag.",
-                  "category": "landmark",
-                  "coords": [
-                        15.06162,
-                        44.456273
-                  ]
-            },
-            {
-                  "name": "Osmatračnica",
-                  "text": "Ein Aussichtspunkt in Pag, der früher als Osmatračnica diente.",
-                  "category": "landmark",
-                  "coords": [
-                        15.063215,
-                        44.463768
-                  ]
             }
       ],
       "hu": [
@@ -20045,24 +18490,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.054551,
                         44.443583
-                  ]
-            },
-            {
-                  "name": "Sveti Jure",
-                  "text": "Szent Györgynek szentelt templom a Pag feletti dombtetőn.",
-                  "category": "landmark",
-                  "coords": [
-                        15.06162,
-                        44.456273
-                  ]
-            },
-            {
-                  "name": "Osmatračnica",
-                  "text": "Egy kilátópont Pag városában, amely korábban őrtoronyként szolgált.",
-                  "category": "landmark",
-                  "coords": [
-                        15.063215,
-                        44.463768
                   ]
             }
       ],
@@ -20120,24 +18547,6 @@ imageHint: "Vinkovci central square and church",
                         15.054551,
                         44.443583
                   ]
-            },
-            {
-                  "name": "Sveti Jure",
-                  "text": "Biserică de vârf dedicată Sfântului Gheorghe cu vedere spre Pag.",
-                  "category": "landmark",
-                  "coords": [
-                        15.06162,
-                        44.456273
-                  ]
-            },
-            {
-                  "name": "Osmatračnica",
-                  "text": "Un punct de observație în Pag, care a servit anterior ca turn de veghe.",
-                  "category": "landmark",
-                  "coords": [
-                        15.063215,
-                        44.463768
-                  ]
             }
       ],
       "en": [
@@ -20194,24 +18603,6 @@ imageHint: "Vinkovci central square and church",
                         15.054551,
                         44.443583
                   ]
-            },
-            {
-                  "name": "Sveti Jure",
-                  "text": "Hilltop church dedicated to St. George overlooking Pag.",
-                  "category": "landmark",
-                  "coords": [
-                        15.06162,
-                        44.456273
-                  ]
-            },
-            {
-                  "name": "Osmatračnica",
-                  "text": "A viewpoint in Pag that formerly served as a watchtower.",
-                  "category": "landmark",
-                  "coords": [
-                        15.063215,
-                        44.463768
-                  ]
             }
       ],
       "hr": [
@@ -20267,24 +18658,6 @@ imageHint: "Vinkovci central square and church",
                   "coords": [
                         15.054551,
                         44.443583
-                  ]
-            },
-            {
-                  "name": "Sveti Jure",
-                  "text": "Građevina Sveti Jure nalazi se u povijesnoj jezgri grada Paga.",
-                  "category": "landmark",
-                  "coords": [
-                        15.06162,
-                        44.456273
-                  ]
-            },
-            {
-                  "name": "Osmatračnica",
-                  "text": "Vidikovac u Pagu koji je ranije služio kao osmatračnica.",
-                  "category": "landmark",
-                  "coords": [
-                        15.063215,
-                        44.463768
                   ]
             }
       ]

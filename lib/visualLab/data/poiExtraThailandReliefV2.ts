@@ -6397,15 +6397,6 @@ export const poiExtraThailandReliefV2: POI[] = [
     id: "wang-river-valley-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Wat Si Rong Mueang",
-                  "text": "Eine bedeutende Kultstätte im birmanischen Stil im Wang-Flusstal, die weltweit für ihre verzierten Holzschnitzereien und Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        99.48081,
-                        18.290422
-                  ]
-            },
-            {
                   "name": "Wat Phra Kaeo Don Tao",
                   "text": "Eine historisch bedeutsame Tempelanlage im Wang-Flusstal, die berühmt dafür ist, einst den verehrten Smaragd-Buddha beherbergt zu haben.",
                   "category": "religious",
@@ -6415,93 +6406,12 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pong Sanuk",
-                  "text": "Eine historische Stätte, die außergewöhnlich erhaltene Tempelarchitektur im traditionellen Lanna-Stil im Wang-Flusstal zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        99.497,
-                        18.294642
-                  ]
-            },
-            {
-                  "name": "Phum La Kon Museum",
-                  "text": "Ein lokales Kulturmuseum, das die regionale Geschichte und traditionelle Artefakte des Wang-Flusstals präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        99.489788,
-                        18.288679
-                  ]
-            },
-            {
-                  "name": "Baan Sao Nak",
-                  "text": "Ein faszinierendes lokales Museum, das in einem markanten traditionellen Lanna-Teakholz-Herrenhaus mit über 100 Säulen untergebracht ist.",
-                  "category": "museum",
-                  "coords": [
-                        99.508035,
-                        18.294137
-                  ]
-            },
-            {
-                  "name": "Dhanabadee Ceramic Museum",
-                  "text": "Ein spezialisiertes Museum im Wang-Flusstal, das die lokale Keramikindustrie und die Geschichte der traditionellen Hühnerschalenproduktion ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        99.51282,
-                        18.280356
-                  ]
-            },
-            {
-                  "name": "Thai Bank Museum",
-                  "text": "Ein lokales Museum, das die regionale Finanzgeschichte und die historischen Bankpraktiken im Wang-Flusstal detailliert beschreibt.",
-                  "category": "museum",
-                  "coords": [
-                        99.484661,
-                        18.284856
-                  ]
-            },
-            {
-                  "name": "Lampang Museum",
-                  "text": "Ein umfassendes Regionalmuseum, das das reiche kulturelle und historische Erbe der Region des Wang-Flusstals ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        99.503293,
-                        18.290158
-                  ]
-            },
-            {
-                  "name": "Clock Tower",
-                  "text": "Ein markanter monumentaler Uhrturm, der als erkennbares zentrales Verkehrswahrzeichen in der Region des Wang-Flusstals steht.",
-                  "category": "historical",
-                  "coords": [
-                        99.490904,
-                        18.288876
-                  ]
-            },
-            {
-                  "name": "MoungNgwazin Building",
-                  "text": "Ein historisches Bauwerk mit markanten lokalen Architekturelementen, die auf die Vergangenheit des Wang-Flusstals hinweisen.",
-                  "category": "historical",
-                  "coords": [
-                        99.498226,
-                        18.290974
-                  ]
-            },
-            {
                   "name": "Ceramic Sala Otop",
                   "text": "Ein Kunstzentrum, das sich der Förderung und dem Verkauf der renommierten lokalen Keramikhandwerkskunst im Wang-Flusstal widmet.",
                   "category": "cultural",
                   "coords": [
                         99.423901,
                         18.217726
-                  ]
-            },
-            {
-                  "name": "Lampang Arts Center",
-                  "text": "Ein kommunales Kunstzentrum, das Ausstellungen veranstaltet und zeitgenössische lokale kreative Werke im Wang-Flusstal präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        99.496485,
-                        18.290762
                   ]
             },
             {
@@ -6669,15 +6579,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Wat Si Rong Mueang",
-                  "text": "A Wang-folyó völgyében található, burmai stílusú, díszes fafaragásairól és építészetéről világszerte ismert, jelentős istentiszteleti hely.",
-                  "category": "religious",
-                  "coords": [
-                        99.48081,
-                        18.290422
-                  ]
-            },
-            {
                   "name": "Wat Phra Kaeo Don Tao",
                   "text": "Történelmileg jelentős templomegyüttes a Wang-folyó völgyében, amely arról híres, hogy egykor a nagy becsben tartott Smaragd Buddhának adott otthont.",
                   "category": "religious",
@@ -6687,93 +6588,12 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pong Sanuk",
-                  "text": "Örökségi helyszín a Wang-folyó völgyében, amely kivételesen megőrzött, hagyományos Lanna stílusú templomépítészetet mutat be.",
-                  "category": "landmark",
-                  "coords": [
-                        99.497,
-                        18.294642
-                  ]
-            },
-            {
-                  "name": "Phum La Kon Museum",
-                  "text": "A Wang-folyó völgyének regionális történelmét és hagyományos műtárgyait bemutató helyi kulturális múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        99.489788,
-                        18.288679
-                  ]
-            },
-            {
-                  "name": "Baan Sao Nak",
-                  "text": "Lenyűgöző helyi múzeum egy jellegzetes hagyományos, több mint 100 oszlopon nyugvó Lanna tíkfa kúriában.",
-                  "category": "museum",
-                  "coords": [
-                        99.508035,
-                        18.294137
-                  ]
-            },
-            {
-                  "name": "Dhanabadee Ceramic Museum",
-                  "text": "A helyi kerámiaipart és a hagyományos csirkés tálak gyártásának történetét bemutató szakmúzeum a Wang-folyó völgyében.",
-                  "category": "museum",
-                  "coords": [
-                        99.51282,
-                        18.280356
-                  ]
-            },
-            {
-                  "name": "Thai Bank Museum",
-                  "text": "A Wang-folyó völgyének regionális pénzügyi történetét és történelmi banki gyakorlatát részletező helyi múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        99.484661,
-                        18.284856
-                  ]
-            },
-            {
-                  "name": "Lampang Museum",
-                  "text": "Átfogó regionális múzeum, amely a Wang-folyó völgye gazdag kulturális és történelmi örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        99.503293,
-                        18.290158
-                  ]
-            },
-            {
-                  "name": "Clock Tower",
-                  "text": "A Wang-folyó völgyének régiójában jól felismerhető, központi forgalmi tájékozódási pontként szolgáló kiemelkedő óratorony.",
-                  "category": "historical",
-                  "coords": [
-                        99.490904,
-                        18.288876
-                  ]
-            },
-            {
-                  "name": "MoungNgwazin Building",
-                  "text": "A Wang-folyó völgyének múltjára utaló, jellegzetes helyi építészeti elemekkel rendelkező történelmi műemléképület.",
-                  "category": "historical",
-                  "coords": [
-                        99.498226,
-                        18.290974
-                  ]
-            },
-            {
                   "name": "Ceramic Sala Otop",
                   "text": "A Wang-folyó völgyében található, a híres helyi kerámiaművészet népszerűsítésének és értékesítésének szentelt művészeti központ.",
                   "category": "cultural",
                   "coords": [
                         99.423901,
                         18.217726
-                  ]
-            },
-            {
-                  "name": "Lampang Arts Center",
-                  "text": "Közösségi művészeti központ a Wang-folyó völgyében, amely kiállításoknak ad otthont és kortárs helyi alkotásokat mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        99.496485,
-                        18.290762
                   ]
             },
             {
@@ -6941,15 +6761,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Wat Si Rong Mueang",
-                  "text": "Un lăcaș de cult notabil în stil birmanez, recunoscut la nivel mondial pentru sculpturile în lemn bogat ornamentate și arhitectura din valea râului Wang.",
-                  "category": "religious",
-                  "coords": [
-                        99.48081,
-                        18.290422
-                  ]
-            },
-            {
                   "name": "Wat Phra Kaeo Don Tao",
                   "text": "Un templu cu semnificație istorică din valea râului Wang, faimos pentru că a adăpostit cândva veneratul Buddha de Smarald.",
                   "category": "religious",
@@ -6959,93 +6770,12 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pong Sanuk",
-                  "text": "Un sit de patrimoniu care prezintă o arhitectură tradițională de templu în stil Lanna excepțional de bine conservată în valea râului Wang.",
-                  "category": "landmark",
-                  "coords": [
-                        99.497,
-                        18.294642
-                  ]
-            },
-            {
-                  "name": "Phum La Kon Museum",
-                  "text": "Un muzeu cultural local care prezintă istoria regională și artefactele tradiționale din valea râului Wang.",
-                  "category": "museum",
-                  "coords": [
-                        99.489788,
-                        18.288679
-                  ]
-            },
-            {
-                  "name": "Baan Sao Nak",
-                  "text": "Un muzeu local fascinant, găzduit într-un conac tradițional distinctiv din lemn de tec Lanna, susținut de peste 100 de stâlpi.",
-                  "category": "museum",
-                  "coords": [
-                        99.508035,
-                        18.294137
-                  ]
-            },
-            {
-                  "name": "Dhanabadee Ceramic Museum",
-                  "text": "Un muzeu specializat care expune industria ceramică locală și istoria producției tradiționale de boluri cu pui în valea râului Wang.",
-                  "category": "museum",
-                  "coords": [
-                        99.51282,
-                        18.280356
-                  ]
-            },
-            {
-                  "name": "Thai Bank Museum",
-                  "text": "Un muzeu local care detaliază istoria financiară regională și practicile bancare istorice găsite în valea râului Wang.",
-                  "category": "museum",
-                  "coords": [
-                        99.484661,
-                        18.284856
-                  ]
-            },
-            {
-                  "name": "Lampang Museum",
-                  "text": "Un muzeu regional cuprinzător care expune moștenirea culturală și istorică bogată a zonei văii râului Wang.",
-                  "category": "museum",
-                  "coords": [
-                        99.503293,
-                        18.290158
-                  ]
-            },
-            {
-                  "name": "Clock Tower",
-                  "text": "Un turn cu ceas monumental proeminent, care se ridică ca un punct de reper central de trafic recunoscut în regiunea văii râului Wang.",
-                  "category": "historical",
-                  "coords": [
-                        99.490904,
-                        18.288876
-                  ]
-            },
-            {
-                  "name": "MoungNgwazin Building",
-                  "text": "O clădire monument istoric cu elemente arhitecturale locale distinctive, indicative pentru trecutul văii râului Wang.",
-                  "category": "historical",
-                  "coords": [
-                        99.498226,
-                        18.290974
-                  ]
-            },
-            {
                   "name": "Ceramic Sala Otop",
                   "text": "Un centru de artă dedicat promovării și vânzării măiestriei ceramice locale renumite din valea râului Wang.",
                   "category": "cultural",
                   "coords": [
                         99.423901,
                         18.217726
-                  ]
-            },
-            {
-                  "name": "Lampang Arts Center",
-                  "text": "Un centru comunitar de artă care găzduiește expoziții și prezintă lucrări creative locale contemporane în valea râului Wang.",
-                  "category": "cultural",
-                  "coords": [
-                        99.496485,
-                        18.290762
                   ]
             },
             {
@@ -7213,15 +6943,6 @@ export const poiExtraThailandReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Wat Si Rong Mueang",
-                  "text": "A notable Burmese-style place of worship recognized globally for its ornate woodcarvings and architecture in the Wang River valley.",
-                  "category": "religious",
-                  "coords": [
-                        99.48081,
-                        18.290422
-                  ]
-            },
-            {
                   "name": "Wat Phra Kaeo Don Tao",
                   "text": "A historically significant temple site in the Wang River valley that famously once housed the revered Emerald Buddha.",
                   "category": "religious",
@@ -7231,93 +6952,12 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pong Sanuk",
-                  "text": "A recognized heritage site showcasing exceptionally preserved traditional Lanna-style temple architecture in the Wang River valley.",
-                  "category": "landmark",
-                  "coords": [
-                        99.497,
-                        18.294642
-                  ]
-            },
-            {
-                  "name": "Phum La Kon Museum",
-                  "text": "A local cultural museum presenting the regional history and traditional artifacts of the Wang River valley.",
-                  "category": "museum",
-                  "coords": [
-                        99.489788,
-                        18.288679
-                  ]
-            },
-            {
-                  "name": "Baan Sao Nak",
-                  "text": "A fascinating local museum housed in a distinctive traditional Lanna teakwood mansion supported by over 100 pillars.",
-                  "category": "museum",
-                  "coords": [
-                        99.508035,
-                        18.294137
-                  ]
-            },
-            {
-                  "name": "Dhanabadee Ceramic Museum",
-                  "text": "A specialized museum exhibiting the local ceramic industry and the history of traditional chicken bowl production in the Wang River valley.",
-                  "category": "museum",
-                  "coords": [
-                        99.51282,
-                        18.280356
-                  ]
-            },
-            {
-                  "name": "Thai Bank Museum",
-                  "text": "A local museum detailing the regional financial history and historical banking practices found in the Wang River valley.",
-                  "category": "museum",
-                  "coords": [
-                        99.484661,
-                        18.284856
-                  ]
-            },
-            {
-                  "name": "Lampang Museum",
-                  "text": "A comprehensive regional museum exhibiting the rich cultural and historical legacy of the Wang River valley area.",
-                  "category": "museum",
-                  "coords": [
-                        99.503293,
-                        18.290158
-                  ]
-            },
-            {
-                  "name": "Clock Tower",
-                  "text": "A prominent monumental clock structure standing as a recognizable central traffic landmark in the Wang River valley region.",
-                  "category": "historical",
-                  "coords": [
-                        99.490904,
-                        18.288876
-                  ]
-            },
-            {
-                  "name": "MoungNgwazin Building",
-                  "text": "A historic monument building featuring distinctive local architectural elements indicative of the Wang River valley's past.",
-                  "category": "historical",
-                  "coords": [
-                        99.498226,
-                        18.290974
-                  ]
-            },
-            {
                   "name": "Ceramic Sala Otop",
                   "text": "An arts center dedicated to the promotion and sale of renowned local ceramic craftsmanship in the Wang River valley.",
                   "category": "cultural",
                   "coords": [
                         99.423901,
                         18.217726
-                  ]
-            },
-            {
-                  "name": "Lampang Arts Center",
-                  "text": "A community arts hub hosting exhibitions and showcasing contemporary local creative works in the Wang River valley.",
-                  "category": "cultural",
-                  "coords": [
-                        99.496485,
-                        18.290762
                   ]
             },
             {
@@ -9420,24 +9060,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Chedi Luang",
-                  "text": "Beherbergt einen gewaltigen, ruinierten Chedi, der einst das höchste Bauwerk im alten Chiang Mai war.",
-                  "category": "religious",
-                  "coords": [
-                        98.986737,
-                        18.786883
-                  ]
-            },
-            {
-                  "name": "Wat Lok Molee",
-                  "text": "Ein historischer Tempel mit einem großen, verwitterten Backstein-Chedi und einem schönen Teakholz-Viharn.",
-                  "category": "religious",
-                  "coords": [
-                        98.982583,
-                        18.796386
-                  ]
-            },
-            {
                   "name": "Mengrai Bridge",
                   "text": "Eine bedeutende Brücke über den Ping-Fluss, benannt nach dem Gründer des Lanna-Königreichs.",
                   "category": "landmark",
@@ -9453,15 +9075,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   "coords": [
                         98.974715,
                         18.82144
-                  ]
-            },
-            {
-                  "name": "Chiang Mai National Museum",
-                  "text": "Zeigt eine umfassende Sammlung von Artefakten im Lanna-Stil und religiöser Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        98.976429,
-                        18.811602
                   ]
             },
             {
@@ -9489,15 +9102,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   "coords": [
                         98.997269,
                         18.773503
-                  ]
-            },
-            {
-                  "name": "Wat Chiang Yuen",
-                  "text": "Ein alter Tempel, der historisch für die Krönungszeremonien der Lanna-Könige genutzt wurde.",
-                  "category": "religious",
-                  "coords": [
-                        98.98878,
-                        18.796325
                   ]
             },
             {
@@ -9564,15 +9168,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Sai Moon Myanmar",
-                  "text": "Ein farbenfroher Tempel im birmanischen Stil, der den Einfluss der lokalen Shan-Gemeinschaft widerspiegelt.",
-                  "category": "religious",
-                  "coords": [
-                        98.991215,
-                        18.782133
-                  ]
-            },
-            {
                   "name": "Wat Saimoonmuang",
                   "text": "Ein ruhiger Tempel am Wassergraben mit einem goldenen Chedi und einem traditionellen Holz-Viharn.",
                   "category": "religious",
@@ -9582,147 +9177,12 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Muentoom",
-                  "text": "Bekannt für sein kunstvolles Eingangstor im Lanna-Stil und die schönen dekorativen Stuckarbeiten.",
-                  "category": "religious",
-                  "coords": [
-                        98.98913,
-                        18.784141
-                  ]
-            },
-            {
-                  "name": "Wat Chet Lin - Wat Jedlin",
-                  "text": "Dieser Tempel verfügt über einen großen Teich mit einer Bambusbrücke und einem riesigen Buddha-Kopf aus Stein.",
-                  "category": "religious",
-                  "coords": [
-                        98.987882,
-                        18.783807
-                  ]
-            },
-            {
                   "name": "Wat Chang Taem",
                   "text": "Ein eleganter Tempel mit einer schönen Buddha-Statue im Lanna-Stil mit goldener Krone.",
                   "category": "religious",
                   "coords": [
                         98.988057,
                         18.785228
-                  ]
-            },
-            {
-                  "name": "Wat Sri Suphan",
-                  "text": "Berühmt für seinen beeindruckenden Silbernen Schrein, der vollständig mit handgefertigten, geprägten Metallplatten bedeckt ist.",
-                  "category": "religious",
-                  "coords": [
-                        98.983314,
-                        18.77868
-                  ]
-            },
-            {
-                  "name": "Wat Phuak Taem",
-                  "text": "Historisch ein Zentrum für die Herstellung von Messing-Mönchsschalen nach traditionellen Gussverfahren.",
-                  "category": "religious",
-                  "coords": [
-                        98.983073,
-                        18.782419
-                  ]
-            },
-            {
-                  "name": "Wat Suan Dok",
-                  "text": "Bekannt für sein riesiges Feld aus weiß getünchten Chedis, in denen die Überreste des Lanna-Adels ruhen.",
-                  "category": "religious",
-                  "coords": [
-                        98.967784,
-                        18.788155
-                  ]
-            },
-            {
-                  "name": "Thep Montien",
-                  "text": "Ein bedeutender Hindu-Tempel in Chiang Mai, der Vishnu und Lakshmi gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        98.990498,
-                        18.799161
-                  ]
-            },
-            {
-                  "name": "Wat Ku Tao",
-                  "text": "Verfügt über einen einzigartigen Chedi, der als Stapel von fünf Kugeln gestaltet ist, die Almosenschalen darstellen.",
-                  "category": "religious",
-                  "coords": [
-                        98.988637,
-                        18.802583
-                  ]
-            },
-            {
-                  "name": "Wat Saen Mueang Ma Luang",
-                  "text": "Ein prächtiger Tempel mit reich verzierten Dächern im birmanischen Stil und vergoldeten Details.",
-                  "category": "religious",
-                  "coords": [
-                        98.986348,
-                        18.794001
-                  ]
-            },
-            {
-                  "name": "Wat Mo Kham Tuang",
-                  "text": "Ein ruhiger Tempelkomplex mit traditioneller Lanna-Architektur und detaillierten floralen Motiven.",
-                  "category": "religious",
-                  "coords": [
-                        98.985358,
-                        18.795017
-                  ]
-            },
-            {
-                  "name": "Wat Khuan Kama",
-                  "text": "Unverkennbar durch die Dutzenden von goldenen Pferdestatuen, die die äußere Tempelmauer säumen.",
-                  "category": "religious",
-                  "coords": [
-                        98.983724,
-                        18.795182
-                  ]
-            },
-            {
-                  "name": "Wat Pa Phrao Nai",
-                  "text": "Ein klassischer Nachbarschaftstempel mit einem fein geschnitzten Holzeingang zum Viharn.",
-                  "category": "religious",
-                  "coords": [
-                        98.980602,
-                        18.793294
-                  ]
-            },
-            {
-                  "name": "Wat Pha Bong",
-                  "text": "Dieser Tempel ist bekannt für seine ruhige Atmosphäre und die schönen Wandmalereien mit buddhistischen Geschichten.",
-                  "category": "religious",
-                  "coords": [
-                        98.982058,
-                        18.789755
-                  ]
-            },
-            {
-                  "name": "Wat Prasat",
-                  "text": "Ein seltenes Beispiel für Lanna-Architektur, bei dem der Viharn direkt mit dem Chedi verbunden ist.",
-                  "category": "religious",
-                  "coords": [
-                        98.980999,
-                        18.789794
-                  ]
-            },
-            {
-                  "name": "Wat Phra Singh",
-                  "text": "Einer der wichtigsten Tempel von Chiang Mai, der das hochverehrte Phra Singh Buddha-Bild beherbergt.",
-                  "category": "religious",
-                  "coords": [
-                        98.981406,
-                        18.788589
-                  ]
-            },
-            {
-                  "name": "Massage für 120B",
-                  "text": "Bekannt für sein großes, friedvolles Buddha-Bild und die historische Gebetshalle im Lanna-Stil.",
-                  "category": "religious",
-                  "coords": [
-                        98.983867,
-                        18.788122
                   ]
             }
       ],
@@ -9755,24 +9215,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Chedi Luang",
-                  "text": "Egy hatalmas, romos csedi otthona, amely egykor az ősi Csiangmaj legmagasabb építménye volt.",
-                  "category": "religious",
-                  "coords": [
-                        98.986737,
-                        18.786883
-                  ]
-            },
-            {
-                  "name": "Wat Lok Molee",
-                  "text": "Történelmi templom nagy, mállott tégla csedivel és egy gyönyörű teakfa viharnnal.",
-                  "category": "religious",
-                  "coords": [
-                        98.982583,
-                        18.796386
-                  ]
-            },
-            {
                   "name": "Mengrai Bridge",
                   "text": "A Ping-folyón átívelő jelentős híd, amelyet a Lanna Királyság alapítójáról neveztek el.",
                   "category": "landmark",
@@ -9788,15 +9230,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   "coords": [
                         98.974715,
                         18.82144
-                  ]
-            },
-            {
-                  "name": "Chiang Mai National Museum",
-                  "text": "Lanna stílusú műtárgyak és vallási művészeti alkotások átfogó gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        98.976429,
-                        18.811602
                   ]
             },
             {
@@ -9824,15 +9257,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   "coords": [
                         98.997269,
                         18.773503
-                  ]
-            },
-            {
-                  "name": "Wat Chiang Yuen",
-                  "text": "Ősi templom, amelyet történelmileg a Lanna-királyok koronázási szertartásaihoz használtak.",
-                  "category": "religious",
-                  "coords": [
-                        98.98878,
-                        18.796325
                   ]
             },
             {
@@ -9899,15 +9323,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Sai Moon Myanmar",
-                  "text": "Színes, burmai stílusú templom, amely a helyi san közösség befolyását tükrözi.",
-                  "category": "religious",
-                  "coords": [
-                        98.991215,
-                        18.782133
-                  ]
-            },
-            {
                   "name": "Wat Saimoonmuang",
                   "text": "Csendes templom a városárok közelében, arany csedivel és hagyományos fa viharnnal.",
                   "category": "religious",
@@ -9917,147 +9332,12 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Muentoom",
-                  "text": "Kidolgozott Lanna-stílusú bejárati kapujáról és gyönyörű dekoratív stukkómunkáiról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        98.98913,
-                        18.784141
-                  ]
-            },
-            {
-                  "name": "Wat Chet Lin - Wat Jedlin",
-                  "text": "Ebben a templomban egy nagy tó található bambuszhíddal és egy hatalmas kő Buddha-fejjel.",
-                  "category": "religious",
-                  "coords": [
-                        98.987882,
-                        18.783807
-                  ]
-            },
-            {
                   "name": "Wat Chang Taem",
                   "text": "Elegáns templom, amely egy gyönyörű, aranykoronás, Lanna-stílusú Buddha-szobrot őriz.",
                   "category": "religious",
                   "coords": [
                         98.988057,
                         18.785228
-                  ]
-            },
-            {
-                  "name": "Wat Sri Suphan",
-                  "text": "Híres lenyűgöző Ezüst Szentélyéről, amelyet teljes egészében kézzel készített, dombornyomott fémlapok borítanak.",
-                  "category": "religious",
-                  "coords": [
-                        98.983314,
-                        18.77868
-                  ]
-            },
-            {
-                  "name": "Wat Phuak Taem",
-                  "text": "Történelmileg a sárgaréz szerzetesi tálak hagyományos öntési módszerekkel történő előállításának központja.",
-                  "category": "religious",
-                  "coords": [
-                        98.983073,
-                        18.782419
-                  ]
-            },
-            {
-                  "name": "Wat Suan Dok Monk Chat",
-                  "text": "Híres a fehérre meszelt csedik hatalmas mezőjéről, amelyek a lanna királyi család maradványait őrizik.",
-                  "category": "religious",
-                  "coords": [
-                        98.967784,
-                        18.788155
-                  ]
-            },
-            {
-                  "name": "Thep Montien",
-                  "text": "Csiangmaj jelentős hindu temploma, amelyet Visnunak és Laksminak szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        98.990498,
-                        18.799161
-                  ]
-            },
-            {
-                  "name": "Wat Ku Tao",
-                  "text": "Egyedülálló csedije öt egymásra rakott gömbből áll, amelyek alamizsnagyűjtő tálakat jelképeznek.",
-                  "category": "religious",
-                  "coords": [
-                        98.988637,
-                        18.802583
-                  ]
-            },
-            {
-                  "name": "Wat Saen Mueang Ma Luang",
-                  "text": "Impozáns templom gazdagon díszített, burmai stílusú tetőkkel és aranyozott részletekkel.",
-                  "category": "religious",
-                  "coords": [
-                        98.986348,
-                        18.794001
-                  ]
-            },
-            {
-                  "name": "Wat Mo Kham Tuang",
-                  "text": "Csendes templomkomplexum hagyományos Lanna építészettel és részletes virágmotívumokkal.",
-                  "category": "religious",
-                  "coords": [
-                        98.985358,
-                        18.795017
-                  ]
-            },
-            {
-                  "name": "Wat Khuan Kama",
-                  "text": "Jellegzetessége a külső templomfalat szegélyező több tucat arany lószobor.",
-                  "category": "religious",
-                  "coords": [
-                        98.983724,
-                        18.795182
-                  ]
-            },
-            {
-                  "name": "Wat Pa Phrao Nai",
-                  "text": "Klasszikus szomszédsági templom, finoman faragott fa viharn-bejárattal.",
-                  "category": "religious",
-                  "coords": [
-                        98.980602,
-                        18.793294
-                  ]
-            },
-            {
-                  "name": "Wat Pha Bong",
-                  "text": "Ez a templom nyugodt légköréről és buddhista történeteket ábrázoló szép falfestményeiről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        98.982058,
-                        18.789755
-                  ]
-            },
-            {
-                  "name": "Wat Prasat",
-                  "text": "A Lanna építészet ritka példája, ahol a viharn közvetlenül kapcsolódik a csedihez.",
-                  "category": "religious",
-                  "coords": [
-                        98.980999,
-                        18.789794
-                  ]
-            },
-            {
-                  "name": "Wat Phra Singh",
-                  "text": "Csiangmaj egyik legfontosabb temploma, amely a nagy tiszteletben álló Phra Singh Buddha-szobrot őrzi.",
-                  "category": "religious",
-                  "coords": [
-                        98.981406,
-                        18.788589
-                  ]
-            },
-            {
-                  "name": "Wat Si Koet",
-                  "text": "Híres nagy, békés Buddha-szobráról és történelmi, Lanna-stílusú imacsarnokáról.",
-                  "category": "religious",
-                  "coords": [
-                        98.983867,
-                        18.788122
                   ]
             }
       ],
@@ -10090,24 +9370,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Chedi Luang",
-                  "text": "Adăpostește un chedi masiv în ruins, care a fost odată cea mai înaltă structură din vechiul Chiang Mai.",
-                  "category": "religious",
-                  "coords": [
-                        98.986737,
-                        18.786883
-                  ]
-            },
-            {
-                  "name": "Wat Lok Molee",
-                  "text": "Un templu istoric cu un chedi mare din cărămidă și un viharn frumos din lemn de tec.",
-                  "category": "religious",
-                  "coords": [
-                        98.982583,
-                        18.796386
-                  ]
-            },
-            {
                   "name": "Mengrai Bridge",
                   "text": "Un pod semnificativ peste râul Ping, numit după fondatorul Regatului Lanna.",
                   "category": "landmark",
@@ -10123,15 +9385,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   "coords": [
                         98.974715,
                         18.82144
-                  ]
-            },
-            {
-                  "name": "Chiang Mai National Museum",
-                  "text": "Expune o colecție cuprinzătoare de artefacte în stil Lanna și artă religioasă.",
-                  "category": "museum",
-                  "coords": [
-                        98.976429,
-                        18.811602
                   ]
             },
             {
@@ -10159,15 +9412,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   "coords": [
                         98.997269,
                         18.773503
-                  ]
-            },
-            {
-                  "name": "Wat Chiang Yuen",
-                  "text": "Un templu antic folosit istoric pentru ceremoniile de încoronare a regilor Lanna.",
-                  "category": "religious",
-                  "coords": [
-                        98.98878,
-                        18.796325
                   ]
             },
             {
@@ -10234,15 +9478,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Sai Moon Myanmar",
-                  "text": "Un templu colorat în stil birmanez, care reflectă influența comunității locale Shan.",
-                  "category": "religious",
-                  "coords": [
-                        98.991215,
-                        18.782133
-                  ]
-            },
-            {
                   "name": "Wat Saimoonmuang",
                   "text": "Un templu senin lângă șanțul orașului, cu un chedi auriu și un viharn tradițional din lemn.",
                   "category": "religious",
@@ -10252,147 +9487,12 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Muentoom",
-                  "text": "Cunoscut pentru poarta de intrare elaborată în stil Lanna și pentru frumoasele lucrări decorative în stuc.",
-                  "category": "religious",
-                  "coords": [
-                        98.98913,
-                        18.784141
-                  ]
-            },
-            {
-                  "name": "Wat Chet Lin - Wat Jedlin",
-                  "text": "Acest templu are un iaz mare cu un pod de bambus și un cap masiv de Buddha din piatră.",
-                  "category": "religious",
-                  "coords": [
-                        98.987882,
-                        18.783807
-                  ]
-            },
-            {
                   "name": "Wat Chang Taem",
                   "text": "Un templu elegant care adăpostește o frumoasă imagine a lui Buddha în stil Lanna, cu o coroană de aur.",
                   "category": "religious",
                   "coords": [
                         98.988057,
                         18.785228
-                  ]
-            },
-            {
-                  "name": "Wat Sri Suphan",
-                  "text": "Celebru pentru Altarul său de Argint uimitor, acoperit în întregime cu plăci de metal embosate manual.",
-                  "category": "religious",
-                  "coords": [
-                        98.983314,
-                        18.77868
-                  ]
-            },
-            {
-                  "name": "Wat Phuak Taem",
-                  "text": "Istoric, un centru pentru producția de boluri de alamă pentru călugări, folosind metode tradiționale de turnare.",
-                  "category": "religious",
-                  "coords": [
-                        98.983073,
-                        18.782419
-                  ]
-            },
-            {
-                  "name": "Wat Suan Dok Monk Chat",
-                  "text": "Remarcabil pentru câmpul său vast de chedi-uri văruite în alb, care conțin rămășițele membrilor familiei regale Lanna.",
-                  "category": "religious",
-                  "coords": [
-                        98.967784,
-                        18.788155
-                  ]
-            },
-            {
-                  "name": "Thep Montien",
-                  "text": "Un templu hindu proeminent din Chiang Mai, dedicat lui Vishnu și Lakshmi.",
-                  "category": "religious",
-                  "coords": [
-                        98.990498,
-                        18.799161
-                  ]
-            },
-            {
-                  "name": "Wat Ku Tao",
-                  "text": "Are un chedi unic proiectat ca o stivă de cinci sfere care reprezintă boluri de pomană.",
-                  "category": "religious",
-                  "coords": [
-                        98.988637,
-                        18.802583
-                  ]
-            },
-            {
-                  "name": "Wat Saen Mueang Ma Luang",
-                  "text": "Un templu grandios cu acoperișuri în stil birmanez puternic ornamentate și detalii aurite.",
-                  "category": "religious",
-                  "coords": [
-                        98.986348,
-                        18.794001
-                  ]
-            },
-            {
-                  "name": "Wat Mo Kham Tuang",
-                  "text": "Un complex de temple liniștit cu arhitectură tradițională Lanna și motive florale detaliate.",
-                  "category": "religious",
-                  "coords": [
-                        98.985358,
-                        18.795017
-                  ]
-            },
-            {
-                  "name": "Wat Khuan Kama",
-                  "text": "Distinctiv prin zecile de statui de cai aurii care căptușesc peretele exterior al templului.",
-                  "category": "religious",
-                  "coords": [
-                        98.983724,
-                        18.795182
-                  ]
-            },
-            {
-                  "name": "Wat Pa Phrao Nai",
-                  "text": "Un templu clasic de cartier, cu o intrare în viharn din lemn sculptat fin.",
-                  "category": "religious",
-                  "coords": [
-                        98.980602,
-                        18.793294
-                  ]
-            },
-            {
-                  "name": "Wat Pha Bong",
-                  "text": "Acest templu este cunoscut pentru atmosfera sa liniștită și picturile murale frumoase care înfățișează povești budiste.",
-                  "category": "religious",
-                  "coords": [
-                        98.982058,
-                        18.789755
-                  ]
-            },
-            {
-                  "name": "Wat Prasat",
-                  "text": "Un exemplu rar de arhitectură Lanna în care viharn-ul este conectat direct la chedi.",
-                  "category": "religious",
-                  "coords": [
-                        98.980999,
-                        18.789794
-                  ]
-            },
-            {
-                  "name": "Wat Phra Singh",
-                  "text": "Unul dintre cele mai importante temple din Chiang Mai, care adăpostește imaginea extrem de venerată a lui Phra Singh Buddha.",
-                  "category": "religious",
-                  "coords": [
-                        98.981406,
-                        18.788589
-                  ]
-            },
-            {
-                  "name": "Wat Si Koet",
-                  "text": "Remarcabil pentru imaginea sa mare și senină a lui Buddha și pentru sala de rugăciune istorică în stil Lanna.",
-                  "category": "religious",
-                  "coords": [
-                        98.983867,
-                        18.788122
                   ]
             }
       ],
@@ -10425,24 +9525,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Chedi Luang",
-                  "text": "Home to a massive ruined chedi that was once the tallest structure in ancient Chiang Mai.",
-                  "category": "religious",
-                  "coords": [
-                        98.986737,
-                        18.786883
-                  ]
-            },
-            {
-                  "name": "Wat Lok Molee",
-                  "text": "A historic temple featuring a large, weathered brick chedi and a beautiful teak viharn.",
-                  "category": "religious",
-                  "coords": [
-                        98.982583,
-                        18.796386
-                  ]
-            },
-            {
                   "name": "Mengrai Bridge",
                   "text": "A significant bridge spanning the Ping River, named after the founder of the Lanna Kingdom.",
                   "category": "landmark",
@@ -10458,15 +9540,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   "coords": [
                         98.974715,
                         18.82144
-                  ]
-            },
-            {
-                  "name": "Chiang Mai National Museum",
-                  "text": "Displays a comprehensive collection of Lanna-style artifacts and religious art.",
-                  "category": "museum",
-                  "coords": [
-                        98.976429,
-                        18.811602
                   ]
             },
             {
@@ -10494,15 +9567,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   "coords": [
                         98.997269,
                         18.773503
-                  ]
-            },
-            {
-                  "name": "Wat Chiang Yuen",
-                  "text": "An ancient temple historically used for the coronation ceremonies of Lanna kings.",
-                  "category": "religious",
-                  "coords": [
-                        98.98878,
-                        18.796325
                   ]
             },
             {
@@ -10569,15 +9633,6 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Sai Moon Myanmar",
-                  "text": "A colorful Burmese-style temple reflecting the influence of the local Shan community.",
-                  "category": "religious",
-                  "coords": [
-                        98.991215,
-                        18.782133
-                  ]
-            },
-            {
                   "name": "Wat Saimoonmuang",
                   "text": "A serene temple near the city moat, featuring a golden chedi and a traditional wooden viharn.",
                   "category": "religious",
@@ -10587,147 +9642,12 @@ export const poiExtraThailandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Muentoom",
-                  "text": "Known for its elaborate Lanna-style entrance gate and beautiful decorative stucco work.",
-                  "category": "religious",
-                  "coords": [
-                        98.98913,
-                        18.784141
-                  ]
-            },
-            {
-                  "name": "Wat Chet Lin - Wat Jedlin",
-                  "text": "This temple features a large pond with a bamboo bridge and a massive stone Buddha head.",
-                  "category": "religious",
-                  "coords": [
-                        98.987882,
-                        18.783807
-                  ]
-            },
-            {
                   "name": "Wat Chang Taem",
                   "text": "An elegant temple housing a beautiful Lanna-style Buddha image with a golden crown.",
                   "category": "religious",
                   "coords": [
                         98.988057,
                         18.785228
-                  ]
-            },
-            {
-                  "name": "Wat Sri Suphan",
-                  "text": "Famous for its striking Silver Shrine, entirely covered in hand-crafted embossed metal plates.",
-                  "category": "religious",
-                  "coords": [
-                        98.983314,
-                        18.77868
-                  ]
-            },
-            {
-                  "name": "Wat Phuak Taem",
-                  "text": "Historically a center for the production of brass monk bowls using traditional casting methods.",
-                  "category": "religious",
-                  "coords": [
-                        98.983073,
-                        18.782419
-                  ]
-            },
-            {
-                  "name": "Wat Suan Dok Monk Chat",
-                  "text": "Notable for its vast field of white-washed chedis containing the remains of Lanna royalty.",
-                  "category": "religious",
-                  "coords": [
-                        98.967784,
-                        18.788155
-                  ]
-            },
-            {
-                  "name": "Thep Montien",
-                  "text": "A prominent Hindu temple in Chiang Mai dedicated to Vishnu and Lakshmi.",
-                  "category": "religious",
-                  "coords": [
-                        98.990498,
-                        18.799161
-                  ]
-            },
-            {
-                  "name": "Wat Ku Tao",
-                  "text": "Features a unique chedi designed as a stack of five spheres representing alms bowls.",
-                  "category": "religious",
-                  "coords": [
-                        98.988637,
-                        18.802583
-                  ]
-            },
-            {
-                  "name": "Wat Saen Mueang Ma Luang",
-                  "text": "A grand temple with heavily ornamented Burmese-style roofs and gilded details.",
-                  "category": "religious",
-                  "coords": [
-                        98.986348,
-                        18.794001
-                  ]
-            },
-            {
-                  "name": "Wat Mo Kham Tuang",
-                  "text": "A quiet temple complex with traditional Lanna architecture and detailed floral motifs.",
-                  "category": "religious",
-                  "coords": [
-                        98.985358,
-                        18.795017
-                  ]
-            },
-            {
-                  "name": "Wat Khuan Kama",
-                  "text": "Distinctive for the dozens of golden horse statues lining its outer temple wall.",
-                  "category": "religious",
-                  "coords": [
-                        98.983724,
-                        18.795182
-                  ]
-            },
-            {
-                  "name": "Wat Pa Phrao Nai",
-                  "text": "A classic neighborhood temple featuring a finely carved wooden viharn entrance.",
-                  "category": "religious",
-                  "coords": [
-                        98.980602,
-                        18.793294
-                  ]
-            },
-            {
-                  "name": "Wat Pha Bong",
-                  "text": "This temple is known for its serene atmosphere and beautiful murals depicting Buddhist stories.",
-                  "category": "religious",
-                  "coords": [
-                        98.982058,
-                        18.789755
-                  ]
-            },
-            {
-                  "name": "Wat Prasat",
-                  "text": "A rare example of Lanna architecture where the viharn is directly connected to the chedi.",
-                  "category": "religious",
-                  "coords": [
-                        98.980999,
-                        18.789794
-                  ]
-            },
-            {
-                  "name": "Wat Phra Singh",
-                  "text": "One of Chiang Mai's most important temples, housing the highly revered Phra Singh Buddha image.",
-                  "category": "religious",
-                  "coords": [
-                        98.981406,
-                        18.788589
-                  ]
-            },
-            {
-                  "name": "Wat Si Koet",
-                  "text": "Notable for its large, serene Buddha image and historic Lanna-style prayer hall.",
-                  "category": "religious",
-                  "coords": [
-                        98.983867,
-                        18.788122
                   ]
             }
       ]

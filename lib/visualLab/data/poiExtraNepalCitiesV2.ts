@@ -501,24 +501,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                         85.366308,
                         27.762091
                   ]
-            },
-            {
-                  "name": "Budhanikantha entry gate",
-                  "text": "Eingangstor zum Budhanilkantha-Tempel in Budhanilkantha.",
-                  "category": "landmark",
-                  "coords": [
-                        85.362218,
-                        27.776884
-                  ]
-            },
-            {
-                  "name": "Budhanilkantha",
-                  "text": "Heilige Stätte in Budhanilkantha, bekannt für ihre berühmte liegende Vishnu-Statue.",
-                  "category": "religious",
-                  "coords": [
-                        85.362342,
-                        27.778126
-                  ]
             }
       ],
       "hu": [
@@ -529,24 +511,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                   "coords": [
                         85.366308,
                         27.762091
-                  ]
-            },
-            {
-                  "name": "Budhanikantha entry gate",
-                  "text": "A Budhanilkantha-templom bejárati kapuja Budhanilkanthában.",
-                  "category": "landmark",
-                  "coords": [
-                        85.362218,
-                        27.776884
-                  ]
-            },
-            {
-                  "name": "Budhanilkantha",
-                  "text": "Szent hely Budhanilkanthában, amely híres fekvő Visnu-szobráról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        85.362342,
-                        27.778126
                   ]
             }
       ],
@@ -559,24 +523,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                         85.366308,
                         27.762091
                   ]
-            },
-            {
-                  "name": "Budhanikantha entry gate",
-                  "text": "Poarta de intrare a templului Budhanilkantha în Budhanilkantha.",
-                  "category": "landmark",
-                  "coords": [
-                        85.362218,
-                        27.776884
-                  ]
-            },
-            {
-                  "name": "Budhanilkantha",
-                  "text": "Situl sacru din Budhanilkantha, cunoscut pentru celebra sa statuie a lui Vishnu culcat.",
-                  "category": "religious",
-                  "coords": [
-                        85.362342,
-                        27.778126
-                  ]
             }
       ],
       "en": [
@@ -587,24 +533,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                   "coords": [
                         85.366308,
                         27.762091
-                  ]
-            },
-            {
-                  "name": "Budhanikantha entry gate",
-                  "text": "Entry gate of the Budhanilkantha Temple in Budhanilkantha.",
-                  "category": "landmark",
-                  "coords": [
-                        85.362218,
-                        27.776884
-                  ]
-            },
-            {
-                  "name": "Budhanilkantha",
-                  "text": "Sacred site in Budhanilkantha, known for its famous reclining Vishnu statue.",
-                  "category": "religious",
-                  "coords": [
-                        85.362342,
-                        27.778126
                   ]
             }
       ]
@@ -665,24 +593,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                         85.26688,
                         27.745211
                   ]
-            },
-            {
-                  "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju-Ajima-Mai-Tempel in Tarakeshwar.",
-                  "category": "landmark",
-                  "coords": [
-                        85.31214,
-                        27.752077
-                  ]
-            },
-            {
-                  "name": "Decoration and Fine Art Gallery",
-                  "text": "Galerie für Dekoration und Bildende Kunst in Tarakeshwar.",
-                  "category": "museum",
-                  "coords": [
-                        85.315746,
-                        27.748946
-                  ]
             }
       ],
       "hu": [
@@ -693,24 +603,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                   "coords": [
                         85.26688,
                         27.745211
-                  ]
-            },
-            {
-                  "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju Ajima Mai templom Tarakeshurban.",
-                  "category": "landmark",
-                  "coords": [
-                        85.31214,
-                        27.752077
-                  ]
-            },
-            {
-                  "name": "Decoration and Fine Art Gallery",
-                  "text": "Díszítő- és Képzőművészeti Galéria Tarakeshurban.",
-                  "category": "museum",
-                  "coords": [
-                        85.315746,
-                        27.748946
                   ]
             }
       ],
@@ -723,24 +615,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                         85.26688,
                         27.745211
                   ]
-            },
-            {
-                  "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Templul Manamaiju Ajima Mai din Tarakeshwar.",
-                  "category": "landmark",
-                  "coords": [
-                        85.31214,
-                        27.752077
-                  ]
-            },
-            {
-                  "name": "Decoration and Fine Art Gallery",
-                  "text": "Galerie de Decorație și Artă Fină în Tarakeshwar.",
-                  "category": "museum",
-                  "coords": [
-                        85.315746,
-                        27.748946
-                  ]
             }
       ],
       "en": [
@@ -751,24 +625,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                   "coords": [
                         85.26688,
                         27.745211
-                  ]
-            },
-            {
-                  "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Manamaiju Ajima Mai Temple in Tarakeshwar.",
-                  "category": "landmark",
-                  "coords": [
-                        85.31214,
-                        27.752077
-                  ]
-            },
-            {
-                  "name": "Decoration and Fine Art Gallery",
-                  "text": "Decoration and Fine Art Gallery in Tarakeshwar.",
-                  "category": "museum",
-                  "coords": [
-                        85.315746,
-                        27.748946
                   ]
             }
       ]
@@ -2334,69 +2190,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "suryabinayak-cities-v2", "sights": {
       "de": [
             {
-                  "name": "sandip khanal",
-                  "text": "Sandip-Khanal-Burg in Suryabinayak.",
-                  "category": "castle",
-                  "coords": [
-                        85.415554,
-                        27.663709
-                  ]
-            },
-            {
-                  "name": "Nyatapola Temple",
-                  "text": "Fünfstöckige Pagode, die höchste in Nepal, erbaut 1702 in Bhaktapur.",
-                  "category": "historical",
-                  "coords": [
-                        85.429372,
-                        27.67141
-                  ]
-            },
-            {
-                  "name": "International Green Developers Nepal",
-                  "text": "Büro der International Green Developers Nepal in Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.442811,
-                        27.667091
-                  ]
-            },
-            {
-                  "name": "Dabu (Dance Platform)",
-                  "text": "Historische Tanzplattform Dabu in Suryabinayak.",
-                  "category": "historical",
-                  "coords": [
-                        85.427766,
-                        27.672117
-                  ]
-            },
-            {
-                  "name": "Pottery Square (Talako Tole)",
-                  "text": "Töpferplatz (Talako Tole) in Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.427743,
-                        27.669897
-                  ]
-            },
-            {
-                  "name": "Cremation Site",
-                  "text": "Einäscherungsplatz in Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.430726,
-                        27.668279
-                  ]
-            },
-            {
-                  "name": "Bhajyu Pukhu",
-                  "text": "Bhajyu Pukhu – Teich in Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.420929,
-                        27.670594
-                  ]
-            },
-            {
                   "name": "Pilot Baba Ashram",
                   "text": "Pilot Baba Ashram in Suryabinayak.",
                   "category": "landmark",
@@ -2404,81 +2197,9 @@ export const poiExtraNepalCitiesV2: POI[] = [
                         85.422529,
                         27.640523
                   ]
-            },
-            {
-                  "name": "Shilu Mahadev (Fasidega)",
-                  "text": "Ein hinduistischer Tempel, der Lord Shiva in Suryabinayak, Nepal, gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        85.428908,
-                        27.672409
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "sandip khanal",
-                  "text": "Sandip Khanal vára Suryabinayakban.",
-                  "category": "castle",
-                  "coords": [
-                        85.415554,
-                        27.663709
-                  ]
-            },
-            {
-                  "name": "Nyatapola Temple",
-                  "text": "Ötszintes pagoda, a legmagasabb Nepálban, 1702-ben épült Bhaktapurban.",
-                  "category": "historical",
-                  "coords": [
-                        85.429372,
-                        27.67141
-                  ]
-            },
-            {
-                  "name": "International Green Developers Nepal",
-                  "text": "Az International Green Developers Nepal irodája Suryabinayakban.",
-                  "category": "landmark",
-                  "coords": [
-                        85.442811,
-                        27.667091
-                  ]
-            },
-            {
-                  "name": "Dabu (Dance Platform)",
-                  "text": "Történelmi táncplatform, Dabu, Suryabinayakban.",
-                  "category": "historical",
-                  "coords": [
-                        85.427766,
-                        27.672117
-                  ]
-            },
-            {
-                  "name": "Pottery Square (Talako Tole)",
-                  "text": "Fazekas tér (Talako Tole) Suryabinayakban.",
-                  "category": "landmark",
-                  "coords": [
-                        85.427743,
-                        27.669897
-                  ]
-            },
-            {
-                  "name": "Cremation Site",
-                  "text": "Krematórium Suryabinayakban.",
-                  "category": "landmark",
-                  "coords": [
-                        85.430726,
-                        27.668279
-                  ]
-            },
-            {
-                  "name": "Bhajyu Pukhu",
-                  "text": "Bhajyu Pukhu – tó Suryabinayakban.",
-                  "category": "landmark",
-                  "coords": [
-                        85.420929,
-                        27.670594
-                  ]
-            },
             {
                   "name": "Pilot Baba Ashram",
                   "text": "Pilot Baba ashram Suryabinayakban.",
@@ -2487,81 +2208,9 @@ export const poiExtraNepalCitiesV2: POI[] = [
                         85.422529,
                         27.640523
                   ]
-            },
-            {
-                  "name": "Shilu Mahadev (Fasidega)",
-                  "text": "Egy hindu templom, amelyet Lord Shivának szenteltek Suryabinayakban, Nepálban.",
-                  "category": "religious",
-                  "coords": [
-                        85.428908,
-                        27.672409
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "sandip khanal",
-                  "text": "Castelul Sandip Khanal din Suryabinayak.",
-                  "category": "castle",
-                  "coords": [
-                        85.415554,
-                        27.663709
-                  ]
-            },
-            {
-                  "name": "Nyatapola Temple",
-                  "text": "Pagodă cu cinci etaje, cea mai înaltă din Nepal, construită în 1702 în Bhaktapur.",
-                  "category": "historical",
-                  "coords": [
-                        85.429372,
-                        27.67141
-                  ]
-            },
-            {
-                  "name": "International Green Developers Nepal",
-                  "text": "Sediu International Green Developers Nepal în Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.442811,
-                        27.667091
-                  ]
-            },
-            {
-                  "name": "Dabu (Dance Platform)",
-                  "text": "Platformă de dans istorică Dabu în Suryabinayak.",
-                  "category": "historical",
-                  "coords": [
-                        85.427766,
-                        27.672117
-                  ]
-            },
-            {
-                  "name": "Pottery Square (Talako Tole)",
-                  "text": "Piața Olarilor (Talako Tole) în Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.427743,
-                        27.669897
-                  ]
-            },
-            {
-                  "name": "Cremation Site",
-                  "text": "Loc de incinerare în Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.430726,
-                        27.668279
-                  ]
-            },
-            {
-                  "name": "Bhajyu Pukhu",
-                  "text": "Bhajyu Pukhu – iaz în Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.420929,
-                        27.670594
-                  ]
-            },
             {
                   "name": "Pilot Baba Ashram",
                   "text": "Ashramul Pilot Baba din Suryabinayak.",
@@ -2570,81 +2219,9 @@ export const poiExtraNepalCitiesV2: POI[] = [
                         85.422529,
                         27.640523
                   ]
-            },
-            {
-                  "name": "Shilu Mahadev (Fasidega)",
-                  "text": "Un templu hindus dedicat lordului Shiva în Suryabinayak, Nepal.",
-                  "category": "religious",
-                  "coords": [
-                        85.428908,
-                        27.672409
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "sandip khanal",
-                  "text": "Sandip Khanal castle in Suryabinayak.",
-                  "category": "castle",
-                  "coords": [
-                        85.415554,
-                        27.663709
-                  ]
-            },
-            {
-                  "name": "Nyatapola Temple",
-                  "text": "Five-tiered pagoda, tallest in Nepal, built in 1702 in Bhaktapur.",
-                  "category": "historical",
-                  "coords": [
-                        85.429372,
-                        27.67141
-                  ]
-            },
-            {
-                  "name": "International Green Developers Nepal",
-                  "text": "International Green Developers Nepal office in Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.442811,
-                        27.667091
-                  ]
-            },
-            {
-                  "name": "Dabu (Dance Platform)",
-                  "text": "Historical dance platform Dabu in Suryabinayak.",
-                  "category": "historical",
-                  "coords": [
-                        85.427766,
-                        27.672117
-                  ]
-            },
-            {
-                  "name": "Pottery Square (Talako Tole)",
-                  "text": "Pottery Square (Talako Tole) in Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.427743,
-                        27.669897
-                  ]
-            },
-            {
-                  "name": "Cremation Site",
-                  "text": "Cremation site in Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.430726,
-                        27.668279
-                  ]
-            },
-            {
-                  "name": "Bhajyu Pukhu",
-                  "text": "Bhajyu Pukhu pond in Suryabinayak.",
-                  "category": "landmark",
-                  "coords": [
-                        85.420929,
-                        27.670594
-                  ]
-            },
             {
                   "name": "Pilot Baba Ashram",
                   "text": "Pilot Baba Ashram in Suryabinayak.",
@@ -2652,15 +2229,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
                   "coords": [
                         85.422529,
                         27.640523
-                  ]
-            },
-            {
-                  "name": "Shilu Mahadev (Fasidega)",
-                  "text": "A Hindu temple dedicated to Lord Shiva in Suryabinayak, Nepal.",
-                  "category": "religious",
-                  "coords": [
-                        85.428908,
-                        27.672409
                   ]
             }
       ]
@@ -3486,24 +3054,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
     id: "kageshwari-manohara-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Changu Museum",
-                  "text": "Changu-Museum nahe dem Changu-Narayan-Tempel in Manohara.",
-                  "category": "museum",
-                  "coords": [
-                        85.429241,
-                        27.716517
-                  ]
-            },
-            {
-                  "name": "Changu Narayan Temple",
-                  "text": "Changu Narayan Tempel bei Manohara, hinduistischer Vishnu-Tempel auf einem Hügel, UNESCO-Welterbe.",
-                  "category": "historical",
-                  "coords": [
-                        85.427897,
-                        27.716347
-                  ]
-            },
-            {
                   "name": "Gam Dhoka Park",
                   "text": "Gam Dhoka Park – Grünfläche in Manohara.",
                   "category": "natural",
@@ -3514,24 +3064,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Changu Museum",
-                  "text": "Changu Múzeum a Changu Narayan templom közelében Manoharában.",
-                  "category": "museum",
-                  "coords": [
-                        85.429241,
-                        27.716517
-                  ]
-            },
-            {
-                  "name": "Changu Narayan Temple",
-                  "text": "Changu Narayan templom Manohara közelében, hindu Visnu-templom egy dombon, UNESCO világörökség.",
-                  "category": "historical",
-                  "coords": [
-                        85.427897,
-                        27.716347
-                  ]
-            },
             {
                   "name": "Gam Dhoka Park",
                   "text": "Gam Dhoka Park – zöldterület Manoharában.",
@@ -3544,24 +3076,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Changu Museum",
-                  "text": "Muzeul Changu lângă templul Changu Narayan din Manohara.",
-                  "category": "museum",
-                  "coords": [
-                        85.429241,
-                        27.716517
-                  ]
-            },
-            {
-                  "name": "Changu Narayan Temple",
-                  "text": "Templul Changu Narayan lângă Manohara, templu hindus dedicat lui Vishnu pe o colină, patrimoniu UNESCO.",
-                  "category": "historical",
-                  "coords": [
-                        85.427897,
-                        27.716347
-                  ]
-            },
-            {
                   "name": "Gam Dhoka Park",
                   "text": "Parcul Gam Dhoka – spațiu verde în Manohara.",
                   "category": "natural",
@@ -3572,24 +3086,6 @@ export const poiExtraNepalCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Changu Museum",
-                  "text": "Changu Museum near the Changu Narayan temple in Manohara.",
-                  "category": "museum",
-                  "coords": [
-                        85.429241,
-                        27.716517
-                  ]
-            },
-            {
-                  "name": "Changu Narayan Temple",
-                  "text": "Changu Narayan Temple near Manohara, a Hindu temple dedicated to Vishnu on a hilltop, UNESCO World Heritage.",
-                  "category": "historical",
-                  "coords": [
-                        85.427897,
-                        27.716347
-                  ]
-            },
             {
                   "name": "Gam Dhoka Park",
                   "text": "Gam Dhoka Park green space in Manohara.",

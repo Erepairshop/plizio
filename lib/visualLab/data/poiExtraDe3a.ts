@@ -210,24 +210,6 @@ export const poiExtraDe3a: POI[] = [
                   ]
             },
             {
-                  "name": "Freibad Stralsund",
-                  "text": "Öffentliches Freibad und Badestrand am Strelasund in Stralsund.",
-                  "category": "recreational",
-                  "coords": [
-                        13.083862,
-                        54.329813
-                  ]
-            },
-            {
-                  "name": "Schwemmi",
-                  "text": "Beliebter lokaler Badestrand in Stralsund für Erholung am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        13.118486,
-                        54.313182
-                  ]
-            },
-            {
                   "name": "Moorteich",
                   "text": "Der Moorteich in Stralsund ist ein mooriges Gewässer mit seltenen Pflanzenarten.",
                   "category": "natural",
@@ -511,24 +493,6 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.08908,
                         54.316182
-                  ]
-            },
-            {
-                  "name": "Freibad Stralsund",
-                  "text": "Nyilvános strand és szabadtéri fürdő Stralsundban, a Strelasund partján.",
-                  "category": "recreational",
-                  "coords": [
-                        13.083862,
-                        54.329813
-                  ]
-            },
-            {
-                  "name": "Schwemmi",
-                  "text": "Népszerű helyi strand Stralsundban a vízparti kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        13.118486,
-                        54.313182
                   ]
             },
             {
@@ -818,24 +782,6 @@ export const poiExtraDe3a: POI[] = [
                   ]
             },
             {
-                  "name": "Freibad Stralsund",
-                  "text": "Ștrand public și zonă de îmbăiere pe malul Strelasund în Stralsund.",
-                  "category": "recreational",
-                  "coords": [
-                        13.083862,
-                        54.329813
-                  ]
-            },
-            {
-                  "name": "Schwemmi",
-                  "text": "Plajă locală populară în Stralsund pentru recreere pe malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        13.118486,
-                        54.313182
-                  ]
-            },
-            {
                   "name": "Moorteich",
                   "text": "Moorteich din Stralsund este un corp de apă mlăștinos cu specii rare de plante.",
                   "category": "natural",
@@ -1119,24 +1065,6 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         13.08908,
                         54.316182
-                  ]
-            },
-            {
-                  "name": "Freibad Stralsund",
-                  "text": "Public outdoor swimming area and beach on the Strelasund in Stralsund.",
-                  "category": "recreational",
-                  "coords": [
-                        13.083862,
-                        54.329813
-                  ]
-            },
-            {
-                  "name": "Schwemmi",
-                  "text": "Popular local bathing beach in Stralsund for waterfront recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        13.118486,
-                        54.313182
                   ]
             },
             {
@@ -4233,15 +4161,6 @@ export const poiExtraDe3a: POI[] = [
                   ]
             },
             {
-                  "name": "Ostseebad",
-                  "text": "Ein beliebter Badestrand an der Flensburger Förde mit Blick auf die Ostsee.",
-                  "category": "recreational",
-                  "coords": [
-                        9.430626,
-                        54.812288
-                  ]
-            },
-            {
                   "name": "Wehrgeschichtliches Ausbildungszentrum (WGAZ)",
                   "text": "Ein militärhistorisches Museum, das in der ehemaligen Kommandeursvilla in Flensburg untergebracht ist.",
                   "category": "museum",
@@ -4533,15 +4452,6 @@ export const poiExtraDe3a: POI[] = [
                   ]
             },
             {
-                  "name": "Ostseebad",
-                  "text": "Népszerű strand a Flensburgi-fjord partján, kilátással a Balti-tengerre.",
-                  "category": "recreational",
-                  "coords": [
-                        9.430626,
-                        54.812288
-                  ]
-            },
-            {
                   "name": "Wehrgeschichtliches Ausbildungszentrum (WGAZ)",
                   "text": "Hadtörténeti múzeum, amely a tengerészeti iskola egykori parancsnoki villájában található.",
                   "category": "museum",
@@ -4830,15 +4740,6 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         9.440401,
                         54.785712
-                  ]
-            },
-            {
-                  "name": "Ostseebad",
-                  "text": "O plajă populară la fiordul Flensburg, cu vedere la Marea Baltică.",
-                  "category": "recreational",
-                  "coords": [
-                        9.430626,
-                        54.812288
                   ]
             },
             {
@@ -5144,15 +5045,6 @@ export const poiExtraDe3a: POI[] = [
                   "coords": [
                         9.440401,
                         54.785712
-                  ]
-            },
-            {
-                  "name": "Ostseebad",
-                  "text": "A popular swimming beach on the Flensburg Fjord with views of the Baltic Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        9.430626,
-                        54.812288
                   ]
             },
             {

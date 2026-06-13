@@ -225,15 +225,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "new-taipei-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Yuan Ze Memorial Hall",
-                  "text": "Ein Museum in Neu-Taipeh, das dem Gedenken und der Kultur gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        121.4529,
-                        25.000271
-                  ]
-            },
-            {
                   "name": "Taipower D/S One",
                   "text": "Ein modernes Museum in Neu-Taipeh, das sich mit Energie und Technik befasst.",
                   "category": "museum",
@@ -342,24 +333,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jieyun Temple",
-                  "text": "Ein bedeutender buddhistischer Tempel in Neu-Taipeh.",
-                  "category": "religious",
-                  "coords": [
-                        121.454464,
-                        25.00895
-                  ]
-            },
-            {
-                  "name": "Nanya Night Market",
-                  "text": "Ein lebhafter Nachtmarkt in Neu-Taipeh, bekannt für Street Food.",
-                  "category": "landmark",
-                  "coords": [
-                        121.454733,
-                        25.007071
-                  ]
-            },
-            {
                   "name": "Wanban Bridge",
                   "text": "Eine wichtige Straßenbrücke, die Teile von Neu-Taipeh verbindet.",
                   "category": "landmark",
@@ -397,15 +370,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Yuan Ze Memorial Hall",
-                  "text": "Neu-Taipeh egyik múzeuma, amelyet az emlékezetnek és a kultúrának szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        121.4529,
-                        25.000271
-                  ]
-            },
             {
                   "name": "Taipower D/S One",
                   "text": "Neu-Taipeh modern múzeuma, amely az energiával és a technológiával foglalkozik.",
@@ -515,24 +479,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jieyun Temple",
-                  "text": "Jelentős buddhista templom Neu-Taipeh városában.",
-                  "category": "religious",
-                  "coords": [
-                        121.454464,
-                        25.00895
-                  ]
-            },
-            {
-                  "name": "Nanya Night Market",
-                  "text": "Nyüzsgő éjszakai piac Neu-Taipehben, amely utcai ételeiről híres.",
-                  "category": "landmark",
-                  "coords": [
-                        121.454733,
-                        25.007071
-                  ]
-            },
-            {
                   "name": "Wanban Bridge",
                   "text": "Fontos közúti híd, amely Neu-Taipeh részeit köti össze.",
                   "category": "landmark",
@@ -570,15 +516,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Yuan Ze Memorial Hall",
-                  "text": "Un muzeu în New Taipei City dedicat memoriei și culturii.",
-                  "category": "museum",
-                  "coords": [
-                        121.4529,
-                        25.000271
-                  ]
-            },
             {
                   "name": "Taipower D/S One",
                   "text": "Un muzeu modern în New Taipei City axat pe energie și tehnologie.",
@@ -688,24 +625,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jieyun Temple",
-                  "text": "Un templu budist important situat în New Taipei City.",
-                  "category": "religious",
-                  "coords": [
-                        121.454464,
-                        25.00895
-                  ]
-            },
-            {
-                  "name": "Nanya Night Market",
-                  "text": "O piață de noapte plină de viață în New Taipei City, faimoasă pentru mâncarea stradală.",
-                  "category": "landmark",
-                  "coords": [
-                        121.454733,
-                        25.007071
-                  ]
-            },
-            {
                   "name": "Wanban Bridge",
                   "text": "Un pod rutier important care conectează părți ale New Taipei City.",
                   "category": "landmark",
@@ -743,15 +662,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Yuan Ze Memorial Hall",
-                  "text": "A museum in New Taipei City dedicated to memorial and cultural heritage.",
-                  "category": "museum",
-                  "coords": [
-                        121.4529,
-                        25.000271
-                  ]
-            },
             {
                   "name": "TAIPOWER D/S ONE",
                   "text": "A modern museum in New Taipei City focused on energy and technology.",
@@ -825,15 +735,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fz Fifteen",
-                  "text": "An arts centre in New Taipei City specializing in animation and storytelling.",
-                  "category": "cultural",
-                  "coords": [
-                        121.459525,
-                        25.009449
-                  ]
-            },
-            {
                   "name": "Huazhong Riverside Park",
                   "text": "Huazhong Riverside Park stretches along the Keelung River in Taipei.",
                   "category": "park",
@@ -861,24 +762,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jieyun Temple",
-                  "text": "An important Buddhist temple located in New Taipei City.",
-                  "category": "religious",
-                  "coords": [
-                        121.454464,
-                        25.00895
-                  ]
-            },
-            {
-                  "name": "Nanya Night Market",
-                  "text": "A bustling night market in New Taipei City famous for its street food.",
-                  "category": "landmark",
-                  "coords": [
-                        121.454733,
-                        25.007071
-                  ]
-            },
-            {
                   "name": "Wanban Bridge",
                   "text": "An important road bridge connecting parts of New Taipei City.",
                   "category": "landmark",
@@ -903,15 +786,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   "coords": [
                         121.488241,
                         25.023672
-                  ]
-            },
-            {
-                  "name": "Fujhou Bridge",
-                  "text": "Fujhou Bridge is a road bridge over the Dahan River, part of a provincial highway in Taipei.",
-                  "category": "landmark",
-                  "coords": [
-                        121.437684,
-                        24.995228
                   ]
             }
       ]
@@ -2808,15 +2682,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
     id: "tainan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "National Museum of Taiwan Literature",
-                  "text": "Das Nationalmuseum für Taiwanische Literatur ist im ehemaligen Rathaus von Tainan untergebracht, einem japanischen Kolonialgebäude.",
-                  "category": "museum",
-                  "coords": [
-                        120.204388,
-                        22.991747
-                  ]
-            },
-            {
                   "name": "National Cheng Kung University Museum",
                   "text": "Ein Universitätsmuseum in Tainan, das akademische Sammlungen zeigt.",
                   "category": "museum",
@@ -2904,15 +2769,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   "coords": [
                         120.212986,
                         22.998967
-                  ]
-            },
-            {
-                  "name": "Former Tainan District Court",
-                  "text": "Das ehemalige Bezirksgericht Tainan ist ein neoklassizistisches Gebäude von 1912 mit einer markanten Kuppel.",
-                  "category": "historical",
-                  "coords": [
-                        120.201148,
-                        22.989318
                   ]
             },
             {
@@ -3060,30 +2916,12 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mituo Temple",
-                  "text": "Der Mituo-Tempel ist ein buddhistischer Tempel in Tainan, der Amitabha gewidmet ist, mit einer Pagode im Innenhof.",
-                  "category": "religious",
-                  "coords": [
-                        120.214473,
-                        22.988642
-                  ]
-            },
-            {
                   "name": "Linshui Madame Temple",
                   "text": "Ein bekannter Tempel in Tainan, der der Fruchtbarkeitsgöttin Lady Linshui gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         120.207072,
                         22.988269
-                  ]
-            },
-            {
-                  "name": "Puji Temple",
-                  "text": "Ein geschichtsträchtiger Tempel in Tainan, bekannt für seine Laternenausstellungen.",
-                  "category": "religious",
-                  "coords": [
-                        120.19918,
-                        22.99881
                   ]
             },
             {
@@ -3115,15 +2953,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "National Museum of Taiwan Literature",
-                  "text": "A Tajvani Irodalom Nemzeti Múzeuma Tainan egykori városházájában kapott helyet, egy japán gyarmati épületben.",
-                  "category": "museum",
-                  "coords": [
-                        120.204388,
-                        22.991747
-                  ]
-            },
             {
                   "name": "National Cheng Kung University Museum",
                   "text": "Egyetemi múzeum Tainanban, amely akadémiai gyűjteményeket mutat be.",
@@ -3212,15 +3041,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   "coords": [
                         120.212986,
                         22.998967
-                  ]
-            },
-            {
-                  "name": "Former Tainan District Court",
-                  "text": "A volt Tainani Kerületi Bíróság egy 1912-ben épült neoklasszikus épület, jellegzetes kupolával.",
-                  "category": "historical",
-                  "coords": [
-                        120.201148,
-                        22.989318
                   ]
             },
             {
@@ -3368,30 +3188,12 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mituo Temple",
-                  "text": "A Mituo-templom egy buddhista templom Tainanban, amely Amitábhának van szentelve, pagodával az udvarán.",
-                  "category": "religious",
-                  "coords": [
-                        120.214473,
-                        22.988642
-                  ]
-            },
-            {
                   "name": "Linshui Madame Temple",
                   "text": "Tainan egyik ismert temploma, amelyet Lady Linshui termékenységistennőnek szenteltek.",
                   "category": "religious",
                   "coords": [
                         120.207072,
                         22.988269
-                  ]
-            },
-            {
-                  "name": "Puji Temple",
-                  "text": "Történelmi templom Tainanban, amely lámpásfesztiváljairól ismert.",
-                  "category": "religious",
-                  "coords": [
-                        120.19918,
-                        22.99881
                   ]
             },
             {
@@ -3423,15 +3225,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "National Museum of Taiwan Literature",
-                  "text": "Muzeul Național de Literatură Taiwană este găzduit în fosta primărie a orașului Tainan, o clădire din perioada colonială japoneză.",
-                  "category": "museum",
-                  "coords": [
-                        120.204388,
-                        22.991747
-                  ]
-            },
             {
                   "name": "National Cheng Kung University Museum",
                   "text": "Un muzeu universitar din Tainan care prezintă colecții academice.",
@@ -3520,15 +3313,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   "coords": [
                         120.212986,
                         22.998967
-                  ]
-            },
-            {
-                  "name": "Former Tainan District Court",
-                  "text": "Fosta Curte Districtuală din Tainan este o clădire neoclasică din 1912, cu o cupolă distinctivă.",
-                  "category": "historical",
-                  "coords": [
-                        120.201148,
-                        22.989318
                   ]
             },
             {
@@ -3676,30 +3460,12 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mituo Temple",
-                  "text": "Templul Mituo este un templu budist din Tainan, dedicat lui Amitabha, cu o pagodă în curte.",
-                  "category": "religious",
-                  "coords": [
-                        120.214473,
-                        22.988642
-                  ]
-            },
-            {
                   "name": "Linshui Madame Temple",
                   "text": "Un templu cunoscut din Tainan, dedicat zeiței fertilității Lady Linshui.",
                   "category": "religious",
                   "coords": [
                         120.207072,
                         22.988269
-                  ]
-            },
-            {
-                  "name": "Puji Temple",
-                  "text": "Un templu istoric din Tainan, cunoscut pentru expozițiile sale de lampioane.",
-                  "category": "religious",
-                  "coords": [
-                        120.19918,
-                        22.99881
                   ]
             },
             {
@@ -3732,15 +3498,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "National Museum of Taiwan Literature",
-                  "text": "The National Museum of Taiwan Literature is housed in the former Tainan City Hall, a Japanese colonial building.",
-                  "category": "museum",
-                  "coords": [
-                        120.204388,
-                        22.991747
-                  ]
-            },
-            {
                   "name": "National Cheng Kung University Museum",
                   "text": "A university museum in Tainan showcasing academic and historical collections.",
                   "category": "museum",
@@ -3768,15 +3525,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Forest of Steles at Great South Gate",
-                  "text": "A significant collection of historical stone steles at the Great South Gate in Tainan.",
-                  "category": "historical",
-                  "coords": [
-                        120.20299,
-                        22.986527
-                  ]
-            },
-            {
                   "name": "Tainan Municipal Cultural Center",
                   "text": "A key venue for performing arts and cultural events in Tainan.",
                   "category": "cultural",
@@ -3786,57 +3534,12 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fort Provintia",
-                  "text": "The ruins of a 17th-century Dutch fortress in Tainan, also known as Chihkan Tower.",
-                  "category": "historical",
-                  "coords": [
-                        120.20275,
-                        22.997771
-                  ]
-            },
-            {
                   "name": "Tainan Park",
                   "text": "The oldest urban park in Tainan, featuring historic pavilions and ponds.",
                   "category": "park",
                   "coords": [
                         120.211197,
                         23.002224
-                  ]
-            },
-            {
-                  "name": "WuFei Temple",
-                  "text": "A historic temple site in Tainan maintained as a park area.",
-                  "category": "park",
-                  "coords": [
-                        120.205054,
-                        22.982008
-                  ]
-            },
-            {
-                  "name": "Tainan Public Meeting Hall",
-                  "text": "Tainan Public Meeting Hall is a historic Baroque-style public hall built in 1911 during Japanese rule.",
-                  "category": "historical",
-                  "coords": [
-                        120.206104,
-                        22.994455
-                  ]
-            },
-            {
-                  "name": "Starbucks",
-                  "text": "A Starbucks in Tainan housed in a heritage monument building.",
-                  "category": "historical",
-                  "coords": [
-                        120.212986,
-                        22.998967
-                  ]
-            },
-            {
-                  "name": "Former Tainan District Court",
-                  "text": "The Former Tainan District Court is a neoclassical building from 1912 with a distinctive dome.",
-                  "category": "historical",
-                  "coords": [
-                        120.201148,
-                        22.989318
                   ]
             },
             {
@@ -3855,15 +3558,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   "coords": [
                         120.204096,
                         22.993704
-                  ]
-            },
-            {
-                  "name": "Old Tainan Minister's Official Residence",
-                  "text": "A heritage monument that formerly served as the minister's official residence in Tainan.",
-                  "category": "historical",
-                  "coords": [
-                        120.215086,
-                        22.993335
                   ]
             },
             {
@@ -3948,24 +3642,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Singji Temple",
-                  "text": "A significant temple complex in Tainan for Buddhist and Taoist worship.",
-                  "category": "religious",
-                  "coords": [
-                        120.206289,
-                        22.998466
-                  ]
-            },
-            {
-                  "name": "Zhusanduo Temple",
-                  "text": "A historical temple in Tainan that serves as a place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        120.212803,
-                        22.988632
-                  ]
-            },
-            {
                   "name": "Da Dong Night Market",
                   "text": "A popular night market in Tainan known for its local street food.",
                   "category": "landmark",
@@ -3975,39 +3651,12 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Grand Matsu Temple",
-                  "text": "A significant temple in Tainan dedicated to the sea goddess Matsu.",
-                  "category": "religious",
-                  "coords": [
-                        120.201742,
-                        22.996536
-                  ]
-            },
-            {
-                  "name": "Mituo Temple",
-                  "text": "Mituo Temple is a Buddhist temple in Tainan dedicated to Amitabha, featuring a pagoda in its courtyard.",
-                  "category": "religious",
-                  "coords": [
-                        120.214473,
-                        22.988642
-                  ]
-            },
-            {
                   "name": "Lady Linshui Temple",
                   "text": "A well-known temple in Tainan dedicated to the fertility goddess Lady Linshui.",
                   "category": "religious",
                   "coords": [
                         120.207072,
                         22.988269
-                  ]
-            },
-            {
-                  "name": "Puji Temple",
-                  "text": "A historical temple in Tainan known for its lantern displays.",
-                  "category": "religious",
-                  "coords": [
-                        120.19918,
-                        22.99881
                   ]
             },
             {
@@ -5505,15 +5154,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shibajianshan",
-                  "text": "A popular hiking hill in Hsinchu with viewpoints over the city.",
-                  "category": "natural",
-                  "coords": [
-                        120.984607,
-                        24.792532
-                  ]
-            },
-            {
                   "name": "Lee Tze-Fan Memorial Art Gallery",
                   "text": "Lee Tze-Fan Memorial Art Gallery displays watercolors by Lee Tze-Fan in a Japanese-era wooden house.",
                   "category": "cultural",
@@ -5529,15 +5169,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   "coords": [
                         120.966966,
                         24.814101
-                  ]
-            },
-            {
-                  "name": "Chituqi Park",
-                  "text": "A public park in Hsinchu providing a space for recreation.",
-                  "category": "park",
-                  "coords": [
-                        120.993803,
-                        24.798848
                   ]
             },
             {
@@ -9990,15 +9621,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Xinjuzhuangshan",
-                  "text": "Ein Hügel in Zhudong, Landkreis Hsinchu, Taiwan.",
-                  "category": "natural",
-                  "coords": [
-                        121.071353,
-                        24.716105
-                  ]
-            },
-            {
                   "name": "Wah! Zhudong",
                   "text": "Ein lokaler Kultur- und Marktplatz in Zhudong, der für sein Kunsthandwerk und kulinarische Angebote bekannt ist.",
                   "category": "landmark",
@@ -10025,15 +9647,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   "coords": [
                         121.087604,
                         24.739576
-                  ]
-            },
-            {
-                  "name": "Xinjuzhuangshan",
-                  "text": "Egy domb Zhudongban, Hszincsu megyében, Tajvanon.",
-                  "category": "natural",
-                  "coords": [
-                        121.071353,
-                        24.716105
                   ]
             },
             {
@@ -10066,15 +9679,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Xinjuzhuangshan",
-                  "text": "Un deal în Zhudong, județul Hsinchu, Taiwan.",
-                  "category": "natural",
-                  "coords": [
-                        121.071353,
-                        24.716105
-                  ]
-            },
-            {
                   "name": "Wah! Zhudong",
                   "text": "O piață culturală locală în Zhudong, renumită pentru artizanat și specialități culinare.",
                   "category": "landmark",
@@ -10101,15 +9705,6 @@ export const poiExtraTaiwanCitiesV2: POI[] = [
                   "coords": [
                         121.087604,
                         24.739576
-                  ]
-            },
-            {
-                  "name": "Xinjuzhuangshan",
-                  "text": "A hill in Zhudong, Hsinchu County, Taiwan.",
-                  "category": "natural",
-                  "coords": [
-                        121.071353,
-                        24.716105
                   ]
             },
             {

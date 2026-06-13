@@ -6,42 +6,6 @@ export const serbiaNatureV2: POI[] = [
     id: "serbia-raska-river-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Manastir Djurdjevi Stupovi",
-                  "text": "Das Kloster Đurđevi stupovi ist ein serbisch-orthodoxes Kloster aus dem 12. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        20.497666,
-                        43.165844
-                  ]
-            },
-            {
-                  "name": "Fence - not possible to cross",
-                  "text": "Ein Aussichtspunkt am Fluss Raška, der durch einen Zaun begrenzt ist.",
-                  "category": "natural",
-                  "coords": [
-                        20.501952,
-                        43.163513
-                  ]
-            },
-            {
-                  "name": "Overgrown path. Don't cross",
-                  "text": "Ein Aussichtspunkt in der Natur, der über einen überwucherten Pfad erreichbar ist.",
-                  "category": "natural",
-                  "coords": [
-                        20.506192,
-                        43.163696
-                  ]
-            },
-            {
-                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
-                  "text": "Eine der ältesten Kirchen Serbiens und Teil der UNESCO-geschützten Stätte Stari Ras.",
-                  "category": "religious",
-                  "coords": [
-                        20.527643,
-                        43.161378
-                  ]
-            },
-            {
                   "name": "olimpijski bazen",
                   "text": "Ein olympisches Schwimmbecken am Fluss Raška für sportliche Wettbewerbe.",
                   "category": "recreational",
@@ -52,42 +16,6 @@ export const serbiaNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Manastir Djurdjevi Stupovi",
-                  "text": "A Đurđevi stupovi egy 12. századi szerb ortodox kolostor a Raška-folyó közelében.",
-                  "category": "religious",
-                  "coords": [
-                        20.497666,
-                        43.165844
-                  ]
-            },
-            {
-                  "name": "Fence - not possible to cross",
-                  "text": "Egy kerítéssel elzárt kilátópont a Raška-folyónál.",
-                  "category": "natural",
-                  "coords": [
-                        20.501952,
-                        43.163513
-                  ]
-            },
-            {
-                  "name": "Overgrown path. Don't cross",
-                  "text": "Egy természetközeli kilátópont, amely egy benőtt ösvényen keresztül érhető el.",
-                  "category": "natural",
-                  "coords": [
-                        20.506192,
-                        43.163696
-                  ]
-            },
-            {
-                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
-                  "text": "Szerbia egyik legrégebbi temploma, az UNESCO által védett Ó-Ras régészeti terület része.",
-                  "category": "religious",
-                  "coords": [
-                        20.527643,
-                        43.161378
-                  ]
-            },
             {
                   "name": "olimpijski bazen",
                   "text": "Olimpiai méretű úszómedence a Raška-folyó mellett sportversenyekhez.",
@@ -100,42 +28,6 @@ export const serbiaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Manastir Djurdjevi Stupovi",
-                  "text": "Mănăstirea Đurđevi stupovi este o mănăstire ortodoxă sârbă din secolul al XII-lea.",
-                  "category": "religious",
-                  "coords": [
-                        20.497666,
-                        43.165844
-                  ]
-            },
-            {
-                  "name": "Fence - not possible to cross",
-                  "text": "Un punct de belvedere de lângă râul Raška, limitat de un gard.",
-                  "category": "natural",
-                  "coords": [
-                        20.501952,
-                        43.163513
-                  ]
-            },
-            {
-                  "name": "Overgrown path. Don't cross",
-                  "text": "Un punct de belvedere în natură, accesibil printr-o potecă acoperită de vegetație.",
-                  "category": "natural",
-                  "coords": [
-                        20.506192,
-                        43.163696
-                  ]
-            },
-            {
-                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
-                  "text": "Una dintre cele mai vechi biserici din Serbia și parte a sitului Stari Ras protejat de UNESCO.",
-                  "category": "religious",
-                  "coords": [
-                        20.527643,
-                        43.161378
-                  ]
-            },
-            {
                   "name": "olimpijski bazen",
                   "text": "O piscină olimpică lângă râul Raška pentru competiții sportive.",
                   "category": "recreational",
@@ -146,42 +38,6 @@ export const serbiaNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "The Tracts of Saint George",
-                  "text": "Đurđevi Stupovi is a 12th-century Serbian Orthodox monastery near the Raška River.",
-                  "category": "religious",
-                  "coords": [
-                        20.497666,
-                        43.165844
-                  ]
-            },
-            {
-                  "name": "Fence - not possible to cross",
-                  "text": "A viewpoint near the Raška River that is restricted by a fence.",
-                  "category": "natural",
-                  "coords": [
-                        20.501952,
-                        43.163513
-                  ]
-            },
-            {
-                  "name": "Overgrown path. Don't cross",
-                  "text": "A viewpoint in nature accessible via an overgrown path.",
-                  "category": "natural",
-                  "coords": [
-                        20.506192,
-                        43.163696
-                  ]
-            },
-            {
-                  "name": "Church of Saint Apostles Peter and Paul",
-                  "text": "One of the oldest churches in Serbia and part of the UNESCO-protected Stari Ras site.",
-                  "category": "religious",
-                  "coords": [
-                        20.527643,
-                        43.161378
-                  ]
-            },
             {
                   "name": "olimpijski bazen",
                   "text": "An Olympic-sized swimming pool by the Raška River for sports competitions.",
@@ -859,122 +715,10 @@ export const serbiaNatureV2: POI[] = [
   },
   {
     id: "serbia-babina-zub-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Babin zub",
-                  "text": "Ein prominenter Gipfel im Stara-Planina-Gebirge in Serbien.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Midzhur / Midzhor",
-                  "text": "Der höchste Gipfel des Balkangebirges, an der Grenze zwischen Serbien und Bulgarien.",
-                  "category": "landmark",
-                  "coords": [
-                        22.67757,
-                        43.395246
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Ein Aussichtspunkt mit weitem Blick über das umliegende Babin-Zub-Gebirge.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Babin zub",
-                  "text": "Kiemelkedő hegycsúcs a szerbiai Stara Planina-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Midzhur / Midzhor",
-                  "text": "A Balkán-hegység legmagasabb csúcsa Szerbia és Bulgária határán.",
-                  "category": "landmark",
-                  "coords": [
-                        22.67757,
-                        43.395246
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Kilátópont, ahonnan rálátás nyílik a környező Babin Zub-hegységre.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Babin zub",
-                  "text": "Un vârf proeminent din lanțul muntos Stara Planina din Serbia.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Midzhur / Midzhor",
-                  "text": "Cel mai înalt vârf din Munții Balcani, situat la granița dintre Serbia și Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        22.67757,
-                        43.395246
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Un punct de observație care oferă vederi asupra munților Babin Zub din jur.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Babin Zub",
-                  "text": "A prominent peak in the Stara Planina mountain range of Serbia.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Midzhur / Midžor",
-                  "text": "The highest peak of the Balkan Mountains, located on the border between Serbia and Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        22.67757,
-                        43.395246
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "A scenic viewpoint offering vistas of the surrounding Babin Zub mountains.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "peak",
     parent: "RS",
@@ -1485,15 +1229,6 @@ export const serbiaNatureV2: POI[] = [
                   "coords": [
                         20.434902,
                         44.79186
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "A public aquarium in Belgrade featuring a variety of tropical fish and reptiles.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
                   ]
             },
             {

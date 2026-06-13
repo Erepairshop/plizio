@@ -1000,15 +1000,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jangtsa Dumtseg Lhakhang",
-                  "text": "Ein bemerkenswerter, Chörten-ähnlicher Tempel im Paro-Tal, der für seine seltene dreistöckige Architekturform bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        89.413394,
-                        27.435194
-                  ]
-            },
-            {
                   "name": "Sangchen Choekhor Shedra",
                   "text": "Ein bedeutendes buddhistisches Kloster-College auf einem Bergrücken im Paro-Tal.",
                   "category": "landmark",
@@ -1044,15 +1035,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
                   "coords": [
                         89.375983,
                         27.440459
-                  ]
-            },
-            {
-                  "name": "Jangtsa Dumtseg Lhakhang",
-                  "text": "A Paro-völgy egyedülálló, chorten-szerű temploma, amely ritka, háromszintes építészeti formájáról híres.",
-                  "category": "religious",
-                  "coords": [
-                        89.413394,
-                        27.435194
                   ]
             },
             {
@@ -1094,15 +1076,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jangtsa Dumtseg Lhakhang",
-                  "text": "Un templu remarcabil sub formă de chorten din Valea Paro, renumit pentru arhitectura sa rară pe trei etaje.",
-                  "category": "religious",
-                  "coords": [
-                        89.413394,
-                        27.435194
-                  ]
-            },
-            {
                   "name": "Sangchen Choekhor Shedra",
                   "text": "Un important colegiu monahal budist așezat pe o creastă în Valea Paro.",
                   "category": "landmark",
@@ -1138,15 +1111,6 @@ export const poiExtraBhutanReliefV2: POI[] = [
                   "coords": [
                         89.375983,
                         27.440459
-                  ]
-            },
-            {
-                  "name": "Jangtsa Dumtseg Lhakhang",
-                  "text": "A notable chorten-like temple in Paro Valley famous for its rare, three-story architectural shape.",
-                  "category": "religious",
-                  "coords": [
-                        89.413394,
-                        27.435194
                   ]
             },
             {

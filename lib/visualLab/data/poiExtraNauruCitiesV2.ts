@@ -105,66 +105,12 @@ export const nauruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge ist ein markanter Gipfel in Boe und der höchste Punkt von Nauru.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Das Monument to the Nauruans Exiled in WWII in Boe erinnert an die auf Nauru internierten Nauruer.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Die Auslegerkräne in Boe sind große Hafenkräne am Hafen von Boe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
                   "name": "Broken Down Cantilever Cranes",
                   "text": "Rostende Überreste von Phosphatabbau-Kantelkranen an der Küste von Boe.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
                         -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Eine japanische Küstenverteidigungskanone aus dem Zweiten Weltkrieg mit Blick auf den Hafen von Boe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Überreste eines japanischen Kriegsgefangenenlagers aus dem Zweiten Weltkrieg nahe der Küste von Boe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Aussichtspunkt mit Panoramablick auf die Buada-Lagune und die Küste von Boe.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
                   ]
             },
             {
@@ -206,66 +152,12 @@ export const nauruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Command Ridge",
-                  "text": "A Command Ridge egy hegycsúcs Boe-ban, amely Nauru legmagasabb pontja.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "A boe-i Második világháborúban száműzött nauruiak emlékműve a Namíbiában internált nauruiakra emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "A boe-i konzolos daruk nagy kikötői daruk a boe-i kikötőben.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
                   "name": "Broken Down Cantilever Cranes",
                   "text": "Foszfátbányászatból származó, rozsdás konzolos daruk maradványai Boe partján.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
                         -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Egy japán partvédő ágyú a második világháborúból, Boe kikötőjére néz.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Egy japán második világháborús fogolytábor maradványai Boe partja közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Kilátóhely panorámás kilátással a Buada-lagúnára és Boe partjára.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
                   ]
             },
             {
@@ -307,66 +199,12 @@ export const nauruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge este un vârf proeminent în Boe și cel mai înalt punct din Nauru.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monumentul pentru nauruanii exilați în al Doilea Război Mondial din Boe comemorează nauruanii internați în Namibia.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Macaralele cantilever din Boe sunt macarale portuare mari în portul Boe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
                   "name": "Broken Down Cantilever Cranes",
                   "text": "Rămășițe ruginite ale macaralelor cantilever de extracție a fosfatului pe coasta Boe.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
                         -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Un tun de apărare de coastă japonez din al Doilea Război Mondial, cu vedere asupra portului Boe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Vestigii ale unei închisori japoneze din al Doilea Război Mondial, lângă coasta Boe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Punct de belvedere cu vedere panoramică asupra lagunei Buada și a coastei Boe.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
                   ]
             },
             {
@@ -408,66 +246,12 @@ export const nauruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge is a notable peak in Boe and the highest point of Nauru.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "The Monument to the Nauruans Exiled in WWII in Boe commemorates Nauruans interned in Namibia.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "The cantilever cranes in Boe are large port cranes at the harbour of Boe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
                   "name": "Broken Down Cantilever Cranes",
                   "text": "Rusting remains of phosphate mining cantilever cranes on Boe's coast.",
                   "category": "landmark",
                   "coords": [
                         166.909328,
                         -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "A Japanese coastal defense gun from WWII positioned overlooking Boe's harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Remains of a Japanese WWII prison camp near Boe's coast.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Viewpoint offering panoramic views of Buada Lagoon and the coast from Boe.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
                   ]
             },
             {
@@ -636,24 +420,6 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-anibare-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Anabar Beach",
-                  "text": "Eingebettet in den Küstenbezirk Anibare auf Nauru, ist Anabar Beach ein ruhiger tropischer Rückzugsort. Besucher können sich auf ungestörtes Sonnenbaden und angenehmes Waten im warmen Pazifikwasser freuen. Die Atmosphäre bleibt wunderbar ruhig und wenig besucht, ideal für alle, die dem Trubel entfliehen möchten. Ein morgendlicher Besuch bietet das friedlichste Erlebnis an dieser überschaubaren Küste.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Rock Pinnacles",
-                  "text": "Kalksteinfelsnadeln, die vom Phosphatabbau im Distrikt Anibare hinterlassen wurden.",
-                  "category": "landmark",
-                  "coords": [
-                        166.95486,
-                        -0.525674
-                  ]
-            },
-            {
                   "name": "Bunker",
                   "text": "Bunkerruine aus dem Zweiten Weltkrieg am Küstenstreifen von Anibare.",
                   "category": "natural",
@@ -664,24 +430,6 @@ export const nauruCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "A naurui Anibare tengerparti negyedében található Anabar Beach egy csendes, trópusi menedék. A látogatók békés napozásra és a meleg csendes-óceáni vizekben való sétákra számíthatnak. A hangulat elragadóan nyugodt és felfedezetlen marad, ami tökéletes azok számára, akik szeretnének elmenekülni a rohanás elől. Egy reggeli látogatás nyújtja a legbékésebb élményt ezen az intim partszakaszon.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Rock Pinnacles",
-                  "text": "Mészkő sziklatűk, amelyeket a foszfátbányászat hagyott hátra Anibare körzetben.",
-                  "category": "landmark",
-                  "coords": [
-                        166.95486,
-                        -0.525674
-                  ]
-            },
             {
                   "name": "Bunker",
                   "text": "Második világháborús bunkerrom Anibare parti sávjában.",
@@ -694,24 +442,6 @@ export const nauruCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Anabar Beach",
-                  "text": "Ascunsă în cartierul de coastă Anibare din Nauru, plaja Anabar este un refugiu tropical extrem de liniștit. Vizitatorii se pot bucura de o plajă pașnică și de plimbări prin apele calde sub soarele Pacificului. Atmosfera rămâne încântător de tăcută și retrasă, fiind perfectă pentru a scăpa de agitația cotidiană. O vizită de dimineață oferă o experiență de o serenitate absolută pe acest țărm intim.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Rock Pinnacles",
-                  "text": "Stânci de calcar ascuțite rămase în urma exploatării fosfatului în districtul Anibare.",
-                  "category": "landmark",
-                  "coords": [
-                        166.95486,
-                        -0.525674
-                  ]
-            },
-            {
                   "name": "Bunker",
                   "text": "Ruinele unui buncăr din al Doilea Război Mondial pe fâșia de coastă a Anibare.",
                   "category": "natural",
@@ -722,24 +452,6 @@ export const nauruCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "Nestled in the coastal district of Anibare, Nauru, Anabar Beach is a tranquil tropical retreat. Visitors can look forward to peaceful sunbathing and wading in the warm waters under the Pacific sun. The atmosphere remains delightfully quiet and undiscovered, perfect for those wanting to escape the rush. A morning visit provides the most serene experience along this intimate shoreline.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Rock Pinnacles",
-                  "text": "Limestone rock pinnacles left behind by phosphate mining in Anibare district.",
-                  "category": "landmark",
-                  "coords": [
-                        166.95486,
-                        -0.525674
-                  ]
-            },
             {
                   "name": "Bunker",
                   "text": "WWII bunker ruin on Anibare's coastal strip.",
@@ -796,410 +508,10 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-buada-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "Eine Zweigstelle des Nationalmuseums von Nauru im Bezirk Buada.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Höchster Punkt von Nauru, mit japanischen Geschützstellungen aus dem Zweiten Weltkrieg und Panoramablick.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Gedenkstein für die während des Zweiten Weltkriegs vertriebenen Nauruer, in Buada.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Die alten Auslegerkräne sind ein Symbol der Bergbaugeschichte in Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Rostende Überreste von Kantelkranen nahe der Buada-Lagune.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japanisches Artilleriegeschütz aus dem Zweiten Weltkrieg auf einer Anhöhe in Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Überreste eines japanischen Gefangenenlagers im Landesinneren von Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Aussichtspunkt mit direktem Blick auf die Buada-Lagune.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Natürliche Felsformation in Form einer Kanone nahe der Buada-Lagune.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "In die Hügel um Buada eingebetteter Bunker aus dem Zweiten Weltkrieg.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japanische Geschütze und ein Bunker aus dem Zweiten Weltkrieg an einem strategischen Punkt in Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "A Naurui Nemzeti Múzeum egy fióktelepe a Buada körzetben.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Nauru legmagasabb pontja, világháborús japán lövegállásokkal és panorámás kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Emlékkő a második világháború alatt száműzött nauruiaknak, Buada területén.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "A régi rakodódaruk Buada bányászati történelmének szimbólumai.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Rozsdás konzolos daruk maradványai a Buada-lagúna közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japán második világháborús tüzérségi löveg egy magaslaton Buadában.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Japán fogolytábor maradványai Buada belsejében.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Kilátóhely közvetlen kilátással a Buada-lagúnára.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Ágyú alakú természetes sziklaalakzat a Buada-lagúna közelében.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "A második világháborúból származó bunker Buada dombjaiba ágyazva.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japán második világháborús ágyúk és egy bunker Buada egy stratégiai pontján.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "O sucursală a muzeului național din Nauru în districtul Buada.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Cel mai înalt punct din Nauru, cu amplasamente de tunuri japoneze din al Doilea Război Mondial și vederi panoramice.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Piatră memorială pentru nauruanii exilați în timpul celui de-al Doilea Război Mondial, în Buada.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Vechile macarale sunt un simbol al istoriei miniere din Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Vestigii ruginite ale macaralelor cantilever lângă laguna Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Tun de artilerie japonez din al Doilea Război Mondial poziționat pe o înălțime în Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Vestigii ale unei închisori japoneze în interiorul Buadei.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Punct de belvedere cu vedere directă asupra lagunei Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Formațiune naturală de stâncă asemănătoare unui tun lângă laguna Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Buncăr din al Doilea Război Mondial încorporat în dealurile din jurul Buadei.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Tunuri japoneze și un buncăr din al Doilea Război Mondial într-un punct strategic în Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "A branch of the national museum of Nauru in Buada district.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Highest point on Nauru, with Japanese WWII gun emplacements and panoramic views.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Memorial stone for the Nauruans who were exiled during WWII, located in Buada.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "The old cantilever cranes are a symbol of mining history in Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Rusting remnants of cantilever cranes near Buada Lagoon.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japanese WWII artillery piece positioned on a rise in Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Remains of a Japanese prison camp in Buada's interior.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Viewpoint offering a direct overlook of Buada Lagoon.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Natural rock formation resembling a gun near Buada Lagoon.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "WWII bunker embedded in the hills around Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japanese WWII guns and a bunker at a strategic point in Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NR",
     type: "village",
@@ -1291,338 +603,10 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-uaboe-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge ist ein markanter Gipfel in Uaboe und der höchste Punkt der Insel Nauru.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Die römisch-katholische Pfarrkirche für die Gemeinde Uaboe auf Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Gedenkstätte für vertriebene Nauruer im Küstengebiet von Uaboe.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Noch stehender Phosphatverlade-Kantelkran an der Küste von Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Rostende Überreste eines Kantelkrans am Ufer von Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japanische Kanone aus dem Zweiten Weltkrieg auf einem Betonsockel nahe dem Strand von Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Ruinen eines japanischen Kriegsgefangenenlagers in Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Aussichtspunkt mit Blick auf die Lagune und die Küste von den Klippen Uaboes.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Bewachsener Bunker an der Küstenlinie von Uaboe.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Command Ridge",
-                  "text": "A Command Ridge egy hegycsúcs Uaboe-ban, és egyben Nauru legmagasabb pontja.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Az Uaboe közösség római katolikus plébániatemploma Naurun.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Emlékmű a száműzött nauruiaknak Uaboe parti területén.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Még álló foszfátrakodó konzolos daru Uaboe partján.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Egy konzolos daru rozsdás maradványai Uaboe partján.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japán második világháborús ágyú egy betontalapzaton Uaboe strandja közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Egy japán hadifogolytábor romjai Uaboe-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Kilátóhely a lagúnára és a partra Uaboe szikláiról.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Elvadult bunker Uaboe partvonalán.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge este un vârf proeminent în Uaboe și servește drept cel mai înalt punct din Nauru.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Biserica parohială romano-catolică pentru comunitatea Uaboe din Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monument pentru nauruanii exilați în zona de coastă a Uaboe.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Macara cantilever de încărcare a fosfatului încă în picioare pe coasta Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Vestigii ruginite ale unei macarale cantilever pe țărmul Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Tun japonez din al Doilea Război Mondial montat pe o bază de beton lângă plaja Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Ruinele unui lagăr de prizonieri de război japonez în Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Punct de belvedere cu vedere asupra lagunei și coastei de pe stâncile Uaboe.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Buncăr acoperit de vegetație pe linia de coastă a Uaboe.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge is a notable peak in Uaboe and serves as the highest point on Nauru.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "The Roman Catholic parish church for Uaboe community in Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Memorial to exiled Nauruans in Uaboe's coastal area.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Phosphate loading cantilever crane still standing on Uaboe's coast.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Rusting remains of a cantilever crane on Uaboe's shore.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japanese WWII gun mounted on a concrete base near Uaboe's beach.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Ruins of a Japanese prisoner of war camp in Uaboe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Viewpoint overlooking the lagoon and coast from the cliffs of Uaboe.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Overgrown bunker on Uaboe's coastline.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NR",
     type: "village",
@@ -1671,57 +655,12 @@ export const nauruCitiesV2: POI[] = [
     id: "nauru-baitsi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Anabar Beach",
-                  "text": "Im Bereich Baitsi auf Nauru gelegen, bietet dieser Abschnitt des Anabar Beach einen entspannenden Sandstreifen am Ozean. Es ist ein hervorragender Ort, um beim Sonnenbaden oder bei einem leichten Bad dem beruhigenden Rauschen der Wellen zu lauschen. Die entspannte, lokale Stimmung sorgt für einen erholsamen Tag im Freien. Ausreichend Trinkwasser im Gepäck ist bei der tropischen Sonne besonders wichtig.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Der höchste Punkt von Nauru in Baitsi, bekannt für seine strategische Bedeutung.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
                   "name": "Church of Christ the King",
                   "text": "Die römisch-katholische Pfarrkirche für die Gemeinde Baitsi auf Nauru.",
                   "category": "landmark",
                   "coords": [
                         166.931583,
                         -0.505813
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Steindenkmal zur Erinnerung an vertriebene Nauruer im Distrikt Baitsi.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japanisches Küstengeschütz aus dem Zweiten Weltkrieg am Ufer von Baitsi.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Malerischer Aussichtspunkt über die Lagune von Baitsis erhöhtem Gelände.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
                   ]
             },
             {
@@ -1736,57 +675,12 @@ export const nauruCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Anabar Beach",
-                  "text": "A Naurun található Baitsi területig nyúló Anabar Beach ezen szakasza egy pihentető homokos partot kínál az óceánnál. Kiváló helyszín arra, hogy napozás vagy finom úszás közben élvezzük a hullámok megnyugtató hangját. A laza, helyi atmoszféra gondoskodik a szabadban töltött regeneráló napról. Fontos bőséges vízzel készülni, hogy hidratáltak maradjunk a trópusi égbolt alatt.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Nauru legmagasabb pontja Baitsiban, amely stratégiai jelentőségéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
                   "name": "Church of Christ the King",
                   "text": "A Baitsi közösség római katolikus plébániatemploma Naurun.",
                   "category": "landmark",
                   "coords": [
                         166.931583,
                         -0.505813
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Kőemlékmű a száműzött nauruiak emlékére Baitsi körzetben.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japán második világháborús parti ágyú Baitsi partján.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Festői kilátó a lagúnára Baitsi magasabb területéről.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
                   ]
             },
             {
@@ -1801,57 +695,12 @@ export const nauruCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Anabar Beach",
-                  "text": "Întinzându-se în zona Baitsi din Nauru, această secțiune a plajei Anabar oferă o fâșie de nisip relaxantă la marginea oceanului. Este un loc excelent pentru a asculta sunetul liniștitor al valurilor în timp ce faceți plajă sau o baie ușoară. Atmosfera locală, dezinvoltă, asigură o zi reconfortantă în aer liber. Nu uitați să luați cu voi multă apă pentru a rămâne hidratați sub soarele tropical.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Cel mai înalt punct din Nauru, situat în Baitsi, cunoscut pentru importanța sa strategică.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
                   "name": "Church of Christ the King",
                   "text": "Biserica parohială romano-catolică pentru comunitatea Baitsi din Nauru.",
                   "category": "landmark",
                   "coords": [
                         166.931583,
                         -0.505813
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monument de piatră care comemorează nauruanii exilați în districtul Baitsi.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Tun de coastă japonez din al Doilea Război Mondial pe țărmul Baitsi.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Punct de belvedere pitoresc asupra lagunei de pe terenul înalt al Baitsi.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
                   ]
             },
             {
@@ -1866,57 +715,12 @@ export const nauruCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Anabar Beach",
-                  "text": "Extending into the Baitsi area of Nauru, this section of Anabar Beach offers a relaxing strip of sand by the ocean. It is an excellent spot to enjoy the soothing sound of the waves while sunbathing or enjoying a gentle swim. The laid-back, local vibe ensures a restorative day outdoors. Don't forget to pack plenty of water to stay hydrated under the tropical sky.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "The highest point of Nauru in Baitsi, known for its strategic importance.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
                   "name": "Church of Christ the King",
                   "text": "The Roman Catholic parish church for Baitsi community in Nauru.",
                   "category": "landmark",
                   "coords": [
                         166.931583,
                         -0.505813
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Stone monument commemorating exiled Nauruans in Baitsi district.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japanese WWII coastal gun on Baitsi's shore.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Scenic viewpoint over the lagoon from Baitsi's elevated ground.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
                   ]
             },
             {
@@ -1975,122 +779,10 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-ewa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "An der Küste von Nauru gelegen, bietet der Anabar Beach eine authentische lokale Kulisse in Ewa. Die ruhige Atmosphäre macht ihn zu einem angenehmen Ort für einen Spaziergang oder zum Entspannen in der Sonne. Besucher können hier friedliche Ausblicke auf das Meer abseits des Trubels genießen. Ein Besuch am frühen Morgen ist ideal, um die frische Meeresbrise zu erleben.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Die römisch-katholische Pfarrkirche für die Gemeinde Ewa auf Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Bunker aus dem Zweiten Weltkrieg an der Küste des Distrikts Ewa.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "Nauru partvidékén, Ewa kerületében található az Anabar Beach, amely hamisítatlan helyi hangulatot áraszt. A nyugodt környezet kiválóan alkalmas egy csendes sétára vagy a napozásra. A látogatók a tömegtől távol élvezhetik a békés óceáni kilátást. Érdemes kora reggel érkezni, hogy megtapasztalhassuk a friss tengeri szellőt.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Az Ewa közösség római katolikus plébániatemploma Naurun.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Második világháborús bunker Ewa körzet partján.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "Situată pe coasta statului Nauru, Anabar Beach oferă un cadru local autentic în districtul Ewa. Atmosfera sa liniștită o face un loc plăcut pentru o plimbare sau pentru relaxare la soare. Vizitatorii se pot bucura de priveliști pașnice ale oceanului, departe de aglomerație. O vizită dimineața devreme este ideală pentru a simți briza mării.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Biserica parohială romano-catolică pentru comunitatea Ewa din Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Buncăr din al Doilea Război Mondial pe coasta districtului Ewa.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "Situated on the coast of Nauru, Anabar Beach offers a genuine local setting in the Ewa district. The calm atmosphere makes it a pleasant spot for a quiet stroll or relaxing under the sun. Visitors can enjoy peaceful ocean views away from busy crowds. A visit during the early morning is ideal to experience the tranquil coastal breeze.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "The Roman Catholic parish church for Ewa community in Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "WWII bunker on the coast of Ewa district.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NR",
     type: "village",
@@ -2137,158 +829,10 @@ export const nauruCitiesV2: POI[] = [
   },
   {
     id: "nauru-anetan-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "Als malerischer Küstenabschnitt in der Region Anetan lädt dieser Teil des Anabar Beach zur Erholung ein. Er bietet eine ruhige Umgebung, die perfekt für alle ist, die auf Nauru am Wasser abschalten möchten. Gemütliche Strandspaziergänge und Sonnenbäder stehen hier im Mittelpunkt. Ein Aufenthalt am späten Nachmittag verspricht oft angenehmere Temperaturen und einen schönen Himmel.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Die römisch-katholische Pfarrkirche für die Gemeinde Anetan auf Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Rock Pinnacles",
-                  "text": "Kalksteinfelsnadeln im Distrikt Anetan, Überreste des Phosphatabbaus.",
-                  "category": "landmark",
-                  "coords": [
-                        166.95486,
-                        -0.525674
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Bewachsener Bunker aus dem Zweiten Weltkrieg im Küstengebiet von Anetan.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "Az Anetan térségének tengerparti szakaszát alkotó Anabar Beach pihenésre csábít. Csendes környezetet kínál, amely tökéletes azok számára, akik Nauru szigetén, a vízparton szeretnének kikapcsolódni. A parton tett kellemes séták és a napozás jelentik itt a fő vonzerőt. A késő délutáni látogatás általában hűvösebb időt és gyönyörű eget ígér.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Az Anetan közösség római katolikus plébániatemploma Naurun.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Rock Pinnacles",
-                  "text": "Mészkő sziklatűk Anetan körzetben, a foszfátbányászat maradványai.",
-                  "category": "landmark",
-                  "coords": [
-                        166.95486,
-                        -0.525674
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Elvadult második világháborús bunker Anetan parti területén.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "Formând o porțiune de coastă fermecătoare în zona Anetan, acest segment din Anabar Beach te invită la relaxare. Oferă un mediu liniștit, perfect pentru cei care doresc să se destindă lângă apă în Nauru. Plimbările ușoare pe țărm și băile de soare sunt principalele atracții aici. O oprire la sfârșitul după-amiezii promite adesea temperaturi mai răcoroase și un cer frumos.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Biserica parohială romano-catolică pentru comunitatea Anetan din Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Rock Pinnacles",
-                  "text": "Stânci de calcar ascuțite în districtul Anetan, rămășițe ale exploatării fosfatului.",
-                  "category": "landmark",
-                  "coords": [
-                        166.95486,
-                        -0.525674
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Buncăr din al Doilea Război Mondial, acoperit de vegetație, în zona de coastă Anetan.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Anabar Beach",
-                  "text": "Forming a lovely coastal stretch in the Anetan area, this segment of Anabar Beach invites relaxation. It presents a quiet environment perfectly suited for those looking to unwind by the water in Nauru. Gentle walks along the shore and sunbathing are the main draws here. Stopping by in the late afternoon often promises cooler temperatures and beautiful skies.",
-                  "category": "recreational",
-                  "coords": [
-                        166.954931,
-                        -0.509581
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "The Roman Catholic parish church for Anetan community in Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
-                  ]
-            },
-            {
-                  "name": "Rock Pinnacles",
-                  "text": "Limestone rock pinnacles in Anetan district, remnants of phosphate mining.",
-                  "category": "landmark",
-                  "coords": [
-                        166.95486,
-                        -0.525674
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Overgrown WWII bunker in Anetan's coastal area.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NR",
     type: "village",
@@ -2398,15 +942,6 @@ export const nauruCitiesV2: POI[] = [
                         166.95486,
                         -0.525674
                   ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Japanischer Bunker aus dem Zweiten Weltkrieg an der Küste von Ijuw.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
             }
       ],
       "hu": [
@@ -2426,15 +961,6 @@ export const nauruCitiesV2: POI[] = [
                   "coords": [
                         166.95486,
                         -0.525674
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Japán második világháborús bunker Ijuw partján.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
                   ]
             }
       ],
@@ -2456,15 +982,6 @@ export const nauruCitiesV2: POI[] = [
                         166.95486,
                         -0.525674
                   ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Buncăr japonez din al Doilea Război Mondial pe coasta Ijuw.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
             }
       ],
       "en": [
@@ -2484,15 +1001,6 @@ export const nauruCitiesV2: POI[] = [
                   "coords": [
                         166.95486,
                         -0.525674
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Japanese WWII bunker on the coast of Ijuw.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
                   ]
             }
       ]

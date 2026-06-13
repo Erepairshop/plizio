@@ -208,50 +208,10 @@ export const poiExtraTogoReliefV2: POI[] = [
   },
   {
     id: "kabye-mountains-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Martyrs de Pya Hodo",
-                  "text": "Das Denkmal der Märtyrer von Pya Hodo steht als steinerne Gedenkstätte vor der bergigen Kulisse der Kabye-Berge.",
-                  "category": "historical",
-                  "coords": [
-                        1.17237,
-                        9.667877
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Martyrs de Pya Hodo",
-                  "text": "A Martyrs de Pya Hodo emlékmű egy kő emlékhely, amely a Kabye-hegység hegyvidéki hátterében áll.",
-                  "category": "historical",
-                  "coords": [
-                        1.17237,
-                        9.667877
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Martyrs de Pya Hodo",
-                  "text": "Monumentul Martirilor din Pya Hodo este o structură memorială de piatră așezată pe fundalul muntos al Munților Kabye.",
-                  "category": "historical",
-                  "coords": [
-                        1.17237,
-                        9.667877
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Martyrs de Pya Hodo",
-                  "text": "The Martyrs de Pya Hodo monument stands as a stone memorial structure set against the mountainous backdrop of the Kabye Mountains.",
-                  "category": "historical",
-                  "coords": [
-                        1.17237,
-                        9.667877
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "TG-K",

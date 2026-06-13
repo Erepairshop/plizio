@@ -567,30 +567,12 @@ imageHint: "Gripsholm Castle red brick walls",
                   ]
             },
             {
-                  "name": "Skoklosters slott",
-                  "text": "Ein prächtiges Barockschloss aus dem 17. Jahrhundert am See Mälaren.",
-                  "category": "castle",
-                  "coords": [
-                        17.621362,
-                        59.70308
-                  ]
-            },
-            {
                   "name": "Arnöhuvud",
                   "text": "Arnöhuvud ist eine felsige Landspitze am Mälaren gegenüber von Schloss Skokloster.",
                   "category": "natural",
                   "coords": [
                         17.549991,
                         59.726824
-                  ]
-            },
-            {
-                  "name": "Sandhagen",
-                  "text": "Ein Naturschutzgebiet mit vielfältiger lokaler Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        17.611844,
-                        59.729117
                   ]
             },
             {
@@ -610,24 +592,6 @@ imageHint: "Gripsholm Castle red brick walls",
                         17.626118,
                         59.681639
                   ]
-            },
-            {
-                  "name": "Flasta kyrkoruin",
-                  "text": "Die Ruinen einer mittelalterlichen Kirche aus dem 12. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        17.608402,
-                        59.708601
-                  ]
-            },
-            {
-                  "name": "Skoklosters kyrka",
-                  "text": "Eine ehemalige Klosterkirche aus dem 13. Jahrhundert in der Nähe des Schlosses.",
-                  "category": "religious",
-                  "coords": [
-                        17.623911,
-                        59.704575
-                  ]
             }
       ],
       "hu": [
@@ -641,30 +605,12 @@ imageHint: "Gripsholm Castle red brick walls",
                   ]
             },
             {
-                  "name": "Skoklosters slott",
-                  "text": "Pompás 17. századi barokk kastély a Mälaren-tó partján.",
-                  "category": "castle",
-                  "coords": [
-                        17.621362,
-                        59.70308
-                  ]
-            },
-            {
                   "name": "Arnöhuvud",
                   "text": "Arnöhuvud egy sziklás földnyelv a Mälaren-tónál, a Skokloster kastéllyal szemben.",
                   "category": "natural",
                   "coords": [
                         17.549991,
                         59.726824
-                  ]
-            },
-            {
-                  "name": "Sandhagen",
-                  "text": "Természetvédelmi terület változatos helyi élővilággal.",
-                  "category": "natural",
-                  "coords": [
-                        17.611844,
-                        59.729117
                   ]
             },
             {
@@ -684,24 +630,6 @@ imageHint: "Gripsholm Castle red brick walls",
                         17.626118,
                         59.681639
                   ]
-            },
-            {
-                  "name": "Flasta kyrkoruin",
-                  "text": "Egy 12. századi középkori templom maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        17.608402,
-                        59.708601
-                  ]
-            },
-            {
-                  "name": "Skoklosters kyrka",
-                  "text": "13. századi egykori kolostortemplom a kastély közelében.",
-                  "category": "religious",
-                  "coords": [
-                        17.623911,
-                        59.704575
-                  ]
             }
       ],
       "ro": [
@@ -715,30 +643,12 @@ imageHint: "Gripsholm Castle red brick walls",
                   ]
             },
             {
-                  "name": "Skoklosters slott",
-                  "text": "Un castel baroc magnific din secolul al XVII-lea pe malul lacului Mälaren.",
-                  "category": "castle",
-                  "coords": [
-                        17.621362,
-                        59.70308
-                  ]
-            },
-            {
                   "name": "Arnöhuvud",
                   "text": "Arnöhuvud este un cap stâncos pe lacul Mälaren, vizavi de Castelul Skokloster.",
                   "category": "natural",
                   "coords": [
                         17.549991,
                         59.726824
-                  ]
-            },
-            {
-                  "name": "Sandhagen",
-                  "text": "O rezervație naturală cu o floră și faună locală diversă.",
-                  "category": "natural",
-                  "coords": [
-                        17.611844,
-                        59.729117
                   ]
             },
             {
@@ -758,24 +668,6 @@ imageHint: "Gripsholm Castle red brick walls",
                         17.626118,
                         59.681639
                   ]
-            },
-            {
-                  "name": "Flasta kyrkoruin",
-                  "text": "Ruinele unei biserici medievale din secolul al XII-lea.",
-                  "category": "historical",
-                  "coords": [
-                        17.608402,
-                        59.708601
-                  ]
-            },
-            {
-                  "name": "Skoklosters kyrka",
-                  "text": "O fostă biserică mănăstirească din secolul al XIII-lea lângă castel.",
-                  "category": "religious",
-                  "coords": [
-                        17.623911,
-                        59.704575
-                  ]
             }
       ],
       "en": [
@@ -789,30 +681,12 @@ imageHint: "Gripsholm Castle red brick walls",
                   ]
             },
             {
-                  "name": "Skokloster Castle",
-                  "text": "A magnificent 17th-century Baroque castle on the shores of Lake Mälaren.",
-                  "category": "castle",
-                  "coords": [
-                        17.621362,
-                        59.70308
-                  ]
-            },
-            {
                   "name": "Arnöhuvud",
                   "text": "Arnöhuvud is a rocky headland on Lake Mälaren opposite Skokloster Castle.",
                   "category": "natural",
                   "coords": [
                         17.549991,
                         59.726824
-                  ]
-            },
-            {
-                  "name": "Sandhagen",
-                  "text": "A nature reserve featuring diverse local flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        17.611844,
-                        59.729117
                   ]
             },
             {
@@ -831,24 +705,6 @@ imageHint: "Gripsholm Castle red brick walls",
                   "coords": [
                         17.626118,
                         59.681639
-                  ]
-            },
-            {
-                  "name": "Flasta church ruins",
-                  "text": "The ruins of a medieval church dating back to the 12th century.",
-                  "category": "historical",
-                  "coords": [
-                        17.608402,
-                        59.708601
-                  ]
-            },
-            {
-                  "name": "Skokloster Church",
-                  "text": "A former monastery church from the 13th century located near the castle.",
-                  "category": "religious",
-                  "coords": [
-                        17.623911,
-                        59.704575
                   ]
             }
       ]
@@ -1027,24 +883,6 @@ imageHint: "Lund Cathedral Romanesque facade",
                         17.541974,
                         59.330443
                   ]
-            },
-            {
-                  "name": "Björkö naturreservat",
-                  "text": "Ein Naturschutzgebiet auf der Insel Björkö, die für ihre Wikingerstätten bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        17.567516,
-                        59.315605
-                  ]
-            },
-            {
-                  "name": "Gåsholmen",
-                  "text": "Ein Naturschutzgebiet in der Nähe der historischen Stätte Birka.",
-                  "category": "natural",
-                  "coords": [
-                        17.528414,
-                        59.319439
-                  ]
             }
       ],
       "hu": [
@@ -1082,24 +920,6 @@ imageHint: "Lund Cathedral Romanesque facade",
                   "coords": [
                         17.541974,
                         59.330443
-                  ]
-            },
-            {
-                  "name": "Björkö naturreservat",
-                  "text": "Természetvédelmi terület Björkö szigetén, amely viking kori emlékeiről nevezetes.",
-                  "category": "natural",
-                  "coords": [
-                        17.567516,
-                        59.315605
-                  ]
-            },
-            {
-                  "name": "Gåsholmen",
-                  "text": "Természetvédelmi terület a történelmi Birka közelében.",
-                  "category": "natural",
-                  "coords": [
-                        17.528414,
-                        59.319439
                   ]
             }
       ],
@@ -1139,24 +959,6 @@ imageHint: "Lund Cathedral Romanesque facade",
                         17.541974,
                         59.330443
                   ]
-            },
-            {
-                  "name": "Björkö naturreservat",
-                  "text": "O rezervație naturală pe insula Björkö, cunoscută pentru siturile sale vikinge.",
-                  "category": "natural",
-                  "coords": [
-                        17.567516,
-                        59.315605
-                  ]
-            },
-            {
-                  "name": "Gåsholmen",
-                  "text": "O rezervație naturală situată în apropierea sitului istoric Birka.",
-                  "category": "natural",
-                  "coords": [
-                        17.528414,
-                        59.319439
-                  ]
             }
       ],
       "en": [
@@ -1194,24 +996,6 @@ imageHint: "Lund Cathedral Romanesque facade",
                   "coords": [
                         17.541974,
                         59.330443
-                  ]
-            },
-            {
-                  "name": "Björkö naturreservat",
-                  "text": "A nature reserve on Björkö island, famous for its Viking Age sites.",
-                  "category": "natural",
-                  "coords": [
-                        17.567516,
-                        59.315605
-                  ]
-            },
-            {
-                  "name": "Gåsholmen",
-                  "text": "A nature reserve located near the historical site of Birka.",
-                  "category": "natural",
-                  "coords": [
-                        17.528414,
-                        59.319439
                   ]
             }
       ]
@@ -2970,15 +2754,6 @@ imageHint: "Linköping Cathedral exterior",
                   ]
             },
             {
-                  "name": "Hällsboskogen",
-                  "text": "Dieses Waldreservat in Sigtuna ist für seine unberührte Natur und Wanderwege bekannt.",
-                  "category": "natural",
-                  "coords": [
-                        17.68454,
-                        59.634338
-                  ]
-            },
-            {
                   "name": "Munkholmen",
                   "text": "Ein geschütztes Naturgebiet am Ufer des Mälaren-Sees in der Nähe von Sigtuna.",
                   "category": "natural",
@@ -2995,42 +2770,6 @@ imageHint: "Linköping Cathedral exterior",
                         17.719802,
                         59.648636
                   ]
-            },
-            {
-                  "name": "Sigtuna rådhus",
-                  "text": "Das Rathaus von Sigtuna gilt als das kleinste Schwedens und beherbergt heute ein Museum.",
-                  "category": "museum",
-                  "coords": [
-                        17.721329,
-                        59.617001
-                  ]
-            },
-            {
-                  "name": "Fornborg",
-                  "text": "Eine archäologische Stätte bei Sigtuna, die Überreste einer antiken Wallburg zeigt.",
-                  "category": "historical",
-                  "coords": [
-                        17.712585,
-                        59.62489
-                  ]
-            },
-            {
-                  "name": "Sigtuna museum",
-                  "text": "Das Museum zeigt die reiche Geschichte von Sigtuna, einer der ältesten Städte Schwedens.",
-                  "category": "museum",
-                  "coords": [
-                        17.718749,
-                        59.61519
-                  ]
-            },
-            {
-                  "name": "Sigtunafjärden",
-                  "text": "Eine Bucht des Mälaren-Sees, die Sigtuna eine malerische Lage am Wasser verleiht.",
-                  "category": "landmark",
-                  "coords": [
-                        17.723237,
-                        59.604902
-                  ]
             }
       ],
       "hu": [
@@ -3041,15 +2780,6 @@ imageHint: "Linköping Cathedral exterior",
                   "coords": [
                         17.771629,
                         59.61234
-                  ]
-            },
-            {
-                  "name": "Hällsboskogen",
-                  "text": "Ez a sigtunai erdőrezervátum érintetlen természetéről és túraútvonalairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        17.68454,
-                        59.634338
                   ]
             },
             {
@@ -3069,42 +2799,6 @@ imageHint: "Linköping Cathedral exterior",
                         17.719802,
                         59.648636
                   ]
-            },
-            {
-                  "name": "Sigtuna rådhus",
-                  "text": "Sigtuna városházája Svédország legkisebbjének számít, ma múzeumnak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        17.721329,
-                        59.617001
-                  ]
-            },
-            {
-                  "name": "Fornborg",
-                  "text": "Régészeti lelőhely Sigtuna közelében, amely egy ősi várhely maradványait mutatja be.",
-                  "category": "historical",
-                  "coords": [
-                        17.712585,
-                        59.62489
-                  ]
-            },
-            {
-                  "name": "Sigtuna museum",
-                  "text": "A múzeum Sigtuna, Svédország egyik legrégebbi városának gazdag történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        17.718749,
-                        59.61519
-                  ]
-            },
-            {
-                  "name": "Sigtunafjärden",
-                  "text": "A Mälaren-tó egyik öble, amely festői vízparti környezetet biztosít Sigtunának.",
-                  "category": "landmark",
-                  "coords": [
-                        17.723237,
-                        59.604902
-                  ]
             }
       ],
       "ro": [
@@ -3115,15 +2809,6 @@ imageHint: "Linköping Cathedral exterior",
                   "coords": [
                         17.771629,
                         59.61234
-                  ]
-            },
-            {
-                  "name": "Hällsboskogen",
-                  "text": "Această rezervație forestieră din Sigtuna este cunoscută pentru natura sa virgină și traseele de drumeție.",
-                  "category": "natural",
-                  "coords": [
-                        17.68454,
-                        59.634338
                   ]
             },
             {
@@ -3143,42 +2828,6 @@ imageHint: "Linköping Cathedral exterior",
                         17.719802,
                         59.648636
                   ]
-            },
-            {
-                  "name": "Sigtuna rådhus",
-                  "text": "Primăria din Sigtuna este considerată cea mai mică din Suedia și găzduiește astăzi un muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        17.721329,
-                        59.617001
-                  ]
-            },
-            {
-                  "name": "Fornborg",
-                  "text": "Un sit arheologic lângă Sigtuna, care prezintă vestigiile unei vechi cetăți fortificate.",
-                  "category": "historical",
-                  "coords": [
-                        17.712585,
-                        59.62489
-                  ]
-            },
-            {
-                  "name": "Sigtuna museum",
-                  "text": "Muzeul prezintă istoria bogată a orașului Sigtuna, unul dintre cele mai vechi orașe din Suedia.",
-                  "category": "museum",
-                  "coords": [
-                        17.718749,
-                        59.61519
-                  ]
-            },
-            {
-                  "name": "Sigtunafjärden",
-                  "text": "O porțiune a lacului Mälaren care oferă orașului Sigtuna un cadru pitoresc la malul apei.",
-                  "category": "landmark",
-                  "coords": [
-                        17.723237,
-                        59.604902
-                  ]
             }
       ],
       "en": [
@@ -3189,15 +2838,6 @@ imageHint: "Linköping Cathedral exterior",
                   "coords": [
                         17.771629,
                         59.61234
-                  ]
-            },
-            {
-                  "name": "Hällsboskogen",
-                  "text": "This forest reserve in Sigtuna is known for its untouched nature and hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        17.68454,
-                        59.634338
                   ]
             },
             {
@@ -3216,42 +2856,6 @@ imageHint: "Linköping Cathedral exterior",
                   "coords": [
                         17.719802,
                         59.648636
-                  ]
-            },
-            {
-                  "name": "Sigtuna rådhus",
-                  "text": "Sigtuna's town hall is considered the smallest in Sweden and now houses a museum.",
-                  "category": "museum",
-                  "coords": [
-                        17.721329,
-                        59.617001
-                  ]
-            },
-            {
-                  "name": "Fornborg",
-                  "text": "An archaeological site near Sigtuna showcasing the remains of an ancient hillfort.",
-                  "category": "historical",
-                  "coords": [
-                        17.712585,
-                        59.62489
-                  ]
-            },
-            {
-                  "name": "Sigtuna museum",
-                  "text": "The museum showcases the rich history of Sigtuna, one of Sweden's oldest towns.",
-                  "category": "museum",
-                  "coords": [
-                        17.718749,
-                        59.61519
-                  ]
-            },
-            {
-                  "name": "Sigtunafjärden",
-                  "text": "A bay of Lake Mälaren that gives Sigtuna its picturesque waterfront setting.",
-                  "category": "landmark",
-                  "coords": [
-                        17.723237,
-                        59.604902
                   ]
             }
       ]
@@ -3831,15 +3435,6 @@ imageHint: "Stockholm Royal Palace facade",
     id: "sweden-skokloster-abbey-ruins-history-v2", "sights": {
       "de": [
             {
-                  "name": "Skokloster",
-                  "text": "Ein Naturschutzgebiet in der Nähe des Schlosses Skokloster am Mälarensee.",
-                  "category": "natural",
-                  "coords": [
-                        17.587572,
-                        59.707506
-                  ]
-            },
-            {
                   "name": "Skoklosters slott",
                   "text": "Eines der besterhaltenen Barockschlösser Europas, gelegen in Schweden.",
                   "category": "castle",
@@ -3864,15 +3459,6 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.650673,
                         59.685118
-                  ]
-            },
-            {
-                  "name": "Skofjärden",
-                  "text": "Skofjärden – Bucht nahe der Klosterruine Skokloster.",
-                  "category": "landmark",
-                  "coords": [
-                        17.626118,
-                        59.681639
                   ]
             },
             {
@@ -3905,15 +3491,6 @@ imageHint: "Stockholm Royal Palace facade",
       ],
       "hu": [
             {
-                  "name": "Skokloster",
-                  "text": "Természetvédelmi terület a Skokloster-kastély közelében, a Mälaren-tónál.",
-                  "category": "natural",
-                  "coords": [
-                        17.587572,
-                        59.707506
-                  ]
-            },
-            {
                   "name": "Skoklosters slott",
                   "text": "Európa egyik legjobb állapotban fennmaradt barokk kastélya Svédországban.",
                   "category": "castle",
@@ -3938,15 +3515,6 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.650673,
                         59.685118
-                  ]
-            },
-            {
-                  "name": "Skofjärden",
-                  "text": "Skofjärden – öböl a Skokloster-apátság romjai közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        17.626118,
-                        59.681639
                   ]
             },
             {
@@ -3979,15 +3547,6 @@ imageHint: "Stockholm Royal Palace facade",
       ],
       "ro": [
             {
-                  "name": "Skokloster",
-                  "text": "O rezervație naturală situată lângă castelul Skokloster, pe malul lacului Mälaren.",
-                  "category": "natural",
-                  "coords": [
-                        17.587572,
-                        59.707506
-                  ]
-            },
-            {
                   "name": "Skoklosters slott",
                   "text": "Unul dintre cele mai bine conservate castele baroce din Europa, situat în Suedia.",
                   "category": "castle",
@@ -4012,15 +3571,6 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.650673,
                         59.685118
-                  ]
-            },
-            {
-                  "name": "Skofjärden",
-                  "text": "Skofjärden – golf lângă ruinele Abației Skokloster.",
-                  "category": "landmark",
-                  "coords": [
-                        17.626118,
-                        59.681639
                   ]
             },
             {
@@ -4053,15 +3603,6 @@ imageHint: "Stockholm Royal Palace facade",
       ],
       "en": [
             {
-                  "name": "Skokloster",
-                  "text": "A nature reserve located near Skokloster Castle on the shores of Lake Mälaren.",
-                  "category": "natural",
-                  "coords": [
-                        17.587572,
-                        59.707506
-                  ]
-            },
-            {
                   "name": "Skokloster Castle",
                   "text": "One of the best-preserved Baroque castles in Europe, located in Sweden.",
                   "category": "castle",
@@ -4086,15 +3627,6 @@ imageHint: "Stockholm Royal Palace facade",
                   "coords": [
                         17.650673,
                         59.685118
-                  ]
-            },
-            {
-                  "name": "Skofjärden",
-                  "text": "Skofjärden – bay near Skokloster Abbey Ruins.",
-                  "category": "landmark",
-                  "coords": [
-                        17.626118,
-                        59.681639
                   ]
             },
             {
@@ -5307,42 +4839,6 @@ imageHint: "Stockholm Royal Palace facade",
     id: "sweden-bjorko-ruins-history-v2", "sights": {
       "de": [
             {
-                  "name": "Birka",
-                  "text": "Birka ist eine bedeutende archäologische Stätte der Wikingerzeit und gehört zum UNESCO-Weltkulturerbe auf der Insel Björkö.",
-                  "category": "historical",
-                  "coords": [
-                        17.544941,
-                        59.332728
-                  ]
-            },
-            {
-                  "name": "Hovgården",
-                  "text": "Dieses UNESCO-Weltkulturerbe umfasst bedeutende archäologische Überreste der Wikingerzeit auf den Inseln Björkö und Adelsö.",
-                  "category": "historical",
-                  "coords": [
-                        17.535125,
-                        59.361
-                  ]
-            },
-            {
-                  "name": "Birkamuseum",
-                  "text": "Ein Museum auf Björkö, das archäologische Funde aus der historischen Wikingersiedlung Birka ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        17.541974,
-                        59.330443
-                  ]
-            },
-            {
-                  "name": "Adelsö badplats",
-                  "text": "Ein lokaler Badeplatz und Strand auf der Insel Adelsö in der Nähe der historischen Stätte.",
-                  "category": "recreational",
-                  "coords": [
-                        17.534159,
-                        59.363587
-                  ]
-            },
-            {
                   "name": "Björkö naturreservat",
                   "text": "Ein Naturschutzgebiet auf der Insel Björkö, das sowohl Naturlandschaften als auch archäologische Stätten umfasst.",
                   "category": "natural",
@@ -5362,42 +4858,6 @@ imageHint: "Stockholm Royal Palace facade",
             }
       ],
       "hu": [
-            {
-                  "name": "Birka",
-                  "text": "Birka a viking kor jelentős régészeti lelőhelye és az UNESCO Világörökség része Björkö szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        17.544941,
-                        59.332728
-                  ]
-            },
-            {
-                  "name": "Hovgården",
-                  "text": "Ez az UNESCO Világörökségi helyszín fontos viking kori régészeti maradványokat foglal magában Björkö és Adelsö szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        17.535125,
-                        59.361
-                  ]
-            },
-            {
-                  "name": "Birkamuseet",
-                  "text": "Björkö szigetén található múzeum, amely a történelmi viking település, Birka régészeti leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        17.541974,
-                        59.330443
-                  ]
-            },
-            {
-                  "name": "Adelsö badplats",
-                  "text": "Egy helyi strand és fürdőhely Adelsö szigetén, a történelmi helyszín közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        17.534159,
-                        59.363587
-                  ]
-            },
             {
                   "name": "Björkö naturreservat",
                   "text": "Természetvédelmi terület Björkö szigetén, amely természeti tájakat és régészeti lelőhelyeket egyaránt magában foglal.",
@@ -5419,42 +4879,6 @@ imageHint: "Stockholm Royal Palace facade",
       ],
       "ro": [
             {
-                  "name": "Birka",
-                  "text": "Birka este un sit arheologic proeminent din epoca vikingă și un sit al Patrimoniului Mondial UNESCO pe insula Björkö.",
-                  "category": "historical",
-                  "coords": [
-                        17.544941,
-                        59.332728
-                  ]
-            },
-            {
-                  "name": "Hovgården",
-                  "text": "Acest sit al Patrimoniului Mondial UNESCO include vestigii arheologice importante din epoca vikingă de pe insulele Björkö și Adelsö.",
-                  "category": "historical",
-                  "coords": [
-                        17.535125,
-                        59.361
-                  ]
-            },
-            {
-                  "name": "Birkamuseet",
-                  "text": "Un muzeu de pe Björkö care expune descoperiri arheologice din așezarea istorică vikingă Birka.",
-                  "category": "museum",
-                  "coords": [
-                        17.541974,
-                        59.330443
-                  ]
-            },
-            {
-                  "name": "Adelsö badplats",
-                  "text": "O zonă locală de scăldat și plajă situată pe insula Adelsö, lângă situl istoric.",
-                  "category": "recreational",
-                  "coords": [
-                        17.534159,
-                        59.363587
-                  ]
-            },
-            {
                   "name": "Björkö naturreservat",
                   "text": "O rezervație naturală protejată de pe insula Björkö, care cuprinde atât peisaje naturale, cât și situri arheologice.",
                   "category": "natural",
@@ -5474,42 +4898,6 @@ imageHint: "Stockholm Royal Palace facade",
             }
       ],
       "en": [
-            {
-                  "name": "Birka",
-                  "text": "Birka is a prominent Viking Age archaeological site and a UNESCO World Heritage site on the island of Björkö.",
-                  "category": "historical",
-                  "coords": [
-                        17.544941,
-                        59.332728
-                  ]
-            },
-            {
-                  "name": "Birka and Hovgården",
-                  "text": "This UNESCO World Heritage site includes important Viking Age archaeological remains on the islands of Björkö and Adelsö.",
-                  "category": "historical",
-                  "coords": [
-                        17.535125,
-                        59.361
-                  ]
-            },
-            {
-                  "name": "Birkamuseet",
-                  "text": "A museum on Björkö that displays archaeological finds from the historic Viking settlement of Birka.",
-                  "category": "museum",
-                  "coords": [
-                        17.541974,
-                        59.330443
-                  ]
-            },
-            {
-                  "name": "Adelsö badplats",
-                  "text": "A local swimming area and beach located on the island of Adelsö near the historical site.",
-                  "category": "recreational",
-                  "coords": [
-                        17.534159,
-                        59.363587
-                  ]
-            },
             {
                   "name": "Björkö naturreservat",
                   "text": "A protected nature reserve on the island of Björkö, encompassing both natural landscapes and archaeological sites.",
@@ -6027,39 +5415,12 @@ imageHint: "Stockholm Royal Palace facade",
     id: "sweden-sigtuna-town-history-v2", "sights": {
       "de": [
             {
-                  "name": "Rävsta",
-                  "text": "Rävsta ist ein Naturschutzgebiet mit Eichenwald an den Ufern des Mälaren bei Sigtuna.",
-                  "category": "natural",
-                  "coords": [
-                        17.771629,
-                        59.61234
-                  ]
-            },
-            {
                   "name": "Hällsboskogen",
                   "text": "Hällsboskogen ist ein Waldgebiet mit Wanderwegen nördlich von Sigtuna.",
                   "category": "natural",
                   "coords": [
                         17.68454,
                         59.634338
-                  ]
-            },
-            {
-                  "name": "Munkholmen",
-                  "text": "Munkholmen ist eine kleine Insel im Mälaren vor der Küste Sigtunas, bekannt für ihre Vogelwelt.",
-                  "category": "natural",
-                  "coords": [
-                        17.742326,
-                        59.616048
-                  ]
-            },
-            {
-                  "name": "Schloss Venngarn",
-                  "text": "Venngarn slott – Schloss in Sigtuna.",
-                  "category": "castle",
-                  "coords": [
-                        17.719802,
-                        59.648636
                   ]
             },
             {
@@ -6101,39 +5462,12 @@ imageHint: "Stockholm Royal Palace facade",
       ],
       "hu": [
             {
-                  "name": "Rävsta",
-                  "text": "Rävsta egy természetvédelmi terület tölgyes erdővel a Mälaren-tó partján, Sigtuna közelében.",
-                  "category": "natural",
-                  "coords": [
-                        17.771629,
-                        59.61234
-                  ]
-            },
-            {
                   "name": "Hällsboskogen",
                   "text": "Hällsboskogen egy erdős terület túraútvonalakkal Sigtuna városától északra.",
                   "category": "natural",
                   "coords": [
                         17.68454,
                         59.634338
-                  ]
-            },
-            {
-                  "name": "Munkholmen",
-                  "text": "Munkholmen egy kis sziget a Mälaren-tóban Sigtuna partjainál, madárvilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        17.742326,
-                        59.616048
-                  ]
-            },
-            {
-                  "name": "Wenngarns slott",
-                  "text": "Venngarn slott – kastély Sigtunában.",
-                  "category": "castle",
-                  "coords": [
-                        17.719802,
-                        59.648636
                   ]
             },
             {
@@ -6175,39 +5509,12 @@ imageHint: "Stockholm Royal Palace facade",
       ],
       "ro": [
             {
-                  "name": "Rävsta",
-                  "text": "Rävsta este o rezervație naturală cu pădure de stejari pe malurile lacului Mälaren, lângă Sigtuna.",
-                  "category": "natural",
-                  "coords": [
-                        17.771629,
-                        59.61234
-                  ]
-            },
-            {
                   "name": "Hällsboskogen",
                   "text": "Hällsboskogen este o zonă împădurită cu trasee de drumeție la nord de orașul Sigtuna.",
                   "category": "natural",
                   "coords": [
                         17.68454,
                         59.634338
-                  ]
-            },
-            {
-                  "name": "Munkholmen",
-                  "text": "Munkholmen este o insulă mică în lacul Mälaren, în largul coastei Sigtunei, cunoscută pentru păsări.",
-                  "category": "natural",
-                  "coords": [
-                        17.742326,
-                        59.616048
-                  ]
-            },
-            {
-                  "name": "Wenngarns slott",
-                  "text": "Venngarn slott – castel în Sigtuna.",
-                  "category": "castle",
-                  "coords": [
-                        17.719802,
-                        59.648636
                   ]
             },
             {
@@ -6249,39 +5556,12 @@ imageHint: "Stockholm Royal Palace facade",
       ],
       "en": [
             {
-                  "name": "Rävsta",
-                  "text": "Rävsta is a nature reserve with oak forest on the shores of Lake Mälaren, near Sigtuna.",
-                  "category": "natural",
-                  "coords": [
-                        17.771629,
-                        59.61234
-                  ]
-            },
-            {
                   "name": "Hällsboskogen",
                   "text": "Hällsboskogen is a forested area with hiking trails north of Sigtuna town.",
                   "category": "natural",
                   "coords": [
                         17.68454,
                         59.634338
-                  ]
-            },
-            {
-                  "name": "Munkholmen",
-                  "text": "Munkholmen is a small island in Lake Mälaren off the coast of Sigtuna, known for birdlife.",
-                  "category": "natural",
-                  "coords": [
-                        17.742326,
-                        59.616048
-                  ]
-            },
-            {
-                  "name": "Venngarn Castle",
-                  "text": "Venngarn Castle in Sigtuna.",
-                  "category": "castle",
-                  "coords": [
-                        17.719802,
-                        59.648636
                   ]
             },
             {

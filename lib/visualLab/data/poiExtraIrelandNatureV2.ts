@@ -609,24 +609,6 @@ export const irelandNatureV2: POI[] = [
     id: "ireland-galtee-mountains-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Galtymore",
-                  "text": "Höchster Berg der Galtee Mountains (919 m), Gipfel des Gebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.179176,
-                        52.366003
-                  ]
-            },
-            {
-                  "name": "Knockeenatoung",
-                  "text": "Ein Gipfel in den Galtee Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.155049,
-                        52.349322
-                  ]
-            },
-            {
                   "name": "O'Loughman's Castle",
                   "text": "O'Loughman's Castle, eine Burgruine in den Galtee Mountains auf einem Felsen.",
                   "category": "historical",
@@ -637,24 +619,6 @@ export const irelandNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Galtymore",
-                  "text": "A Galtee-hegység legmagasabb hegye (919 m), a hegység csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.179176,
-                        52.366003
-                  ]
-            },
-            {
-                  "name": "Knockeenatoung",
-                  "text": "Csúcs a Galtee-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.155049,
-                        52.349322
-                  ]
-            },
             {
                   "name": "O'Loughman's Castle",
                   "text": "O'Loughman's Castle, egy várrom a Galtee-hegységben egy sziklás kiszögellésen.",
@@ -667,24 +631,6 @@ export const irelandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Galtymore",
-                  "text": "Cel mai înalt munte din Munții Galtee (919 m), vârful lanțului.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.179176,
-                        52.366003
-                  ]
-            },
-            {
-                  "name": "Knockeenatoung",
-                  "text": "Un vârf în Munții Galtee.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.155049,
-                        52.349322
-                  ]
-            },
-            {
                   "name": "O'Loughman's Castle",
                   "text": "Castelul O'Loughman, o ruină în Munții Galtee, pe un afloriment stâncos.",
                   "category": "historical",
@@ -695,24 +641,6 @@ export const irelandNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Galtymore",
-                  "text": "Highest mountain in the Galtee Mountains (919 m), the peak of the range.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.179176,
-                        52.366003
-                  ]
-            },
-            {
-                  "name": "Knockeenatoung",
-                  "text": "A peak in the Galtee Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.155049,
-                        52.349322
-                  ]
-            },
             {
                   "name": "O'Loughman's Castle",
                   "text": "O'Loughman's Castle, a castle ruin in the Galtee Mountains on a rocky outcrop.",
@@ -861,57 +789,12 @@ export const irelandNatureV2: POI[] = [
     id: "ireland-macgillycuddy-reeks-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Beenkeragh",
-                  "text": "Der zweithöchste Berg Irlands im MacGillycuddy’s Reeks Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.746381,
-                        52.006788
-                  ]
-            },
-            {
-                  "name": "Carrauntoohil",
-                  "text": "Der höchste Berg Irlands, gelegen in der Grafschaft Kerry.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.742693,
-                        51.99945
-                  ]
-            },
-            {
-                  "name": "Caher",
-                  "text": "Der dritthöchste Berg Irlands im MacGillycuddy’s Reeks Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.758392,
-                        51.994444
-                  ]
-            },
-            {
-                  "name": "Caher West Top",
-                  "text": "Ein Berggipfel im MacGillycuddy’s Reeks Gebirge, westlich des Caher-Hauptgipfels.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.763035,
-                        51.99508
-                  ]
-            },
-            {
                   "name": "Maolán Buí",
                   "text": "Ein Gipfel in der Gebirgskette der MacGillycuddy’s Reeks in Irland.",
                   "category": "landmark",
                   "coords": [
                         -9.700877,
                         51.994651
-                  ]
-            },
-            {
-                  "name": "The Bones",
-                  "text": "Ein markanter Berggipfel im Gebirge der MacGillycuddy’s Reeks.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.74704,
-                        52.001703
                   ]
             },
             {
@@ -935,57 +818,12 @@ export const irelandNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Beenkeragh",
-                  "text": "Írország második legmagasabb hegycsúcsa a MacGillycuddy’s Reeks hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.746381,
-                        52.006788
-                  ]
-            },
-            {
-                  "name": "Carrauntoohil",
-                  "text": "Írország legmagasabb hegycsúcsa Kerry megyében.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.742693,
-                        51.99945
-                  ]
-            },
-            {
-                  "name": "Caher",
-                  "text": "Írország harmadik legmagasabb hegye a MacGillycuddy’s Reeks hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.758392,
-                        51.994444
-                  ]
-            },
-            {
-                  "name": "Caher West Top",
-                  "text": "Hegycsúcs a MacGillycuddy’s Reeks hegységben, a Caher-főcsúcstól nyugatra.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.763035,
-                        51.99508
-                  ]
-            },
-            {
                   "name": "Maolán Buí",
                   "text": "Hegycsúcs az írországi MacGillycuddy’s Reeks hegységben.",
                   "category": "landmark",
                   "coords": [
                         -9.700877,
                         51.994651
-                  ]
-            },
-            {
-                  "name": "The Bones",
-                  "text": "Jellegzetes hegycsúcs a MacGillycuddy’s Reeks hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.74704,
-                        52.001703
                   ]
             },
             {
@@ -1009,57 +847,12 @@ export const irelandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Beenkeragh",
-                  "text": "Al doilea cel mai înalt vârf din Irlanda, în munții MacGillycuddy’s Reeks.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.746381,
-                        52.006788
-                  ]
-            },
-            {
-                  "name": "Carrauntoohil",
-                  "text": "Cel mai înalt munte din Irlanda, situat în comitatul Kerry.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.742693,
-                        51.99945
-                  ]
-            },
-            {
-                  "name": "Caher",
-                  "text": "Al treilea cel mai înalt munte din Irlanda, în munții MacGillycuddy’s Reeks.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.758392,
-                        51.994444
-                  ]
-            },
-            {
-                  "name": "Caher West Top",
-                  "text": "Un vârf montan în munții MacGillycuddy’s Reeks, la vest de vârful principal Caher.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.763035,
-                        51.99508
-                  ]
-            },
-            {
                   "name": "Maolán Buí",
                   "text": "Un vârf din lanțul muntos MacGillycuddy’s Reeks din Irlanda.",
                   "category": "landmark",
                   "coords": [
                         -9.700877,
                         51.994651
-                  ]
-            },
-            {
-                  "name": "The Bones",
-                  "text": "Un vârf montan distinctiv în munții MacGillycuddy’s Reeks.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.74704,
-                        52.001703
                   ]
             },
             {
@@ -1083,57 +876,12 @@ export const irelandNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Beenkeragh",
-                  "text": "The second-highest mountain in Ireland, located in the MacGillycuddy’s Reeks range.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.746381,
-                        52.006788
-                  ]
-            },
-            {
-                  "name": "Carrauntoohil",
-                  "text": "The highest mountain in Ireland, located in County Kerry.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.742693,
-                        51.99945
-                  ]
-            },
-            {
-                  "name": "Caher",
-                  "text": "Ireland's third-highest mountain, situated in the MacGillycuddy’s Reeks range.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.758392,
-                        51.994444
-                  ]
-            },
-            {
-                  "name": "Caher West Top",
-                  "text": "A mountain peak in the MacGillycuddy’s Reeks range, located west of the main Caher summit.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.763035,
-                        51.99508
-                  ]
-            },
-            {
                   "name": "Maolán Buí",
                   "text": "A peak in the MacGillycuddy’s Reeks mountain range in Ireland.",
                   "category": "landmark",
                   "coords": [
                         -9.700877,
                         51.994651
-                  ]
-            },
-            {
-                  "name": "The Bones",
-                  "text": "A distinctive mountain peak within the MacGillycuddy’s Reeks range.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.74704,
-                        52.001703
                   ]
             },
             {

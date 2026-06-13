@@ -647,50 +647,10 @@ imageHint: "Kamianets-Podilskyi Castle with illuminated towers at dusk",
   },
   {
     id: "ukraine-baturyn-citadel-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tsitadel' Baturins'koyi fortetsi",
-                  "text": "Die rekonstruierte Zitadelle der historischen Festung Baturyn, ein Symbol der ukrainischen Geschichte.",
-                  "category": "castle",
-                  "coords": [
-                        32.886913,
-                        51.342633
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tsitadel' Baturins'koyi fortetsi",
-                  "text": "A történelmi baturini erőd rekonstruált citadellája, az ukrán történelem egyik szimbóluma.",
-                  "category": "castle",
-                  "coords": [
-                        32.886913,
-                        51.342633
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tsitadel' Baturins'koyi fortetsi",
-                  "text": "Citadela reconstruită a fortăreței istorice Baturîn, un simbol al istoriei ucrainene.",
-                  "category": "castle",
-                  "coords": [
-                        32.886913,
-                        51.342633
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Baturyn fortress;Baturyn Fortress Citadel",
-                  "text": "The reconstructed citadel of the historic Baturyn fortress, a symbol of Ukrainian history.",
-                  "category": "castle",
-                  "coords": [
-                        32.886913,
-                        51.342633
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "UA",
     type: "fortress",
@@ -1206,15 +1166,6 @@ imageHint: "Medieval Lutsk Castle with tall brick towers and wooden galleries",
                         24.900941,
                         49.968383
                   ]
-            },
-            {
-                  "name": "Bila",
-                  "text": "Ein lokales Denkmal in der Nähe der Burg Olesko in der Ukraine.",
-                  "category": "historical",
-                  "coords": [
-                        24.94333,
-                        49.954452
-                  ]
             }
       ],
       "hu": [
@@ -1225,15 +1176,6 @@ imageHint: "Medieval Lutsk Castle with tall brick towers and wooden galleries",
                   "coords": [
                         24.900941,
                         49.968383
-                  ]
-            },
-            {
-                  "name": "Bila",
-                  "text": "Helyi emlékmű az ukrajnai oleszkói vár közelében.",
-                  "category": "historical",
-                  "coords": [
-                        24.94333,
-                        49.954452
                   ]
             }
       ],
@@ -1246,15 +1188,6 @@ imageHint: "Medieval Lutsk Castle with tall brick towers and wooden galleries",
                         24.900941,
                         49.968383
                   ]
-            },
-            {
-                  "name": "Bila",
-                  "text": "Un monument local situat în apropierea castelului Olesko din Ucraina.",
-                  "category": "historical",
-                  "coords": [
-                        24.94333,
-                        49.954452
-                  ]
             }
       ],
       "en": [
@@ -1265,15 +1198,6 @@ imageHint: "Medieval Lutsk Castle with tall brick towers and wooden galleries",
                   "coords": [
                         24.900941,
                         49.968383
-                  ]
-            },
-            {
-                  "name": "Bila",
-                  "text": "A local monument situated near Olesko Castle in Ukraine.",
-                  "category": "historical",
-                  "coords": [
-                        24.94333,
-                        49.954452
                   ]
             }
       ]
@@ -2186,15 +2110,6 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
                   ]
             },
             {
-                  "name": "Aj-Petri",
-                  "text": "Ein markanter Gipfel im Krimgebirge über Alupka, der mit einer Seilbahn erreichbar ist.",
-                  "category": "landmark",
-                  "coords": [
-                        34.055987,
-                        44.448306
-                  ]
-            },
-            {
                   "name": "Vid na Ai-Petri s Krestovoi",
                   "text": "Ein Aussichtspunkt auf dem Berg Krestowaja, der einen weiten Blick auf den markanten Gipfel Ai-Petri bietet.",
                   "category": "natural",
@@ -2428,15 +2343,6 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
                   "coords": [
                         34.042295,
                         44.41414
-                  ]
-            },
-            {
-                  "name": "Ai-Petri",
-                  "text": "A Krími-hegység jellegzetes csúcsa Alupka felett, amely drótkötélpályán is megközelíthető.",
-                  "category": "landmark",
-                  "coords": [
-                        34.055987,
-                        44.448306
                   ]
             },
             {
@@ -2676,15 +2582,6 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
                   ]
             },
             {
-                  "name": "Ai-Petri",
-                  "text": "Un vârf proeminent în Munții Crimeii deasupra Alupkăi, accesibil cu telecabina.",
-                  "category": "landmark",
-                  "coords": [
-                        34.055987,
-                        44.448306
-                  ]
-            },
-            {
                   "name": "Vid na Ai-Petri s Krestovoi",
                   "text": "Un punct de observație pe muntele Krestovaia, oferind o vedere panoramică spre vârful Ai-Petri.",
                   "category": "natural",
@@ -2918,15 +2815,6 @@ imageHint: "Ancient white stone Panteleimon Church in Halych with Romanesque por
                   "coords": [
                         34.042295,
                         44.41414
-                  ]
-            },
-            {
-                  "name": "Ai-Petri",
-                  "text": "A prominent peak in the Crimean Mountains above Alupka, accessible by a cable car.",
-                  "category": "landmark",
-                  "coords": [
-                        34.055987,
-                        44.448306
                   ]
             },
             {
@@ -4553,42 +4441,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                         33.882013,
                         44.748126
                   ]
-            },
-            {
-                  "name": "Muzei Ismaila Gasprinskogo",
-                  "text": "Ein Museum in Bakhchisaray Palace, das der lokalen Geschichte oder Kultur gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        33.894123,
-                        44.746446
-                  ]
-            },
-            {
-                  "name": "Zyndzhyrly medrese (Men'li Gerainyn' medresesi)",
-                  "text": "Ein Museum in Bakhchisaray Palace, das der lokalen Geschichte oder Kultur gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        33.90802,
-                        44.747969
-                  ]
-            },
-            {
-                  "name": "Chufut Kale (K'yrk' Er))",
-                  "text": "Eine mittelalterliche Höhlenstadt und Festung auf einem Plateau in der Nähe von Bachtschissaraj.",
-                  "category": "historical",
-                  "coords": [
-                        33.923354,
-                        44.741089
-                  ]
-            },
-            {
-                  "name": "Iosafatova dolina",
-                  "text": "Tal Josaphat: ein Tal innerhalb des Bakhchysarai-Palastgeländes.",
-                  "category": "landmark",
-                  "coords": [
-                        33.923228,
-                        44.73925
-                  ]
             }
       ],
       "hu": [
@@ -4599,42 +4451,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                   "coords": [
                         33.882013,
                         44.748126
-                  ]
-            },
-            {
-                  "name": "Muzei Ismaila Gasprinskogo",
-                  "text": "Múzeum Bakhchisaray Palace városában, amely a helyi történelmet vagy kultúrát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        33.894123,
-                        44.746446
-                  ]
-            },
-            {
-                  "name": "Zyndzhyrly medrese (Men'li Gerainyn' medresesi)",
-                  "text": "Múzeum Bakhchisaray Palace városában, amely a helyi történelmet vagy kultúrát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        33.90802,
-                        44.747969
-                  ]
-            },
-            {
-                  "name": "Chufut Kale (K'yrk' Er))",
-                  "text": "Középkori barlangváros és erődítmény egy fennsíkon, Bahcsiszeráj közelében.",
-                  "category": "historical",
-                  "coords": [
-                        33.923354,
-                        44.741089
-                  ]
-            },
-            {
-                  "name": "Iosafatova dolina",
-                  "text": "Josafát völgye: egy völgy a Bahcsiszeráj palota területén.",
-                  "category": "landmark",
-                  "coords": [
-                        33.923228,
-                        44.73925
                   ]
             }
       ],
@@ -4647,42 +4463,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                         33.882013,
                         44.748126
                   ]
-            },
-            {
-                  "name": "Muzei Ismaila Gasprinskogo",
-                  "text": "Un muzeu în Bakhchisaray Palace dedicat istoriei sau culturii locale.",
-                  "category": "museum",
-                  "coords": [
-                        33.894123,
-                        44.746446
-                  ]
-            },
-            {
-                  "name": "Zyndzhyrly medrese (Men'li Gerainyn' medresesi)",
-                  "text": "Un muzeu în Bakhchisaray Palace dedicat istoriei sau culturii locale.",
-                  "category": "museum",
-                  "coords": [
-                        33.90802,
-                        44.747969
-                  ]
-            },
-            {
-                  "name": "Chufut Kale (K'yrk' Er))",
-                  "text": "Un oraș medieval în peșteră și o fortăreață situată pe un platou lângă Bahcisarai.",
-                  "category": "historical",
-                  "coords": [
-                        33.923354,
-                        44.741089
-                  ]
-            },
-            {
-                  "name": "Iosafatova dolina",
-                  "text": "Valea lui Iosafat: o vale din incinta Palatului Bakhchysarai.",
-                  "category": "landmark",
-                  "coords": [
-                        33.923228,
-                        44.73925
-                  ]
             }
       ],
       "en": [
@@ -4693,42 +4473,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
                   "coords": [
                         33.882013,
                         44.748126
-                  ]
-            },
-            {
-                  "name": "Ismail Gaspirali museum",
-                  "text": "A museum in Bakhchisaray Palace dedicated to local history or culture.",
-                  "category": "museum",
-                  "coords": [
-                        33.894123,
-                        44.746446
-                  ]
-            },
-            {
-                  "name": "Zincirli Madrasa (Madrasa of Meñli I Giray)",
-                  "text": "A museum in Bakhchisaray Palace dedicated to local history or culture.",
-                  "category": "museum",
-                  "coords": [
-                        33.90802,
-                        44.747969
-                  ]
-            },
-            {
-                  "name": "Chufut Kale (Qırq Yer)",
-                  "text": "A medieval cave city and fortress located on a plateau near Bakhchisaray.",
-                  "category": "historical",
-                  "coords": [
-                        33.923354,
-                        44.741089
-                  ]
-            },
-            {
-                  "name": "Valley of Josaphat",
-                  "text": "Valley of Josaphat: a valley landmark within the Bakhchysarai Palace grounds.",
-                  "category": "landmark",
-                  "coords": [
-                        33.923228,
-                        44.73925
                   ]
             }
       ]
@@ -5797,15 +5541,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
     id: "ukraine-bakhchysarai-cave-monastery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Khanpalast",
-                  "text": "Die ehemalige Residenz der Krim-Khane, berühmt für ihren Tränenbrunnen.",
-                  "category": "museum",
-                  "coords": [
-                        33.882013,
-                        44.748126
-                  ]
-            },
-            {
                   "name": "Muzei Ismaila Gasprinskogo",
                   "text": "Museum, das dem Leben und Werk des krimtatarischen Pädagogen Ismail Gasprinski gewidmet ist.",
                   "category": "museum",
@@ -5843,15 +5578,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
             }
       ],
       "hu": [
-            {
-                  "name": "Khanskii dvorets",
-                  "text": "A krími kánok egykori rezidenciája, amely a Könnyek kútjáról híres.",
-                  "category": "museum",
-                  "coords": [
-                        33.882013,
-                        44.748126
-                  ]
-            },
             {
                   "name": "Muzei Ismaila Gasprinskogo",
                   "text": "Iszmail Gaszprinszkij krími tatár pedagógus életének és munkásságának szentelt múzeum.",
@@ -5891,15 +5617,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
       ],
       "ro": [
             {
-                  "name": "Khanskii dvorets",
-                  "text": "Fosta reședință a hanilor crimeeni, celebră pentru Fântâna Lacrimilor.",
-                  "category": "museum",
-                  "coords": [
-                        33.882013,
-                        44.748126
-                  ]
-            },
-            {
                   "name": "Muzei Ismaila Gasprinskogo",
                   "text": "Muzeu dedicat vieții și activității educatorului tătar crimeean Ismail Gasprinski.",
                   "category": "museum",
@@ -5937,15 +5654,6 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
             }
       ],
       "en": [
-            {
-                  "name": "Khan's Palace",
-                  "text": "The former residence of the Crimean Khans, famous for its Fountain of Tears.",
-                  "category": "museum",
-                  "coords": [
-                        33.882013,
-                        44.748126
-                  ]
-            },
             {
                   "name": "Ismail Gaspirali museum",
                   "text": "Museum dedicated to the life and work of the Crimean Tatar educator Ismail Gasprinsky.",
@@ -6119,50 +5827,10 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
   },
   {
     id: "ukraine-chyhyryn-castle-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Muzei Bogdana Khmel'nits'kogo",
-                  "text": "Museum, das dem Leben des berühmten ukrainischen Kosakenführers gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        32.657479,
-                        49.081059
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Muzei Bogdana Khmel'nits'kogo",
-                  "text": "A híres ukrán kozák vezető életének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        32.657479,
-                        49.081059
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Muzei Bogdana Khmel'nits'kogo",
-                  "text": "Muzeu dedicat vieții celebrului conducător cazac ucrainean.",
-                  "category": "museum",
-                  "coords": [
-                        32.657479,
-                        49.081059
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bohdan Khmelnytskyi Museum",
-                  "text": "Museum dedicated to the life of the famous Ukrainian Cossack leader.",
-                  "category": "museum",
-                  "coords": [
-                        32.657479,
-                        49.081059
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "ruins",
     parent: "UA",
@@ -6839,50 +6507,10 @@ imageHint: "Ancient St. Cyril's Church in Kyiv with green domes and white walls"
   },
   {
     id: "ukraine-zbarazh-synagogue-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Grinvich",
-                  "text": "Grinvich: ein Erholungsgebiet neben der Zbarazh-Synagoge.",
-                  "category": "recreational",
-                  "coords": [
-                        25.750467,
-                        49.66519
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Grinvich",
-                  "text": "Grinvich: egy rekreációs terület a Zbarazh-i zsinagóga mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        25.750467,
-                        49.66519
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Grinvich",
-                  "text": "Grinvich: o zonă de agrement lângă Sinagoga Zbarazh.",
-                  "category": "recreational",
-                  "coords": [
-                        25.750467,
-                        49.66519
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Grinvich",
-                  "text": "Grinvich: a recreational area adjacent to the Zbarazh Synagogue.",
-                  "category": "recreational",
-                  "coords": [
-                        25.750467,
-                        49.66519
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "UA",

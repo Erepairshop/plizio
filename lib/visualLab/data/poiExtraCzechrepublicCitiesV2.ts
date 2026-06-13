@@ -3425,15 +3425,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ondráškovo jezero",
-                  "text": "Ein malerischer See in Ostrava, der sich gut für einen erholsamen Aufenthalt in der Natur eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.280711,
-                        49.890516
-                  ]
-            },
-            {
                   "name": "střední nádrž Bučina Ostravice 1A 471 109",
                   "text": "Ein ruhig gelegener See in Ostrava, der zur Entspannung am Wasser einlädt.",
                   "category": "natural",
@@ -3458,87 +3449,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.269566,
                         49.865807
-                  ]
-            },
-            {
-                  "name": "Výtažník",
-                  "text": "Ein beschaulicher See in Ostrava, der zu gemütlichen Spazierfängen am Ufer einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.365026,
-                        49.855973
-                  ]
-            },
-            {
-                  "name": "Horní Gořalčok",
-                  "text": "Ein kleiner See in Ostrava, der eine angenehme natürliche Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.364581,
-                        49.851679
-                  ]
-            },
-            {
-                  "name": "Spojený rybník",
-                  "text": "Dieser See in Ostrava ist ein ruhiges Ziel für alle, die Entspannung am Wasser suchen.",
-                  "category": "natural",
-                  "coords": [
-                        18.364694,
-                        49.854739
-                  ]
-            },
-            {
-                  "name": "Velký Gořalčok",
-                  "text": "Ein weitläufiger See in Ostrava, der sich ideal für einen Ausflug ins Grüne eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.364508,
-                        49.85318
-                  ]
-            },
-            {
-                  "name": "Malý Cihelník",
-                  "text": "Ein idyllisch gelegener See in Ostrava, der Ruhe und Erholung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.361035,
-                        49.866059
-                  ]
-            },
-            {
-                  "name": "Podkostelní rybník",
-                  "text": "Ein friedlicher Teich in Ostrava, der eine schöne Kulisse für Naturfreunde bildet.",
-                  "category": "natural",
-                  "coords": [
-                        18.378939,
-                        49.860728
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Ein ruhiger See in Ostrava, ideal zum Entspannen in der natürlichen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        18.374724,
-                        49.86269
-                  ]
-            },
-            {
-                  "name": "Prostřední rybník",
-                  "text": "Ein zentral gelegener See in Ostrava, der eine erholsame Atmosphäre bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.376308,
-                        49.861631
-                  ]
-            },
-            {
-                  "name": "Horní rybník",
-                  "text": "Ein schön gelegenes Gewässer in Ostrava, das zum Verweilen im Freien einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.378787,
-                        49.862652
                   ]
             },
             {
@@ -3832,15 +3742,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ondráškovo jezero",
-                  "text": "Gleccsereredetű vagy mesterséges tó Ostrava területén, amely ideális a természetközeli kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.280711,
-                        49.890516
-                  ]
-            },
-            {
                   "name": "střední nádrž Bučina Ostravice 1A 471 109",
                   "text": "Csendes fekvésű tó Ostrava területén, amely pihenésre hív a víz partján.",
                   "category": "natural",
@@ -3865,87 +3766,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.269566,
                         49.865807
-                  ]
-            },
-            {
-                  "name": "Výtažník",
-                  "text": "Békés tó Ostrava területén, amely hangulatos parti sétákra hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        18.365026,
-                        49.855973
-                  ]
-            },
-            {
-                  "name": "Horní Gořalčok",
-                  "text": "Kisméretű tó Ostrava területén, amely kellemes természeti környezetet kínál.",
-                  "category": "natural",
-                  "coords": [
-                        18.364581,
-                        49.851679
-                  ]
-            },
-            {
-                  "name": "Spojený rybník",
-                  "text": "Ez az Ostrava területén található tó nyugodt úticél a vízparti pihenésre vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.364694,
-                        49.854739
-                  ]
-            },
-            {
-                  "name": "Velký Gořalčok",
-                  "text": "Tágas tó Ostrava területén, amely ideális egy zöldövezeti kiránduláshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.364508,
-                        49.85318
-                  ]
-            },
-            {
-                  "name": "Malý Cihelník",
-                  "text": "Idilli fekvésű tó Ostrava területén, amely nyugalmat és pihenést kínál.",
-                  "category": "natural",
-                  "coords": [
-                        18.361035,
-                        49.866059
-                  ]
-            },
-            {
-                  "name": "Podkostelní rybník",
-                  "text": "Békés halastó Ostrava területén, amely szép környezetet nyújt a természetbarátoknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.378939,
-                        49.860728
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Nyugodt tó Ostrava területén, ideális a természetes környezetben való kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.374724,
-                        49.86269
-                  ]
-            },
-            {
-                  "name": "Prostřední rybník",
-                  "text": "Központi fekvésű tó Ostrava területén, amely pihentető légkört biztosít.",
-                  "category": "natural",
-                  "coords": [
-                        18.376308,
-                        49.861631
-                  ]
-            },
-            {
-                  "name": "Horní rybník",
-                  "text": "Szép fekvésű vízfelület Ostrava területén, amely szabadtéri időtöltésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        18.378787,
-                        49.862652
                   ]
             },
             {
@@ -4239,15 +4059,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ondráškovo jezero",
-                  "text": "Un lac pitoresc în Ostrava, potrivit pentru un sejur relaxant în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        18.280711,
-                        49.890516
-                  ]
-            },
-            {
                   "name": "střední nádrž Bučina Ostravice 1A 471 109",
                   "text": "Un lac situat într-o zonă liniștită din Ostrava, care invită la relaxare pe malul apei.",
                   "category": "natural",
@@ -4272,87 +4083,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.269566,
                         49.865807
-                  ]
-            },
-            {
-                  "name": "Výtažník",
-                  "text": "Un lac liniștit în Ostrava, care invită la plimbări plăcute pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        18.365026,
-                        49.855973
-                  ]
-            },
-            {
-                  "name": "Horní Gořalčok",
-                  "text": "Un lac mic în Ostrava, care oferă un mediu natural plăcut.",
-                  "category": "natural",
-                  "coords": [
-                        18.364581,
-                        49.851679
-                  ]
-            },
-            {
-                  "name": "Spojený rybník",
-                  "text": "Acest lac din Ostrava este o destinație liniștită pentru cei care caută relaxare lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        18.364694,
-                        49.854739
-                  ]
-            },
-            {
-                  "name": "Velký Gořalčok",
-                  "text": "Un lac întins în Ostrava, ideal pentru o excursie în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.364508,
-                        49.85318
-                  ]
-            },
-            {
-                  "name": "Malý Cihelník",
-                  "text": "Un lac situat idilic în Ostrava, oferind liniște și recreere.",
-                  "category": "natural",
-                  "coords": [
-                        18.361035,
-                        49.866059
-                  ]
-            },
-            {
-                  "name": "Podkostelní rybník",
-                  "text": "Un iaz liniștit în Ostrava, formând un cadru frumos pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.378939,
-                        49.860728
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Un lac liniștit în Ostrava, ideal pentru relaxare în mediul natural.",
-                  "category": "natural",
-                  "coords": [
-                        18.374724,
-                        49.86269
-                  ]
-            },
-            {
-                  "name": "Prostřední rybník",
-                  "text": "Un lac situat central în Ostrava, oferind o atmosferă relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        18.376308,
-                        49.861631
-                  ]
-            },
-            {
-                  "name": "Horní rybník",
-                  "text": "O apă frumos situată în Ostrava, care invită la petrecerea timpului în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        18.378787,
-                        49.862652
                   ]
             },
             {
@@ -4646,15 +4376,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ondráškovo jezero",
-                  "text": "A scenic lake in Ostrava, well-suited for a relaxing stay in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.280711,
-                        49.890516
-                  ]
-            },
-            {
                   "name": "střední nádrž Bučina Ostravice 1A 471 109",
                   "text": "A quietly located lake in Ostrava, inviting relaxation by the water.",
                   "category": "natural",
@@ -4679,87 +4400,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.269566,
                         49.865807
-                  ]
-            },
-            {
-                  "name": "Výtažník",
-                  "text": "A tranquil lake in Ostrava, inviting pleasant walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        18.365026,
-                        49.855973
-                  ]
-            },
-            {
-                  "name": "Horní Gořalčok",
-                  "text": "A small lake in Ostrava, providing a pleasant natural environment.",
-                  "category": "natural",
-                  "coords": [
-                        18.364581,
-                        49.851679
-                  ]
-            },
-            {
-                  "name": "Spojený rybník",
-                  "text": "This lake in Ostrava is a quiet destination for those seeking relaxation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.364694,
-                        49.854739
-                  ]
-            },
-            {
-                  "name": "Velký Gořalčok",
-                  "text": "A spacious lake in Ostrava, ideal for a trip into the countryside.",
-                  "category": "natural",
-                  "coords": [
-                        18.364508,
-                        49.85318
-                  ]
-            },
-            {
-                  "name": "Malý Cihelník",
-                  "text": "An idyllically located lake in Ostrava, offering peace and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        18.361035,
-                        49.866059
-                  ]
-            },
-            {
-                  "name": "Podkostelní rybník",
-                  "text": "A peaceful pond in Ostrava, providing a beautiful setting for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        18.378939,
-                        49.860728
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "A quiet lake in Ostrava, ideal for relaxing in the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        18.374724,
-                        49.86269
-                  ]
-            },
-            {
-                  "name": "Prostřední rybník",
-                  "text": "A centrally located lake in Ostrava, offering a restorative atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        18.376308,
-                        49.861631
-                  ]
-            },
-            {
-                  "name": "Horní rybník",
-                  "text": "A beautifully situated body of water in Ostrava, inviting outdoor leisure.",
-                  "category": "natural",
-                  "coords": [
-                        18.378787,
-                        49.862652
                   ]
             },
             {
@@ -7695,15 +7335,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Požární nádrž u Prezid.ch",
-                  "text": "Historischer Löschwasserteich bei Prezid.ch in Liberec.",
-                  "category": "natural",
-                  "coords": [
-                        15.160942,
-                        50.79405
-                  ]
-            },
-            {
                   "name": "Kateřinsko-Radčické koupaliště",
                   "text": "Ein Naturbad in Liberec für sommerliches Vergnügen am Wasser.",
                   "category": "natural",
@@ -8171,15 +7802,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.033408,
                         50.778523
-                  ]
-            },
-            {
-                  "name": "Požární nádrž u Prezid.ch",
-                  "text": "Történelmi tűzoltóvíz-tározó a Prezid.ch mellett Liberecben.",
-                  "category": "natural",
-                  "coords": [
-                        15.160942,
-                        50.79405
                   ]
             },
             {
@@ -8653,15 +8275,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Požární nádrž u Prezid.ch",
-                  "text": "Rezervor istoric de apă pentru incendiu lângă Prezid.ch în Liberec.",
-                  "category": "natural",
-                  "coords": [
-                        15.160942,
-                        50.79405
-                  ]
-            },
-            {
                   "name": "Kateřinsko-Radčické koupaliště",
                   "text": "Un ștrand natural în Liberec pentru distracție estivală la apă.",
                   "category": "natural",
@@ -9129,15 +8742,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.033408,
                         50.778523
-                  ]
-            },
-            {
-                  "name": "Požární nádrž u Prezid.ch",
-                  "text": "Historic fire-fighting reservoir near Prezid.ch in Liberec.",
-                  "category": "natural",
-                  "coords": [
-                        15.160942,
-                        50.79405
                   ]
             },
             {
@@ -15398,15 +15002,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rybník Špagátovník",
-                  "text": "Ein kleiner Teich in Pardubice, der sich gut für einen kurzen Spaziergang eignet.",
-                  "category": "natural",
-                  "coords": [
-                        15.746995,
-                        49.979655
-                  ]
-            },
-            {
                   "name": "RY22a",
                   "text": "Ein naturbelassener See in Pardubice, der zur Erholung am Wasser einlädt.",
                   "category": "natural",
@@ -15422,15 +15017,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.7659,
                         50.092786
-                  ]
-            },
-            {
-                  "name": "Dubanský rybník",
-                  "text": "Ein idyllischer See in Pardubice, ideal für Naturbeobachtungen und Ruhe.",
-                  "category": "natural",
-                  "coords": [
-                        15.72201,
-                        49.989793
                   ]
             },
             {
@@ -15985,15 +15571,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rybník Špagátovník",
-                  "text": "Kisméretű halastó Pardubice területén, amely alkalmas egy rövid sétára.",
-                  "category": "natural",
-                  "coords": [
-                        15.746995,
-                        49.979655
-                  ]
-            },
-            {
                   "name": "RY22a",
                   "text": "Természetközeli tó Pardubice területén, amely vízparti kikapcsolódásra hívogat.",
                   "category": "natural",
@@ -16009,15 +15586,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.7659,
                         50.092786
-                  ]
-            },
-            {
-                  "name": "Dubanský rybník",
-                  "text": "Idilli tó Pardubice területén, ideális a természet megfigyelésére és nyugalomra.",
-                  "category": "natural",
-                  "coords": [
-                        15.72201,
-                        49.989793
                   ]
             },
             {
@@ -16572,15 +16140,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rybník Špagátovník",
-                  "text": "Un iaz mic în Pardubice, potrivit pentru o scurtă plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        15.746995,
-                        49.979655
-                  ]
-            },
-            {
                   "name": "RY22a",
                   "text": "Un lac natural în Pardubice, care invită la recreere pe malul apei.",
                   "category": "natural",
@@ -16596,15 +16155,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.7659,
                         50.092786
-                  ]
-            },
-            {
-                  "name": "Dubanský rybník",
-                  "text": "Un lac idilic în Pardubice, ideal pentru observarea naturii și liniște.",
-                  "category": "natural",
-                  "coords": [
-                        15.72201,
-                        49.989793
                   ]
             },
             {
@@ -17159,15 +16709,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rybník Špagátovník",
-                  "text": "A small pond in Pardubice, well-suited for a short walk.",
-                  "category": "natural",
-                  "coords": [
-                        15.746995,
-                        49.979655
-                  ]
-            },
-            {
                   "name": "RY22a",
                   "text": "A natural lake in Pardubice, inviting relaxation by the water.",
                   "category": "natural",
@@ -17183,15 +16724,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.7659,
                         50.092786
-                  ]
-            },
-            {
-                  "name": "Dubanský rybník",
-                  "text": "An idyllic lake in Pardubice, ideal for nature observation and peace.",
-                  "category": "natural",
-                  "coords": [
-                        15.72201,
-                        49.989793
                   ]
             },
             {
@@ -18714,93 +18246,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horní nádrž Bučina",
-                  "text": "Ein See in Havířov, der eine friedliche Umgebung für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.353357,
-                        49.807297
-                  ]
-            },
-            {
-                  "name": "Kozí Becirk",
-                  "text": "Naturgebiet mit Ziegenweide und Bienenstöcken nahe Becirk.",
-                  "category": "natural",
-                  "coords": [
-                        18.430207,
-                        49.828938
-                  ]
-            },
-            {
-                  "name": "Panský Stav",
-                  "text": "Ein kleiner See in Havířov, der zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.442373,
-                        49.828061
-                  ]
-            },
-            {
-                  "name": "Ignačok",
-                  "text": "Ein See in Havířov, der eine natürliche Kulisse für Entspannung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.439761,
-                        49.826494
-                  ]
-            },
-            {
-                  "name": "Kdyně",
-                  "text": "Ein Gewässer in Havířov, ideal für ruhige Momente am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        18.442995,
-                        49.836773
-                  ]
-            },
-            {
-                  "name": "Liberďok",
-                  "text": "Naturschutzgebiet Liberďok, ein bewaldetes Gebiet mit Wanderwegen.",
-                  "category": "natural",
-                  "coords": [
-                        18.439337,
-                        49.83695
-                  ]
-            },
-            {
-                  "name": "střední nádrž Bučina Ostravice 1A 471 109",
-                  "text": "Ein Teil eines Wassersystems in Havířov, eingebettet in die Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        18.352465,
-                        49.808553
-                  ]
-            },
-            {
-                  "name": "Spodní nádrž Bučina",
-                  "text": "Ein See in Havířov, der zur Erholung in der Umgebung einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.350017,
-                        49.808922
-                  ]
-            },
-            {
                   "name": "Bartošůvka",
                   "text": "Ein See in Havířov, der eine schöne Aussicht auf die Natur bietet.",
                   "category": "natural",
                   "coords": [
                         18.434186,
                         49.811794
-                  ]
-            },
-            {
-                  "name": "Pilňok",
-                  "text": "Ein See in Havířov, ideal für Naturliebhaber und Ruhesuchende.",
-                  "category": "natural",
-                  "coords": [
-                        18.504915,
-                        49.824551
                   ]
             },
             {
@@ -18959,93 +18410,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horní nádrž Bučina",
-                  "text": "Egy tó Havířov területén, amely békés környezetet kínál a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.353357,
-                        49.807297
-                  ]
-            },
-            {
-                  "name": "Kozí Becirk",
-                  "text": "Természeti terület kecskelegelővel és méhkaptárakkal Becirk közelében.",
-                  "category": "natural",
-                  "coords": [
-                        18.430207,
-                        49.828938
-                  ]
-            },
-            {
-                  "name": "Panský Stav",
-                  "text": "Egy kis tó Havířov területén, amely természetközeli kikapcsolódásra hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        18.442373,
-                        49.828061
-                  ]
-            },
-            {
-                  "name": "Ignačok",
-                  "text": "Egy tó Havířov területén, amely természetes környezetet biztosít a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        18.439761,
-                        49.826494
-                  ]
-            },
-            {
-                  "name": "Kdyně",
-                  "text": "Egy vízfelület Havířov területén, amely ideális a vízparti nyugodt pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.442995,
-                        49.836773
-                  ]
-            },
-            {
-                  "name": "Liberďok",
-                  "text": "Liberďok természetvédelmi terület, erdős vidék túraútvonalakkal.",
-                  "category": "natural",
-                  "coords": [
-                        18.439337,
-                        49.83695
-                  ]
-            },
-            {
-                  "name": "střední nádrž Bučina Ostravice 1A 471 109",
-                  "text": "Egy vízrendszer része Havířov területén, a tájba ágyazva.",
-                  "category": "natural",
-                  "coords": [
-                        18.352465,
-                        49.808553
-                  ]
-            },
-            {
-                  "name": "Spodní nádrž Bučina",
-                  "text": "Egy tó Havířov területén, amely pihenésre hív a környéken.",
-                  "category": "natural",
-                  "coords": [
-                        18.350017,
-                        49.808922
-                  ]
-            },
-            {
                   "name": "Bartošůvka",
                   "text": "Egy tó Havířov területén, amely szép kilátást nyújt a természetre.",
                   "category": "natural",
                   "coords": [
                         18.434186,
                         49.811794
-                  ]
-            },
-            {
-                  "name": "Pilňok",
-                  "text": "Egy tó Havířov területén, amely ideális a természet kedvelőinek és a nyugalomra vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.504915,
-                        49.824551
                   ]
             },
             {
@@ -19204,93 +18574,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horní nádrž Bučina",
-                  "text": "Un lac în Havířov, oferind un mediu liniștit pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        18.353357,
-                        49.807297
-                  ]
-            },
-            {
-                  "name": "Kozí Becirk",
-                  "text": "Zonă naturală cu pășune de capre și stupi lângă Becirk.",
-                  "category": "natural",
-                  "coords": [
-                        18.430207,
-                        49.828938
-                  ]
-            },
-            {
-                  "name": "Panský Stav",
-                  "text": "Un lac mic în Havířov, care invită la relaxare în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        18.442373,
-                        49.828061
-                  ]
-            },
-            {
-                  "name": "Ignačok",
-                  "text": "Un lac în Havířov, oferind un cadru natural pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        18.439761,
-                        49.826494
-                  ]
-            },
-            {
-                  "name": "Kdyně",
-                  "text": "Un luciu de apă în Havířov, ideal pentru momente liniștite pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        18.442995,
-                        49.836773
-                  ]
-            },
-            {
-                  "name": "Liberďok",
-                  "text": "Rezervația naturală Liberďok, o zonă împădurită cu trasee de drumeție.",
-                  "category": "natural",
-                  "coords": [
-                        18.439337,
-                        49.83695
-                  ]
-            },
-            {
-                  "name": "střední nádrž Bučina Ostravice 1A 471 109",
-                  "text": "O parte a unui sistem de apă în Havířov, integrată în peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        18.352465,
-                        49.808553
-                  ]
-            },
-            {
-                  "name": "Spodní nádrž Bučina",
-                  "text": "Un lac în Havířov, care invită la recreere în zonă.",
-                  "category": "natural",
-                  "coords": [
-                        18.350017,
-                        49.808922
-                  ]
-            },
-            {
                   "name": "Bartošůvka",
                   "text": "Un lac în Havířov, oferind o priveliște frumoasă asupra naturii.",
                   "category": "natural",
                   "coords": [
                         18.434186,
                         49.811794
-                  ]
-            },
-            {
-                  "name": "Pilňok",
-                  "text": "Un lac în Havířov, ideal pentru iubitorii de natură și cei care caută liniște.",
-                  "category": "natural",
-                  "coords": [
-                        18.504915,
-                        49.824551
                   ]
             },
             {
@@ -19449,93 +18738,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horní nádrž Bučina",
-                  "text": "A lake in Havířov, offering a peaceful environment for walks.",
-                  "category": "natural",
-                  "coords": [
-                        18.353357,
-                        49.807297
-                  ]
-            },
-            {
-                  "name": "Kozí Becirk",
-                  "text": "Natural area with a goat pasture and beehives near Becirk.",
-                  "category": "natural",
-                  "coords": [
-                        18.430207,
-                        49.828938
-                  ]
-            },
-            {
-                  "name": "Panský Stav",
-                  "text": "A small lake in Havířov, inviting for relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.442373,
-                        49.828061
-                  ]
-            },
-            {
-                  "name": "Ignačok",
-                  "text": "A lake in Havířov, providing a natural setting for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        18.439761,
-                        49.826494
-                  ]
-            },
-            {
-                  "name": "Kdyně",
-                  "text": "A body of water in Havířov, ideal for quiet moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.442995,
-                        49.836773
-                  ]
-            },
-            {
-                  "name": "Liberďok",
-                  "text": "Natural reserve Liberďok, a forested area with hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        18.439337,
-                        49.83695
-                  ]
-            },
-            {
-                  "name": "střední nádrž Bučina Ostravice 1A 471 109",
-                  "text": "Part of a water system in Havířov, nestled in the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        18.352465,
-                        49.808553
-                  ]
-            },
-            {
-                  "name": "Spodní nádrž Bučina",
-                  "text": "A lake in Havířov, inviting for recreation in the area.",
-                  "category": "natural",
-                  "coords": [
-                        18.350017,
-                        49.808922
-                  ]
-            },
-            {
                   "name": "Bartošůvka",
                   "text": "A lake in Havířov, offering a beautiful view of nature.",
                   "category": "natural",
                   "coords": [
                         18.434186,
                         49.811794
-                  ]
-            },
-            {
-                  "name": "Pilňok",
-                  "text": "A lake in Havířov, ideal for nature lovers and those seeking peace.",
-                  "category": "natural",
-                  "coords": [
-                        18.504915,
-                        49.824551
                   ]
             },
             {
@@ -22403,15 +21611,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stausee Zermanitz",
-                  "text": "Ein großer Stausee bei Frydek Mistek, ideal für Erholung und Spaziergänge am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        18.460913,
-                        49.719371
-                  ]
-            },
-            {
                   "name": "Košice",
                   "text": "Ein ruhiger See in Frydek Mistek, der eine angenehme natürliche Umgebung bietet.",
                   "category": "natural",
@@ -22436,15 +21635,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.288391,
                         49.726051
-                  ]
-            },
-            {
-                  "name": "Za kravínem",
-                  "text": "Ein kleiner See in Frydek Mistek, der eine friedliche Atmosphäre im Grünen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.367786,
-                        49.62018
                   ]
             },
             {
@@ -22702,15 +21892,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Žermanická přehrada",
-                  "text": "Nagy víztározó Frydek Mistek közelében, ideális pihenésre és vízparti sétákra.",
-                  "category": "natural",
-                  "coords": [
-                        18.460913,
-                        49.719371
-                  ]
-            },
-            {
                   "name": "Košice",
                   "text": "Nyugodt tó Frydek Mistek területén, amely kellemes természeti környezetet kínál.",
                   "category": "natural",
@@ -22735,15 +21916,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.288391,
                         49.726051
-                  ]
-            },
-            {
-                  "name": "Za kravínem",
-                  "text": "Kisméretű tó Frydek Mistek területén, amely békés hangulatot áraszt a zöldben.",
-                  "category": "natural",
-                  "coords": [
-                        18.367786,
-                        49.62018
                   ]
             },
             {
@@ -23001,15 +22173,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Žermanická přehrada",
-                  "text": "Un lac de acumulare mare lângă Frydek Mistek, ideal pentru recreere și plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        18.460913,
-                        49.719371
-                  ]
-            },
-            {
                   "name": "Košice",
                   "text": "Un lac liniștit în Frydek Mistek, care oferă un mediu natural plăcut.",
                   "category": "natural",
@@ -23034,15 +22197,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.288391,
                         49.726051
-                  ]
-            },
-            {
-                  "name": "Za kravínem",
-                  "text": "Un lac mic în Frydek Mistek, oferind o atmosferă pașnică în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        18.367786,
-                        49.62018
                   ]
             },
             {
@@ -23300,15 +22454,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Žermanická přehrada",
-                  "text": "A large reservoir near Frydek Mistek, ideal for recreation and walks by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.460913,
-                        49.719371
-                  ]
-            },
-            {
                   "name": "Košice",
                   "text": "A quiet lake in Frydek Mistek, providing a pleasant natural environment.",
                   "category": "natural",
@@ -23333,15 +22478,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.288391,
                         49.726051
-                  ]
-            },
-            {
-                  "name": "Za kravínem",
-                  "text": "A small lake in Frydek Mistek, offering a peaceful atmosphere in the countryside.",
-                  "category": "natural",
-                  "coords": [
-                        18.367786,
-                        49.62018
                   ]
             },
             {
@@ -23503,42 +22639,6 @@ export const czechrepublicCitiesV2: POI[] = [
     id: "czechrepublic-karvina-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Panský Stav",
-                  "text": "Ein friedlicher See in Karviná, der sich zum Spazierengehen und Naturgenießen eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.442373,
-                        49.828061
-                  ]
-            },
-            {
-                  "name": "Ignačok",
-                  "text": "Ein lokaler Teich in Karviná, der einen ruhigen Ort für die Erholung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.439761,
-                        49.826494
-                  ]
-            },
-            {
-                  "name": "Kdyně",
-                  "text": "Dieses Gewässer in Karviná ist ein ruhiger Bereich für Naturspaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        18.442995,
-                        49.836773
-                  ]
-            },
-            {
-                  "name": "Liberďok",
-                  "text": "Ein Teich in Karviná, der Besuchern eine natürliche Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.439337,
-                        49.83695
-                  ]
-            },
-            {
                   "name": "Pilňok",
                   "text": "Ein kleiner See in Karviná, ideal für einen ruhigen Spaziergang und frische Luft.",
                   "category": "natural",
@@ -23554,15 +22654,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.560954,
                         49.896238
-                  ]
-            },
-            {
-                  "name": "Koliba",
-                  "text": "Ein Wassergebiet in Karviná, das sich für entspannende Spaziergänge in Stadtnähe eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.437147,
-                        49.868704
                   ]
             },
             {
@@ -23667,42 +22758,6 @@ export const czechrepublicCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Panský Stav",
-                  "text": "Nyugodt tó Karviná területén, amely alkalmas sétálásra és a természet élvezetére.",
-                  "category": "natural",
-                  "coords": [
-                        18.442373,
-                        49.828061
-                  ]
-            },
-            {
-                  "name": "Ignačok",
-                  "text": "Helyi tó Karviná területén, amely csendes helyet biztosít a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.439761,
-                        49.826494
-                  ]
-            },
-            {
-                  "name": "Kdyně",
-                  "text": "Ez a Karviná-i vízfelület nyugodt terület a természetjáró sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.442995,
-                        49.836773
-                  ]
-            },
-            {
-                  "name": "Liberďok",
-                  "text": "Tó Karviná területén, amely természetes környezetet kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.439337,
-                        49.83695
-                  ]
-            },
-            {
                   "name": "Pilňok",
                   "text": "Kis tó Karviná területén, amely ideális egy csendes sétához és friss levegőhöz.",
                   "category": "natural",
@@ -23718,15 +22773,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.560954,
                         49.896238
-                  ]
-            },
-            {
-                  "name": "Koliba",
-                  "text": "Vízparti terület Karviná közelében, amely alkalmas pihentető sétákra a város mellett.",
-                  "category": "natural",
-                  "coords": [
-                        18.437147,
-                        49.868704
                   ]
             },
             {
@@ -23831,42 +22877,6 @@ export const czechrepublicCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Panský Stav",
-                  "text": "Un lac liniștit în Karvina, potrivit pentru plimbări și admirarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        18.442373,
-                        49.828061
-                  ]
-            },
-            {
-                  "name": "Ignačok",
-                  "text": "Un iaz local în Karvina care oferă un loc liniștit pentru recreere.",
-                  "category": "natural",
-                  "coords": [
-                        18.439761,
-                        49.826494
-                  ]
-            },
-            {
-                  "name": "Kdyně",
-                  "text": "Această întindere de apă din Karvina este o zonă calmă pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.442995,
-                        49.836773
-                  ]
-            },
-            {
-                  "name": "Liberďok",
-                  "text": "Un iaz în Karvina care oferă un mediu natural pentru vizitatori.",
-                  "category": "natural",
-                  "coords": [
-                        18.439337,
-                        49.83695
-                  ]
-            },
-            {
                   "name": "Pilňok",
                   "text": "Un lac mic în Karvina, ideal pentru o plimbare liniștită și aer curat.",
                   "category": "natural",
@@ -23882,15 +22892,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.560954,
                         49.896238
-                  ]
-            },
-            {
-                  "name": "Koliba",
-                  "text": "O zonă acvatică în Karvina potrivită pentru plimbări relaxante lângă oraș.",
-                  "category": "natural",
-                  "coords": [
-                        18.437147,
-                        49.868704
                   ]
             },
             {
@@ -23995,42 +22996,6 @@ export const czechrepublicCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Panský Stav",
-                  "text": "A peaceful lake in Karvina suitable for walking and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.442373,
-                        49.828061
-                  ]
-            },
-            {
-                  "name": "Ignačok",
-                  "text": "A local pond in Karvina providing a quiet spot for recreation.",
-                  "category": "natural",
-                  "coords": [
-                        18.439761,
-                        49.826494
-                  ]
-            },
-            {
-                  "name": "Kdyně",
-                  "text": "This body of water in Karvina is a calm area for nature walks.",
-                  "category": "natural",
-                  "coords": [
-                        18.442995,
-                        49.836773
-                  ]
-            },
-            {
-                  "name": "Liberďok",
-                  "text": "A pond in Karvina offering a natural environment for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        18.439337,
-                        49.83695
-                  ]
-            },
-            {
                   "name": "Pilňok",
                   "text": "A small lake in Karvina ideal for a quiet stroll and fresh air.",
                   "category": "natural",
@@ -24046,15 +23011,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.560954,
                         49.896238
-                  ]
-            },
-            {
-                  "name": "Koliba",
-                  "text": "A water area in Karvina suitable for relaxing walks near the city.",
-                  "category": "natural",
-                  "coords": [
-                        18.437147,
-                        49.868704
                   ]
             },
             {
@@ -34739,15 +33695,6 @@ export const czechrepublicCitiesV2: POI[] = [
     id: "czechrepublic-trebic-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Muzeum Vysočiny",
-                  "text": "Muzeum Vysočiny in Třebíč, untergebracht in einem ehemaligen Jesuitenkolleg, zeigt Regionalgeschichte.",
-                  "category": "museum",
-                  "coords": [
-                        15.873055,
-                        49.216689
-                  ]
-            },
-            {
                   "name": "Národní Dům",
                   "text": "Národní Dům, ein historisches Jugendstil-Kulturzentrum in Třebíč.",
                   "category": "cultural",
@@ -34775,30 +33722,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alternátor",
-                  "text": "Alternátor, ein Museum für Technik und Industriegeschichte in Třebíč.",
-                  "category": "museum",
-                  "coords": [
-                        15.861703,
-                        49.20708
-                  ]
-            },
-            {
                   "name": "rodný dům Bohumíra Šmerala",
                   "text": "Das Geburtshaus von Bohumír Šmeral dient als Museum in Trebitsch.",
                   "category": "museum",
                   "coords": [
                         15.889452,
                         49.214733
-                  ]
-            },
-            {
-                  "name": "Židovské muzeum",
-                  "text": "Das Židovské muzeum (Jüdisches Museum) in Třebíč dokumentiert das jüdische Erbe der Stadt.",
-                  "category": "museum",
-                  "coords": [
-                        15.87916,
-                        49.217747
                   ]
             },
             {
@@ -34811,24 +33740,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zábavní park Labyrint",
-                  "text": "Familienpark Labyrint in Třebíč mit einem Irrgarten.",
-                  "category": "family",
-                  "coords": [
-                        15.871478,
-                        49.217376
-                  ]
-            },
-            {
-                  "name": "Muzeum automobilů Jaguár",
-                  "text": "Jaguar-Automuseum in Třebíč, das Fahrzeuge der Marke zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        15.869663,
-                        49.217671
-                  ]
-            },
-            {
                   "name": "Hasskova zahrada",
                   "text": "Hasskova zahrada, ein nach Hassk benannter Park in Třebíč.",
                   "category": "park",
@@ -34838,39 +33749,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Krankenhaus",
-                  "text": "Krankenhaus, ein ehemaliges Krankenhausgebäude in Třebíč, heute Kulturzentrum.",
-                  "category": "landmark",
-                  "coords": [
-                        15.87723,
-                        49.218145
-                  ]
-            },
-            {
-                  "name": "Týnské údolí",
-                  "text": "Týnské údolí, ein bewaldetes Tal entlang der Jihlava in Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.879936,
-                        49.221817
-                  ]
-            },
-            {
                   "name": "Fórum",
                   "text": "Fórum, ein modernes Kultur- und Konferenzzentrum in Třebíč.",
                   "category": "cultural",
                   "coords": [
                         15.878878,
                         49.213777
-                  ]
-            },
-            {
-                  "name": "Hájek",
-                  "text": "Hájek, ein bewaldeter Park mit Spazierwegen am Stadtrand von Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.886614,
-                        49.222162
                   ]
             },
             {
@@ -34910,15 +33794,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Subaks Gerberei",
-                  "text": "Subak's Tannery ist eine Sehenswürdigkeit für Besucher in Trebitsch.",
-                  "category": "landmark",
-                  "coords": [
-                        15.881231,
-                        49.217622
-                  ]
-            },
-            {
                   "name": "Astronomical observatory",
                   "text": "Astronomische Sternwarte in Třebíč zur Himmelsbeobachtung.",
                   "category": "natural",
@@ -34937,30 +33812,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Apartmány U synagogy",
-                  "text": "Apartments neben der Synagoge in Třebíč.",
-                  "category": "landmark",
-                  "coords": [
-                        15.876898,
-                        49.216906
-                  ]
-            },
-            {
                   "name": "kruhová bašta na Hrádku",
                   "text": "Runde Bastion auf dem Hrádek-Hügel in Třebíč.",
                   "category": "historical",
                   "coords": [
                         15.882991,
                         49.217582
-                  ]
-            },
-            {
-                  "name": "Nalezení sv. Kříže",
-                  "text": "Nalezení sv. Kříže, eine Kapelle der Kreuzauffindung in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.873171,
-                        49.224322
                   ]
             },
             {
@@ -35006,24 +33863,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.878598,
                         49.21264
-                  ]
-            },
-            {
-                  "name": "Kaple svatého Josefa",
-                  "text": "Kaple svatého Josefa ist eine lokale Kapelle und Kultstätte in Trebitsch.",
-                  "category": "religious",
-                  "coords": [
-                        15.871782,
-                        49.214376
-                  ]
-            },
-            {
-                  "name": "Borovinský most",
-                  "text": "Borovinský most ist eine bemerkenswerte Brückeninfrastruktur in der Stadt Trebitsch.",
-                  "category": "landmark",
-                  "coords": [
-                        15.871151,
-                        49.211927
                   ]
             },
             {
@@ -35254,15 +34093,6 @@ export const czechrepublicCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Muzeum Vysočiny",
-                  "text": "Muzeum Vysočiny Třebíčben, egy volt jezsuita kollégiumban, regionális történelmet mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        15.873055,
-                        49.216689
-                  ]
-            },
-            {
                   "name": "Národní Dům",
                   "text": "Národní Dům, egy szecessziós stílusú történelmi kulturális központ Třebíčben.",
                   "category": "cultural",
@@ -35290,30 +34120,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alternátor",
-                  "text": "Alternátor, egy technika- és ipartörténeti múzeum Třebíčben.",
-                  "category": "museum",
-                  "coords": [
-                        15.861703,
-                        49.20708
-                  ]
-            },
-            {
                   "name": "rodný dům Bohumíra Šmerala",
                   "text": "Bohumír Šmeral szülőháza ma múzeumként működik Trebitschben.",
                   "category": "museum",
                   "coords": [
                         15.889452,
                         49.214733
-                  ]
-            },
-            {
-                  "name": "Židovské muzeum",
-                  "text": "A trebíči Židovské muzeum (Zsidó Múzeum) a város zsidó örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        15.87916,
-                        49.217747
                   ]
             },
             {
@@ -35326,24 +34138,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zábavní park Labyrint",
-                  "text": "Labyrint szórakoztató park Třebíčben, labirintussal.",
-                  "category": "family",
-                  "coords": [
-                        15.871478,
-                        49.217376
-                  ]
-            },
-            {
-                  "name": "Muzeum automobilů Jaguár",
-                  "text": "Jaguár autómúzeum Třebíčben, amely a márka autóit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        15.869663,
-                        49.217671
-                  ]
-            },
-            {
                   "name": "Hasskova zahrada",
                   "text": "Hasskova zahrada, egy Hasskról elnevezett park Třebíčben.",
                   "category": "park",
@@ -35353,39 +34147,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Krankenhaus",
-                  "text": "Krankenhaus, egy egykori kórházépület Třebíčben, ma kulturális központ.",
-                  "category": "landmark",
-                  "coords": [
-                        15.87723,
-                        49.218145
-                  ]
-            },
-            {
-                  "name": "Týnské údolí",
-                  "text": "Týnské údolí, egy erdős völgy a Jihlava folyó mentén Třebíčben.",
-                  "category": "park",
-                  "coords": [
-                        15.879936,
-                        49.221817
-                  ]
-            },
-            {
                   "name": "Fórum",
                   "text": "Fórum, egy modern kulturális és konferenciaközpont Třebíčben.",
                   "category": "cultural",
                   "coords": [
                         15.878878,
                         49.213777
-                  ]
-            },
-            {
-                  "name": "Hájek",
-                  "text": "Hájek, egy erdős park sétányokkal Třebíč külvárosában.",
-                  "category": "park",
-                  "coords": [
-                        15.886614,
-                        49.222162
                   ]
             },
             {
@@ -35425,15 +34192,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Subakova koželužna",
-                  "text": "A Subak's Tannery egy érdekes látnivaló a Trebitschbe látogatók számára.",
-                  "category": "landmark",
-                  "coords": [
-                        15.881231,
-                        49.217622
-                  ]
-            },
-            {
                   "name": "Astronomical observatory",
                   "text": "Csillagvizsgáló Třebíčben az égitestek megfigyelésére.",
                   "category": "natural",
@@ -35452,30 +34210,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Apartmány U synagogy",
-                  "text": "Apartmanok a zsinagóga mellett Třebíčben.",
-                  "category": "landmark",
-                  "coords": [
-                        15.876898,
-                        49.216906
-                  ]
-            },
-            {
                   "name": "kruhová bašta na Hrádku",
                   "text": "Kör alakú bástya a Hrádek-dombon Třebíčben.",
                   "category": "historical",
                   "coords": [
                         15.882991,
                         49.217582
-                  ]
-            },
-            {
-                  "name": "Nalezení sv. Kříže",
-                  "text": "Nalezení sv. Kříže, a Szent Kereszt megtalálásának kápolnája Třebíčben.",
-                  "category": "religious",
-                  "coords": [
-                        15.873171,
-                        49.224322
                   ]
             },
             {
@@ -35521,24 +34261,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.878598,
                         49.21264
-                  ]
-            },
-            {
-                  "name": "Kaple svatého Josefa",
-                  "text": "A Kaple svatého Josefa egy helyi kápolna, amely istentiszteleti helyet kínál Trebitschben.",
-                  "category": "religious",
-                  "coords": [
-                        15.871782,
-                        49.214376
-                  ]
-            },
-            {
-                  "name": "Borovinský most",
-                  "text": "A Borovinský most egy nevezetes híd Trebitsch városában.",
-                  "category": "landmark",
-                  "coords": [
-                        15.871151,
-                        49.211927
                   ]
             },
             {
@@ -35769,15 +34491,6 @@ export const czechrepublicCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzeum Vysočiny",
-                  "text": "Muzeul Vysočiny din Třebíč, găzduit într-un fost colegiu iezuit, expune istoria regională.",
-                  "category": "museum",
-                  "coords": [
-                        15.873055,
-                        49.216689
-                  ]
-            },
-            {
                   "name": "Národní Dům",
                   "text": "Národní Dům, un centru cultural istoric în stil Art Nouveau în Třebíč.",
                   "category": "cultural",
@@ -35805,30 +34518,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alternátor",
-                  "text": "Alternátor, un muzeu de tehnologie și istorie industrială în Třebíč.",
-                  "category": "museum",
-                  "coords": [
-                        15.861703,
-                        49.20708
-                  ]
-            },
-            {
                   "name": "rodný dům Bohumíra Šmerala",
                   "text": "Casa natală a lui Bohumír Šmeral este un muzeu amenajat în Trebitsch.",
                   "category": "museum",
                   "coords": [
                         15.889452,
                         49.214733
-                  ]
-            },
-            {
-                  "name": "Židovské muzeum",
-                  "text": "Muzeul Evreiesc (Židovské muzeum) din Třebíč documentează moștenirea evreiască a orașului.",
-                  "category": "museum",
-                  "coords": [
-                        15.87916,
-                        49.217747
                   ]
             },
             {
@@ -35841,24 +34536,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zábavní park Labyrint",
-                  "text": "Parcul de distracții Labyrint din Třebíč, cu un labirint.",
-                  "category": "family",
-                  "coords": [
-                        15.871478,
-                        49.217376
-                  ]
-            },
-            {
-                  "name": "Muzeum automobilů Jaguár",
-                  "text": "Muzeul automobilelor Jaguar din Třebíč, care expune vehicule ale mărcii.",
-                  "category": "museum",
-                  "coords": [
-                        15.869663,
-                        49.217671
-                  ]
-            },
-            {
                   "name": "Hasskova zahrada",
                   "text": "Hasskova zahrada, un parc numit după Hassk în Třebíč.",
                   "category": "park",
@@ -35868,39 +34545,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Krankenhaus",
-                  "text": "Krankenhaus, o fostă clădire de spital în Třebíč, acum centru cultural.",
-                  "category": "landmark",
-                  "coords": [
-                        15.87723,
-                        49.218145
-                  ]
-            },
-            {
-                  "name": "Týnské údolí",
-                  "text": "Týnské údolí, o vale împădurită de-a lungul râului Jihlava în Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.879936,
-                        49.221817
-                  ]
-            },
-            {
                   "name": "Fórum",
                   "text": "Fórum, un centru cultural și de conferințe modern în Třebíč.",
                   "category": "cultural",
                   "coords": [
                         15.878878,
                         49.213777
-                  ]
-            },
-            {
-                  "name": "Hájek",
-                  "text": "Hájek, un parc împădurit cu alei pietonale la periferia orașului Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.886614,
-                        49.222162
                   ]
             },
             {
@@ -35940,15 +34590,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Subakova koželužna",
-                  "text": "Subak's Tannery este un punct de atracție pentru vizitatorii din Trebitsch.",
-                  "category": "landmark",
-                  "coords": [
-                        15.881231,
-                        49.217622
-                  ]
-            },
-            {
                   "name": "Astronomical observatory",
                   "text": "Observator astronomic în Třebíč pentru observarea cerului.",
                   "category": "natural",
@@ -35967,30 +34608,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Apartmány U synagogy",
-                  "text": "Apartamente lângă sinagogă în Třebíč.",
-                  "category": "landmark",
-                  "coords": [
-                        15.876898,
-                        49.216906
-                  ]
-            },
-            {
                   "name": "kruhová bašta na Hrádku",
                   "text": "Bastion circular pe dealul Hrádek din Třebíč.",
                   "category": "historical",
                   "coords": [
                         15.882991,
                         49.217582
-                  ]
-            },
-            {
-                  "name": "Nalezení sv. Kříže",
-                  "text": "Nalezení sv. Kříže, o capelă a Aflării Sfintei Cruci în Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.873171,
-                        49.224322
                   ]
             },
             {
@@ -36036,24 +34659,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.878598,
                         49.21264
-                  ]
-            },
-            {
-                  "name": "Kaple svatého Josefa",
-                  "text": "Kaple svatého Josefa este o capelă locală ce oferă un loc de cult în Trebitsch.",
-                  "category": "religious",
-                  "coords": [
-                        15.871782,
-                        49.214376
-                  ]
-            },
-            {
-                  "name": "Borovinský most",
-                  "text": "Borovinský most este o infrastructură remarcabilă de pod situată în orașul Trebitsch.",
-                  "category": "landmark",
-                  "coords": [
-                        15.871151,
-                        49.211927
                   ]
             },
             {
@@ -36284,15 +34889,6 @@ export const czechrepublicCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Muzeum Vysočiny",
-                  "text": "Muzeum Vysočiny in Třebíč, housed in a former Jesuit college, exhibits regional history.",
-                  "category": "museum",
-                  "coords": [
-                        15.873055,
-                        49.216689
-                  ]
-            },
-            {
                   "name": "Národní Dům",
                   "text": "Národní Dům, a historic Art Nouveau cultural centre in Třebíč.",
                   "category": "cultural",
@@ -36320,30 +34916,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alternátor",
-                  "text": "Alternátor, a museum of technology and industrial history in Třebíč.",
-                  "category": "museum",
-                  "coords": [
-                        15.861703,
-                        49.20708
-                  ]
-            },
-            {
                   "name": "rodný dům Bohumíra Šmerala",
                   "text": "The birthplace of Bohumír Šmeral functions as a museum in Trebitsch.",
                   "category": "museum",
                   "coords": [
                         15.889452,
                         49.214733
-                  ]
-            },
-            {
-                  "name": "Židovské muzeum",
-                  "text": "The Jewish Museum (Židovské muzeum) in Třebíč documents the town's Jewish heritage.",
-                  "category": "museum",
-                  "coords": [
-                        15.87916,
-                        49.217747
                   ]
             },
             {
@@ -36356,24 +34934,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zábavní park Labyrint",
-                  "text": "Labyrint amusement park in Třebíč featuring a maze.",
-                  "category": "family",
-                  "coords": [
-                        15.871478,
-                        49.217376
-                  ]
-            },
-            {
-                  "name": "Muzeum automobilů Jaguár",
-                  "text": "Jaguar car museum in Třebíč displaying vehicles of the brand.",
-                  "category": "museum",
-                  "coords": [
-                        15.869663,
-                        49.217671
-                  ]
-            },
-            {
                   "name": "Hasskova zahrada",
                   "text": "Hassk Garden, a park named after Hassk in Třebíč.",
                   "category": "park",
@@ -36383,39 +34943,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Krankenhaus",
-                  "text": "Krankenhaus, a former hospital building in Třebíč, now a cultural centre.",
-                  "category": "landmark",
-                  "coords": [
-                        15.87723,
-                        49.218145
-                  ]
-            },
-            {
-                  "name": "Týnské údolí",
-                  "text": "Týnské údolí, a wooded valley along the Jihlava River in Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.879936,
-                        49.221817
-                  ]
-            },
-            {
                   "name": "Fórum",
                   "text": "Fórum, a modern cultural and conference centre in Třebíč.",
                   "category": "cultural",
                   "coords": [
                         15.878878,
                         49.213777
-                  ]
-            },
-            {
-                  "name": "Hájek",
-                  "text": "Hájek, a wooded park with walking paths on the outskirts of Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.886614,
-                        49.222162
                   ]
             },
             {
@@ -36455,15 +34988,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Subak's Tannery",
-                  "text": "Subak's Tannery serves as a point of interest for visitors in Trebitsch.",
-                  "category": "landmark",
-                  "coords": [
-                        15.881231,
-                        49.217622
-                  ]
-            },
-            {
                   "name": "Astronomical observatory",
                   "text": "Astronomical observatory in Třebíč for sky observation.",
                   "category": "natural",
@@ -36482,30 +35006,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Apartmány U synagogy",
-                  "text": "Apartments next to the synagogue in Třebíč.",
-                  "category": "landmark",
-                  "coords": [
-                        15.876898,
-                        49.216906
-                  ]
-            },
-            {
                   "name": "kruhová bašta na Hrádku",
                   "text": "Circular bastion on Hrádek hill in Třebíč.",
                   "category": "historical",
                   "coords": [
                         15.882991,
                         49.217582
-                  ]
-            },
-            {
-                  "name": "Nalezení sv. Kříže",
-                  "text": "Nalezení sv. Kříže, a chapel of the Finding of the Holy Cross in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.873171,
-                        49.224322
                   ]
             },
             {
@@ -36551,24 +35057,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.878598,
                         49.21264
-                  ]
-            },
-            {
-                  "name": "Kaple svatého Josefa",
-                  "text": "Kaple svatého Josefa is a local chapel offering a place of worship in Trebitsch.",
-                  "category": "religious",
-                  "coords": [
-                        15.871782,
-                        49.214376
-                  ]
-            },
-            {
-                  "name": "Borovinský most",
-                  "text": "Borovinský most is a notable bridge infrastructure located in the city of Trebitsch.",
-                  "category": "landmark",
-                  "coords": [
-                        15.871151,
-                        49.211927
                   ]
             },
             {
@@ -38995,15 +37483,6 @@ export const czechrepublicCitiesV2: POI[] = [
     id: "czechrepublic-orlova-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Horní nádrž Bučina",
-                  "text": "Der See Horní nádrž Bučina in Orlova ist ein ruhiger Ort für Naturbeobachtungen und entspannte Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        18.353357,
-                        49.807297
-                  ]
-            },
-            {
                   "name": "Kozí Becirk",
                   "text": "Der Kozí Becirk in Orlova bietet eine natürliche Umgebung für Erholung am Wasser und Zeit im Freien.",
                   "category": "natural",
@@ -39049,42 +37528,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "střední nádrž Bučina Ostravice 1A 471 109",
-                  "text": "Das Gewässer střední nádrž Bučina in Orlova bietet eine ruhige Kulisse für Naturfreunde und Erholungssuchende.",
-                  "category": "natural",
-                  "coords": [
-                        18.352465,
-                        49.808553
-                  ]
-            },
-            {
-                  "name": "Spodní nádrž Bučina",
-                  "text": "Der See Spodní nádrž Bučina in Orlova ist ein friedlicher Ort für einen Aufenthalt in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        18.350017,
-                        49.808922
-                  ]
-            },
-            {
-                  "name": "Bartošůvka",
-                  "text": "Der See Bartošůvka in Orlova bietet eine malerische Umgebung für entspannte Stunden am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        18.434186,
-                        49.811794
-                  ]
-            },
-            {
-                  "name": "Pilňok",
-                  "text": "Der Pilňok in Orlova ist ein ruhiges Gewässer, das sich gut für Spaziergänge und Naturbeobachtungen eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.504915,
-                        49.824551
-                  ]
-            },
-            {
                   "name": "Výtažník",
                   "text": "Der Výtažník in Orlova lädt zu erholsamen Momenten in einer grünen Uferlandschaft ein.",
                   "category": "natural",
@@ -39118,15 +37561,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.364508,
                         49.85318
-                  ]
-            },
-            {
-                  "name": "Malý Cihelník",
-                  "text": "Der Malý Cihelník in Orlova ist ein kleines lokales Gewässer für ruhige Momente in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        18.361035,
-                        49.866059
                   ]
             },
             {
@@ -39211,15 +37645,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Čerpák",
-                  "text": "Der Čerpák in Orlova bietet eine friedliche Atmosphäre für Besucher, die Ruhe am Wasser suchen.",
-                  "category": "natural",
-                  "coords": [
-                        18.497098,
-                        49.883411
-                  ]
-            },
-            {
                   "name": "Dinopark Ostrava",
                   "text": "Der Dinopark Ostrava ist ein Themenpark in Orlová mit lebensgroßen Modellen für die ganze Familie.",
                   "category": "family",
@@ -39239,15 +37664,6 @@ export const czechrepublicCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Horní nádrž Bučina",
-                  "text": "Az Orlova városában található Horní nádrž Bučina tó nyugodt hely a természet megfigyelésére és pihentető sétákra.",
-                  "category": "natural",
-                  "coords": [
-                        18.353357,
-                        49.807297
-                  ]
-            },
             {
                   "name": "Kozí Becirk",
                   "text": "Az Orlova-i Kozí Becirk természetes környezetet biztosít a vízparti pihenéshez és a szabadtéri időtöltéshez.",
@@ -39294,42 +37710,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "střední nádrž Bučina Ostravice 1A 471 109",
-                  "text": "Az Orlova városában fekvő střední nádrž Bučina tó nyugodt környezetet kínál a természet kedvelőinek és pihenni vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.352465,
-                        49.808553
-                  ]
-            },
-            {
-                  "name": "Spodní nádrž Bučina",
-                  "text": "Az Orlova-i Spodní nádrž Bučina tó békés helyszín a természetben való tartózkodáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.350017,
-                        49.808922
-                  ]
-            },
-            {
-                  "name": "Bartošůvka",
-                  "text": "Az Orlova városában található Bartošůvka tó festői környezetet biztosít a vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        18.434186,
-                        49.811794
-                  ]
-            },
-            {
-                  "name": "Pilňok",
-                  "text": "Az Orlova-i Pilňok nyugodt tó, amely alkalmas sétákra és a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        18.504915,
-                        49.824551
-                  ]
-            },
-            {
                   "name": "Výtažník",
                   "text": "Az Orlova városában található Výtažník tó pihentető pillanatokra hív a zöldellő vízparton.",
                   "category": "natural",
@@ -39363,15 +37743,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.364508,
                         49.85318
-                  ]
-            },
-            {
-                  "name": "Malý Cihelník",
-                  "text": "Az Orlova városában található Malý Cihelník egy kis helyi tó a természetbeni csendes pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.361035,
-                        49.866059
                   ]
             },
             {
@@ -39456,15 +37827,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Čerpák",
-                  "text": "Az Orlova városában található Čerpák tó békés légkört kínál a vízparti nyugalomra vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.497098,
-                        49.883411
-                  ]
-            },
-            {
                   "name": "Dinopark Ostrava",
                   "text": "A Dinopark Ostrava egy élménypark Orlová mellett, életnagyságú modellekkel az egész családnak.",
                   "category": "family",
@@ -39484,15 +37846,6 @@ export const czechrepublicCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Horní nádrž Bučina",
-                  "text": "Lacul Horní nádrž Bučina din Orlova este un loc liniștit pentru observarea naturii și plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        18.353357,
-                        49.807297
-                  ]
-            },
             {
                   "name": "Kozí Becirk",
                   "text": "Lacul Kozí Becirk din Orlova oferă un mediu natural pentru recreere la apă și timp petrecut în aer liber.",
@@ -39539,42 +37892,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "střední nádrž Bučina Ostravice 1A 471 109",
-                  "text": "Lacul střední nádrž Bučina din Orlova oferă un cadru liniștit pentru iubitorii de natură și cei care caută relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        18.352465,
-                        49.808553
-                  ]
-            },
-            {
-                  "name": "Spodní nádrž Bučina",
-                  "text": "Lacul Spodní nádrž Bučina din Orlova este un loc pașnic pentru petrecerea timpului în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.350017,
-                        49.808922
-                  ]
-            },
-            {
-                  "name": "Bartošůvka",
-                  "text": "Lacul Bartošůvka din Orlova oferă un cadru pitoresc pentru ore relaxante la malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        18.434186,
-                        49.811794
-                  ]
-            },
-            {
-                  "name": "Pilňok",
-                  "text": "Lacul Pilňok din Orlova este o apă liniștită, potrivită pentru plimbări și observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        18.504915,
-                        49.824551
-                  ]
-            },
-            {
                   "name": "Výtažník",
                   "text": "Lacul Výtažník din Orlova invită la momente de relaxare într-un peisaj verde pe malul apei.",
                   "category": "natural",
@@ -39608,15 +37925,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.364508,
                         49.85318
-                  ]
-            },
-            {
-                  "name": "Malý Cihelník",
-                  "text": "Lacul Malý Cihelník din Orlova este o apă locală mică pentru momente de liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.361035,
-                        49.866059
                   ]
             },
             {
@@ -39701,15 +38009,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Čerpák",
-                  "text": "Lacul Čerpák din Orlova oferă o atmosferă pașnică pentru vizitatorii care caută liniște pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        18.497098,
-                        49.883411
-                  ]
-            },
-            {
                   "name": "Dinopark Ostrava",
                   "text": "Dinopark Ostrava este un parc tematic din Orlová, cu modele în mărime naturală pentru întreaga familie.",
                   "category": "family",
@@ -39729,15 +38028,6 @@ export const czechrepublicCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Horní nádrž Bučina",
-                  "text": "The lake Horní nádrž Bučina in Orlova is a quiet spot for nature observation and relaxing walks.",
-                  "category": "natural",
-                  "coords": [
-                        18.353357,
-                        49.807297
-                  ]
-            },
             {
                   "name": "Kozí Becirk",
                   "text": "The lake Kozí Becirk in Orlova provides a natural setting for lakeside recreation and outdoor time.",
@@ -39784,42 +38074,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "střední nádrž Bučina Ostravice 1A 471 109",
-                  "text": "The lake střední nádrž Bučina in Orlova provides a quiet backdrop for nature lovers and those seeking rest.",
-                  "category": "natural",
-                  "coords": [
-                        18.352465,
-                        49.808553
-                  ]
-            },
-            {
-                  "name": "Spodní nádrž Bučina",
-                  "text": "The lake Spodní nádrž Bučina in Orlova is a peaceful location for spending time in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.350017,
-                        49.808922
-                  ]
-            },
-            {
-                  "name": "Bartošůvka",
-                  "text": "The lake Bartošůvka in Orlova offers a picturesque setting for relaxing hours by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.434186,
-                        49.811794
-                  ]
-            },
-            {
-                  "name": "Pilňok",
-                  "text": "The lake Pilňok in Orlova is a quiet body of water, suitable for walks and nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        18.504915,
-                        49.824551
-                  ]
-            },
-            {
                   "name": "Výtažník",
                   "text": "The lake Výtažník in Orlova invites for restful moments in a green lakeside landscape.",
                   "category": "natural",
@@ -39853,15 +38107,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.364508,
                         49.85318
-                  ]
-            },
-            {
-                  "name": "Malý Cihelník",
-                  "text": "The lake Malý Cihelník in Orlova is a small local body of water for quiet moments in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.361035,
-                        49.866059
                   ]
             },
             {
@@ -39943,15 +38188,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.411159,
                         49.855269
-                  ]
-            },
-            {
-                  "name": "Čerpák",
-                  "text": "The lake Čerpák in Orlova offers a peaceful atmosphere for visitors seeking quiet by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.497098,
-                        49.883411
                   ]
             },
             {
@@ -54196,15 +52432,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Větřkovice",
-                  "text": "Větřkovice ist eine Badestelle in Kopřivnice, die Erholung in der Natur ermöglicht.",
-                  "category": "family",
-                  "coords": [
-                        18.188407,
-                        49.617255
-                  ]
-            },
-            {
                   "name": "Naturistická pláž Větřkovická přehrada",
                   "text": "Ein ausgewiesener FKK-Strand am Stausee Větřkovická přehrada bei Kopřivnice.",
                   "category": "family",
@@ -54510,15 +52737,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.095171,
                         49.586829
-                  ]
-            },
-            {
-                  "name": "Větřkovice",
-                  "text": "Větřkovice egy fürdőhely Kopřivnice közelében, amely természetközeli kikapcsolódást nyújt.",
-                  "category": "family",
-                  "coords": [
-                        18.188407,
-                        49.617255
                   ]
             },
             {
@@ -54830,15 +53048,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Větřkovice",
-                  "text": "Větřkovice este o zonă de scăldat din Kopřivnice, oferind relaxare în mijlocul naturii.",
-                  "category": "family",
-                  "coords": [
-                        18.188407,
-                        49.617255
-                  ]
-            },
-            {
                   "name": "Naturistická pláž Větřkovická přehrada",
                   "text": "O plajă de nudiști desemnată la lacul de acumulare Větřkovická lângă Kopřivnice.",
                   "category": "family",
@@ -55147,15 +53356,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Větřkovice",
-                  "text": "Větřkovice is a swimming area in Koprivnice, providing a natural setting for relaxation.",
-                  "category": "family",
-                  "coords": [
-                        18.188407,
-                        49.617255
-                  ]
-            },
-            {
                   "name": "Naturistická pláž Větřkovická přehrada",
                   "text": "A designated naturist beach at the Větřkovická reservoir near Kopřivnice.",
                   "category": "family",
@@ -55314,51 +53514,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Slepé rameno Odry",
-                  "text": "Ein stiller Altwasserarm der Oder bei Bohumin, ideal für Naturfreunde.",
-                  "category": "natural",
-                  "coords": [
-                        18.269566,
-                        49.865807
-                  ]
-            },
-            {
-                  "name": "Výtažník",
-                  "text": "Ein friedliches Gewässer bei Bohumin, das zu einem Spaziergang im Grünen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.365026,
-                        49.855973
-                  ]
-            },
-            {
-                  "name": "Horní Gořalčok",
-                  "text": "Ein lokaler Teich in Bohumin, der in die natürliche Umgebung der Region eingebettet ist.",
-                  "category": "natural",
-                  "coords": [
-                        18.364581,
-                        49.851679
-                  ]
-            },
-            {
-                  "name": "Spojený rybník",
-                  "text": "Ein friedliches Naturgewässer in Bohumin, ideal für eine Pause im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        18.364694,
-                        49.854739
-                  ]
-            },
-            {
-                  "name": "Velký Gořalčok",
-                  "text": "Ein größerer Teich bei Bohumin, der das Landschaftsbild der Gegend bereichert.",
-                  "category": "natural",
-                  "coords": [
-                        18.364508,
-                        49.85318
-                  ]
-            },
-            {
                   "name": "Malý Cihelník",
                   "text": "Ein ruhiges Gewässer bei Bohumin, das eine natürliche Atmosphäre für Besucher bietet.",
                   "category": "natural",
@@ -55368,93 +53523,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podkostelní rybník",
-                  "text": "Ein friedlicher Teich in Bohumin, der sich harmonisch in die örtliche Umgebung einfügt.",
-                  "category": "natural",
-                  "coords": [
-                        18.378939,
-                        49.860728
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Ein kleinerer Teich in Bohumin, der einen ruhigen Platz für Naturliebhaber bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.374724,
-                        49.86269
-                  ]
-            },
-            {
-                  "name": "Prostřední rybník",
-                  "text": "Ein lokaler Teich in Bohumin, der zur Erholung in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        18.376308,
-                        49.861631
-                  ]
-            },
-            {
-                  "name": "Horní rybník",
-                  "text": "Ein von Natur umgebener Teich bei Bohumin, ideal für kurze Wanderungen.",
-                  "category": "natural",
-                  "coords": [
-                        18.378787,
-                        49.862652
-                  ]
-            },
-            {
-                  "name": "Farský rybník",
-                  "text": "Ein friedliches Gewässer in Bohumin, das eine entspannte Atmosphäre ausstrahlt.",
-                  "category": "natural",
-                  "coords": [
-                        18.436246,
-                        49.896604
-                  ]
-            },
-            {
-                  "name": "Koliba",
-                  "text": "Ein kleinerer See bei Bohumin, der einen malerischen Ort in der Landschaft bildet.",
-                  "category": "natural",
-                  "coords": [
-                        18.437147,
-                        49.868704
-                  ]
-            },
-            {
-                  "name": "Kout",
-                  "text": "Ein ruhiger Naturteich bei Bohumin, ideal für eine kleine Auszeit im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        18.405358,
-                        49.858514
-                  ]
-            },
-            {
                   "name": "Kališovo jezero",
                   "text": "Ein kleiner See umgeben von Wald, beliebt zum Angeln in Bohumín.",
                   "category": "natural",
                   "coords": [
                         18.346821,
                         49.924515
-                  ]
-            },
-            {
-                  "name": "Nový rybník",
-                  "text": "Dieser See in Bohumín bietet eine friedliche Kulisse für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        18.40777,
-                        49.855358
-                  ]
-            },
-            {
-                  "name": "Špice",
-                  "text": "Ein lokales Gewässer in Bohumín, ideal für eine kurze Auszeit im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        18.411159,
-                        49.855269
                   ]
             },
             {
@@ -55604,51 +53678,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Slepé rameno Odry",
-                  "text": "Az Odera egyik csendes holtága Bohumin közelében, ideális a természetbarátoknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.269566,
-                        49.865807
-                  ]
-            },
-            {
-                  "name": "Výtažník",
-                  "text": "Békés vízfelület Bohumin közelében, amely zöldövezeti sétára csábít.",
-                  "category": "natural",
-                  "coords": [
-                        18.365026,
-                        49.855973
-                  ]
-            },
-            {
-                  "name": "Horní Gořalčok",
-                  "text": "Helyi tó Bohumin területén, amely a környék természetes környezetébe illeszkedik.",
-                  "category": "natural",
-                  "coords": [
-                        18.364581,
-                        49.851679
-                  ]
-            },
-            {
-                  "name": "Spojený rybník",
-                  "text": "Békés természetes víz Bohumin közelében, ideális egy szabadtéri pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        18.364694,
-                        49.854739
-                  ]
-            },
-            {
-                  "name": "Velký Gořalčok",
-                  "text": "Nagyobb tó Bohumin közelében, amely gazdagítja a környék tájképét.",
-                  "category": "natural",
-                  "coords": [
-                        18.364508,
-                        49.85318
-                  ]
-            },
-            {
                   "name": "Malý Cihelník",
                   "text": "Csendes vízfelület Bohumin közelében, amely természetes környezetet biztosít a látogatóknak.",
                   "category": "natural",
@@ -55658,93 +53687,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podkostelní rybník",
-                  "text": "Békés tó Bohumin területén, amely harmonikusan illeszkedik a környezetbe.",
-                  "category": "natural",
-                  "coords": [
-                        18.378939,
-                        49.860728
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Kisebb tó Bohumin közelében, amely csendes helyet kínál a természetjáróknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.374724,
-                        49.86269
-                  ]
-            },
-            {
-                  "name": "Prostřední rybník",
-                  "text": "Helyi tó Bohumin területén, amely természetbeli pihenésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        18.376308,
-                        49.861631
-                  ]
-            },
-            {
-                  "name": "Horní rybník",
-                  "text": "Természettel körülvett tó Bohumin közelében, ideális rövid kirándulásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.378787,
-                        49.862652
-                  ]
-            },
-            {
-                  "name": "Farský rybník",
-                  "text": "Békés vízfelület Bohumin közelében, amely nyugodt hangulatot áraszt.",
-                  "category": "natural",
-                  "coords": [
-                        18.436246,
-                        49.896604
-                  ]
-            },
-            {
-                  "name": "Koliba",
-                  "text": "Kisebb tó Bohumin közelében, amely festői pontja a tájnak.",
-                  "category": "natural",
-                  "coords": [
-                        18.437147,
-                        49.868704
-                  ]
-            },
-            {
-                  "name": "Kout",
-                  "text": "Csendes természetes tó Bohumin közelében, ideális egy rövid pihenőre a zöldben.",
-                  "category": "natural",
-                  "coords": [
-                        18.405358,
-                        49.858514
-                  ]
-            },
-            {
                   "name": "Kališovo jezero",
                   "text": "Egy kis tó erdővel körülvéve, népszerű horgászhely Bohumínban.",
                   "category": "natural",
                   "coords": [
                         18.346821,
                         49.924515
-                  ]
-            },
-            {
-                  "name": "Nový rybník",
-                  "text": "Ez a tó Bohumínban békés környezetet biztosít a természet megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        18.40777,
-                        49.855358
-                  ]
-            },
-            {
-                  "name": "Špice",
-                  "text": "Helyi állóvíz Bohumínban, amely ideális egy rövid erdei pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        18.411159,
-                        49.855269
                   ]
             },
             {
@@ -55894,51 +53842,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Slepé rameno Odry",
-                  "text": "Un braț mort liniștit al Odrei lângă Bohumin, ideal pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.269566,
-                        49.865807
-                  ]
-            },
-            {
-                  "name": "Výtažník",
-                  "text": "O zonă acvatică liniștită lângă Bohumin, care invită la o plimbare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.365026,
-                        49.855973
-                  ]
-            },
-            {
-                  "name": "Horní Gořalčok",
-                  "text": "Un iaz local în Bohumin, integrat în mediul natural al regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        18.364581,
-                        49.851679
-                  ]
-            },
-            {
-                  "name": "Spojený rybník",
-                  "text": "O apă naturală liniștită în Bohumin, ideală pentru o pauză în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        18.364694,
-                        49.854739
-                  ]
-            },
-            {
-                  "name": "Velký Gořalčok",
-                  "text": "Un iaz mai mare lângă Bohumin, care îmbogățește peisajul zonei.",
-                  "category": "natural",
-                  "coords": [
-                        18.364508,
-                        49.85318
-                  ]
-            },
-            {
                   "name": "Malý Cihelník",
                   "text": "O zonă acvatică liniștită lângă Bohumin, care oferă o atmosferă naturală vizitatorilor.",
                   "category": "natural",
@@ -55948,93 +53851,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podkostelní rybník",
-                  "text": "Un iaz liniștit în Bohumin, care se integrează armonios în mediul local.",
-                  "category": "natural",
-                  "coords": [
-                        18.378939,
-                        49.860728
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "Un iaz mai mic în Bohumin, care oferă un loc liniștit pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.374724,
-                        49.86269
-                  ]
-            },
-            {
-                  "name": "Prostřední rybník",
-                  "text": "Un iaz local în Bohumin, care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.376308,
-                        49.861631
-                  ]
-            },
-            {
-                  "name": "Horní rybník",
-                  "text": "Un iaz înconjurat de natură lângă Bohumin, ideal pentru scurte drumeții.",
-                  "category": "natural",
-                  "coords": [
-                        18.378787,
-                        49.862652
-                  ]
-            },
-            {
-                  "name": "Farský rybník",
-                  "text": "O apă liniștită în Bohumin, care emană o atmosferă relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        18.436246,
-                        49.896604
-                  ]
-            },
-            {
-                  "name": "Koliba",
-                  "text": "Un lac mai mic lângă Bohumin, care formează un punct pitoresc în peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        18.437147,
-                        49.868704
-                  ]
-            },
-            {
-                  "name": "Kout",
-                  "text": "Un iaz natural liniștit lângă Bohumin, ideal pentru o mică pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.405358,
-                        49.858514
-                  ]
-            },
-            {
                   "name": "Kališovo jezero",
                   "text": "Un mic lac înconjurat de pădure, popular pentru pescuit în Bohumín.",
                   "category": "natural",
                   "coords": [
                         18.346821,
                         49.924515
-                  ]
-            },
-            {
-                  "name": "Nový rybník",
-                  "text": "Acest lac din Bohumín oferă un cadru liniștit pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        18.40777,
-                        49.855358
-                  ]
-            },
-            {
-                  "name": "Špice",
-                  "text": "O apă locală în Bohumín, ideală pentru o scurtă pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.411159,
-                        49.855269
                   ]
             },
             {
@@ -56184,51 +54006,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Slepé rameno Odry",
-                  "text": "A quiet oxbow lake of the Odra near Bohumin, ideal for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        18.269566,
-                        49.865807
-                  ]
-            },
-            {
-                  "name": "Výtažník",
-                  "text": "A peaceful body of water near Bohumin, inviting for a walk in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        18.365026,
-                        49.855973
-                  ]
-            },
-            {
-                  "name": "Horní Gořalčok",
-                  "text": "A local pond in Bohumin, nestled within the region's natural environment.",
-                  "category": "natural",
-                  "coords": [
-                        18.364581,
-                        49.851679
-                  ]
-            },
-            {
-                  "name": "Spojený rybník",
-                  "text": "A peaceful natural body of water in Bohumin, ideal for an outdoor break.",
-                  "category": "natural",
-                  "coords": [
-                        18.364694,
-                        49.854739
-                  ]
-            },
-            {
-                  "name": "Velký Gořalčok",
-                  "text": "A larger pond near Bohumin, enhancing the landscape of the area.",
-                  "category": "natural",
-                  "coords": [
-                        18.364508,
-                        49.85318
-                  ]
-            },
-            {
                   "name": "Malý Cihelník",
                   "text": "A quiet body of water near Bohumin, offering a natural atmosphere for visitors.",
                   "category": "natural",
@@ -56238,93 +54015,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podkostelní rybník",
-                  "text": "A peaceful pond in Bohumin, blending harmoniously into the local surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        18.378939,
-                        49.860728
-                  ]
-            },
-            {
-                  "name": "Dolní rybník",
-                  "text": "A smaller pond in Bohumin, offering a quiet spot for nature enthusiasts.",
-                  "category": "natural",
-                  "coords": [
-                        18.374724,
-                        49.86269
-                  ]
-            },
-            {
-                  "name": "Prostřední rybník",
-                  "text": "A local pond in Bohumin, inviting for recreation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.376308,
-                        49.861631
-                  ]
-            },
-            {
-                  "name": "Horní rybník",
-                  "text": "A pond surrounded by nature near Bohumin, ideal for short walks.",
-                  "category": "natural",
-                  "coords": [
-                        18.378787,
-                        49.862652
-                  ]
-            },
-            {
-                  "name": "Farský rybník",
-                  "text": "A peaceful body of water in Bohumin, radiating a relaxed atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        18.436246,
-                        49.896604
-                  ]
-            },
-            {
-                  "name": "Koliba",
-                  "text": "A smaller lake near Bohumin, forming a scenic spot in the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        18.437147,
-                        49.868704
-                  ]
-            },
-            {
-                  "name": "Kout",
-                  "text": "A quiet natural pond near Bohumin, ideal for a short break in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        18.405358,
-                        49.858514
-                  ]
-            },
-            {
                   "name": "Kališovo jezero",
                   "text": "A small lake surrounded by forest, popular for fishing in Bohumín.",
                   "category": "natural",
                   "coords": [
                         18.346821,
                         49.924515
-                  ]
-            },
-            {
-                  "name": "Nový rybník",
-                  "text": "This lake in Bohumín offers a peaceful setting for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        18.40777,
-                        49.855358
-                  ]
-            },
-            {
-                  "name": "Špice",
-                  "text": "A local body of water in Bohumín, ideal for a short break in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.411159,
-                        49.855269
                   ]
             },
             {
@@ -56495,15 +54191,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stará Úhlava",
-                  "text": "Stará Úhlava in Klatovy ist ein ruhiges Gewässer, das sich hervorragend für einen Spaziergang in der Natur eignet.",
-                  "category": "natural",
-                  "coords": [
-                        13.276138,
-                        49.466712
-                  ]
-            },
-            {
                   "name": "Hoštický rybník",
                   "text": "Der See Hoštický rybník in Klatovy bietet eine friedliche Atmosphäre am Wasser.",
                   "category": "natural",
@@ -56602,15 +54289,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.333203,
                         49.403566
-                  ]
-            },
-            {
-                  "name": "Stará Úhlava",
-                  "text": "A klatovyi Stará Úhlava egy nyugodt vízfelület, amely kiválóan alkalmas egy természetközeli sétára.",
-                  "category": "natural",
-                  "coords": [
-                        13.276138,
-                        49.466712
                   ]
             },
             {
@@ -56715,15 +54393,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stará Úhlava",
-                  "text": "Stará Úhlava din Klatovy este o apă liniștită, excelentă pentru o plimbare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        13.276138,
-                        49.466712
-                  ]
-            },
-            {
                   "name": "Hoštický rybník",
                   "text": "Lacul Hoštický rybník din Klatovy oferă o atmosferă liniștită pe malul apei.",
                   "category": "natural",
@@ -56822,15 +54491,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.333203,
                         49.403566
-                  ]
-            },
-            {
-                  "name": "Stará Úhlava",
-                  "text": "Stará Úhlava in Klatovy is a quiet water body, excellent for a walk in nature.",
-                  "category": "natural",
-                  "coords": [
-                        13.276138,
-                        49.466712
                   ]
             },
             {
@@ -59246,15 +56906,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sandberg",
-                  "text": "Sandberg ist ein See in Kutna Hora, der einen Ort der Ruhe inmitten der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        15.251864,
-                        50.014056
-                  ]
-            },
-            {
                   "name": "Park pod Vlašským dvorem",
                   "text": "Der Spielplatz im Park unter dem Welschen Hof in Kutna Hora bietet Kindern Spielspaß in historischer Umgebung.",
                   "category": "family",
@@ -59524,15 +57175,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.215373,
                         49.920351
-                  ]
-            },
-            {
-                  "name": "Sandberg",
-                  "text": "A Sandberg egy tó Kutna Hora városában, amely a természet lágy ölén kínál nyugalmat.",
-                  "category": "natural",
-                  "coords": [
-                        15.251864,
-                        50.014056
                   ]
             },
             {
@@ -59808,15 +57450,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sandberg",
-                  "text": "Sandberg este un lac din Kutna Hora, oferind un loc de liniște în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        15.251864,
-                        50.014056
-                  ]
-            },
-            {
                   "name": "Park pod Vlašským dvorem",
                   "text": "Locul de joacă din parcul de sub Curtea Italiană din Kutna Hora oferă copiilor distracție într-un cadru istoric.",
                   "category": "family",
@@ -60086,15 +57719,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.215373,
                         49.920351
-                  ]
-            },
-            {
-                  "name": "Sandberg",
-                  "text": "Sandberg is a lake in Kutna Hora, offering a place of peace amidst nature.",
-                  "category": "natural",
-                  "coords": [
-                        15.251864,
-                        50.014056
                   ]
             },
             {
@@ -60391,33 +58015,6 @@ export const czechrepublicCitiesV2: POI[] = [
     id: "czechrepublic-jirkov-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Zoopark im Erzgebirgsvorland Komotau",
-                  "text": "Der Zoopark Chomutov ist ein Tierpark in Jirkov, der viele europäische Tierarten zeigt.",
-                  "category": "family",
-                  "coords": [
-                        13.42266,
-                        50.474419
-                  ]
-            },
-            {
-                  "name": "Aquasvět",
-                  "text": "Das Aquasvět ist ein Wasserpark in Jirkov mit Attraktionen für Wassersportfans.",
-                  "category": "family",
-                  "coords": [
-                        13.42659,
-                        50.4695
-                  ]
-            },
-            {
-                  "name": "Voliera pláku",
-                  "text": "Die Voliera pláku ist ein kleiner Tierpark in Jirkov, der Vögel in natürlicher Umgebung zeigt.",
-                  "category": "family",
-                  "coords": [
-                        13.422487,
-                        50.476828
-                  ]
-            },
-            {
                   "name": "Schloss Rothenhaus",
                   "text": "Ein historisches Schloss in Jirkov mit klassischer Architektur, umgeben von einer Parkanlage.",
                   "category": "castle",
@@ -60473,33 +58070,6 @@ export const czechrepublicCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zoopark Chomutov",
-                  "text": "A Zoopark Chomutov egy állatpark Jirkov mellett, amely számos európai fajt mutat be.",
-                  "category": "family",
-                  "coords": [
-                        13.42266,
-                        50.474419
-                  ]
-            },
-            {
-                  "name": "Aquasvět",
-                  "text": "Az Aquasvět egy vízipark Jirkovban, vízi sportokat és szórakozást kedvelőknek.",
-                  "category": "family",
-                  "coords": [
-                        13.42659,
-                        50.4695
-                  ]
-            },
-            {
-                  "name": "Voliera pláku",
-                  "text": "A Voliera pláku egy kis állatkert Jirkovban, ahol madarakat láthatnak természetes környezetben.",
-                  "category": "family",
-                  "coords": [
-                        13.422487,
-                        50.476828
-                  ]
-            },
             {
                   "name": "zámek Červený Hrádek",
                   "text": "Történelmi kastély Jirkovban, amely klasszikus építészettel és parkkal rendelkezik.",
@@ -60557,33 +58127,6 @@ export const czechrepublicCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zoopark Chomutov",
-                  "text": "Zoopark Chomutov este un parc zoologic din Jirkov, unde pot fi văzute multe specii europene.",
-                  "category": "family",
-                  "coords": [
-                        13.42266,
-                        50.474419
-                  ]
-            },
-            {
-                  "name": "Aquasvět",
-                  "text": "Aquasvět este un parc acvatic din Jirkov, cu atracții pentru fanii sporturilor nautice.",
-                  "category": "family",
-                  "coords": [
-                        13.42659,
-                        50.4695
-                  ]
-            },
-            {
-                  "name": "Voliera pláku",
-                  "text": "Voliera pláku este un mic parc zoologic din Jirkov, unde pot fi observate păsări.",
-                  "category": "family",
-                  "coords": [
-                        13.422487,
-                        50.476828
-                  ]
-            },
-            {
                   "name": "zámek Červený Hrádek",
                   "text": "Un castel istoric din Jirkov, cu arhitectură clasică și înconjurat de un parc.",
                   "category": "castle",
@@ -60639,33 +58182,6 @@ export const czechrepublicCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Zoopark Chomutov",
-                  "text": "Zoopark Chomutov is a zoo located near Jirkov, showcasing many European animal species.",
-                  "category": "family",
-                  "coords": [
-                        13.42266,
-                        50.474419
-                  ]
-            },
-            {
-                  "name": "Aquasvět",
-                  "text": "Aquasvět is a water park in Jirkov featuring attractions for water enthusiasts.",
-                  "category": "family",
-                  "coords": [
-                        13.42659,
-                        50.4695
-                  ]
-            },
-            {
-                  "name": "Voliera pláku",
-                  "text": "Voliera pláku is a bird aviary and zoo in Jirkov showing birds in a natural setting.",
-                  "category": "family",
-                  "coords": [
-                        13.422487,
-                        50.476828
-                  ]
-            },
             {
                   "name": "zámek Červený Hrádek",
                   "text": "A historic castle in Jirkov, featuring classic architecture and surrounded by parkland.",
@@ -61763,24 +59279,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gallašův dům",
-                  "text": "Ein historisches Stadthaus, bekannt als Gallašův dům, in Hranice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.732884,
-                        49.552822
-                  ]
-            },
-            {
-                  "name": "Dům dětí a mládeže Hranice",
-                  "text": "Ein Jugendzentrum mit Aktivitäten und Workshops für Kinder in Hranice.",
-                  "category": "cultural",
-                  "coords": [
-                        17.732674,
-                        49.554682
-                  ]
-            },
-            {
                   "name": "Stětí svatého Jana Křtitele",
                   "text": "Diese bekannte Kirche in Mährisch Weißkirchen ist dem enthaupteten Johannes dem Täufer geweiht.",
                   "category": "religious",
@@ -61805,15 +59303,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.694778,
                         49.549463
-                  ]
-            },
-            {
-                  "name": "Hranický viadukt",
-                  "text": "Der Hranický viadukt ist ein bedeutendes historisches Eisenbahnviadukt in Mährisch Weißkirchen.",
-                  "category": "landmark",
-                  "coords": [
-                        17.729296,
-                        49.561687
                   ]
             }
       ],
@@ -61891,24 +59380,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gallašův dům",
-                  "text": "Egy történelmi városi ház, Gallašův dům néven ismert Hraniceban.",
-                  "category": "landmark",
-                  "coords": [
-                        17.732884,
-                        49.552822
-                  ]
-            },
-            {
-                  "name": "Dům dětí a mládeže Hranice",
-                  "text": "Egy ifjúsági központ tevékenységekkel és műhelyekkel gyerekek számára Hraniceban.",
-                  "category": "cultural",
-                  "coords": [
-                        17.732674,
-                        49.554682
-                  ]
-            },
-            {
                   "name": "Stětí svatého Jana Křtitele",
                   "text": "Ez az ismert Mährisch Weißkirchen-i templom Keresztelő Szent János fejevételének van szentelve.",
                   "category": "religious",
@@ -61933,15 +59404,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.694778,
                         49.549463
-                  ]
-            },
-            {
-                  "name": "Hranický viadukt",
-                  "text": "A Hranický viadukt egy jelentős történelmi vasúti viadukt Mährisch Weißkirchen városában.",
-                  "category": "landmark",
-                  "coords": [
-                        17.729296,
-                        49.561687
                   ]
             }
       ],
@@ -62019,24 +59481,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gallašův dům",
-                  "text": "O casă istorică urbană, cunoscută ca Gallašův dům, în Hranice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.732884,
-                        49.552822
-                  ]
-            },
-            {
-                  "name": "Dům dětí a mládeže Hranice",
-                  "text": "Un centru pentru copii și tineret cu activități și ateliere în Hranice.",
-                  "category": "cultural",
-                  "coords": [
-                        17.732674,
-                        49.554682
-                  ]
-            },
-            {
                   "name": "Stětí svatého Jana Křtitele",
                   "text": "Această biserică cunoscută din Mährisch Weißkirchen este închinată Tăierii Capului Sfântului Ioan Botezătorul.",
                   "category": "religious",
@@ -62061,15 +59505,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.694778,
                         49.549463
-                  ]
-            },
-            {
-                  "name": "Hranický viadukt",
-                  "text": "Hranický viadukt este un viaduct feroviar istoric important din Mährisch Weißkirchen.",
-                  "category": "landmark",
-                  "coords": [
-                        17.729296,
-                        49.561687
                   ]
             }
       ],
@@ -62147,24 +59582,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gallašův dům",
-                  "text": "A historic townhouse known as Gallašův dům in Hranice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.732884,
-                        49.552822
-                  ]
-            },
-            {
-                  "name": "Dům dětí a mládeže Hranice",
-                  "text": "A youth centre offering activities and workshops for children in Hranice.",
-                  "category": "cultural",
-                  "coords": [
-                        17.732674,
-                        49.554682
-                  ]
-            },
-            {
                   "name": "Stětí svatého Jana Křtitele",
                   "text": "This notable church in Mährisch Weißkirchen is dedicated to the Beheading of St. John the Baptist.",
                   "category": "religious",
@@ -62189,15 +59606,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.694778,
                         49.549463
-                  ]
-            },
-            {
-                  "name": "Hranický viadukt",
-                  "text": "Hranický viadukt is a significant historical railway viaduct in Mährisch Weißkirchen.",
-                  "category": "landmark",
-                  "coords": [
-                        17.729296,
-                        49.561687
                   ]
             }
       ]
@@ -64282,24 +61690,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Homolka II",
-                  "text": "Der Homolka II in Nachod ist ein See, der sich gut für ruhige Momente am Wasser eignet.",
-                  "category": "natural",
-                  "coords": [
-                        16.203151,
-                        50.452038
-                  ]
-            },
-            {
-                  "name": "Homolka I",
-                  "text": "Der Homolka I in Nachod bietet eine schöne Wasserfläche für Spaziergänge in der Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        16.205823,
-                        50.454132
-                  ]
-            },
-            {
                   "name": "Vodní nádrž Rozkoš",
                   "text": "Die Talsperre Rozkoš in Nachod ist ein großer See, der viele Möglichkeiten für Freizeitaktivitäten bietet.",
                   "category": "natural",
@@ -64416,24 +61806,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.106128,
                         50.390565
-                  ]
-            },
-            {
-                  "name": "Homolka II",
-                  "text": "A Homolka II egy tó Nachod városában, amely kiválóan alkalmas a csendes vízparti pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.203151,
-                        50.452038
-                  ]
-            },
-            {
-                  "name": "Homolka I",
-                  "text": "A Homolka I Nachod városában szép vízfelületet kínál a környékbeli sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.205823,
-                        50.454132
                   ]
             },
             {
@@ -64556,24 +61928,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Homolka II",
-                  "text": "Homolka II din Nachod este un lac potrivit pentru momente liniștite pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        16.203151,
-                        50.452038
-                  ]
-            },
-            {
-                  "name": "Homolka I",
-                  "text": "Homolka I din Nachod oferă o suprafață de apă frumoasă pentru plimbări în zonă.",
-                  "category": "natural",
-                  "coords": [
-                        16.205823,
-                        50.454132
-                  ]
-            },
-            {
                   "name": "Vodní nádrž Rozkoš",
                   "text": "Rezervorul Rozkoš din Nachod este un lac mare care oferă numeroase posibilități pentru activități recreative.",
                   "category": "natural",
@@ -64690,24 +62044,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.106128,
                         50.390565
-                  ]
-            },
-            {
-                  "name": "Homolka II",
-                  "text": "The Homolka II in Nachod is a lake well-suited for quiet moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        16.203151,
-                        50.452038
-                  ]
-            },
-            {
-                  "name": "Homolka I",
-                  "text": "The Homolka I in Nachod offers a nice water area for walks in the vicinity.",
-                  "category": "natural",
-                  "coords": [
-                        16.205823,
-                        50.454132
                   ]
             },
             {
@@ -66187,15 +63523,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "bývalé koupaliště Vinařice",
-                  "text": "Das ehemalige Koupaliště Vinařice in Slany ist ein See, der zu ruhigen Spaziergängen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        14.084235,
-                        50.170862
-                  ]
-            },
-            {
                   "name": "Rákosníčkovo hřiště",
                   "text": "Der Spielplatz Rákosníčkovo hřiště in Slany bietet Kindern bunte und sichere Spielmöglichkeiten.",
                   "category": "family",
@@ -66303,15 +63630,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.075614,
                         50.248403
-                  ]
-            },
-            {
-                  "name": "bývalé koupaliště Vinařice",
-                  "text": "A Slany városában található egykori Vinařice strand egy tó, amely nyugodt sétákra hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        14.084235,
-                        50.170862
                   ]
             },
             {
@@ -66425,15 +63743,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "bývalé koupaliště Vinařice",
-                  "text": "Fosta piscină Vinařice din Slany este acum un lac care invită la plimbări liniștite.",
-                  "category": "natural",
-                  "coords": [
-                        14.084235,
-                        50.170862
-                  ]
-            },
-            {
                   "name": "Rákosníčkovo hřiště",
                   "text": "Terenul de joacă Rákosníčkovo hřiště din Slany oferă copiilor opțiuni de joacă colorate și sigure.",
                   "category": "family",
@@ -66541,15 +63850,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.075614,
                         50.248403
-                  ]
-            },
-            {
-                  "name": "bývalé koupaliště Vinařice",
-                  "text": "The former Vinařice swimming pool in Slany is a lake that invites for quiet walks.",
-                  "category": "natural",
-                  "coords": [
-                        14.084235,
-                        50.170862
                   ]
             },
             {
@@ -70299,30 +67599,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kacabaja",
-                  "text": "Ein bekannter See bei Nový Jičín, der Ruhe und Entspannung verspricht.",
-                  "category": "natural",
-                  "coords": [
-                        18.019342,
-                        49.52581
-                  ]
-            },
-            {
                   "name": "Lamberk",
                   "text": "Ein Gewässer in Nový Jičín, eingebettet in eine ruhige Landschaft.",
                   "category": "natural",
                   "coords": [
                         18.027763,
                         49.597227
-                  ]
-            },
-            {
-                  "name": "Štramberk",
-                  "text": "Ein See in Nový Jičín, der eine schöne Umgebung für Erholung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.103154,
-                        49.584332
                   ]
             },
             {
@@ -70463,30 +67745,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kacabaja",
-                  "text": "Ismert tó Nový Jičín közelében, amely nyugalmat és kikapcsolódást ígér.",
-                  "category": "natural",
-                  "coords": [
-                        18.019342,
-                        49.52581
-                  ]
-            },
-            {
                   "name": "Lamberk",
                   "text": "Vízfelület Nový Jičínben, nyugodt tájba illeszkedve.",
                   "category": "natural",
                   "coords": [
                         18.027763,
                         49.597227
-                  ]
-            },
-            {
-                  "name": "Štramberk",
-                  "text": "Tó Nový Jičín területén, amely szép környezetet biztosít a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.103154,
-                        49.584332
                   ]
             },
             {
@@ -70627,30 +67891,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kacabaja",
-                  "text": "Un lac cunoscut lângă Nový Jičín, promițând liniște și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        18.019342,
-                        49.52581
-                  ]
-            },
-            {
                   "name": "Lamberk",
                   "text": "O apă în Nový Jičín, încadrată într-un peisaj liniștit.",
                   "category": "natural",
                   "coords": [
                         18.027763,
                         49.597227
-                  ]
-            },
-            {
-                  "name": "Štramberk",
-                  "text": "Un lac în Nový Jičín, oferind un mediu frumos pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        18.103154,
-                        49.584332
                   ]
             },
             {
@@ -70791,30 +68037,12 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kacabaja",
-                  "text": "A well-known lake near Nový Jičín, promising peace and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        18.019342,
-                        49.52581
-                  ]
-            },
-            {
                   "name": "Lamberk",
                   "text": "A body of water in Nový Jičín, embedded in a quiet landscape.",
                   "category": "natural",
                   "coords": [
                         18.027763,
                         49.597227
-                  ]
-            },
-            {
-                  "name": "Štramberk",
-                  "text": "A lake in Nový Jičín, providing a beautiful environment for recreation.",
-                  "category": "natural",
-                  "coords": [
-                        18.103154,
-                        49.584332
                   ]
             },
             {
@@ -71046,15 +68274,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piccolomini",
-                  "text": "Piccolomini in Hronov ist ein See, der eine friedliche Umgebung für Naturbeobachtungen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        16.11739,
-                        50.44411
-                  ]
-            },
-            {
                   "name": "Homolka II",
                   "text": "Der See Homolka II in Hronov lädt zu einem entspannten Spaziergang am Ufer ein.",
                   "category": "natural",
@@ -71135,15 +68354,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.1925,
                         50.463015
-                  ]
-            },
-            {
-                  "name": "Piccolomini",
-                  "text": "A hronovi Piccolomini tó békés környezetet biztosít a természet megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        16.11739,
-                        50.44411
                   ]
             },
             {
@@ -71230,15 +68440,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piccolomini",
-                  "text": "Piccolomini din Hronov este un lac care oferă un mediu liniștit pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        16.11739,
-                        50.44411
-                  ]
-            },
-            {
                   "name": "Homolka II",
                   "text": "Lacul Homolka II din Hronov invită la o plimbare relaxantă pe mal.",
                   "category": "natural",
@@ -71319,15 +68520,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         16.1925,
                         50.463015
-                  ]
-            },
-            {
-                  "name": "Piccolomini",
-                  "text": "Piccolomini in Hronov is a lake offering a peaceful environment for nature observations.",
-                  "category": "natural",
-                  "coords": [
-                        16.11739,
-                        50.44411
                   ]
             },
             {
@@ -74592,15 +71784,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jezírko",
-                  "text": "Jezírko in Semily ist ein ruhiger See, der sich gut für einen entspannten Rundgang eignet.",
-                  "category": "natural",
-                  "coords": [
-                        15.228463,
-                        50.583848
-                  ]
-            },
-            {
                   "name": "Koupaliště Chuchelna",
                   "text": "Dieser Spielplatz in Semily bietet Kindern Raum zum Austoben im Freien.",
                   "category": "family",
@@ -74726,15 +71909,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.325147,
                         50.60148
-                  ]
-            },
-            {
-                  "name": "Jezírko",
-                  "text": "A semily-i Jezírko egy nyugodt tó, amely jól alkalmas egy pihentető körsétára.",
-                  "category": "natural",
-                  "coords": [
-                        15.228463,
-                        50.583848
                   ]
             },
             {
@@ -74866,15 +72040,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jezírko",
-                  "text": "Jezírko din Semily este un lac liniștit, potrivit pentru o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        15.228463,
-                        50.583848
-                  ]
-            },
-            {
                   "name": "Koupaliště Chuchelna",
                   "text": "Acest loc de joacă din Semily oferă copiilor un spațiu de recreere în aer liber.",
                   "category": "family",
@@ -75000,15 +72165,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         15.325147,
                         50.60148
-                  ]
-            },
-            {
-                  "name": "Jezírko",
-                  "text": "Jezírko in Semily is a quiet lake, well-suited for a relaxed circuit walk.",
-                  "category": "natural",
-                  "coords": [
-                        15.228463,
-                        50.583848
                   ]
             },
             {
@@ -75204,15 +72360,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Studenáč 2",
-                  "text": "Der See Studenáč 2 in Rumburk ist ein ruhiges Gewässer, das sich gut für einen Spaziergang am Wasser eignet.",
-                  "category": "natural",
-                  "coords": [
-                        14.559968,
-                        51.000788
-                  ]
-            },
-            {
                   "name": "Freibad Rumburg",
                   "text": "Das koupaliště Rumburk bietet Besuchern an warmen Tagen eine willkommene Erfrischung und Badespaß.",
                   "category": "natural",
@@ -75231,33 +72378,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schwarzer Teich",
-                  "text": "Der See Černý rybník in Rumburk bietet eine idyllische Kulisse für einen Ausflug ins Grüne.",
-                  "category": "natural",
-                  "coords": [
-                        14.522208,
-                        51.018189
-                  ]
-            },
-            {
-                  "name": "Studenáč 1",
-                  "text": "Der See Studenáč 1 in Rumburk ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        14.561588,
-                        51.001202
-                  ]
-            },
-            {
-                  "name": "Silberteich",
-                  "text": "Der Silberteich in Rumburk ist ein lokaler See, der sich ideal für entspannte Spaziergänge am Ufer eignet.",
-                  "category": "natural",
-                  "coords": [
-                        14.614679,
-                        50.952882
-                  ]
-            },
-            {
                   "name": "v. n. Vlčí",
                   "text": "Der See v. n. Vlčí in Rumburk bietet Naturfreunden eine ruhige Atmosphäre für Erholung im Freien.",
                   "category": "natural",
@@ -75273,15 +72393,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.52416,
                         50.942105
-                  ]
-            },
-            {
-                  "name": "Jacobimarkt",
-                  "text": "Ein Themenpark in Rumburk, der traditionelle Jahrmarktsstimmung und Unterhaltung bietet.",
-                  "category": "family",
-                  "coords": [
-                        14.598322,
-                        50.971156
                   ]
             }
       ],
@@ -75377,15 +72488,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Studenáč 2",
-                  "text": "A Rumburk városában lévő Studenáč 2 tó egy nyugodt vízfelület, amely alkalmas vízparti sétákra.",
-                  "category": "natural",
-                  "coords": [
-                        14.559968,
-                        51.000788
-                  ]
-            },
-            {
                   "name": "koupaliště Rumburk",
                   "text": "A Rumburk fürdőhely meleg napokon szívesen látott frissítőt és fürdőzési élményt kínál a látogatóknak.",
                   "category": "natural",
@@ -75404,33 +72506,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Černý rybník",
-                  "text": "A Rumburk területén található Černý rybník tó idilli környezetet biztosít egy zöldövezeti kiránduláshoz.",
-                  "category": "natural",
-                  "coords": [
-                        14.522208,
-                        51.018189
-                  ]
-            },
-            {
-                  "name": "Studenáč 1",
-                  "text": "A Rumburk-i Studenáč 1 tó egy csendes vízfelület, amely a természetben való pihenésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        14.561588,
-                        51.001202
-                  ]
-            },
-            {
-                  "name": "Silberteich",
-                  "text": "A Rumburk-i Silberteich egy helyi tó, amely ideális a parti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        14.614679,
-                        50.952882
-                  ]
-            },
-            {
                   "name": "v. n. Vlčí",
                   "text": "A Rumburk-i v. n. Vlčí tó a természet kedvelőinek kínál csendes légkört a szabadtéri kikapcsolódáshoz.",
                   "category": "natural",
@@ -75446,15 +72521,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.52416,
                         50.942105
-                  ]
-            },
-            {
-                  "name": "Jacobimarkt",
-                  "text": "Tematikus park Rumburkban, amely hagyományos vásári hangulatot és szórakozást kínál.",
-                  "category": "family",
-                  "coords": [
-                        14.598322,
-                        50.971156
                   ]
             }
       ],
@@ -75550,15 +72616,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Studenáč 2",
-                  "text": "Lacul Studenáč 2 din Rumburk este o apă liniștită, potrivită pentru o plimbare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        14.559968,
-                        51.000788
-                  ]
-            },
-            {
                   "name": "koupaliště Rumburk",
                   "text": "Koupaliště Rumburk oferă vizitatorilor o împrospătare binevenită și distracție la scăldat în zilele calde.",
                   "category": "natural",
@@ -75577,33 +72634,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Černý rybník",
-                  "text": "Lacul Černý rybník din Rumburk oferă un cadru idilic pentru o excursie în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.522208,
-                        51.018189
-                  ]
-            },
-            {
-                  "name": "Studenáč 1",
-                  "text": "Lacul Studenáč 1 din Rumburk este o apă liniștită care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.561588,
-                        51.001202
-                  ]
-            },
-            {
-                  "name": "Silberteich",
-                  "text": "Silberteich din Rumburk este un lac local, ideal pentru plimbări relaxante pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        14.614679,
-                        50.952882
-                  ]
-            },
-            {
                   "name": "v. n. Vlčí",
                   "text": "Lacul v. n. Vlčí din Rumburk oferă iubitorilor de natură o atmosferă liniștită pentru recreere în aer liber.",
                   "category": "natural",
@@ -75619,15 +72649,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.52416,
                         50.942105
-                  ]
-            },
-            {
-                  "name": "Jacobimarkt",
-                  "text": "Un parc tematic în Rumburk care oferă o atmosferă tradițională de iarmaroc și divertisment.",
-                  "category": "family",
-                  "coords": [
-                        14.598322,
-                        50.971156
                   ]
             }
       ],
@@ -75723,15 +72744,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Studenáč 2",
-                  "text": "Studenáč 2 lake in Rumburk is a calm body of water, suitable for a walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        14.559968,
-                        51.000788
-                  ]
-            },
-            {
                   "name": "koupaliště Rumburk",
                   "text": "The Rumburk swimming facility offers visitors welcome refreshment and bathing fun on warm days.",
                   "category": "natural",
@@ -75750,33 +72762,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Černý rybník",
-                  "text": "Černý rybník lake in Rumburk offers an idyllic setting for an excursion into the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        14.522208,
-                        51.018189
-                  ]
-            },
-            {
-                  "name": "Studenáč 1",
-                  "text": "Studenáč 1 lake in Rumburk is a calm body of water that invites you to linger in nature.",
-                  "category": "natural",
-                  "coords": [
-                        14.561588,
-                        51.001202
-                  ]
-            },
-            {
-                  "name": "Silberteich",
-                  "text": "Silberteich in Rumburk is a local lake, ideal for relaxed walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        14.614679,
-                        50.952882
-                  ]
-            },
-            {
                   "name": "v. n. Vlčí",
                   "text": "The v. n. Vlčí lake in Rumburk offers nature lovers a quiet atmosphere for outdoor recreation.",
                   "category": "natural",
@@ -75792,15 +72777,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.52416,
                         50.942105
-                  ]
-            },
-            {
-                  "name": "Jacobimarkt",
-                  "text": "A theme park in Rumburk offering traditional fairground atmosphere and entertainment.",
-                  "category": "family",
-                  "coords": [
-                        14.598322,
-                        50.971156
                   ]
             }
       ]
@@ -76896,15 +73872,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Špígl",
-                  "text": "Ein lokales Gewässer in Velvary, das zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        14.329383,
-                        50.276033
-                  ]
-            },
-            {
                   "name": "dětské hřiště Bratkovice",
                   "text": "Ein familienfreundlicher Spielplatz in Velvary für Spiel und Spaß im Freien.",
                   "category": "family",
@@ -77012,15 +73979,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         14.200627,
                         50.303526
-                  ]
-            },
-            {
-                  "name": "Špígl",
-                  "text": "Egy helyi tó Velvaryban, amely pihenésre hív a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        14.329383,
-                        50.276033
                   ]
             },
             {
@@ -77134,15 +74092,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Špígl",
-                  "text": "O zonă cu apă în Velvary, care invită la relaxare în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        14.329383,
-                        50.276033
-                  ]
-            },
-            {
                   "name": "dětské hřiště Bratkovice",
                   "text": "Un loc de joacă pentru familii în Velvary, pentru jocuri și distracție în aer liber.",
                   "category": "family",
@@ -77253,15 +74202,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Špígl",
-                  "text": "A local body of water in Velvary, inviting for relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        14.329383,
-                        50.276033
-                  ]
-            },
-            {
                   "name": "dětské hřiště Bratkovice",
                   "text": "A family-friendly playground in Velvary for outdoor play and fun.",
                   "category": "family",
@@ -77346,24 +74286,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Na návsi",
-                  "text": "Dieser See in Zdice bietet eine ruhige Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        13.978485,
-                        49.980835
-                  ]
-            },
-            {
-                  "name": "v. n. Suchomasty",
-                  "text": "Dieses Wasserreservoir in Zdice bietet eine malerische Umgebung für Spaziergänge und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        14.045215,
-                        49.932567
-                  ]
-            },
-            {
                   "name": "Lounín",
                   "text": "Ein schöner Ort für Familien in Zdice mit einem Spielplatz, auf dem Kinder spielen und aktiv sein können.",
                   "category": "family",
@@ -77399,24 +74321,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.977442,
                         49.912334
-                  ]
-            },
-            {
-                  "name": "Na návsi",
-                  "text": "Ez a Zdice területén található tó nyugodt környezetet kínál a sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        13.978485,
-                        49.980835
-                  ]
-            },
-            {
-                  "name": "v. n. Suchomasty",
-                  "text": "Ez a Zdice területén található víztározó festői környezetet kínál a sétákhoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        14.045215,
-                        49.932567
                   ]
             },
             {
@@ -77458,24 +74362,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Na návsi",
-                  "text": "Acest lac din Zdice oferă un mediu liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        13.978485,
-                        49.980835
-                  ]
-            },
-            {
-                  "name": "v. n. Suchomasty",
-                  "text": "Acest lac de acumulare din Zdice oferă un cadru pitoresc pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.045215,
-                        49.932567
-                  ]
-            },
-            {
                   "name": "Lounín",
                   "text": "O destinație ideală pentru familii în Zdice, dotată cu un teren de joacă unde copiii se pot distra.",
                   "category": "family",
@@ -77511,24 +74397,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         13.977442,
                         49.912334
-                  ]
-            },
-            {
-                  "name": "Na návsi",
-                  "text": "This lake in Zdice provides a peaceful setting for walking and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        13.978485,
-                        49.980835
-                  ]
-            },
-            {
-                  "name": "v. n. Suchomasty",
-                  "text": "This water reservoir in Zdice offers a scenic environment for walks and enjoying the local landscape.",
-                  "category": "natural",
-                  "coords": [
-                        14.045215,
-                        49.932567
                   ]
             },
             {
@@ -77643,24 +74511,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "vodní nádrž Olešná",
-                  "text": "Die Talsperre Olešná bei Frydlant Nad Ostravici ist ein beliebtes Ziel für Spaziergänge und Aktivitäten in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        18.314438,
-                        49.659284
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Baška",
-                  "text": "Der See vodní nádrž Baška in Frydlant Nad Ostravici bietet eine schöne Umgebung für Erholung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        18.37861,
-                        49.650022
-                  ]
-            },
-            {
                   "name": "Jezírko přání",
                   "text": "Das Jezírko přání in Frydlant Nad Ostravici ist ein kleiner See, der zum Verweilen in ruhiger Atmosphäre einlädt.",
                   "category": "natural",
@@ -77723,24 +74573,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.28543,
                         49.538202
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Olešná",
-                  "text": "A Frydlant Nad Ostravici közelében lévő Olešná víztározó népszerű hely sétákhoz és természetbeli programokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.314438,
-                        49.659284
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Baška",
-                  "text": "A Frydlant Nad Ostravici-i vodní nádrž Baška tó szép környezetet biztosít a vízparti kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.37861,
-                        49.650022
                   ]
             },
             {
@@ -77809,24 +74641,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "vodní nádrž Olešná",
-                  "text": "Rezervorul Olešná de lângă Frydlant Nad Ostravici este o destinație populară pentru plimbări și activități în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.314438,
-                        49.659284
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Baška",
-                  "text": "Lacul vodní nádrž Baška din Frydlant Nad Ostravici oferă un cadru frumos pentru recreere pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        18.37861,
-                        49.650022
-                  ]
-            },
-            {
                   "name": "Jezírko přání",
                   "text": "Jezírko přání din Frydlant Nad Ostravici este un lac mic care invită la relaxare într-o atmosferă liniștită.",
                   "category": "natural",
@@ -77889,24 +74703,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         18.28543,
                         49.538202
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Olešná",
-                  "text": "Olešná reservoir near Frydlant Nad Ostravici is a popular destination for walks and activities in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.314438,
-                        49.659284
-                  ]
-            },
-            {
-                  "name": "vodní nádrž Baška",
-                  "text": "Baška reservoir in Frydlant Nad Ostravici offers a beautiful environment for recreation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.37861,
-                        49.650022
                   ]
             },
             {
@@ -81054,69 +77850,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tobogán",
-                  "text": "Dieser Wasserpark in Hranice Na Morave bietet Wasserspaß und Erholung für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        17.724073,
-                        49.543515
-                  ]
-            },
-            {
-                  "name": "Divadlo Stará střelnice",
-                  "text": "Das Theater \"Altes Schützenhaus\" in Hranice ist ein lebendiger Ort für kulturelle Veranstaltungen und Aufführungen. Das historische Gebäude bietet eine gemütliche Atmosphäre für Schauspiel und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        17.734162,
-                        49.54131
-                  ]
-            },
-            {
-                  "name": "Městský úřad Hranice; Zámek Hranice",
-                  "text": "Das Schloss Hranice beherbergt heute die Stadtverwaltung und ist für seinen markanten Arkadenhof bekannt. Besucher können die architektonischen Details des Renaissancebaus und den Schlossgarten bewundern.",
-                  "category": "castle",
-                  "coords": [
-                        17.73472,
-                        49.550237
-                  ]
-            },
-            {
-                  "name": "Vyhlídka u sv. Jana",
-                  "text": "Der Aussichtspunkt bei St. Johann bietet einen weiten Blick über das Tal der Bečva und die Stadt Hranice. Ein kleiner Pfad führt zu dieser ruhigen Stelle, die zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        17.745478,
-                        49.538232
-                  ]
-            },
-            {
-                  "name": "Zřícenina hradu Svrčov",
-                  "text": "Die Ruinen der Burg Svrčov liegen auf einem bewaldeten Hügel über der Teplitzer Schlucht bei Hranice. Wanderer können hier die spärlichen Überreste der mittelalterlichen Befestigung in schöner Natur entdecken.",
-                  "category": "historical",
-                  "coords": [
-                        17.747593,
-                        49.537146
-                  ]
-            },
-            {
-                  "name": "Galerie Synagoga",
-                  "text": "Diese Kunstgalerie ist in der ehemaligen Synagoge von Hranice untergebracht und bietet einen beeindruckenden Rahmen für moderne Ausstellungen. Das Gebäude selbst ist ein wertvolles Denkmal der jüdischen Geschichte in der Stadt.",
-                  "category": "museum",
-                  "coords": [
-                        17.733872,
-                        49.548817
-                  ]
-            },
-            {
-                  "name": "Zbrašovské aragonitové jeskyně",
-                  "text": "Die Aragonit-Höhlen von Zbrašov sind ein einzigartiges hydrothermales Höhlensystem mit seltenen Mineralformationen bei Hranice. Sie sind die wärmsten Höhlen in Tschechien und bekannt für ihre \"Geysir-Stalagmiten\".",
-                  "category": "landmark",
-                  "coords": [
-                        17.745761,
-                        49.531652
-                  ]
-            },
-            {
                   "name": "Gallašův dům",
                   "text": "Das Gallaš-Haus ist ein historisches Gebäude in Hranice, das architektonisch interessant und ortsbildprägend ist. Es dient als Zeugnis der bürgerlichen Baukunst und ist ein fester Bestandteil der Stadtgeschichte.",
                   "category": "landmark",
@@ -81132,33 +77865,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.732674,
                         49.554682
-                  ]
-            },
-            {
-                  "name": "Stětí svatého Jana Křtitele",
-                  "text": "Die Stětí svatého Jana Křtitele ist eine historische Kultstätte in Hranice Na Morave. Das Gebäude ist ein wichtiger Teil des lokalen religiösen Erbes und lädt zur Besinnung ein.",
-                  "category": "religious",
-                  "coords": [
-                        17.734785,
-                        49.547812
-                  ]
-            },
-            {
-                  "name": "Kostel Narození Panny Marie",
-                  "text": "Die Kostel Narození Panny Marie ist ein markantes religiöses Bauwerk in Hranice Na Morave. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
-                  "category": "religious",
-                  "coords": [
-                        17.758077,
-                        49.550943
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Vavřince",
-                  "text": "Die Kostel svatého Vavřince ist ein markantes religiöses Bauwerk in Hranice Na Morave. Besucher können hier die traditionelle Architektur und die friedliche Atmosphäre des Sakralbaus erleben.",
-                  "category": "religious",
-                  "coords": [
-                        17.694778,
-                        49.549463
                   ]
             },
             {
@@ -81254,69 +77960,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tobogán",
-                  "text": "Ez a Hranice Na Morave városában található vízipark szórakozást és pihenést kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        17.724073,
-                        49.543515
-                  ]
-            },
-            {
-                  "name": "Divadlo Stará střelnice",
-                  "text": "A hranicei \"Régi Lőtér\" színház a kulturális rendezvények és előadások élettel teli helyszíne. A történelmi épület meghitt hangulatot biztosít drámákhoz és koncertekhez.",
-                  "category": "cultural",
-                  "coords": [
-                        17.734162,
-                        49.54131
-                  ]
-            },
-            {
-                  "name": "Městský úřad Hranice; Zámek Hranice",
-                  "text": "A hranicei kastély ma a városi önkormányzatnak ad otthont, és jellegzetes árkádos udvaráról ismert. A látogatók megcsodálhatják a reneszánsz épület építészeti részleteit és a kastélykertet.",
-                  "category": "castle",
-                  "coords": [
-                        17.73472,
-                        49.550237
-                  ]
-            },
-            {
-                  "name": "Vyhlídka u sv. Jana",
-                  "text": "A Szent János-kilátó széles kilátást nyújt a Bečva völgyére és Hranice városára. Egy kis ösvény vezet ehhez a nyugodt helyhez, amely pihenésre hívogat a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        17.745478,
-                        49.538232
-                  ]
-            },
-            {
-                  "name": "Zřícenina hradu Svrčov",
-                  "text": "Svrčov várának romjai egy erdős dombon fekszenek a Teplice-szurdok felett, Hranice közelében. A túrázók itt a középkori erődítmény csekély maradványait fedezhetik fel a szép természetben.",
-                  "category": "historical",
-                  "coords": [
-                        17.747593,
-                        49.537146
-                  ]
-            },
-            {
-                  "name": "Galerie Synagoga",
-                  "text": "Ez a művészeti galéria a hranicei egykori zsinagógában kapott helyet, és lenyűgöző környezetet biztosít modern kiállításokhoz. Maga az épület a város zsidó történelmének értékes műemléke.",
-                  "category": "museum",
-                  "coords": [
-                        17.733872,
-                        49.548817
-                  ]
-            },
-            {
-                  "name": "Zbrašovské aragonitové jeskyně",
-                  "text": "A zbrašovi aragonitbarlangok egyedülálló hidrotermális barlangrendszert alkotnak ritka ásványképződményekkel Hranice közelében. Ezek Csehország legmelegebb barlangjai, és híresek a \"gejzír-stalagmitjaikról\".",
-                  "category": "landmark",
-                  "coords": [
-                        17.745761,
-                        49.531652
-                  ]
-            },
-            {
                   "name": "Gallašův dům",
                   "text": "A Gallaš-ház egy történelmi épület Hranice városában, amely építészetileg érdekes és meghatározza a településképet. A polgári építészet tanújaként szolgál, és a várostörténet szerves része.",
                   "category": "landmark",
@@ -81332,33 +77975,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.732674,
                         49.554682
-                  ]
-            },
-            {
-                  "name": "Stětí svatého Jana Křtitele",
-                  "text": "A(z) Stětí svatého Jana Křtitele egy történelmi kegyhely Hranice Na Morave területén. Az épület a helyi vallási örökség fontos része, amely nyugodt környezetet kínál az elmélyüléshez.",
-                  "category": "religious",
-                  "coords": [
-                        17.734785,
-                        49.547812
-                  ]
-            },
-            {
-                  "name": "Kostel Narození Panny Marie",
-                  "text": "A(z) Kostel Narození Panny Marie egy jellegzetes vallási épület Hranice Na Morave városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
-                  "category": "religious",
-                  "coords": [
-                        17.758077,
-                        49.550943
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Vavřince",
-                  "text": "A(z) Kostel svatého Vavřince egy jellegzetes vallási épület Hranice Na Morave városában. A látogatók itt megtapasztalhatják a szakrális épület hagyományos építészetét és békés hangulatát.",
-                  "category": "religious",
-                  "coords": [
-                        17.694778,
-                        49.549463
                   ]
             },
             {
@@ -81454,69 +78070,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tobogán",
-                  "text": "Acest parc acvatic din Hranice Na Morave oferă distracție și relaxare pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        17.724073,
-                        49.543515
-                  ]
-            },
-            {
-                  "name": "Divadlo Stará střelnice",
-                  "text": "Teatrul \"Vechia Tireră\" din Hranice este un loc plin de viață pentru evenimente culturale și spectacole. Clădirea istorică oferă o atmosferă primitoare pentru teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        17.734162,
-                        49.54131
-                  ]
-            },
-            {
-                  "name": "Městský úřad Hranice; Zámek Hranice",
-                  "text": "Castelul Hranice găzduiește astăzi administrația orașului și este cunoscut pentru curtea sa cu arcade distinctivă. Vizitatorii pot admira detaliile arhitecturale ale clădirii renascentiste și grădina castelului.",
-                  "category": "castle",
-                  "coords": [
-                        17.73472,
-                        49.550237
-                  ]
-            },
-            {
-                  "name": "Vyhlídka u sv. Jana",
-                  "text": "Punctul de belvedere de la Sf. Ioan oferă o vedere largă asupra văii râului Bečva și a orașului Hranice. O potecă mică duce la acest loc liniștit, care invită la zăbovit în natură.",
-                  "category": "natural",
-                  "coords": [
-                        17.745478,
-                        49.538232
-                  ]
-            },
-            {
-                  "name": "Zřícenina hradu Svrčov",
-                  "text": "Ruinele cetății Svrčov sunt situate pe un deal împădurit deasupra defileului Teplice, lângă Hranice. Turiștii pot descoperi aici resturile puține ale fortificației medievale în mijlocul unei naturi frumoase.",
-                  "category": "historical",
-                  "coords": [
-                        17.747593,
-                        49.537146
-                  ]
-            },
-            {
-                  "name": "Galerie Synagoga",
-                  "text": "Această galerie de artă este găzduită în fosta sinagogă din Hranice și oferă un cadru impresionant pentru expoziții moderne. Clădirea în sine este un monument valoros al istoriei evreiești din oraș.",
-                  "category": "museum",
-                  "coords": [
-                        17.733872,
-                        49.548817
-                  ]
-            },
-            {
-                  "name": "Zbrašovské aragonitové jeskyně",
-                  "text": "Peșterile de aragonit de la Zbrašov sunt un sistem de peșteri hidrotermale unic, cu formațiuni minerale rare, lângă Hranice. Sunt cele mai calde peșteri din Cehia și sunt cunoscute pentru \"stalagmitele lor gheizer\".",
-                  "category": "landmark",
-                  "coords": [
-                        17.745761,
-                        49.531652
-                  ]
-            },
-            {
                   "name": "Gallašův dům",
                   "text": "Casa Gallaš este o clădire istorică din Hranice, interesantă din punct de vedere arhitectural și emblematică pentru localitate. Servește ca mărturie a arhitecturii burgheze și este o parte integrantă a istoriei orașului.",
                   "category": "landmark",
@@ -81532,33 +78085,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.732674,
                         49.554682
-                  ]
-            },
-            {
-                  "name": "Stětí svatého Jana Křtitele",
-                  "text": "Stětí svatého Jana Křtitele este un lăcaș de cult istoric în Hranice Na Morave. Clădirea este o parte importantă a moștenirii religioase locale și invită la reflecție.",
-                  "category": "religious",
-                  "coords": [
-                        17.734785,
-                        49.547812
-                  ]
-            },
-            {
-                  "name": "Kostel Narození Panny Marie",
-                  "text": "Kostel Narození Panny Marie este un edificiu religios distinctiv în Hranice Na Morave. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
-                  "category": "religious",
-                  "coords": [
-                        17.758077,
-                        49.550943
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Vavřince",
-                  "text": "Kostel svatého Vavřince este un edificiu religios distinctiv în Hranice Na Morave. Vizitatorii pot experimenta aici arhitectura tradițională și atmosfera liniștită a clădirii sacre.",
-                  "category": "religious",
-                  "coords": [
-                        17.694778,
-                        49.549463
                   ]
             },
             {
@@ -81654,69 +78180,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tobogán",
-                  "text": "This water park in Hranice Na Morave offers water fun and relaxation for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        17.724073,
-                        49.543515
-                  ]
-            },
-            {
-                  "name": "Divadlo Stará střelnice",
-                  "text": "The Old Shooting Range Theatre in Hranice is a vibrant venue for cultural events and performances. The historical building provides a cozy atmosphere for drama and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        17.734162,
-                        49.54131
-                  ]
-            },
-            {
-                  "name": "Městský úřad Hranice; Zámek Hranice",
-                  "text": "Hranice Castle now houses the city administration and is known for its striking arcaded courtyard. Visitors can admire the architectural details of the Renaissance building and the castle garden.",
-                  "category": "castle",
-                  "coords": [
-                        17.73472,
-                        49.550237
-                  ]
-            },
-            {
-                  "name": "Vyhlídka u sv. Jana",
-                  "text": "The St. John Viewpoint offers a wide view over the Bečva valley and the city of Hranice. A small path leads to this quiet spot, inviting visitors to linger in nature.",
-                  "category": "natural",
-                  "coords": [
-                        17.745478,
-                        49.538232
-                  ]
-            },
-            {
-                  "name": "Zřícenina hradu Svrčov",
-                  "text": "The ruins of Svrčov Castle are situated on a wooded hill above the Teplice Gorge near Hranice. Hikers can discover the sparse remains of the medieval fortification amidst beautiful nature.",
-                  "category": "historical",
-                  "coords": [
-                        17.747593,
-                        49.537146
-                  ]
-            },
-            {
-                  "name": "Galerie Synagoga",
-                  "text": "This art gallery is housed in the former synagogue of Hranice, providing an impressive setting for modern exhibitions. The building itself is a valuable monument to the city's Jewish history.",
-                  "category": "museum",
-                  "coords": [
-                        17.733872,
-                        49.548817
-                  ]
-            },
-            {
-                  "name": "Zbrašovské aragonitové jeskyně",
-                  "text": "The Zbrašov Aragonite Caves are a unique hydrothermal cave system with rare mineral formations near Hranice. They are the warmest caves in Czechia and are famous for their \"geyser stalagmites\".",
-                  "category": "landmark",
-                  "coords": [
-                        17.745761,
-                        49.531652
-                  ]
-            },
-            {
                   "name": "Gallašův dům",
                   "text": "The Gallaš House is a historical building in Hranice that is architecturally interesting and significant to the townscape. It serves as a testament to burgher architecture and is an integral part of the city's history.",
                   "category": "landmark",
@@ -81732,33 +78195,6 @@ export const czechrepublicCitiesV2: POI[] = [
                   "coords": [
                         17.732674,
                         49.554682
-                  ]
-            },
-            {
-                  "name": "Stětí svatého Jana Křtitele",
-                  "text": "The Stětí svatého Jana Křtitele is a historical place of worship in Hranice Na Morave. The building is an important part of the local religious heritage and invites quiet reflection.",
-                  "category": "religious",
-                  "coords": [
-                        17.734785,
-                        49.547812
-                  ]
-            },
-            {
-                  "name": "Kostel Narození Panny Marie",
-                  "text": "The Kostel Narození Panny Marie is a distinctive religious building in Hranice Na Morave. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
-                  "category": "religious",
-                  "coords": [
-                        17.758077,
-                        49.550943
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Vavřince",
-                  "text": "The Kostel svatého Vavřince is a distinctive religious building in Hranice Na Morave. Visitors can experience the traditional architecture and peaceful atmosphere of the sacred site.",
-                  "category": "religious",
-                  "coords": [
-                        17.694778,
-                        49.549463
                   ]
             },
             {

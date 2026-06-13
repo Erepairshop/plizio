@@ -4506,15 +4506,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalutara Bodhiya",
-                  "text": "Dieser markante buddhistische Stupa mit seinem heiligen Feigenbaum wird von Pilgern in der Nähe des Flusses verehrt.",
-                  "category": "landmark",
-                  "coords": [
-                        79.960082,
-                        6.586991
-                  ]
-            },
-            {
                   "name": "Temple",
                   "text": "Eine ruhige buddhistische Kultstätte, die spirituelle Führung in der Nähe des Kalu River bietet.",
                   "category": "landmark",
@@ -4766,15 +4757,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
                   "coords": [
                         79.966787,
                         6.569359
-                  ]
-            },
-            {
-                  "name": "Kalutara Bodhiya",
-                  "text": "Ezt a folyóhoz közeli, kiemelkedő buddhista sztúpát és szent fügefát zarándokok sokasága tiszteli.",
-                  "category": "landmark",
-                  "coords": [
-                        79.960082,
-                        6.586991
                   ]
             },
             {
@@ -5032,15 +5014,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalutara Bodhiya",
-                  "text": "Această stupă budistă proeminentă și copacul său sacru sunt venerate de pelerinii din apropierea râului.",
-                  "category": "landmark",
-                  "coords": [
-                        79.960082,
-                        6.586991
-                  ]
-            },
-            {
                   "name": "Temple",
                   "text": "Un lăcaș de cult budist senin care oferă îndrumare spirituală în apropierea râului Kalu.",
                   "category": "landmark",
@@ -5292,15 +5265,6 @@ export const poiExtraSrilankaNatureV2: POI[] = [
                   "coords": [
                         79.966787,
                         6.569359
-                  ]
-            },
-            {
-                  "name": "Kalutara Bodhiya",
-                  "text": "This prominent Buddhist stupa and its sacred fig tree are revered by pilgrims near the river.",
-                  "category": "landmark",
-                  "coords": [
-                        79.960082,
-                        6.586991
                   ]
             },
             {

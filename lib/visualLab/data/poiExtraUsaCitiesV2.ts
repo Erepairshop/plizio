@@ -6,39 +6,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
     id: "new-york-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Yeshiva University Museum",
-                  "text": "Das Yeshiva University Museum in New York City widmet sich der jüdischen Geschichte, Kunst und Kultur.",
-                  "category": "museum",
-                  "coords": [
-                        -73.993831,
-                        40.737978
-                  ]
-            },
-            {
                   "name": "Lower East Side Tenement Museum",
                   "text": "Das Lower East Side Tenement Museum in New York City zeigt die Geschichte der Einwanderer in historischen Mietshäusern.",
                   "category": "museum",
                   "coords": [
                         -73.990027,
                         40.718784
-                  ]
-            },
-            {
-                  "name": "Museum of American Finance",
-                  "text": "Das Museum of American Finance in New York City widmet sich der Finanzgeschichte der USA.",
-                  "category": "museum",
-                  "coords": [
-                        -74.009196,
-                        40.706371
-                  ]
-            },
-            {
-                  "name": "Skyscraper Museum",
-                  "text": "Das Skyscraper Museum in New York City konzentriert sich auf die Architektur und Geschichte von Wolkenkratzern.",
-                  "category": "museum",
-                  "coords": [
-                        -74.017691,
-                        40.70575
                   ]
             },
             {
@@ -69,48 +42,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salmagundi Club",
-                  "text": "Der Salmagundi Club ist ein historisches Kunstzentrum und eine Galerie in New York City.",
-                  "category": "museum",
-                  "coords": [
-                        -73.994553,
-                        40.734302
-                  ]
-            },
-            {
-                  "name": "Pilecki Institute",
-                  "text": "Das Pilecki Institute ist eine bedeutende Galerie und kulturelle Einrichtung in New York City.",
-                  "category": "museum",
-                  "coords": [
-                        -74.013763,
-                        40.707943
-                  ]
-            },
-            {
-                  "name": "Gay Liberation Monument",
-                  "text": "Das Gay Liberation Monument in New York City erinnert an die Bewegung für die Rechte von Homosexuellen.",
-                  "category": "historical",
-                  "coords": [
-                        -74.002395,
-                        40.733607
-                  ]
-            },
-            {
                   "name": "Alexander Lyman Holley Monument",
                   "text": "Das Alexander Lyman Holley Monument ist ein bekanntes Denkmal in New York City.",
                   "category": "historical",
                   "coords": [
                         -73.998145,
                         40.731282
-                  ]
-            },
-            {
-                  "name": "Classic Stage Company",
-                  "text": "Die Classic Stage Company ist ein renommiertes Off-Broadway-Theater in New York City.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.988247,
-                        40.732723
                   ]
             },
             {
@@ -132,24 +69,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angel Orensanz Foundation",
-                  "text": "Die Angel Orensanz Foundation ist ein Kunstzentrum in einer historischen ehemaligen Synagoge in New York City.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.985791,
-                        40.721182
-                  ]
-            },
-            {
-                  "name": "Brooklyn Friends Meetinghouse",
-                  "text": "Das Brooklyn Friends Meetinghouse ist ein historisches Gotteshaus und eine Schule in New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.989489,
-                        40.690054
-                  ]
-            },
-            {
                   "name": "Hare Krishna Temple",
                   "text": "Der Hare Krishna Temple in New York City ist ein bekanntes Gotteshaus der ISKCON-Gemeinschaft.",
                   "category": "religious",
@@ -159,39 +78,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Church of Our Lady of Sorrows",
-                  "text": "Die Church of Our Lady of Sorrows ist eine historische Kirche und ein Gotteshaus in New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.982289,
-                        40.719089
-                  ]
-            },
-            {
                   "name": "SoHo",
                   "text": "SoHo ist ein berühmtes Viertel in New York City, bekannt für seine Gusseisenarchitektur und Kunstgalerien.",
                   "category": "landmark",
                   "coords": [
                         -73.99875,
                         40.72288
-                  ]
-            },
-            {
-                  "name": "South Street Seaport",
-                  "text": "Der South Street Seaport ist ein historisches Viertel und eine Attraktion in New York City mit Geschäftsgebäuden aus dem frühen 19. Jahrhundert.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.002906,
-                        40.705751
-                  ]
-            },
-            {
-                  "name": "Colgate Clock",
-                  "text": "Die Colgate Clock ist eine riesige, ikonische Uhr, die von der Jersey-Seite des Hudson River auf New York City blickt.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.033915,
-                        40.712021
                   ]
             },
             {
@@ -210,24 +102,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -73.992453,
                         40.72928
-                  ]
-            },
-            {
-                  "name": "Union Square Green Market",
-                  "text": "Der Union Square Green Market ist ein beliebter Bauernmarkt in New York City, der frische Produkte anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.990036,
-                        40.736694
-                  ]
-            },
-            {
-                  "name": "National Museum of the American Indian",
-                  "text": "Das National Museum of the American Indian in New York ist im historischen Alexander-Hamilton-Zollhaus untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        -74.013747,
-                        40.704027
                   ]
             },
             {
@@ -375,15 +249,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harsimus Cove",
-                  "text": "Harsimus Cove ist eine Bucht in der Gegend von New York City.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.030258,
-                        40.727045
-                  ]
-            },
-            {
                   "name": "Brooklyn Heights Promenade",
                   "text": "Die Brooklyn Heights Promenade ist ein Fußweg entlang des East River mit Blick auf die Skyline von Manhattan.",
                   "category": "landmark",
@@ -471,15 +336,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -73.954387,
                         40.66892
-                  ]
-            },
-            {
-                  "name": "Bed-Stuy Aquarium",
-                  "text": "Das Bed-Stuy Aquarium in Brooklyn ist ein von Freiwilligen betriebenes Aquarium mit lokaler Meeresfauna, beliebt bei Familien und Kindern.",
-                  "category": "wildlife",
-                  "coords": [
-                        -73.944182,
-                        40.68327
                   ]
             },
             {
@@ -629,39 +485,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Yeshiva University Museum",
-                  "text": "A Yeshiva University Museum egy New York-i múzeum, amely a zsidó történelmet és kultúrát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -73.993831,
-                        40.737978
-                  ]
-            },
-            {
                   "name": "Lower East Side Tenement Museum",
                   "text": "A New York-i Lower East Side Tenement Museum a bevándorlók életét mutatja be egykori bérházakban.",
                   "category": "museum",
                   "coords": [
                         -73.990027,
                         40.718784
-                  ]
-            },
-            {
-                  "name": "Museum of American Finance",
-                  "text": "A Museum of American Finance egy New York-i múzeum, amely az amerikai pénzügyek történetével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        -74.009196,
-                        40.706371
-                  ]
-            },
-            {
-                  "name": "Skyscraper Museum",
-                  "text": "A New York-i Skyscraper Museum a felhőkarcolók történetére és építészetére összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        -74.017691,
-                        40.70575
                   ]
             },
             {
@@ -692,48 +521,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salmagundi Club",
-                  "text": "A Salmagundi Club egy történelmi művészeti központ és galéria New York Cityben.",
-                  "category": "museum",
-                  "coords": [
-                        -73.994553,
-                        40.734302
-                  ]
-            },
-            {
-                  "name": "Pilecki Institute",
-                  "text": "A Pilecki Institute egy ismert galéria és kulturális intézmény New York Cityben.",
-                  "category": "museum",
-                  "coords": [
-                        -74.013763,
-                        40.707943
-                  ]
-            },
-            {
-                  "name": "Gay Liberation Monument",
-                  "text": "A New York-i Gay Liberation Monument a melegjogi mozgalomnak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -74.002395,
-                        40.733607
-                  ]
-            },
-            {
                   "name": "Alexander Lyman Holley Monument",
                   "text": "Az Alexander Lyman Holley Monument egy elismert emlékmű New York Cityben.",
                   "category": "historical",
                   "coords": [
                         -73.998145,
                         40.731282
-                  ]
-            },
-            {
-                  "name": "Classic Stage Company",
-                  "text": "A Classic Stage Company egy elismert Off-Broadway színház New York Cityben.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.988247,
-                        40.732723
                   ]
             },
             {
@@ -755,24 +548,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angel Orensanz Foundation",
-                  "text": "Az Angel Orensanz Foundation egy művészeti központként működik egy történelmi egykori zsinagógában New York Cityben.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.985791,
-                        40.721182
-                  ]
-            },
-            {
-                  "name": "Brooklyn Friends Meetinghouse",
-                  "text": "A Brooklyn Friends Meetinghouse egy történelmi imahely és iskola New York Cityben.",
-                  "category": "religious",
-                  "coords": [
-                        -73.989489,
-                        40.690054
-                  ]
-            },
-            {
                   "name": "Hare Krishna Temple",
                   "text": "A New York-i Hare Krishna Temple az ISKCON közösség elismert imahelye.",
                   "category": "religious",
@@ -782,39 +557,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Church of Our Lady of Sorrows",
-                  "text": "A Church of Our Lady of Sorrows egy kiemelkedő történelmi templom és imahely New York Cityben.",
-                  "category": "religious",
-                  "coords": [
-                        -73.982289,
-                        40.719089
-                  ]
-            },
-            {
                   "name": "SoHo",
                   "text": "SoHo egy híres negyed New York Cityben, amely öntöttvas építészetéről és művészeti galériáiról ismert.",
                   "category": "landmark",
                   "coords": [
                         -73.99875,
                         40.72288
-                  ]
-            },
-            {
-                  "name": "South Street Seaport",
-                  "text": "A South Street Seaport egy történelmi negyed és látványosság New York Cityben, kora 19. századi épületekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.002906,
-                        40.705751
-                  ]
-            },
-            {
-                  "name": "Colgate Clock",
-                  "text": "A Colgate Clock egy hatalmas, ikonikus óra, amely a Hudson folyó Jersey felőli oldaláról néz New York Cityre.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.033915,
-                        40.712021
                   ]
             },
             {
@@ -833,24 +581,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -73.992453,
                         40.72928
-                  ]
-            },
-            {
-                  "name": "Union Square Green Market",
-                  "text": "A Union Square Green Market egy népszerű termelői piac New York Cityben, ahol friss termékeket árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.990036,
-                        40.736694
-                  ]
-            },
-            {
-                  "name": "National Museum of the American Indian",
-                  "text": "A New York-i Amerikai Indiánok Nemzeti Múzeuma a történelmi Alexander Hamilton Vámházban található.",
-                  "category": "museum",
-                  "coords": [
-                        -74.013747,
-                        40.704027
                   ]
             },
             {
@@ -998,15 +728,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harsimus Cove",
-                  "text": "A Harsimus Cove egy öböl New York City környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.030258,
-                        40.727045
-                  ]
-            },
-            {
                   "name": "Brooklyn Heights Promenade",
                   "text": "A Brooklyn Heights sétány egy gyalogút az East River mentén, panorámás kilátással Manhattan felhőkarcolóira.",
                   "category": "landmark",
@@ -1094,15 +815,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -73.954387,
                         40.66892
-                  ]
-            },
-            {
-                  "name": "Bed-Stuy Aquarium",
-                  "text": "A Bed-Stuy Aquarium Brooklynban egy önkéntesek által működtetett akvárium, helyi tengeri élővilágot bemutatva, népszerű családok és gyermekek körében.",
-                  "category": "wildlife",
-                  "coords": [
-                        -73.944182,
-                        40.68327
                   ]
             },
             {
@@ -1252,39 +964,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Yeshiva University Museum",
-                  "text": "Yeshiva University Museum este un muzeu din New York City dedicat istoriei și culturii evreiești.",
-                  "category": "museum",
-                  "coords": [
-                        -73.993831,
-                        40.737978
-                  ]
-            },
-            {
                   "name": "Lower East Side Tenement Museum",
                   "text": "Lower East Side Tenement Museum din New York City prezintă istoria imigranților în clădiri istorice de apartamente.",
                   "category": "museum",
                   "coords": [
                         -73.990027,
                         40.718784
-                  ]
-            },
-            {
-                  "name": "Museum of American Finance",
-                  "text": "Museum of American Finance din New York City este dedicat istoriei financiare a națiunii.",
-                  "category": "museum",
-                  "coords": [
-                        -74.009196,
-                        40.706371
-                  ]
-            },
-            {
-                  "name": "Skyscraper Museum",
-                  "text": "Skyscraper Museum din New York City se concentrează pe istoria și arhitectura zgârie-norilor.",
-                  "category": "museum",
-                  "coords": [
-                        -74.017691,
-                        40.70575
                   ]
             },
             {
@@ -1315,48 +1000,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salmagundi Club",
-                  "text": "Salmagundi Club este un centru de arte și o galerie istorică din New York City.",
-                  "category": "museum",
-                  "coords": [
-                        -73.994553,
-                        40.734302
-                  ]
-            },
-            {
-                  "name": "Pilecki Institute",
-                  "text": "Pilecki Institute este o galerie și o instituție culturală notabilă din New York City.",
-                  "category": "museum",
-                  "coords": [
-                        -74.013763,
-                        40.707943
-                  ]
-            },
-            {
-                  "name": "Gay Liberation Monument",
-                  "text": "Gay Liberation Monument din New York City comemorează mișcarea pentru drepturile homosexualilor.",
-                  "category": "historical",
-                  "coords": [
-                        -74.002395,
-                        40.733607
-                  ]
-            },
-            {
                   "name": "Alexander Lyman Holley Monument",
                   "text": "Alexander Lyman Holley Monument este un bust memorial recunoscut din New York City.",
                   "category": "historical",
                   "coords": [
                         -73.998145,
                         40.731282
-                  ]
-            },
-            {
-                  "name": "Classic Stage Company",
-                  "text": "Classic Stage Company este un teatru Off-Broadway apreciat din New York City.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.988247,
-                        40.732723
                   ]
             },
             {
@@ -1378,24 +1027,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angel Orensanz Foundation",
-                  "text": "Angel Orensanz Foundation funcționează ca un centru de arte notabil într-o fostă sinagogă istorică din New York City.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.985791,
-                        40.721182
-                  ]
-            },
-            {
-                  "name": "Brooklyn Friends Meetinghouse",
-                  "text": "Brooklyn Friends Meetinghouse este un lăcaș de cult istoric și o școală situată în New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.989489,
-                        40.690054
-                  ]
-            },
-            {
                   "name": "Hare Krishna Temple",
                   "text": "Hare Krishna Temple din New York City este un lăcaș de cult recunoscut al comunității ISKCON.",
                   "category": "religious",
@@ -1405,39 +1036,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Church of Our Lady of Sorrows",
-                  "text": "Church of Our Lady of Sorrows este o biserică istorică proeminentă și un lăcaș de cult din New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.982289,
-                        40.719089
-                  ]
-            },
-            {
                   "name": "SoHo",
                   "text": "SoHo este un cartier faimos din New York City, cunoscut pentru arhitectura sa din fontă și galeriile de artă.",
                   "category": "landmark",
                   "coords": [
                         -73.99875,
                         40.72288
-                  ]
-            },
-            {
-                  "name": "South Street Seaport",
-                  "text": "South Street Seaport este un district istoric și o atracție din New York City, cu clădiri comerciale de la începutul secolului al XIX-lea.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.002906,
-                        40.705751
-                  ]
-            },
-            {
-                  "name": "Colgate Clock",
-                  "text": "Colgate Clock este un ceas masiv și iconic care privește spre New York City de pe partea Jersey a râului Hudson.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.033915,
-                        40.712021
                   ]
             },
             {
@@ -1456,24 +1060,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -73.992453,
                         40.72928
-                  ]
-            },
-            {
-                  "name": "Union Square Green Market",
-                  "text": "Union Square Green Market este o piață populară de fermieri care oferă produse proaspete în New York City.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.990036,
-                        40.736694
-                  ]
-            },
-            {
-                  "name": "National Museum of the American Indian",
-                  "text": "Muzeul Național al Indienilor Americani din New York este găzduit în istorica clădire a Vămii Alexander Hamilton.",
-                  "category": "museum",
-                  "coords": [
-                        -74.013747,
-                        40.704027
                   ]
             },
             {
@@ -1621,15 +1207,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harsimus Cove",
-                  "text": "Harsimus Cove este un golf situat în zona New York City.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.030258,
-                        40.727045
-                  ]
-            },
-            {
                   "name": "Brooklyn Heights Promenade",
                   "text": "Promenada Brooklyn Heights este o alee pietonală de-a lungul râului East River, cu vedere spre zgârie-norii din Manhattan.",
                   "category": "landmark",
@@ -1717,15 +1294,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -73.954387,
                         40.66892
-                  ]
-            },
-            {
-                  "name": "Bed-Stuy Aquarium",
-                  "text": "Acvariul Bed-Stuy din Brooklyn este un acvariu administrat de voluntari, care prezintă viața marină locală, popular printre familii și copii.",
-                  "category": "wildlife",
-                  "coords": [
-                        -73.944182,
-                        40.68327
                   ]
             },
             {
@@ -1875,39 +1443,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Yeshiva University Museum",
-                  "text": "Yeshiva University Museum is a museum in New York City dedicated to Jewish history, art, and culture.",
-                  "category": "museum",
-                  "coords": [
-                        -73.993831,
-                        40.737978
-                  ]
-            },
-            {
                   "name": "Lower East Side Tenement Museum",
                   "text": "The Lower East Side Tenement Museum in New York City showcases the immigrant experience in historic tenement buildings.",
                   "category": "museum",
                   "coords": [
                         -73.990027,
                         40.718784
-                  ]
-            },
-            {
-                  "name": "Museum of American Finance",
-                  "text": "The Museum of American Finance is an independent public museum in New York City dedicated to the nation's financial history.",
-                  "category": "museum",
-                  "coords": [
-                        -74.009196,
-                        40.706371
-                  ]
-            },
-            {
-                  "name": "Skyscraper Museum",
-                  "text": "The Skyscraper Museum is a museum in New York City focusing on high-rise buildings and their history.",
-                  "category": "museum",
-                  "coords": [
-                        -74.017691,
-                        40.70575
                   ]
             },
             {
@@ -1938,48 +1479,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salmagundi Club",
-                  "text": "The Salmagundi Club is a historic arts center and gallery located in New York City.",
-                  "category": "museum",
-                  "coords": [
-                        -73.994553,
-                        40.734302
-                  ]
-            },
-            {
-                  "name": "Pilecki Institute",
-                  "text": "Pilecki Institute is a notable gallery and cultural institution in New York City.",
-                  "category": "museum",
-                  "coords": [
-                        -74.013763,
-                        40.707943
-                  ]
-            },
-            {
-                  "name": "Gay Liberation Monument",
-                  "text": "The Gay Liberation Monument in New York City commemorates the gay rights movement.",
-                  "category": "historical",
-                  "coords": [
-                        -74.002395,
-                        40.733607
-                  ]
-            },
-            {
                   "name": "Alexander Lyman Holley Monument",
                   "text": "The Alexander Lyman Holley Monument is a recognized bust and memorial located in New York City.",
                   "category": "historical",
                   "coords": [
                         -73.998145,
                         40.731282
-                  ]
-            },
-            {
-                  "name": "Classic Stage Company",
-                  "text": "The Classic Stage Company is an acclaimed Off-Broadway theatre in New York City known for classical works.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.988247,
-                        40.732723
                   ]
             },
             {
@@ -2001,24 +1506,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angel Orensanz Foundation",
-                  "text": "The Angel Orensanz Foundation operates as a notable arts center within a historic former synagogue in New York City.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.985791,
-                        40.721182
-                  ]
-            },
-            {
-                  "name": "Brooklyn Friends Meetinghouse",
-                  "text": "Brooklyn Friends Meetinghouse is a historic place of worship and school located in New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.989489,
-                        40.690054
-                  ]
-            },
-            {
                   "name": "Hare Krishna Temple",
                   "text": "The Hare Krishna Temple in New York City is a recognized place of worship for the ISKCON community.",
                   "category": "religious",
@@ -2028,39 +1515,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Church of Our Lady of Sorrows",
-                  "text": "Church of Our Lady of Sorrows is a prominent historical church and place of worship in New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.982289,
-                        40.719089
-                  ]
-            },
-            {
                   "name": "SoHo",
                   "text": "SoHo is a famous neighborhood in New York City known for its cast-iron architecture and art galleries.",
                   "category": "landmark",
                   "coords": [
                         -73.99875,
                         40.72288
-                  ]
-            },
-            {
-                  "name": "South Street Seaport",
-                  "text": "South Street Seaport is a historic district and attraction in New York City featuring early 19th-century commercial buildings.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.002906,
-                        40.705751
-                  ]
-            },
-            {
-                  "name": "Colgate Clock",
-                  "text": "The Colgate Clock is a massive, iconic clock facing New York City from the Jersey side of the Hudson River.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.033915,
-                        40.712021
                   ]
             },
             {
@@ -2079,24 +1539,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -73.992453,
                         40.72928
-                  ]
-            },
-            {
-                  "name": "Union Square Green Market",
-                  "text": "Union Square Green Market is a popular farmers' marketplace offering fresh produce in New York City.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.990036,
-                        40.736694
-                  ]
-            },
-            {
-                  "name": "National Museum of the American Indian",
-                  "text": "The National Museum of the American Indian in New York City is housed in the historic Alexander Hamilton U.S. Custom House.",
-                  "category": "museum",
-                  "coords": [
-                        -74.013747,
-                        40.704027
                   ]
             },
             {
@@ -2244,15 +1686,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harsimus Cove",
-                  "text": "Harsimus Cove is a bay located in the area of New York City.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.030258,
-                        40.727045
-                  ]
-            },
-            {
                   "name": "Brooklyn Heights Promenade",
                   "text": "The Brooklyn Heights Promenade is a walkway along the East River with views of the Manhattan skyline.",
                   "category": "landmark",
@@ -2340,15 +1773,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -73.954387,
                         40.66892
-                  ]
-            },
-            {
-                  "name": "Bed-Stuy Aquarium",
-                  "text": "Bed-Stuy Aquarium in Brooklyn is a volunteer-run aquarium showcasing local marine life, popular with families and kids.",
-                  "category": "wildlife",
-                  "coords": [
-                        -73.944182,
-                        40.68327
                   ]
             },
             {
@@ -5098,15 +4522,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shedd Aquarium",
-                  "text": "Shedd Aquarium ist ein Aquarium in chicago-cities-v2, eines der größten Innenaquarien der Welt.",
-                  "category": "wildlife",
-                  "coords": [
-                        -87.613637,
-                        41.867607
-                  ]
-            },
-            {
                   "name": "Pier Park",
                   "text": "Pier Park ist ein Themenpark in chicago-cities-v2, ideal für Familien und Kinder.",
                   "category": "recreational",
@@ -5331,15 +4746,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -87.680229,
                         41.937368
-                  ]
-            },
-            {
-                  "name": "Shedd Aquarium",
-                  "text": "A Shedd Aquarium egy akvárium chicago-cities-v2-ben, a világ egyik legnagyobb beltéri akváriuma.",
-                  "category": "wildlife",
-                  "coords": [
-                        -87.613637,
-                        41.867607
                   ]
             },
             {
@@ -5570,15 +4976,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shedd Aquarium",
-                  "text": "Shedd Aquarium este un acvariu în chicago-cities-v2, unul dintre cele mai mari acvarii interioare din lume.",
-                  "category": "wildlife",
-                  "coords": [
-                        -87.613637,
-                        41.867607
-                  ]
-            },
-            {
                   "name": "Pier Park",
                   "text": "Pier Park este un parc tematic în chicago-cities-v2, ideal pentru familii și copii.",
                   "category": "recreational",
@@ -5803,15 +5200,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -87.680229,
                         41.937368
-                  ]
-            },
-            {
-                  "name": "Shedd Aquarium",
-                  "text": "Shedd Aquarium is an aquarium in chicago-cities-v2, one of the largest indoor aquariums in the world.",
-                  "category": "wildlife",
-                  "coords": [
-                        -87.613637,
-                        41.867607
                   ]
             },
             {
@@ -9643,15 +9031,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of the American Revolution",
-                  "text": "Das Museum of the American Revolution in Philadelphia erzählt die Geschichte der Amerikanischen Unabhängigkeit nahe der Independence Hall.",
-                  "category": "museum",
-                  "coords": [
-                        -75.145845,
-                        39.948371
-                  ]
-            },
-            {
                   "name": "Unabhängigkeitshalle",
                   "text": "Die historische Stätte in Philadelphia, an der die Unabhängigkeitserklärung unterzeichnet wurde.",
                   "category": "museum",
@@ -9667,15 +9046,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.18092,
                         39.965574
-                  ]
-            },
-            {
-                  "name": "National Constitution Center",
-                  "text": "Interaktives Museum zur US-Verfassung am Independence Mall.",
-                  "category": "museum",
-                  "coords": [
-                        -75.149156,
-                        39.953632
                   ]
             },
             {
@@ -9721,42 +9091,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.172675,
                         39.968336
-                  ]
-            },
-            {
-                  "name": "Weitzman National Museum of American Jewish History",
-                  "text": "Ein Museum in Philadelphia, das die Geschichte der Juden in Amerika dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -75.148461,
-                        39.950201
-                  ]
-            },
-            {
-                  "name": "African American Museum in Philadelphia",
-                  "text": "Das erste Museum in einer US-Großstadt, das der afroamerikanischen Geschichte gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -75.151785,
-                        39.953282
-                  ]
-            },
-            {
-                  "name": "Independence Seaport Museum",
-                  "text": "Ein Schifffahrtsmuseum in Philadelphia mit historischen Schiffen am Delaware River.",
-                  "category": "museum",
-                  "coords": [
-                        -75.140488,
-                        39.945918
-                  ]
-            },
-            {
-                  "name": "National Liberty Museum",
-                  "text": "Ein Museum in Philadelphia, das die Werte von Freiheit und Toleranz vermittelt.",
-                  "category": "museum",
-                  "coords": [
-                        -75.146841,
-                        39.949077
                   ]
             },
             {
@@ -9850,30 +9184,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arch Street Friends Meetinghouse",
-                  "text": "Das größte und älteste Quäker-Versammlungshaus seiner Art in Philadelphia.",
-                  "category": "religious",
-                  "coords": [
-                        -75.146154,
-                        39.951877
-                  ]
-            },
-            {
                   "name": "Philadelphia Pennsylvania Temple",
                   "text": "Ein markanter Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.168222,
                         39.959086
-                  ]
-            },
-            {
-                  "name": "Christ Church Philadelphia",
-                  "text": "Eine historische Kirche in Philadelphia, in der viele Gründerväter der USA verkehrten.",
-                  "category": "religious",
-                  "coords": [
-                        -75.14388,
-                        39.950726
                   ]
             },
             {
@@ -9892,15 +9208,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.168626,
                         39.950487
-                  ]
-            },
-            {
-                  "name": "Old Saint Mary's Church",
-                  "text": "Eine historische katholische Kirche, die als erste Kathedrale von Philadelphia diente.",
-                  "category": "religious",
-                  "coords": [
-                        -75.148607,
-                        39.945696
                   ]
             },
             {
@@ -9973,15 +9280,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.160309,
                         39.95159
-                  ]
-            },
-            {
-                  "name": "USS Becuna",
-                  "text": "Dieses ehemalige U-Boot ist heute als Museumsschiff im Hafen von Philadelphia erhalten.",
-                  "category": "landmark",
-                  "coords": [
-                        -75.141171,
-                        39.943533
                   ]
             },
             {
@@ -10293,15 +9591,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of the American Revolution",
-                  "text": "A philadelphiai Museum of the American Revolution az amerikai függetlenség történetét mutatja be az Independence Hall közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -75.145845,
-                        39.948371
-                  ]
-            },
-            {
                   "name": "Independence Hall",
                   "text": "Történelmi helyszín Philadelphiában, ahol a Függetlenségi Nyilatkozatot aláírták.",
                   "category": "museum",
@@ -10317,15 +9606,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.18092,
                         39.965574
-                  ]
-            },
-            {
-                  "name": "National Constitution Center",
-                  "text": "Interaktív múzeum az amerikai alkotmányról az Independence Mall-en.",
-                  "category": "museum",
-                  "coords": [
-                        -75.149156,
-                        39.953632
                   ]
             },
             {
@@ -10371,42 +9651,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.172675,
                         39.968336
-                  ]
-            },
-            {
-                  "name": "Weitzman National Museum of American Jewish History",
-                  "text": "Múzeum Philadelphiában, amely az amerikai zsidóság történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        -75.148461,
-                        39.950201
-                  ]
-            },
-            {
-                  "name": "African American Museum in Philadelphia",
-                  "text": "Az első múzeum egy amerikai nagyvárosban, amelyet az afroamerikai történelemnek szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        -75.151785,
-                        39.953282
-                  ]
-            },
-            {
-                  "name": "Independence Seaport Museum",
-                  "text": "Hajózási múzeum Philadelphiában történelmi hajókkal a Delaware-folyónál.",
-                  "category": "museum",
-                  "coords": [
-                        -75.140488,
-                        39.945918
-                  ]
-            },
-            {
-                  "name": "National Liberty Museum",
-                  "text": "Múzeum Philadelphiában, amely a szabadság és a tolerancia értékeit közvetíti.",
-                  "category": "museum",
-                  "coords": [
-                        -75.146841,
-                        39.949077
                   ]
             },
             {
@@ -10500,30 +9744,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arch Street Friends Meetinghouse",
-                  "text": "A maga nemében legnagyobb és legrégebbi kvéker gyülekezeti ház Philadelphiában.",
-                  "category": "religious",
-                  "coords": [
-                        -75.146154,
-                        39.951877
-                  ]
-            },
-            {
                   "name": "Philadelphia Pennsylvania Temple",
                   "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának jellegzetes temploma Philadelphiában.",
                   "category": "religious",
                   "coords": [
                         -75.168222,
                         39.959086
-                  ]
-            },
-            {
-                  "name": "Christ Church Philadelphia",
-                  "text": "Történelmi templom Philadelphiában, ahová az USA számos alapító atyja járt.",
-                  "category": "religious",
-                  "coords": [
-                        -75.14388,
-                        39.950726
                   ]
             },
             {
@@ -10542,15 +9768,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.168626,
                         39.950487
-                  ]
-            },
-            {
-                  "name": "Old Saint Mary's Church",
-                  "text": "Történelmi katolikus templom, amely Philadelphia első székesegyházaként szolgált.",
-                  "category": "religious",
-                  "coords": [
-                        -75.148607,
-                        39.945696
                   ]
             },
             {
@@ -10623,15 +9840,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.160309,
                         39.95159
-                  ]
-            },
-            {
-                  "name": "USS Becuna",
-                  "text": "Ez az egykori tengeralattjáró ma múzeumhajóként látható Philadelphia kikötőjében.",
-                  "category": "landmark",
-                  "coords": [
-                        -75.141171,
-                        39.943533
                   ]
             },
             {
@@ -10943,15 +10151,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of the American Revolution",
-                  "text": "Muzeul Revoluției Americane din Philadelphia prezintă povestea revoluției americane, lângă Independence Hall.",
-                  "category": "museum",
-                  "coords": [
-                        -75.145845,
-                        39.948371
-                  ]
-            },
-            {
                   "name": "Independence Hall",
                   "text": "Locul istoric din Philadelphia unde a fost adoptată Declarația de Independență.",
                   "category": "museum",
@@ -10967,15 +10166,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.18092,
                         39.965574
-                  ]
-            },
-            {
-                  "name": "National Constitution Center",
-                  "text": "Muzeu interactiv despre Constituția SUA, situat în Independence Mall.",
-                  "category": "museum",
-                  "coords": [
-                        -75.149156,
-                        39.953632
                   ]
             },
             {
@@ -11021,42 +10211,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.172675,
                         39.968336
-                  ]
-            },
-            {
-                  "name": "Weitzman National Museum of American Jewish History",
-                  "text": "Un muzeu din Philadelphia care documentează istoria evreilor din America.",
-                  "category": "museum",
-                  "coords": [
-                        -75.148461,
-                        39.950201
-                  ]
-            },
-            {
-                  "name": "African American Museum in Philadelphia",
-                  "text": "Primul muzeu dintr-un oraș mare din SUA dedicat istoriei afro-americane.",
-                  "category": "museum",
-                  "coords": [
-                        -75.151785,
-                        39.953282
-                  ]
-            },
-            {
-                  "name": "Independence Seaport Museum",
-                  "text": "Un muzeu maritim din Philadelphia cu nave istorice pe râul Delaware.",
-                  "category": "museum",
-                  "coords": [
-                        -75.140488,
-                        39.945918
-                  ]
-            },
-            {
-                  "name": "National Liberty Museum",
-                  "text": "Un muzeu din Philadelphia care promovează valorile libertății și toleranței.",
-                  "category": "museum",
-                  "coords": [
-                        -75.146841,
-                        39.949077
                   ]
             },
             {
@@ -11150,30 +10304,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arch Street Friends Meetinghouse",
-                  "text": "Cea mai mare și mai veche casă de adunare quaker de acest tip din Philadelphia.",
-                  "category": "religious",
-                  "coords": [
-                        -75.146154,
-                        39.951877
-                  ]
-            },
-            {
                   "name": "Philadelphia Pennsylvania Temple",
                   "text": "Un templu distinctiv al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă în Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.168222,
                         39.959086
-                  ]
-            },
-            {
-                  "name": "Christ Church Philadelphia",
-                  "text": "O biserică istorică din Philadelphia unde s-au rugat mulți dintre părinții fondatori ai SUA.",
-                  "category": "religious",
-                  "coords": [
-                        -75.14388,
-                        39.950726
                   ]
             },
             {
@@ -11192,15 +10328,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.168626,
                         39.950487
-                  ]
-            },
-            {
-                  "name": "Old Saint Mary's Church",
-                  "text": "O biserică catolică istorică care a servit drept primă catedrală a Philadelphiei.",
-                  "category": "religious",
-                  "coords": [
-                        -75.148607,
-                        39.945696
                   ]
             },
             {
@@ -11273,15 +10400,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.160309,
                         39.95159
-                  ]
-            },
-            {
-                  "name": "USS Becuna",
-                  "text": "Acest fost submarin este acum conservat ca navă muzeu în portul din Philadelphia.",
-                  "category": "landmark",
-                  "coords": [
-                        -75.141171,
-                        39.943533
                   ]
             },
             {
@@ -11593,15 +10711,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of the American Revolution",
-                  "text": "The Museum of the American Revolution in Philadelphia tells the story of the American Revolution, near Independence Hall.",
-                  "category": "museum",
-                  "coords": [
-                        -75.145845,
-                        39.948371
-                  ]
-            },
-            {
                   "name": "Independence Hall",
                   "text": "The historic site in Philadelphia where the Declaration of Independence was adopted.",
                   "category": "museum",
@@ -11617,15 +10726,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.18092,
                         39.965574
-                  ]
-            },
-            {
-                  "name": "National Constitution Center",
-                  "text": "Interactive museum on the U.S. Constitution at Independence Mall.",
-                  "category": "museum",
-                  "coords": [
-                        -75.149156,
-                        39.953632
                   ]
             },
             {
@@ -11671,42 +10771,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.172675,
                         39.968336
-                  ]
-            },
-            {
-                  "name": "Weitzman National Museum of American Jewish History",
-                  "text": "A museum in Philadelphia documenting the history of Jews in America.",
-                  "category": "museum",
-                  "coords": [
-                        -75.148461,
-                        39.950201
-                  ]
-            },
-            {
-                  "name": "African American Museum in Philadelphia",
-                  "text": "The first museum in a major US city dedicated to African American history.",
-                  "category": "museum",
-                  "coords": [
-                        -75.151785,
-                        39.953282
-                  ]
-            },
-            {
-                  "name": "Independence Seaport Museum",
-                  "text": "A maritime museum in Philadelphia featuring historic ships on the Delaware River.",
-                  "category": "museum",
-                  "coords": [
-                        -75.140488,
-                        39.945918
-                  ]
-            },
-            {
-                  "name": "National Liberty Museum",
-                  "text": "A museum in Philadelphia teaching the values of liberty and tolerance.",
-                  "category": "museum",
-                  "coords": [
-                        -75.146841,
-                        39.949077
                   ]
             },
             {
@@ -11800,30 +10864,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arch Street Friends Meetinghouse",
-                  "text": "The largest and oldest Quaker meeting house of its kind in Philadelphia.",
-                  "category": "religious",
-                  "coords": [
-                        -75.146154,
-                        39.951877
-                  ]
-            },
-            {
                   "name": "Philadelphia Pennsylvania Temple",
                   "text": "A distinctive temple of The Church of Jesus Christ of Latter-day Saints in Philadelphia.",
                   "category": "religious",
                   "coords": [
                         -75.168222,
                         39.959086
-                  ]
-            },
-            {
-                  "name": "Christ Church Philadelphia",
-                  "text": "A historic church in Philadelphia where many Founding Fathers of the US worshipped.",
-                  "category": "religious",
-                  "coords": [
-                        -75.14388,
-                        39.950726
                   ]
             },
             {
@@ -11842,15 +10888,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.168626,
                         39.950487
-                  ]
-            },
-            {
-                  "name": "Old Saint Mary's Church",
-                  "text": "A historic Catholic church that served as the first cathedral of Philadelphia.",
-                  "category": "religious",
-                  "coords": [
-                        -75.148607,
-                        39.945696
                   ]
             },
             {
@@ -11923,15 +10960,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -75.160309,
                         39.95159
-                  ]
-            },
-            {
-                  "name": "USS Becuna",
-                  "text": "This former submarine is now preserved as a museum ship in Philadelphia's harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        -75.141171,
-                        39.943533
                   ]
             },
             {
@@ -12300,96 +11328,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     id: "san-diego-cities-v2", "sights": {
       "de": [
             {
-                  "name": "San Diego Museum of Art",
-                  "text": "Ein Kunstmuseum im Balboa Park, das für seine bedeutende Sammlung spanischer Kunst bekannt ist.",
-                  "category": "museum",
-                  "coords": [
-                        -117.15045,
-                        32.732169
-                  ]
-            },
-            {
-                  "name": "San Diego Model Railroad Museum",
-                  "text": "Das weltweit größte Hallenmuseum für Modelleisenbahnen befindet sich im Balboa Park.",
-                  "category": "museum",
-                  "coords": [
-                        -117.148741,
-                        32.731156
-                  ]
-            },
-            {
-                  "name": "Mingei International Museum",
-                  "text": "Ein Museum für Volkskunst, Kunsthandwerk und Design aus verschiedenen Kulturen weltweit.",
-                  "category": "museum",
-                  "coords": [
-                        -117.151031,
-                        32.731012
-                  ]
-            },
-            {
-                  "name": "Reuben H. Fleet Science Center",
-                  "text": "Wissenschaftsmuseum im Balboa Park mit IMAX-Kuppel.",
-                  "category": "museum",
-                  "coords": [
-                        -117.147071,
-                        32.730823
-                  ]
-            },
-            {
-                  "name": "Comic-Con Museum",
-                  "text": "Ein Museum, das Comics, Filmen und populärer Kunst aus aller Welt gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -117.152406,
-                        32.727276
-                  ]
-            },
-            {
-                  "name": "San Diego Air & Space Museum",
-                  "text": "Ein Museum im Balboa Park, das die Geschichte der Luft- und Raumfahrt zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -117.15441,
-                        32.726241
-                  ]
-            },
-            {
-                  "name": "San Diego Automotive Museum",
-                  "text": "Ein Museum mit einer beeindruckenden Sammlung klassischer Autos und Motorräder.",
-                  "category": "museum",
-                  "coords": [
-                        -117.153907,
-                        32.727485
-                  ]
-            },
-            {
-                  "name": "Centro Cultural de la Raza",
-                  "text": "Ein Kulturzentrum, das sich der Förderung von Kunst der Chicanos, Mexikaner und Indigenen widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -117.148656,
-                        32.727723
-                  ]
-            },
-            {
-                  "name": "San Diego Natural History Museum",
-                  "text": "Das älteste wissenschaftliche Institut in Südkalifornien, gelegen im Balboa Park.",
-                  "category": "museum",
-                  "coords": [
-                        -117.147364,
-                        32.732055
-                  ]
-            },
-            {
-                  "name": "Marston House",
-                  "text": "Ein historisches Hausmuseum mit formalen Gärten am Rande des Balboa Parks.",
-                  "category": "museum",
-                  "coords": [
-                        -117.157834,
-                        32.741715
-                  ]
-            },
-            {
                   "name": "Maritime Museum of San Diego",
                   "text": "Beherbergt eine der größten Sammlungen historischer Schiffe in den Vereinigten Staaten.",
                   "category": "museum",
@@ -12405,33 +11343,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -117.15227,
                         32.732264
-                  ]
-            },
-            {
-                  "name": "Spreckels Organ Pavillion",
-                  "text": "Beherbergt eine der weltweit größten Freiluft-Pfeifenorgeln im Balboa Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -117.150426,
-                        32.729487
-                  ]
-            },
-            {
-                  "name": "Starlight Bowl",
-                  "text": "Ein historisches Freiluft-Amphitheater für musikalische Darbietungen im Balboa Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -117.153344,
-                        32.726347
-                  ]
-            },
-            {
-                  "name": "Spanish Village Art Center",
-                  "text": "Eine Ansammlung von Kunststudios und Galerien in farbenfrohen Gebäuden im Balboa Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.147588,
-                        32.73375
                   ]
             },
             {
@@ -12824,96 +11735,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "San Diego Museum of Art",
-                  "text": "Művészeti múzeum a Balboa Parkban, amely jelentős spanyol művészeti gyűjteményéről ismert.",
-                  "category": "museum",
-                  "coords": [
-                        -117.15045,
-                        32.732169
-                  ]
-            },
-            {
-                  "name": "San Diego Model Railroad Museum",
-                  "text": "A világ legnagyobb fedett modellvasút-múzeuma a Balboa Parkban található.",
-                  "category": "museum",
-                  "coords": [
-                        -117.148741,
-                        32.731156
-                  ]
-            },
-            {
-                  "name": "Mingei International Museum",
-                  "text": "Népművészeti, kézműves és design múzeum a világ különféle kultúráiból.",
-                  "category": "museum",
-                  "coords": [
-                        -117.151031,
-                        32.731012
-                  ]
-            },
-            {
-                  "name": "Reuben H. Fleet Science Center",
-                  "text": "Tudományos múzeum a Balboa Parkban, IMAX kupolával.",
-                  "category": "museum",
-                  "coords": [
-                        -117.147071,
-                        32.730823
-                  ]
-            },
-            {
-                  "name": "Comic-Con Museum",
-                  "text": "Képregényeknek, filmeknek és a populáris művészetnek szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -117.152406,
-                        32.727276
-                  ]
-            },
-            {
-                  "name": "San Diego Air & Space Museum",
-                  "text": "Múzeum a Balboa Parkban, amely a repülés és az űrkutatás történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -117.15441,
-                        32.726241
-                  ]
-            },
-            {
-                  "name": "San Diego Automotive Museum",
-                  "text": "Múzeum klasszikus autók és motorkerékpárok lenyűgöző gyűjteményével.",
-                  "category": "museum",
-                  "coords": [
-                        -117.153907,
-                        32.727485
-                  ]
-            },
-            {
-                  "name": "Centro Cultural de la Raza",
-                  "text": "Kulturális központ, amely a chicano, mexikói és őslakos művészet népszerűsítésének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        -117.148656,
-                        32.727723
-                  ]
-            },
-            {
-                  "name": "San Diego Natural History Museum",
-                  "text": "Dél-Kalifornia legrégebbi tudományos intézete a Balboa Parkban.",
-                  "category": "museum",
-                  "coords": [
-                        -117.147364,
-                        32.732055
-                  ]
-            },
-            {
-                  "name": "Marston House",
-                  "text": "Történelmi házmúzeum formális kertekkel a Balboa Park szélén.",
-                  "category": "museum",
-                  "coords": [
-                        -117.157834,
-                        32.741715
-                  ]
-            },
-            {
                   "name": "Maritime Museum of San Diego",
                   "text": "Az Egyesült Államok egyik legnagyobb történelmi hajógyűjteményének ad otthont.",
                   "category": "museum",
@@ -12929,33 +11750,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -117.15227,
                         32.732264
-                  ]
-            },
-            {
-                  "name": "Spreckels Organ Pavillion",
-                  "text": "A világ egyik legnagyobb szabadtéri sípos orgonájának ad otthont a Balboa Parkban.",
-                  "category": "cultural",
-                  "coords": [
-                        -117.150426,
-                        32.729487
-                  ]
-            },
-            {
-                  "name": "Starlight Bowl",
-                  "text": "Történelmi szabadtéri amfiteátrum zenei előadásokhoz a Balboa Parkban.",
-                  "category": "cultural",
-                  "coords": [
-                        -117.153344,
-                        32.726347
-                  ]
-            },
-            {
-                  "name": "Spanish Village Art Center",
-                  "text": "Művészeti stúdiók és galériák gyűjteménye színes épületekben a Balboa Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.147588,
-                        32.73375
                   ]
             },
             {
@@ -13348,96 +12142,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "San Diego Museum of Art",
-                  "text": "Un muzeu de artă în Balboa Park, cunoscut pentru colecția sa importantă de artă spaniolă.",
-                  "category": "museum",
-                  "coords": [
-                        -117.15045,
-                        32.732169
-                  ]
-            },
-            {
-                  "name": "San Diego Model Railroad Museum",
-                  "text": "Cel mai mare muzeu de modelism feroviar de interior din lume se află în Balboa Park.",
-                  "category": "museum",
-                  "coords": [
-                        -117.148741,
-                        32.731156
-                  ]
-            },
-            {
-                  "name": "Mingei International Museum",
-                  "text": "Un muzeu de artă populară, meșteșuguri și design din diverse culturi ale lumii.",
-                  "category": "museum",
-                  "coords": [
-                        -117.151031,
-                        32.731012
-                  ]
-            },
-            {
-                  "name": "Reuben H. Fleet Science Center",
-                  "text": "Muzeu de știință în Balboa Park, cu dom IMAX.",
-                  "category": "museum",
-                  "coords": [
-                        -117.147071,
-                        32.730823
-                  ]
-            },
-            {
-                  "name": "Comic-Con Museum",
-                  "text": "Un muzeu dedicat benzilor desenate, filmelor și artei populare.",
-                  "category": "museum",
-                  "coords": [
-                        -117.152406,
-                        32.727276
-                  ]
-            },
-            {
-                  "name": "San Diego Air & Space Museum",
-                  "text": "Un muzeu în Balboa Park care prezintă istoria aviației și a explorării spațiale.",
-                  "category": "museum",
-                  "coords": [
-                        -117.15441,
-                        32.726241
-                  ]
-            },
-            {
-                  "name": "San Diego Automotive Museum",
-                  "text": "Un muzeu cu o colecție impresionantă de mașini clasice și motociclete.",
-                  "category": "museum",
-                  "coords": [
-                        -117.153907,
-                        32.727485
-                  ]
-            },
-            {
-                  "name": "Centro Cultural de la Raza",
-                  "text": "Un centru cultural dedicat promovării artei chicano, mexicane și indigene.",
-                  "category": "museum",
-                  "coords": [
-                        -117.148656,
-                        32.727723
-                  ]
-            },
-            {
-                  "name": "San Diego Natural History Museum",
-                  "text": "Cea mai veche instituție științifică din California de Sud, situată în Balboa Park.",
-                  "category": "museum",
-                  "coords": [
-                        -117.147364,
-                        32.732055
-                  ]
-            },
-            {
-                  "name": "Marston House",
-                  "text": "O casă memorială istorică cu grădini formale la marginea Parcului Balboa.",
-                  "category": "museum",
-                  "coords": [
-                        -117.157834,
-                        32.741715
-                  ]
-            },
-            {
                   "name": "Maritime Museum of San Diego",
                   "text": "Găzduiește una dintre cele mai mari colecții de nave istorice din Statele Unite.",
                   "category": "museum",
@@ -13453,33 +12157,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -117.15227,
                         32.732264
-                  ]
-            },
-            {
-                  "name": "Spreckels Organ Pavillion",
-                  "text": "Găzduiește una dintre cele mai mari orgi cu tuburi în aer liber din lume, în Balboa Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -117.150426,
-                        32.729487
-                  ]
-            },
-            {
-                  "name": "Starlight Bowl",
-                  "text": "Un amfiteatru istoric în aer liber pentru spectacole muzicale în Balboa Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -117.153344,
-                        32.726347
-                  ]
-            },
-            {
-                  "name": "Spanish Village Art Center",
-                  "text": "O colecție de studiouri de artă și galerii în clădiri colorate din Balboa Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.147588,
-                        32.73375
                   ]
             },
             {
@@ -13872,96 +12549,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "San Diego Museum of Art",
-                  "text": "An art museum in Balboa Park known for its significant collection of Spanish art.",
-                  "category": "museum",
-                  "coords": [
-                        -117.15045,
-                        32.732169
-                  ]
-            },
-            {
-                  "name": "San Diego Model Railroad Museum",
-                  "text": "The world's largest indoor model railroad museum is located in Balboa Park.",
-                  "category": "museum",
-                  "coords": [
-                        -117.148741,
-                        32.731156
-                  ]
-            },
-            {
-                  "name": "Mingei International Museum",
-                  "text": "A museum of folk art, craft, and design from various cultures worldwide.",
-                  "category": "museum",
-                  "coords": [
-                        -117.151031,
-                        32.731012
-                  ]
-            },
-            {
-                  "name": "Reuben H. Fleet Science Center",
-                  "text": "Science museum in Balboa Park featuring an IMAX dome.",
-                  "category": "museum",
-                  "coords": [
-                        -117.147071,
-                        32.730823
-                  ]
-            },
-            {
-                  "name": "Comic-Con Museum",
-                  "text": "A museum dedicated to comic books, movies, and popular arts from around the world.",
-                  "category": "museum",
-                  "coords": [
-                        -117.152406,
-                        32.727276
-                  ]
-            },
-            {
-                  "name": "San Diego Air & Space Museum",
-                  "text": "A museum in Balboa Park showcasing the history of aviation and space exploration.",
-                  "category": "museum",
-                  "coords": [
-                        -117.15441,
-                        32.726241
-                  ]
-            },
-            {
-                  "name": "San Diego Automotive Museum",
-                  "text": "A museum featuring an impressive collection of classic cars and motorcycles.",
-                  "category": "museum",
-                  "coords": [
-                        -117.153907,
-                        32.727485
-                  ]
-            },
-            {
-                  "name": "Centro Cultural de la Raza",
-                  "text": "A cultural center dedicated to promoting Chicano, Mexican, and Indigenous art.",
-                  "category": "museum",
-                  "coords": [
-                        -117.148656,
-                        32.727723
-                  ]
-            },
-            {
-                  "name": "San Diego Natural History Museum",
-                  "text": "The oldest scientific institution in Southern California, located in Balboa Park.",
-                  "category": "museum",
-                  "coords": [
-                        -117.147364,
-                        32.732055
-                  ]
-            },
-            {
-                  "name": "Marston House",
-                  "text": "A historic house museum and formal gardens located on the edge of Balboa Park.",
-                  "category": "museum",
-                  "coords": [
-                        -117.157834,
-                        32.741715
-                  ]
-            },
-            {
                   "name": "Maritime Museum of San Diego",
                   "text": "Features one of the largest collections of historic sea vessels in the United States.",
                   "category": "museum",
@@ -13977,33 +12564,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -117.15227,
                         32.732264
-                  ]
-            },
-            {
-                  "name": "Spreckels Organ Pavillion",
-                  "text": "Home to one of the world's largest outdoor pipe organs, located in Balboa Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -117.150426,
-                        32.729487
-                  ]
-            },
-            {
-                  "name": "Starlight Bowl",
-                  "text": "A historic outdoor amphitheatre for musical performances in Balboa Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -117.153344,
-                        32.726347
-                  ]
-            },
-            {
-                  "name": "Spanish Village Art Center",
-                  "text": "A collection of art studios and galleries in colorful buildings in Balboa Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.147588,
-                        32.73375
                   ]
             },
             {
@@ -16627,15 +15187,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "California's Great America",
-                  "text": "California's Great America ist ein Themenpark in der Nähe von San Jose, bekannt für Achterbahnen und Familienfahrgeschäfte.",
-                  "category": "recreational",
-                  "coords": [
-                        -121.972021,
-                        37.395892
-                  ]
-            },
-            {
                   "name": "Breakers Bay",
                   "text": "Breakers Bay ist ein Schwimmbad in San Jose, das Familien eine Abkühlung bietet.",
                   "category": "recreational",
@@ -17166,15 +15717,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -121.867557,
                         37.249589
-                  ]
-            },
-            {
-                  "name": "California's Great America",
-                  "text": "A California's Great America egy vidámpark San Jose közelében, híres hullámvasútjairól és családi attrakcióiról.",
-                  "category": "recreational",
-                  "coords": [
-                        -121.972021,
-                        37.395892
                   ]
             },
             {
@@ -17711,15 +16253,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "California's Great America",
-                  "text": "California's Great America este un parc tematic lângă San Jose, renumit pentru montagnes russes și atracții pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        -121.972021,
-                        37.395892
-                  ]
-            },
-            {
                   "name": "Breakers Bay",
                   "text": "Breakers Bay este o piscină în San Jose, unde familiile se pot răcori.",
                   "category": "recreational",
@@ -18250,15 +16783,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -121.867557,
                         37.249589
-                  ]
-            },
-            {
-                  "name": "California's Great America",
-                  "text": "California's Great America is a theme park near San Jose, known for its roller coasters and family rides.",
-                  "category": "recreational",
-                  "coords": [
-                        -121.972021,
-                        37.395892
                   ]
             },
             {
@@ -26556,60 +25080,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle Children's Museum",
-                  "text": "Das Seattle Children's Museum ist ein Kindermuseum im Seattle Center.",
-                  "category": "museum",
-                  "coords": [
-                        -122.350989,
-                        47.621462
-                  ]
-            },
-            {
-                  "name": "Museum of History and Industry",
-                  "text": "Das Museum of History and Industry in Seattle dokumentiert die weitreichende Geschichte und Industrie der Stadt. In diesem US-amerikanischen Museum können Besucher die wirtschaftliche und gesellschaftliche Entwicklung der Region nachvollziehen. Die Ausstellungen bieten einen tiefen Einblick in die lokale Vergangenheit.",
-                  "category": "museum",
-                  "coords": [
-                        -122.336751,
-                        47.627511
-                  ]
-            },
-            {
-                  "name": "Seattle Asian Art Museum",
-                  "text": "Das Seattle Asian Art Museum im Volunteer Park zeigt asiatische Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        -122.314176,
-                        47.630282
-                  ]
-            },
-            {
-                  "name": "Chihuly Garden and Glass",
-                  "text": "Eine Ausstellung der beeindruckenden Glaskunst von Dale Chihuly.",
-                  "category": "museum",
-                  "coords": [
-                        -122.350182,
-                        47.620535
-                  ]
-            },
-            {
-                  "name": "MoPOP: Museum of Pop Culture",
-                  "text": "2000 eröffnetes Museum für Popkultur in Seattle.",
-                  "category": "museum",
-                  "coords": [
-                        -122.348238,
-                        47.621497
-                  ]
-            },
-            {
-                  "name": "Pacific Science Center",
-                  "text": "Ein interaktives Wissenschaftsmuseum in der Nähe der Space Needle.",
-                  "category": "museum",
-                  "coords": [
-                        -122.351386,
-                        47.619421
-                  ]
-            },
-            {
                   "name": "Seattle City Hall",
                   "text": "Das Verwaltungszentrum von Seattle mit moderner Architektur.",
                   "category": "historical",
@@ -26655,24 +25125,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "McCaw Hall",
-                  "text": "Ein moderner Veranstaltungsort für Oper und Ballett in Seattle.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.350409,
-                        47.623957
-                  ]
-            },
-            {
-                  "name": "Seattle Repertory Theatre",
-                  "text": "Ein renommiertes regionales Theaterunternehmen im Seattle Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.353592,
-                        47.623925
-                  ]
-            },
-            {
                   "name": "Hugo House",
                   "text": "Das Hugo House ist ein Literaturzentrum für Schriftsteller und Lesungen in Seattle.",
                   "category": "cultural",
@@ -26715,15 +25167,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.332658,
                         47.608662
-                  ]
-            },
-            {
-                  "name": "Seattle Buddhist Church",
-                  "text": "Der Seattle Buddhist Church ist ein Jodo-Shinshu-buddhistischer Tempel.",
-                  "category": "religious",
-                  "coords": [
-                        -122.312967,
-                        47.599769
                   ]
             },
             {
@@ -26832,15 +25275,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.32287,
                         47.598246
-                  ]
-            },
-            {
-                  "name": "Northwest African American Museum",
-                  "text": "Das Northwest African American Museum in Seattle zeigt eindrucksvoll die Geschichte und Kultur der Afroamerikaner im Nordwesten. Dieses Museum in den USA bietet den Besuchern eine lehrreiche Auseinandersetzung mit dem regionalen Kulturerbe. Man erfährt hier viel über die bedeutenden Einflüsse dieser Gemeinschaft.",
-                  "category": "museum",
-                  "coords": [
-                        -122.301858,
-                        47.589142
                   ]
             },
             {
@@ -27098,60 +25532,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle Children's Museum",
-                  "text": "A Seattle-i Gyermekmúzeum egy gyermekmúzeum a Seattle Centerben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.350989,
-                        47.621462
-                  ]
-            },
-            {
-                  "name": "Museum of History and Industry",
-                  "text": "A Museum of History and Industry Seattle-ben található, és a város gazdag örökségét dokumentálja. Amerikai múzeumként bemutatja az ipari fejlődést és a helyi történelmi mérföldköveket. A látogatók elmélyedhetnek a régió dinamikus múltjában.",
-                  "category": "museum",
-                  "coords": [
-                        -122.336751,
-                        47.627511
-                  ]
-            },
-            {
-                  "name": "Seattle Asian Art Museum",
-                  "text": "A Seattle-i Ázsiai Művészeti Múzeum a Volunteer Parkban ázsiai művészetet mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -122.314176,
-                        47.630282
-                  ]
-            },
-            {
-                  "name": "Chihuly Garden and Glass",
-                  "text": "Dale Chihuly lenyűgöző üvegművészeti alkotásainak kiállítása.",
-                  "category": "museum",
-                  "coords": [
-                        -122.350182,
-                        47.620535
-                  ]
-            },
-            {
-                  "name": "MoPOP: Museum of Pop Culture",
-                  "text": "2000-ben megnyílt popkultúra-múzeum Seattle-ben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.348238,
-                        47.621497
-                  ]
-            },
-            {
-                  "name": "Pacific Science Center",
-                  "text": "Interaktív természettudományi múzeum a Space Needle közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -122.351386,
-                        47.619421
-                  ]
-            },
-            {
                   "name": "Seattle City Hall",
                   "text": "Seattle közigazgatási központja modern építészeti stílusban.",
                   "category": "historical",
@@ -27197,24 +25577,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "McCaw Hall",
-                  "text": "Modern operaház és balettszínház Seattle-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.350409,
-                        47.623957
-                  ]
-            },
-            {
-                  "name": "Seattle Repertory Theatre",
-                  "text": "Nevetes regionális színházi társulat a Seattle Centerben.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.353592,
-                        47.623925
-                  ]
-            },
-            {
                   "name": "Hugo House",
                   "text": "A Hugo House egy irodalmi központ írók és felolvasások számára Seattle-ben.",
                   "category": "cultural",
@@ -27257,15 +25619,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.332658,
                         47.608662
-                  ]
-            },
-            {
-                  "name": "Seattle Buddhist Church",
-                  "text": "A Seattle-i Buddhist Church egy Jodo Shinshu buddhista templom.",
-                  "category": "religious",
-                  "coords": [
-                        -122.312967,
-                        47.599769
                   ]
             },
             {
@@ -27374,15 +25727,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.32287,
                         47.598246
-                  ]
-            },
-            {
-                  "name": "Northwest African American Museum",
-                  "text": "A Seattle-ben található Northwest African American Museum az északnyugati régió afroamerikai közösségének történelmére és kultúrájára fókuszál. Ez az egyesült államokbeli múzeum gondolatébresztő kiállításokat és történelmi narratívákat mutat be. A látogatók átfogó képet kaphatnak a közösség mélyreható helyi hatásáról.",
-                  "category": "museum",
-                  "coords": [
-                        -122.301858,
-                        47.589142
                   ]
             },
             {
@@ -27640,60 +25984,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle Children's Museum",
-                  "text": "Muzeul Copiilor din Seattle este un muzeu pentru copii din Seattle Center.",
-                  "category": "museum",
-                  "coords": [
-                        -122.350989,
-                        47.621462
-                  ]
-            },
-            {
-                  "name": "Museum of History and Industry",
-                  "text": "Museum of History and Industry se află în Seattle și documentează istoria bogată și industria orașului. Ca muzeu în SUA, acesta prezintă evoluția industrială și reperele istorice locale. Vizitatorii se pot aștepta la o incursiune profundă în trecutul dinamic al regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        -122.336751,
-                        47.627511
-                  ]
-            },
-            {
-                  "name": "Seattle Asian Art Museum",
-                  "text": "Muzeul de Artă Asiatică din Seattle din Parcul Volunteer expune artă asiatică.",
-                  "category": "museum",
-                  "coords": [
-                        -122.314176,
-                        47.630282
-                  ]
-            },
-            {
-                  "name": "Chihuly Garden and Glass",
-                  "text": "O expoziție cu lucrările impresionante de artă în sticlă ale lui Dale Chihuly.",
-                  "category": "museum",
-                  "coords": [
-                        -122.350182,
-                        47.620535
-                  ]
-            },
-            {
-                  "name": "MoPOP: Museum of Pop Culture",
-                  "text": "Muzeu al culturii pop deschis în 2000 în Seattle.",
-                  "category": "museum",
-                  "coords": [
-                        -122.348238,
-                        47.621497
-                  ]
-            },
-            {
-                  "name": "Pacific Science Center",
-                  "text": "Un muzeu interactiv de știință situat lângă Space Needle.",
-                  "category": "museum",
-                  "coords": [
-                        -122.351386,
-                        47.619421
-                  ]
-            },
-            {
                   "name": "Seattle City Hall",
                   "text": "Centrul administrativ al orașului Seattle, cu arhitectură modernă.",
                   "category": "historical",
@@ -27739,24 +26029,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "McCaw Hall",
-                  "text": "O locație modernă pentru operă și balet în Seattle.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.350409,
-                        47.623957
-                  ]
-            },
-            {
-                  "name": "Seattle Repertory Theatre",
-                  "text": "O companie de teatru regională renumită în Seattle Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.353592,
-                        47.623925
-                  ]
-            },
-            {
                   "name": "Hugo House",
                   "text": "Hugo House este un centru literar pentru scriitori și lecturi în Seattle.",
                   "category": "cultural",
@@ -27799,15 +26071,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.332658,
                         47.608662
-                  ]
-            },
-            {
-                  "name": "Seattle Buddhist Church",
-                  "text": "Biserica Budistă din Seattle este un templu budist Jodo Shinshu.",
-                  "category": "religious",
-                  "coords": [
-                        -122.312967,
-                        47.599769
                   ]
             },
             {
@@ -27916,15 +26179,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.32287,
                         47.598246
-                  ]
-            },
-            {
-                  "name": "Northwest African American Museum",
-                  "text": "Situat în Seattle, Northwest African American Museum se concentrează pe istoria și cultura afro-americanilor din regiune. Acest muzeu din SUA prezintă expoziții captivante și narațiuni istorice. Locația oferă vizitatorilor o înțelegere cuprinzătoare a impactului profund al acestei comunități în zona de Nord-Vest.",
-                  "category": "museum",
-                  "coords": [
-                        -122.301858,
-                        47.589142
                   ]
             },
             {
@@ -28182,60 +26436,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle Children's Museum",
-                  "text": "Seattle Children's Museum is a children's museum at Seattle Center.",
-                  "category": "museum",
-                  "coords": [
-                        -122.350989,
-                        47.621462
-                  ]
-            },
-            {
-                  "name": "Museum of History and Industry",
-                  "text": "The Museum of History and Industry is located in Seattle and documents the rich heritage of the city. As a museum in the USA, it showcases the industrial evolution and local historical milestones. Visitors can expect to delve deep into the region's dynamic past.",
-                  "category": "museum",
-                  "coords": [
-                        -122.336751,
-                        47.627511
-                  ]
-            },
-            {
-                  "name": "Seattle Asian Art Museum",
-                  "text": "Seattle Asian Art Museum in Volunteer Park displays Asian art.",
-                  "category": "museum",
-                  "coords": [
-                        -122.314176,
-                        47.630282
-                  ]
-            },
-            {
-                  "name": "Chihuly Garden and Glass",
-                  "text": "An exhibition featuring the stunning glass art of Dale Chihuly.",
-                  "category": "museum",
-                  "coords": [
-                        -122.350182,
-                        47.620535
-                  ]
-            },
-            {
-                  "name": "MoPOP: Museum of Pop Culture",
-                  "text": "Museum of pop culture opened in 2000 in Seattle.",
-                  "category": "museum",
-                  "coords": [
-                        -122.348238,
-                        47.621497
-                  ]
-            },
-            {
-                  "name": "Pacific Science Center",
-                  "text": "An interactive science museum located near the Space Needle.",
-                  "category": "museum",
-                  "coords": [
-                        -122.351386,
-                        47.619421
-                  ]
-            },
-            {
                   "name": "Seattle City Hall",
                   "text": "Seattle's administrative center featuring modern architecture.",
                   "category": "historical",
@@ -28281,24 +26481,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "McCaw Hall",
-                  "text": "A modern venue for opera and ballet performances in Seattle.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.350409,
-                        47.623957
-                  ]
-            },
-            {
-                  "name": "Seattle Repertory Theatre",
-                  "text": "A renowned regional theatre company located at Seattle Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.353592,
-                        47.623925
-                  ]
-            },
-            {
                   "name": "Hugo House",
                   "text": "Hugo House is a literary center for writers and readings in Seattle.",
                   "category": "cultural",
@@ -28341,15 +26523,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.332658,
                         47.608662
-                  ]
-            },
-            {
-                  "name": "Seattle Buddhist Church",
-                  "text": "Seattle Buddhist Church is a Jodo Shinshu Buddhist temple.",
-                  "category": "religious",
-                  "coords": [
-                        -122.312967,
-                        47.599769
                   ]
             },
             {
@@ -28458,15 +26631,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.32287,
                         47.598246
-                  ]
-            },
-            {
-                  "name": "Northwest African American Museum",
-                  "text": "Situated in Seattle, the Northwest African American Museum focuses on the history and culture of African Americans in the region. This museum in the USA presents thought-provoking exhibitions and historical narratives. It provides visitors with a comprehensive understanding of the community's profound impact on the Northwest.",
-                  "category": "museum",
-                  "coords": [
-                        -122.301858,
-                        47.589142
                   ]
             },
             {
@@ -33416,39 +31580,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro Municipal de las Artes",
-                  "text": "Ein städtisches Kunstzentrum in El Paso, das die lokale Kreativität fördert.",
-                  "category": "museum",
-                  "coords": [
-                        -106.487962,
-                        31.73865
-                  ]
-            },
-            {
-                  "name": "Museo Germán Valdéz Tin Tan",
-                  "text": "Ein Museum, das dem berühmten mexikanischen Komiker und Schauspieler Tin Tan gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -106.485958,
-                        31.74299
-                  ]
-            },
-            {
                   "name": "Salón de la fama del deportista juarense",
                   "text": "Ein Museum in El Paso, das die Leistungen lokaler Sportler ehrt.",
                   "category": "museum",
                   "coords": [
                         -106.469655,
                         31.752017
-                  ]
-            },
-            {
-                  "name": "Ferrocarril Central 1884",
-                  "text": "Ein Museum, das der Geschichte der Eisenbahn in der Region El Paso gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -106.483099,
-                        31.737593
                   ]
             },
             {
@@ -33485,15 +31622,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -106.496258,
                         31.791082
-                  ]
-            },
-            {
-                  "name": "Monumento a Benito Juárez",
-                  "text": "Ein monumentales Denkmal zu Ehren des mexikanischen Staatsmannes Benito Juárez.",
-                  "category": "historical",
-                  "coords": [
-                        -106.479045,
-                        31.735409
                   ]
             },
             {
@@ -33542,15 +31670,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "General Vicente Guerrero",
-                  "text": "Statue zu Ehren des mexikanischen Unabhängigkeitsführers Vicente Guerrero in El Paso.",
-                  "category": "historical",
-                  "coords": [
-                        -106.482585,
-                        31.736436
-                  ]
-            },
-            {
                   "name": "Tom Lea obelisk",
                   "text": "Ein Obelisk in El Paso zur Erinnerung an den Künstler und Schriftsteller Tom Lea.",
                   "category": "historical",
@@ -33560,39 +31679,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Feminicidios",
-                  "text": "Ein Mahnmal in El Paso, das den Opfern von Feminiziden gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -106.487253,
-                        31.748139
-                  ]
-            },
-            {
                   "name": "Scenic Drive Overlook",
                   "text": "Ein Aussichtspunkt in El Paso, der einen Panoramablick über die Stadt und das Umland bietet.",
                   "category": "natural",
                   "coords": [
                         -106.47962,
                         31.782328
-                  ]
-            },
-            {
-                  "name": "El Bombero",
-                  "text": "Ein Denkmal in El Paso, das den Einsatz der Feuerwehrleute ehrt.",
-                  "category": "historical",
-                  "coords": [
-                        -106.472452,
-                        31.749125
-                  ]
-            },
-            {
-                  "name": "San Luis Contemporáneo",
-                  "text": "Ein Zentrum für zeitgenössische Kunst in El Paso mit wechselnden Ausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.484537,
-                        31.739075
                   ]
             },
             {
@@ -33620,24 +31712,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -106.453842,
                         31.758626
-                  ]
-            },
-            {
-                  "name": "Edificio de los Sueños",
-                  "text": "Ein Galeriegebäude in El Paso, das Raum für künstlerische Visionen bietet.",
-                  "category": "museum",
-                  "coords": [
-                        -106.480705,
-                        31.737903
-                  ]
-            },
-            {
-                  "name": "Good Neighbor International Bridge",
-                  "text": "Diese internationale Brücke verbindet El Paso in Texas mit Ciudad Juárez in Mexiko.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.482778,
-                        31.74849
                   ]
             },
             {
@@ -33715,39 +31789,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro Municipal de las Artes",
-                  "text": "Városi művészeti központ El Pasóban, amely a helyi kreativitást támogatja.",
-                  "category": "museum",
-                  "coords": [
-                        -106.487962,
-                        31.73865
-                  ]
-            },
-            {
-                  "name": "Museo Germán Valdéz Tin Tan",
-                  "text": "A híres mexikói komikusnak és színésznek, Tin Tannak szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -106.485958,
-                        31.74299
-                  ]
-            },
-            {
                   "name": "Salón de la fama del deportista juarense",
                   "text": "El Paso-i múzeum, amely a helyi sportolók teljesítményei előtt tiszteleg.",
                   "category": "museum",
                   "coords": [
                         -106.469655,
                         31.752017
-                  ]
-            },
-            {
-                  "name": "Ferrocarril Central 1884",
-                  "text": "Az El Paso régió vasúttörténetének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -106.483099,
-                        31.737593
                   ]
             },
             {
@@ -33784,15 +31831,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -106.496258,
                         31.791082
-                  ]
-            },
-            {
-                  "name": "Monumento a Benito Juárez",
-                  "text": "Monumentális emlékmű Benito Juárez mexikói államférfi tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        -106.479045,
-                        31.735409
                   ]
             },
             {
@@ -33841,15 +31879,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "General Vicente Guerrero",
-                  "text": "Vicente Guerrero mexikói függetlenségi vezető szobra El Pasóban.",
-                  "category": "historical",
-                  "coords": [
-                        -106.482585,
-                        31.736436
-                  ]
-            },
-            {
                   "name": "Tom Lea obelisk",
                   "text": "Tom Lea művész és író emlékére állított obeliszk El Pasóban.",
                   "category": "historical",
@@ -33859,39 +31888,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Feminicidios",
-                  "text": "Nők elleni erőszak áldozatainak szentelt emlékmű El Pasóban.",
-                  "category": "historical",
-                  "coords": [
-                        -106.487253,
-                        31.748139
-                  ]
-            },
-            {
                   "name": "Scenic Drive Overlook",
                   "text": "Kilátópont El Pasóban, amely panorámás kilátást nyújt a városra és a környékre.",
                   "category": "natural",
                   "coords": [
                         -106.47962,
                         31.782328
-                  ]
-            },
-            {
-                  "name": "El Bombero",
-                  "text": "A tűzoltók munkája előtt tisztelgő emlékmű El Pasóban.",
-                  "category": "historical",
-                  "coords": [
-                        -106.472452,
-                        31.749125
-                  ]
-            },
-            {
-                  "name": "San Luis Contemporáneo",
-                  "text": "Kortárs művészeti központ El Pasóban időszaki kiállításokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.484537,
-                        31.739075
                   ]
             },
             {
@@ -33919,24 +31921,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -106.453842,
                         31.758626
-                  ]
-            },
-            {
-                  "name": "Edificio de los Sueños",
-                  "text": "Galériaépület El Pasóban, amely teret ad a művészeti elképzeléseknek.",
-                  "category": "museum",
-                  "coords": [
-                        -106.480705,
-                        31.737903
-                  ]
-            },
-            {
-                  "name": "Good Neighbor International Bridge",
-                  "text": "Ez a nemzetközi híd köti össze a texasi El Pasót a mexikói Ciudad Juárezszel.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.482778,
-                        31.74849
                   ]
             },
             {
@@ -34014,39 +31998,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro Municipal de las Artes",
-                  "text": "Un centru municipal de artă din El Paso care promovează creativitatea locală.",
-                  "category": "museum",
-                  "coords": [
-                        -106.487962,
-                        31.73865
-                  ]
-            },
-            {
-                  "name": "Museo Germán Valdéz Tin Tan",
-                  "text": "Un muzeu dedicat celebrului comic și actor mexican Tin Tan.",
-                  "category": "museum",
-                  "coords": [
-                        -106.485958,
-                        31.74299
-                  ]
-            },
-            {
                   "name": "Salón de la fama del deportista juarense",
                   "text": "Un muzeu din El Paso care onorează realizările sportivilor locali.",
                   "category": "museum",
                   "coords": [
                         -106.469655,
                         31.752017
-                  ]
-            },
-            {
-                  "name": "Ferrocarril Central 1884",
-                  "text": "Un muzeu dedicat istoriei căilor ferate din regiunea El Paso.",
-                  "category": "museum",
-                  "coords": [
-                        -106.483099,
-                        31.737593
                   ]
             },
             {
@@ -34083,15 +32040,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -106.496258,
                         31.791082
-                  ]
-            },
-            {
-                  "name": "Monumento a Benito Juárez",
-                  "text": "Un monument grandios în onoarea omului de stat mexican Benito Juárez.",
-                  "category": "historical",
-                  "coords": [
-                        -106.479045,
-                        31.735409
                   ]
             },
             {
@@ -34140,15 +32088,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "General Vicente Guerrero",
-                  "text": "Statuie în onoarea liderului independenței mexicane Vicente Guerrero, El Paso.",
-                  "category": "historical",
-                  "coords": [
-                        -106.482585,
-                        31.736436
-                  ]
-            },
-            {
                   "name": "Tom Lea obelisk",
                   "text": "Un obelisc din El Paso ridicat în memoria artistului și scriitorului Tom Lea.",
                   "category": "historical",
@@ -34158,39 +32097,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Feminicidios",
-                  "text": "Un monument din El Paso dedicat victimelor feminicidului.",
-                  "category": "historical",
-                  "coords": [
-                        -106.487253,
-                        31.748139
-                  ]
-            },
-            {
                   "name": "Scenic Drive Overlook",
                   "text": "Un punct de observație în El Paso care oferă o vedere panoramică asupra orașului și împrejurimilor.",
                   "category": "natural",
                   "coords": [
                         -106.47962,
                         31.782328
-                  ]
-            },
-            {
-                  "name": "El Bombero",
-                  "text": "Un monument în El Paso care onorează serviciul pompierilor.",
-                  "category": "historical",
-                  "coords": [
-                        -106.472452,
-                        31.749125
-                  ]
-            },
-            {
-                  "name": "San Luis Contemporáneo",
-                  "text": "Un centru de artă contemporană din El Paso cu expoziții temporare.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.484537,
-                        31.739075
                   ]
             },
             {
@@ -34218,24 +32130,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -106.453842,
                         31.758626
-                  ]
-            },
-            {
-                  "name": "Edificio de los Sueños",
-                  "text": "O clădire de galerie în El Paso care oferă spațiu pentru viziuni artistice.",
-                  "category": "museum",
-                  "coords": [
-                        -106.480705,
-                        31.737903
-                  ]
-            },
-            {
-                  "name": "Good Neighbor International Bridge",
-                  "text": "Acest pod internațional leagă orașul El Paso din Texas de Ciudad Juárez din Mexic.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.482778,
-                        31.74849
                   ]
             },
             {
@@ -34313,39 +32207,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro Municipal de las Artes",
-                  "text": "A municipal arts center in El Paso promoting local creativity.",
-                  "category": "museum",
-                  "coords": [
-                        -106.487962,
-                        31.73865
-                  ]
-            },
-            {
-                  "name": "Museo Germán Valdéz Tin Tan",
-                  "text": "A museum dedicated to the famous Mexican comedian and actor Tin Tan.",
-                  "category": "museum",
-                  "coords": [
-                        -106.485958,
-                        31.74299
-                  ]
-            },
-            {
                   "name": "Salón de la fama del deportista juarense",
                   "text": "A museum in El Paso honoring the achievements of local athletes.",
                   "category": "museum",
                   "coords": [
                         -106.469655,
                         31.752017
-                  ]
-            },
-            {
-                  "name": "Ferrocarril Central 1884",
-                  "text": "A museum dedicated to the history of the railroad in the El Paso region.",
-                  "category": "museum",
-                  "coords": [
-                        -106.483099,
-                        31.737593
                   ]
             },
             {
@@ -34382,15 +32249,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -106.496258,
                         31.791082
-                  ]
-            },
-            {
-                  "name": "Monumento a Benito Juárez",
-                  "text": "A monumental landmark honoring the Mexican statesman Benito Juárez.",
-                  "category": "historical",
-                  "coords": [
-                        -106.479045,
-                        31.735409
                   ]
             },
             {
@@ -34439,15 +32297,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "General Vicente Guerrero",
-                  "text": "Statue honoring Mexican independence leader Vicente Guerrero in El Paso.",
-                  "category": "historical",
-                  "coords": [
-                        -106.482585,
-                        31.736436
-                  ]
-            },
-            {
                   "name": "Tom Lea obelisk",
                   "text": "An obelisk in El Paso commemorating the artist and author Tom Lea.",
                   "category": "historical",
@@ -34457,39 +32306,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Feminicidios",
-                  "text": "A monument in El Paso dedicated to the victims of femicides.",
-                  "category": "historical",
-                  "coords": [
-                        -106.487253,
-                        31.748139
-                  ]
-            },
-            {
                   "name": "Scenic Drive Overlook",
                   "text": "An overlook in El Paso offering panoramic views of the city and surroundings.",
                   "category": "natural",
                   "coords": [
                         -106.47962,
                         31.782328
-                  ]
-            },
-            {
-                  "name": "El Bombero",
-                  "text": "A monument in El Paso honoring the service of firefighters.",
-                  "category": "historical",
-                  "coords": [
-                        -106.472452,
-                        31.749125
-                  ]
-            },
-            {
-                  "name": "San Luis Contemporáneo",
-                  "text": "A contemporary arts centre in El Paso featuring rotating exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.484537,
-                        31.739075
                   ]
             },
             {
@@ -34517,24 +32339,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -106.453842,
                         31.758626
-                  ]
-            },
-            {
-                  "name": "Edificio de los Sueños",
-                  "text": "A gallery building in El Paso providing space for artistic visions.",
-                  "category": "museum",
-                  "coords": [
-                        -106.480705,
-                        31.737903
-                  ]
-            },
-            {
-                  "name": "Good Neighbor International Bridge",
-                  "text": "This international bridge connects El Paso, Texas, with Ciudad Juárez, Mexico.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.482778,
-                        31.74849
                   ]
             },
             {
@@ -34618,24 +32422,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.062678,
                         42.35515
-                  ]
-            },
-            {
-                  "name": "Art Gallery of Windsor",
-                  "text": "Eine führende öffentliche Kunstgalerie mit kanadischen und lokalen Werken.",
-                  "category": "museum",
-                  "coords": [
-                        -83.044459,
-                        42.318366
-                  ]
-            },
-            {
-                  "name": "Windsor City Hall",
-                  "text": "Das Verwaltungszentrum der Stadt Windsor auf der anderen Seite des Flusses.",
-                  "category": "historical",
-                  "coords": [
-                        -83.035002,
-                        42.317059
                   ]
             },
             {
@@ -34819,15 +32605,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centennial Park",
-                  "text": "Ein malerischer Park am Ufer von Windsor mit zahlreichen öffentlichen Skulpturen.",
-                  "category": "park",
-                  "coords": [
-                        -83.054716,
-                        42.316053
-                  ]
-            },
-            {
                   "name": "Cadillac Square Park",
                   "text": "Ein historischer öffentlicher Platz neben dem Campus Martius Park.",
                   "category": "park",
@@ -34846,39 +32623,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capitol Theatre",
-                  "text": "Ein historisches Theater auf der anderen Seite des Flusses in Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.040231,
-                        42.317127
-                  ]
-            },
-            {
-                  "name": "Chrysler Theatre",
-                  "text": "Ein moderner Veranstaltungsort für darstellende Künste im St. Clair College Centre for the Arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.042047,
-                        42.318824
-                  ]
-            },
-            {
                   "name": "The Players Theater",
                   "text": "Ein privater Club und ein historisches Theater im Herzen der Stadt.",
                   "category": "cultural",
                   "coords": [
                         -83.01434,
                         42.342258
-                  ]
-            },
-            {
-                  "name": "Olde Walkerville Theatre",
-                  "text": "Ein restauriertes klassisches Theater im historischen Walkerville-Viertel.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.01646,
-                        42.321699
                   ]
             },
             {
@@ -34906,33 +32656,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.047792,
                         42.358259
-                  ]
-            },
-            {
-                  "name": "St. Alphonsus Catholic Church",
-                  "text": "Eine historische katholische Pfarrei, die ihrer lokalen Nachbarschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        -83.036466,
-                        42.316422
-                  ]
-            },
-            {
-                  "name": "Our Lady of the Assumption",
-                  "text": "Eine bedeutende historische Kirche, die der örtlichen katholischen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        -83.05461,
-                        42.306498
-                  ]
-            },
-            {
-                  "name": "St. Angela Merici Church",
-                  "text": "Ein örtliches Gotteshaus, das seiner Gemeinde im Raum Detroit dient.",
-                  "category": "religious",
-                  "coords": [
-                        -83.023859,
-                        42.312897
                   ]
             },
             {
@@ -35026,15 +32749,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Legacy Beacon",
-                  "text": "Ein Museum oder Denkmal in Detroit, das an das kulturelle Erbe erinnert.",
-                  "category": "museum",
-                  "coords": [
-                        -83.049627,
-                        42.317693
-                  ]
-            },
-            {
                   "name": "Library Street Collective",
                   "text": "Eine zeitgenössische Kunstgalerie im Herzen von Detroit.",
                   "category": "museum",
@@ -35080,15 +32794,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Knights of Columbus Peace Monument",
-                  "text": "Granitdenkmal mit Friedenstaube in Detroit, errichtet von den Knights of Columbus.",
-                  "category": "historical",
-                  "coords": [
-                        -83.043915,
-                        42.319399
-                  ]
-            },
-            {
                   "name": "The Wayne County Family Aquatic Center",
                   "text": "Das Wayne County Family Aquatic Center in Detroit ist ein Wasserpark mit Rutschen und Becken für die ganze Familie.",
                   "category": "recreational",
@@ -35106,24 +32811,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.062678,
                         42.35515
-                  ]
-            },
-            {
-                  "name": "Art Gallery of Windsor",
-                  "text": "Vezető nyilvános művészeti galéria kanadai és helyi alkotásokkal.",
-                  "category": "museum",
-                  "coords": [
-                        -83.044459,
-                        42.318366
-                  ]
-            },
-            {
-                  "name": "Windsor City Hall",
-                  "text": "Windsor város közigazgatási központja a folyó túloldalán.",
-                  "category": "historical",
-                  "coords": [
-                        -83.035002,
-                        42.317059
                   ]
             },
             {
@@ -35307,15 +32994,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centennial Park",
-                  "text": "Windsor festői vízparti parkja számos köztéri szoborral.",
-                  "category": "park",
-                  "coords": [
-                        -83.054716,
-                        42.316053
-                  ]
-            },
-            {
                   "name": "Cadillac Square Park",
                   "text": "Történelmi közterület a Campus Martius Park szomszédságában.",
                   "category": "park",
@@ -35334,39 +33012,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capitol Theatre",
-                  "text": "Történelmi színház a folyó túloldalán, Windsorban.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.040231,
-                        42.317127
-                  ]
-            },
-            {
-                  "name": "Chrysler Theatre",
-                  "text": "Modern előadóművészeti helyszín a St. Clair College Művészeti Központjában.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.042047,
-                        42.318824
-                  ]
-            },
-            {
                   "name": "The Players Theater",
                   "text": "Magánklub és történelmi színház a város szívében.",
                   "category": "cultural",
                   "coords": [
                         -83.01434,
                         42.342258
-                  ]
-            },
-            {
-                  "name": "Olde Walkerville Theatre",
-                  "text": "Felújított klasszikus színház a történelmi Walkerville negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.01646,
-                        42.321699
                   ]
             },
             {
@@ -35394,33 +33045,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.047792,
                         42.358259
-                  ]
-            },
-            {
-                  "name": "St. Alphonsus Catholic Church",
-                  "text": "Történelmi katolikus plébánia, amely a helyi környéket szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -83.036466,
-                        42.316422
-                  ]
-            },
-            {
-                  "name": "Our Lady of the Assumption",
-                  "text": "Jelentős történelmi templom, amely a helyi katolikus közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -83.05461,
-                        42.306498
-                  ]
-            },
-            {
-                  "name": "St. Angela Merici Church",
-                  "text": "Helyi istentiszteleti hely, amely a detroiti közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -83.023859,
-                        42.312897
                   ]
             },
             {
@@ -35514,15 +33138,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Legacy Beacon",
-                  "text": "Múzeum vagy emlékmű Detroitban, amely a kulturális örökségre emlékeztet.",
-                  "category": "museum",
-                  "coords": [
-                        -83.049627,
-                        42.317693
-                  ]
-            },
-            {
                   "name": "Library Street Collective",
                   "text": "Kortárs művészeti galéria Detroit szívében.",
                   "category": "museum",
@@ -35568,15 +33183,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Knights of Columbus Peace Monument",
-                  "text": "Gránitemlékmű békegalambbal Detroitban, a Knights of Columbus állította.",
-                  "category": "historical",
-                  "coords": [
-                        -83.043915,
-                        42.319399
-                  ]
-            },
-            {
                   "name": "The Wayne County Family Aquatic Center",
                   "text": "A Wayne County Family Aquatic Center Detroitban egy vízipark csúszdákkal és medencékkel az egész család számára.",
                   "category": "recreational",
@@ -35594,24 +33200,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.062678,
                         42.35515
-                  ]
-            },
-            {
-                  "name": "Art Gallery of Windsor",
-                  "text": "O galerie de artă publică de prestigiu, care prezintă lucrări canadiene și locale.",
-                  "category": "museum",
-                  "coords": [
-                        -83.044459,
-                        42.318366
-                  ]
-            },
-            {
-                  "name": "Windsor City Hall",
-                  "text": "Centrul administrativ pentru orașul Windsor, situat peste râu.",
-                  "category": "historical",
-                  "coords": [
-                        -83.035002,
-                        42.317059
                   ]
             },
             {
@@ -35795,15 +33383,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centennial Park",
-                  "text": "Un parc pitoresc pe malul apei în Windsor, cu numeroase sculpturi publice.",
-                  "category": "park",
-                  "coords": [
-                        -83.054716,
-                        42.316053
-                  ]
-            },
-            {
                   "name": "Cadillac Square Park",
                   "text": "O piață publică istorică adiacentă parcului Campus Martius.",
                   "category": "park",
@@ -35822,39 +33401,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capitol Theatre",
-                  "text": "O locație de teatru istorică situată peste râu, în Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.040231,
-                        42.317127
-                  ]
-            },
-            {
-                  "name": "Chrysler Theatre",
-                  "text": "O locație modernă pentru artele spectacolului în cadrul Centrului de Arte al Colegiului St. Clair.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.042047,
-                        42.318824
-                  ]
-            },
-            {
                   "name": "The Players Theater",
                   "text": "Un club privat și o locație de teatru istorică în inima orașului.",
                   "category": "cultural",
                   "coords": [
                         -83.01434,
                         42.342258
-                  ]
-            },
-            {
-                  "name": "Olde Walkerville Theatre",
-                  "text": "Un teatru clasic restaurat situat în zona istorică Walkerville.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.01646,
-                        42.321699
                   ]
             },
             {
@@ -35882,33 +33434,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.047792,
                         42.358259
-                  ]
-            },
-            {
-                  "name": "St. Alphonsus Catholic Church",
-                  "text": "O parohie catolică istorică ce deservește cartierul local.",
-                  "category": "religious",
-                  "coords": [
-                        -83.036466,
-                        42.316422
-                  ]
-            },
-            {
-                  "name": "Our Lady of the Assumption",
-                  "text": "O biserică istorică semnificativă ce deservește comunitatea catolică locală.",
-                  "category": "religious",
-                  "coords": [
-                        -83.05461,
-                        42.306498
-                  ]
-            },
-            {
-                  "name": "St. Angela Merici Church",
-                  "text": "Un lăcaș de cult local care deservește comunitatea sa din zona Detroit.",
-                  "category": "religious",
-                  "coords": [
-                        -83.023859,
-                        42.312897
                   ]
             },
             {
@@ -36002,15 +33527,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Legacy Beacon",
-                  "text": "Un muzeu sau monument din Detroit care comemorează moștenirea culturală.",
-                  "category": "museum",
-                  "coords": [
-                        -83.049627,
-                        42.317693
-                  ]
-            },
-            {
                   "name": "Library Street Collective",
                   "text": "O galerie de artă contemporană situată în inima orașului Detroit.",
                   "category": "museum",
@@ -36056,15 +33572,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Knights of Columbus Peace Monument",
-                  "text": "Monument de granit cu un porumbel al păcii în Detroit, ridicat de Cavalerii lui Columb.",
-                  "category": "historical",
-                  "coords": [
-                        -83.043915,
-                        42.319399
-                  ]
-            },
-            {
                   "name": "The Wayne County Family Aquatic Center",
                   "text": "Wayne County Family Aquatic Center din Detroit este un parc acvatic cu tobogane și bazine pentru întreaga familie.",
                   "category": "recreational",
@@ -36082,24 +33589,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.062678,
                         42.35515
-                  ]
-            },
-            {
-                  "name": "Art Gallery of Windsor",
-                  "text": "A leading public art gallery featuring Canadian and local works.",
-                  "category": "museum",
-                  "coords": [
-                        -83.044459,
-                        42.318366
-                  ]
-            },
-            {
-                  "name": "Windsor City Hall",
-                  "text": "The administrative center for the city of Windsor across the river.",
-                  "category": "historical",
-                  "coords": [
-                        -83.035002,
-                        42.317059
                   ]
             },
             {
@@ -36283,15 +33772,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centennial Park",
-                  "text": "A scenic waterfront park in Windsor featuring numerous public sculptures.",
-                  "category": "park",
-                  "coords": [
-                        -83.054716,
-                        42.316053
-                  ]
-            },
-            {
                   "name": "Cadillac Square Park",
                   "text": "A historic public square adjacent to Campus Martius Park.",
                   "category": "park",
@@ -36310,39 +33790,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capitol Theatre",
-                  "text": "A historic theater venue located across the river in Windsor.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.040231,
-                        42.317127
-                  ]
-            },
-            {
-                  "name": "Chrysler Theatre",
-                  "text": "A modern performing arts venue within the St. Clair College Centre for the Arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.042047,
-                        42.318824
-                  ]
-            },
-            {
                   "name": "The Players Theater",
                   "text": "A private club and historic theater venue in the heart of the city.",
                   "category": "cultural",
                   "coords": [
                         -83.01434,
                         42.342258
-                  ]
-            },
-            {
-                  "name": "Olde Walkerville Theatre",
-                  "text": "A restored classic theater located in the historic Walkerville area.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.01646,
-                        42.321699
                   ]
             },
             {
@@ -36370,33 +33823,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.047792,
                         42.358259
-                  ]
-            },
-            {
-                  "name": "St. Alphonsus Catholic Church",
-                  "text": "A historic Catholic parish serving its local neighborhood.",
-                  "category": "religious",
-                  "coords": [
-                        -83.036466,
-                        42.316422
-                  ]
-            },
-            {
-                  "name": "Our Lady of the Assumption",
-                  "text": "A significant historic church serving the local Catholic community.",
-                  "category": "religious",
-                  "coords": [
-                        -83.05461,
-                        42.306498
-                  ]
-            },
-            {
-                  "name": "St. Angela Merici Church",
-                  "text": "A local place of worship serving its community in the Detroit area.",
-                  "category": "religious",
-                  "coords": [
-                        -83.023859,
-                        42.312897
                   ]
             },
             {
@@ -36490,15 +33916,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Legacy Beacon",
-                  "text": "A museum or landmark in Detroit commemorating cultural legacy.",
-                  "category": "museum",
-                  "coords": [
-                        -83.049627,
-                        42.317693
-                  ]
-            },
-            {
                   "name": "Library Street Collective",
                   "text": "A contemporary art gallery located in the heart of Detroit.",
                   "category": "museum",
@@ -36541,15 +33958,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -83.043965,
                         42.326402
-                  ]
-            },
-            {
-                  "name": "Knights of Columbus Peace Monument",
-                  "text": "Granite peace monument with dove in Detroit, erected by the Knights of Columbus.",
-                  "category": "historical",
-                  "coords": [
-                        -83.043915,
-                        42.319399
                   ]
             },
             {
@@ -70533,15 +67941,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Crucible",
-                  "text": "Ein Kunst- und Bildungszentrum in Oakland, das für seine Metallarbeiten und Feuerkunst bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.290753,
-                        37.804693
-                  ]
-            },
-            {
                   "name": "Temple Sinai",
                   "text": "Eine historische Synagoge in Oakland und ein bedeutendes Zentrum für die jüdische Gemeinde.",
                   "category": "religious",
@@ -71135,15 +68534,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.274411,
                         37.801982
-                  ]
-            },
-            {
-                  "name": "The Crucible",
-                  "text": "Művészeti és oktatási központ Oaklandben, amely fémművességéről és tűzművészetéről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.290753,
-                        37.804693
                   ]
             },
             {
@@ -71743,15 +69133,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Crucible",
-                  "text": "Un centru de artă și educație din Oakland, cunoscut pentru prelucrarea metalelor și arta focului.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.290753,
-                        37.804693
-                  ]
-            },
-            {
                   "name": "Temple Sinai",
                   "text": "O sinagogă istorică din Oakland și un centru important pentru comunitatea evreiască.",
                   "category": "religious",
@@ -72345,15 +69726,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -122.274411,
                         37.801982
-                  ]
-            },
-            {
-                  "name": "The Crucible",
-                  "text": "An arts and education center in Oakland known for its metalworking and fire arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.290753,
-                        37.804693
                   ]
             },
             {
@@ -88993,15 +86365,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sandcastle Water Park",
-                  "text": "Wasserpark entlang des Monongahela River, eröffnet 1989.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.928902,
-                        40.397465
-                  ]
-            },
-            {
                   "name": "Tadpool",
                   "text": "Tadpool ist ein flaches Kinderbecken in einem Park in Pittsburgh, benannt nach Kaulquappen.",
                   "category": "recreational",
@@ -89478,15 +86841,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -79.910941,
                         40.482157
-                  ]
-            },
-            {
-                  "name": "Sandcastle Water Park",
-                  "text": "Vidámpark a Monongahela folyó mentén, 1989-ben nyitották meg.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.928902,
-                        40.397465
                   ]
             },
             {
@@ -89969,15 +87323,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sandcastle Water Park",
-                  "text": "Parcul acvatic de-a lungul râului Monongahela, deschis în 1989.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.928902,
-                        40.397465
-                  ]
-            },
-            {
                   "name": "Tadpool",
                   "text": "Tadpool este o piscină mică pentru copii într-un parc din Pittsburgh, numită după mormoloci.",
                   "category": "recreational",
@@ -90457,15 +87802,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sandcastle Water Park",
-                  "text": "Water park along the Monongahela River, opened in 1989.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.928902,
-                        40.397465
-                  ]
-            },
-            {
                   "name": "Tadpool",
                   "text": "Tadpool is a shallow children's pool in a Pittsburgh park, named after tadpoles.",
                   "category": "recreational",
@@ -90621,30 +87957,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
     id: "st-louis-cities-v2", "sights": {
       "de": [
             {
-                  "name": "National Blues Museum",
-                  "text": "Das National Blues Museum in St. Louis widmet sich der Musikgeschichte und dem kulturellen Einfluss des Blues.",
-                  "category": "museum",
-                  "coords": [
-                        -90.189846,
-                        38.630516
-                  ]
-            },
-            {
                   "name": "International Photography Hall of Fame and Museum",
                   "text": "Die International Photography Hall of Fame and Museum in St. Louis ehrt Personen, die bedeutende Beiträge zur Fotografie geleistet haben.",
                   "category": "museum",
                   "coords": [
                         -90.228726,
                         38.636798
-                  ]
-            },
-            {
-                  "name": "Old Courthouse",
-                  "text": "Das Old Courthouse in St. Louis ist ein historisches Museum, das als Ort der wegweisenden Dred-Scott-Prozesse berühmt ist.",
-                  "category": "museum",
-                  "coords": [
-                        -90.189275,
-                        38.625704
                   ]
             },
             {
@@ -90882,15 +88200,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gateway Arch",
-                  "text": "Der ikonische 192 Meter hohe Edelstahlbogen am Mississippi-Ufer.",
-                  "category": "historical",
-                  "coords": [
-                        -90.184975,
-                        38.624602
-                  ]
-            },
-            {
                   "name": "Zuka Arts Guild",
                   "text": "Eine Gemeinschaftskunstgenossenschaft mit Galerieausstellungen und Workshops.",
                   "category": "cultural",
@@ -90951,24 +88260,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -90.226701,
                         38.638082
-                  ]
-            },
-            {
-                  "name": "Basilica of Saint Louis, King of France",
-                  "text": "Die Basilica of Saint Louis, King of France, ist eine historische katholische Kirche und die erste Kathedrale, die westlich des Mississippi erbaut wurde.",
-                  "category": "religious",
-                  "coords": [
-                        -90.187283,
-                        38.624058
-                  ]
-            },
-            {
-                  "name": "St. Mary of Victories Church",
-                  "text": "Deutsch-römisch-katholische Kirche im neoromanischen Stil von 1843 im Kosciusko-Viertel.",
-                  "category": "religious",
-                  "coords": [
-                        -90.190386,
-                        38.617957
                   ]
             },
             {
@@ -91053,24 +88344,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stan Musial Veterans Memorial Bridge",
-                  "text": "Schrägseilbrücke über den Mississippi River, eröffnet 2014, benannt nach Stan Musial.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.17836,
-                        38.645877
-                  ]
-            },
-            {
-                  "name": "MacArthur Bridge",
-                  "text": "Eisenbahn-Fachwerkbrücke über den Mississippi River, erbaut 1917.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.183999,
-                        38.614789
-                  ]
-            },
-            {
                   "name": "Trinity Lutheran Church",
                   "text": "Lutherische Kirche im neugotischen Stil, erbaut 1924 in St. Louis.",
                   "category": "religious",
@@ -91118,30 +88391,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "National Blues Museum",
-                  "text": "A St. Louis-i National Blues Museum a blues zenei történelmének és kulturális hatásának bemutatásának szenteli magát.",
-                  "category": "museum",
-                  "coords": [
-                        -90.189846,
-                        38.630516
-                  ]
-            },
-            {
                   "name": "International Photography Hall of Fame and Museum",
                   "text": "A St. Louis-i International Photography Hall of Fame and Museum azokat tiszteli meg, akik jelentősen hozzájárultak a fotózáshoz.",
                   "category": "museum",
                   "coords": [
                         -90.228726,
                         38.636798
-                  ]
-            },
-            {
-                  "name": "Old Courthouse",
-                  "text": "A St. Louis-i Old Courthouse egy történelmi múzeum, amely a híres Dred Scott-perek helyszíneként ismert.",
-                  "category": "museum",
-                  "coords": [
-                        -90.189275,
-                        38.625704
                   ]
             },
             {
@@ -91379,15 +88634,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gateway Arch",
-                  "text": "A 192 méter magas, ikonikus rozsdamentes acélív a Mississippi folyópartján.",
-                  "category": "historical",
-                  "coords": [
-                        -90.184975,
-                        38.624602
-                  ]
-            },
-            {
                   "name": "Zuka Arts Guild",
                   "text": "Közösségi művészeti szövetkezet galériakiállításokkal és műhelymunkákkal.",
                   "category": "cultural",
@@ -91448,24 +88694,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -90.226701,
                         38.638082
-                  ]
-            },
-            {
-                  "name": "Basilica of Saint Louis, King of France",
-                  "text": "A Franciaország Királya, Szent Lajos-bazilika egy történelmi katolikus templom, és a Mississippi folyótól nyugatra épült első katedrális.",
-                  "category": "religious",
-                  "coords": [
-                        -90.187283,
-                        38.624058
-                  ]
-            },
-            {
-                  "name": "St. Mary of Victories Church",
-                  "text": "1843-ban épült német római katolikus neoromán templom a Kosciusko negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        -90.190386,
-                        38.617957
                   ]
             },
             {
@@ -91550,24 +88778,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stan Musial Veterans Memorial Bridge",
-                  "text": "Kábelhíd a Mississippi folyó felett, 2014-ben nyílt meg, Stan Musialról elnevezve.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.17836,
-                        38.645877
-                  ]
-            },
-            {
-                  "name": "MacArthur Bridge",
-                  "text": "Vasúti rácsos híd a Mississippi folyó felett, 1917-ben épült.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.183999,
-                        38.614789
-                  ]
-            },
-            {
                   "name": "Trinity Lutheran Church",
                   "text": "Neogótikus evangélikus templom, 1924-ben épült St. Louisban.",
                   "category": "religious",
@@ -91615,30 +88825,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "National Blues Museum",
-                  "text": "Muzeul Național de Blues din St. Louis este dedicat explorării istoriei muzicale și impactului cultural al muzicii blues.",
-                  "category": "museum",
-                  "coords": [
-                        -90.189846,
-                        38.630516
-                  ]
-            },
-            {
                   "name": "International Photography Hall of Fame and Museum",
                   "text": "International Photography Hall of Fame and Museum din St. Louis îi onorează pe cei care au adus contribuții semnificative în domeniul fotografiei.",
                   "category": "museum",
                   "coords": [
                         -90.228726,
                         38.636798
-                  ]
-            },
-            {
-                  "name": "Old Courthouse",
-                  "text": "Old Courthouse din St. Louis este un muzeu istoric, celebru ca fiind locul proceselor de referință ale lui Dred Scott.",
-                  "category": "museum",
-                  "coords": [
-                        -90.189275,
-                        38.625704
                   ]
             },
             {
@@ -91876,15 +89068,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gateway Arch",
-                  "text": "Arcul iconic de oțel inoxidabil de 192 de metri pe malul fluviului Mississippi.",
-                  "category": "historical",
-                  "coords": [
-                        -90.184975,
-                        38.624602
-                  ]
-            },
-            {
                   "name": "Zuka Arts Guild",
                   "text": "O cooperativă de artă comunitară cu expoziții și ateliere.",
                   "category": "cultural",
@@ -91945,24 +89128,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -90.226701,
                         38.638082
-                  ]
-            },
-            {
-                  "name": "Basilica of Saint Louis, King of France",
-                  "text": "Bazilica Sfântului Ludovic, Regele Franței, este o biserică catolică istorică și prima catedrală construită la vest de râul Mississippi.",
-                  "category": "religious",
-                  "coords": [
-                        -90.187283,
-                        38.624058
-                  ]
-            },
-            {
-                  "name": "St. Mary of Victories Church",
-                  "text": "Biserică romano-catolică germană în stil neoromanic din 1843 în cartierul Kosciusko.",
-                  "category": "religious",
-                  "coords": [
-                        -90.190386,
-                        38.617957
                   ]
             },
             {
@@ -92047,24 +89212,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stan Musial Veterans Memorial Bridge",
-                  "text": "Pod hobanat peste râul Mississippi, deschis în 2014, numit după Stan Musial.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.17836,
-                        38.645877
-                  ]
-            },
-            {
-                  "name": "MacArthur Bridge",
-                  "text": "Pod feroviar cu zăbrele peste râul Mississippi, construit în 1917.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.183999,
-                        38.614789
-                  ]
-            },
-            {
                   "name": "Trinity Lutheran Church",
                   "text": "Biserică luterană neogotică construită în 1924 în St. Louis.",
                   "category": "religious",
@@ -92112,30 +89259,12 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "National Blues Museum",
-                  "text": "The National Blues Museum in St. Louis is dedicated to exploring the musical history and cultural impact of the blues.",
-                  "category": "museum",
-                  "coords": [
-                        -90.189846,
-                        38.630516
-                  ]
-            },
-            {
                   "name": "International Photography Hall of Fame and Museum",
                   "text": "The International Photography Hall of Fame and Museum in St. Louis honors those who have made significant contributions to photography.",
                   "category": "museum",
                   "coords": [
                         -90.228726,
                         38.636798
-                  ]
-            },
-            {
-                  "name": "Old Courthouse",
-                  "text": "The Old Courthouse in St. Louis is a historic museum famous as the site of the landmark Dred Scott trials.",
-                  "category": "museum",
-                  "coords": [
-                        -90.189275,
-                        38.625704
                   ]
             },
             {
@@ -92373,15 +89502,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gateway Arch",
-                  "text": "The iconic 630-foot stainless steel arch on the Mississippi riverfront.",
-                  "category": "historical",
-                  "coords": [
-                        -90.184975,
-                        38.624602
-                  ]
-            },
-            {
                   "name": "Zuka Arts Guild",
                   "text": "A community arts cooperative with gallery shows and workshops.",
                   "category": "cultural",
@@ -92442,24 +89562,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -90.226701,
                         38.638082
-                  ]
-            },
-            {
-                  "name": "Basilica of Saint Louis, King of France",
-                  "text": "The Basilica of Saint Louis, King of France, is a historic Catholic church and the first cathedral built west of the Mississippi River.",
-                  "category": "religious",
-                  "coords": [
-                        -90.187283,
-                        38.624058
-                  ]
-            },
-            {
-                  "name": "St. Mary of Victories Church",
-                  "text": "German Roman Catholic Romanesque Revival church built in 1843 in the Kosciusko neighborhood.",
-                  "category": "religious",
-                  "coords": [
-                        -90.190386,
-                        38.617957
                   ]
             },
             {
@@ -92541,24 +89643,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -90.179329,
                         38.631007
-                  ]
-            },
-            {
-                  "name": "Stan Musial Veterans Memorial Bridge",
-                  "text": "Cable-stayed bridge over the Mississippi River, opened in 2014, named after Stan Musial.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.17836,
-                        38.645877
-                  ]
-            },
-            {
-                  "name": "MacArthur Bridge",
-                  "text": "Railroad truss bridge over the Mississippi River, built in 1917.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.183999,
-                        38.614789
                   ]
             },
             {
@@ -97555,15 +94639,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Nicholas of Myra Byzantine Catholic Church",
-                  "text": "Eine byzantinisch-katholische Kirche im Stil der byzantinischen Tradition in Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.898399,
-                        61.200721
-                  ]
-            },
-            {
                   "name": "Cathedral of the Holy Family",
                   "text": "Die Hauptkirche der römisch-katholischen Erzdiözese Anchorage.",
                   "category": "religious",
@@ -97588,15 +94663,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -149.866416,
                         61.209884
-                  ]
-            },
-            {
-                  "name": "La Luz Del Mundo",
-                  "text": "Eine Kirche der La Luz del Mundo-Gemeinde in Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.881877,
-                        61.197916
                   ]
             },
             {
@@ -97791,15 +94857,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Nicholas of Myra Byzantine Catholic Church",
-                  "text": "Bizánci katolikus templom Anchorage-ban, bizánci hagyományok szerint.",
-                  "category": "religious",
-                  "coords": [
-                        -149.898399,
-                        61.200721
-                  ]
-            },
-            {
                   "name": "Cathedral of the Holy Family",
                   "text": "Az Anchorage-i Római Katolikus Főegyházmegye főtemploma.",
                   "category": "religious",
@@ -97824,15 +94881,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -149.866416,
                         61.209884
-                  ]
-            },
-            {
-                  "name": "La Luz Del Mundo",
-                  "text": "A La Luz del Mundo gyülekezet temploma Anchorage-ban.",
-                  "category": "religious",
-                  "coords": [
-                        -149.881877,
-                        61.197916
                   ]
             },
             {
@@ -98027,15 +95075,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Nicholas of Myra Byzantine Catholic Church",
-                  "text": "O biserică catolică bizantină în Anchorage, în tradiția bizantină.",
-                  "category": "religious",
-                  "coords": [
-                        -149.898399,
-                        61.200721
-                  ]
-            },
-            {
                   "name": "Cathedral of the Holy Family",
                   "text": "Biserica mamă a Arhiepiscopiei Romano-Catolice de Anchorage.",
                   "category": "religious",
@@ -98060,15 +95099,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -149.866416,
                         61.209884
-                  ]
-            },
-            {
-                  "name": "La Luz Del Mundo",
-                  "text": "O biserică a denominației La Luz del Mundo în Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.881877,
-                        61.197916
                   ]
             },
             {
@@ -98263,15 +95293,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Nicholas of Myra Byzantine Catholic Church",
-                  "text": "A Byzantine Catholic church in Anchorage, following Byzantine tradition.",
-                  "category": "religious",
-                  "coords": [
-                        -149.898399,
-                        61.200721
-                  ]
-            },
-            {
                   "name": "Cathedral of the Holy Family",
                   "text": "The mother church of the Roman Catholic Archdiocese of Anchorage.",
                   "category": "religious",
@@ -98296,15 +95317,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -149.866416,
                         61.209884
-                  ]
-            },
-            {
-                  "name": "La Luz Del Mundo",
-                  "text": "A church of the La Luz del Mundo denomination in Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.881877,
-                        61.197916
                   ]
             },
             {
@@ -107036,15 +104048,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
     id: "jersey-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Liberty Science Center",
-                  "text": "Ein großes Wissenschaftsmuseum in Jersey City mit interaktiven Exponaten und einem Planetarium.",
-                  "category": "museum",
-                  "coords": [
-                        -74.054603,
-                        40.708179
-                  ]
-            },
-            {
                   "name": "Riverbend Wetlands Preserve",
                   "text": "Ein Naturschutzgebiet in Jersey City, das Marschland und lokale Flora schützt.",
                   "category": "natural",
@@ -107069,15 +104072,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -74.076086,
                         40.722473
-                  ]
-            },
-            {
-                  "name": "Van Vorst Park",
-                  "text": "Ein historischer Stadtpark in Jersey City, der von viktorianischer Architektur umgeben ist.",
-                  "category": "park",
-                  "coords": [
-                        -74.047158,
-                        40.718064
                   ]
             },
             {
@@ -107587,15 +104581,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Liberty Science Center",
-                  "text": "Egy nagy természettudományi múzeum Jersey Cityben, interaktív kiállításokkal és planetáriummal.",
-                  "category": "museum",
-                  "coords": [
-                        -74.054603,
-                        40.708179
-                  ]
-            },
-            {
                   "name": "Riverbend Wetlands Preserve",
                   "text": "Egy természetvédelmi terület Jersey Cityben, amely mocsaras területeket és a helyi flórát védi.",
                   "category": "natural",
@@ -107620,15 +104605,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -74.076086,
                         40.722473
-                  ]
-            },
-            {
-                  "name": "Van Vorst Park",
-                  "text": "Egy történelmi városi park Jersey Cityben, amelyet viktoriánus építészet vesz körül.",
-                  "category": "park",
-                  "coords": [
-                        -74.047158,
-                        40.718064
                   ]
             },
             {
@@ -108138,15 +105114,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Liberty Science Center",
-                  "text": "Un mare muzeu de știință din Jersey City, cu exponate interactive și un planetariu.",
-                  "category": "museum",
-                  "coords": [
-                        -74.054603,
-                        40.708179
-                  ]
-            },
-            {
                   "name": "Riverbend Wetlands Preserve",
                   "text": "O rezervație naturală din Jersey City care protejează mlaștinile și flora locală.",
                   "category": "natural",
@@ -108171,15 +105138,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -74.076086,
                         40.722473
-                  ]
-            },
-            {
-                  "name": "Van Vorst Park",
-                  "text": "Un parc urban istoric din Jersey City, înconjurat de arhitectură victoriană.",
-                  "category": "park",
-                  "coords": [
-                        -74.047158,
-                        40.718064
                   ]
             },
             {
@@ -108689,15 +105647,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Liberty Science Center",
-                  "text": "A large science museum in Jersey City featuring interactive exhibits and a planetarium.",
-                  "category": "museum",
-                  "coords": [
-                        -74.054603,
-                        40.708179
-                  ]
-            },
-            {
                   "name": "Riverbend Wetlands Preserve",
                   "text": "A nature reserve in Jersey City protecting marshlands and local flora.",
                   "category": "natural",
@@ -108722,15 +105671,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -74.076086,
                         40.722473
-                  ]
-            },
-            {
-                  "name": "Van Vorst Park",
-                  "text": "A historic urban park in Jersey City surrounded by Victorian architecture.",
-                  "category": "park",
-                  "coords": [
-                        -74.047158,
-                        40.718064
                   ]
             },
             {
@@ -109977,15 +106917,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alberca Ilusion Acuatica",
-                  "text": "Wasserpark in Laredo mit Pools, Wasserrutschen und Rutschen für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        -99.490026,
-                        27.490751
-                  ]
-            },
-            {
                   "name": "Star Fort, Fort McIntosh",
                   "text": "Sternfestung aus den 1850er Jahren in Laredo.",
                   "category": "fortress",
@@ -110046,15 +106977,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -99.52253,
                         27.523885
-                  ]
-            },
-            {
-                  "name": "Monumento a Fundadores",
-                  "text": "Denkmal für die Gründer von Laredo auf dem Hauptplatz der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        -99.507363,
-                        27.486288
                   ]
             },
             {
@@ -110204,15 +107126,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alberca Ilusion Acuatica",
-                  "text": "Vízipark Laredóban medencékkel, csúszdákkal és a család egészének szóló szórakozással.",
-                  "category": "family",
-                  "coords": [
-                        -99.490026,
-                        27.490751
-                  ]
-            },
-            {
                   "name": "Star Fort, Fort McIntosh",
                   "text": "Csillagerőd az 1850-es évekből Laredóban.",
                   "category": "fortress",
@@ -110273,15 +107186,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -99.52253,
                         27.523885
-                  ]
-            },
-            {
-                  "name": "Monumento a Fundadores",
-                  "text": "Laredo alapítóinak emlékműve a város főterén.",
-                  "category": "historical",
-                  "coords": [
-                        -99.507363,
-                        27.486288
                   ]
             },
             {
@@ -110431,15 +107335,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alberca Ilusion Acuatica",
-                  "text": "Parac acvatic în Laredo cu bazine, tobogane și distracții pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        -99.490026,
-                        27.490751
-                  ]
-            },
-            {
                   "name": "Star Fort, Fort McIntosh",
                   "text": "Fortăreață în formă de stea construită în anii 1850 în Laredo.",
                   "category": "fortress",
@@ -110500,15 +107395,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -99.52253,
                         27.523885
-                  ]
-            },
-            {
-                  "name": "Monumento a Fundadores",
-                  "text": "Monumentul fondatorilor orașului Laredo în piața principală a orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -99.507363,
-                        27.486288
                   ]
             },
             {
@@ -110658,15 +107544,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alberca Ilusion Acuatica",
-                  "text": "Water park in Laredo with pools, water slides, and fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        -99.490026,
-                        27.490751
-                  ]
-            },
-            {
                   "name": "Star Fort, Fort McIntosh",
                   "text": "Star fort built in the 1850s in Laredo.",
                   "category": "fortress",
@@ -110727,15 +107604,6 @@ export const poiExtraUsaCitiesV2: POI[] = [
                   "coords": [
                         -99.52253,
                         27.523885
-                  ]
-            },
-            {
-                  "name": "Monumento a Fundadores",
-                  "text": "Monument to the founders of Laredo on the city's main square.",
-                  "category": "historical",
-                  "coords": [
-                        -99.507363,
-                        27.486288
                   ]
             },
             {

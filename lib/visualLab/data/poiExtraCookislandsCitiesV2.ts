@@ -474,15 +474,6 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Takitumu Conservation Area",
-                  "text": "Ein Schutzgebiet, das die seltene Rarotonga-Dickkopfvogelart beherbergt.",
-                  "category": "natural",
-                  "coords": [
-                        -159.766725,
-                        -21.252312
-                  ]
-            },
-            {
                   "name": "Oroenga",
                   "text": "Korallenriff-Durchfahrt in der Lagune von Rarotonga, nahe Ngatangiia, beliebt zum Schnorcheln.",
                   "category": "natural",
@@ -516,15 +507,6 @@ export const cookislandsCitiesV2: POI[] = [
                   "coords": [
                         -159.737452,
                         -21.250602
-                  ]
-            },
-            {
-                  "name": "Toroume",
-                  "text": "Ein natürlicher Aussichtspunkt über der Muri-Lagune im Bezirk Ngatangiia auf Rarotonga.",
-                  "category": "natural",
-                  "coords": [
-                        -159.751592,
-                        -21.25955
                   ]
             },
             {
@@ -602,15 +584,6 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Takitumu Conservation Area",
-                  "text": "Egy védett terület, amely otthont ad a ritka rarotongai légykapóféléknek.",
-                  "category": "natural",
-                  "coords": [
-                        -159.766725,
-                        -21.252312
-                  ]
-            },
-            {
                   "name": "Oroenga",
                   "text": "Korallzátony-átjáró a Rarotonga lagúnában, Ngatangiia közelében, népszerű búvárhely.",
                   "category": "natural",
@@ -644,15 +617,6 @@ export const cookislandsCitiesV2: POI[] = [
                   "coords": [
                         -159.737452,
                         -21.250602
-                  ]
-            },
-            {
-                  "name": "Toroume",
-                  "text": "Egy természeti látványosság, amely a Muri-lagúnára nyújt kilátást Ngatangiia körzetében, Rarotongán.",
-                  "category": "natural",
-                  "coords": [
-                        -159.751592,
-                        -21.25955
                   ]
             },
             {
@@ -730,15 +694,6 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Takitumu Conservation Area",
-                  "text": "O arie protejată care adăpostește specia rară de pasăre Rarotonga flycatcher.",
-                  "category": "natural",
-                  "coords": [
-                        -159.766725,
-                        -21.252312
-                  ]
-            },
-            {
                   "name": "Oroenga",
                   "text": "Pasaj de recif de corali în laguna din Rarotonga, lângă Ngatangiia, popular pentru snorkeling.",
                   "category": "natural",
@@ -772,15 +727,6 @@ export const cookislandsCitiesV2: POI[] = [
                   "coords": [
                         -159.737452,
                         -21.250602
-                  ]
-            },
-            {
-                  "name": "Toroume",
-                  "text": "Un punct natural cu vedere asupra lagunei Muri în districtul Ngatangiia din Rarotonga.",
-                  "category": "natural",
-                  "coords": [
-                        -159.751592,
-                        -21.25955
                   ]
             },
             {
@@ -858,15 +804,6 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Takitumu Conservation Area",
-                  "text": "A protected area that is home to the rare Rarotonga flycatcher.",
-                  "category": "natural",
-                  "coords": [
-                        -159.766725,
-                        -21.252312
-                  ]
-            },
-            {
                   "name": "Oroenga",
                   "text": "Oroenga: a coral reef passage in Rarotonga's lagoon, near Ngatangiia, popular for snorkeling.",
                   "category": "natural",
@@ -900,15 +837,6 @@ export const cookislandsCitiesV2: POI[] = [
                   "coords": [
                         -159.737452,
                         -21.250602
-                  ]
-            },
-            {
-                  "name": "Toroume",
-                  "text": "A natural spot overlooking Muri Lagoon in the Ngatangiia district of Rarotonga.",
-                  "category": "natural",
-                  "coords": [
-                        -159.751592,
-                        -21.25955
                   ]
             },
             {
@@ -1014,15 +942,6 @@ export const cookislandsCitiesV2: POI[] = [
     id: "cookislands-titikaveka-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Te Ara Museum",
-                  "text": "Ein Museum in Titikaveka, das sich auf die maritime Geschichte der Cookinseln konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        -159.733925,
-                        -21.259218
-                  ]
-            },
-            {
                   "name": "Takitumu Conservation Area",
                   "text": "Ein Küstenabschnitt des Takitumu-Schutzgebiets mit Blick auf die Lagune.",
                   "category": "natural",
@@ -1032,39 +951,12 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arore",
-                  "text": "Ein natürlicher Punkt in der Nähe des Titikaveka-Strandes auf Rarotonga.",
-                  "category": "natural",
-                  "coords": [
-                        -159.737452,
-                        -21.250602
-                  ]
-            },
-            {
                   "name": "Toroume",
                   "text": "Ein natürlicher Punkt in der Nähe des Titikaveka-Strandes auf Rarotonga.",
                   "category": "natural",
                   "coords": [
                         -159.751592,
                         -21.25955
-                  ]
-            },
-            {
-                  "name": "Muri Lagoon",
-                  "text": "Eine türkisfarbene Lagune mit Sandbänken und Korallenriffen vor Titikaveka.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.727368,
-                        -21.256001
-                  ]
-            },
-            {
-                  "name": "Muri Beach",
-                  "text": "Auch von der Seite Titikavekas aus zeigt sich Muri Beach von seiner schönsten Seite und zieht viele Küstenliebhaber an. Besucher erfreuen sich an dem kristallklaren Wasser und der tropischen Stimmung, die hier herrscht. Um die magische Atmosphäre ungestört zu erleben, bietet sich ein ruhiger Spaziergang in den Abendstunden an.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.732518,
-                        -21.260913
                   ]
             },
             {
@@ -1086,15 +978,6 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Captain Tamas Lagoon Cruizes",
-                  "text": "Kreuzfahrten auf der Muri-Lagune mit dem Glasbodenboot.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.731153,
-                        -21.257141
-                  ]
-            },
-            {
                   "name": "Maire Nui Gardens",
                   "text": "Ein botanischer Garten mit tropischen Blumen und einem traditionellen Versammlungshaus.",
                   "category": "landmark",
@@ -1106,15 +989,6 @@ export const cookislandsCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Te Ara Museum",
-                  "text": "Egy múzeum Titikavekában, amely a Cook-szigetek tengerészeti történelmére összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        -159.733925,
-                        -21.259218
-                  ]
-            },
-            {
                   "name": "Takitumu Conservation Area",
                   "text": "A Takitumu Védett Terület tengerparti szakasza, ahonnan kilátás nyílik a lagúnára.",
                   "category": "natural",
@@ -1124,39 +998,12 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arore",
-                  "text": "Egy természeti helyszín a Titikaveka strand közelében Rarotongán.",
-                  "category": "natural",
-                  "coords": [
-                        -159.737452,
-                        -21.250602
-                  ]
-            },
-            {
                   "name": "Toroume",
                   "text": "Egy természeti helyszín a Titikaveka strand közelében Rarotongán.",
                   "category": "natural",
                   "coords": [
                         -159.751592,
                         -21.25955
-                  ]
-            },
-            {
-                  "name": "Muri Lagoon",
-                  "text": "Türkizkék lagúna homokzátonyokkal és korallzátonyokkal Titikaveka partjainál.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.727368,
-                        -21.256001
-                  ]
-            },
-            {
-                  "name": "Muri Beach",
-                  "text": "A Muri Beach Titikaveka felől is a legszebb arcát mutatja, és számos partkedvelőt vonz magához. A látogatók örömüket lelik a kristálytiszta vízben és az itt uralkodó trópusi hangulatban. Ahhoz, hogy zavartalanul átéljük a varázslatos légkört, ideális egy csendes séta az esti órákban.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.732518,
-                        -21.260913
                   ]
             },
             {
@@ -1178,15 +1025,6 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Captain Tamas Lagoon Cruizes",
-                  "text": "Üvegfenekű hajóval tett körutazások a Muri-lagúnán.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.731153,
-                        -21.257141
-                  ]
-            },
-            {
                   "name": "Maire Nui Gardens",
                   "text": "Egy botanikus kert trópusi virágokkal és egy hagyományos gyülekezőházzal.",
                   "category": "landmark",
@@ -1198,15 +1036,6 @@ export const cookislandsCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Te Ara Museum",
-                  "text": "Un muzeu în Titikaveka, concentrat pe istoria maritimă a Insulelor Cook.",
-                  "category": "museum",
-                  "coords": [
-                        -159.733925,
-                        -21.259218
-                  ]
-            },
-            {
                   "name": "Takitumu Conservation Area",
                   "text": "Un sector de coastă al Ariei Protejate Takitumu, cu vedere spre lagună.",
                   "category": "natural",
@@ -1216,39 +1045,12 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arore",
-                  "text": "Un punct natural lângă plaja Titikaveka din Rarotonga.",
-                  "category": "natural",
-                  "coords": [
-                        -159.737452,
-                        -21.250602
-                  ]
-            },
-            {
                   "name": "Toroume",
                   "text": "Un punct natural lângă plaja Titikaveka din Rarotonga.",
                   "category": "natural",
                   "coords": [
                         -159.751592,
                         -21.25955
-                  ]
-            },
-            {
-                  "name": "Muri Lagoon",
-                  "text": "O lagună turcoaz cu bancuri de nisip și recife de corali în largul Titikaveka.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.727368,
-                        -21.256001
-                  ]
-            },
-            {
-                  "name": "Muri Beach",
-                  "text": "Chiar și de pe partea Titikaveka, Muri Beach se arată în cea mai frumoasă lumină, atrăgând mulți iubitori ai coastei. Vizitatorii se bucură de apa cristalină și de atmosfera tropicală care domnește aici. Pentru a experimenta atmosfera magică netulburat, o plimbare liniștită în orele serii este ideală.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.732518,
-                        -21.260913
                   ]
             },
             {
@@ -1270,15 +1072,6 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Captain Tamas Lagoon Cruizes",
-                  "text": "Croaziere pe laguna Muri cu barca cu fund de sticlă.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.731153,
-                        -21.257141
-                  ]
-            },
-            {
                   "name": "Maire Nui Gardens",
                   "text": "O grădină botanică cu flori tropicale și o casă tradițională de adunare.",
                   "category": "landmark",
@@ -1290,15 +1083,6 @@ export const cookislandsCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Te Ara Museum",
-                  "text": "A museum in Titikaveka focusing on the maritime history of the Cook Islands.",
-                  "category": "museum",
-                  "coords": [
-                        -159.733925,
-                        -21.259218
-                  ]
-            },
-            {
                   "name": "Takitumu Conservation Area",
                   "text": "A coastal section of the Takitumu Conservation Area overlooking the lagoon.",
                   "category": "natural",
@@ -1308,39 +1092,12 @@ export const cookislandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arore",
-                  "text": "A natural spot near Titikaveka Beach on Rarotonga.",
-                  "category": "natural",
-                  "coords": [
-                        -159.737452,
-                        -21.250602
-                  ]
-            },
-            {
                   "name": "Toroume",
                   "text": "A natural spot near Titikaveka Beach on Rarotonga.",
                   "category": "natural",
                   "coords": [
                         -159.751592,
                         -21.25955
-                  ]
-            },
-            {
-                  "name": "Muri Lagoon",
-                  "text": "A turquoise lagoon with sandbars and coral reefs off Titikaveka.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.727368,
-                        -21.256001
-                  ]
-            },
-            {
-                  "name": "Muri Beach",
-                  "text": "Seen from the Titikaveka side, Muri Beach also reveals its most beautiful aspect, drawing many coastal lovers. Visitors delight in the crystal-clear water and the tropical mood that prevails here. To experience the magical atmosphere undisturbed, a quiet walk during the evening hours is highly recommended.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.732518,
-                        -21.260913
                   ]
             },
             {
@@ -1359,15 +1116,6 @@ export const cookislandsCitiesV2: POI[] = [
                   "coords": [
                         -159.743576,
                         -21.270719
-                  ]
-            },
-            {
-                  "name": "Captain Tamas Lagoon Cruizes",
-                  "text": "Cruises on Muri Lagoon with a glass-bottom boat.",
-                  "category": "landmark",
-                  "coords": [
-                        -159.731153,
-                        -21.257141
                   ]
             },
             {

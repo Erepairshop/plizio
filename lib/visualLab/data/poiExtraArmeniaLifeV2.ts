@@ -1965,15 +1965,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ashot II the Iron",
-                  "text": "Ein Denkmal zu Ehren von Ashot II. Erkat, einem bedeutenden armenischen König aus dem 10. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        45.144103,
-                        40.873925
-                  ]
-            },
-            {
                   "name": "Բուդուրի Եղցի",
                   "text": "Die Ruinen einer mittelalterlichen armenischen Kapelle, die in einer abgelegenen Bergregion liegen.",
                   "category": "historical",
@@ -2061,15 +2052,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   "coords": [
                         45.058154,
                         40.823206
-                  ]
-            },
-            {
-                  "name": "Ijevan Local Lore museum",
-                  "text": "Dieses Museum zeigt archäologische Funde, ethnografische Objekte und lokales Kunsthandwerk aus Idschewan.",
-                  "category": "museum",
-                  "coords": [
-                        45.144448,
-                        40.876132
                   ]
             },
             {
@@ -2183,15 +2165,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ashot II the Iron",
-                  "text": "II. Asot „Vas” örmény királynak emelt emlékmű, aki a 10. században uralkodott.",
-                  "category": "historical",
-                  "coords": [
-                        45.144103,
-                        40.873925
-                  ]
-            },
-            {
                   "name": "Բուդուրի Եղցի",
                   "text": "Egy távoli hegyvidéken található középkori örmény templom vagy kápolna romjai.",
                   "category": "historical",
@@ -2279,15 +2252,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   "coords": [
                         45.058154,
                         40.823206
-                  ]
-            },
-            {
-                  "name": "Ijevan Local Lore museum",
-                  "text": "A múzeum régészeti leleteket, néprajzi tárgyakat és Idzseván környéki kézműves termékeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        45.144448,
-                        40.876132
                   ]
             },
             {
@@ -2401,15 +2365,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ashot II the Iron",
-                  "text": "Un monument dedicat lui Ashot al II-lea cel Fieros, un rege armean important din secolul al X-lea.",
-                  "category": "historical",
-                  "coords": [
-                        45.144103,
-                        40.873925
-                  ]
-            },
-            {
                   "name": "Բուդուրի Եղցի",
                   "text": "Ruinele unei biserici sau capele medievale armene, situate într-o zonă montană izolată.",
                   "category": "historical",
@@ -2497,15 +2452,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   "coords": [
                         45.058154,
                         40.823206
-                  ]
-            },
-            {
-                  "name": "Ijevan Local Lore museum",
-                  "text": "Muzeul expune descoperiri arheologice, obiecte etnografice și meșteșuguri locale din regiunea Ijevan.",
-                  "category": "museum",
-                  "coords": [
-                        45.144448,
-                        40.876132
                   ]
             },
             {
@@ -2619,15 +2565,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ashot II the Iron",
-                  "text": "A monument dedicated to Ashot II the Iron, a prominent Armenian King of the 10th century.",
-                  "category": "historical",
-                  "coords": [
-                        45.144103,
-                        40.873925
-                  ]
-            },
-            {
                   "name": "Բուդուրի Եղցի",
                   "text": "Ruins of a medieval Armenian church or chapel located in a remote mountain area.",
                   "category": "historical",
@@ -2718,15 +2655,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ijevan Local Lore museum",
-                  "text": "A museum displaying archaeological finds, ethnographic items, and local crafts from the Ijevan region.",
-                  "category": "museum",
-                  "coords": [
-                        45.144448,
-                        40.876132
-                  ]
-            },
-            {
                   "name": "Mantashaberd",
                   "text": "A medieval fortress located on a hilltop, once serving as a strategic defense point in Tavush.",
                   "category": "castle",
@@ -2751,15 +2679,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   "coords": [
                         45.070005,
                         40.819552
-                  ]
-            },
-            {
-                  "name": "Ijevan Museum of History and Regional Studies",
-                  "text": "This museum showcases a collection of regional ethnographic artifacts and historical finds from the Tavush province.",
-                  "category": "museum",
-                  "coords": [
-                        45.138759,
-                        40.868703
                   ]
             },
             {
@@ -3750,15 +3669,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "House Museum of Axel Bakunts",
-                  "text": "The former home of prominent Armenian writer Axel Bakunts, showcasing his life's work and personal belongings in a traditional 19th-century setting.",
-                  "category": "museum",
-                  "coords": [
-                        46.340797,
-                        39.511229
-                  ]
-            },
-            {
                   "name": "Vagharsh Vagharshyan Drama Theater",
                   "text": "A significant cultural hub in Goris named after the famous Armenian actor Vagharsh Vagharshyan.",
                   "category": "cultural",
@@ -3768,57 +3678,12 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sero Khandzradzyan Museum",
-                  "text": "A museum dedicated to writer Sero Khanzadyan, offering insights into his literary work in his hometown.",
-                  "category": "museum",
-                  "coords": [
-                        46.344135,
-                        39.516104
-                  ]
-            },
-            {
-                  "name": "St. Hripsime",
-                  "text": "A 17th-century Armenian church noted for its simple dark basalt stonework.",
-                  "category": "religious",
-                  "coords": [
-                        46.350755,
-                        39.505243
-                  ]
-            },
-            {
-                  "name": "Saint Gregory The Illuminator",
-                  "text": "The central Armenian Apostolic church of Goris, serving as a key spiritual landmark in the heart of the city.",
-                  "category": "religious",
-                  "coords": [
-                        46.345737,
-                        39.5052
-                  ]
-            },
-            {
                   "name": "Mets Qaraglukh",
                   "text": "A prominent peak near Goris offering sweeping views over the rugged Syunik highlands.",
                   "category": "natural",
                   "coords": [
                         46.345416,
                         39.574054
-                  ]
-            },
-            {
-                  "name": "Bells of Goris",
-                  "text": "A landmark monument designed by architect Sevada Zakaryan, symbolically representing the bells of the city.",
-                  "category": "historical",
-                  "coords": [
-                        46.362757,
-                        39.515778
-                  ]
-            },
-            {
-                  "name": "Saint Hripsime Church",
-                  "text": "A church dedicated to Saint Hripsime, built in the traditional Armenian cross-dome architectural style.",
-                  "category": "religious",
-                  "coords": [
-                        46.314679,
-                        39.533824
                   ]
             },
             {
@@ -5071,24 +4936,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Museum of Armenian Ethnography and History of the Liberation Struggle",
-                  "text": "An extensive museum complex showcasing Armenian folk culture and history within the Sardarapat Memorial.",
-                  "category": "museum",
-                  "coords": [
-                        43.955924,
-                        40.089912
-                  ]
-            },
-            {
-                  "name": "Red Club Cultural Center",
-                  "text": "A local cultural venue in Armavir used for theatrical performances and community arts events.",
-                  "category": "cultural",
-                  "coords": [
-                        44.039222,
-                        40.156179
-                  ]
-            },
-            {
                   "name": "Կուլտուրայի տուն",
                   "text": "A Soviet-era cultural hall that serves as a center for community gatherings and local performances.",
                   "category": "cultural",
@@ -6149,24 +5996,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Charles Aznavour",
-                  "text": "The monument to Charles Aznavour in Gyumri honors the legendary chansonnier in a central square named after him.",
-                  "category": "historical",
-                  "coords": [
-                        43.84815,
-                        40.806504
-                  ]
-            },
-            {
-                  "name": "Cobweb art gallery of Andranik Avetisyan",
-                  "text": "This gallery in Gyumri showcases the extraordinary artworks of Andranik Avetisyan, made entirely from spider webs.",
-                  "category": "museum",
-                  "coords": [
-                        43.837508,
-                        40.792815
-                  ]
-            },
-            {
                   "name": "Sheram II",
                   "text": "Sheram II encompasses the ruins of old structures in Gyumri, bearing witness to the urban development of the neighborhood.",
                   "category": "historical",
@@ -6586,15 +6415,6 @@ export const poiExtraArmeniaLifeV2: POI[] = [
                   "coords": [
                         45.182617,
                         40.374344
-                  ]
-            },
-            {
-                  "name": "Surb Astvatsatsin Church",
-                  "text": "A historic Mother of God church in the Gegharkunik region, built from the characteristic local tufa stone.",
-                  "category": "religious",
-                  "coords": [
-                        45.127347,
-                        40.352252
                   ]
             },
             {

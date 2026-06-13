@@ -400,24 +400,6 @@ export const austriaNatureV2: POI[] = [
                         13.549954,
                         47.514849
                   ]
-            },
-            {
-                  "name": "Däumling",
-                  "text": "Der Däumling ist eine daumenförmige Felsnadel am Gosausee.",
-                  "category": "landmark",
-                  "coords": [
-                        13.517999,
-                        47.502198
-                  ]
-            },
-            {
-                  "name": "Großwand",
-                  "text": "Die Großwand ist eine massive Felswand am Gosausee.",
-                  "category": "landmark",
-                  "coords": [
-                        13.513498,
-                        47.502942
-                  ]
             }
       ],
       "hu": [
@@ -473,24 +455,6 @@ export const austriaNatureV2: POI[] = [
                   "coords": [
                         13.549954,
                         47.514849
-                  ]
-            },
-            {
-                  "name": "Däumling",
-                  "text": "A Däumling egy hüvelykkujj alakú sziklatű a Gosau-tónál.",
-                  "category": "landmark",
-                  "coords": [
-                        13.517999,
-                        47.502198
-                  ]
-            },
-            {
-                  "name": "Großwand",
-                  "text": "A Großwand egy hatalmas sziklafal a Gosau-tónál.",
-                  "category": "landmark",
-                  "coords": [
-                        13.513498,
-                        47.502942
                   ]
             }
       ],
@@ -548,24 +512,6 @@ export const austriaNatureV2: POI[] = [
                         13.549954,
                         47.514849
                   ]
-            },
-            {
-                  "name": "Däumling",
-                  "text": "Däumling este un ac de piatră în formă de deget mare lângă Lacul Gosau.",
-                  "category": "landmark",
-                  "coords": [
-                        13.517999,
-                        47.502198
-                  ]
-            },
-            {
-                  "name": "Großwand",
-                  "text": "Großwand este un perete de stâncă masiv lângă Lacul Gosau.",
-                  "category": "landmark",
-                  "coords": [
-                        13.513498,
-                        47.502942
-                  ]
             }
       ],
       "en": [
@@ -621,24 +567,6 @@ export const austriaNatureV2: POI[] = [
                   "coords": [
                         13.549954,
                         47.514849
-                  ]
-            },
-            {
-                  "name": "Däumling",
-                  "text": "Däumling is a thumb-shaped rock needle by Lake Gosau.",
-                  "category": "landmark",
-                  "coords": [
-                        13.517999,
-                        47.502198
-                  ]
-            },
-            {
-                  "name": "Großwand",
-                  "text": "Großwand is a massive rock wall by Lake Gosau.",
-                  "category": "landmark",
-                  "coords": [
-                        13.513498,
-                        47.502942
                   ]
             }
       ]

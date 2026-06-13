@@ -9940,15 +9940,6 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thakur Lodge",
-                  "text": "Die Thakur Lodge, ein Museum in Kushtia.",
-                  "category": "museum",
-                  "coords": [
-                        89.146212,
-                        23.901613
-                  ]
-            },
-            {
                   "name": "Shahid Minar Kushtia",
                   "text": "Ein weißes Betondenkmal für die bengalischen Sprachmärtyrer im Zentrum von Kushtia.",
                   "category": "historical",
@@ -9966,15 +9957,6 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
                   "coords": [
                         89.122328,
                         23.911288
-                  ]
-            },
-            {
-                  "name": "Thakur Lodge",
-                  "text": "A Thakur Lodge, egy múzeum Kushtiában.",
-                  "category": "museum",
-                  "coords": [
-                        89.146212,
-                        23.901613
                   ]
             },
             {
@@ -9998,15 +9980,6 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thakur Lodge",
-                  "text": "Thakur Lodge, un muzeu în Kushtia.",
-                  "category": "museum",
-                  "coords": [
-                        89.146212,
-                        23.901613
-                  ]
-            },
-            {
                   "name": "Shahid Minar Kushtia",
                   "text": "Un monument din beton alb dedicat martirilor limbii bengaleze, în centrul orașului Kushtia.",
                   "category": "historical",
@@ -10024,15 +9997,6 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
                   "coords": [
                         89.122328,
                         23.911288
-                  ]
-            },
-            {
-                  "name": "Thakur Lodge",
-                  "text": "Thakur Lodge, a museum in Kushtia.",
-                  "category": "museum",
-                  "coords": [
-                        89.146212,
-                        23.901613
                   ]
             },
             {

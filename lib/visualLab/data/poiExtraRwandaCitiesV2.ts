@@ -277,57 +277,12 @@ export const poiExtraRwandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre Verdure",
-                  "text": "Das Théâtre Verdure ist ein Freilufttheater in Huye auf dem Universitätscampus.",
-                  "category": "cultural",
-                  "coords": [
-                        29.740818,
-                        -2.598104
-                  ]
-            },
-            {
-                  "name": "Campus Main Auditorium",
-                  "text": "Das Campus Main Auditorium ist das Hauptauditorium der Universität in Huye.",
-                  "category": "cultural",
-                  "coords": [
-                        29.741907,
-                        -2.617005
-                  ]
-            },
-            {
-                  "name": "Arboretum Office",
-                  "text": "Das Arboretum Office verwaltet das Arboretum auf dem Universitätsgelände in Huye.",
-                  "category": "landmark",
-                  "coords": [
-                        29.748243,
-                        -2.615015
-                  ]
-            },
-            {
-                  "name": "Seventh Day Adventist Church",
-                  "text": "Die Siebenten-Tags-Adventisten-Kirche ist ein Gotteshaus in Huye.",
-                  "category": "landmark",
-                  "coords": [
-                        29.738732,
-                        -2.613348
-                  ]
-            },
-            {
                   "name": "Eglise Ste. Therese",
                   "text": "Die Eglise Ste. Therese ist eine katholische Kirche in Huye.",
                   "category": "landmark",
                   "coords": [
                         29.74435,
                         -2.592266
-                  ]
-            },
-            {
-                  "name": "Our Lady of Wisdom Cathedral, Butare",
-                  "text": "Die Kathedrale Unserer Lieben Frau der Weisheit ist eine bedeutende katholische Kultstätte, die als Sitz der Diözese in Huye dient.",
-                  "category": "religious",
-                  "coords": [
-                        29.742832,
-                        -2.606926
                   ]
             }
       ],
@@ -342,57 +297,12 @@ export const poiExtraRwandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre Verdure",
-                  "text": "A Théâtre Verdure egy szabadtéri színház Huye-ban, az egyetemi campuson.",
-                  "category": "cultural",
-                  "coords": [
-                        29.740818,
-                        -2.598104
-                  ]
-            },
-            {
-                  "name": "Campus Main Auditorium",
-                  "text": "A Campus Main Auditorium a Huye-i egyetem fő előadóterme.",
-                  "category": "cultural",
-                  "coords": [
-                        29.741907,
-                        -2.617005
-                  ]
-            },
-            {
-                  "name": "Arboretum Office",
-                  "text": "Az Arboretum Office a Huye-i egyetem arborétumát kezeli.",
-                  "category": "landmark",
-                  "coords": [
-                        29.748243,
-                        -2.615015
-                  ]
-            },
-            {
-                  "name": "Seventh Day Adventist Church",
-                  "text": "A Hetednapi Adventista templom egy istentiszteleti hely Huye-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        29.738732,
-                        -2.613348
-                  ]
-            },
-            {
                   "name": "Eglise Ste. Therese",
                   "text": "Az Eglise Ste. Therese egy katolikus templom Huye-ban.",
                   "category": "landmark",
                   "coords": [
                         29.74435,
                         -2.592266
-                  ]
-            },
-            {
-                  "name": "Our Lady of Wisdom Cathedral, Butare",
-                  "text": "A Bölcsesség Miasszonyunk székesegyház egy kiemelkedő katolikus imahely, amely a huye-i egyházmegye székhelyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        29.742832,
-                        -2.606926
                   ]
             }
       ],
@@ -407,57 +317,12 @@ export const poiExtraRwandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre Verdure",
-                  "text": "Théâtre Verdure este un teatru în aer liber în Huye, pe campusul universitar.",
-                  "category": "cultural",
-                  "coords": [
-                        29.740818,
-                        -2.598104
-                  ]
-            },
-            {
-                  "name": "Campus Main Auditorium",
-                  "text": "Campus Main Auditorium este auditoriul principal al universității din Huye.",
-                  "category": "cultural",
-                  "coords": [
-                        29.741907,
-                        -2.617005
-                  ]
-            },
-            {
-                  "name": "Arboretum Office",
-                  "text": "Biroul Arboretum administrează arboretumul de pe terenul universității din Huye.",
-                  "category": "landmark",
-                  "coords": [
-                        29.748243,
-                        -2.615015
-                  ]
-            },
-            {
-                  "name": "Seventh Day Adventist Church",
-                  "text": "Biserica Adventistă de Ziua a Șaptea este un lăcaș de cult în Huye.",
-                  "category": "landmark",
-                  "coords": [
-                        29.738732,
-                        -2.613348
-                  ]
-            },
-            {
                   "name": "Eglise Ste. Therese",
                   "text": "Eglise Ste. Therese este o biserică catolică în Huye.",
                   "category": "landmark",
                   "coords": [
                         29.74435,
                         -2.592266
-                  ]
-            },
-            {
-                  "name": "Our Lady of Wisdom Cathedral, Butare",
-                  "text": "Catedrala Maica Domnului a Înțelepciunii este un lăcaș de cult catolic proeminent care servește ca sediu al eparhiei în Huye.",
-                  "category": "religious",
-                  "coords": [
-                        29.742832,
-                        -2.606926
                   ]
             }
       ],
@@ -472,57 +337,12 @@ export const poiExtraRwandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre Verdure",
-                  "text": "The Théâtre Verdure is an open-air theatre in Huye on the university campus.",
-                  "category": "cultural",
-                  "coords": [
-                        29.740818,
-                        -2.598104
-                  ]
-            },
-            {
-                  "name": "Campus Main Auditorium",
-                  "text": "The Campus Main Auditorium is the main lecture hall of the university in Huye.",
-                  "category": "cultural",
-                  "coords": [
-                        29.741907,
-                        -2.617005
-                  ]
-            },
-            {
-                  "name": "Arboretum Office",
-                  "text": "The Arboretum Office manages the arboretum on the university grounds in Huye.",
-                  "category": "landmark",
-                  "coords": [
-                        29.748243,
-                        -2.615015
-                  ]
-            },
-            {
-                  "name": "Seventh Day Adventist Church",
-                  "text": "The Seventh Day Adventist Church is a place of worship in Huye.",
-                  "category": "landmark",
-                  "coords": [
-                        29.738732,
-                        -2.613348
-                  ]
-            },
-            {
                   "name": "Eglise Ste. Therese",
                   "text": "Eglise Ste. Therese is a Catholic church in Huye.",
                   "category": "landmark",
                   "coords": [
                         29.74435,
                         -2.592266
-                  ]
-            },
-            {
-                  "name": "Our Lady of Wisdom Cathedral, Butare",
-                  "text": "Our Lady of Wisdom Cathedral is a prominent Catholic place of worship that serves as the seat of the diocese in Huye.",
-                  "category": "religious",
-                  "coords": [
-                        29.742832,
-                        -2.606926
                   ]
             }
       ]
@@ -563,50 +383,10 @@ export const poiExtraRwandaCitiesV2: POI[] = [
   },
   {
     id: "rwanda-muhanga-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cathedral Basilica of Our Lady",
-                  "text": "Diese markante katholische Basilika in Muhanga dient als bedeutendes regionales religiöses Zentrum.",
-                  "category": "religious",
-                  "coords": [
-                        29.751876,
-                        -2.100255
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cathedral Basilica of Our Lady",
-                  "text": "Ez a kiemelkedő muhangai katolikus bazilika jelentős regionális vallási központként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        29.751876,
-                        -2.100255
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cathedral Basilica of Our Lady",
-                  "text": "Această importantă basilică catolică din Muhanga servește drept un centru religios regional major.",
-                  "category": "religious",
-                  "coords": [
-                        29.751876,
-                        -2.100255
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cathedral Basilica of Our Lady",
-                  "text": "This prominent Catholic basilica in Muhanga serves as a major regional religious center.",
-                  "category": "religious",
-                  "coords": [
-                        29.751876,
-                        -2.100255
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "RW-02",
@@ -835,24 +615,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     id: "rwanda-nyanza-cities-v2", "sights": {
       "de": [
             {
-                  "name": "King's Palace Museum",
-                  "text": "Das King's Palace Museum in Nyanza zeigt die traditionelle Königsresidenz Ruandas.",
-                  "category": "museum",
-                  "coords": [
-                        29.739358,
-                        -2.360221
-                  ]
-            },
-            {
-                  "name": "Museum of Rwesero (former National Art Gallery)",
-                  "text": "Das Kwigira Museum in Nyanza bewahrt historische Artefakte der Region.",
-                  "category": "museum",
-                  "coords": [
-                        29.741115,
-                        -2.36908
-                  ]
-            },
-            {
                   "name": "Mwina - Mausoleum",
                   "text": "Das Mwina-Mausoleum in Nyanza ist die letzte Ruhestätte eines ruandischen Königs.",
                   "category": "landmark",
@@ -863,24 +625,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "King's Palace Museum",
-                  "text": "A King's Palace Museum Nyanzában a ruandai királyi rezidenciát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        29.739358,
-                        -2.360221
-                  ]
-            },
-            {
-                  "name": "Museum of Rwesero (former National Art Gallery)",
-                  "text": "A Kwigira Múzeum Nyanzában a régió történelmi tárgyait őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        29.741115,
-                        -2.36908
-                  ]
-            },
             {
                   "name": "Mwina - Mausoleum",
                   "text": "A Mwina Mauzóleum Nyanzában egy ruandai király végső nyughelye.",
@@ -893,24 +637,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "King's Palace Museum",
-                  "text": "Muzeul Palatului Regal din Nyanza prezintă reședința tradițională a regilor Rwandei.",
-                  "category": "museum",
-                  "coords": [
-                        29.739358,
-                        -2.360221
-                  ]
-            },
-            {
-                  "name": "Museum of Rwesero (former National Art Gallery)",
-                  "text": "Muzeul Kwigira din Nyanza conservă artefacte istorice ale regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        29.741115,
-                        -2.36908
-                  ]
-            },
-            {
                   "name": "Mwina - Mausoleum",
                   "text": "Mausoleul Mwina din Nyanza este locul de odihnă al unui rege rwandez.",
                   "category": "landmark",
@@ -921,24 +647,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "King's Palace Museum",
-                  "text": "The King's Palace Museum in Nyanza exhibits the traditional royal residence of Rwanda.",
-                  "category": "museum",
-                  "coords": [
-                        29.739358,
-                        -2.360221
-                  ]
-            },
-            {
-                  "name": "Kwigira Museum",
-                  "text": "The Kwigira Museum in Nyanza preserves historical artifacts of the region.",
-                  "category": "museum",
-                  "coords": [
-                        29.741115,
-                        -2.36908
-                  ]
-            },
             {
                   "name": "Mwina - Mausoleum",
                   "text": "The Mwina Mausoleum in Nyanza is the burial site of a Rwandan king.",
@@ -1760,50 +1468,10 @@ export const poiExtraRwandaCitiesV2: POI[] = [
   },
   {
     id: "rwanda-kicukiro-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gikondo Expo Ground",
-                  "text": "Das Gikondo Expo Ground ist ein Ausstellungsgelände im Distrikt Kicukiro von Kigali.",
-                  "category": "landmark",
-                  "coords": [
-                        30.086844,
-                        -1.976867
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gikondo Expo Ground",
-                  "text": "A Gikondo Expo Ground egy kiállítási terület Kicukiro kerületben, Kigaliban.",
-                  "category": "landmark",
-                  "coords": [
-                        30.086844,
-                        -1.976867
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gikondo Expo Ground",
-                  "text": "Gikondo Expo Ground este un teren de expoziții în sectorul Kicukiro din Kigali.",
-                  "category": "landmark",
-                  "coords": [
-                        30.086844,
-                        -1.976867
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gikondo Expo Ground",
-                  "text": "The Gikondo Expo Ground is an exhibition ground in Kicukiro District, Kigali.",
-                  "category": "landmark",
-                  "coords": [
-                        30.086844,
-                        -1.976867
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "RW-01",
@@ -2392,15 +2060,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
     id: "rwanda-kinigi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
-                  "text": "Der Ellen DeGeneres Campus in Kinigi beherbergt das Dian-Fossey-Gorillafonds-Forschungszentrum nahe den Volcanoes-Nationalpark.",
-                  "category": "museum",
-                  "coords": [
-                        29.563645,
-                        -1.43081
-                  ]
-            },
-            {
                   "name": "Art objects",
                   "text": "Eine Sammlung von Kunstobjekten im Freien in Kinigi in der Nähe der Gorilla-Forschungsstation.",
                   "category": "landmark",
@@ -2411,15 +2070,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
-                  "text": "Az Ellen DeGeneres Campus Kinigiben ad otthont a Dian Fossey Gorilla Alapítvány kutatóközpontjának a Vulkánok Nemzeti Park közelében.",
-                  "category": "museum",
-                  "coords": [
-                        29.563645,
-                        -1.43081
-                  ]
-            },
             {
                   "name": "Art objects",
                   "text": "Szabadtéri műtárgyak gyűjteménye Kinigiben, a gorilla kutatóállomás közelében.",
@@ -2432,15 +2082,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
-                  "text": "Campusul Ellen DeGeneres din Kinigi găzduiește centrul de cercetare al Fondului pentru Gorile Dian Fossey, lângă Parcul Național Volcanoes.",
-                  "category": "museum",
-                  "coords": [
-                        29.563645,
-                        -1.43081
-                  ]
-            },
-            {
                   "name": "Art objects",
                   "text": "O colecție de obiecte de artă în aer liber în Kinigi, lângă stația de cercetare a gorilelor.",
                   "category": "landmark",
@@ -2451,15 +2092,6 @@ export const poiExtraRwandaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
-                  "text": "The Ellen DeGeneres Campus in Kinigi houses the Dian Fossey Gorilla Fund research center near Volcanoes National Park.",
-                  "category": "museum",
-                  "coords": [
-                        29.563645,
-                        -1.43081
-                  ]
-            },
             {
                   "name": "Art objects",
                   "text": "An outdoor collection of art objects in Kinigi near the gorilla research station.",

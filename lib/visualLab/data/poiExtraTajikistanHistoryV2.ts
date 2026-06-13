@@ -282,15 +282,6 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Oigul Mukhammadchonova",
-                  "text": "Oigul Muhammadjonova ist eine lokale Sehenswürdigkeit im antiken Pandschakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.601032,
-                        39.484476
-                  ]
-            },
-            {
                   "name": "Tsitadel'",
                   "text": "Die Zitadelle ist eine befestigte historische Attraktion im antiken Pandschakent.",
                   "category": "landmark",
@@ -309,57 +300,12 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sogdian Rock",
-                  "text": "Der sogdische Felsen ist ein bekannter Aussichtspunkt im historischen Pandschakent.",
-                  "category": "natural",
-                  "coords": [
-                        67.604682,
-                        39.500442
-                  ]
-            },
-            {
-                  "name": "Loik Sherali",
-                  "text": "Die Attraktion Loik Sherali ist dem Gedenken im antiken Pandschakent gewidmet.",
-                  "category": "landmark",
-                  "coords": [
-                        67.604798,
-                        39.495062
-                  ]
-            },
-            {
-                  "name": "Devastich monument",
-                  "text": "Das Devastich-Denkmal ist eine markante Sehenswürdigkeit im antiken Pandschakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.589078,
-                        39.492369
-                  ]
-            },
-            {
                   "name": "Drevnik Pendzhikent",
                   "text": "Das antike Pandschakent ist eine faszinierende archäologische und historische Attraktion.",
                   "category": "landmark",
                   "coords": [
                         67.617969,
                         39.485766
-                  ]
-            },
-            {
-                  "name": "Abu-Abdullah-Rudaki-Museum",
-                  "text": "Das Rudaki History Museum stellt Exponate zur Geschichte des antiken Pandschakent aus.",
-                  "category": "museum",
-                  "coords": [
-                        67.596291,
-                        39.495175
-                  ]
-            },
-            {
-                  "name": "Parki Rudaki",
-                  "text": "Parki Rudaki ist ein Themenpark zur Erholung im antiken Pandschakent.",
-                  "category": "recreational",
-                  "coords": [
-                        67.61089,
-                        39.496269
                   ]
             },
             {
@@ -410,15 +356,6 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Oigul Mukhammadchonova",
-                  "text": "Oigul Muhammadjonova egy helyi látványosság az ősi Pandzsakentben.",
-                  "category": "landmark",
-                  "coords": [
-                        67.601032,
-                        39.484476
-                  ]
-            },
-            {
                   "name": "Tsitadel'",
                   "text": "A Fellegvár egy megerősített történelmi látványosság az ősi Pandzsakentben.",
                   "category": "landmark",
@@ -437,57 +374,12 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sogdian Rock",
-                  "text": "A szogd szikla egy ismert kilátópont a történelmi Pandzsakentben.",
-                  "category": "natural",
-                  "coords": [
-                        67.604682,
-                        39.500442
-                  ]
-            },
-            {
-                  "name": "Loik Sherali",
-                  "text": "A Loik Sherali látványosság a megemlékezésnek van szentelve az ősi Pandzsakentben.",
-                  "category": "landmark",
-                  "coords": [
-                        67.604798,
-                        39.495062
-                  ]
-            },
-            {
-                  "name": "Devastich monument",
-                  "text": "A Devasztics-emlékmű egy feltűnő látványosság az ősi Pandzsakentben.",
-                  "category": "landmark",
-                  "coords": [
-                        67.589078,
-                        39.492369
-                  ]
-            },
-            {
                   "name": "Drevnik Pendzhikent",
                   "text": "Az ősi Pandzsakent egy lenyűgöző régészeti és történelmi látványosság.",
                   "category": "landmark",
                   "coords": [
                         67.617969,
                         39.485766
-                  ]
-            },
-            {
-                  "name": "Muzei im. A. Rudaki",
-                  "text": "A Rudaki Történelmi Múzeum kiállításokat mutat be az ősi Pandzsakent történelméről.",
-                  "category": "museum",
-                  "coords": [
-                        67.596291,
-                        39.495175
-                  ]
-            },
-            {
-                  "name": "Parki Rudaki",
-                  "text": "A Parki Rudaki egy tematikus park a pihenésre az ősi Pandzsakentben.",
-                  "category": "recreational",
-                  "coords": [
-                        67.61089,
-                        39.496269
                   ]
             },
             {
@@ -538,15 +430,6 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Oigul Mukhammadchonova",
-                  "text": "Oigul Muhammadjonova este o atracție locală în anticul Panjakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.601032,
-                        39.484476
-                  ]
-            },
-            {
                   "name": "Tsitadel'",
                   "text": "Cetatea este o atracție istorică fortificată în anticul Panjakent.",
                   "category": "landmark",
@@ -565,57 +448,12 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sogdian Rock",
-                  "text": "Stânca sogdiană este un punct de belvedere cunoscut în anticul Panjakent.",
-                  "category": "natural",
-                  "coords": [
-                        67.604682,
-                        39.500442
-                  ]
-            },
-            {
-                  "name": "Loik Sherali",
-                  "text": "Atracția Loik Sherali este dedicată memoriei în anticul Panjakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.604798,
-                        39.495062
-                  ]
-            },
-            {
-                  "name": "Devastich monument",
-                  "text": "Monumentul Devastich este o atracție proeminentă în anticul Panjakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.589078,
-                        39.492369
-                  ]
-            },
-            {
                   "name": "Drevnik Pendzhikent",
                   "text": "Anticul Panjakent este o atracție arheologică și istorică fascinantă.",
                   "category": "landmark",
                   "coords": [
                         67.617969,
                         39.485766
-                  ]
-            },
-            {
-                  "name": "Muzei im. A. Rudaki",
-                  "text": "Muzeul de Istorie Rudaki prezintă exponate despre istoria anticului Panjakent.",
-                  "category": "museum",
-                  "coords": [
-                        67.596291,
-                        39.495175
-                  ]
-            },
-            {
-                  "name": "Parki Rudaki",
-                  "text": "Parki Rudaki este un parc tematic pentru recreere în anticul Panjakent.",
-                  "category": "recreational",
-                  "coords": [
-                        67.61089,
-                        39.496269
                   ]
             },
             {
@@ -666,15 +504,6 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Oigul Muhammadjonova",
-                  "text": "Oigul Muhammadjonova is a local attraction within Ancient Panjakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.601032,
-                        39.484476
-                  ]
-            },
-            {
                   "name": "Citadel",
                   "text": "The Citadel is a fortified historical attraction in Ancient Panjakent.",
                   "category": "landmark",
@@ -693,57 +522,12 @@ export const poiExtraTajikistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sogdian Rock",
-                  "text": "Sogdian Rock is a well-known viewpoint in Ancient Panjakent.",
-                  "category": "natural",
-                  "coords": [
-                        67.604682,
-                        39.500442
-                  ]
-            },
-            {
-                  "name": "Loik Sherali",
-                  "text": "The Loik Sherali attraction is dedicated to memory within Ancient Panjakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.604798,
-                        39.495062
-                  ]
-            },
-            {
-                  "name": "Devastich monument",
-                  "text": "The Devastich monument is a prominent attraction in Ancient Panjakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.589078,
-                        39.492369
-                  ]
-            },
-            {
                   "name": "Ancient Panjakent",
                   "text": "Ancient Panjakent is a fascinating archaeological and historical attraction.",
                   "category": "landmark",
                   "coords": [
                         67.617969,
                         39.485766
-                  ]
-            },
-            {
-                  "name": "Rudaki History Museum",
-                  "text": "The Rudaki History Museum features exhibits on the history of Ancient Panjakent.",
-                  "category": "museum",
-                  "coords": [
-                        67.596291,
-                        39.495175
-                  ]
-            },
-            {
-                  "name": "Parki Rudaki",
-                  "text": "Parki Rudaki is a theme park for recreation in Ancient Panjakent.",
-                  "category": "recreational",
-                  "coords": [
-                        67.61089,
-                        39.496269
                   ]
             },
             {

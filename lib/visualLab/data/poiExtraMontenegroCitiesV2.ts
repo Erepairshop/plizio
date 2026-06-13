@@ -121,15 +121,6 @@ export const montenegroCitiesV2: POI[] = [
                         19.339815,
                         42.411387
                   ]
-            },
-            {
-                  "name": "Šipčanička gora",
-                  "text": "Der Berggipfel Šipčanička gora erhebt sich imposant in der Nähe von Tuzi in Montenegro. Dieses natürliche Wahrzeichen bietet Wanderern und Naturliebhabern eine wunderbare Gelegenheit, die Landschaft von oben zu betrachten. Die weite Aussicht von der Spitze belohnt jeden Aufstieg in dieser malerischen Region.",
-                  "category": "natural",
-                  "coords": [
-                        19.318599,
-                        42.373329
-                  ]
             }
       ],
       "hu": [
@@ -158,15 +149,6 @@ export const montenegroCitiesV2: POI[] = [
                   "coords": [
                         19.339815,
                         42.411387
-                  ]
-            },
-            {
-                  "name": "Šipčanička gora",
-                  "text": "A Šipčanička gora hegycsúcs impozánsan emelkedik a montenegrói Tuzi közelében. Ez a természeti nevezetesség csodálatos lehetőséget kínál a túrázóknak és a természetkedvelőknek, hogy fentről csodálják meg a tájat. A csúcsról nyíló széles kilátás mindenkit kárpótol a festői régióban tett mászásért.",
-                  "category": "natural",
-                  "coords": [
-                        19.318599,
-                        42.373329
                   ]
             }
       ],
@@ -197,15 +179,6 @@ export const montenegroCitiesV2: POI[] = [
                         19.339815,
                         42.411387
                   ]
-            },
-            {
-                  "name": "Šipčanička gora",
-                  "text": "Vârful de munte Šipčanička gora se înalță impunător lângă Tuzi în Muntenegru. Acest reper natural oferă drumeților și iubitorilor de natură o oportunitate minunată de a privi peisajul de sus. Priveliștea vastă de la vârf recompensează fiecare urcare în această regiune pitorească.",
-                  "category": "natural",
-                  "coords": [
-                        19.318599,
-                        42.373329
-                  ]
             }
       ],
       "en": [
@@ -234,15 +207,6 @@ export const montenegroCitiesV2: POI[] = [
                   "coords": [
                         19.339815,
                         42.411387
-                  ]
-            },
-            {
-                  "name": "Šipčanička gora",
-                  "text": "The mountain peak of Šipčanička gora rises imposingly near Tuzi in Montenegro. This natural landmark offers hikers and nature lovers a wonderful opportunity to view the landscape from above. The sweeping views from the top reward every ascent in this picturesque region.",
-                  "category": "natural",
-                  "coords": [
-                        19.318599,
-                        42.373329
                   ]
             }
       ]

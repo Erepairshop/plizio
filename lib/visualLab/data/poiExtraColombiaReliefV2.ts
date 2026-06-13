@@ -2704,15 +2704,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Banderas Plazoleta Sol de Irika",
-                  "text": "Dieses Denkmal steht auf dem Platz Sol de Irika und ist mit markanten Flaggen geschmückt, die das Erbe der Sonnenverehrung der Muisca-Kultur feiern.",
-                  "category": "historical",
-                  "coords": [
-                        -72.930831,
-                        5.716051
-                  ]
-            },
-            {
                   "name": "Cueva Pozo del Romero",
                   "text": "Die Cueva Pozo del Romero ist eine alte Höhlenstätte mit einem natürlichen Brunnen, der historisch von der indigenen Bevölkerung genutzt wurde.",
                   "category": "historical",
@@ -2728,15 +2719,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -72.955725,
                         5.658425
-                  ]
-            },
-            {
-                  "name": "Monumento a la Raza",
-                  "text": "Das Monumento a la Raza ist eine beeindruckende skulpturale Hommage vor der Kulisse der Paramo-Landschaft, die die ethnischen Wurzeln und die Widerstandsfähigkeit der lokalen indigenen Vorfahren ehrt.",
-                  "category": "historical",
-                  "coords": [
-                        -72.927526,
-                        5.714644
                   ]
             },
             {
@@ -2791,15 +2773,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -72.933561,
                         5.721018
-                  ]
-            },
-            {
-                  "name": "Pilita de la Unión",
-                  "text": "Die Pilita de la Unión ist ein historischer öffentlicher Brunnen, der einst als primäre Wasserquelle und sozialer Treffpunkt für die frühen Bewohner der Stadt diente.",
-                  "category": "landmark",
-                  "coords": [
-                        -72.926836,
-                        5.711401
                   ]
             },
             {
@@ -2881,15 +2854,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -73.018959,
                         5.726317
-                  ]
-            },
-            {
-                  "name": "Reserva Natural Montecito",
-                  "text": "Das Reserva Natural Montecito ist ein raues Naturschutzgebiet, das sich der Erhaltung der einheimischen Bergwälder und der Vogelwelt der kolumbianischen Anden widmet.",
-                  "category": "natural",
-                  "coords": [
-                        -72.927977,
-                        5.698229
                   ]
             }
       ],
@@ -3012,15 +2976,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Banderas Plazoleta Sol de Irika",
-                  "text": "Ez az emlékmű a Sol de Irika téren áll, és olyan kiemelkedő zászlókkal rendelkezik, amelyek a régió muisca napimádó örökségét ünneplik.",
-                  "category": "historical",
-                  "coords": [
-                        -72.930831,
-                        5.716051
-                  ]
-            },
-            {
                   "name": "Cueva Pozo del Romero",
                   "text": "A Cueva Pozo del Romero egy ősi barlangi lelőhely, amely egy természetes kutat rejt, amelyet a történelem során az őslakos populációk használtak.",
                   "category": "historical",
@@ -3036,15 +2991,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -72.955725,
                         5.658425
-                  ]
-            },
-            {
-                  "name": "Monumento a la Raza",
-                  "text": "A Monumento a la Raza egy feltűnő szobrászati tiszteletadás a paramo táj hátterében, amely a helyi őslakos ősök etnikai gyökereit és ellenálló képességét tiszteli.",
-                  "category": "historical",
-                  "coords": [
-                        -72.927526,
-                        5.714644
                   ]
             },
             {
@@ -3099,15 +3045,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -72.933561,
                         5.721018
-                  ]
-            },
-            {
-                  "name": "Pilita de la Unión",
-                  "text": "A Pilita de la Unión egy történelmi közkút, amely egykor a város korai lakóinak elsődleges vízforrásaként és társadalmi gyülekezőhelyeként szolgált.",
-                  "category": "landmark",
-                  "coords": [
-                        -72.926836,
-                        5.711401
                   ]
             },
             {
@@ -3189,15 +3126,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -73.018959,
                         5.726317
-                  ]
-            },
-            {
-                  "name": "Reserva Natural Montecito",
-                  "text": "A Reserva Natural Montecito egy zord természetvédelmi terület, amely a kolumbiai Andok őshonos hegyi erdeinek és madárvilágának megőrzésére szolgál.",
-                  "category": "natural",
-                  "coords": [
-                        -72.927977,
-                        5.698229
                   ]
             }
       ],
@@ -3320,15 +3248,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Banderas Plazoleta Sol de Irika",
-                  "text": "Acest monument se află în piața Sol de Irika, prezentând steaguri proeminente care celebrează moștenirea de adorare a soarelui a culturii Muisca din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        -72.930831,
-                        5.716051
-                  ]
-            },
-            {
                   "name": "Cueva Pozo del Romero",
                   "text": "Cueva Pozo del Romero este o așezare rupestră antică ce conține un puț natural utilizat istoric de populațiile indigene.",
                   "category": "historical",
@@ -3344,15 +3263,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -72.955725,
                         5.658425
-                  ]
-            },
-            {
-                  "name": "Monumento a la Raza",
-                  "text": "Monumento a la Raza este un tribut sculptural impresionant, plasat pe fundalul peisajului de paramo, onorând rădăcinile etnice și reziliența strămoșilor indigeni locali.",
-                  "category": "historical",
-                  "coords": [
-                        -72.927526,
-                        5.714644
                   ]
             },
             {
@@ -3407,15 +3317,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -72.933561,
                         5.721018
-                  ]
-            },
-            {
-                  "name": "Pilita de la Unión",
-                  "text": "Pilita de la Unión este o fântână publică istorică ce a servit odată drept principală sursă de apă și punct de întâlnire socială pentru primii rezidenți ai orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        -72.926836,
-                        5.711401
                   ]
             },
             {
@@ -3497,15 +3398,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -73.018959,
                         5.726317
-                  ]
-            },
-            {
-                  "name": "Reserva Natural Montecito",
-                  "text": "Reserva Natural Montecito este o arie de conservare accidentată dedicată păstrării pădurilor montane native și a avifaunei din Anzii columbieni.",
-                  "category": "natural",
-                  "coords": [
-                        -72.927977,
-                        5.698229
                   ]
             }
       ],
@@ -3628,15 +3520,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Banderas Plazoleta Sol de Irika",
-                  "text": "This monument stands in the Sol de Irika square, featuring prominent flags that celebrate the region's Muisca sun-worshipping heritage.",
-                  "category": "historical",
-                  "coords": [
-                        -72.930831,
-                        5.716051
-                  ]
-            },
-            {
                   "name": "Cueva Pozo del Romero",
                   "text": "The Cueva Pozo del Romero is an ancient cave site containing a natural well historically utilized by indigenous populations.",
                   "category": "historical",
@@ -3652,15 +3535,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -72.955725,
                         5.658425
-                  ]
-            },
-            {
-                  "name": "Monumento a la Raza",
-                  "text": "The Monumento a la Raza is a striking sculptural tribute set against the paramo landscape, honoring the ethnic roots and resilience of the local indigenous ancestors.",
-                  "category": "historical",
-                  "coords": [
-                        -72.927526,
-                        5.714644
                   ]
             },
             {
@@ -3715,15 +3589,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -72.933561,
                         5.721018
-                  ]
-            },
-            {
-                  "name": "Pilita de la Unión",
-                  "text": "The Pilita de la Unión is a historic public fountain that once served as the primary water source and social gathering point for the town's early residents.",
-                  "category": "landmark",
-                  "coords": [
-                        -72.926836,
-                        5.711401
                   ]
             },
             {
@@ -3805,15 +3670,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -73.018959,
                         5.726317
-                  ]
-            },
-            {
-                  "name": "Reserva Natural Montecito",
-                  "text": "Reserva Natural Montecito is a rugged conservation area dedicated to preserving the native montane forests and birdlife of the Colombian Andes.",
-                  "category": "natural",
-                  "coords": [
-                        -72.927977,
-                        5.698229
                   ]
             }
       ]
@@ -4322,33 +4178,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa de la Cultura",
-                  "text": "Das lokale Kulturhaus bietet Workshops und Ausstellungen zur Förderung der regionalen Kunstszene.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.540419,
-                        3.262154
-                  ]
-            },
-            {
-                  "name": "Alcaldía de Jamundí",
-                  "text": "Das Rathaus am Hauptplatz ist das Verwaltungszentrum von Jamundí, einer Stadt, die für ihre Cholado-Eisbecher berühmt ist.",
-                  "category": "historical",
-                  "coords": [
-                        -76.540824,
-                        3.261046
-                  ]
-            },
-            {
-                  "name": "Las veraneras",
-                  "text": "Ein malerischer Ort am Fuße der Berge, benannt nach den farbenfrohen Bougainvillea-Blüten der Region.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.528574,
-                        3.250227
-                  ]
-            },
-            {
                   "name": "Auditorios Icesi",
                   "text": "Moderne Auditorien der Icesi-Universität, die für akademische Kongresse und hochkarätige Konzerte genutzt werden.",
                   "category": "cultural",
@@ -4564,33 +4393,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -76.56562,
                         3.254499
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura",
-                  "text": "A helyi művelődési ház workshopokat és kiállításokat kínál a regionális művészeti élet támogatására.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.540419,
-                        3.262154
-                  ]
-            },
-            {
-                  "name": "Alcaldía de Jamundí",
-                  "text": "A főtéren álló városháza Jamundí közigazgatási központja, a városé, amely híres a cholado jégkásáiról.",
-                  "category": "historical",
-                  "coords": [
-                        -76.540824,
-                        3.261046
-                  ]
-            },
-            {
-                  "name": "Las veraneras",
-                  "text": "Egy festői hely a hegyek lábánál, amely a régió színes murvafürt virágairól kapta a nevét.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.528574,
-                        3.250227
                   ]
             },
             {
@@ -4812,33 +4614,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa de la Cultura",
-                  "text": "Casa locală de cultură oferă ateliere și expoziții pentru promovarea scenei artistice regionale.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.540419,
-                        3.262154
-                  ]
-            },
-            {
-                  "name": "Alcaldía de Jamundí",
-                  "text": "Primăria situată în piața principală este centrul administrativ al orașului Jamundí, faimos pentru deserturile sale cholado.",
-                  "category": "historical",
-                  "coords": [
-                        -76.540824,
-                        3.261046
-                  ]
-            },
-            {
-                  "name": "Las veraneras",
-                  "text": "Un loc pitoresc la poalele munților, numit după florile colorate de buganvilla din regiune.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.528574,
-                        3.250227
-                  ]
-            },
-            {
                   "name": "Auditorios Icesi",
                   "text": "Auditorii moderne ale Universității Icesi, utilizate pentru congrese academice și concerte de înaltă ținută.",
                   "category": "cultural",
@@ -5054,33 +4829,6 @@ export const poiExtraColombiaReliefV2: POI[] = [
                   "coords": [
                         -76.56562,
                         3.254499
-                  ]
-            },
-            {
-                  "name": "House of the culture",
-                  "text": "A community cultural center offering workshops and art exhibitions to promote local talent and heritage.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.540419,
-                        3.262154
-                  ]
-            },
-            {
-                  "name": "Alcaldía de Jamundí",
-                  "text": "Located in the main plaza, this town hall serves as the administrative heart of a town famous for its 'cholado' fruit desserts.",
-                  "category": "historical",
-                  "coords": [
-                        -76.540824,
-                        3.261046
-                  ]
-            },
-            {
-                  "name": "Las veraneras",
-                  "text": "A scenic recreational spot at the base of the mountains, named after the region's colorful bougainvillea flowers.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.528574,
-                        3.250227
                   ]
             },
             {

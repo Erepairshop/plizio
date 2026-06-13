@@ -495,30 +495,12 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
     id: "la-goulette-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "The Ship monument",
-                  "text": "Das The Ship Monument in La Goulette erinnert in Form eines Schiffes an die maritime Geschichte der Hafenstadt.",
-                  "category": "historical",
-                  "coords": [
-                        10.295893,
-                        36.817931
-                  ]
-            },
-            {
                   "name": "Ḥalq al-Wādī",
                   "text": "Der Leuchtturm Ḥalq al-Wādī weist den Schiffen den Weg in den Hafen von La Goulette.",
                   "category": "landmark",
                   "coords": [
                         10.308768,
                         36.80656
-                  ]
-            },
-            {
-                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
-                  "text": "Die Kirche St. Augustine und St. Fidelis ist ein historisches christliches Gotteshaus im Hafenviertel von La Goulette.",
-                  "category": "religious",
-                  "coords": [
-                        10.301594,
-                        36.81608
                   ]
             },
             {
@@ -533,30 +515,12 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "The Ship monument",
-                  "text": "A La Goulette-i The Ship monument egy hajót formázó emlékmű, amely a kikötőváros tengerészeti történelmét idézi.",
-                  "category": "historical",
-                  "coords": [
-                        10.295893,
-                        36.817931
-                  ]
-            },
-            {
                   "name": "Ḥalq al-Wādī",
                   "text": "A Ḥalq al-Wādī világítótorony mutatja az utat a hajóknak La Goulette kikötőjébe.",
                   "category": "landmark",
                   "coords": [
                         10.308768,
                         36.80656
-                  ]
-            },
-            {
-                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
-                  "text": "A Szent Ágoston és Szent Fidelis templom egy történelmi keresztény istentiszteleti hely La Goulette kikötőnegyedében.",
-                  "category": "religious",
-                  "coords": [
-                        10.301594,
-                        36.81608
                   ]
             },
             {
@@ -571,30 +535,12 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "The Ship monument",
-                  "text": "Monumentul The Ship din La Goulette, în formă de navă, amintește de istoria maritimă a orașului portuar.",
-                  "category": "historical",
-                  "coords": [
-                        10.295893,
-                        36.817931
-                  ]
-            },
-            {
                   "name": "Ḥalq al-Wādī",
                   "text": "Farul Ḥalq al-Wādī ghidează navele către portul La Goulette.",
                   "category": "landmark",
                   "coords": [
                         10.308768,
                         36.80656
-                  ]
-            },
-            {
-                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
-                  "text": "Biserica Sf. Augustin și Sf. Fidelis este un lăcaș de cult creștin istoric în cartierul portuar din La Goulette.",
-                  "category": "religious",
-                  "coords": [
-                        10.301594,
-                        36.81608
                   ]
             },
             {
@@ -609,30 +555,12 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "The Ship monument",
-                  "text": "The Ship monument in La Goulette is a vessel-shaped landmark commemorating the port city's maritime history.",
-                  "category": "historical",
-                  "coords": [
-                        10.295893,
-                        36.817931
-                  ]
-            },
-            {
                   "name": "Ḥalq al-Wādī",
                   "text": "The Ḥalq al-Wādī lighthouse guides ships into the bustling port of La Goulette.",
                   "category": "landmark",
                   "coords": [
                         10.308768,
                         36.80656
-                  ]
-            },
-            {
-                  "name": "St Augustine and St Fidelis Church",
-                  "text": "St Augustine and St Fidelis Church is a historic Christian place of worship located in the port district of La Goulette.",
-                  "category": "religious",
-                  "coords": [
-                        10.301594,
-                        36.81608
                   ]
             },
             {
@@ -1139,15 +1067,6 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Opéra de Menzel Bourguiba",
-                  "text": "Dieses Kunstzentrum dient als kultureller Knotenpunkt für musikalische und theatralische Aufführungen in der Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        9.793635,
-                        37.155305
-                  ]
-            },
-            {
                   "name": "Salle Couverte de Menzel-Bourguiba",
                   "text": "Eine überdachte Halle, in der verschiedene kulturelle und künstlerische Veranstaltungen für die lokale Gemeinde stattfinden.",
                   "category": "cultural",
@@ -1174,15 +1093,6 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
                   "coords": [
                         9.841142,
                         37.13896
-                  ]
-            },
-            {
-                  "name": "Opéra de Menzel Bourguiba",
-                  "text": "Ez a művészeti központ a város zenei és színházi előadásainak kulturális csomópontjaként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        9.793635,
-                        37.155305
                   ]
             },
             {
@@ -1215,15 +1125,6 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Opéra de Menzel Bourguiba",
-                  "text": "Acest centru de arte servește drept un nucleu cultural pentru spectacole muzicale și teatrale din oraș.",
-                  "category": "cultural",
-                  "coords": [
-                        9.793635,
-                        37.155305
-                  ]
-            },
-            {
                   "name": "Salle Couverte de Menzel-Bourguiba",
                   "text": "O sală acoperită care găzduiește diverse evenimente culturale și artistice pentru comunitatea locală.",
                   "category": "cultural",
@@ -1250,15 +1151,6 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
                   "coords": [
                         9.841142,
                         37.13896
-                  ]
-            },
-            {
-                  "name": "Opéra de Menzel Bourguiba",
-                  "text": "This arts centre serves as a cultural hub for musical and theatrical performances in the city.",
-                  "category": "cultural",
-                  "coords": [
-                        9.793635,
-                        37.155305
                   ]
             },
             {
@@ -1932,15 +1824,6 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
                         11.119708,
                         33.49714
                   ]
-            },
-            {
-                  "name": "Musée de Zarzis",
-                  "text": "Dieses 2003 eröffnete Museum präsentiert die lokale Geschichte und Archäologie von Zarzis.",
-                  "category": "museum",
-                  "coords": [
-                        11.113925,
-                        33.502055
-                  ]
             }
       ],
       "hu": [
@@ -1951,15 +1834,6 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
                   "coords": [
                         11.119708,
                         33.49714
-                  ]
-            },
-            {
-                  "name": "Musée de Zarzis",
-                  "text": "A 2003-ban megnyílt múzeum Zarzis helyi történelmét és régészetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        11.113925,
-                        33.502055
                   ]
             }
       ],
@@ -1972,15 +1846,6 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
                         11.119708,
                         33.49714
                   ]
-            },
-            {
-                  "name": "Musée de Zarzis",
-                  "text": "Acest muzeu deschis în 2003 prezintă istoria și arheologia locală din Zarzis.",
-                  "category": "museum",
-                  "coords": [
-                        11.113925,
-                        33.502055
-                  ]
             }
       ],
       "en": [
@@ -1991,15 +1856,6 @@ export const poiExtraTunisiaEconomicV2: POI[] = [
                   "coords": [
                         11.119708,
                         33.49714
-                  ]
-            },
-            {
-                  "name": "Musée de Zarzis",
-                  "text": "Opened in 2003, this museum showcases the local history and archaeology of Zarzis.",
-                  "category": "museum",
-                  "coords": [
-                        11.113925,
-                        33.502055
                   ]
             }
       ]

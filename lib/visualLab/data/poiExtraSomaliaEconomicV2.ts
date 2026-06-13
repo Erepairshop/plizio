@@ -1269,15 +1269,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "ciise m 24",
-                  "text": "Aussichtspunkt 24 in den industriellen Gebieten von Burao.",
-                  "category": "natural",
-                  "coords": [
-                        45.576935,
-                        9.519225
-                  ]
-            },
-            {
                   "name": "ciise m 7",
                   "text": "Aussichtspunkt 7 in den industriellen Gebieten von Burao.",
                   "category": "natural",
@@ -1394,15 +1385,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
                   "coords": [
                         45.576889,
                         9.520252
-                  ]
-            },
-            {
-                  "name": "ciise m 24",
-                  "text": "A 24-es kilátópont Burao ipari területein.",
-                  "category": "natural",
-                  "coords": [
-                        45.576935,
-                        9.519225
                   ]
             },
             {
@@ -1525,15 +1507,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "ciise m 24",
-                  "text": "Punctul de belvedere 24 situat în zonele industriale din Burao.",
-                  "category": "natural",
-                  "coords": [
-                        45.576935,
-                        9.519225
-                  ]
-            },
-            {
                   "name": "ciise m 7",
                   "text": "Punctul de belvedere 7 situat în zonele industriale din Burao.",
                   "category": "natural",
@@ -1650,15 +1623,6 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
                   "coords": [
                         45.576889,
                         9.520252
-                  ]
-            },
-            {
-                  "name": "ciise m 24",
-                  "text": "Viewpoint 24 located in the industrial zones of Burao.",
-                  "category": "natural",
-                  "coords": [
-                        45.576935,
-                        9.519225
                   ]
             },
             {
@@ -1975,50 +1939,10 @@ export const poiExtraSomaliaEconomicV2: POI[] = [
   },
   {
     id: "garowe-bottling-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Barxada",
-                  "text": "Ein erhöhter Aussichtspunkt, der einen Panoramablick über die städtischen und industriellen Abfüllanlagen von Garowe bietet.",
-                  "category": "natural",
-                  "coords": [
-                        48.481954,
-                        8.406272
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Barxada",
-                  "text": "Egy magaslati kilátó, amely panorámás kilátást nyújt Garowe városi és ipari palackozó területeire.",
-                  "category": "natural",
-                  "coords": [
-                        48.481954,
-                        8.406272
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Barxada",
-                  "text": "Un punct de belvedere înalt, oferind o vedere panoramică asupra zonelor urbane și a facilităților industriale de îmbuteliere din Garowe.",
-                  "category": "natural",
-                  "coords": [
-                        48.481954,
-                        8.406272
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Barxada",
-                  "text": "An elevated viewpoint offering panoramic sights over the urban and industrial bottling areas of Garowe.",
-                  "category": "natural",
-                  "coords": [
-                        48.481954,
-                        8.406272
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "SO-NU",

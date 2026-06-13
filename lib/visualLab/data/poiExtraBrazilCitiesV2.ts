@@ -1008,15 +1008,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Catedral São João Batista",
-                  "text": "Diese markante katholische Kathedrale ist der Sitz des Erzbistums Niterói und weist spätkoloniale architektonische Elemente auf.",
-                  "category": "religious",
-                  "coords": [
-                        -43.12039,
-                        -22.891506
-                  ]
-            },
-            {
                   "name": "Ilha Fiscal",
                   "text": "Diese kleine Insel, erkennbar an ihrem atemberaubenden lindgrünen neugotischen Palast, war der Ort des berühmten letzten großen Balls des brasilianischen Kaiserreichs.",
                   "category": "landmark",
@@ -1062,15 +1053,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praça General Gomes Carneiro",
-                  "text": "Dieser von Bäumen gesäumte öffentliche Platz in Rio de Janeiro bietet einen schattigen städtischen Rückzugsort inmitten der belebten Straßen der Stadt.",
-                  "category": "park",
-                  "coords": [
-                        -43.121841,
-                        -22.895909
-                  ]
-            },
-            {
                   "name": "Museu da Farmacia da Santa Casa de Misericórdia",
                   "text": "Dieses spezialisierte medizinische Museum in Rio de Janeiro zeigt antike pharmazeutische Geräte und historische Apothekensammlungen.",
                   "category": "museum",
@@ -1098,42 +1080,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morro da Armação",
-                  "text": "Dieser bemerkenswerte Gipfel in der Nähe von Rio de Janeiro bietet einen Panoramablick über die Küstenlandschaft der Stadt und die Guanabara-Bucht.",
-                  "category": "natural",
-                  "coords": [
-                        -43.128957,
-                        -22.880564
-                  ]
-            },
-            {
-                  "name": "Museu Antônio Parreiras",
-                  "text": "In der ehemaligen Residenz des Künstlers gelegen, zeigt dieses Museum in Rio de Janeiro eine reiche Sammlung brasilianischer Landschaftsmalerei.",
-                  "category": "museum",
-                  "coords": [
-                        -43.126026,
-                        -22.901757
-                  ]
-            },
-            {
-                  "name": "Museu Janete Costa de Arte Popular",
-                  "text": "Diese kulturelle Einrichtung in Rio de Janeiro widmet sich der Ausstellung lebendiger populärer Kunst und traditionellen Handwerks aus ganz Brasilien.",
-                  "category": "museum",
-                  "coords": [
-                        -43.127849,
-                        -22.903577
-                  ]
-            },
-            {
-                  "name": "Memorial Ponte Rio-Niterói",
-                  "text": "Dieses Museum in Rio de Janeiro dokumentiert die Ingenieursgeschichte und den Bau der monumentalen Brücke, die Rio mit Niterói verbindet.",
-                  "category": "museum",
-                  "coords": [
-                        -43.114495,
-                        -22.877715
-                  ]
-            },
-            {
                   "name": "Centro Cultural do Ministério da Saúde",
                   "text": "Dieses spezialisierte Kulturzentrum in Rio de Janeiro erforscht die Geschichte der brasilianischen öffentlichen Gesundheit und Medizin durch interaktive Ausstellungen.",
                   "category": "museum",
@@ -1149,15 +1095,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   "coords": [
                         -43.123449,
                         -22.895894
-                  ]
-            },
-            {
-                  "name": "Casa de Oliveira Vianna",
-                  "text": "Diese ehemalige Residenz in Rio de Janeiro bewahrt die persönliche Bibliothek und den Arbeitsplatz des einflussreichen brasilianischen Soziologen Oliveira Vianna.",
-                  "category": "museum",
-                  "coords": [
-                        -43.108794,
-                        -22.880245
                   ]
             }
       ],
@@ -1226,15 +1163,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Catedral São João Batista",
-                  "text": "A Niterói főegyházmegye székhelyeként szolgáló kiemelkedő katolikus katedrális késő gyarmati építészeti elemekkel rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        -43.12039,
-                        -22.891506
-                  ]
-            },
-            {
                   "name": "Ilha Fiscal",
                   "text": "A lenyűgöző lime-zöld neogótikus palotájáról felismerhető kis sziget volt a Brazil Birodalom híres utolsó nagy báljának helyszíne.",
                   "category": "landmark",
@@ -1280,15 +1208,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praça General Gomes Carneiro",
-                  "text": "Ez a fákkal szegélyezett nyilvános tér Rio de Janeiróban árnyékos városi menedéket kínál a nyüzsgő városi utcák közepette.",
-                  "category": "park",
-                  "coords": [
-                        -43.121841,
-                        -22.895909
-                  ]
-            },
-            {
                   "name": "Museu da Farmacia da Santa Casa de Misericórdia",
                   "text": "Ez a Rio de Janeiró-i speciális orvosi múzeum antik gyógyszerészeti berendezéseket és történelmi patikagyűjteményeket mutat be.",
                   "category": "museum",
@@ -1316,42 +1235,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morro da Armação",
-                  "text": "Ez a Rio de Janeiro melletti jelentős csúcs panorámás kilátást nyújt a város tengerparti tájára és a Guanabara-öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        -43.128957,
-                        -22.880564
-                  ]
-            },
-            {
-                  "name": "Museu Antônio Parreiras",
-                  "text": "A művész egykori rezidenciájában található ez a Rio de Janeiró-i múzeum, amely a brazil tájképek gazdag gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -43.126026,
-                        -22.901757
-                  ]
-            },
-            {
-                  "name": "Museu Janete Costa de Arte Popular",
-                  "text": "Ez a kulturális intézmény Rio de Janeiróban élénk népművészeti alkotások és hagyományos brazil kézműves termékek bemutatásának szenteli magát.",
-                  "category": "museum",
-                  "coords": [
-                        -43.127849,
-                        -22.903577
-                  ]
-            },
-            {
-                  "name": "Memorial Ponte Rio-Niterói",
-                  "text": "Ez a múzeum Rio de Janeiróban a Riót Niteróival összekötő monumentális híd mérnöki történetét és építését dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        -43.114495,
-                        -22.877715
-                  ]
-            },
-            {
                   "name": "Centro Cultural do Ministério da Saúde",
                   "text": "Ez a különleges kulturális központ Rio de Janeiróban interaktív kiállításokon keresztül tárja fel a brazil közegészségügy és orvostudomány történetét.",
                   "category": "museum",
@@ -1367,15 +1250,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   "coords": [
                         -43.123449,
                         -22.895894
-                  ]
-            },
-            {
-                  "name": "Casa de Oliveira Vianna",
-                  "text": "Ez a korábbi rezidencia Rio de Janeiróban a befolyásos brazil szociológus, Oliveira Vianna személyes könyvtárát és munkaterületét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -43.108794,
-                        -22.880245
                   ]
             }
       ],
@@ -1444,15 +1318,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Catedral São João Batista",
-                  "text": "Servind drept sediu al Arhiepiscopiei Niterói, această proeminentă catedrală catolică prezintă elemente arhitecturale coloniale târzii.",
-                  "category": "religious",
-                  "coords": [
-                        -43.12039,
-                        -22.891506
-                  ]
-            },
-            {
                   "name": "Ilha Fiscal",
                   "text": "Recunoscută prin uimitorul său palat neogotic de culoare verde deschis, această mică insulă a fost locul faimosului ultim mare bal al Imperiului Brazilian.",
                   "category": "landmark",
@@ -1498,15 +1363,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praça General Gomes Carneiro",
-                  "text": "Această piață publică cu copaci din Rio de Janeiro oferă un refugiu urban umbrit în mijlocul străzilor pline de viață ale orașului.",
-                  "category": "park",
-                  "coords": [
-                        -43.121841,
-                        -22.895909
-                  ]
-            },
-            {
                   "name": "Museu da Farmacia da Santa Casa de Misericórdia",
                   "text": "Acest muzeu medical specializat din Rio de Janeiro expune echipamente farmaceutice antice și colecții istorice de spițerie.",
                   "category": "museum",
@@ -1534,42 +1390,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morro da Armação",
-                  "text": "Acest vârf remarcabil de lângă Rio de Janeiro oferă vedere panoramică asupra peisajului de coastă al orașului și a Golfului Guanabara.",
-                  "category": "natural",
-                  "coords": [
-                        -43.128957,
-                        -22.880564
-                  ]
-            },
-            {
-                  "name": "Museu Antônio Parreiras",
-                  "text": "Situat în fosta reședință a artistului, acest muzeu din Rio de Janeiro prezintă o colecție bogată de picturi peisagistice braziliene.",
-                  "category": "museum",
-                  "coords": [
-                        -43.126026,
-                        -22.901757
-                  ]
-            },
-            {
-                  "name": "Museu Janete Costa de Arte Popular",
-                  "text": "Această instituție culturală din Rio de Janeiro este dedicată expunerii artei populare vibrante și meșteșugurilor tradiționale din întreaga Brazilie.",
-                  "category": "museum",
-                  "coords": [
-                        -43.127849,
-                        -22.903577
-                  ]
-            },
-            {
-                  "name": "Memorial Ponte Rio-Niterói",
-                  "text": "Acest muzeu din Rio de Janeiro documentează istoria ingineriei și construcția podului monumental care leagă Rio de Niterói.",
-                  "category": "museum",
-                  "coords": [
-                        -43.114495,
-                        -22.877715
-                  ]
-            },
-            {
                   "name": "Centro Cultural do Ministério da Saúde",
                   "text": "Acest centru cultural specializat din Rio de Janeiro explorează istoria sănătății publice și a medicinei braziliene prin expoziții interactive.",
                   "category": "museum",
@@ -1585,15 +1405,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   "coords": [
                         -43.123449,
                         -22.895894
-                  ]
-            },
-            {
-                  "name": "Casa de Oliveira Vianna",
-                  "text": "Această fostă reședință din Rio de Janeiro păstrează biblioteca personală și spațiul de lucru al influentului sociolog brazilian Oliveira Vianna.",
-                  "category": "museum",
-                  "coords": [
-                        -43.108794,
-                        -22.880245
                   ]
             }
       ],
@@ -1662,15 +1473,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Catedral São João Batista",
-                  "text": "Serving as the seat of the Archdiocese of Niterói, this prominent Catholic cathedral features late colonial architectural elements.",
-                  "category": "religious",
-                  "coords": [
-                        -43.12039,
-                        -22.891506
-                  ]
-            },
-            {
                   "name": "Ilha Fiscal",
                   "text": "Recognizable by its stunning lime-green Neo-Gothic palace, this small island was the site of the Brazilian Empire's famous last grand ball.",
                   "category": "landmark",
@@ -1716,15 +1518,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praça General Gomes Carneiro",
-                  "text": "This tree-lined public square in Rio de Janeiro offers a shaded urban retreat amidst the bustling city streets.",
-                  "category": "park",
-                  "coords": [
-                        -43.121841,
-                        -22.895909
-                  ]
-            },
-            {
                   "name": "Museu da Farmacia da Santa Casa de Misericórdia",
                   "text": "This specialized medical museum in Rio de Janeiro displays antique pharmaceutical equipment and historical apothecary collections.",
                   "category": "museum",
@@ -1752,42 +1545,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morro da Armação",
-                  "text": "This notable peak near Rio de Janeiro offers panoramic views across the city's coastal landscape and Guanabara Bay.",
-                  "category": "natural",
-                  "coords": [
-                        -43.128957,
-                        -22.880564
-                  ]
-            },
-            {
-                  "name": "Museu Antônio Parreiras",
-                  "text": "Located in the former residence of the artist, this museum in Rio de Janeiro showcases a rich collection of Brazilian landscape paintings.",
-                  "category": "museum",
-                  "coords": [
-                        -43.126026,
-                        -22.901757
-                  ]
-            },
-            {
-                  "name": "Museu Janete Costa de Arte Popular",
-                  "text": "This cultural institution in Rio de Janeiro is dedicated to exhibiting vibrant popular art and traditional crafts from across Brazil.",
-                  "category": "museum",
-                  "coords": [
-                        -43.127849,
-                        -22.903577
-                  ]
-            },
-            {
-                  "name": "Memorial Ponte Rio-Niterói",
-                  "text": "This museum in Rio de Janeiro documents the engineering history and construction of the monumental bridge connecting Rio to Niterói.",
-                  "category": "museum",
-                  "coords": [
-                        -43.114495,
-                        -22.877715
-                  ]
-            },
-            {
                   "name": "Centro Cultural do Ministério da Saúde",
                   "text": "This specialized cultural center in Rio de Janeiro explores the history of Brazilian public health and medicine through interactive exhibits.",
                   "category": "museum",
@@ -1803,15 +1560,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   "coords": [
                         -43.123449,
                         -22.895894
-                  ]
-            },
-            {
-                  "name": "Casa de Oliveira Vianna",
-                  "text": "This former residence in Rio de Janeiro preserves the personal library and workspace of the influential Brazilian sociologist Oliveira Vianna.",
-                  "category": "museum",
-                  "coords": [
-                        -43.108794,
-                        -22.880245
                   ]
             }
       ]
@@ -21484,24 +21232,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Central",
-                  "text": "Zentraler Park für kulturelle Veranstaltungen in São Bernardo do Campo.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.528875,
-                        -23.675699
-                  ]
-            },
-            {
-                  "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
-                  "text": "Museum der Veteranen des brasilianischen Expeditionskorps in São Bernardo do Campo.",
-                  "category": "museum",
-                  "coords": [
-                        -46.55636,
-                        -23.716293
-                  ]
-            },
-            {
                   "name": "Sabina Escola Parque do Conhecimento",
                   "text": "Sabina Escola Parque do Conhecimento ist ein Kunstzentrum und Wissenschaftspark in São Bernardo do Campo.",
                   "category": "cultural",
@@ -21529,30 +21259,12 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Carroça de Aço",
-                  "text": "Historisches Stahlwagon-Denkmal in São Bernardo do Campo.",
-                  "category": "historical",
-                  "coords": [
-                        -46.532998,
-                        -23.710392
-                  ]
-            },
-            {
                   "name": "Antiga Casa da Baronesa",
                   "text": "Ehemaliges Herrenhaus einer Baronin in São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.535155,
                         -23.695346
-                  ]
-            },
-            {
-                  "name": "Batalha da Matrix",
-                  "text": "Batalha da Matrix ist ein Kunstzentrum in São Bernardo do Campo.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.550652,
-                        -23.70806
                   ]
             },
             {
@@ -21621,24 +21333,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Central",
-                  "text": "Központi park kulturális eseményekkel São Bernardo do Campóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.528875,
-                        -23.675699
-                  ]
-            },
-            {
-                  "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
-                  "text": "A Brazil Expedíciós Erő veteránjainak múzeuma São Bernardo do Campóban.",
-                  "category": "museum",
-                  "coords": [
-                        -46.55636,
-                        -23.716293
-                  ]
-            },
-            {
                   "name": "Sabina Escola Parque do Conhecimento",
                   "text": "A Sabina Escola Parque do Conhecimento egy művészeti központ és tudománypark São Bernardo do Campo városában.",
                   "category": "cultural",
@@ -21666,30 +21360,12 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Carroça de Aço",
-                  "text": "Történelmi acélkocsi-emlékmű São Bernardo do Campóban.",
-                  "category": "historical",
-                  "coords": [
-                        -46.532998,
-                        -23.710392
-                  ]
-            },
-            {
                   "name": "Antiga Casa da Baronesa",
                   "text": "Egy bárónő egykori háza São Bernardo do Campóban.",
                   "category": "historical",
                   "coords": [
                         -46.535155,
                         -23.695346
-                  ]
-            },
-            {
-                  "name": "Batalha da Matrix",
-                  "text": "A Batalha da Matrix egy művészeti központ São Bernardo do Campo városában.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.550652,
-                        -23.70806
                   ]
             },
             {
@@ -21758,24 +21434,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Central",
-                  "text": "Parcul central pentru evenimente culturale în São Bernardo do Campo.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.528875,
-                        -23.675699
-                  ]
-            },
-            {
-                  "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
-                  "text": "Muzeul veteranilor Forței Expediționare Braziliene în São Bernardo do Campo.",
-                  "category": "museum",
-                  "coords": [
-                        -46.55636,
-                        -23.716293
-                  ]
-            },
-            {
                   "name": "Sabina Escola Parque do Conhecimento",
                   "text": "Sabina Escola Parque do Conhecimento este un centru de arte și parc științific în São Bernardo do Campo.",
                   "category": "cultural",
@@ -21803,30 +21461,12 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Carroça de Aço",
-                  "text": "Monument istoric al unui car de oțel în São Bernardo do Campo.",
-                  "category": "historical",
-                  "coords": [
-                        -46.532998,
-                        -23.710392
-                  ]
-            },
-            {
                   "name": "Antiga Casa da Baronesa",
                   "text": "Fosta casă a unei baronese în São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.535155,
                         -23.695346
-                  ]
-            },
-            {
-                  "name": "Batalha da Matrix",
-                  "text": "Batalha da Matrix este un centru de arte în São Bernardo do Campo.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.550652,
-                        -23.70806
                   ]
             },
             {
@@ -21895,24 +21535,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Central",
-                  "text": "Central park hosting cultural events in São Bernardo do Campo.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.528875,
-                        -23.675699
-                  ]
-            },
-            {
-                  "name": "ANVFEB Associação Nacional dos Veteranos da FEB - SBC",
-                  "text": "Museum of veterans of the Brazilian Expeditionary Force in São Bernardo do Campo.",
-                  "category": "museum",
-                  "coords": [
-                        -46.55636,
-                        -23.716293
-                  ]
-            },
-            {
                   "name": "Sabina Escola Parque do Conhecimento",
                   "text": "Sabina Escola Parque do Conhecimento is an arts centre and science park located in São Bernardo do Campo.",
                   "category": "cultural",
@@ -21940,30 +21562,12 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Carroça de Aço",
-                  "text": "Historic steel cart monument in São Bernardo do Campo.",
-                  "category": "historical",
-                  "coords": [
-                        -46.532998,
-                        -23.710392
-                  ]
-            },
-            {
                   "name": "Antiga Casa da Baronesa",
                   "text": "Former residence of a baroness in São Bernardo do Campo.",
                   "category": "historical",
                   "coords": [
                         -46.535155,
                         -23.695346
-                  ]
-            },
-            {
-                  "name": "Batalha da Matrix",
-                  "text": "Batalha da Matrix is an arts centre located in São Bernardo do Campo.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.550652,
-                        -23.70806
                   ]
             },
             {
@@ -23500,15 +23104,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
     id: "sao-jose-dos-campos-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Centro de Documentação Musical de São José dos Campos",
-                  "text": "Das Musikdokumentationszentrum in São José dos Campos bewahrt musikalische Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        -45.895955,
-                        -23.198197
-                  ]
-            },
-            {
                   "name": "Teatro do SESI",
                   "text": "Theater des Sozialdienstes der Industrie (SESI) in São José dos Campos.",
                   "category": "cultural",
@@ -23518,39 +23113,12 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Foguete Sonda",
-                  "text": "Die Foguete Sonda ist eine historische Rakete in São José dos Campos.",
-                  "category": "landmark",
-                  "coords": [
-                        -45.891608,
-                        -23.199496
-                  ]
-            },
-            {
-                  "name": "Parque Vicentina Aranha",
-                  "text": "Der Parque Vicentina Aranha ist eine bekannte Sehenswürdigkeit in São José dos Campos.",
-                  "category": "landmark",
-                  "coords": [
-                        -45.897041,
-                        -23.19825
-                  ]
-            },
-            {
                   "name": "Memorial Aeroespacial Brasileiro",
                   "text": "Das Memorial Aeroespacial Brasileiro in São José dos Campos ist ein Luftfahrtmuseum.",
                   "category": "park",
                   "coords": [
                         -45.860026,
                         -23.222464
-                  ]
-            },
-            {
-                  "name": "Estátua do Marechal-do-Ar Casimiro Montenegro Filho",
-                  "text": "Das Denkmal für Casimiro Montenegro Filho ehrt einen bedeutenden Luftwaffenoffizier in São José dos Campos.",
-                  "category": "historical",
-                  "coords": [
-                        -45.882518,
-                        -23.206023
                   ]
             },
             {
@@ -23579,27 +23147,9 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                         -45.906123,
                         -23.205312
                   ]
-            },
-            {
-                  "name": "Catedral de São Dimas",
-                  "text": "Die Kathedrale von São Dimas ist ein wichtiges Gotteshaus in São José dos Campos.",
-                  "category": "religious",
-                  "coords": [
-                        -45.888168,
-                        -23.198557
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Centro de Documentação Musical de São José dos Campos",
-                  "text": "A São José dos Campos-i zenei dokumentációs központ a zenetörténetet őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -45.895955,
-                        -23.198197
-                  ]
-            },
             {
                   "name": "Teatro do SESI",
                   "text": "Az Ipari Szociális Szolgálat (SESI) színháza São José dos Camposban.",
@@ -23610,39 +23160,12 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Foguete Sonda",
-                  "text": "A Foguete Sonda egy történelmi rakéta São José dos Camposban.",
-                  "category": "landmark",
-                  "coords": [
-                        -45.891608,
-                        -23.199496
-                  ]
-            },
-            {
-                  "name": "Parque Vicentina Aranha",
-                  "text": "A Parque Vicentina Aranha egy ismert látnivaló São José dos Camposban.",
-                  "category": "landmark",
-                  "coords": [
-                        -45.897041,
-                        -23.19825
-                  ]
-            },
-            {
                   "name": "Memorial Aeroespacial Brasileiro",
                   "text": "A São José dos Campos-i Memorial Aeroespacial Brasileiro egy repülési múzeum.",
                   "category": "park",
                   "coords": [
                         -45.860026,
                         -23.222464
-                  ]
-            },
-            {
-                  "name": "Estátua do Marechal-do-Ar Casimiro Montenegro Filho",
-                  "text": "A Casimiro Montenegro Filho-emlékmű egy jelentős légierő-tisztnek állít emléket São José dos Camposban.",
-                  "category": "historical",
-                  "coords": [
-                        -45.882518,
-                        -23.206023
                   ]
             },
             {
@@ -23671,27 +23194,9 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                         -45.906123,
                         -23.205312
                   ]
-            },
-            {
-                  "name": "Catedral de São Dimas",
-                  "text": "A São Dimas-székesegyház egy fontos templom São José dos Camposban.",
-                  "category": "religious",
-                  "coords": [
-                        -45.888168,
-                        -23.198557
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Centro de Documentação Musical de São José dos Campos",
-                  "text": "Centrul de documentare muzicală din São José dos Campos păstrează istoria muzicală.",
-                  "category": "museum",
-                  "coords": [
-                        -45.895955,
-                        -23.198197
-                  ]
-            },
             {
                   "name": "Teatro do SESI",
                   "text": "Teatrul Serviciului Social al Industriei (SESI) în São José dos Campos.",
@@ -23702,39 +23207,12 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Foguete Sonda",
-                  "text": "Foguete Sonda este o rachetă istorică din São José dos Campos.",
-                  "category": "landmark",
-                  "coords": [
-                        -45.891608,
-                        -23.199496
-                  ]
-            },
-            {
-                  "name": "Parque Vicentina Aranha",
-                  "text": "Parque Vicentina Aranha este o atracție cunoscută din São José dos Campos.",
-                  "category": "landmark",
-                  "coords": [
-                        -45.897041,
-                        -23.19825
-                  ]
-            },
-            {
                   "name": "Memorial Aeroespacial Brasileiro",
                   "text": "Memorial Aeroespacial Brasileiro din São José dos Campos este un muzeu al aviației.",
                   "category": "park",
                   "coords": [
                         -45.860026,
                         -23.222464
-                  ]
-            },
-            {
-                  "name": "Estátua do Marechal-do-Ar Casimiro Montenegro Filho",
-                  "text": "Monumentul lui Casimiro Montenegro Filho onorează un ofițer important al forțelor aeriene în São José dos Campos.",
-                  "category": "historical",
-                  "coords": [
-                        -45.882518,
-                        -23.206023
                   ]
             },
             {
@@ -23763,27 +23241,9 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                         -45.906123,
                         -23.205312
                   ]
-            },
-            {
-                  "name": "Catedral de São Dimas",
-                  "text": "Catedrala São Dimas este un lăcaș de cult important din São José dos Campos.",
-                  "category": "religious",
-                  "coords": [
-                        -45.888168,
-                        -23.198557
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Centro de Documentação Musical de São José dos Campos",
-                  "text": "The music documentation center in São José dos Campos preserves musical history.",
-                  "category": "museum",
-                  "coords": [
-                        -45.895955,
-                        -23.198197
-                  ]
-            },
             {
                   "name": "Teatro do SESI",
                   "text": "Theatre operated by SESI (Industrial Social Service) in São José dos Campos.",
@@ -23794,39 +23254,12 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Foguete Sonda",
-                  "text": "The Foguete Sonda is a historic rocket in São José dos Campos.",
-                  "category": "landmark",
-                  "coords": [
-                        -45.891608,
-                        -23.199496
-                  ]
-            },
-            {
-                  "name": "Parque Vicentina Aranha",
-                  "text": "The Parque Vicentina Aranha is a well-known attraction in São José dos Campos.",
-                  "category": "landmark",
-                  "coords": [
-                        -45.897041,
-                        -23.19825
-                  ]
-            },
-            {
                   "name": "Memorial Aeroespacial Brasileiro",
                   "text": "The Memorial Aeroespacial Brasileiro in São José dos Campos is an aviation museum.",
                   "category": "park",
                   "coords": [
                         -45.860026,
                         -23.222464
-                  ]
-            },
-            {
-                  "name": "Estátua do Marechal-do-Ar Casimiro Montenegro Filho",
-                  "text": "The monument to Casimiro Montenegro Filho honors a significant air force officer in São José dos Campos.",
-                  "category": "historical",
-                  "coords": [
-                        -45.882518,
-                        -23.206023
                   ]
             },
             {
@@ -23854,15 +23287,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   "coords": [
                         -45.906123,
                         -23.205312
-                  ]
-            },
-            {
-                  "name": "Catedral de São Dimas",
-                  "text": "The Cathedral of São Dimas is an important place of worship in São José dos Campos.",
-                  "category": "religious",
-                  "coords": [
-                        -45.888168,
-                        -23.198557
                   ]
             }
       ]
@@ -23973,15 +23397,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   "coords": [
                         -46.525395,
                         -23.657448
-                  ]
-            },
-            {
-                  "name": "Sabina Escola Parque do Conhecimento",
-                  "text": "Sabina Escola Parque do Conhecimento ist ein bedeutendes Kunstzentrum und Wissenschaftsmuseum in Santo André.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.531295,
-                        -23.679141
                   ]
             },
             {
@@ -24167,15 +23582,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sabina Escola Parque do Conhecimento",
-                  "text": "A Sabina Escola Parque do Conhecimento egy nevezetes művészeti központ és tudományos múzeum Santo André városában.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.531295,
-                        -23.679141
-                  ]
-            },
-            {
                   "name": "Parque Celso Daniel",
                   "text": "A Parque Celso Daniel egy népszerű városi látványosság Santo André városában.",
                   "category": "landmark",
@@ -24358,15 +23764,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sabina Escola Parque do Conhecimento",
-                  "text": "Sabina Escola Parque do Conhecimento este un centru de arte și muzeu de știință notabil în Santo André.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.531295,
-                        -23.679141
-                  ]
-            },
-            {
                   "name": "Parque Celso Daniel",
                   "text": "Parque Celso Daniel este o atracție urbană populară în Santo André.",
                   "category": "landmark",
@@ -24546,15 +23943,6 @@ export const poiExtraBrazilCitiesV2: POI[] = [
                   "coords": [
                         -46.525395,
                         -23.657448
-                  ]
-            },
-            {
-                  "name": "Sabina Escola Parque do Conhecimento",
-                  "text": "Sabina Escola Parque do Conhecimento is a notable arts centre and science museum located in Santo André.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.531295,
-                        -23.679141
                   ]
             },
             {

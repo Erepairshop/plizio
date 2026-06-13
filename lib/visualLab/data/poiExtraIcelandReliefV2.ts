@@ -350,50 +350,10 @@ imageHint: "Kerlingarfjöll rhyolite mountains and steam",
     image: "/poi-images/iceland-kerlingarfjoll-relief-v2.webp",
 },  {
     id: "iceland-latrabjarg-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bjargtangaviti",
-                  "text": "Ein abgelegener Leuchtturm, der den westlichsten Punkt Islands und Europas markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.531576,
-                        65.50256
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bjargtangaviti",
-                  "text": "Távoli világítótorony, amely Izland és Európa legnyugatibb pontját jelzi.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.531576,
-                        65.50256
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bjargtangaviti",
-                  "text": "Un far izolat care marchează cel mai vestic punct al Islandei și al Europei.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.531576,
-                        65.50256
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bjargtangaviti",
-                  "text": "A remote lighthouse marking the westernmost point of Iceland and Europe.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.531576,
-                        65.50256
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "landmark",
@@ -1074,50 +1034,10 @@ imageHint: "Þórsmörk valley landscape with glaciers",
     image: "/poi-images/iceland-thorsmork-relief-v2.webp",
 },  {
     id: "iceland-fimmvorduhals-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Útigönguhöfði",
-                  "text": "Ein Tuffgipfel mit Aussicht an einem berühmten Wanderweg auf Island.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.458333,
-                        63.665717
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Útigönguhöfði",
-                  "text": "Kilátást nyújtó tufahegycsúcs egy híres izlandi túraútvonalon.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.458333,
-                        63.665717
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Útigönguhöfði",
-                  "text": "Un vârf de tuf care oferă priveliști pe un traseu de drumeție celebru din Islanda.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.458333,
-                        63.665717
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Útigönguhöfði",
-                  "text": "A tuff peak offering views on a famous hiking trail in Iceland.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.458333,
-                        63.665717
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "landmark",
@@ -1492,50 +1412,10 @@ imageHint: "Bárðarbunga volcano under glacier",
     image: "/poi-images/iceland-bardarbunga-relief-v2.webp",
 },  {
     id: "iceland-oraefajokull-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Hvannadalshnúkur",
-                  "text": "Der höchste Gipfel Islands, gelegen auf dem Öræfajökull-Gletscher.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.67696,
-                        64.01415
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Hvannadalshnúkur",
-                  "text": "Izland legmagasabb pontja, amely az Öræfajökull-gleccseren található.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.67696,
-                        64.01415
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Hvannadalshnúkur",
-                  "text": "Cel mai înalt vârf din Islanda, situat pe ghețarul Öræfajökull.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.67696,
-                        64.01415
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Hvannadalshnúkur",
-                  "text": "The highest peak in Iceland, located on the Öræfajökull glacier.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.67696,
-                        64.01415
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "mountain",
@@ -1867,15 +1747,6 @@ imageHint: "Drangajökull glacier landscape Westfjords",
                         -19.81786,
                         64.07965
                   ]
-            },
-            {
-                  "name": "Hjálparfoss",
-                  "text": "Ein malerischer Wasserfall in der Nähe des Berges Búrfell im Süden Islands.",
-                  "category": "natural",
-                  "coords": [
-                        -19.851524,
-                        64.115274
-                  ]
             }
       ],
       "hu": [
@@ -1886,15 +1757,6 @@ imageHint: "Drangajökull glacier landscape Westfjords",
                   "coords": [
                         -19.81786,
                         64.07965
-                  ]
-            },
-            {
-                  "name": "Hjálparfoss",
-                  "text": "Festői vízesés Izland déli részén, a Búrfell-hegy közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -19.851524,
-                        64.115274
                   ]
             }
       ],
@@ -1907,15 +1769,6 @@ imageHint: "Drangajökull glacier landscape Westfjords",
                         -19.81786,
                         64.07965
                   ]
-            },
-            {
-                  "name": "Hjálparfoss",
-                  "text": "O cascadă pitorească situată în apropierea muntelui Búrfell din sudul Islandei.",
-                  "category": "natural",
-                  "coords": [
-                        -19.851524,
-                        64.115274
-                  ]
             }
       ],
       "en": [
@@ -1926,15 +1779,6 @@ imageHint: "Drangajökull glacier landscape Westfjords",
                   "coords": [
                         -19.81786,
                         64.07965
-                  ]
-            },
-            {
-                  "name": "Hjálparfoss",
-                  "text": "A picturesque waterfall located near Mount Búrfell in southern Iceland.",
-                  "category": "natural",
-                  "coords": [
-                        -19.851524,
-                        64.115274
                   ]
             }
       ]
@@ -2040,15 +1884,6 @@ imageHint: "Búrfell table mountain in south Iceland",
                         -21.638267,
                         63.998413
                   ]
-            },
-            {
-                  "name": "Þríhnúkar",
-                  "text": "Ein markanter Gipfel in der Bláfjöll-Region, bekannt für seinen erloschenen Vulkan.",
-                  "category": "landmark",
-                  "coords": [
-                        -21.703027,
-                        63.996159
-                  ]
             }
       ],
       "hu": [
@@ -2059,15 +1894,6 @@ imageHint: "Búrfell table mountain in south Iceland",
                   "coords": [
                         -21.638267,
                         63.998413
-                  ]
-            },
-            {
-                  "name": "Þríhnúkar",
-                  "text": "Jellegzetes csúcs a Bláfjöll régióban, amely kialudt vulkánjáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -21.703027,
-                        63.996159
                   ]
             }
       ],
@@ -2080,15 +1906,6 @@ imageHint: "Búrfell table mountain in south Iceland",
                         -21.638267,
                         63.998413
                   ]
-            },
-            {
-                  "name": "Þríhnúkar",
-                  "text": "Un vârf proeminent în regiunea Bláfjöll, cunoscut pentru vulcanul său adormit.",
-                  "category": "landmark",
-                  "coords": [
-                        -21.703027,
-                        63.996159
-                  ]
             }
       ],
       "en": [
@@ -2099,15 +1916,6 @@ imageHint: "Búrfell table mountain in south Iceland",
                   "coords": [
                         -21.638267,
                         63.998413
-                  ]
-            },
-            {
-                  "name": "Þríhnúkar",
-                  "text": "A prominent peak in the Bláfjöll region, known for its dormant volcano.",
-                  "category": "landmark",
-                  "coords": [
-                        -21.703027,
-                        63.996159
                   ]
             }
       ]
@@ -2591,15 +2399,6 @@ imageHint: "Maelifell green volcano cone",
     id: "iceland-thrihnukagigur-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Eldborg",
-                  "text": "Der Vulkankrater Eldborg in der Nähe von Þríhnúkagígur.",
-                  "category": "natural",
-                  "coords": [
-                        -21.638267,
-                        63.998413
-                  ]
-            },
-            {
                   "name": "Bláfjallafólkvangur",
                   "text": "Bláfjallafólkvangur, ein Schutzgebiet mit blauen Bergen und Wanderwegen bei Þríhnúkagígur.",
                   "category": "natural",
@@ -2619,15 +2418,6 @@ imageHint: "Maelifell green volcano cone",
             }
       ],
       "hu": [
-            {
-                  "name": "Eldborg",
-                  "text": "Az Eldborg vulkáni kráter Þríhnúkagígur közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -21.638267,
-                        63.998413
-                  ]
-            },
             {
                   "name": "Bláfjallafólkvangur",
                   "text": "Bláfjallafólkvangur, egy védett terület kék hegyekkel és túraútvonalakkal Þríhnúkagígur mellett.",
@@ -2649,15 +2439,6 @@ imageHint: "Maelifell green volcano cone",
       ],
       "ro": [
             {
-                  "name": "Eldborg",
-                  "text": "Craterele vulcanice Eldborg lângă Þríhnúkagígur.",
-                  "category": "natural",
-                  "coords": [
-                        -21.638267,
-                        63.998413
-                  ]
-            },
-            {
                   "name": "Bláfjallafólkvangur",
                   "text": "Bláfjallafólkvangur, o arie protejată cu munți albaștri și trasee de drumeție lângă Þríhnúkagígur.",
                   "category": "natural",
@@ -2677,15 +2458,6 @@ imageHint: "Maelifell green volcano cone",
             }
       ],
       "en": [
-            {
-                  "name": "Eldborg",
-                  "text": "Eldborg, a volcanic crater near Þríhnúkagígur.",
-                  "category": "natural",
-                  "coords": [
-                        -21.638267,
-                        63.998413
-                  ]
-            },
             {
                   "name": "Bláfjallafólkvangur",
                   "text": "Bláfjallafólkvangur, a protected area with blue mountains and hiking trails near Þríhnúkagígur.",

@@ -147,42 +147,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     id: "bosniaherzegovina-kozara-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Nationalpark Kozara",
-                  "text": "Ein Nationalpark in Bosnien und Herzegowina, bekannt für seine dichten Wälder und Denkmäler.",
-                  "category": "natural",
-                  "coords": [
-                        16.896971,
-                        45.010907
-                  ]
-            },
-            {
-                  "name": "Memorijalni muzej na Mrakovici",
-                  "text": "Ein Museum im Nationalpark Kozara, das an die Kämpfe während des Zweiten Weltkriegs erinnert.",
-                  "category": "museum",
-                  "coords": [
-                        16.908875,
-                        45.012997
-                  ]
-            },
-            {
-                  "name": "Zečiji kamen",
-                  "text": "Ein natürlicher Aussichtspunkt in der Region Kozara, der weite Panoramablicke über die umliegende Landschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        16.882555,
-                        45.001742
-                  ]
-            },
-            {
-                  "name": "Jankovića kamen",
-                  "text": "Ein Aussichtspunkt in Kozara, der Wanderern einen ruhigen Ort bietet, um die Aussicht auf die Natur zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        16.887033,
-                        45.000233
-                  ]
-            },
-            {
                   "name": "Vinograč",
                   "text": "Ein Aussichtspunkt in Kozara, bekannt für seine beeindruckende Aussicht auf die waldreiche Umgebung.",
                   "category": "natural",
@@ -202,42 +166,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Nacionalni park Kozara",
-                  "text": "Nemzeti park Bosznia-Hercegovinában, amely sűrű erdőiről és emlékműveiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        16.896971,
-                        45.010907
-                  ]
-            },
-            {
-                  "name": "Memorijalni muzej na Mrakovici",
-                  "text": "A Kozara Nemzeti Parkban található múzeum, amely a második világháborús eseményeknek állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        16.908875,
-                        45.012997
-                  ]
-            },
-            {
-                  "name": "Zečiji kamen",
-                  "text": "Természetes kilátóhely a Kozara-vidéken, ahonnan panorámás kilátás nyílik a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        16.882555,
-                        45.001742
-                  ]
-            },
-            {
-                  "name": "Jankovića kamen",
-                  "text": "Kozarai kilátópont, amely nyugodt helyet kínál a túrázóknak a természetben való gyönyörködéshez.",
-                  "category": "natural",
-                  "coords": [
-                        16.887033,
-                        45.000233
-                  ]
-            },
             {
                   "name": "Vinograč",
                   "text": "Kilátóhely Kozarában, amely lenyűgöző kilátást nyújt az erdős környezetre.",
@@ -259,42 +187,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Nacionalni park Kozara",
-                  "text": "Un parc național din Bosnia și Herțegovina, cunoscut pentru pădurile sale dese și monumentele istorice.",
-                  "category": "natural",
-                  "coords": [
-                        16.896971,
-                        45.010907
-                  ]
-            },
-            {
-                  "name": "Memorijalni muzej na Mrakovici",
-                  "text": "Un muzeu din Parcul Național Kozara, dedicat luptelor din timpul celui de-al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        16.908875,
-                        45.012997
-                  ]
-            },
-            {
-                  "name": "Zečiji kamen",
-                  "text": "Un punct de belvedere natural în regiunea Kozara, oferind panorame extinse asupra peisajului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        16.882555,
-                        45.001742
-                  ]
-            },
-            {
-                  "name": "Jankovića kamen",
-                  "text": "Un punct de observație în Kozara, oferind drumeților un loc liniștit pentru a se bucura de vederea spre natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.887033,
-                        45.000233
-                  ]
-            },
-            {
                   "name": "Vinograč",
                   "text": "Un punct de belvedere în Kozara, cunoscut pentru vederile impresionante asupra împrejurimilor împădurite.",
                   "category": "natural",
@@ -314,42 +206,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kozara National Park",
-                  "text": "A national park in Bosnia and Herzegovina known for its dense forests and historical monuments.",
-                  "category": "natural",
-                  "coords": [
-                        16.896971,
-                        45.010907
-                  ]
-            },
-            {
-                  "name": "Mrakovica War Museum",
-                  "text": "A museum in Kozara National Park dedicated to the events of the Second World War.",
-                  "category": "museum",
-                  "coords": [
-                        16.908875,
-                        45.012997
-                  ]
-            },
-            {
-                  "name": "Zečiji kamen",
-                  "text": "A natural viewpoint in the Kozara region, offering expansive panoramic views over the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        16.882555,
-                        45.001742
-                  ]
-            },
-            {
-                  "name": "Jankovića kamen",
-                  "text": "A viewpoint in Kozara providing hikers with a peaceful spot to enjoy the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.887033,
-                        45.000233
-                  ]
-            },
             {
                   "name": "Vinograč",
                   "text": "A viewpoint in Kozara known for its impressive views of the forested surroundings.",
@@ -732,86 +588,10 @@ export const bosniaherzegovinaReliefV2: POI[] = [
   },
   {
     id: "bosniaherzegovina-cincar-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cincar",
-                  "text": "Der höchste Berggipfel des Cincar-Massivs im Westen von Bosnien und Herzegowina.",
-                  "category": "landmark",
-                  "coords": [
-                        17.06301,
-                        43.902251
-                  ]
-            },
-            {
-                  "name": "Osječenica",
-                  "text": "Ein prominenter Berggipfel in der Region Cincar, ideal für Wanderungen.",
-                  "category": "landmark",
-                  "coords": [
-                        17.09477,
-                        43.932084
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cincar",
-                  "text": "A Cincar-hegység legmagasabb csúcsa Bosznia-Hercegovina nyugati részén.",
-                  "category": "landmark",
-                  "coords": [
-                        17.06301,
-                        43.902251
-                  ]
-            },
-            {
-                  "name": "Osječenica",
-                  "text": "Jellegzetes hegycsúcs a Cincar régióban, amely ideális túrázásra.",
-                  "category": "landmark",
-                  "coords": [
-                        17.09477,
-                        43.932084
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cincar",
-                  "text": "Cel mai înalt vârf al masivului Cincar din vestul Bosniei și Herțegovinei.",
-                  "category": "landmark",
-                  "coords": [
-                        17.06301,
-                        43.902251
-                  ]
-            },
-            {
-                  "name": "Osječenica",
-                  "text": "Un vârf muntos proeminent în regiunea Cincar, ideal pentru drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        17.09477,
-                        43.932084
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cincar",
-                  "text": "The highest mountain peak of the Cincar massif in western Bosnia and Herzegovina.",
-                  "category": "landmark",
-                  "coords": [
-                        17.06301,
-                        43.902251
-                  ]
-            },
-            {
-                  "name": "Osječenica",
-                  "text": "A prominent mountain peak in the Cincar region, ideal for hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        17.09477,
-                        43.932084
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "BA",
     type: "mountain",
@@ -1328,24 +1108,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     id: "bosniaherzegovina-vran-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Veliki Vran",
-                  "text": "Ein Berggipfel im Vran-Massiv, der weite Ausblicke über die Region bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        17.505548,
-                        43.668129
-                  ]
-            },
-            {
-                  "name": "Mali Vis",
-                  "text": "Ein Gipfel im Vran-Gebirge, beliebt bei Wanderern und Naturfreunden.",
-                  "category": "landmark",
-                  "coords": [
-                        17.499369,
-                        43.67853
-                  ]
-            },
-            {
                   "name": "Pecina hajduka Mijata Tomica",
                   "text": "Eine legendäre Höhle im Vran-Gebirge, die mit der Geschichte von Mijat Tomić verbunden ist.",
                   "category": "landmark",
@@ -1356,24 +1118,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Veliki Vran",
-                  "text": "A Vran-hegység egyik csúcsa, amely széles kilátást nyújt a környékre.",
-                  "category": "landmark",
-                  "coords": [
-                        17.505548,
-                        43.668129
-                  ]
-            },
-            {
-                  "name": "Mali Vis",
-                  "text": "Csúcs a Vran-hegységben, a túrázók és természetjárók kedvelt célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        17.499369,
-                        43.67853
-                  ]
-            },
             {
                   "name": "Pecina hajduka Mijata Tomica",
                   "text": "Legendás barlang a Vran-hegységben, amely Mijat Tomić történetéhez kötődik.",
@@ -1386,24 +1130,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Veliki Vran",
-                  "text": "Un vârf montan în masivul Vran, oferind vederi panoramice asupra regiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        17.505548,
-                        43.668129
-                  ]
-            },
-            {
-                  "name": "Mali Vis",
-                  "text": "Un vârf în munții Vran, popular printre excursioniști și iubitorii de natură.",
-                  "category": "landmark",
-                  "coords": [
-                        17.499369,
-                        43.67853
-                  ]
-            },
-            {
                   "name": "Pecina hajduka Mijata Tomica",
                   "text": "O peșteră legendară în munții Vran, legată de povestea lui Mijat Tomić.",
                   "category": "landmark",
@@ -1414,24 +1140,6 @@ export const bosniaherzegovinaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Veliki Vran",
-                  "text": "A mountain peak in the Vran massif, offering wide views over the region.",
-                  "category": "landmark",
-                  "coords": [
-                        17.505548,
-                        43.668129
-                  ]
-            },
-            {
-                  "name": "Mali Vis",
-                  "text": "A peak in the Vran mountains, popular with hikers and nature lovers.",
-                  "category": "landmark",
-                  "coords": [
-                        17.499369,
-                        43.67853
-                  ]
-            },
             {
                   "name": "Pecina hajduka Mijata Tomica",
                   "text": "A legendary cave in the Vran mountains, associated with the story of Mijat Tomić.",
@@ -2306,48 +2014,12 @@ export const bosniaherzegovinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik 2. dalmatinskoj brigadi",
-                  "text": "Ein Denkmal für die gefallenen Soldaten der 2. Dalmatinischen Brigade während des Zweiten Weltkriegs.",
-                  "category": "historical",
-                  "coords": [
-                        18.633218,
-                        43.321564
-                  ]
-            },
-            {
                   "name": "Borić",
                   "text": "Ein Aussichtspunkt mit Panoramablick auf die Landschaften des Nationalparks Sutjeska.",
                   "category": "natural",
                   "coords": [
                         18.645612,
                         43.317715
-                  ]
-            },
-            {
-                  "name": "Gonje Bare",
-                  "text": "Ein malerischer Bergsee und Aussichtspunkt im Nationalpark Sutjeska.",
-                  "category": "natural",
-                  "coords": [
-                        18.608845,
-                        43.321271
-                  ]
-            },
-            {
-                  "name": "Donje Bare",
-                  "text": "Ein wunderschöner Gletschersee im Zelengora-Gebirge, bekannt für seine ruhige Umgebung und Wanderwege.",
-                  "category": "natural",
-                  "coords": [
-                        18.632537,
-                        43.319496
-                  ]
-            },
-            {
-                  "name": "Savin grob",
-                  "text": "Ein historisches Denkmal und Grab auf einem Bergrücken in der Region Sutjeska.",
-                  "category": "historical",
-                  "coords": [
-                        18.678342,
-                        43.351557
                   ]
             }
       ],
@@ -2362,48 +2034,12 @@ export const bosniaherzegovinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik 2. dalmatinskoj brigadi",
-                  "text": "Emlékmű, amelyet a második világháborúban elesett 2. dalmát dandár katonáinak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        18.633218,
-                        43.321564
-                  ]
-            },
-            {
                   "name": "Borić",
                   "text": "Kilátó, ahonnan panorámás kilátás nyílik a Sutjeska Nemzeti Park tájaira.",
                   "category": "natural",
                   "coords": [
                         18.645612,
                         43.317715
-                  ]
-            },
-            {
-                  "name": "Gonje Bare",
-                  "text": "Festői hegyi tó és kilátóhely a Sutjeska Nemzeti Park területén.",
-                  "category": "natural",
-                  "coords": [
-                        18.608845,
-                        43.321271
-                  ]
-            },
-            {
-                  "name": "Donje Bare",
-                  "text": "Gyönyörű gleccsertó a Zelengora-hegységben, amely nyugodt környezetéről és túraútvonalairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        18.632537,
-                        43.319496
-                  ]
-            },
-            {
-                  "name": "Savin grob",
-                  "text": "Történelmi emlékmű és sírhely egy hegygerincen a Sutjeska-régióban.",
-                  "category": "historical",
-                  "coords": [
-                        18.678342,
-                        43.351557
                   ]
             }
       ],
@@ -2418,48 +2054,12 @@ export const bosniaherzegovinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik 2. dalmatinskoj brigadi",
-                  "text": "Un monument dedicat soldaților căzuți din Brigada a 2-a Dalmatină în timpul celui de-al Doilea Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        18.633218,
-                        43.321564
-                  ]
-            },
-            {
                   "name": "Borić",
                   "text": "Un punct de belvedere care oferă vederi panoramice asupra peisajelor Parcului Național Sutjeska.",
                   "category": "natural",
                   "coords": [
                         18.645612,
                         43.317715
-                  ]
-            },
-            {
-                  "name": "Gonje Bare",
-                  "text": "Un lac montan pitoresc și punct de belvedere situat în Parcul Național Sutjeska.",
-                  "category": "natural",
-                  "coords": [
-                        18.608845,
-                        43.321271
-                  ]
-            },
-            {
-                  "name": "Donje Bare",
-                  "text": "Un lac glaciar frumos din munții Zelengora, cunoscut pentru împrejurimile liniștite și traseele de drumeție.",
-                  "category": "natural",
-                  "coords": [
-                        18.632537,
-                        43.319496
-                  ]
-            },
-            {
-                  "name": "Savin grob",
-                  "text": "Un monument istoric și mormânt situat pe o creastă montană în regiunea Sutjeska.",
-                  "category": "historical",
-                  "coords": [
-                        18.678342,
-                        43.351557
                   ]
             }
       ],
@@ -2474,48 +2074,12 @@ export const bosniaherzegovinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spomenik 2. dalmatinskoj brigadi",
-                  "text": "A memorial dedicated to the fallen soldiers of the 2nd Dalmatian Brigade during World War II.",
-                  "category": "historical",
-                  "coords": [
-                        18.633218,
-                        43.321564
-                  ]
-            },
-            {
                   "name": "Borić",
                   "text": "A scenic viewpoint offering panoramic views of the Sutjeska National Park landscapes.",
                   "category": "natural",
                   "coords": [
                         18.645612,
                         43.317715
-                  ]
-            },
-            {
-                  "name": "Gonje Bare",
-                  "text": "A picturesque mountain lake and viewpoint located within the Sutjeska National Park.",
-                  "category": "natural",
-                  "coords": [
-                        18.608845,
-                        43.321271
-                  ]
-            },
-            {
-                  "name": "Donje Bare",
-                  "text": "A beautiful glacial lake in the Zelengora mountains known for its serene surroundings and hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        18.632537,
-                        43.319496
-                  ]
-            },
-            {
-                  "name": "Savin grob",
-                  "text": "A historic monument and tomb located on a mountain ridge in the Sutjeska region.",
-                  "category": "historical",
-                  "coords": [
-                        18.678342,
-                        43.351557
                   ]
             }
       ]

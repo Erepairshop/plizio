@@ -5895,30 +5895,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Brunswick Museum",
-                  "text": "Das New Brunswick Museum zeigt die Geschichte der Provinz am John River.",
-                  "category": "museum",
-                  "coords": [
-                        -66.082244,
-                        45.268966
-                  ]
-            },
-            {
                   "name": "Trinity Cross",
                   "text": "Eine Attraktion: Trinity Cross in der Region des Saint John River.",
                   "category": "landmark",
                   "coords": [
                         -66.060338,
                         45.266867
-                  ]
-            },
-            {
-                  "name": "Anchor",
-                  "text": "Ein historisches Anker-Denkmal entlang des John River.",
-                  "category": "historical",
-                  "coords": [
-                        -66.062768,
-                        45.272769
                   ]
             },
             {
@@ -5949,33 +5931,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Frank & Ella Hatheway Labour Exhibit",
-                  "text": "Eine Museumsausstellung zur Geschichte der Arbeiterbewegung in John River.",
-                  "category": "museum",
-                  "coords": [
-                        -66.056596,
-                        45.289488
-                  ]
-            },
-            {
-                  "name": "Phoenix Dinner Theatre",
-                  "text": "Das Phoenix Dinner Theatre bietet Speisen und Aufführungen in John River.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.053995,
-                        45.278825
-                  ]
-            },
-            {
-                  "name": "Punch Lines Comedy Club",
-                  "text": "Punch Lines Comedy Club, ein Veranstaltungsort für Stand-up-Comedy in John River.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.057734,
-                        45.274987
-                  ]
-            },
-            {
                   "name": "Reversing Falls Lookout",
                   "text": "Aussichtspunkt über die umkehrenden Gezeitenstromschnellen des Saint John River.",
                   "category": "natural",
@@ -5991,15 +5946,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   "coords": [
                         -66.098785,
                         45.311459
-                  ]
-            },
-            {
-                  "name": "Fisher Lake Beach",
-                  "text": "Sandstrand am Ufer des Fisher Lake.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.056223,
-                        45.296648
                   ]
             },
             {
@@ -6039,24 +5985,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbour Bridge",
-                  "text": "Die Harbour Bridge ist eine Stahlbogenbrücke über den Saint John River in Saint John.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.074499,
-                        45.269355
-                  ]
-            },
-            {
-                  "name": "Fort La Tour",
-                  "text": "Fort La Tour ist ein historisches Fort am John River.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.072286,
-                        45.272899
-                  ]
-            },
-            {
                   "name": "Imperial Theatre",
                   "text": "Das Imperial Theatre ist ein historisches Beaux-Arts-Theater in der Innenstadt von Saint John.",
                   "category": "cultural",
@@ -6093,66 +6021,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Cathedral of the Immaculate Conception ist die römisch-katholische Kathedrale in John River.",
-                  "category": "religious",
-                  "coords": [
-                        -66.0566,
-                        45.278291
-                  ]
-            },
-            {
-                  "name": "Loyalist Burial Ground",
-                  "text": "Loyalist Burial Ground ist ein historischer Friedhof der Loyalisten in John River.",
-                  "category": "park",
-                  "coords": [
-                        -66.056447,
-                        45.27457
-                  ]
-            },
-            {
-                  "name": "Stone Church",
-                  "text": "Stone Church ist eine Kirche aus Stein in John River.",
-                  "category": "religious",
-                  "coords": [
-                        -66.061586,
-                        45.276171
-                  ]
-            },
-            {
-                  "name": "Loyalist House",
-                  "text": "Loyalist House ist ein Hausmuseum aus der Loyalistenzeit in John River.",
-                  "category": "museum",
-                  "coords": [
-                        -66.0613,
-                        45.274517
-                  ]
-            },
-            {
-                  "name": "Fort Howe",
-                  "text": "Das Fort Howe ist ein historisches britisches Fort aus der Zeit der Amerikanischen Revolution in Saint John.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.071745,
-                        45.277052
-                  ]
-            },
-            {
                   "name": "Reversing Falls Railway Bridge",
                   "text": "Die Reversing Falls Railway Bridge überspannt die Schlucht der Reversing Falls am Saint John River.",
                   "category": "landmark",
                   "coords": [
                         -66.08675,
                         45.259915
-                  ]
-            },
-            {
-                  "name": "Crow Island",
-                  "text": "Crow Island ist eine Insel im John River.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.089335,
-                        45.264571
                   ]
             },
             {
@@ -6221,30 +6095,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Brunswick Museum",
-                  "text": "A New Brunswick Múzeum bemutatja a tartomány történelmét a John folyónál.",
-                  "category": "museum",
-                  "coords": [
-                        -66.082244,
-                        45.268966
-                  ]
-            },
-            {
                   "name": "Trinity Cross",
                   "text": "Egy látványosság: Trinity Cross a Saint John River régióban.",
                   "category": "landmark",
                   "coords": [
                         -66.060338,
                         45.266867
-                  ]
-            },
-            {
-                  "name": "Anchor",
-                  "text": "Egy történelmi horgony emlékmű a John folyó mentén.",
-                  "category": "historical",
-                  "coords": [
-                        -66.062768,
-                        45.272769
                   ]
             },
             {
@@ -6275,33 +6131,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Frank & Ella Hatheway Labour Exhibit",
-                  "text": "Egy múzeumi kiállítás a munkásmozgalom történetéről John River-ben.",
-                  "category": "museum",
-                  "coords": [
-                        -66.056596,
-                        45.289488
-                  ]
-            },
-            {
-                  "name": "Phoenix Dinner Theatre",
-                  "text": "A Phoenix Dinner Theatre étkezést és előadásokat kínál John River-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.053995,
-                        45.278825
-                  ]
-            },
-            {
-                  "name": "Punch Lines Comedy Club",
-                  "text": "A Punch Lines Comedy Club stand-up comedy helyszín John River-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.057734,
-                        45.274987
-                  ]
-            },
-            {
                   "name": "Reversing Falls Lookout",
                   "text": "Kilátó a Saint John folyó árapály által megfordított zuhatagaira.",
                   "category": "natural",
@@ -6317,15 +6146,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   "coords": [
                         -66.098785,
                         45.311459
-                  ]
-            },
-            {
-                  "name": "Fisher Lake Beach",
-                  "text": "Homokos strand a Fisher-tó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.056223,
-                        45.296648
                   ]
             },
             {
@@ -6365,24 +6185,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbour Bridge",
-                  "text": "A Harbour Bridge egy acél ívhíd a Saint John folyó felett Saint Johnban.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.074499,
-                        45.269355
-                  ]
-            },
-            {
-                  "name": "Fort La Tour",
-                  "text": "A Fort La Tour egy történelmi erőd a John River mentén.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.072286,
-                        45.272899
-                  ]
-            },
-            {
                   "name": "Imperial Theatre",
                   "text": "Az Imperial Theatre egy történelmi Beaux-Arts színház Saint John belvárosában.",
                   "category": "cultural",
@@ -6419,66 +6221,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "A Szeplőtelen Fogantatás-székesegyház a római katolikus katedrális John Riverben.",
-                  "category": "religious",
-                  "coords": [
-                        -66.0566,
-                        45.278291
-                  ]
-            },
-            {
-                  "name": "Loyalist Burial Ground",
-                  "text": "A Loyalist Burial Ground egy történelmi lojalista temető John Riverben.",
-                  "category": "park",
-                  "coords": [
-                        -66.056447,
-                        45.27457
-                  ]
-            },
-            {
-                  "name": "Stone Church",
-                  "text": "A Stone Church egy kőből épült templom John Riverben.",
-                  "category": "religious",
-                  "coords": [
-                        -66.061586,
-                        45.276171
-                  ]
-            },
-            {
-                  "name": "Loyalist House",
-                  "text": "A Loyalist House egy lojalista kori házmúzeum John Riverben.",
-                  "category": "museum",
-                  "coords": [
-                        -66.0613,
-                        45.274517
-                  ]
-            },
-            {
-                  "name": "Fort Howe",
-                  "text": "A Fort Howe egy történelmi brit erőd az amerikai forradalom idejéből Saint Johnban.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.071745,
-                        45.277052
-                  ]
-            },
-            {
                   "name": "Reversing Falls Railway Bridge",
                   "text": "A Reversing Falls Railway Bridge a Reversing Falls szurdokán ível át a Saint John folyón.",
                   "category": "landmark",
                   "coords": [
                         -66.08675,
                         45.259915
-                  ]
-            },
-            {
-                  "name": "Crow Island",
-                  "text": "A Crow Island egy sziget a John Riverben.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.089335,
-                        45.264571
                   ]
             },
             {
@@ -6547,30 +6295,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Brunswick Museum",
-                  "text": "Muzeul New Brunswick prezintă istoria provinciei pe râul John.",
-                  "category": "museum",
-                  "coords": [
-                        -66.082244,
-                        45.268966
-                  ]
-            },
-            {
                   "name": "Trinity Cross",
                   "text": "O atracție: Trinity Cross în regiunea râului Saint John.",
                   "category": "landmark",
                   "coords": [
                         -66.060338,
                         45.266867
-                  ]
-            },
-            {
-                  "name": "Anchor",
-                  "text": "Un monument istoric de ancoră de-a lungul râului John.",
-                  "category": "historical",
-                  "coords": [
-                        -66.062768,
-                        45.272769
                   ]
             },
             {
@@ -6601,33 +6331,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Frank & Ella Hatheway Labour Exhibit",
-                  "text": "O expoziție muzeală despre istoria muncii în John River.",
-                  "category": "museum",
-                  "coords": [
-                        -66.056596,
-                        45.289488
-                  ]
-            },
-            {
-                  "name": "Phoenix Dinner Theatre",
-                  "text": "Teatrul-cină Phoenix oferă mese și spectacole în John River.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.053995,
-                        45.278825
-                  ]
-            },
-            {
-                  "name": "Punch Lines Comedy Club",
-                  "text": "Punch Lines Comedy Club, un loc pentru comedie stand-up în John River.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.057734,
-                        45.274987
-                  ]
-            },
-            {
                   "name": "Reversing Falls Lookout",
                   "text": "Punct de belvedere asupra cascadelor cu reflux ale râului Saint John.",
                   "category": "natural",
@@ -6643,15 +6346,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   "coords": [
                         -66.098785,
                         45.311459
-                  ]
-            },
-            {
-                  "name": "Fisher Lake Beach",
-                  "text": "Plajă nisipoasă pe malul lacului Fisher.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.056223,
-                        45.296648
                   ]
             },
             {
@@ -6691,24 +6385,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbour Bridge",
-                  "text": "Harbour Bridge este un pod cu arc din oțel peste râul Saint John în Saint John.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.074499,
-                        45.269355
-                  ]
-            },
-            {
-                  "name": "Fort La Tour",
-                  "text": "Fort La Tour este un fort istoric pe malul râului John.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.072286,
-                        45.272899
-                  ]
-            },
-            {
                   "name": "Imperial Theatre",
                   "text": "Imperial Theatre este un teatru istoric Beaux-Arts în centrul orașului Saint John.",
                   "category": "cultural",
@@ -6745,66 +6421,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Catedrala Neprihănitei Zămisliri este catedrala romano-catolică din John River.",
-                  "category": "religious",
-                  "coords": [
-                        -66.0566,
-                        45.278291
-                  ]
-            },
-            {
-                  "name": "Loyalist Burial Ground",
-                  "text": "Loyalist Burial Ground este un cimitir istoric loialist în John River.",
-                  "category": "park",
-                  "coords": [
-                        -66.056447,
-                        45.27457
-                  ]
-            },
-            {
-                  "name": "Stone Church",
-                  "text": "Stone Church este o biserică de piatră în John River.",
-                  "category": "religious",
-                  "coords": [
-                        -66.061586,
-                        45.276171
-                  ]
-            },
-            {
-                  "name": "Loyalist House",
-                  "text": "Loyalist House este un muzeu-casă din perioada loialistă în John River.",
-                  "category": "museum",
-                  "coords": [
-                        -66.0613,
-                        45.274517
-                  ]
-            },
-            {
-                  "name": "Fort Howe",
-                  "text": "Fort Howe este un fort istoric britanic din perioada Revoluției Americane în Saint John.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.071745,
-                        45.277052
-                  ]
-            },
-            {
                   "name": "Reversing Falls Railway Bridge",
                   "text": "Podul feroviar Reversing Falls traversează defileul Reversing Falls pe râul Saint John.",
                   "category": "landmark",
                   "coords": [
                         -66.08675,
                         45.259915
-                  ]
-            },
-            {
-                  "name": "Crow Island",
-                  "text": "Crow Island este o insulă în râul John.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.089335,
-                        45.264571
                   ]
             },
             {
@@ -6873,30 +6495,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Brunswick Museum",
-                  "text": "The New Brunswick Museum, showcasing the province's history, located on the John River.",
-                  "category": "museum",
-                  "coords": [
-                        -66.082244,
-                        45.268966
-                  ]
-            },
-            {
                   "name": "Trinity Cross",
                   "text": "An attraction: Trinity Cross in the Saint John River region.",
                   "category": "landmark",
                   "coords": [
                         -66.060338,
                         45.266867
-                  ]
-            },
-            {
-                  "name": "Anchor",
-                  "text": "A historical anchor monument along the John River.",
-                  "category": "historical",
-                  "coords": [
-                        -66.062768,
-                        45.272769
                   ]
             },
             {
@@ -6927,33 +6531,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Frank & Ella Hatheway Labour Exhibit",
-                  "text": "A museum exhibit about labour history in John River.",
-                  "category": "museum",
-                  "coords": [
-                        -66.056596,
-                        45.289488
-                  ]
-            },
-            {
-                  "name": "Phoenix Dinner Theatre",
-                  "text": "Phoenix Dinner Theatre offering dining and performances in John River.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.053995,
-                        45.278825
-                  ]
-            },
-            {
-                  "name": "Punch Lines Comedy Club",
-                  "text": "Punch Lines Comedy Club, a venue for stand-up comedy in John River.",
-                  "category": "cultural",
-                  "coords": [
-                        -66.057734,
-                        45.274987
-                  ]
-            },
-            {
                   "name": "Reversing Falls Lookout",
                   "text": "Lookout over the reversing tidal rapids of the Saint John River.",
                   "category": "natural",
@@ -6969,15 +6546,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   "coords": [
                         -66.098785,
                         45.311459
-                  ]
-            },
-            {
-                  "name": "Fisher Lake Beach",
-                  "text": "Sandy beach on the shores of Fisher Lake.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.056223,
-                        45.296648
                   ]
             },
             {
@@ -7017,24 +6585,6 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbour Bridge",
-                  "text": "Harbour Bridge is a steel through arch bridge over the Saint John River in Saint John.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.074499,
-                        45.269355
-                  ]
-            },
-            {
-                  "name": "Fort La Tour",
-                  "text": "Fort La Tour is a historic fort on the John River.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.072286,
-                        45.272899
-                  ]
-            },
-            {
                   "name": "Imperial Theatre",
                   "text": "Imperial Theatre is a historic Beaux-Arts theatre in downtown Saint John.",
                   "category": "cultural",
@@ -7071,66 +6621,12 @@ export const poiExtraCanadaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Cathedral of the Immaculate Conception is the Roman Catholic cathedral in John River.",
-                  "category": "religious",
-                  "coords": [
-                        -66.0566,
-                        45.278291
-                  ]
-            },
-            {
-                  "name": "Loyalist Burial Ground",
-                  "text": "Loyalist Burial Ground is a historic Loyalist cemetery in John River.",
-                  "category": "park",
-                  "coords": [
-                        -66.056447,
-                        45.27457
-                  ]
-            },
-            {
-                  "name": "Stone Church",
-                  "text": "Stone Church is a stone church in John River.",
-                  "category": "religious",
-                  "coords": [
-                        -66.061586,
-                        45.276171
-                  ]
-            },
-            {
-                  "name": "Loyalist House",
-                  "text": "Loyalist House is a Loyalist-era house museum in John River.",
-                  "category": "museum",
-                  "coords": [
-                        -66.0613,
-                        45.274517
-                  ]
-            },
-            {
-                  "name": "Fort Howe",
-                  "text": "Fort Howe is a historic British fort from the American Revolution in Saint John.",
-                  "category": "fortress",
-                  "coords": [
-                        -66.071745,
-                        45.277052
-                  ]
-            },
-            {
                   "name": "Reversing Falls Railway Bridge",
                   "text": "Reversing Falls Railway Bridge spans the Reversing Falls gorge on the Saint John River.",
                   "category": "landmark",
                   "coords": [
                         -66.08675,
                         45.259915
-                  ]
-            },
-            {
-                  "name": "Crow Island",
-                  "text": "Crow Island is an island in the John River.",
-                  "category": "landmark",
-                  "coords": [
-                        -66.089335,
-                        45.264571
                   ]
             },
             {

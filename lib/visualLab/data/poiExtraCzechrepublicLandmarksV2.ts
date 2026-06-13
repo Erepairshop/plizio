@@ -1314,39 +1314,12 @@ export const czechrepublicLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lusthaus",
-                  "text": "Ein historisches Lustschloss in der Nähe von Vranov nad Dyjí.",
-                  "category": "castle",
-                  "coords": [
-                        15.856353,
-                        48.898358
-                  ]
-            },
-            {
                   "name": "Muzeum Pohraničního opevnění",
                   "text": "Ein Museum, das den historischen Grenzbefestigungen gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         15.800968,
                         48.894565
-                  ]
-            },
-            {
-                  "name": "RM Perlmuttdesign GmbH",
-                  "text": "Ein Museum, das sich auf Perlmuttdesign und Handwerkskunst konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        15.799744,
-                        48.864184
-                  ]
-            },
-            {
-                  "name": "Mniszkův kříž",
-                  "text": "Ein historisches Steinkreuz und Denkmal in Vranov nad Dyjí.",
-                  "category": "historical",
-                  "coords": [
-                        15.817041,
-                        48.895806
                   ]
             },
             {
@@ -1366,15 +1339,6 @@ export const czechrepublicLandmarksV2: POI[] = [
                         15.810079,
                         48.893495
                   ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Ein Gedenkobelisk in der Nähe des Schlosses Vranov nad Dyjí.",
-                  "category": "historical",
-                  "coords": [
-                        15.84453,
-                        48.88416
-                  ]
             }
       ],
       "hu": [
@@ -1388,39 +1352,12 @@ export const czechrepublicLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Letohrádek",
-                  "text": "Történelmi vadászkastély Vranov nad Dyjí közelében.",
-                  "category": "castle",
-                  "coords": [
-                        15.856353,
-                        48.898358
-                  ]
-            },
-            {
                   "name": "Muzeum Pohraničního opevnění",
                   "text": "A történelmi határ menti erődítményeknek szentelt múzeum.",
                   "category": "museum",
                   "coords": [
                         15.800968,
                         48.894565
-                  ]
-            },
-            {
-                  "name": "RM Perlmuttdesign GmbH",
-                  "text": "A gyöngyház-tervezésre és kézművességre összpontosító múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        15.799744,
-                        48.864184
-                  ]
-            },
-            {
-                  "name": "Mniszkův kříž",
-                  "text": "Történelmi kőkereszt és emlékmű Vranov nad Dyjíben.",
-                  "category": "historical",
-                  "coords": [
-                        15.817041,
-                        48.895806
                   ]
             },
             {
@@ -1440,15 +1377,6 @@ export const czechrepublicLandmarksV2: POI[] = [
                         15.810079,
                         48.893495
                   ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Emlékoszlop a Vranov nad Dyjí-i kastély közelében.",
-                  "category": "historical",
-                  "coords": [
-                        15.84453,
-                        48.88416
-                  ]
             }
       ],
       "ro": [
@@ -1462,39 +1390,12 @@ export const czechrepublicLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Letohrádek",
-                  "text": "Un castel istoric de vânătoare situat lângă Vranov nad Dyjí.",
-                  "category": "castle",
-                  "coords": [
-                        15.856353,
-                        48.898358
-                  ]
-            },
-            {
                   "name": "Muzeum Pohraničního opevnění",
                   "text": "Un muzeu dedicat fortificațiilor istorice de frontieră.",
                   "category": "museum",
                   "coords": [
                         15.800968,
                         48.894565
-                  ]
-            },
-            {
-                  "name": "RM Perlmuttdesign GmbH",
-                  "text": "Un muzeu axat pe designul și măiestria sidefului.",
-                  "category": "museum",
-                  "coords": [
-                        15.799744,
-                        48.864184
-                  ]
-            },
-            {
-                  "name": "Mniszkův kříž",
-                  "text": "O cruce istorică de piatră și monument în Vranov nad Dyjí.",
-                  "category": "historical",
-                  "coords": [
-                        15.817041,
-                        48.895806
                   ]
             },
             {
@@ -1514,15 +1415,6 @@ export const czechrepublicLandmarksV2: POI[] = [
                         15.810079,
                         48.893495
                   ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Un obelisc comemorativ în apropierea castelului Vranov nad Dyjí.",
-                  "category": "historical",
-                  "coords": [
-                        15.84453,
-                        48.88416
-                  ]
             }
       ],
       "en": [
@@ -1536,39 +1428,12 @@ export const czechrepublicLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Letohrádek",
-                  "text": "A historic summer palace or hunting lodge near Vranov nad Dyjí.",
-                  "category": "castle",
-                  "coords": [
-                        15.856353,
-                        48.898358
-                  ]
-            },
-            {
                   "name": "Muzeum Pohraničního opevnění",
                   "text": "A museum dedicated to historical border fortifications.",
                   "category": "museum",
                   "coords": [
                         15.800968,
                         48.894565
-                  ]
-            },
-            {
-                  "name": "RM Perlmuttdesign GmbH",
-                  "text": "A museum focusing on mother-of-pearl design and craftsmanship.",
-                  "category": "museum",
-                  "coords": [
-                        15.799744,
-                        48.864184
-                  ]
-            },
-            {
-                  "name": "Mniszkův kříž",
-                  "text": "A historic stone cross and monument in Vranov nad Dyjí.",
-                  "category": "historical",
-                  "coords": [
-                        15.817041,
-                        48.895806
                   ]
             },
             {
@@ -1587,15 +1452,6 @@ export const czechrepublicLandmarksV2: POI[] = [
                   "coords": [
                         15.810079,
                         48.893495
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "A commemorative obelisk located near the Vranov nad Dyjí chateau.",
-                  "category": "historical",
-                  "coords": [
-                        15.84453,
-                        48.88416
                   ]
             }
       ]

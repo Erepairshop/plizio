@@ -1149,15 +1149,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zalloum Castle",
-                  "text": "Die Zalloum-Burg ist eine historische Festung in der Altstadt von Hebron.",
-                  "category": "castle",
-                  "coords": [
-                        35.107578,
-                        31.549204
-                  ]
-            },
-            {
                   "name": "Qazzazin Pond",
                   "text": "Der Qazzazin-Teich ist ein antikes Wasserreservoir in der Altstadt von Hebron.",
                   "category": "historical",
@@ -1194,15 +1185,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hebron Muqata'a",
-                  "text": "Eine befestigte Anlage der osmanischen Zeit im Zentrum der Altstadt von Hebron.",
-                  "category": "castle",
-                  "coords": [
-                        35.095029,
-                        31.537317
-                  ]
-            },
-            {
                   "name": "Meir Kahane Park",
                   "text": "Der Meir-Kahane-Park in Hebron ist eine öffentliche Grünanlage nahe der Patriarchenhöhle.",
                   "category": "park",
@@ -1212,111 +1194,12 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grab der Patriarchen",
-                  "text": "Die Cave of the Patriarchs ist eine bedeutende Sehenswürdigkeit in Hebron Altstadt, die als wichtige religiöse Stätte mit antiken Gräbern bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        35.110794,
-                        31.52478
-                  ]
-            },
-            {
-                  "name": "Gheith Printer",
-                  "text": "Eine historische Druckerei in der Altstadt von Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.118537,
-                        31.51417
-                  ]
-            },
-            {
                   "name": "Al Fonon Center",
                   "text": "Ein Kulturzentrum mit Ausstellungen in der Altstadt von Hebron.",
                   "category": "cultural",
                   "coords": [
                         35.109794,
                         31.521484
-                  ]
-            },
-            {
-                  "name": "Mafarraf",
-                  "text": "Ein markantes Gebäude in der engen Gasse der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.102081,
-                        31.548179
-                  ]
-            },
-            {
-                  "name": "Manara roundabout",
-                  "text": "Ein Kreisverkehr mit einem Leuchtturm-Monument in der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097351,
-                        31.529634
-                  ]
-            },
-            {
-                  "name": "Atlal",
-                  "text": "Ein bekannter Platz oder ein Gebäude in der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.083594,
-                        31.537068
-                  ]
-            },
-            {
-                  "name": "Hassouneh park",
-                  "text": "Ein kleiner Park mit Bäumen und Sitzgelegenheiten in der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097362,
-                        31.545588
-                  ]
-            },
-            {
-                  "name": "Sinqrot Building",
-                  "text": "Ein historisches Gebäude aus Stein in der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.109615,
-                        31.548868
-                  ]
-            },
-            {
-                  "name": "Namra Roundabout",
-                  "text": "Ein Kreisverkehr mit einem Denkmal in der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.104273,
-                        31.538907
-                  ]
-            },
-            {
-                  "name": "Al-Diyafa Hall",
-                  "text": "Ein Veranstaltungssaal in der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.099355,
-                        31.544998
-                  ]
-            },
-            {
-                  "name": "sharawi",
-                  "text": "Eine natürliche Quelle oder ein Tal in der Nähe von Hebron.",
-                  "category": "natural",
-                  "coords": [
-                        35.084803,
-                        31.529259
-                  ]
-            },
-            {
-                  "name": "Al-Manshar Mosque",
-                  "text": "Eine Moschee mit einem Minarett im alten Stadtteil von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.080627,
-                        31.524179
                   ]
             },
             {
@@ -1448,15 +1331,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zalloum Castle",
-                  "text": "A Zalloum-vár egy történelmi erőd Hebron óvárosában.",
-                  "category": "castle",
-                  "coords": [
-                        35.107578,
-                        31.549204
-                  ]
-            },
-            {
                   "name": "Qazzazin Pond",
                   "text": "A Qazzazin-tó egy ősi víztározó Hebron óvárosában.",
                   "category": "historical",
@@ -1493,15 +1367,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hebron Muqata'a",
-                  "text": "Egy oszmán kori erődített komplexum Hebron óvárosának központjában.",
-                  "category": "castle",
-                  "coords": [
-                        35.095029,
-                        31.537317
-                  ]
-            },
-            {
                   "name": "Meir Kahane Park",
                   "text": "A Meir Kahane park Hebronban egy közpark a Pátriárkák barlangja közelében.",
                   "category": "park",
@@ -1511,111 +1376,12 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cave of the Patriarchs",
-                  "text": "A Cave of the Patriarchs egy kiemelkedő látványosság Hebron Altstadtban, amely ősi sírokat magában foglaló fontos vallási helyszín.",
-                  "category": "landmark",
-                  "coords": [
-                        35.110794,
-                        31.52478
-                  ]
-            },
-            {
-                  "name": "Gheith Printer",
-                  "text": "Történelmi nyomda Hebron óvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        35.118537,
-                        31.51417
-                  ]
-            },
-            {
                   "name": "Al Fonon Center",
                   "text": "Kiállításokkal rendelkező kulturális központ Hebron óvárosában.",
                   "category": "cultural",
                   "coords": [
                         35.109794,
                         31.521484
-                  ]
-            },
-            {
-                  "name": "Mafarraf",
-                  "text": "Egy jellegzetes épület Hebron óvárosának szűk utcájában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.102081,
-                        31.548179
-                  ]
-            },
-            {
-                  "name": "Manara roundabout",
-                  "text": "Körforgalom világítótorony-emlékművel Hebron óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097351,
-                        31.529634
-                  ]
-            },
-            {
-                  "name": "Atlal",
-                  "text": "Egy ismert tér vagy épület Hebron óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.083594,
-                        31.537068
-                  ]
-            },
-            {
-                  "name": "Hassouneh park",
-                  "text": "Egy kis park fákkal és ülőhelyekkel Hebron óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097362,
-                        31.545588
-                  ]
-            },
-            {
-                  "name": "Sinqrot Building",
-                  "text": "Egy történelmi kőépület Hebron óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.109615,
-                        31.548868
-                  ]
-            },
-            {
-                  "name": "Namra Roundabout",
-                  "text": "Körforgalom emlékművel Hebron óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.104273,
-                        31.538907
-                  ]
-            },
-            {
-                  "name": "Al-Diyafa Hall",
-                  "text": "Egy rendezvényterem Hebron óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.099355,
-                        31.544998
-                  ]
-            },
-            {
-                  "name": "sharawi",
-                  "text": "Egy természetes forrás vagy völgy Hebron közelében.",
-                  "category": "natural",
-                  "coords": [
-                        35.084803,
-                        31.529259
-                  ]
-            },
-            {
-                  "name": "Al-Manshar Mosque",
-                  "text": "Egy mecset minarettel Hebron óvárosi részében.",
-                  "category": "landmark",
-                  "coords": [
-                        35.080627,
-                        31.524179
                   ]
             },
             {
@@ -1747,15 +1513,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zalloum Castle",
-                  "text": "Castelul Zalloum este o fortăreață istorică în Orașul Vechi al Hebronului.",
-                  "category": "castle",
-                  "coords": [
-                        35.107578,
-                        31.549204
-                  ]
-            },
-            {
                   "name": "Qazzazin Pond",
                   "text": "Iazul Qazzazin este un rezervor antic de apă în Orașul Vechi al Hebronului.",
                   "category": "historical",
@@ -1792,15 +1549,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hebron Muqata'a",
-                  "text": "Un complex fortificat din perioada otomană în centrul Orașului Vechi din Hebron.",
-                  "category": "castle",
-                  "coords": [
-                        35.095029,
-                        31.537317
-                  ]
-            },
-            {
                   "name": "Meir Kahane Park",
                   "text": "Parcul Meir Kahane din Hebron este un parc public lângă Peștera Patriarhilor.",
                   "category": "park",
@@ -1810,111 +1558,12 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mormintele Patriarhilor",
-                  "text": "Cave of the Patriarchs este o atracție proeminentă din Hebron Altstadt, cunoscută ca un important sit religios ce conține morminte antice.",
-                  "category": "landmark",
-                  "coords": [
-                        35.110794,
-                        31.52478
-                  ]
-            },
-            {
-                  "name": "Gheith Printer",
-                  "text": "O tipografie istorică în Orașul Vechi din Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.118537,
-                        31.51417
-                  ]
-            },
-            {
                   "name": "Al Fonon Center",
                   "text": "Un centru cultural cu expoziții în Orașul Vechi din Hebron.",
                   "category": "cultural",
                   "coords": [
                         35.109794,
                         31.521484
-                  ]
-            },
-            {
-                  "name": "Mafarraf",
-                  "text": "O clădire distinctivă pe o alee îngustă din Orașul Vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.102081,
-                        31.548179
-                  ]
-            },
-            {
-                  "name": "Manara roundabout",
-                  "text": "Un sens giratoriu cu un monument de far în Orașul Vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097351,
-                        31.529634
-                  ]
-            },
-            {
-                  "name": "Atlal",
-                  "text": "Un loc sau o clădire cunoscută în Orașul Vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.083594,
-                        31.537068
-                  ]
-            },
-            {
-                  "name": "Hassouneh park",
-                  "text": "Un parc mic cu copaci și locuri de ședere în Orașul Vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097362,
-                        31.545588
-                  ]
-            },
-            {
-                  "name": "Sinqrot Building",
-                  "text": "O clădire istorică din piatră în Orașul Vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.109615,
-                        31.548868
-                  ]
-            },
-            {
-                  "name": "Namra Roundabout",
-                  "text": "Un sens giratoriu cu un monument în Orașul Vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.104273,
-                        31.538907
-                  ]
-            },
-            {
-                  "name": "Al-Diyafa Hall",
-                  "text": "O sală de evenimente în Orașul Vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.099355,
-                        31.544998
-                  ]
-            },
-            {
-                  "name": "sharawi",
-                  "text": "Un izvor natural sau o vale lângă Hebron.",
-                  "category": "natural",
-                  "coords": [
-                        35.084803,
-                        31.529259
-                  ]
-            },
-            {
-                  "name": "Al-Manshar Mosque",
-                  "text": "O moschee cu un minaret în cartierul vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.080627,
-                        31.524179
                   ]
             },
             {
@@ -2046,15 +1695,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zalloum Castle",
-                  "text": "Zalloum Castle is a historic fortress in Hebron Old City.",
-                  "category": "castle",
-                  "coords": [
-                        35.107578,
-                        31.549204
-                  ]
-            },
-            {
                   "name": "Qazzazin Pond",
                   "text": "Qazzazin Pond is an ancient water reservoir in Hebron Old City.",
                   "category": "historical",
@@ -2091,15 +1731,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hebron Muqata'a",
-                  "text": "A fortified Ottoman-era compound in the center of Hebron's Old City.",
-                  "category": "castle",
-                  "coords": [
-                        35.095029,
-                        31.537317
-                  ]
-            },
-            {
                   "name": "Meir Kahane Park",
                   "text": "Meir Kahane Park in Hebron Old City, a public park near the Cave of the Patriarchs.",
                   "category": "park",
@@ -2109,111 +1740,12 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cave of the Patriarchs",
-                  "text": "The Cave of the Patriarchs is a prominent attraction in Hebron Altstadt, known as a major religious site containing ancient tombs.",
-                  "category": "landmark",
-                  "coords": [
-                        35.110794,
-                        31.52478
-                  ]
-            },
-            {
-                  "name": "Gheith Printer",
-                  "text": "A historic printing press in Hebron's Old City.",
-                  "category": "cultural",
-                  "coords": [
-                        35.118537,
-                        31.51417
-                  ]
-            },
-            {
                   "name": "Al Fonon Center",
                   "text": "A cultural center with exhibitions in Hebron's Old City.",
                   "category": "cultural",
                   "coords": [
                         35.109794,
                         31.521484
-                  ]
-            },
-            {
-                  "name": "Mafarraf",
-                  "text": "A distinctive building on a narrow alley in Hebron's Old City.",
-                  "category": "landmark",
-                  "coords": [
-                        35.102081,
-                        31.548179
-                  ]
-            },
-            {
-                  "name": "Manara roundabout",
-                  "text": "A roundabout with a lighthouse monument in Hebron's Old City.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097351,
-                        31.529634
-                  ]
-            },
-            {
-                  "name": "Ntat",
-                  "text": "A well-known square or building in Hebron's Old City.",
-                  "category": "landmark",
-                  "coords": [
-                        35.083594,
-                        31.537068
-                  ]
-            },
-            {
-                  "name": "Hassouneh park",
-                  "text": "A small park with trees and seating in Hebron's Old City.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097362,
-                        31.545588
-                  ]
-            },
-            {
-                  "name": "Sinqrot Building",
-                  "text": "A historic stone building in Hebron's Old City.",
-                  "category": "landmark",
-                  "coords": [
-                        35.109615,
-                        31.548868
-                  ]
-            },
-            {
-                  "name": "Namra Roundabout",
-                  "text": "A roundabout with a monument in Hebron's Old City.",
-                  "category": "landmark",
-                  "coords": [
-                        35.104273,
-                        31.538907
-                  ]
-            },
-            {
-                  "name": "Al-Diyafa Hall",
-                  "text": "An event hall in Hebron's Old City.",
-                  "category": "landmark",
-                  "coords": [
-                        35.099355,
-                        31.544998
-                  ]
-            },
-            {
-                  "name": "sharawi",
-                  "text": "A natural spring or valley near Hebron.",
-                  "category": "natural",
-                  "coords": [
-                        35.084803,
-                        31.529259
-                  ]
-            },
-            {
-                  "name": "Al-Manshar Mosque",
-                  "text": "A mosque with a minaret in the old quarter of Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.080627,
-                        31.524179
                   ]
             },
             {
@@ -3201,15 +2733,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horvat Kobi",
-                  "text": "Eine archäologische Ruine aus der byzantinischen Zeit bei Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.12007,
-                        31.728241
-                  ]
-            },
-            {
                   "name": "Horvat Walaja",
                   "text": "Eine weitere antike Ruinenstätte in der Nähe von Battir.",
                   "category": "historical",
@@ -3264,15 +2787,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Qabu",
-                  "text": "Al-Qabu ist ein ehemaliges palästinensisches Dorf nahe Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.119156,
-                        31.728283
-                  ]
-            },
-            {
                   "name": "Mount Aminadav",
                   "text": "Der Har Aminadav in Battir ist ein Bergrücken mit Ausblick auf die judäische Wüste.",
                   "category": "natural",
@@ -3300,24 +2814,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old House",
-                  "text": "Ein traditionelles Steinhaus im Dorf Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.1609,
-                        31.726723
-                  ]
-            },
-            {
-                  "name": "Old Houses",
-                  "text": "Mehrere historische Steinhäuser im alten Kern von Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.161913,
-                        31.735004
-                  ]
-            },
-            {
                   "name": "Khirbet Najjar",
                   "text": "Die Ruinen einer alten Tischlerei in Battir.",
                   "category": "historical",
@@ -3342,15 +2838,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.110568,
                         31.731502
-                  ]
-            },
-            {
-                  "name": "Ein Kobi",
-                  "text": "Die natürliche Quelle עין קובי ist ein erfrischendes landschaftliches Wahrzeichen im palästinensischen Battir. Das klare Wasser und die grüne Umgebung machen diesen Ort zu einem beliebten Ziel für Wanderer. Hier lässt sich die unberührte Natur der Region wunderbar genießen.",
-                  "category": "landmark",
-                  "coords": [
-                        35.11756,
-                        31.725711
                   ]
             },
             {
@@ -3399,24 +2886,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ein El Bascine",
-                  "text": "Besucher der palästinensischen Stadt Battir können das Naturwahrzeichen Ein El Bascine entdecken. Diese sprudelnde Quelle ist ein fester Bestandteil des lokalen Wassersystems. Sie ist ein wundervolles Fotomotiv inmitten der alten Olivenhaine und Terrassen.",
-                  "category": "landmark",
-                  "coords": [
-                        35.128735,
-                        31.717792
-                  ]
-            },
-            {
-                  "name": "Ein Haniya",
-                  "text": "Ein Haniya ist eine Quelle in Battir.",
-                  "category": "landmark",
-                  "coords": [
-                        35.1563,
-                        31.743512
-                  ]
-            },
-            {
                   "name": "Ein al-Amoud",
                   "text": "Die natürliche Wasserader עין אל עמוד stellt ein idyllisches Wahrzeichen in der Gegend von Battir dar. In der sanften Hügellandschaft Palästinas spendet diese Quelle seit jeher wertvolles Wasser. Es ist ein beschaulicher Ort, um die Verbindung von Mensch und Natur nachzuvollziehen.",
                   "category": "landmark",
@@ -3434,15 +2903,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.170209,
                         31.746515
-                  ]
-            },
-            {
-                  "name": "Horvat Kobi",
-                  "text": "Egy bizánci kori régészeti rom Battir mellett.",
-                  "category": "historical",
-                  "coords": [
-                        35.12007,
-                        31.728241
                   ]
             },
             {
@@ -3500,15 +2960,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Qabu",
-                  "text": "Al-Qabu egy egykori palesztin falu Battir közelében.",
-                  "category": "historical",
-                  "coords": [
-                        35.119156,
-                        31.728283
-                  ]
-            },
-            {
                   "name": "Mount Aminadav",
                   "text": "A Har Aminadav Battirban egy hegygerinc, amely a júdai sivatagra nyújt kilátást.",
                   "category": "natural",
@@ -3536,24 +2987,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old House",
-                  "text": "Egy hagyományos kőház Battir faluban.",
-                  "category": "historical",
-                  "coords": [
-                        35.1609,
-                        31.726723
-                  ]
-            },
-            {
-                  "name": "Old Houses",
-                  "text": "Több történelmi kőház Battir régi magjában.",
-                  "category": "historical",
-                  "coords": [
-                        35.161913,
-                        31.735004
-                  ]
-            },
-            {
                   "name": "Khirbet Najjar",
                   "text": "Egy régi asztalosműhely romjai Battirban.",
                   "category": "historical",
@@ -3578,15 +3011,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.110568,
                         31.731502
-                  ]
-            },
-            {
-                  "name": "Ein Kobi",
-                  "text": "Az עין קובי természetes forrás egy frissítő tájképi nevezetesség a palesztinai Battirban. A tiszta víz és a zöld környezet kedvelt célponttá teszi ezt a helyet a túrázók számára. Itt csodálatosan élvezhető a régió érintetlen természete.",
-                  "category": "landmark",
-                  "coords": [
-                        35.11756,
-                        31.725711
                   ]
             },
             {
@@ -3635,24 +3059,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ein El Bascine",
-                  "text": "A palesztin Battir városának látogatói felfedezhetik az Ein El Bascine természeti nevezetességet. Ez a pezsgő forrás a helyi vízrendszer szerves része. Csodálatos fotótéma az öreg olajfaligetek és teraszok között.",
-                  "category": "landmark",
-                  "coords": [
-                        35.128735,
-                        31.717792
-                  ]
-            },
-            {
-                  "name": "Ein Haniya",
-                  "text": "Ein Haniya egy forrás Battir közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        35.1563,
-                        31.743512
-                  ]
-            },
-            {
                   "name": "Ein al-Amoud",
                   "text": "Az עין אל עמוד természetes vízér egy idillikus nevezetességet képvisel Battir környékén. Palesztina szelíd dombvidékén ez a forrás ősidők óta értékes vizet ad. Ez egy szemlélődő hely az ember és a természet kapcsolatának megértésére.",
                   "category": "landmark",
@@ -3670,15 +3076,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.170209,
                         31.746515
-                  ]
-            },
-            {
-                  "name": "Horvat Kobi",
-                  "text": "O ruină arheologică din perioada bizantină lângă Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.12007,
-                        31.728241
                   ]
             },
             {
@@ -3736,15 +3133,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Qabu",
-                  "text": "Al-Qabu este un fost sat palestinian lângă Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.119156,
-                        31.728283
-                  ]
-            },
-            {
                   "name": "Mount Aminadav",
                   "text": "Har Aminadav din Battir este o creastă montană cu vedere asupra deșertului Iudeei.",
                   "category": "natural",
@@ -3772,24 +3160,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old House",
-                  "text": "O casă tradițională din piatră în satul Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.1609,
-                        31.726723
-                  ]
-            },
-            {
-                  "name": "Old Houses",
-                  "text": "Mai multe case istorice din piatră în centrul vechi al Battirului.",
-                  "category": "historical",
-                  "coords": [
-                        35.161913,
-                        31.735004
-                  ]
-            },
-            {
                   "name": "Khirbet Najjar",
                   "text": "Ruinele unui vechi atelier de tâmplărie din Battir.",
                   "category": "historical",
@@ -3814,15 +3184,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.110568,
                         31.731502
-                  ]
-            },
-            {
-                  "name": "Ein Kobi",
-                  "text": "Izvorul natural עין קובי este un reper peisagistic revigorant în orașul palestinian Battir. Apa limpede și împrejurimile verzi fac din acest loc o destinație populară pentru drumeți. Aici te poți bucura cu adevărat de natura neatinsă a regiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        35.11756,
-                        31.725711
                   ]
             },
             {
@@ -3871,24 +3232,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ein El Bascine",
-                  "text": "Vizitatorii orașului palestinian Battir pot descoperi reperul natural Ein El Bascine. Acest izvor spumegant este o parte integrantă a sistemului local de apă. Este un subiect foto minunat în mijlocul vechilor livezi de măslini și terase.",
-                  "category": "landmark",
-                  "coords": [
-                        35.128735,
-                        31.717792
-                  ]
-            },
-            {
-                  "name": "Ein Haniya",
-                  "text": "Ein Haniya este un izvor în Battir.",
-                  "category": "landmark",
-                  "coords": [
-                        35.1563,
-                        31.743512
-                  ]
-            },
-            {
                   "name": "Ein al-Amoud",
                   "text": "Vena naturală de apă עין אל עמוד reprezintă un reper idilic în zona Battir. În peisajul deluros blând al Palestinei, acest izvor a furnizat întotdeauna apă valoroasă. Este un loc liniștit pentru a înțelege legătura dintre om și natură.",
                   "category": "landmark",
@@ -3906,15 +3249,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.170209,
                         31.746515
-                  ]
-            },
-            {
-                  "name": "Horvat Kobi",
-                  "text": "An archaeological ruin from the Byzantine period near Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.12007,
-                        31.728241
                   ]
             },
             {
@@ -3972,15 +3306,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Qabu",
-                  "text": "Al-Qabu is a former Palestinian village near Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.119156,
-                        31.728283
-                  ]
-            },
-            {
                   "name": "Har Aminadav",
                   "text": "Har Aminadav in Battir, a mountain ridge with views of the Judean desert.",
                   "category": "natural",
@@ -4008,24 +3333,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old House",
-                  "text": "A traditional stone house in the village of Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.1609,
-                        31.726723
-                  ]
-            },
-            {
-                  "name": "Old Houses",
-                  "text": "Several historic stone houses in the old core of Battir.",
-                  "category": "historical",
-                  "coords": [
-                        35.161913,
-                        31.735004
-                  ]
-            },
-            {
                   "name": "Carpenter's Ruins",
                   "text": "Ruins of an old carpenter's workshop in Battir.",
                   "category": "historical",
@@ -4050,15 +3357,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.110568,
                         31.731502
-                  ]
-            },
-            {
-                  "name": "Ein Kobi",
-                  "text": "The natural spring עין קובי is a refreshing scenic landmark in Palestinian Battir. The clear water and green surroundings make this place a popular destination for hikers. You can truly enjoy the untouched nature of the region here.",
-                  "category": "landmark",
-                  "coords": [
-                        35.11756,
-                        31.725711
                   ]
             },
             {
@@ -4095,33 +3393,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.144287,
                         31.745964
-                  ]
-            },
-            {
-                  "name": "Ein Al Qseir",
-                  "text": "The landmark עין אל קוסייר is an impressive natural spring in the Battir region. Nestled in the nature of Palestine, it offers a cool refreshment during hikes. This place combines the scenic beauty with the agricultural tradition of the city.",
-                  "category": "landmark",
-                  "coords": [
-                        35.156242,
-                        31.710579
-                  ]
-            },
-            {
-                  "name": "Ein El Bascine",
-                  "text": "Visitors to the Palestinian city of Battir can discover the natural landmark Ein El Bascine. This bubbling spring is an integral part of the local water system. It is a wonderful photo opportunity amidst the old olive groves and terraces.",
-                  "category": "landmark",
-                  "coords": [
-                        35.128735,
-                        31.717792
-                  ]
-            },
-            {
-                  "name": "Ein Haniya",
-                  "text": "Ein Haniya is a spring in Battir.",
-                  "category": "landmark",
-                  "coords": [
-                        35.1563,
-                        31.743512
                   ]
             },
             {
@@ -8106,15 +7377,6 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-burqin-church-history-v2", "sights": {
       "de": [
             {
-                  "name": "Jamar palace (el khukha)",
-                  "text": "Ein Aussichtspunkt mit Blick über die Hügellandschaft von Burqin.",
-                  "category": "natural",
-                  "coords": [
-                        35.26187,
-                        32.45629
-                  ]
-            },
-            {
                   "name": "Borken Churche",
                   "text": "Eine der ältesten Kirchen der Welt, erbaut an der Stelle, wo Jesus laut Überlieferung zehn Aussätzige heilte.",
                   "category": "religious",
@@ -8152,15 +7414,6 @@ export const palestineHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Jamar palace (el khukha)",
-                  "text": "Kilátópont, ahonnan panoráma nyílik Burqin dombos tájára.",
-                  "category": "natural",
-                  "coords": [
-                        35.26187,
-                        32.45629
-                  ]
-            },
             {
                   "name": "Borken Churche",
                   "text": "A világ egyik legrégebbi temploma, azon a helyen épült, ahol Jézus a Biblia szerint tíz leprást gyógyított meg.",
@@ -8200,15 +7453,6 @@ export const palestineHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Jamar palace (el khukha)",
-                  "text": "Un punct de observare care oferă vederi asupra peisajului deluros din Burqin.",
-                  "category": "natural",
-                  "coords": [
-                        35.26187,
-                        32.45629
-                  ]
-            },
-            {
                   "name": "Borken Churche",
                   "text": "Una dintre cele mai vechi biserici din lume, construită pe locul unde se spune că Isus a vindecat zece leproși.",
                   "category": "religious",
@@ -8246,15 +7490,6 @@ export const palestineHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Jamar palace (el khukha)",
-                  "text": "A vantage point offering views over the hilly landscape of Burqin.",
-                  "category": "natural",
-                  "coords": [
-                        35.26187,
-                        32.45629
-                  ]
-            },
             {
                   "name": "Burkin Church",
                   "text": "One of the world's oldest churches, built on the site where tradition says Jesus healed ten lepers.",
@@ -11085,15 +10320,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Midrash",
-                  "text": "Ein jüdisches Lehrhaus und eine Gebetsstätte in der Nähe von Beitin.",
-                  "category": "religious",
-                  "coords": [
-                        35.222116,
-                        31.942546
-                  ]
-            },
-            {
                   "name": "Ruins of Jeroboam's Temple",
                   "text": "Historische Ruinen in Beitin, die traditionell mit dem Tempel von Jerobeam in Verbindung gebracht werden.",
                   "category": "historical",
@@ -11354,15 +10580,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.250035,
                         31.915464
-                  ]
-            },
-            {
-                  "name": "Beit Midrash",
-                  "text": "Zsidó tanház és imaház Beitin közelében.",
-                  "category": "religious",
-                  "coords": [
-                        35.222116,
-                        31.942546
                   ]
             },
             {
@@ -11629,15 +10846,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Midrash",
-                  "text": "O casă de studiu și loc de rugăciune evreiesc lângă Beitin.",
-                  "category": "religious",
-                  "coords": [
-                        35.222116,
-                        31.942546
-                  ]
-            },
-            {
                   "name": "Ruins of Jeroboam's Temple",
                   "text": "Ruine istorice în Beitin, asociate tradițional cu templul lui Ieroboam.",
                   "category": "historical",
@@ -11898,15 +11106,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.250035,
                         31.915464
-                  ]
-            },
-            {
-                  "name": "Beit Midrash",
-                  "text": "A Jewish house of study and place of worship near Beitin.",
-                  "category": "religious",
-                  "coords": [
-                        35.222116,
-                        31.942546
                   ]
             },
             {
@@ -13731,15 +12930,6 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-deir-ghassaneh-history-v2", "sights": {
       "de": [
             {
-                  "name": "vally of lemon",
-                  "text": "Ein Tal mit Zitronenbäumen in der Nähe von Deir Ghassaneh.",
-                  "category": "family",
-                  "coords": [
-                        35.072026,
-                        32.023753
-                  ]
-            },
-            {
                   "name": "Nahal Shilo Illit Nature Reserve",
                   "text": "Ein Naturschutzgebiet entlang des oberen Nahal Shilo-Bachs.",
                   "category": "natural",
@@ -13768,15 +12958,6 @@ export const palestineHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "vally of lemon",
-                  "text": "Citromfákkal beültetett völgy Deir Ghassaneh közelében.",
-                  "category": "family",
-                  "coords": [
-                        35.072026,
-                        32.023753
-                  ]
-            },
             {
                   "name": "Nahal Shilo Illit Nature Reserve",
                   "text": "Természetvédelmi terület a felső Nahal Shilo-patak mentén.",
@@ -13807,15 +12988,6 @@ export const palestineHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "vally of lemon",
-                  "text": "O vale plantată cu lămâi lângă Deir Ghassaneh.",
-                  "category": "family",
-                  "coords": [
-                        35.072026,
-                        32.023753
-                  ]
-            },
-            {
                   "name": "Nahal Shilo Illit Nature Reserve",
                   "text": "O rezervație naturală de-a lungul pârâului superior Nahal Shilo.",
                   "category": "natural",
@@ -13844,33 +13016,6 @@ export const palestineHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "vally of lemon",
-                  "text": "A valley planted with lemon trees near Deir Ghassaneh.",
-                  "category": "family",
-                  "coords": [
-                        35.072026,
-                        32.023753
-                  ]
-            },
-            {
-                  "name": "Nahal Shilo 'Illi Nature Reserve",
-                  "text": "A nature reserve along the upper Nahal Shilo stream.",
-                  "category": "natural",
-                  "coords": [
-                        35.0724,
-                        32.050651
-                  ]
-            },
-            {
-                  "name": "Dirgasanah",
-                  "text": "The historic village of Dirgasanah with old stone buildings.",
-                  "category": "landmark",
-                  "coords": [
-                        35.09818,
-                        32.046951
-                  ]
-            },
             {
                   "name": "Al-Khawas Shrine and Park",
                   "text": "A shrine dedicated to Al-Khawas surrounded by a park in Deir Ghassaneh.",
@@ -14001,24 +13146,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dirgasanah",
-                  "text": "Das historische Dorf Dirgasanah, ein Wahrzeichen in der Region Aboud.",
-                  "category": "landmark",
-                  "coords": [
-                        35.09818,
-                        32.046951
-                  ]
-            },
-            {
-                  "name": "Al-Khawas Shrine and Park",
-                  "text": "Al-Khawas-Schrein und -Park, ein historischer muslimischer Schrein im Dorf Aboud.",
-                  "category": "historical",
-                  "coords": [
-                        35.08804,
-                        32.050178
-                  ]
-            },
-            {
                   "name": "Amiram Lookout",
                   "text": "Amiram-Aussichtspunkt, ein natürlicher Aussichtspunkt mit Panoramablick über Aboud und die umliegenden Hügel.",
                   "category": "natural",
@@ -14108,24 +13235,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.0724,
                         32.050651
-                  ]
-            },
-            {
-                  "name": "Dirgasanah",
-                  "text": "A történelmi Dirgasanah falu, egy nevezetesség Aboud régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.09818,
-                        32.046951
-                  ]
-            },
-            {
-                  "name": "Al-Khawas Shrine and Park",
-                  "text": "Al-Khawas szentély és park, egy történelmi muszlim szentély Aboud faluban.",
-                  "category": "historical",
-                  "coords": [
-                        35.08804,
-                        32.050178
                   ]
             },
             {
@@ -14221,24 +13330,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dirgasanah",
-                  "text": "Satul istoric Dirgasanah, un reper în regiunea Aboud.",
-                  "category": "landmark",
-                  "coords": [
-                        35.09818,
-                        32.046951
-                  ]
-            },
-            {
-                  "name": "Al-Khawas Shrine and Park",
-                  "text": "Altarul și Parcul Al-Khawas, un altar istoric musulman în satul Aboud.",
-                  "category": "historical",
-                  "coords": [
-                        35.08804,
-                        32.050178
-                  ]
-            },
-            {
                   "name": "Amiram Lookout",
                   "text": "Punctul de belvedere Amiram, un belvedere natural cu vedere panoramică asupra Aboud și a dealurilor din jur.",
                   "category": "natural",
@@ -14331,24 +13422,6 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dirgasanah",
-                  "text": "The historic village of Dirgasanah, a landmark in the Aboud region.",
-                  "category": "landmark",
-                  "coords": [
-                        35.09818,
-                        32.046951
-                  ]
-            },
-            {
-                  "name": "Al-Khawas Shrine and Park",
-                  "text": "Al-Khawas Shrine and Park, a historic Muslim shrine in the village of Aboud.",
-                  "category": "historical",
-                  "coords": [
-                        35.08804,
-                        32.050178
-                  ]
-            },
-            {
                   "name": "Amiram Lookout",
                   "text": "Amiram Lookout, a natural viewpoint with panoramic views over Aboud and the surrounding hills.",
                   "category": "natural",
@@ -14422,114 +13495,6 @@ export const palestineHistoryV2: POI[] = [
                         35.200879,
                         31.972464
                   ]
-            },
-            {
-                  "name": "People's Museum",
-                  "text": "Volksmuseum, ein lokales Museum, das das Erbe von Jifna dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
-                  "name": "Efraim Farm",
-                  "text": "Efraim-Bauernhof, ein Familienbauernhof in Jifna mit landwirtschaftlichen Aktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        35.223988,
-                        31.944429
-                  ]
-            },
-            {
-                  "name": "Jacob's Ladder Dream Site",
-                  "text": "Jakobs-Leiter-Traumstätte, ein biblischer Ort in Jifna, der als Ort von Jakobs Traum von der Leiter gilt.",
-                  "category": "landmark",
-                  "coords": [
-                        35.231885,
-                        31.949362
-                  ]
-            },
-            {
-                  "name": "Sha Na Einecha Lookout",
-                  "text": "Sha-Na-Einecha-Aussichtspunkt, ein natürlicher Aussichtspunkt über die Landschaft von Jifna.",
-                  "category": "natural",
-                  "coords": [
-                        35.229892,
-                        31.946837
-                  ]
-            },
-            {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Al-Rozana-Verein für Kultur und Erbe, ein kulturelles Zentrum in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
-                  "name": "Palestine Circus",
-                  "text": "Palästina-Zirkus, ein kultureller Ort in Jifna, der Zirkuskünste präsentiert.",
-                  "category": "landmark",
-                  "coords": [
-                        35.19846,
-                        31.970551
-                  ]
-            },
-            {
-                  "name": "Birzeit Mall",
-                  "text": "Birzeit-Einkaufszentrum, ein Einkaufszentrum in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.194423,
-                        31.968003
-                  ]
-            },
-            {
-                  "name": "Ancient Byzantine Fortress",
-                  "text": "Antike byzantinische Festung, Ruinen einer byzantinischen Befestigung in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.191307,
-                        31.965994
-                  ]
-            },
-            {
-                  "name": "Pais Hall",
-                  "text": "Pais-Halle, eine kulturelle Veranstaltungshalle in Jifna.",
-                  "category": "cultural",
-                  "coords": [
-                        35.222857,
-                        31.941312
-                  ]
-            },
-            {
-                  "name": "nadi ammar",
-                  "text": "Nadi Ammar, ein Gemeinschaftsclub in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.242791,
-                        31.977919
-                  ]
-            },
-            {
-                  "name": "Beit Midrash",
-                  "text": "Beit Midrash ist eine Jeschiwa (jüdische Religionsschule) in Jifna.",
-                  "category": "religious",
-                  "coords": [
-                        35.222119,
-                        31.94255
-                  ]
-            },
-            {
-                  "name": "Bnei Zvi Mikvah",
-                  "text": "Bnei-Zvi-Mikwe, ein altes jüdisches Ritualbad in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.22321,
-                        31.947281
-                  ]
             }
       ],
       "hu": [
@@ -14540,114 +13505,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.200879,
                         31.972464
-                  ]
-            },
-            {
-                  "name": "People's Museum",
-                  "text": "Nép Múzeuma, egy helyi múzeum, amely Jifna örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
-                  "name": "Efraim Farm",
-                  "text": "Efraim Farm, egy családi gazdaság Jifnában, mezőgazdasági tevékenységekkel.",
-                  "category": "family",
-                  "coords": [
-                        35.223988,
-                        31.944429
-                  ]
-            },
-            {
-                  "name": "Jacob's Ladder Dream Site",
-                  "text": "Jákob létrájának álomhelye, egy bibliai helyszín Jifnában, ahol Jákob állítólag a létráról álmodott.",
-                  "category": "landmark",
-                  "coords": [
-                        35.231885,
-                        31.949362
-                  ]
-            },
-            {
-                  "name": "Sha Na Einecha Lookout",
-                  "text": "Sha Na Einecha kilátó, egy természetes kilátó Jifna tájára.",
-                  "category": "natural",
-                  "coords": [
-                        35.229892,
-                        31.946837
-                  ]
-            },
-            {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Al Rozana Kulturális és Örökségvédelmi Egyesület, egy kulturális központ Jifnában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
-                  "name": "Palestine Circus",
-                  "text": "Palesztin Cirkusz, egy kulturális helyszín Jifnában, cirkuszművészeti előadásokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        35.19846,
-                        31.970551
-                  ]
-            },
-            {
-                  "name": "Birzeit Mall",
-                  "text": "Birzeit Bevásárlóközpont, egy bevásárlóközpont Jifnában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.194423,
-                        31.968003
-                  ]
-            },
-            {
-                  "name": "Ancient Byzantine Fortress",
-                  "text": "Ősi bizánci erőd, egy bizánci erődítmény romjai Jifnában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.191307,
-                        31.965994
-                  ]
-            },
-            {
-                  "name": "Pais Hall",
-                  "text": "Pais-terem, egy kulturális rendezvényterem Jifnában.",
-                  "category": "cultural",
-                  "coords": [
-                        35.222857,
-                        31.941312
-                  ]
-            },
-            {
-                  "name": "nadi ammar",
-                  "text": "Nadi Ammar, egy közösségi klub Jifnában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.242791,
-                        31.977919
-                  ]
-            },
-            {
-                  "name": "Beit Midrash",
-                  "text": "Beit Midrash egy jesiva (zsidó vallási iskola) Jifnában.",
-                  "category": "religious",
-                  "coords": [
-                        35.222119,
-                        31.94255
-                  ]
-            },
-            {
-                  "name": "Bnei Zvi Mikvah",
-                  "text": "Bnei Zvi Mikve, egy ősi zsidó rituális fürdő Jifnában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.22321,
-                        31.947281
                   ]
             }
       ],
@@ -14660,114 +13517,6 @@ export const palestineHistoryV2: POI[] = [
                         35.200879,
                         31.972464
                   ]
-            },
-            {
-                  "name": "People's Museum",
-                  "text": "Muzeul Poporului, un muzeu local care documentează patrimoniul Jifnei.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
-                  "name": "Efraim Farm",
-                  "text": "Ferma Efraim, o fermă de familie în Jifna cu activități agricole.",
-                  "category": "family",
-                  "coords": [
-                        35.223988,
-                        31.944429
-                  ]
-            },
-            {
-                  "name": "Jacob's Ladder Dream Site",
-                  "text": "Locul visului scării lui Iacob, un reper biblic în Jifna considerat locul visului lui Iacob cu scara.",
-                  "category": "landmark",
-                  "coords": [
-                        35.231885,
-                        31.949362
-                  ]
-            },
-            {
-                  "name": "Sha Na Einecha Lookout",
-                  "text": "Punct de belvedere Sha Na Einecha, un belvedere natural asupra peisajului Jifnei.",
-                  "category": "natural",
-                  "coords": [
-                        35.229892,
-                        31.946837
-                  ]
-            },
-            {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Asociația Al Rozana pentru Cultură și Patrimoniu, un centru cultural în Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
-                  "name": "Palestine Circus",
-                  "text": "Circus Palestine, un reper cultural în Jifna care oferă arte circene.",
-                  "category": "landmark",
-                  "coords": [
-                        35.19846,
-                        31.970551
-                  ]
-            },
-            {
-                  "name": "Birzeit Mall",
-                  "text": "Mall-ul Birzeit, un centru comercial în Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.194423,
-                        31.968003
-                  ]
-            },
-            {
-                  "name": "Ancient Byzantine Fortress",
-                  "text": "Cetatea Bizantină Antică, ruinele unei fortificații bizantine în Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.191307,
-                        31.965994
-                  ]
-            },
-            {
-                  "name": "Pais Hall",
-                  "text": "Sala Pais, o sală de evenimente culturale în Jifna.",
-                  "category": "cultural",
-                  "coords": [
-                        35.222857,
-                        31.941312
-                  ]
-            },
-            {
-                  "name": "nadi ammar",
-                  "text": "Nadi Ammar, un club comunitar în Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.242791,
-                        31.977919
-                  ]
-            },
-            {
-                  "name": "Beit Midrash",
-                  "text": "Beit Midrash este o ieșivă (școală religioasă evreiască) în Jifna.",
-                  "category": "religious",
-                  "coords": [
-                        35.222119,
-                        31.94255
-                  ]
-            },
-            {
-                  "name": "Bnei Zvi Mikvah",
-                  "text": "Mikveh Bnei Zvi, un vechi bazin ritual evreiesc în Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.22321,
-                        31.947281
-                  ]
             }
       ],
       "en": [
@@ -14778,114 +13527,6 @@ export const palestineHistoryV2: POI[] = [
                   "coords": [
                         35.200879,
                         31.972464
-                  ]
-            },
-            {
-                  "name": "People's Museum",
-                  "text": "People's Museum, a local museum documenting the heritage of Jifna.",
-                  "category": "museum",
-                  "coords": [
-                        35.200112,
-                        31.970706
-                  ]
-            },
-            {
-                  "name": "Efraim Farm",
-                  "text": "Efraim Farm, a family farm in Jifna offering agricultural activities.",
-                  "category": "family",
-                  "coords": [
-                        35.223988,
-                        31.944429
-                  ]
-            },
-            {
-                  "name": "Jacob's Ladder Dream Site",
-                  "text": "Jacob's Ladder Dream Site, a biblical landmark in Jifna reputed as the location of Jacob's ladder dream.",
-                  "category": "landmark",
-                  "coords": [
-                        35.231885,
-                        31.949362
-                  ]
-            },
-            {
-                  "name": "Sha Na Einecha Lookout",
-                  "text": "Sha Na Einecha Lookout, a natural viewpoint over the landscape of Jifna.",
-                  "category": "natural",
-                  "coords": [
-                        35.229892,
-                        31.946837
-                  ]
-            },
-            {
-                  "name": "Al Rozana Association for Culture and Heritage",
-                  "text": "Al Rozana Association for Culture and Heritage, a cultural heritage center in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.201465,
-                        31.969624
-                  ]
-            },
-            {
-                  "name": "Palestine Circus",
-                  "text": "Palestine Circus, a cultural landmark in Jifna offering circus arts.",
-                  "category": "landmark",
-                  "coords": [
-                        35.19846,
-                        31.970551
-                  ]
-            },
-            {
-                  "name": "Birzeit Mall",
-                  "text": "Birzeit Mall, a shopping center in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.194423,
-                        31.968003
-                  ]
-            },
-            {
-                  "name": "Ancient Byzantine Fortress",
-                  "text": "Ancient Byzantine Fortress, ruins of a Byzantine fortification in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.191307,
-                        31.965994
-                  ]
-            },
-            {
-                  "name": "Pais Hall",
-                  "text": "Pais Hall, a cultural event hall in Jifna.",
-                  "category": "cultural",
-                  "coords": [
-                        35.222857,
-                        31.941312
-                  ]
-            },
-            {
-                  "name": "nadi ammar",
-                  "text": "Nadi Ammar, a community club in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.242791,
-                        31.977919
-                  ]
-            },
-            {
-                  "name": "Beit Midrash",
-                  "text": "Beit Midrash is a yeshiva (Jewish religious school) in Jifna.",
-                  "category": "religious",
-                  "coords": [
-                        35.222119,
-                        31.94255
-                  ]
-            },
-            {
-                  "name": "Bnei Zvi Mikvah",
-                  "text": "Bnei Zvi Mikvah, an ancient Jewish ritual bath in Jifna.",
-                  "category": "landmark",
-                  "coords": [
-                        35.22321,
-                        31.947281
                   ]
             }
       ]
@@ -14937,15 +13578,6 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-kur-village-history-v2", "sights": {
       "de": [
             {
-                  "name": "Kur",
-                  "text": "Eine archäologische Stätte im historischen Dorf Kur.",
-                  "category": "historical",
-                  "coords": [
-                        35.097382,
-                        32.235808
-                  ]
-            },
-            {
                   "name": "Old City",
                   "text": "Historische Befestigungen und alte Strukturen im Dorf Kur.",
                   "category": "castle",
@@ -14991,30 +13623,12 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Jiffa",
-                  "text": "Eine archäologische Fundstätte in der Nähe von Kur.",
-                  "category": "historical",
-                  "coords": [
-                        35.063655,
-                        32.206996
-                  ]
-            },
-            {
                   "name": "Nebi Rabah",
                   "text": "Ein Naturschutzgebiet in der Nähe von Kur.",
                   "category": "natural",
                   "coords": [
                         35.125566,
                         32.202202
-                  ]
-            },
-            {
-                  "name": "Seikh Hoban (Kur)",
-                  "text": "Ein Naturschutzgebiet und Naturraum bei Kur.",
-                  "category": "natural",
-                  "coords": [
-                        35.101003,
-                        32.229105
                   ]
             },
             {
@@ -15092,15 +13706,6 @@ export const palestineHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kur",
-                  "text": "Régészeti lelőhely Kur történelmi falujában.",
-                  "category": "historical",
-                  "coords": [
-                        35.097382,
-                        32.235808
-                  ]
-            },
-            {
                   "name": "Old City",
                   "text": "Történelmi erődítmények és régi épületek Kur falujában.",
                   "category": "castle",
@@ -15146,30 +13751,12 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Jiffa",
-                  "text": "Régészeti lelőhely Kur közelében.",
-                  "category": "historical",
-                  "coords": [
-                        35.063655,
-                        32.206996
-                  ]
-            },
-            {
                   "name": "Nebi Rabah",
                   "text": "Természetvédelmi terület Kur közelében.",
                   "category": "natural",
                   "coords": [
                         35.125566,
                         32.202202
-                  ]
-            },
-            {
-                  "name": "Seikh Hoban (Kur)",
-                  "text": "Természetvédelmi terület és természeti helyszín Kur-nál.",
-                  "category": "natural",
-                  "coords": [
-                        35.101003,
-                        32.229105
                   ]
             },
             {
@@ -15247,15 +13834,6 @@ export const palestineHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kur",
-                  "text": "Un sit arheologic în satul istoric Kur.",
-                  "category": "historical",
-                  "coords": [
-                        35.097382,
-                        32.235808
-                  ]
-            },
-            {
                   "name": "Old City",
                   "text": "Fortificații istorice și structuri vechi în satul Kur.",
                   "category": "castle",
@@ -15301,30 +13879,12 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Jiffa",
-                  "text": "Un sit arheologic situat în apropiere de Kur.",
-                  "category": "historical",
-                  "coords": [
-                        35.063655,
-                        32.206996
-                  ]
-            },
-            {
                   "name": "Nebi Rabah",
                   "text": "O rezervație naturală în apropiere de Kur.",
                   "category": "natural",
                   "coords": [
                         35.125566,
                         32.202202
-                  ]
-            },
-            {
-                  "name": "Seikh Hoban (Kur)",
-                  "text": "Rezervație naturală și sit natural lângă Kur.",
-                  "category": "natural",
-                  "coords": [
-                        35.101003,
-                        32.229105
                   ]
             },
             {
@@ -15402,15 +13962,6 @@ export const palestineHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kur",
-                  "text": "An archaeological site in the historical village of Kur.",
-                  "category": "historical",
-                  "coords": [
-                        35.097382,
-                        32.235808
-                  ]
-            },
-            {
                   "name": "Old City",
                   "text": "Historical fortifications and old structures in the village of Kur.",
                   "category": "castle",
@@ -15456,30 +14007,12 @@ export const palestineHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Jiffa",
-                  "text": "An archaeological site located near Kur.",
-                  "category": "historical",
-                  "coords": [
-                        35.063655,
-                        32.206996
-                  ]
-            },
-            {
                   "name": "Nebi Rabah",
                   "text": "A nature reserve near Kur.",
                   "category": "natural",
                   "coords": [
                         35.125566,
                         32.202202
-                  ]
-            },
-            {
-                  "name": "Seikh Hoban (Kur)",
-                  "text": "Nature reserve and natural site near Kur.",
-                  "category": "natural",
-                  "coords": [
-                        35.101003,
-                        32.229105
                   ]
             },
             {
@@ -15603,15 +14136,6 @@ export const palestineHistoryV2: POI[] = [
     id: "palestine-arraba-palaces-history-v2", "sights": {
       "de": [
             {
-                  "name": "jehad mousa home",
-                  "text": "Ein historisches Steinhaus in Arraba, das für seine prächtigen Paläste aus der osmanischen Zeit bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        35.204784,
-                        32.40275
-                  ]
-            },
-            {
                   "name": "Mohammed abu salah home",
                   "text": "Eine lokale Attraktion in Arraba, einem der palästinensischen „Throndörfer“ mit reichem architektonischem Erbe.",
                   "category": "landmark",
@@ -15694,15 +14218,6 @@ export const palestineHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "jehad mousa home",
-                  "text": "Történelmi kőház Arrabában, amely az oszmán korszakból származó pompás palotáiról ismert.",
-                  "category": "castle",
-                  "coords": [
-                        35.204784,
-                        32.40275
-                  ]
-            },
             {
                   "name": "Mohammed abu salah home",
                   "text": "Helyi látnivaló Arrabában, a gazdag építészeti örökséggel rendelkező palesztin „trónfalvak” egyikében.",
@@ -15787,15 +14302,6 @@ export const palestineHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "jehad mousa home",
-                  "text": "O casă istorică din piatră în Arraba, localitate cunoscută pentru palatele sale magnifice din epoca otomană.",
-                  "category": "castle",
-                  "coords": [
-                        35.204784,
-                        32.40275
-                  ]
-            },
-            {
                   "name": "Mohammed abu salah home",
                   "text": "O atracție locală în Arraba, unul dintre „satele tronului” palestiniene cu o bogată moștenire arhitecturală.",
                   "category": "landmark",
@@ -15878,15 +14384,6 @@ export const palestineHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "jehad mousa home",
-                  "text": "A historic stone residence in Arraba, known for its grand palaces from the Ottoman era.",
-                  "category": "castle",
-                  "coords": [
-                        35.204784,
-                        32.40275
-                  ]
-            },
             {
                   "name": "Mohammed abu salah home",
                   "text": "A local attraction in Arraba, one of the Palestinian 'throne villages' with a rich architectural heritage.",

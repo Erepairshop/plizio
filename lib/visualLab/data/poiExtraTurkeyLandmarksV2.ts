@@ -724,15 +724,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                         39.653247,
                         40.701775
                   ]
-            },
-            {
-                  "name": "Aya Varvara Kilisesi",
-                  "text": "Eine kleine Kirche in der Nähe des Sümela-Klosters, die der Heiligen Barbara gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        39.659571,
-                        40.687138
-                  ]
             }
       ],
       "hu": [
@@ -752,15 +743,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                   "coords": [
                         39.653247,
                         40.701775
-                  ]
-            },
-            {
-                  "name": "Aya Varvara Kilisesi",
-                  "text": "A Sümela-kolostor közelében található kis templom, amelyet Szent Borbálának szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        39.659571,
-                        40.687138
                   ]
             }
       ],
@@ -782,15 +764,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                         39.653247,
                         40.701775
                   ]
-            },
-            {
-                  "name": "Aya Varvara Kilisesi",
-                  "text": "O mică biserică situată lângă Mănăstirea Sümela, dedicată Sfintei Varvara.",
-                  "category": "religious",
-                  "coords": [
-                        39.659571,
-                        40.687138
-                  ]
             }
       ],
       "en": [
@@ -810,15 +783,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                   "coords": [
                         39.653247,
                         40.701775
-                  ]
-            },
-            {
-                  "name": "Aya Varvara Kilisesi",
-                  "text": "A small church located near the Sümela Monastery, dedicated to Saint Barbara.",
-                  "category": "religious",
-                  "coords": [
-                        39.659571,
-                        40.687138
                   ]
             }
       ]
@@ -1068,15 +1032,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gloria Aspendos Arena",
-                  "text": "Moderne Gloria-Aspendos-Arena neben dem antiken Theater von Aspendos.",
-                  "category": "cultural",
-                  "coords": [
-                        31.166902,
-                        36.932174
-                  ]
-            },
-            {
                   "name": "Cistern",
                   "text": "Antike Zisterne nahe dem Aspendos-Theater, diente der Wasserversorgung.",
                   "category": "historical",
@@ -1121,15 +1076,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                   "coords": [
                         31.169658,
                         36.94036
-                  ]
-            },
-            {
-                  "name": "Gloria Aspendos Arena",
-                  "text": "Modern Gloria Aspendos Aréna az ókori Aspendos színház mellett.",
-                  "category": "cultural",
-                  "coords": [
-                        31.166902,
-                        36.932174
                   ]
             },
             {
@@ -1180,15 +1126,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gloria Aspendos Arena",
-                  "text": "Arena modernă Gloria Aspendos, alături de teatrul antic Aspendos.",
-                  "category": "cultural",
-                  "coords": [
-                        31.166902,
-                        36.932174
-                  ]
-            },
-            {
                   "name": "Cistern",
                   "text": "Cisternă antică lângă teatrul Aspendos, folosită pentru depozitarea apei.",
                   "category": "historical",
@@ -1233,15 +1170,6 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
                   "coords": [
                         31.169658,
                         36.94036
-                  ]
-            },
-            {
-                  "name": "Gloria Aspendos Arena",
-                  "text": "Modern Gloria Aspendos Arena adjacent to the ancient Aspendos theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        31.166902,
-                        36.932174
                   ]
             },
             {

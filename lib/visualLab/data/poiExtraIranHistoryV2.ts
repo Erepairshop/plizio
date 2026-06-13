@@ -7427,57 +7427,12 @@ export const poiExtraIranHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kashan Central Mosque",
-                  "text": "Diese historische Moschee besticht durch ihre massive Ziegelkuppel und zwei hoch aufragende Minarette aus der Seldschuken-Ära.",
-                  "category": "religious",
-                  "coords": [
-                        51.443548,
-                        33.983589
-                  ]
-            },
-            {
                   "name": "Khan Hamam",
                   "text": "Ein wunderschön restauriertes traditionelles Badehaus im Herzen des Basars von Kaschan mit kunstvollen Kachelmosaiken.",
                   "category": "landmark",
                   "coords": [
                         51.449509,
                         33.98513
-                  ]
-            },
-            {
-                  "name": "Traditional iranian sport",
-                  "text": "In diesem „Haus der Kraft“ (Zurkhaneh) führen Athleten rituelle Übungen zu den rhythmischen Schlägen einer Trommel aus.",
-                  "category": "landmark",
-                  "coords": [
-                        51.451592,
-                        33.987033
-                  ]
-            },
-            {
-                  "name": "Al_e yasin historical house",
-                  "text": "Ein traditionelles Wohnhaus aus dem 19. Jahrhundert mit eleganten Stuckarbeiten und einem symmetrischen Innenhof.",
-                  "category": "landmark",
-                  "coords": [
-                        51.458666,
-                        33.985357
-                  ]
-            },
-            {
-                  "name": "Museum of fine arts",
-                  "text": "Dieses im Fin-Garten gelegene Museum zeigt zeitgenössische iranische Gemälde und Kunsthandwerk.",
-                  "category": "museum",
-                  "coords": [
-                        51.444376,
-                        33.980674
-                  ]
-            },
-            {
-                  "name": "Mahinestane Raheb's House",
-                  "text": "Ein restauriertes Kaufmannshaus aus der Kadscharenzeit, das heute als Boutique-Hotel mit traditionellen Windtürmen dient.",
-                  "category": "historical",
-                  "coords": [
-                        51.442837,
-                        33.980823
                   ]
             },
             {
@@ -7490,75 +7445,12 @@ export const poiExtraIranHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Toy Museum",
-                  "text": "Dieses in einem historischen Gebäude untergebrachte Museum zeigt traditionelle iranische Puppen und Marionetten.",
-                  "category": "museum",
-                  "coords": [
-                        51.438989,
-                        33.975498
-                  ]
-            },
-            {
-                  "name": "Vayu Art and Mind Residency",
-                  "text": "Ein Kulturraum in einem restaurierten historischen Haus, der zeitgenössischer Kunst und Workshops gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        51.435954,
-                        33.979013
-                  ]
-            },
-            {
-                  "name": "Sharifian House",
-                  "text": "Ein traditionelles Wohnhaus, das für seine detailreichen Gipsschnitzereien und den klassischen persischen Innenhof bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        51.447203,
-                        33.973427
-                  ]
-            },
-            {
-                  "name": "Soltani Mosque",
-                  "text": "Eine Moschee aus der Kadscharenzeit mit einem großen Innenhof, der von Backsteinbögen und blauen Kacheln umgeben ist.",
-                  "category": "religious",
-                  "coords": [
-                        51.447879,
-                        33.982869
-                  ]
-            },
-            {
-                  "name": "Hashemian Haus",
-                  "text": "Ein Kaufmannshaus, das die typische Architektur von Kaschan mit getrennten Sommer- und Winterwohnbereichen zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        51.441581,
-                        33.977669
-                  ]
-            },
-            {
-                  "name": "Abbasid Haus",
-                  "text": "Ein riesiger Komplex aus dem 18. Jahrhundert mit sechs Ebenen von Innenhöfen und komplizierten Wandmalereien.",
-                  "category": "landmark",
-                  "coords": [
-                        51.44046,
-                        33.976259
-                  ]
-            },
-            {
                   "name": "Sultan Amir Ahmad Badehaus",
                   "text": "Ein Badehaus aus dem 16. Jahrhundert, das für seine türkisfarbenen Kacheln und den Panoramablick vom Kuppeldach bekannt ist.",
                   "category": "museum",
                   "coords": [
                         51.441065,
                         33.975203
-                  ]
-            },
-            {
-                  "name": "Ameriha Haus",
-                  "text": "Das größte historische Haus der Stadt, das aus sieben Innenhöfen und über achtzig Zimmern besteht.",
-                  "category": "landmark",
-                  "coords": [
-                        51.441965,
-                        33.975167
                   ]
             },
             {
@@ -7618,57 +7510,12 @@ export const poiExtraIranHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kashan Central Mosque",
-                  "text": "Ez a történelmi mecset masszív tégla kupolájával és két magasodó, szeldzsuk kori minaretjével nyűgöz le.",
-                  "category": "religious",
-                  "coords": [
-                        51.443548,
-                        33.983589
-                  ]
-            },
-            {
                   "name": "Khan Hamam",
                   "text": "Gyönyörűen felújított hagyományos fürdőház Kásán bazárjának szívében, díszes csempemozaikokkal.",
                   "category": "landmark",
                   "coords": [
                         51.449509,
                         33.98513
-                  ]
-            },
-            {
-                  "name": "Traditional iranian sport",
-                  "text": "Ebben az „erő házában” (Zurkhaneh) a sportolók rituális gyakorlatokat végeznek egy dob ritmikus ütemére.",
-                  "category": "landmark",
-                  "coords": [
-                        51.451592,
-                        33.987033
-                  ]
-            },
-            {
-                  "name": "Al_e yasin historical house",
-                  "text": "Elegáns stukkókkal és szimmetrikus udvarral rendelkező hagyományos 19. századi lakóház.",
-                  "category": "landmark",
-                  "coords": [
-                        51.458666,
-                        33.985357
-                  ]
-            },
-            {
-                  "name": "Museum of fine arts",
-                  "text": "A Fin-kertben található múzeum kortárs iráni festményeket és kézműves tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        51.444376,
-                        33.980674
-                  ]
-            },
-            {
-                  "name": "Mahinestane Raheb's House",
-                  "text": "Egy felújított kádzsár-kori kereskedőház, amely ma hagyományos széltornyokkal rendelkező butikhotelként működik.",
-                  "category": "historical",
-                  "coords": [
-                        51.442837,
-                        33.980823
                   ]
             },
             {
@@ -7681,75 +7528,12 @@ export const poiExtraIranHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Toy Museum",
-                  "text": "Egy történelmi épületben helyet kapott múzeum, amely hagyományos iráni babákat és bábokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        51.438989,
-                        33.975498
-                  ]
-            },
-            {
-                  "name": "Vayu Art and Mind Residency",
-                  "text": "Kortárs művészetnek és workshopoknak szentelt kulturális tér egy felújított történelmi házban.",
-                  "category": "landmark",
-                  "coords": [
-                        51.435954,
-                        33.979013
-                  ]
-            },
-            {
-                  "name": "Sharifian House",
-                  "text": "Részletgazdag gipszfaragványairól és klasszikus perzsa udvari elrendezéséről ismert hagyományos lakóház.",
-                  "category": "landmark",
-                  "coords": [
-                        51.447203,
-                        33.973427
-                  ]
-            },
-            {
-                  "name": "Soltani Mosque",
-                  "text": "Kádzsár-kori mecset nagyméretű udvarral, amelyet téglaívek és kék csempézés vesz körül.",
-                  "category": "religious",
-                  "coords": [
-                        51.447879,
-                        33.982869
-                  ]
-            },
-            {
-                  "name": "Hashemian House",
-                  "text": "Kereskedőház, amely Kasán jellegzetes építészetét mutatja be külön nyári és téli lakrészekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        51.441581,
-                        33.977669
-                  ]
-            },
-            {
-                  "name": "Historic Home of Abbasid",
-                  "text": "Hatalmas, 18. századi komplexum hat szintnyi udvarral és bonyolult falfaragványokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        51.44046,
-                        33.976259
-                  ]
-            },
-            {
                   "name": "Sultan Amir Ahmad Bathhouse",
                   "text": "16. századi fürdőház, amely türkizkék csempézéséről és a kupolás tetőről nyíló panorámájáról híres.",
                   "category": "museum",
                   "coords": [
                         51.441065,
                         33.975203
-                  ]
-            },
-            {
-                  "name": "Āmeri House",
-                  "text": "A város legnagyobb történelmi háza, amely hét udvarból és több mint nyolcvan szobából áll.",
-                  "category": "landmark",
-                  "coords": [
-                        51.441965,
-                        33.975167
                   ]
             },
             {
@@ -7809,57 +7593,12 @@ export const poiExtraIranHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kashan Central Mosque",
-                  "text": "Această moschee istorică impresionează prin cupola sa masivă de cărămidă și cele două minarete înalte din era Selgiuc.",
-                  "category": "religious",
-                  "coords": [
-                        51.443548,
-                        33.983589
-                  ]
-            },
-            {
                   "name": "Khan Hamam",
                   "text": "O baie tradițională restaurată superb în inima bazarului din Kashan, cu mozaicuri ornamentate din faianță.",
                   "category": "landmark",
                   "coords": [
                         51.449509,
                         33.98513
-                  ]
-            },
-            {
-                  "name": "Traditional iranian sport",
-                  "text": "În această „casă a forței” (Zurkhaneh), sportivii execută exerciții ritualice pe ritmul unei tobe.",
-                  "category": "landmark",
-                  "coords": [
-                        51.451592,
-                        33.987033
-                  ]
-            },
-            {
-                  "name": "Al_e yasin historical house",
-                  "text": "O reședință tradițională din secolul al XIX-lea, cu lucrări elegante în stuc și o curte simetrică.",
-                  "category": "landmark",
-                  "coords": [
-                        51.458666,
-                        33.985357
-                  ]
-            },
-            {
-                  "name": "Museum of fine arts",
-                  "text": "Situat în Grădina Fin, acest muzeu expune picturi și obiecte de meșteșugărit iraniene contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        51.444376,
-                        33.980674
-                  ]
-            },
-            {
-                  "name": "Mahinestane Raheb's House",
-                  "text": "O casă de negustor restaurată din epoca Qajar, care servește acum ca hotel boutique cu turnuri de vânt tradiționale.",
-                  "category": "historical",
-                  "coords": [
-                        51.442837,
-                        33.980823
                   ]
             },
             {
@@ -7872,75 +7611,12 @@ export const poiExtraIranHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Toy Museum",
-                  "text": "Găzduit într-o clădire istorică, acest muzeu prezintă păpuși și marionete tradiționale iraniene.",
-                  "category": "museum",
-                  "coords": [
-                        51.438989,
-                        33.975498
-                  ]
-            },
-            {
-                  "name": "Vayu Art and Mind Residency",
-                  "text": "Un spațiu cultural într-o casă istorică restaurată, dedicat artei contemporane și atelierelor.",
-                  "category": "landmark",
-                  "coords": [
-                        51.435954,
-                        33.979013
-                  ]
-            },
-            {
-                  "name": "Sharifian House",
-                  "text": "O reședință tradițională cunoscută pentru sculpturile detaliate în ipsos și aspectul clasic de curte persană.",
-                  "category": "landmark",
-                  "coords": [
-                        51.447203,
-                        33.973427
-                  ]
-            },
-            {
-                  "name": "Soltani Mosque",
-                  "text": "O moschee din epoca Qajar, cu o curte mare înconjurată de arcade de cărămidă și plăci ceramice albastre.",
-                  "category": "religious",
-                  "coords": [
-                        51.447879,
-                        33.982869
-                  ]
-            },
-            {
-                  "name": "Hashemian House",
-                  "text": "O casă de negustor care prezintă arhitectura tipică din Kashan, cu zone de locuit separate pentru vară și iarnă.",
-                  "category": "landmark",
-                  "coords": [
-                        51.441581,
-                        33.977669
-                  ]
-            },
-            {
-                  "name": "Historic Home of Abbasid",
-                  "text": "Un complex masiv din secolul al XVIII-lea, cu șase niveluri de curți și sculpturi murale complicate.",
-                  "category": "landmark",
-                  "coords": [
-                        51.44046,
-                        33.976259
-                  ]
-            },
-            {
                   "name": "Sultan Amir Ahmad Bathhouse",
                   "text": "O baie publică din secolul al XVI-lea, faimoasă pentru placarea cu faianță turcoaz și vederea panoramică de pe acoperișul bombat.",
                   "category": "museum",
                   "coords": [
                         51.441065,
                         33.975203
-                  ]
-            },
-            {
-                  "name": "Āmeri House",
-                  "text": "Cea mai mare casă istorică din oraș, formată din șapte curți și peste optzeci de camere.",
-                  "category": "landmark",
-                  "coords": [
-                        51.441965,
-                        33.975167
                   ]
             },
             {
@@ -8000,57 +7676,12 @@ export const poiExtraIranHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kashan Central Mosque",
-                  "text": "This historic mosque features a massive brick dome and two towering minarets dating back to the Seljuk era.",
-                  "category": "religious",
-                  "coords": [
-                        51.443548,
-                        33.983589
-                  ]
-            },
-            {
                   "name": "Khan Hamam",
                   "text": "A beautifully restored traditional bathhouse located in the heart of Kashan's bazaar, featuring ornate tile mosaics.",
                   "category": "landmark",
                   "coords": [
                         51.449509,
                         33.98513
-                  ]
-            },
-            {
-                  "name": "Traditional iranian sport",
-                  "text": "In this 'House of Strength' (Zurkhaneh), athletes perform ritualized physical exercises to the rhythmic beat of a drum.",
-                  "category": "landmark",
-                  "coords": [
-                        51.451592,
-                        33.987033
-                  ]
-            },
-            {
-                  "name": "Al_e yasin historical house",
-                  "text": "A traditional 19th-century residence featuring elegant stucco work and a symmetrical courtyard.",
-                  "category": "landmark",
-                  "coords": [
-                        51.458666,
-                        33.985357
-                  ]
-            },
-            {
-                  "name": "Museum of fine arts",
-                  "text": "Located within the Fin Garden, this museum displays contemporary Iranian paintings and crafts.",
-                  "category": "museum",
-                  "coords": [
-                        51.444376,
-                        33.980674
-                  ]
-            },
-            {
-                  "name": "Mahinestane Raheb's House",
-                  "text": "A restored Qajar-era merchant house now serving as a boutique hotel with traditional wind towers.",
-                  "category": "historical",
-                  "coords": [
-                        51.442837,
-                        33.980823
                   ]
             },
             {
@@ -8063,75 +7694,12 @@ export const poiExtraIranHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Toy Museum",
-                  "text": "Housed in a historic building, this museum showcases traditional Iranian dolls and puppets.",
-                  "category": "museum",
-                  "coords": [
-                        51.438989,
-                        33.975498
-                  ]
-            },
-            {
-                  "name": "Vayu Art and Mind Residency",
-                  "text": "A cultural space in a restored historical house dedicated to contemporary art and workshops.",
-                  "category": "landmark",
-                  "coords": [
-                        51.435954,
-                        33.979013
-                  ]
-            },
-            {
-                  "name": "Sharifian House",
-                  "text": "A traditional residence known for its detailed plaster carvings and classic Persian courtyard layout.",
-                  "category": "landmark",
-                  "coords": [
-                        51.447203,
-                        33.973427
-                  ]
-            },
-            {
-                  "name": "Soltani Mosque",
-                  "text": "A Qajar-era mosque featuring a large courtyard surrounded by brick arches and blue tiling.",
-                  "category": "religious",
-                  "coords": [
-                        51.447879,
-                        33.982869
-                  ]
-            },
-            {
-                  "name": "Hashemian House",
-                  "text": "A merchant's home showcasing typical Kashan architecture with separate summer and winter living areas.",
-                  "category": "landmark",
-                  "coords": [
-                        51.441581,
-                        33.977669
-                  ]
-            },
-            {
-                  "name": "Historic Home of Abbasid",
-                  "text": "A massive 18th-century complex with six levels of courtyards and intricate wall carvings.",
-                  "category": "landmark",
-                  "coords": [
-                        51.44046,
-                        33.976259
-                  ]
-            },
-            {
                   "name": "Sultan Amir Ahmad Bathhouse",
                   "text": "A 16th-century bathhouse famous for its turquoise tilework and panoramic views from the domed roof.",
                   "category": "museum",
                   "coords": [
                         51.441065,
                         33.975203
-                  ]
-            },
-            {
-                  "name": "Āmeri House",
-                  "text": "The largest historical house in the city, consisting of seven courtyards and over eighty rooms.",
-                  "category": "landmark",
-                  "coords": [
-                        51.441965,
-                        33.975167
                   ]
             },
             {

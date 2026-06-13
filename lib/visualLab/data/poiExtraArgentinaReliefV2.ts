@@ -1936,15 +1936,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
     id: "sistema-de-tandilia-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Capilla Santa Gemma",
-                  "text": "Die historische Steinkapelle in Tandil zeichnet sich durch ihre schlichte Architektur und ihre friedliche Lage in der argentinischen Hügellandschaft aus.",
-                  "category": "religious",
-                  "coords": [
-                        -59.152644,
-                        -37.328994
-                  ]
-            },
-            {
                   "name": "Monte Calvario",
                   "text": "Dieser wichtige Pilgerort verfügt über einen steinernen Kreuzweg, der sich zwischen Eukalyptus- und Pinienbäumen einen Hügel hinaufschlängelt.",
                   "category": "landmark",
@@ -1981,48 +1972,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Ciencias Naturales",
-                  "text": "Das städtische Naturkundemuseum beherbergt eine wertvolle Sammlung von Fossilien und Mineralien aus der geologisch alten Region Sistema de Tandilia.",
-                  "category": "museum",
-                  "coords": [
-                        -59.140922,
-                        -37.325055
-                  ]
-            },
-            {
-                  "name": "Museo del Fuerte Indepencia",
-                  "text": "Dieses historische Museum dokumentiert mit zahlreichen Artefakten und Dokumenten die Gründungszeit Tandils als militärische Grenzfestung in der Pampa.",
-                  "category": "museum",
-                  "coords": [
-                        -59.130872,
-                        -37.320539
-                  ]
-            },
-            {
                   "name": "Museo de Arte Religioso",
                   "text": "Das Museum für sakrale Kunst präsentiert in seinen Vitrinen antike Gewänder, Kruzifixe und religiöse Malereien aus der Geschichte der örtlichen Diözesen.",
                   "category": "museum",
                   "coords": [
                         -59.136112,
                         -37.329744
-                  ]
-            },
-            {
-                  "name": "Museo Municipal de Bellas Artes",
-                  "text": "Das städtische Kunstmuseum zeigt eine bemerkenswerte Sammlung argentinischer Malerei und Skulpturen, mit einem Fokus auf regionale Künstler des 20. Jahrhunderts.",
-                  "category": "museum",
-                  "coords": [
-                        -59.137305,
-                        -37.330361
-                  ]
-            },
-            {
-                  "name": "Museo Vehiculos de Epoca",
-                  "text": "In dieser Halle können Autoliebhaber liebevoll restaurierte Oldtimer und historische Motorräder bewundern, die auf den argentinischen Straßen einst unterwegs waren.",
-                  "category": "museum",
-                  "coords": [
-                        -59.129194,
-                        -37.331036
                   ]
             },
             {
@@ -2035,15 +1990,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Castillo Morisco",
-                  "text": "Die im maurischen Stil erbaute Burgfestung thront auf dem Parque Independencia und ist ein beliebtes Wahrzeichen, das von der spanischen Einwanderung erzählt.",
-                  "category": "castle",
-                  "coords": [
-                        -59.137764,
-                        -37.340319
-                  ]
-            },
-            {
                   "name": "Cuna de la Aviacion",
                   "text": "Das Denkmal feiert die argentinische Luftfahrtgeschichte und steht symbolträchtig an einem Ort, der eng mit den frühen Fliegerpionieren der Region verbunden ist.",
                   "category": "historical",
@@ -2053,48 +1999,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a la Madre",
-                  "text": "Diese sanfte Steinskulptur im öffentlichen Raum würdigt die universelle Rolle der Mutter und stellt eine klassische Frauengestalt mit einem Kind in den Armen dar.",
-                  "category": "historical",
-                  "coords": [
-                        -59.132067,
-                        -37.336702
-                  ]
-            },
-            {
-                  "name": "Monumento a Juan Fugl",
-                  "text": "Das Denkmal ehrt den dänischen Einwanderer Juan Fugl, der im 19. Jahrhundert entscheidend zur Entwicklung der Landwirtschaft und Bildung in Tandil beitrug.",
-                  "category": "historical",
-                  "coords": [
-                        -59.132405,
-                        -37.342557
-                  ]
-            },
-            {
-                  "name": "Monumento a Facundo Cabral",
-                  "text": "Die Gedenkstätte erinnert an den berühmten argentinischen Cantautor und Poeten Facundo Cabral und dessen tiefgründiges musikalisches Erbe.",
-                  "category": "historical",
-                  "coords": [
-                        -59.10487,
-                        -37.32297
-                  ]
-            },
-            {
                   "name": "Monumento al Gaucho",
                   "text": "Diese bronzene Reiterstatue verkörpert den Geist des südamerikanischen Gauchos und feiert die traditionelle Reiter- und Rinderkultur der argentinischen Pampa.",
                   "category": "historical",
                   "coords": [
                         -59.118561,
                         -37.315264
-                  ]
-            },
-            {
-                  "name": "Monumento a Manuel Belgrano",
-                  "text": "Die würdevolle Statue erinnert an General Manuel Belgrano, den Schöpfer der argentinischen Nationalflagge und einen der wichtigsten Befreier des Landes.",
-                  "category": "historical",
-                  "coords": [
-                        -59.127921,
-                        -37.326525
                   ]
             },
             {
@@ -2125,57 +2035,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cruz Monte Calvario (12)",
-                  "text": "Dieses große Kruzifix markiert die zwölfte Station des Kreuzwegs auf dem Monte Calvario und lädt Pilger inmitten der bewaldeten Hügel zum Gebet ein.",
-                  "category": "historical",
-                  "coords": [
-                        -59.154949,
-                        -37.328835
-                  ]
-            },
-            {
-                  "name": "Monumento al Comerciante de Tandil",
-                  "text": "Die Skulptur würdigt die harte Arbeit und den Pioniergeist der lokalen Händler, die maßgeblich zum wirtschaftlichen Wachstum der Gemeinde beigetragen haben.",
-                  "category": "historical",
-                  "coords": [
-                        -59.130049,
-                        -37.341914
-                  ]
-            },
-            {
-                  "name": "Fuente de los Vascos",
-                  "text": "Der Brunnen der Basken ist ein steinernes Denkmal, das den baskischen Einwanderern in der Region Tandilia Tribut zollt.",
-                  "category": "historical",
-                  "coords": [
-                        -59.138338,
-                        -37.342966
-                  ]
-            },
-            {
                   "name": "Monumento Eduardo Aldasoro",
                   "text": "Das Eduardo-Aldasoro-Denkmal ist eine lokale Gedenkstätte im Tandilia-Gebiet, die dem Erbe dieser bemerkenswerten regionalen Persönlichkeit gewidmet ist.",
                   "category": "historical",
                   "coords": [
                         -59.128811,
                         -37.350641
-                  ]
-            },
-            {
-                  "name": "Monumento a El Fundidor",
-                  "text": "Dieses Denkmal aus Metallguss ehrt die traditionellen Schmelzer und Metallarbeiter, die zur industriellen Entwicklung der Region beigetragen haben.",
-                  "category": "historical",
-                  "coords": [
-                        -59.127128,
-                        -37.342952
-                  ]
-            },
-            {
-                  "name": "Monumento al Libertador José de San Martín",
-                  "text": "Ein stolzes bürgerliches Denkmal, das dem Befreier José de San Martín gewidmet ist und eine klassische Darstellung des südamerikanischen Helden auf einem Steinsockel zeigt.",
-                  "category": "historical",
-                  "coords": [
-                        -59.121114,
-                        -37.332625
                   ]
             },
             {
@@ -2197,15 +2062,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Portada del Parque Independencia",
-                  "text": "Der kunstvolle Granitbogen dient als monumentaler Eingang zum Parque Independencia und empfängt die Besucher an den grünen Hängen.",
-                  "category": "historical",
-                  "coords": [
-                        -59.137819,
-                        -37.33866
-                  ]
-            },
-            {
                   "name": "Teatro de la Confraternidad Ferroviaria",
                   "text": "Dieses historische Theater, das von der Bruderschaft der Eisenbahner erbaut wurde, ist bis heute Schauplatz regionaler Theateraufführungen und kultureller Veranstaltungen.",
                   "category": "cultural",
@@ -2222,36 +2078,9 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                         -59.135934,
                         -37.310579
                   ]
-            },
-            {
-                  "name": "Cervantes, Club De teatro",
-                  "text": "Der Cervantes Theatre Club ist ein intimer Veranstaltungsort in der Stadt, der für seine Aufführungen unabhängiger und experimenteller Stücke bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.136285,
-                        -37.32691
-                  ]
-            },
-            {
-                  "name": "\"El Club del Teatro\"",
-                  "text": "\"El Club del Teatro\" bietet eine gemütliche Bühne für lokale Theatertruppen und fördert das Engagement der Gemeinde durch regelmäßige Theater-Workshops und Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.138587,
-                        -37.328242
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Capilla Santa Gemma",
-                  "text": "A tandili történelmi kőkápolnát egyszerű építészete és békés elhelyezkedése jellemzi az argentin dombvidéken.",
-                  "category": "religious",
-                  "coords": [
-                        -59.152644,
-                        -37.328994
-                  ]
-            },
             {
                   "name": "Monte Calvario",
                   "text": "Ez a fontos zarándokhely egy kőből épült keresztúttal büszkélkedhet, amely eukaliptusz- és fenyőfák között kanyarog fel egy dombra.",
@@ -2289,48 +2118,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Ciencias Naturales",
-                  "text": "A városi természettudományi múzeum értékes kövület- és ásványgyűjteménynek ad otthont a geológiailag ősi Sistema de Tandilia régióból.",
-                  "category": "museum",
-                  "coords": [
-                        -59.140922,
-                        -37.325055
-                  ]
-            },
-            {
-                  "name": "Museo del Fuerte Indepencia",
-                  "text": "Ez a történelmi múzeum számos tárggyal és dokumentummal mutatja be Tandil alapításának idejét, amikor a pampa katonai határállomása volt.",
-                  "category": "museum",
-                  "coords": [
-                        -59.130872,
-                        -37.320539
-                  ]
-            },
-            {
                   "name": "Museo de Arte Religioso",
                   "text": "A szakrális művészetek múzeuma vitrinjeiben antik ruhákat, feszületeket és vallási festményeket mutat be a helyi egyházmegyék történetéből.",
                   "category": "museum",
                   "coords": [
                         -59.136112,
                         -37.329744
-                  ]
-            },
-            {
-                  "name": "Museo Municipal de Bellas Artes",
-                  "text": "A városi művészeti múzeum az argentin festészet és szobrászat figyelemre méltó gyűjteményét mutatja be, a 20. századi regionális művészekre összpontosítva.",
-                  "category": "museum",
-                  "coords": [
-                        -59.137305,
-                        -37.330361
-                  ]
-            },
-            {
-                  "name": "Museo Vehiculos de Epoca",
-                  "text": "Ebben a csarnokban az autórajongók szeretettel felújított veterán autókat és történelmi motorkerékpárokat csodálhatnak meg, amelyek egykor az argentin utakon jártak.",
-                  "category": "museum",
-                  "coords": [
-                        -59.129194,
-                        -37.331036
                   ]
             },
             {
@@ -2343,15 +2136,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Castillo Morisco",
-                  "text": "A mór stílusban épült várerőd a Parque Independencia parkban trónol, és a spanyol bevándorlásról mesélő népszerű nevezetesség.",
-                  "category": "castle",
-                  "coords": [
-                        -59.137764,
-                        -37.340319
-                  ]
-            },
-            {
                   "name": "Cuna de la Aviacion",
                   "text": "Az emlékmű az argentin repülés történetét ünnepli, és szimbolikusan egy olyan helyen áll, amely szorosan kapcsolódik a régió korai repülési úttörőihez.",
                   "category": "historical",
@@ -2361,48 +2145,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a la Madre",
-                  "text": "Ez a közterületen található lágy kőszobor az anya egyetemes szerepe előtt tiszteleg, és egy klasszikus nőalakot ábrázol karjaiban gyermekével.",
-                  "category": "historical",
-                  "coords": [
-                        -59.132067,
-                        -37.336702
-                  ]
-            },
-            {
-                  "name": "Monumento a Juan Fugl",
-                  "text": "Az emlékmű a dán bevándorló, Juan Fugl előtt tiszteleg, aki a 19. században jelentősen hozzájárult a tandili mezőgazdaság és oktatás fejlesztéséhez.",
-                  "category": "historical",
-                  "coords": [
-                        -59.132405,
-                        -37.342557
-                  ]
-            },
-            {
-                  "name": "Monumento a Facundo Cabral",
-                  "text": "Az emlékhely a híres argentin énekes-dalszerző és költő, Facundo Cabral és mélyreható zenei öröksége előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -59.10487,
-                        -37.32297
-                  ]
-            },
-            {
                   "name": "Monumento al Gaucho",
                   "text": "Ez a bronz lovasszobor a dél-amerikai gaucho szellemét testesíti meg, és az argentin pampa hagyományos lovas- és szarvasmarhakultúráját ünnepli.",
                   "category": "historical",
                   "coords": [
                         -59.118561,
                         -37.315264
-                  ]
-            },
-            {
-                  "name": "Monumento a Manuel Belgrano",
-                  "text": "A méltóságteljes szobor Manuel Belgrano tábornoknak, az argentin nemzeti zászló megalkotójának és az ország egyik legfontosabb felszabadítójának állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -59.127921,
-                        -37.326525
                   ]
             },
             {
@@ -2433,57 +2181,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cruz Monte Calvario (12)",
-                  "text": "Ez a nagy feszület jelzi a keresztút tizenkettedik állomását a Monte Calvario-n, és imádságra hívja a zarándokokat az erdős dombok között.",
-                  "category": "historical",
-                  "coords": [
-                        -59.154949,
-                        -37.328835
-                  ]
-            },
-            {
-                  "name": "Monumento al Comerciante de Tandil",
-                  "text": "A szobor a helyi kereskedők kemény munkáját és úttörő szellemét díjazza, akik jelentősen hozzájárultak a közösség gazdasági növekedéséhez.",
-                  "category": "historical",
-                  "coords": [
-                        -59.130049,
-                        -37.341914
-                  ]
-            },
-            {
-                  "name": "Fuente de los Vascos",
-                  "text": "A Baszkok kútja egy kőből épült emlékmű, amely a Tandilia régióban letelepedett baszk bevándorlók előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -59.138338,
-                        -37.342966
-                  ]
-            },
-            {
                   "name": "Monumento Eduardo Aldasoro",
                   "text": "Az Eduardo Aldasoro emlékmű egy helyi emlékhely a Tandilia régióban, amelyet e jelentős regionális személyiség örökségének megőrzésére emeltek.",
                   "category": "historical",
                   "coords": [
                         -59.128811,
                         -37.350641
-                  ]
-            },
-            {
-                  "name": "Monumento a El Fundidor",
-                  "text": "Ez a fémműves emlékmű azokat a hagyományos olvasztárokat és kohászokat tiszteli, akik hozzájárultak a régió ipari fejlődéséhez.",
-                  "category": "historical",
-                  "coords": [
-                        -59.127128,
-                        -37.342952
-                  ]
-            },
-            {
-                  "name": "Monumento al Libertador José de San Martín",
-                  "text": "A Szabadító, José de San Martín tiszteletére emelt büszke polgári emlékmű, amely a dél-amerikai hőst ábrázolja egy klasszikus kőtalapzaton.",
-                  "category": "historical",
-                  "coords": [
-                        -59.121114,
-                        -37.332625
                   ]
             },
             {
@@ -2505,15 +2208,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Portada del Parque Independencia",
-                  "text": "A díszes gránitboltív a Parque Independencia monumentális bejárataként szolgál, fogadva a zöldellő domboldalak látogatóit.",
-                  "category": "historical",
-                  "coords": [
-                        -59.137819,
-                        -37.33866
-                  ]
-            },
-            {
                   "name": "Teatro de la Confraternidad Ferroviaria",
                   "text": "A vasutas testvériség által épített történelmi színház ma is regionális drámai előadásoknak és kulturális eseményeknek ad otthont.",
                   "category": "cultural",
@@ -2530,36 +2224,9 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                         -59.135934,
                         -37.310579
                   ]
-            },
-            {
-                  "name": "Cervantes, Club De teatro",
-                  "text": "A Cervantes Színházi Klub egy intim előadó-művészeti helyszín a városban, amely független és kísérleti darabok színpadra állításáról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.136285,
-                        -37.32691
-                  ]
-            },
-            {
-                  "name": "\"El Club del Teatro\"",
-                  "text": "Az „El Club del Teatro” hangulatos színpadot kínál a helyi színtársulatoknak, rendszeres drámaműhelyekkel és előadásokkal ösztönözve a közösségi részvételt.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.138587,
-                        -37.328242
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Capilla Santa Gemma",
-                  "text": "Capela istorică de piatră din Tandil se remarcă prin arhitectura sa simplă și prin locația sa pașnică din peisajul deluros argentinian.",
-                  "category": "religious",
-                  "coords": [
-                        -59.152644,
-                        -37.328994
-                  ]
-            },
             {
                   "name": "Monte Calvario",
                   "text": "Acest important loc de pelerinaj are o Cale a Crucii din piatră, care șerpuiește pe un deal printre eucalipți și pini.",
@@ -2597,48 +2264,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Ciencias Naturales",
-                  "text": "Muzeul municipal de științe naturale găzduiește o colecție valoroasă de fosile și minerale din regiunea antică geologic Sistema de Tandilia.",
-                  "category": "museum",
-                  "coords": [
-                        -59.140922,
-                        -37.325055
-                  ]
-            },
-            {
-                  "name": "Museo del Fuerte Indepencia",
-                  "text": "Acest muzeu istoric documentează cu numeroase artefacte și documente perioada de înființare a orașului Tandil ca fortăreață de frontieră militară în pampas.",
-                  "category": "museum",
-                  "coords": [
-                        -59.130872,
-                        -37.320539
-                  ]
-            },
-            {
                   "name": "Museo de Arte Religioso",
                   "text": "Muzeul de artă sacră prezintă în vitrinele sale veșminte antice, crucifixuri și picturi religioase din istoria diecezelor locale.",
                   "category": "museum",
                   "coords": [
                         -59.136112,
                         -37.329744
-                  ]
-            },
-            {
-                  "name": "Museo Municipal de Bellas Artes",
-                  "text": "Muzeul municipal de artă prezintă o colecție remarcabilă de pictură și sculptură argentiniană, cu accent pe artiștii regionali din secolul al XX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        -59.137305,
-                        -37.330361
-                  ]
-            },
-            {
-                  "name": "Museo Vehiculos de Epoca",
-                  "text": "În această hală, pasionații de mașini pot admira mașini de epocă și motociclete istorice restaurate cu grijă, care au circulat odinioară pe drumurile argentiniene.",
-                  "category": "museum",
-                  "coords": [
-                        -59.129194,
-                        -37.331036
                   ]
             },
             {
@@ -2651,15 +2282,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Castillo Morisco",
-                  "text": "Fortăreața castelului, construită în stil maur, tronează în Parque Independencia și este un punct de reper popular care spune povestea imigrației spaniole.",
-                  "category": "castle",
-                  "coords": [
-                        -59.137764,
-                        -37.340319
-                  ]
-            },
-            {
                   "name": "Cuna de la Aviacion",
                   "text": "Monumentul celebrează istoria aviației argentiniene și este așezat simbolic într-un loc strâns legat de primii pionieri ai aviației din regiune.",
                   "category": "historical",
@@ -2669,48 +2291,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a la Madre",
-                  "text": "Această sculptură blândă de piatră din spațiul public onorează rolul universal al mamei și înfățișează o figură feminină clasică cu un copil în brațe.",
-                  "category": "historical",
-                  "coords": [
-                        -59.132067,
-                        -37.336702
-                  ]
-            },
-            {
-                  "name": "Monumento a Juan Fugl",
-                  "text": "Monumentul îl onorează pe imigrantul danez Juan Fugl, care a contribuit decisiv la dezvoltarea agriculturii și a educației din Tandil în secolul al XIX-lea.",
-                  "category": "historical",
-                  "coords": [
-                        -59.132405,
-                        -37.342557
-                  ]
-            },
-            {
-                  "name": "Monumento a Facundo Cabral",
-                  "text": "Monumentul comemorează faimosul cântăreț și poet argentinian Facundo Cabral și moștenirea sa muzicală profundă.",
-                  "category": "historical",
-                  "coords": [
-                        -59.10487,
-                        -37.32297
-                  ]
-            },
-            {
                   "name": "Monumento al Gaucho",
                   "text": "Această statuie ecvestră de bronz întruchipează spiritul gaucho-ului sud-american și celebrează cultura tradițională a echitației și a bovinelor din pampasul argentinian.",
                   "category": "historical",
                   "coords": [
                         -59.118561,
                         -37.315264
-                  ]
-            },
-            {
-                  "name": "Monumento a Manuel Belgrano",
-                  "text": "Statuia demnă îl comemorează pe generalul Manuel Belgrano, creatorul drapelului național argentinian și unul dintre principalii eliberatori ai țării.",
-                  "category": "historical",
-                  "coords": [
-                        -59.127921,
-                        -37.326525
                   ]
             },
             {
@@ -2741,57 +2327,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cruz Monte Calvario (12)",
-                  "text": "Acest mare crucifix marchează a douăsprezecea stațiune a Căii Crucii de pe Monte Calvario și invită pelerinii la rugăciune în mijlocul dealurilor împădurite.",
-                  "category": "historical",
-                  "coords": [
-                        -59.154949,
-                        -37.328835
-                  ]
-            },
-            {
-                  "name": "Monumento al Comerciante de Tandil",
-                  "text": "Sculptura recunoaște munca asiduă și spiritul de pionierat al comercianților locali, care au contribuit semnificativ la creșterea economică a comunității.",
-                  "category": "historical",
-                  "coords": [
-                        -59.130049,
-                        -37.341914
-                  ]
-            },
-            {
-                  "name": "Fuente de los Vascos",
-                  "text": "Fântâna Bascilor este un monument de piatră care aduce un omagiu imigranților basci care s-au stabilit în zona Tandilia.",
-                  "category": "historical",
-                  "coords": [
-                        -59.138338,
-                        -37.342966
-                  ]
-            },
-            {
                   "name": "Monumento Eduardo Aldasoro",
                   "text": "Monumentul Eduardo Aldasoro este un memorial local din zona Tandilia, dedicat păstrării moștenirii acestei figuri regionale notabile.",
                   "category": "historical",
                   "coords": [
                         -59.128811,
                         -37.350641
-                  ]
-            },
-            {
-                  "name": "Monumento a El Fundidor",
-                  "text": "Acest monument realizat din metal onorează topitorii și lucrătorii metalurgici tradiționali care au contribuit la dezvoltarea industrială a regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        -59.127128,
-                        -37.342952
-                  ]
-            },
-            {
-                  "name": "Monumento al Libertador José de San Martín",
-                  "text": "Un mândru memorial civic dedicat Eliberatorului José de San Martín, prezentând o reprezentare clasică a eroului sud-american pe un piedestal de piatră.",
-                  "category": "historical",
-                  "coords": [
-                        -59.121114,
-                        -37.332625
                   ]
             },
             {
@@ -2813,15 +2354,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Portada del Parque Independencia",
-                  "text": "Arcada ornamentată din granit servește drept intrare monumentală în Parcul Independenței, întâmpinând vizitatorii pe pantele verzi ale dealului.",
-                  "category": "historical",
-                  "coords": [
-                        -59.137819,
-                        -37.33866
-                  ]
-            },
-            {
                   "name": "Teatro de la Confraternidad Ferroviaria",
                   "text": "Construit de frăția lucrătorilor feroviari, acest teatru istoric continuă să găzduiască spectacole dramatice regionale și evenimente culturale.",
                   "category": "cultural",
@@ -2838,36 +2370,9 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                         -59.135934,
                         -37.310579
                   ]
-            },
-            {
-                  "name": "Cervantes, Club De teatro",
-                  "text": "Cervantes Theatre Club este un spațiu intim de arte spectacolului din oraș, cunoscut pentru punerea în scenă a pieselor independente și experimentale.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.136285,
-                        -37.32691
-                  ]
-            },
-            {
-                  "name": "\"El Club del Teatro\"",
-                  "text": "„El Club del Teatro” oferă o scenă primitoare pentru trupele de teatru locale, stimulând implicarea comunității prin ateliere și spectacole de teatru regulate.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.138587,
-                        -37.328242
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Capilla Santa Gemma",
-                  "text": "The historic stone chapel in Tandil is characterized by its simple architecture and its peaceful location in the Argentine hilly landscape.",
-                  "category": "religious",
-                  "coords": [
-                        -59.152644,
-                        -37.328994
-                  ]
-            },
             {
                   "name": "Monte Calvario",
                   "text": "This important pilgrimage site features a stone Way of the Cross that winds up a hill amidst eucalyptus and pine trees.",
@@ -2905,48 +2410,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Ciencias Naturales",
-                  "text": "The municipal natural history museum houses a valuable collection of fossils and minerals from the geologically ancient Sistema de Tandilia region.",
-                  "category": "museum",
-                  "coords": [
-                        -59.140922,
-                        -37.325055
-                  ]
-            },
-            {
-                  "name": "Museo del Fuerte Indepencia",
-                  "text": "This historical museum documents with numerous artifacts and documents the founding period of Tandil as a military border fortress in the pampas.",
-                  "category": "museum",
-                  "coords": [
-                        -59.130872,
-                        -37.320539
-                  ]
-            },
-            {
                   "name": "Museo de Arte Religioso",
                   "text": "The museum of sacred art presents in its display cases antique vestments, crucifixes, and religious paintings from the history of local dioceses.",
                   "category": "museum",
                   "coords": [
                         -59.136112,
                         -37.329744
-                  ]
-            },
-            {
-                  "name": "Museo Municipal de Bellas Artes",
-                  "text": "The municipal art museum displays a remarkable collection of Argentine painting and sculpture, with a focus on regional artists of the 20th century.",
-                  "category": "museum",
-                  "coords": [
-                        -59.137305,
-                        -37.330361
-                  ]
-            },
-            {
-                  "name": "Museo Vehiculos de Epoca",
-                  "text": "In this hall, car enthusiasts can admire lovingly restored vintage cars and historic motorcycles that once roamed Argentine roads.",
-                  "category": "museum",
-                  "coords": [
-                        -59.129194,
-                        -37.331036
                   ]
             },
             {
@@ -2959,15 +2428,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Castillo Morisco",
-                  "text": "The castle fortress, built in the Moorish style, dominates Parque Independencia and is a popular landmark telling the story of Spanish immigration.",
-                  "category": "castle",
-                  "coords": [
-                        -59.137764,
-                        -37.340319
-                  ]
-            },
-            {
                   "name": "Cuna de la Aviacion",
                   "text": "The monument celebrates Argentine aviation history and stands symbolically at a site closely linked to the early aviation pioneers of the region.",
                   "category": "historical",
@@ -2977,48 +2437,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a la Madre",
-                  "text": "This gentle stone sculpture in the public space honors the universal role of the mother and depicts a classical female figure holding a child in her arms.",
-                  "category": "historical",
-                  "coords": [
-                        -59.132067,
-                        -37.336702
-                  ]
-            },
-            {
-                  "name": "Monumento a Juan Fugl",
-                  "text": "The monument honors the Danish immigrant Juan Fugl, who made a decisive contribution to the development of agriculture and education in Tandil in the 19th century.",
-                  "category": "historical",
-                  "coords": [
-                        -59.132405,
-                        -37.342557
-                  ]
-            },
-            {
-                  "name": "Monumento a Facundo Cabral",
-                  "text": "The memorial commemorates the famous Argentine cantautor and poet Facundo Cabral and his profound musical legacy.",
-                  "category": "historical",
-                  "coords": [
-                        -59.10487,
-                        -37.32297
-                  ]
-            },
-            {
                   "name": "Monumento al Gaucho",
                   "text": "This bronze equestrian statue embodies the spirit of the South American gaucho and celebrates the traditional equestrian and cattle culture of the Argentine pampas.",
                   "category": "historical",
                   "coords": [
                         -59.118561,
                         -37.315264
-                  ]
-            },
-            {
-                  "name": "Monumento a Manuel Belgrano",
-                  "text": "The dignified statue commemorates General Manuel Belgrano, creator of the Argentine national flag and one of the country's most important liberators.",
-                  "category": "historical",
-                  "coords": [
-                        -59.127921,
-                        -37.326525
                   ]
             },
             {
@@ -3049,57 +2473,12 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cruz Monte Calvario (12)",
-                  "text": "This large crucifix marks the twelfth station of the Way of the Cross on Monte Calvario, inviting pilgrims to pray amidst the wooded hills.",
-                  "category": "historical",
-                  "coords": [
-                        -59.154949,
-                        -37.328835
-                  ]
-            },
-            {
-                  "name": "Monumento al Comerciante de Tandil",
-                  "text": "The sculpture acknowledges the hard work and pioneering spirit of the local merchants who contributed significantly to the economic growth of the community.",
-                  "category": "historical",
-                  "coords": [
-                        -59.130049,
-                        -37.341914
-                  ]
-            },
-            {
-                  "name": "Fuente de los Vascos",
-                  "text": "The Fountain of the Basques is a stone monument paying tribute to the Basque immigrants who settled in the Tandilia area.",
-                  "category": "historical",
-                  "coords": [
-                        -59.138338,
-                        -37.342966
-                  ]
-            },
-            {
                   "name": "Monumento Eduardo Aldasoro",
                   "text": "The Eduardo Aldasoro monument is a local memorial in the Tandilia area dedicated to preserving the legacy of this notable regional figure.",
                   "category": "historical",
                   "coords": [
                         -59.128811,
                         -37.350641
-                  ]
-            },
-            {
-                  "name": "Monumento a El Fundidor",
-                  "text": "This metalwork monument honors the traditional smelters and metallurgical workers who contributed to the industrial development of the region.",
-                  "category": "historical",
-                  "coords": [
-                        -59.127128,
-                        -37.342952
-                  ]
-            },
-            {
-                  "name": "Monumento al Libertador José de San Martín",
-                  "text": "A proud civic memorial dedicated to the Liberator José de San Martín, featuring a classic depiction of the South American hero on a stone pedestal.",
-                  "category": "historical",
-                  "coords": [
-                        -59.121114,
-                        -37.332625
                   ]
             },
             {
@@ -3121,15 +2500,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Portada del Parque Independencia",
-                  "text": "The ornate granite archway serves as the monumental entrance to Independence Park, welcoming visitors to the green hillside slopes.",
-                  "category": "historical",
-                  "coords": [
-                        -59.137819,
-                        -37.33866
-                  ]
-            },
-            {
                   "name": "Teatro de la Confraternidad Ferroviaria",
                   "text": "Built by the railway workers' brotherhood, this historic theatre continues to host regional dramatic performances and cultural events.",
                   "category": "cultural",
@@ -3145,24 +2515,6 @@ export const poiExtraArgentinaReliefV2: POI[] = [
                   "coords": [
                         -59.135934,
                         -37.310579
-                  ]
-            },
-            {
-                  "name": "Cervantes, Club De teatro",
-                  "text": "The Cervantes Theatre Club is an intimate performing arts venue in the city, known for its staging of independent and experimental plays.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.136285,
-                        -37.32691
-                  ]
-            },
-            {
-                  "name": "\"El Club del Teatro\"",
-                  "text": "\"El Club del Teatro\" offers a cozy stage for local theater troupes, fostering community engagement through regular drama workshops and shows.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.138587,
-                        -37.328242
                   ]
             }
       ]

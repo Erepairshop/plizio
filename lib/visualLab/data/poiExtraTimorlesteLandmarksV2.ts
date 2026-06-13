@@ -1230,15 +1230,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     id: "valu-beach-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Lost world",
-                  "text": "The Lost world ist ein malerischer Aussichtspunkt mit weitem Blick in valu-beach-landmarks-v2.",
-                  "category": "natural",
-                  "coords": [
-                        127.257206,
-                        -8.391427
-                  ]
-            },
-            {
                   "name": "Il kere kere",
                   "text": "Il kere kere ist eine antike archäologische Stätte in valu-beach-landmarks-v2.",
                   "category": "historical",
@@ -1312,15 +1303,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Lost world",
-                  "text": "A Lost world egy festői kilátó, amely lenyűgöző panorámát nyújt valu-beach-landmarks-v2 területén.",
-                  "category": "natural",
-                  "coords": [
-                        127.257206,
-                        -8.391427
-                  ]
-            },
             {
                   "name": "Il kere kere",
                   "text": "Az Il kere kere egy ősi régészeti lelőhely valu-beach-landmarks-v2 városában.",
@@ -1396,15 +1378,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lost world",
-                  "text": "Lost world este un punct de belvedere panoramic din valu-beach-landmarks-v2.",
-                  "category": "natural",
-                  "coords": [
-                        127.257206,
-                        -8.391427
-                  ]
-            },
-            {
                   "name": "Il kere kere",
                   "text": "Il kere kere este un sit arheologic antic situat în valu-beach-landmarks-v2.",
                   "category": "historical",
@@ -1478,15 +1451,6 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lost world",
-                  "text": "The Lost world is a scenic viewpoint offering sweeping vistas in valu-beach-landmarks-v2.",
-                  "category": "natural",
-                  "coords": [
-                        127.257206,
-                        -8.391427
-                  ]
-            },
             {
                   "name": "Il kere kere",
                   "text": "Il kere kere is an ancient archaeological site situated in valu-beach-landmarks-v2.",

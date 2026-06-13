@@ -326,86 +326,10 @@ export const poiExtraNamibiaLifeV2: POI[] = [
      image: "/poi-images/namibia-hardap-agriculture-life-v2.webp"},
   {
     id: "namibia-tsumeb-agriculture-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "St. Barbara",
-                  "text": "Die katholische Kirche St. Barbara ist ein markantes Gotteshaus in Tsumeb, das sich durch einen markanten zentralen Turm auszeichnet und der Schutzpatronin der Bergleute gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        17.716893,
-                        -19.244582
-                  ]
-            },
-            {
-                  "name": "Tsumeb Museum",
-                  "text": "Das Tsumeb Museum zeigt neben lokalhistorischen Exponaten eine erstklassige Sammlung seltener Mineralien, die aus der nahe gelegenen berühmten Tsumeb-Mine stammen.",
-                  "category": "museum",
-                  "coords": [
-                        17.718102,
-                        -19.245124
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "St. Barbara",
-                  "text": "A Szent Borbála katolikus templom egy ikonikus istentiszteleti hely Tsumebben, amely különálló központi toronnyal rendelkezik, és a bányászok védőszentjének van szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        17.716893,
-                        -19.244582
-                  ]
-            },
-            {
-                  "name": "Tsumeb Museum",
-                  "text": "A Tsumeb Múzeum a közeli, híres Tsumeb-bányából származó ritka ásványok világszínvonalú gyűjteményét mutatja be a helytörténeti kiállítások mellett.",
-                  "category": "museum",
-                  "coords": [
-                        17.718102,
-                        -19.245124
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "St. Barbara",
-                  "text": "Biserica Catolică Sfânta Barbara este un lăcaș de cult emblematic din Tsumeb, prezentând un turn central distinct și fiind dedicată patronului spiritual al minerilor.",
-                  "category": "religious",
-                  "coords": [
-                        17.716893,
-                        -19.244582
-                  ]
-            },
-            {
-                  "name": "Tsumeb Museum",
-                  "text": "Muzeul Tsumeb expune o colecție de clasă mondială de minerale rare extrase din renumita mină Tsumeb din apropiere, alături de exponate de istorie locală.",
-                  "category": "museum",
-                  "coords": [
-                        17.718102,
-                        -19.245124
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "St. Barbara",
-                  "text": "St. Barbara Catholic Church is an iconic place of worship in Tsumeb, featuring a distinct central tower and dedicated to the patron saint of miners.",
-                  "category": "religious",
-                  "coords": [
-                        17.716893,
-                        -19.244582
-                  ]
-            },
-            {
-                  "name": "Tsumeb Museum",
-                  "text": "The Tsumeb Museum displays a world-class collection of rare minerals extracted from the nearby renowned Tsumeb Mine, alongside local history exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        17.718102,
-                        -19.245124
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "NA-OS",
@@ -448,86 +372,10 @@ export const poiExtraNamibiaLifeV2: POI[] = [
      image: "/poi-images/namibia-tsumeb-agriculture-life-v2.webp"},
   {
     id: "namibia-gobabis-agriculture-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cattle Country Statue",
-                  "text": "Diese imposante Statue in Gobabis ist eine Hommage an die landwirtschaftlichen Wurzeln der Region als „Hauptstadt des Rinderlandes“ im Osten Namibias.",
-                  "category": "historical",
-                  "coords": [
-                        18.967082,
-                        -22.44808
-                  ]
-            },
-            {
-                  "name": "Gobabis Museum",
-                  "text": "Das Gobabis Museum ist eine regionale Geschichtssammlung, die sich der Bewahrung der Pioniervergangenheit und des kulturellen Erbes der Omaheke-Region widmet.",
-                  "category": "museum",
-                  "coords": [
-                        18.975241,
-                        -22.462796
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cattle Country Statue",
-                  "text": "Ez a lenyűgöző gobabisi szobor a régió mezőgazdasági gyökerei előtt tiszteleg, mint Kelet-Namíbia „Szarvasmarha-országának fővárosa”.",
-                  "category": "historical",
-                  "coords": [
-                        18.967082,
-                        -22.44808
-                  ]
-            },
-            {
-                  "name": "Gobabis Museum",
-                  "text": "A Gobabis Múzeum a régió történetének tára, amelyet az Omaheke régió úttörő múltjának és kulturális örökségének megőrzésének szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        18.975241,
-                        -22.462796
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cattle Country Statue",
-                  "text": "Această statuie impunătoare din Gobabis aduce un omagiu rădăcinilor agricole ale regiunii în calitate de „Capitală a Țării Vitelor” din estul Namibiei.",
-                  "category": "historical",
-                  "coords": [
-                        18.967082,
-                        -22.44808
-                  ]
-            },
-            {
-                  "name": "Gobabis Museum",
-                  "text": "Muzeul Gobabis este un depozit de istorie regională dedicat conservării trecutului de pionierat și a patrimoniului cultural din regiunea Omaheke.",
-                  "category": "museum",
-                  "coords": [
-                        18.975241,
-                        -22.462796
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cattle Country Statue",
-                  "text": "This imposing statue in Gobabis pays homage to the region's agricultural roots as the \"Capital of Cattle Country\" in eastern Namibia.",
-                  "category": "historical",
-                  "coords": [
-                        18.967082,
-                        -22.44808
-                  ]
-            },
-            {
-                  "name": "Gobabis Museum",
-                  "text": "The Gobabis Museum is a regional history repository dedicated to preserving the pioneer past and cultural heritage of the Omaheke region.",
-                  "category": "museum",
-                  "coords": [
-                        18.975241,
-                        -22.462796
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "NA-OH",
@@ -694,15 +542,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     id: "namibia-swakopmund-kid-landmark-life-v2", "sights": {
       "de": [
             {
-                  "name": "Sunset Viewpoint",
-                  "text": "Der Sunset Viewpoint bietet abends eine dramatische Sicht auf die tiefstehende Sonne über dem Ozean.",
-                  "category": "natural",
-                  "coords": [
-                        14.5459,
-                        -22.684427
-                  ]
-            },
-            {
                   "name": "Otavi Bahnhof",
                   "text": "Der historische Otavi Bahnhof wurde ursprünglich für die Schmalspurbahn zur Otavi-Kupfermine erbaut.",
                   "category": "museum",
@@ -710,27 +549,9 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                         14.531633,
                         -22.677956
                   ]
-            },
-            {
-                  "name": "Desert Explorers",
-                  "text": "Desert Explorers organisiert Abenteuerfahrten und Sandboarding in den goldenen Dünen rund um Swakopmund.",
-                  "category": "landmark",
-                  "coords": [
-                        14.529427,
-                        -22.68491
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Sunset Viewpoint",
-                  "text": "A Sunset kilátó esténként drámai látványt nyújt az óceán felett lemenő napra.",
-                  "category": "natural",
-                  "coords": [
-                        14.5459,
-                        -22.684427
-                  ]
-            },
             {
                   "name": "Otavi Bahnhof",
                   "text": "A történelmi Otavi pályaudvart eredetileg az otavi rézbányához vezető keskeny nyomtávú vasúthoz építették.",
@@ -739,27 +560,9 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                         14.531633,
                         -22.677956
                   ]
-            },
-            {
-                  "name": "Desert Explorers",
-                  "text": "A Desert Explorers kalandtúrákat és homokdeszkázást szervez a Swakopmund körüli arany dűnékben.",
-                  "category": "landmark",
-                  "coords": [
-                        14.529427,
-                        -22.68491
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Sunset Viewpoint",
-                  "text": "Punctul de belvedere Sunset oferă o priveliște dramatică a apusului de soare peste ocean.",
-                  "category": "natural",
-                  "coords": [
-                        14.5459,
-                        -22.684427
-                  ]
-            },
             {
                   "name": "Otavi Bahnhof",
                   "text": "Gara istorică Otavi a fost construită inițial pentru calea ferată cu ecartament îngust către mina de cupru Otavi.",
@@ -768,27 +571,9 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                         14.531633,
                         -22.677956
                   ]
-            },
-            {
-                  "name": "Desert Explorers",
-                  "text": "Desert Explorers organizează tururi de aventură și sandboarding în dunele aurii din jurul orașului Swakopmund.",
-                  "category": "landmark",
-                  "coords": [
-                        14.529427,
-                        -22.68491
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Sunset Viewpoint",
-                  "text": "Sunset Viewpoint provides a dramatic vantage point for watching the sun sink below the ocean horizon.",
-                  "category": "natural",
-                  "coords": [
-                        14.5459,
-                        -22.684427
-                  ]
-            },
             {
                   "name": "Otavi Bahnhof",
                   "text": "The historic Otavi Bahnhof was originally built to serve the narrow-gauge railway leading to the Otavi copper mine.",
@@ -796,15 +581,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   "coords": [
                         14.531633,
                         -22.677956
-                  ]
-            },
-            {
-                  "name": "Desert Explorers",
-                  "text": "Desert Explorers organizes adventure tours and sandboarding trips into the golden dunes surrounding Swakopmund.",
-                  "category": "landmark",
-                  "coords": [
-                        14.529427,
-                        -22.68491
                   ]
             }
       ]
@@ -1417,15 +1193,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Welcome Wall",
-                  "text": "Das robuste Welcome Wall-Denkmal, das Besucher dieser landwirtschaftlichen Stadt begrüßt, präsentiert lokale Materialien und spiegelt den Bürgerstolz der Gemeinde in Otjiwarongo wider.",
-                  "category": "historical",
-                  "coords": [
-                        16.65311,
-                        -20.475325
-                  ]
-            },
-            {
                   "name": "Historical Train",
                   "text": "Diese historische Dampflokomotive, die als öffentliche Attraktion gut sichtbar ausgestellt ist, bewahrt das Erbe des Schmalspurbahnnetzes, das einst die frühe Entwicklung von Otjiwarongo unterstützte.",
                   "category": "landmark",
@@ -1441,15 +1208,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   "coords": [
                         16.641268,
                         -20.459778
-                  ]
-            },
-            {
-                  "name": "Museum of Namibian Fashion",
-                  "text": "Dieses Kulturmuseum in Otjiwarongo bewahrt und stellt die vielfältigen traditionellen Kleidungsstücke, Perlenarbeiten und zeitgenössischen Textilkünste der verschiedenen ethnischen Gruppen Namibias aus.",
-                  "category": "museum",
-                  "coords": [
-                        16.645578,
-                        -20.467269
                   ]
             },
             {
@@ -1473,15 +1231,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Welcome Wall",
-                  "text": "A mezőgazdasági városba érkezőket köszöntő, robusztus Welcome Wall emlékmű helyi anyagokat mutat be, és az otjiwarongói közösség büszkeségét tükrözi.",
-                  "category": "historical",
-                  "coords": [
-                        16.65311,
-                        -20.475325
-                  ]
-            },
-            {
                   "name": "Historical Train",
                   "text": "Ez a nyilvános látványosságként kiállított történelmi gőzmozdony annak a keskeny nyomtávú vasúthálózatnak az örökségét őrzi, amely egykor Otjiwarongo korai fejlődését támogatta.",
                   "category": "landmark",
@@ -1497,15 +1246,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   "coords": [
                         16.641268,
                         -20.459778
-                  ]
-            },
-            {
-                  "name": "Museum of Namibian Fashion",
-                  "text": "Ez az Otjiwarongóban található kulturális múzeum Namíbia különböző etnikai csoportjainak változatos hagyományos ruhadarabjait, gyöngyfűzését és kortárs textilművészetét őrzi és állítja ki.",
-                  "category": "museum",
-                  "coords": [
-                        16.645578,
-                        -20.467269
                   ]
             },
             {
@@ -1529,15 +1269,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Welcome Wall",
-                  "text": "Întâmpinând vizitatorii acestui oraș agricol, monumentul robust Welcome Wall prezintă materiale locale și reflectă mândria civică a comunității din Otjiwarongo.",
-                  "category": "historical",
-                  "coords": [
-                        16.65311,
-                        -20.475325
-                  ]
-            },
-            {
                   "name": "Historical Train",
                   "text": "Expusă vizibil ca atracție publică, această locomotivă cu abur istorică păstrează moștenirea rețelei de căi ferate cu ecartament îngust care a susținut odată dezvoltarea timpurie a orașului Otjiwarongo.",
                   "category": "landmark",
@@ -1553,15 +1284,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   "coords": [
                         16.641268,
                         -20.459778
-                  ]
-            },
-            {
-                  "name": "Museum of Namibian Fashion",
-                  "text": "Situat în Otjiwarongo, acest muzeu cultural păstrează și expune diversele veșminte tradiționale, lucrări cu mărgele și artele textile contemporane ale diverselor grupuri etnice din Namibia.",
-                  "category": "museum",
-                  "coords": [
-                        16.645578,
-                        -20.467269
                   ]
             },
             {
@@ -1585,15 +1307,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Welcome Wall",
-                  "text": "Greeting visitors to this agricultural town, the robust Welcome Wall monument showcases local materials and reflects the community's civic pride in Otjiwarongo.",
-                  "category": "historical",
-                  "coords": [
-                        16.65311,
-                        -20.475325
-                  ]
-            },
-            {
                   "name": "Historical Train",
                   "text": "Displayed prominently as a public attraction, this historical steam locomotive preserves the legacy of the narrow-gauge railway network that once supported Otjiwarongo's early development.",
                   "category": "landmark",
@@ -1609,15 +1322,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   "coords": [
                         16.641268,
                         -20.459778
-                  ]
-            },
-            {
-                  "name": "Museum of Namibian Fashion",
-                  "text": "Located in Otjiwarongo, this cultural museum preserves and exhibits the diverse traditional garments, beadwork, and contemporary textile arts of Namibia's various ethnic groups.",
-                  "category": "museum",
-                  "coords": [
-                        16.645578,
-                        -20.467269
                   ]
             },
             {
@@ -1876,86 +1580,10 @@ export const poiExtraNamibiaLifeV2: POI[] = [
      image: "/poi-images/namibia-mariental-agriculture-life-v2.webp"},
   {
     id: "namibia-outjo-agriculture-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Water Tower",
-                  "text": "Die verlassenen Ruinen dieses hohen Wasserturms versorgten einst das umliegende Outjo-Ackerland mit lebenswichtiger Bewässerung.",
-                  "category": "historical",
-                  "coords": [
-                        16.156063,
-                        -20.107486
-                  ]
-            },
-            {
-                  "name": "Franke-Haus-Museum",
-                  "text": "Dieses Museum ist in einem historischen Gebäude aus der deutschen Kolonialzeit untergebracht und zeigt Artefakte aus der Pionier- und Militärvergangenheit der Region.",
-                  "category": "museum",
-                  "coords": [
-                        16.153209,
-                        -20.103795
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Water Tower",
-                  "text": "Ennek a magas víztoronynak az elhagyatott romjai egykor létfontosságú öntözővizet biztosítottak a környező Outjo termőföldjeinek.",
-                  "category": "historical",
-                  "coords": [
-                        16.156063,
-                        -20.107486
-                  ]
-            },
-            {
-                  "name": "Franke-Haus-Museum",
-                  "text": "A történelmi német gyarmati épületben helyet kapó múzeum a régió úttörő és katonai múltjának tárgyi emlékeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.153209,
-                        -20.103795
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Water Tower",
-                  "text": "Ruinele abandonate ale acestui turn de apă înalt furnizau cândva irigații vitale terenurilor agricole din jurul orașului Outjo.",
-                  "category": "historical",
-                  "coords": [
-                        16.156063,
-                        -20.107486
-                  ]
-            },
-            {
-                  "name": "Franke-Haus-Museum",
-                  "text": "Găzduit într-o clădire istorică colonială germană, acest muzeu expune artefacte din trecutul de pionierat și militar al regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        16.153209,
-                        -20.103795
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Water Tower",
-                  "text": "The abandoned ruins of this tall water tower once supplied vital irrigation to the surrounding Outjo farmlands.",
-                  "category": "historical",
-                  "coords": [
-                        16.156063,
-                        -20.107486
-                  ]
-            },
-            {
-                  "name": "Franke-Haus-Museum",
-                  "text": "Located in a historic German colonial building, this museum displays artifacts from the region's pioneering and military past.",
-                  "category": "museum",
-                  "coords": [
-                        16.153209,
-                        -20.103795
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "NA-OS",
@@ -3042,24 +2670,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                         16.300393,
                         -26.675408
                   ]
-            },
-            {
-                  "name": "Prisoner of War Camp",
-                  "text": "Eine historische Stätte in der trockenen Region Aus, die Überreste eines Internierungslagers aus dem Ersten Weltkrieg zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        16.287657,
-                        -26.675194
-                  ]
-            },
-            {
-                  "name": "Kaiser-Wilhelm-Denkmal",
-                  "text": "Ein koloniales Denkmal, das in der rauen namibischen Landschaft von Aus errichtet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        16.260846,
-                        -26.66441
-                  ]
             }
       ],
       "hu": [
@@ -3088,24 +2698,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   "coords": [
                         16.300393,
                         -26.675408
-                  ]
-            },
-            {
-                  "name": "Prisoner of War Camp",
-                  "text": "Történelmi emlékhely az arid Aus régióban, ahol az első világháborús internálótábor maradványai láthatók.",
-                  "category": "landmark",
-                  "coords": [
-                        16.287657,
-                        -26.675194
-                  ]
-            },
-            {
-                  "name": "Kaiser-Wilhelm-Denkmal",
-                  "text": "A gyarmati korszakból származó emlékmű a zord namíbiai Aus vidékén.",
-                  "category": "historical",
-                  "coords": [
-                        16.260846,
-                        -26.66441
                   ]
             }
       ],
@@ -3136,24 +2728,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                         16.300393,
                         -26.675408
                   ]
-            },
-            {
-                  "name": "Prisoner of War Camp",
-                  "text": "Un sit istoric din regiunea aridă Aus, cu rămășițele unui lagăr de internare din Primul Război Mondial.",
-                  "category": "landmark",
-                  "coords": [
-                        16.287657,
-                        -26.675194
-                  ]
-            },
-            {
-                  "name": "Kaiser-Wilhelm-Denkmal",
-                  "text": "Un monument memorial din epoca colonială, ridicat în peisajul accidentat din Aus, Namibia.",
-                  "category": "historical",
-                  "coords": [
-                        16.260846,
-                        -26.66441
-                  ]
             }
       ],
       "en": [
@@ -3182,24 +2756,6 @@ export const poiExtraNamibiaLifeV2: POI[] = [
                   "coords": [
                         16.300393,
                         -26.675408
-                  ]
-            },
-            {
-                  "name": "Prisoner of War Camp",
-                  "text": "A historical site in the arid Aus region featuring the remnants of an internment camp from the First World War.",
-                  "category": "landmark",
-                  "coords": [
-                        16.287657,
-                        -26.675194
-                  ]
-            },
-            {
-                  "name": "Kaiser-Wilhelm-Denkmal",
-                  "text": "A colonial-era memorial monument erected in the rugged Namibian landscape of Aus.",
-                  "category": "historical",
-                  "coords": [
-                        16.260846,
-                        -26.66441
                   ]
             }
       ]

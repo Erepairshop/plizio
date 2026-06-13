@@ -6,87 +6,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-sultan-murat-mosque-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "Ein Museum in Skopje, das der Flora, Fauna und Geologie Nordmazedoniens gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "Eine historische Festung auf dem höchsten Punkt der Stadt Skopje.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "Der 1926 gegründete zoologische Garten der nordmazedonischen Hauptstadt.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Die Überreste einer antiken römischen Stadt in der Nähe von Skopje.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
-                  "name": "Muzej na Makedonija",
-                  "text": "Nationalmuseum in Skopje, das Archäologie, Ethnologie und Geschichte vereint.",
-                  "category": "museum",
-                  "coords": [
-                        21.436115,
-                        42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Die führende Institution für Opern- und Ballettaufführungen in Nordmazedonien.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "Ein Museum für moderne Kunst in Skopje mit einer internationalen Sammlung.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "Eine Kunstgalerie in einem ehemaligen osmanischen Bad aus dem 15. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
-            {
-                  "name": "Dinosaurierpark Skopje",
-                  "text": "Der Dinosaurierpark Skopje in der Nähe der Sultan-Murat-Moschee zeigt lebensgroße Dinosauriermodelle.",
-                  "category": "recreational",
-                  "coords": [
-                        21.41926,
-                        42.005435
-                  ]
-            },
-            {
                   "name": "Олимписки базен - Центар",
                   "text": "Olympia-Schwimmbecken in der Nähe der Sultan-Murat-Moschee.",
                   "category": "recreational",
@@ -103,90 +22,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "Eine öffentliche Schwimmanlage in der Umgebung der Sultan-Murat-Moschee.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "Skopjei múzeum, amely Észak-Macedónia állat- és növényvilágát, valamint geológiáját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "Történelmi erődítmény Skopje legmagasabb pontján, a Vardar folyó mellett.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "Észak-Macedónia fővárosának állatkertje, amelyet 1926-ban alapítottak.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Egy ókori római város maradványai Skopje közelében.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
-                  "name": "Muzej na Makedonija",
-                  "text": "Nemzeti múzeum Skopjéban, amely régészeti, néprajzi és történelmi gyűjteményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        21.436115,
-                        42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Észak-Macedónia vezető opera- és balettintézménye Skopjéban.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "Modern művészeti múzeum Skopjéban, amely nemzetközi gyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "Művészeti galéria egy egykori 15. századi oszmán fürdő épületében.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
             {
                   "name": "Дино парк Скопје",
                   "text": "A Skopjei Dinoszaurusz Park a Szultán Murat mecset közelében életnagyságú dinoszauruszmodelleket mutat be.",
@@ -213,90 +51,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "Nyilvános úszólétesítmény a Szultán Murát-mecset környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "Un muzeu din Skopje dedicat florei, faunei și geologiei Macedoniei de Nord.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "O cetate istorică situată pe cel mai înalt punct al orașului Skopje.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "Grădina zoologică a capitalei Macedoniei de Nord, fondată în 1926.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Vestigiile unui vechi oraș roman situat în apropiere de Skopje.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
-                  "name": "Muzej na Makedonija",
-                  "text": "Muzeu național din Skopje ce reunește colecții de arheologie, etnologie și istorie.",
-                  "category": "museum",
-                  "coords": [
-                        21.436115,
-                        42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Principala instituție pentru spectacole de operă și balet din Macedonia de Nord.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "Un muzeu de artă modernă din Skopje care găzduiește o colecție internațională.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "O galerie de artă situată într-o fostă baie otomană din secolul al XV-lea.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
             {
                   "name": "Дино парк Скопје",
                   "text": "Parcul Dinozaurilor din Skopje, lângă Moscheea Sultan Murat, prezintă modele de dinozauri în mărime naturală.",
@@ -323,127 +80,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "O facilitate de înot publică situată în vecinătatea Moscheii Sultan Murat.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
-      "en": [
-            {
-                  "name": "Macedonian Museum of Natural History",
-                  "text": "A museum in Skopje dedicated to the flora, fauna, and geology of North Macedonia.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopje Fortress",
-                  "text": "A historic fortress located on the highest point in the city of Skopje.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Skopje Zoo",
-                  "text": "The zoological garden of the North Macedonian capital, founded in 1926.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Scupi",
-                  "text": "The remains of an ancient Roman city located near Skopje.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
-                  "name": "Museum of Macedonia",
-                  "text": "National museum in Skopje combining archaeological, ethnological, and historical collections.",
-                  "category": "museum",
-                  "coords": [
-                        21.436115,
-                        42.002576
-                  ]
-            },
-            {
-                  "name": "Macedonian National Opera and Ballet",
-                  "text": "The leading institution for opera and ballet performances in North Macedonia.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Contemporary Art Museum of Macedonia",
-                  "text": "A contemporary art museum in Skopje housing an international collection.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Daut Pasha Hamam National Gallery",
-                  "text": "An art gallery housed in a former 15th-century Ottoman bathhouse.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
-            {
-                  "name": "Dinosaur Park Skopje",
-                  "text": "Dinosaur Park Skopje, near Sultan Murat Mosque, features life-sized dinosaur models.",
-                  "category": "recreational",
-                  "coords": [
-                        21.41926,
-                        42.005435
-                  ]
-            },
-            {
-                  "name": "Olympic swimming pool - Centar",
-                  "text": "Olympic-sized swimming pool located near the Sultan Murat Mosque.",
-                  "category": "recreational",
-                  "coords": [
-                        21.439118,
-                        41.99121
-                  ]
-            },
-            {
-                  "name": "Aquapark",
-                  "text": "A water park with recreational facilities near the Sultan Murat Mosque.",
-                  "category": "recreational",
-                  "coords": [
-                        21.40435,
-                        42.011038
-                  ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "A public swimming facility located in the vicinity of the Sultan Murat Mosque.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "landmark",
     parent: "MK",
@@ -491,15 +130,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
   {
     id: "northmacedonia-monastery-matka-landmarks-v2", "sights": {
       "de": [
-            {
-                  "name": "Peshtera Vrelo",
-                  "text": "Die Vrelo-Höhle nahe dem Kloster Matka hat eine tiefe Unterwasserquelle.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            },
             {
                   "name": "Izlozhben tsentar Matka",
                   "text": "Informations- und Ausstellungszentrum im Matka-Canyon-Komplex.",
@@ -557,15 +187,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Peshtera Vrelo",
-                  "text": "A Vrelo-barlang a Matka-kolostor közelében egy mély víz alatti forrással rendelkezik.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            },
-            {
                   "name": "Izlozhben tsentar Matka",
                   "text": "Információs és kiállítási központ a Matka-kanyon területén.",
                   "category": "landmark",
@@ -622,15 +243,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Peshtera Vrelo",
-                  "text": "Peștera Vrelo, lângă Mănăstirea Matka, are un izvor subacvatic adânc.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            },
-            {
                   "name": "Izlozhben tsentar Matka",
                   "text": "Centru de informare și expoziții situat în complexul canionului Matka.",
                   "category": "landmark",
@@ -686,15 +298,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Vrelo Cave",
-                  "text": "Vrelo Cave, near Matka Monastery, features a deep underwater spring.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            },
             {
                   "name": "Exhibition center Matka",
                   "text": "Information and exhibition center located within the Matka canyon complex.",
@@ -807,15 +410,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tatar Sinan Beg dzhamija",
-                  "text": "Eine historische Moschee in Kumanovo aus dem 16. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        21.714727,
-                        42.137461
-                  ]
-            },
-            {
                   "name": "Bazen FZTs",
                   "text": "Ein Schwimmbad in Kumanovo in der Nähe des Partisanen-Denkmals.",
                   "category": "recreational",
@@ -842,15 +436,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.72005,
                         42.135519
-                  ]
-            },
-            {
-                  "name": "Tatar Sinan Beg dzhamija",
-                  "text": "Kumanovói történelmi mecset a 16. századból.",
-                  "category": "religious",
-                  "coords": [
-                        21.714727,
-                        42.137461
                   ]
             },
             {
@@ -883,15 +468,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tatar Sinan Beg dzhamija",
-                  "text": "O moschee istorică din Kumanovo datând din secolul al XVI-lea.",
-                  "category": "religious",
-                  "coords": [
-                        21.714727,
-                        42.137461
-                  ]
-            },
-            {
                   "name": "Bazen FZTs",
                   "text": "O piscină în Kumanovo, situată lângă Monumentul Partizanilor.",
                   "category": "recreational",
@@ -918,15 +494,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.72005,
                         42.135519
-                  ]
-            },
-            {
-                  "name": "Tatar Sinan Pasha Mosque",
-                  "text": "A historical mosque in Kumanovo dating back to the 16th century.",
-                  "category": "religious",
-                  "coords": [
-                        21.714727,
-                        42.137461
                   ]
             },
             {
@@ -994,338 +561,10 @@ export const northmacedoniaLandmarksV2: POI[] = [
   },
   {
     id: "northmacedonia-church-st-dimitrius-bitola-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Zooloshka gradina",
-                  "text": "Städtischer Zoo in Bitola mit einer Vielzahl regionaler und exotischer Tiere.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341247,
-                        41.014846
-                  ]
-            },
-            {
-                  "name": "Bitolska Tvrdina",
-                  "text": "Ruinen einer historischen Festung mit Blick auf die Stadt Bitola.",
-                  "category": "castle",
-                  "coords": [
-                        21.331274,
-                        41.015566
-                  ]
-            },
-            {
-                  "name": "Goce Delchev Memorial House",
-                  "text": "Goce Delchev Memorial House nahe der St.-Dimitrius-Kirche in Bitola.",
-                  "category": "museum",
-                  "coords": [
-                        21.332208,
-                        41.026896
-                  ]
-            },
-            {
-                  "name": "Muzej na Bitola",
-                  "text": "Nationalmuseum mit archäologischen und historischen Funden aus der Region.",
-                  "category": "museum",
-                  "coords": [
-                        21.335644,
-                        41.023804
-                  ]
-            },
-            {
-                  "name": "Kheraklea Linkestis",
-                  "text": "Gut erhaltene antike Stadt, die von Philipp II. von Mazedonien gegründet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        21.342363,
-                        41.011127
-                  ]
-            },
-            {
-                  "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "Museum in der Yeni-Moschee aus dem 16. Jahrhundert in Bitola.",
-                  "category": "museum",
-                  "coords": [
-                        21.33494,
-                        41.030748
-                  ]
-            },
-            {
-                  "name": "Mémorial de Bitola",
-                  "text": "Gedenkmuseum von Bitola, neben der Kirche St. Dimitrius gelegen.",
-                  "category": "museum",
-                  "coords": [
-                        21.358605,
-                        41.041086
-                  ]
-            },
-            {
-                  "name": "Sv. Troitsa",
-                  "text": "Orthodoxe Kirche in Bitola mit traditioneller religiöser Architektur.",
-                  "category": "landmark",
-                  "coords": [
-                        21.341526,
-                        41.006774
-                  ]
-            },
-            {
-                  "name": "Olimpiski Bazen",
-                  "text": "Ein Freizeit-Wasserpark und olympisches Schwimmbecken in der Stadt Bitola.",
-                  "category": "recreational",
-                  "coords": [
-                        21.339929,
-                        41.017441
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Zooloshka gradina",
-                  "text": "Bitolai városi állatkert regionális és egzotikus állatokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341247,
-                        41.014846
-                  ]
-            },
-            {
-                  "name": "Bitolska Tvrdina",
-                  "text": "Egy történelmi erőd romjai, amelyek Bitola városára néznek.",
-                  "category": "castle",
-                  "coords": [
-                        21.331274,
-                        41.015566
-                  ]
-            },
-            {
-                  "name": "Goce Delchev Memorial House",
-                  "text": "Goce Delchev Emlékház a Szent Dimitriusz-templom közelében, Bitolában.",
-                  "category": "museum",
-                  "coords": [
-                        21.332208,
-                        41.026896
-                  ]
-            },
-            {
-                  "name": "Muzej na Bitola",
-                  "text": "Nemzeti múzeum a régió régészeti és történelmi leleteivel.",
-                  "category": "museum",
-                  "coords": [
-                        21.335644,
-                        41.023804
-                  ]
-            },
-            {
-                  "name": "Kheraklea Linkestis",
-                  "text": "Jó állapotban fennmaradt ókori város, amelyet II. Philipposz makedón király alapított.",
-                  "category": "historical",
-                  "coords": [
-                        21.342363,
-                        41.011127
-                  ]
-            },
-            {
-                  "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "Múzeum a 16. századi Yeni mecsetben, Bitolában.",
-                  "category": "museum",
-                  "coords": [
-                        21.33494,
-                        41.030748
-                  ]
-            },
-            {
-                  "name": "Mémorial de Bitola",
-                  "text": "Bitola emlékmúzeuma a Szent Dimitriosz templom mellett.",
-                  "category": "museum",
-                  "coords": [
-                        21.358605,
-                        41.041086
-                  ]
-            },
-            {
-                  "name": "Sv. Troitsa",
-                  "text": "Ortodox templom Bitolában, amely a hagyományos vallási építészetet képviseli.",
-                  "category": "landmark",
-                  "coords": [
-                        21.341526,
-                        41.006774
-                  ]
-            },
-            {
-                  "name": "Olimpiski Bazen",
-                  "text": "Szabadidős vízi park és olimpiai medence Bitola városában.",
-                  "category": "recreational",
-                  "coords": [
-                        21.339929,
-                        41.017441
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Zooloshka gradina",
-                  "text": "Grădina zoologică municipală din Bitola, cu o varietate de animale regionale și exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341247,
-                        41.014846
-                  ]
-            },
-            {
-                  "name": "Bitolska Tvrdina",
-                  "text": "Ruinele unei cetăți istorice care domină orașul Bitola.",
-                  "category": "castle",
-                  "coords": [
-                        21.331274,
-                        41.015566
-                  ]
-            },
-            {
-                  "name": "Goce Delchev Memorial House",
-                  "text": "Casa Memorială Goce Delchev lângă Biserica Sf. Dimitrie din Bitola.",
-                  "category": "museum",
-                  "coords": [
-                        21.332208,
-                        41.026896
-                  ]
-            },
-            {
-                  "name": "Muzej na Bitola",
-                  "text": "Muzeu național care expune descoperiri arheologice și istorice din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        21.335644,
-                        41.023804
-                  ]
-            },
-            {
-                  "name": "Kheraklea Linkestis",
-                  "text": "Oraș antic bine conservat, fondat de Filip al II-lea al Macedoniei.",
-                  "category": "historical",
-                  "coords": [
-                        21.342363,
-                        41.011127
-                  ]
-            },
-            {
-                  "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "Muzeu găzduit în moscheea Yeni din secolul al XVI-lea din Bitola.",
-                  "category": "museum",
-                  "coords": [
-                        21.33494,
-                        41.030748
-                  ]
-            },
-            {
-                  "name": "Mémorial de Bitola",
-                  "text": "Muzeul memorial al Bitolei, situat lângă Biserica Sf. Dimitrie.",
-                  "category": "museum",
-                  "coords": [
-                        21.358605,
-                        41.041086
-                  ]
-            },
-            {
-                  "name": "Sv. Troitsa",
-                  "text": "Biserică ortodoxă din Bitola care prezintă arhitectura religioasă tradițională.",
-                  "category": "landmark",
-                  "coords": [
-                        21.341526,
-                        41.006774
-                  ]
-            },
-            {
-                  "name": "Olimpiski Bazen",
-                  "text": "Un parc acvatic recreativ și piscină olimpică situată în Bitola.",
-                  "category": "recreational",
-                  "coords": [
-                        21.339929,
-                        41.017441
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bitola Zoo",
-                  "text": "Municipal zoo in Bitola, featuring a variety of regional and exotic animals.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341247,
-                        41.014846
-                  ]
-            },
-            {
-                  "name": "Fortress of Bitola",
-                  "text": "Ruins of a historical fortress overlooking the city of Bitola.",
-                  "category": "castle",
-                  "coords": [
-                        21.331274,
-                        41.015566
-                  ]
-            },
-            {
-                  "name": "Goce Delchev Memorial House",
-                  "text": "Goce Delchev Memorial House near St. Dimitrius Church in Bitola.",
-                  "category": "museum",
-                  "coords": [
-                        21.332208,
-                        41.026896
-                  ]
-            },
-            {
-                  "name": "Museum of Bitola",
-                  "text": "National museum showcasing archaeological and historical finds from the region.",
-                  "category": "museum",
-                  "coords": [
-                        21.335644,
-                        41.023804
-                  ]
-            },
-            {
-                  "name": "Heraclea Lyncestis",
-                  "text": "Well-preserved ancient city founded by Philip II of Macedon.",
-                  "category": "historical",
-                  "coords": [
-                        21.342363,
-                        41.011127
-                  ]
-            },
-            {
-                  "name": "Museum of christian and muslim culture",
-                  "text": "Museum housed in the 16th-century Yeni Mosque in Bitola.",
-                  "category": "museum",
-                  "coords": [
-                        21.33494,
-                        41.030748
-                  ]
-            },
-            {
-                  "name": "Mémorial de Bitola",
-                  "text": "Memorial museum of Bitola, situated by the Church of St. Dimitrius.",
-                  "category": "museum",
-                  "coords": [
-                        21.358605,
-                        41.041086
-                  ]
-            },
-            {
-                  "name": "St. Trinity",
-                  "text": "Orthodox church in Bitola showcasing traditional religious architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        21.341526,
-                        41.006774
-                  ]
-            },
-            {
-                  "name": "Olimpiski Bazen",
-                  "text": "A recreational water park and Olympic pool situated in Bitola.",
-                  "category": "recreational",
-                  "coords": [
-                        21.339929,
-                        41.017441
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "MK",
@@ -1417,338 +656,10 @@ export const northmacedoniaLandmarksV2: POI[] = [
   },
   {
     id: "northmacedonia-clock-tower-bitola-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Zooloshka gradina",
-                  "text": "Der städtische Zoo von Bitola beherbergt verschiedene Tierarten und ist ein beliebtes Ziel für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341247,
-                        41.014846
-                  ]
-            },
-            {
-                  "name": "Bitolska Tvrdina",
-                  "text": "Die Überreste einer mittelalterlichen Festung, die einst die Stadt Bitola verteidigte.",
-                  "category": "castle",
-                  "coords": [
-                        21.331274,
-                        41.015566
-                  ]
-            },
-            {
-                  "name": "Goce Delchev Memorial House",
-                  "text": "Goce Delchev Memorial House am Uhrturm von Bitola.",
-                  "category": "museum",
-                  "coords": [
-                        21.332208,
-                        41.026896
-                  ]
-            },
-            {
-                  "name": "Muzej na Bitola",
-                  "text": "Das Hauptmuseum von Bitola präsentiert die reiche Geschichte und Kultur der Stadt von der Antike bis heute.",
-                  "category": "museum",
-                  "coords": [
-                        21.335644,
-                        41.023804
-                  ]
-            },
-            {
-                  "name": "Kheraklea Linkestis",
-                  "text": "Eine bedeutende antike Stadt, die von Philipp II. von Mazedonien gegründet wurde und für ihre Mosaike bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        21.342363,
-                        41.011127
-                  ]
-            },
-            {
-                  "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "Dieses Museum ist in einer ehemaligen Moschee untergebracht und beleuchtet das Zusammenleben verschiedener Kulturen.",
-                  "category": "museum",
-                  "coords": [
-                        21.33494,
-                        41.030748
-                  ]
-            },
-            {
-                  "name": "Mémorial de Bitola",
-                  "text": "Ein Museum in Bitola, das bedeutenden historischen Ereignissen oder Persönlichkeiten der Stadt gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        21.358605,
-                        41.041086
-                  ]
-            },
-            {
-                  "name": "Sv. Troitsa",
-                  "text": "Eine markante orthodoxe Kirche in Bitola, die ein wichtiges religiöses Denkmal der Stadt darstellt.",
-                  "category": "landmark",
-                  "coords": [
-                        21.341526,
-                        41.006774
-                  ]
-            },
-            {
-                  "name": "Olimpiski Bazen",
-                  "text": "Olympisches Schwimmbad und Wasserpark in der Nähe des Uhrturms von Bitola.",
-                  "category": "recreational",
-                  "coords": [
-                        21.339929,
-                        41.017441
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Zooloshka gradina",
-                  "text": "Bitola városi állatkertje számos állatfajnak ad otthont, és népszerű célpont a családok körében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341247,
-                        41.014846
-                  ]
-            },
-            {
-                  "name": "Bitolska Tvrdina",
-                  "text": "Egy középkori erődítmény maradványai, amely egykor Bitola városát védelmezte.",
-                  "category": "castle",
-                  "coords": [
-                        21.331274,
-                        41.015566
-                  ]
-            },
-            {
-                  "name": "Goce Delchev Memorial House",
-                  "text": "Goce Delchev Emlékház Bitola Óratornyánál.",
-                  "category": "museum",
-                  "coords": [
-                        21.332208,
-                        41.026896
-                  ]
-            },
-            {
-                  "name": "Muzej na Bitola",
-                  "text": "Bitola főmúzeuma bemutatja a város gazdag történelmét és kultúráját az ókortól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        21.335644,
-                        41.023804
-                  ]
-            },
-            {
-                  "name": "Kheraklea Linkestis",
-                  "text": "Jelentős ókori város, amelyet II. Philipposz alapított, és híres gyönyörű mozaikjairól.",
-                  "category": "historical",
-                  "coords": [
-                        21.342363,
-                        41.011127
-                  ]
-            },
-            {
-                  "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "Ez a múzeum egy egykori mecsetben található, és a különböző kultúrák együttélését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        21.33494,
-                        41.030748
-                  ]
-            },
-            {
-                  "name": "Mémorial de Bitola",
-                  "text": "Bitolai múzeum, amelyet a város jelentős történelmi eseményeinek vagy személyiségeinek szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        21.358605,
-                        41.041086
-                  ]
-            },
-            {
-                  "name": "Sv. Troitsa",
-                  "text": "Jellegzetes ortodox templom Bitolában, amely a város fontos vallási műemléke.",
-                  "category": "landmark",
-                  "coords": [
-                        21.341526,
-                        41.006774
-                  ]
-            },
-            {
-                  "name": "Olimpiski Bazen",
-                  "text": "Olimpiai méretű vízipark és úszómedence a bitolai óratorony közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.339929,
-                        41.017441
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Zooloshka gradina",
-                  "text": "Grădina zoologică municipală din Bitola găzduiește diverse specii de animale și este o destinație populară pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341247,
-                        41.014846
-                  ]
-            },
-            {
-                  "name": "Bitolska Tvrdina",
-                  "text": "Vestigiile unei cetăți medievale care a asigurat odinioară apărarea orașului Bitola.",
-                  "category": "castle",
-                  "coords": [
-                        21.331274,
-                        41.015566
-                  ]
-            },
-            {
-                  "name": "Goce Delchev Memorial House",
-                  "text": "Casa Memorială Goce Delchev lângă Turnul cu Ceas din Bitola.",
-                  "category": "museum",
-                  "coords": [
-                        21.332208,
-                        41.026896
-                  ]
-            },
-            {
-                  "name": "Muzej na Bitola",
-                  "text": "Principalul muzeu din Bitola prezintă istoria și cultura bogată a orașului, din antichitate până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        21.335644,
-                        41.023804
-                  ]
-            },
-            {
-                  "name": "Kheraklea Linkestis",
-                  "text": "Un important oraș antic fondat de Filip al II-lea al Macedoniei, renumit pentru mozaicurile sale.",
-                  "category": "historical",
-                  "coords": [
-                        21.342363,
-                        41.011127
-                  ]
-            },
-            {
-                  "name": "Muzej na khristijanskata i muslimanskata kultura",
-                  "text": "Acest muzeu este găzduit într-o fostă moschee și evidențiază conviețuirea diverselor culturi.",
-                  "category": "museum",
-                  "coords": [
-                        21.33494,
-                        41.030748
-                  ]
-            },
-            {
-                  "name": "Mémorial de Bitola",
-                  "text": "Un muzeu din Bitola dedicat unor evenimente istorice sau personalități marcante ale orașului.",
-                  "category": "museum",
-                  "coords": [
-                        21.358605,
-                        41.041086
-                  ]
-            },
-            {
-                  "name": "Sv. Troitsa",
-                  "text": "O biserică ortodoxă distinctivă din Bitola, care reprezintă un monument religios important al orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        21.341526,
-                        41.006774
-                  ]
-            },
-            {
-                  "name": "Olimpiski Bazen",
-                  "text": "Parc acvatic și piscină olimpică lângă Turnul cu Ceas din Bitola.",
-                  "category": "recreational",
-                  "coords": [
-                        21.339929,
-                        41.017441
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bitola Zoo",
-                  "text": "The municipal zoo of Bitola houses various animal species and is a popular destination for families.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341247,
-                        41.014846
-                  ]
-            },
-            {
-                  "name": "Fortress of Bitola",
-                  "text": "The remains of a medieval fortress that once defended the city of Bitola.",
-                  "category": "castle",
-                  "coords": [
-                        21.331274,
-                        41.015566
-                  ]
-            },
-            {
-                  "name": "Goce Delchev Memorial House",
-                  "text": "Goce Delchev Memorial House near Bitola's Clock Tower.",
-                  "category": "museum",
-                  "coords": [
-                        21.332208,
-                        41.026896
-                  ]
-            },
-            {
-                  "name": "Museum of Bitola",
-                  "text": "The main museum of Bitola presents the city's rich history and culture from antiquity to the present day.",
-                  "category": "museum",
-                  "coords": [
-                        21.335644,
-                        41.023804
-                  ]
-            },
-            {
-                  "name": "Heraclea Lyncestis",
-                  "text": "An important ancient city founded by Philip II of Macedon, famous for its mosaics.",
-                  "category": "historical",
-                  "coords": [
-                        21.342363,
-                        41.011127
-                  ]
-            },
-            {
-                  "name": "Museum of christian and muslim culture",
-                  "text": "This museum is housed in a former mosque and highlights the coexistence of different cultures.",
-                  "category": "museum",
-                  "coords": [
-                        21.33494,
-                        41.030748
-                  ]
-            },
-            {
-                  "name": "Mémorial de Bitola",
-                  "text": "A museum in Bitola dedicated to significant historical events or personalities of the city.",
-                  "category": "museum",
-                  "coords": [
-                        21.358605,
-                        41.041086
-                  ]
-            },
-            {
-                  "name": "St. Trinity",
-                  "text": "A prominent Orthodox church in Bitola, representing an important religious monument of the city.",
-                  "category": "landmark",
-                  "coords": [
-                        21.341526,
-                        41.006774
-                  ]
-            },
-            {
-                  "name": "Olimpiski Bazen",
-                  "text": "Olympic-sized water park and swimming facility near the Clock Tower of Bitola.",
-                  "category": "recreational",
-                  "coords": [
-                        21.339929,
-                        41.017441
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "tower",
     parent: "MK",
@@ -1842,84 +753,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-kurshumli-an-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "Ein Museum in Skopje, das die reiche Flora und Fauna Nordmazedoniens präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "Eine historische Festung auf dem höchsten Punkt der Stadt Skopje.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "Der Zoo von Skopje beherbergt zahlreiche Tierarten und ist ein beliebtes Ziel für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Scupi ist eine bedeutende antike römische Ausgrabungsstätte in der Nähe von Skopje.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
                   "name": "Muzej na Makedonija",
                   "text": "Dieses Museum dokumentiert die reiche Geschichte und das kulturelle Erbe Mazedoniens.",
                   "category": "museum",
                   "coords": [
                         21.436115,
                         42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Das Gebäude beherbergt die nationalen Ensembles für Opern- und Ballettaufführungen in der Hauptstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "Das Museum zeigt eine bedeutende Sammlung moderner und zeitgenössischer Kunstwerke.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "Diese Nationalgalerie ist in einem restaurierten osmanischen Badehaus aus dem 15. Jahrhundert untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
-            {
-                  "name": "Dinosaurierpark Skopje",
-                  "text": "Dinosaurier-Freizeitpark nahe der historischen Karawanserei Kurshumli An in Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.41926,
-                        42.005435
                   ]
             },
             {
@@ -1939,54 +778,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "Ein Schwimmbad in der Nähe des historischen Kurshumli An in Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "Szkopjei múzeum, amely Észak-Macedónia gazdag növény- és állatvilágát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "Történelmi erőd Szkopje városának legmagasabb pontján.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "A szkopszei állatkert számos állatfajnak ad otthont, és népszerű családi úticél.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Scupi egy jelentős ókori római régészeti lelőhely Szkopje közelében.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
             {
                   "name": "Muzej na Makedonija",
                   "text": "Ez a múzeum Macedónia gazdag történelmét és kulturális örökségét mutatja be.",
@@ -1994,33 +788,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.436115,
                         42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Az épület a főváros nemzeti opera- és balettelőadásainak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "A múzeum a modern és kortárs műalkotások jelentős gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "Ez a nemzeti galéria egy felújított 15. századi oszmán fürdőépületben található.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
                   ]
             },
             {
@@ -2049,54 +816,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "Úszómedence a történelmi Kurshumli An közelében Szkopjéban.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "Un muzeu din Skopje care prezintă flora și fauna bogată a Macedoniei de Nord.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "O cetate istorică situată pe cel mai înalt punct al orașului Skopje.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "Grădina zoologică din Skopje găzduiește numeroase specii de animale și este o destinație populară pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Scupi este un sit arheologic roman antic important situat lângă Skopje.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
             {
                   "name": "Muzej na Makedonija",
                   "text": "Acest muzeu documentează istoria bogată și patrimoniul cultural al Macedoniei.",
@@ -2104,33 +826,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.436115,
                         42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Clădirea găzduiește ansamblurile naționale de operă și balet din capitală.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "Muzeul expune o colecție importantă de opere de artă modernă și contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "Această galerie națională este găzduită într-o fostă baie otomană restaurată din secolul al XV-lea.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
                   ]
             },
             {
@@ -2159,54 +854,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "O piscină situată lângă istoricul Kurshumli An din Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Macedonian Museum of Natural History",
-                  "text": "A museum in Skopje showcasing the rich flora and fauna of North Macedonia.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopje Fortress",
-                  "text": "A historic fortress situated on the highest point of the city of Skopje.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Skopje Zoo",
-                  "text": "Skopje Zoo is home to many animal species and is a popular destination for families.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Scupi",
-                  "text": "Scupi is a significant ancient Roman archaeological site located near Skopje.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
             {
                   "name": "Museum of Macedonia",
                   "text": "This museum documents the rich history and cultural heritage of Macedonia.",
@@ -2214,69 +864,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.436115,
                         42.002576
-                  ]
-            },
-            {
-                  "name": "Macedonian National Opera and Ballet",
-                  "text": "The building hosts the national opera and ballet performances in the capital.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Contemporary Art Museum of Macedonia",
-                  "text": "The museum displays a significant collection of modern and contemporary artworks.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Daut Pasha Hamam National Gallery",
-                  "text": "This national gallery is housed in a restored 15th-century Ottoman bathhouse.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
-            {
-                  "name": "Dinosaur Park Skopje",
-                  "text": "Dinosaur-themed amusement park near the historic Kurshumli An caravanserai in Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.41926,
-                        42.005435
-                  ]
-            },
-            {
-                  "name": "Olympic swimming pool - Centar",
-                  "text": "Olympic-sized swimming pool adjacent to the Kurshumli An caravanserai.",
-                  "category": "recreational",
-                  "coords": [
-                        21.439118,
-                        41.99121
-                  ]
-            },
-            {
-                  "name": "Aquapark",
-                  "text": "A water park in the surroundings of the Kurshumli An caravanserai.",
-                  "category": "recreational",
-                  "coords": [
-                        21.40435,
-                        42.011038
-                  ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "A swimming pool located near the historic Kurshumli An in Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
                   ]
             }
       ]
@@ -2373,84 +960,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-st-pantaleon-gorno-nerezi-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Muzej na Grad Skopje",
-                  "text": "Dieses Museum befindet sich im historischen Gebäude des alten Bahnhofs von Skopje.",
-                  "category": "museum",
-                  "coords": [
-                        21.429044,
-                        41.990916
-                  ]
-            },
-            {
-                  "name": "Galerija RA",
-                  "text": "Ein lokaler Kunstraum, in dem zeitgenössische Werke und kulturelle Exponate ausgestellt werden.",
-                  "category": "museum",
-                  "coords": [
-                        21.386588,
-                        41.998957
-                  ]
-            },
-            {
                   "name": "Letna stsena",
                   "text": "Eine Freilichtbühne für kulturelle Veranstaltungen und Theateraufführungen in der Region.",
                   "category": "cultural",
                   "coords": [
                         21.374477,
                         41.97554
-                  ]
-            },
-            {
-                  "name": "Teatar Komedija",
-                  "text": "Ein lokales Theater, das sich auf komödiantische Aufführungen und moderne Stücke spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        21.425365,
-                        41.994524
-                  ]
-            },
-            {
-                  "name": "Markovi Kuli",
-                  "text": "Ruinen einer mittelalterlichen Festung am Hang des Berges Vodno.",
-                  "category": "historical",
-                  "coords": [
-                        21.431409,
-                        41.968224
-                  ]
-            },
-            {
-                  "name": "Orashets",
-                  "text": "Ein Berggipfel in der Nähe von Skopje, der Ausblicke auf die umliegende Landschaft bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        21.410097,
-                        41.963542
-                  ]
-            },
-            {
-                  "name": "Krstovar",
-                  "text": "Der höchste Gipfel des Berges Vodno, bekannt für das markante Millenniumskreuz.",
-                  "category": "landmark",
-                  "coords": [
-                        21.394779,
-                        41.965049
-                  ]
-            },
-            {
-                  "name": "Abedishte",
-                  "text": "Ein Berggipfel in der Region, der Wanderer mit Panoramablicken belohnt.",
-                  "category": "landmark",
-                  "coords": [
-                        21.382266,
-                        41.963883
-                  ]
-            },
-            {
-                  "name": "Dinosaurierpark Skopje",
-                  "text": "Ein Dinosaurier-Themenpark in der Nähe der historischen Panteleimon-Kirche.",
-                  "category": "recreational",
-                  "coords": [
-                        21.41926,
-                        42.005435
                   ]
             },
             {
@@ -2483,75 +998,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Muzej na Grad Skopje",
-                  "text": "Ez a múzeum Szkopje régi vasútállomásának történelmi épületében kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        21.429044,
-                        41.990916
-                  ]
-            },
-            {
-                  "name": "Galerija RA",
-                  "text": "Egy helyi művészeti tér, ahol kortárs műveket és kulturális kiállításokat mutatnak be.",
-                  "category": "museum",
-                  "coords": [
-                        21.386588,
-                        41.998957
-                  ]
-            },
-            {
                   "name": "Letna stsena",
                   "text": "Szabadtéri színpad kulturális események és színházi előadások számára a régióban.",
                   "category": "cultural",
                   "coords": [
                         21.374477,
                         41.97554
-                  ]
-            },
-            {
-                  "name": "Teatar Komedija",
-                  "text": "Komédiákra és modern darabokra szakosodott helyi színház.",
-                  "category": "cultural",
-                  "coords": [
-                        21.425365,
-                        41.994524
-                  ]
-            },
-            {
-                  "name": "Markovi Kuli",
-                  "text": "Egy középkori erőd romjai a Vodno-hegy lejtőjén.",
-                  "category": "historical",
-                  "coords": [
-                        21.431409,
-                        41.968224
-                  ]
-            },
-            {
-                  "name": "Orashets",
-                  "text": "Egy Szkopje közeli hegycsúcs, ahonnan kilátás nyílik a környező tájra.",
-                  "category": "landmark",
-                  "coords": [
-                        21.410097,
-                        41.963542
-                  ]
-            },
-            {
-                  "name": "Krstovar",
-                  "text": "A Vodno-hegy legmagasabb csúcsa, amely a jellegzetes Millenniumi-keresztről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        21.394779,
-                        41.965049
-                  ]
-            },
-            {
-                  "name": "Abedishte",
-                  "text": "Egy hegycsúcs a régióban, amely panorámás kilátással jutalmazza a túrázókat.",
-                  "category": "landmark",
-                  "coords": [
-                        21.382266,
-                        41.963883
                   ]
             },
             {
@@ -2593,75 +1045,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzej na Grad Skopje",
-                  "text": "Acest muzeu este situat în clădirea istorică a vechii gări din Skopje.",
-                  "category": "museum",
-                  "coords": [
-                        21.429044,
-                        41.990916
-                  ]
-            },
-            {
-                  "name": "Galerija RA",
-                  "text": "Un spațiu de artă local care expune lucrări contemporane și exponate culturale.",
-                  "category": "museum",
-                  "coords": [
-                        21.386588,
-                        41.998957
-                  ]
-            },
-            {
                   "name": "Letna stsena",
                   "text": "O scenă în aer liber pentru evenimente culturale și spectacole de teatru în regiune.",
                   "category": "cultural",
                   "coords": [
                         21.374477,
                         41.97554
-                  ]
-            },
-            {
-                  "name": "Teatar Komedija",
-                  "text": "Un teatru local specializat în spectacole de comedie și piese moderne.",
-                  "category": "cultural",
-                  "coords": [
-                        21.425365,
-                        41.994524
-                  ]
-            },
-            {
-                  "name": "Markovi Kuli",
-                  "text": "Ruinele unei cetăți medievale situate pe versantul muntelui Vodno.",
-                  "category": "historical",
-                  "coords": [
-                        21.431409,
-                        41.968224
-                  ]
-            },
-            {
-                  "name": "Orashets",
-                  "text": "Un vârf montan de lângă Skopje care oferă vederi asupra peisajului înconjurător.",
-                  "category": "landmark",
-                  "coords": [
-                        21.410097,
-                        41.963542
-                  ]
-            },
-            {
-                  "name": "Krstovar",
-                  "text": "Cel mai înalt vârf al muntelui Vodno, cunoscut pentru Crucea Mileniului.",
-                  "category": "landmark",
-                  "coords": [
-                        21.394779,
-                        41.965049
-                  ]
-            },
-            {
-                  "name": "Abedishte",
-                  "text": "Un vârf montan din regiune care îi răsplătește pe turiști cu vederi panoramice.",
-                  "category": "landmark",
-                  "coords": [
-                        21.382266,
-                        41.963883
                   ]
             },
             {
@@ -2703,111 +1092,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museum of the City of Skopje",
-                  "text": "This museum is located in the historic building of the old railway station of Skopje.",
-                  "category": "museum",
-                  "coords": [
-                        21.429044,
-                        41.990916
-                  ]
-            },
-            {
-                  "name": "Gallery RA",
-                  "text": "A local art space exhibiting contemporary works and cultural exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        21.386588,
-                        41.998957
-                  ]
-            },
-            {
                   "name": "Summer stage",
                   "text": "An open-air stage for cultural events and theatrical performances in the region.",
                   "category": "cultural",
                   "coords": [
                         21.374477,
                         41.97554
-                  ]
-            },
-            {
-                  "name": "Theater Comedy",
-                  "text": "A local theatre specializing in comedic performances and modern plays.",
-                  "category": "cultural",
-                  "coords": [
-                        21.425365,
-                        41.994524
-                  ]
-            },
-            {
-                  "name": "Markovi Kuli",
-                  "text": "Ruins of a medieval fortress located on the slopes of Mount Vodno.",
-                  "category": "historical",
-                  "coords": [
-                        21.431409,
-                        41.968224
-                  ]
-            },
-            {
-                  "name": "Orashec",
-                  "text": "A mountain peak near Skopje offering views of the surrounding landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        21.410097,
-                        41.963542
-                  ]
-            },
-            {
-                  "name": "Krstovar",
-                  "text": "The highest peak of Mount Vodno, known for the prominent Millennium Cross.",
-                  "category": "landmark",
-                  "coords": [
-                        21.394779,
-                        41.965049
-                  ]
-            },
-            {
-                  "name": "Abedishte",
-                  "text": "A mountain peak in the region rewarding hikers with panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        21.382266,
-                        41.963883
-                  ]
-            },
-            {
-                  "name": "Dinosaur Park Skopje",
-                  "text": "A dinosaur-themed park located near the historic Saint Panteleimon Church.",
-                  "category": "recreational",
-                  "coords": [
-                        21.41926,
-                        42.005435
-                  ]
-            },
-            {
-                  "name": "Small pool",
-                  "text": "Small swimming pool near the Church of St. Pantaleon in Gorno Nerezi.",
-                  "category": "recreational",
-                  "coords": [
-                        21.341216,
-                        41.999334
-                  ]
-            },
-            {
-                  "name": "Olympic swimming pool - Centar",
-                  "text": "Olympic-sized swimming pool near the Church of St. Pantaleon in Gorno Nerezi.",
-                  "category": "recreational",
-                  "coords": [
-                        21.439118,
-                        41.99121
-                  ]
-            },
-            {
-                  "name": "Aquapark",
-                  "text": "A water park with leisure facilities near the Byzantine church in Nerezi.",
-                  "category": "recreational",
-                  "coords": [
-                        21.40435,
-                        42.011038
                   ]
             }
       ]
@@ -2857,50 +1147,10 @@ export const northmacedoniaLandmarksV2: POI[] = [
   },
   {
     id: "northmacedonia-st-george-staro-nagoricane-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Sv. Velikomachenik Georgij",
-                  "text": "Diese historische orthodoxe Kirche in Staro Nagoričane ist für ihre bedeutenden mittelalterlichen Fresken bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        21.828192,
-                        42.19831
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Sv. Velikomachenik Georgij",
-                  "text": "Ez a történelmi ortodox templom Sztaro Nagoricsane faluban jelentős középkori freskóiról híres.",
-                  "category": "religious",
-                  "coords": [
-                        21.828192,
-                        42.19831
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Sv. Velikomachenik Georgij",
-                  "text": "Această biserică ortodoxă istorică din Staro Nagoričane este renumită pentru frescele sale medievale importante.",
-                  "category": "religious",
-                  "coords": [
-                        21.828192,
-                        42.19831
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Church of St. George",
-                  "text": "This historic Orthodox church in Staro Nagoričane is renowned for its significant medieval frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        21.828192,
-                        42.19831
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "MK",
@@ -2949,87 +1199,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
     id: "northmacedonia-monument-karpos-skopje-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "Das Museum präsentiert eine umfangreiche Sammlung zur Flora, Fauna und Geologie Mazedoniens.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "Die historische Festung thront über Skopje und bietet einen bedeutenden Einblick in die Stadtgeschichte.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "Der Zoo von Skopje beherbergt zahlreiche Tierarten und ist ein beliebtes Ziel für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Scupi ist eine bedeutende archäologische Ausgrabungsstätte einer antiken römischen Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
-                  "name": "Muzej na Makedonija",
-                  "text": "Das Nationalmuseum zeigt Exponate zur Geschichte, Archäologie und Ethnologie des Landes.",
-                  "category": "museum",
-                  "coords": [
-                        21.436115,
-                        42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Dieses Kulturzentrum ist die wichtigste Bühne für Opern- und Ballettaufführungen in Nordmazedonien.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "Das Museum beherbergt eine bedeutende Sammlung zeitgenössischer Kunst aus dem In- und Ausland.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "Die Nationalgalerie ist in einem ehemaligen osmanischen Hamam aus dem 15. Jahrhundert untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
-            {
-                  "name": "Dinosaurierpark Skopje",
-                  "text": "Dinosaurier-Freizeitpark nahe dem Karpos-Denkmal in Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.41926,
-                        42.005435
-                  ]
-            },
-            {
                   "name": "Олимписки базен - Центар",
                   "text": "Olympia-Schwimmbecken nahe dem Karpos-Denkmal in Skopje.",
                   "category": "recreational",
@@ -3046,90 +1215,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "Ein bekanntes Schwimmbad in Skopje im Stadtteil Karpoš für Wassersport.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "A múzeum Macedónia növény- és állatvilágát, valamint geológiáját bemutató gazdag gyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "A Szkopje fölé magasodó történelmi erődítmény fontos betekintést nyújt a város múltjába.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "A szkopjei állatkert számos állatfajnak ad otthont, és népszerű úti cél a családok körében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Scupi egy ókori római város jelentős régészeti lelőhelye Szkopje közelében.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
-                  "name": "Muzej na Makedonija",
-                  "text": "A nemzeti múzeum az ország történelmét, régészetét és néprajzát bemutató kiállításokat kínál.",
-                  "category": "museum",
-                  "coords": [
-                        21.436115,
-                        42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Ez a kulturális központ Észak-Macedónia legfontosabb opera- és balettelőadásainak helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "A múzeum a kortárs művészet jelentős hazai és nemzetközi gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "A nemzeti galéria egy 15. századi egykori oszmán fürdőben, egy hamamban kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
             {
                   "name": "Дино парк Скопје",
                   "text": "Dinoszaurusz-témájú szórakoztató park a Karpos-emlékmű közelében Szkopjéban.",
@@ -3156,90 +1244,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "Ismert szkopjei úszómedence a Karpoš negyedben vízi sportokhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Prirodonauchen Muzej",
-                  "text": "Muzeul prezintă o colecție vastă dedicată florei, faunei și geologiei Macedoniei.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopsko kale",
-                  "text": "Cetatea istorică domină orașul Skopje și oferă o perspectivă importantă asupra istoriei locale.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Zooloshka gradina Skopje",
-                  "text": "Grădina Zoologică din Skopje adăpostește numeroase specii de animale și este o destinație populară pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Skupi",
-                  "text": "Scupi este un sit arheologic important ce cuprinde ruinele unui oraș roman antic.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
-                  "name": "Muzej na Makedonija",
-                  "text": "Muzeul național prezintă exponate legate de istoria, arheologia și etnologia țării.",
-                  "category": "museum",
-                  "coords": [
-                        21.436115,
-                        42.002576
-                  ]
-            },
-            {
-                  "name": "Makedonska Natsionalna opera i balet",
-                  "text": "Acest centru cultural este cea mai importantă scenă pentru spectacole de operă și balet din Macedonia de Nord.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Muzej na sovremenata umetnost",
-                  "text": "Muzeul găzduiește o colecție importantă de artă contemporană, atât națională, cât și internațională.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Natsionalna galerija ,,Daut-pashin amam\"",
-                  "text": "Galeria națională este găzduită într-un fost hamam otoman din secolul al XV-lea.",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
             {
                   "name": "Дино парк Скопје",
                   "text": "Parcul tematic cu dinozauri lângă Monumentul lui Karpos din Skopje.",
@@ -3266,127 +1273,9 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.40435,
                         42.011038
                   ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "O piscină cunoscută din Skopje, în cartierul Karpoș, pentru sporturi nautice.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
             }
       ],
-      "en": [
-            {
-                  "name": "Macedonian Museum of Natural History",
-                  "text": "The museum presents an extensive collection on the flora, fauna, and geology of Macedonia.",
-                  "category": "museum",
-                  "coords": [
-                        21.417442,
-                        42.005709
-                  ]
-            },
-            {
-                  "name": "Skopje Fortress",
-                  "text": "The historic fortress towers over Skopje and offers significant insight into the city's history.",
-                  "category": "castle",
-                  "coords": [
-                        21.433208,
-                        42.000615
-                  ]
-            },
-            {
-                  "name": "Skopje Zoo",
-                  "text": "The Skopje Zoo is home to numerous animal species and is a popular destination for families.",
-                  "category": "recreational",
-                  "coords": [
-                        21.417577,
-                        42.006931
-                  ]
-            },
-            {
-                  "name": "Scupi",
-                  "text": "Scupi is a significant archaeological site containing the ruins of an ancient Roman city.",
-                  "category": "historical",
-                  "coords": [
-                        21.392568,
-                        42.016618
-                  ]
-            },
-            {
-                  "name": "Museum of Macedonia",
-                  "text": "The national museum features exhibits on the history, archaeology, and ethnology of the country.",
-                  "category": "museum",
-                  "coords": [
-                        21.436115,
-                        42.002576
-                  ]
-            },
-            {
-                  "name": "Macedonian National Opera and Ballet",
-                  "text": "This cultural center is the primary venue for opera and ballet performances in North Macedonia.",
-                  "category": "cultural",
-                  "coords": [
-                        21.436997,
-                        41.997543
-                  ]
-            },
-            {
-                  "name": "Contemporary Art Museum of Macedonia",
-                  "text": "The museum houses a significant collection of contemporary art from both home and abroad.",
-                  "category": "museum",
-                  "coords": [
-                        21.432848,
-                        42.003985
-                  ]
-            },
-            {
-                  "name": "Daut Pasha Hamam National Gallery",
-                  "text": "The national gallery is housed in a former 15th-century Ottoman bathhouse (hamam).",
-                  "category": "museum",
-                  "coords": [
-                        21.435724,
-                        41.998724
-                  ]
-            },
-            {
-                  "name": "Dinosaur Park Skopje",
-                  "text": "Dinosaur-themed amusement park near the Monument of Karpos in Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.41926,
-                        42.005435
-                  ]
-            },
-            {
-                  "name": "Olympic swimming pool - Centar",
-                  "text": "Olympic-sized swimming pool near the Monument of Karpos in Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.439118,
-                        41.99121
-                  ]
-            },
-            {
-                  "name": "Aquapark",
-                  "text": "Aquapark is a water park located near the Karpos Monument in Skopje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.40435,
-                        42.011038
-                  ]
-            },
-            {
-                  "name": "Bazen Karposh",
-                  "text": "A well-known swimming pool in Skopje in the Karpoš district for water sports.",
-                  "category": "recreational",
-                  "coords": [
-                        21.405362,
-                        42.009045
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "monument",
     parent: "MK",
@@ -3444,30 +1333,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kukjata na Gjoshevi",
-                  "text": "Eine archäologische Stätte in Varos, die traditionelle mazedonische Wohnarchitektur zeigt.",
-                  "category": "historical",
-                  "coords": [
-                        21.532954,
-                        41.358818
-                  ]
-            },
-            {
                   "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Das Gedenkmuseum des Volkshelden Kuzman Josifoski-Pitu in Varoš bei der Kirche des Erzengels Michael.",
                   "category": "museum",
                   "coords": [
                         21.559707,
                         41.342511
-                  ]
-            },
-            {
-                  "name": "Markovi Kuli",
-                  "text": "Eine mittelalterliche Festung auf einem Hügel über Prilep, bekannt als Türme von Marko.",
-                  "category": "castle",
-                  "coords": [
-                        21.538839,
-                        41.361635
                   ]
             },
             {
@@ -3487,15 +1358,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.552359,
                         41.345014
                   ]
-            },
-            {
-                  "name": "Kompleks Varosh",
-                  "text": "Eine Freizeitanlage im historischen Viertel Varos bei Prilep.",
-                  "category": "recreational",
-                  "coords": [
-                        21.530998,
-                        41.35746
-                  ]
             }
       ],
       "hu": [
@@ -3509,30 +1371,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kukjata na Gjoshevi",
-                  "text": "Régészeti lelőhely Varosban, amely a hagyományos macedón lakóépítészetet mutatja be.",
-                  "category": "historical",
-                  "coords": [
-                        21.532954,
-                        41.358818
-                  ]
-            },
-            {
                   "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Kuzman Josifoski-Pitu népi hős emlékmúzeuma Varošban, a Szent Mihály arkangyal templom mellett.",
                   "category": "museum",
                   "coords": [
                         21.559707,
                         41.342511
-                  ]
-            },
-            {
-                  "name": "Markovi Kuli",
-                  "text": "Középkori erőd egy dombon Prilep felett, amely Marko tornyai néven ismert.",
-                  "category": "castle",
-                  "coords": [
-                        21.538839,
-                        41.361635
                   ]
             },
             {
@@ -3552,15 +1396,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.552359,
                         41.345014
                   ]
-            },
-            {
-                  "name": "Kompleks Varosh",
-                  "text": "Szabadidős komplexum a Prilep melletti történelmi Varos negyedben.",
-                  "category": "recreational",
-                  "coords": [
-                        21.530998,
-                        41.35746
-                  ]
             }
       ],
       "ro": [
@@ -3574,30 +1409,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kukjata na Gjoshevi",
-                  "text": "Un sit arheologic în Varos care prezintă arhitectura rezidențială tradițională macedoneană.",
-                  "category": "historical",
-                  "coords": [
-                        21.532954,
-                        41.358818
-                  ]
-            },
-            {
                   "name": "Memorijalen muzej Naroden kheroj Kuzman Josifoski-Pitu",
                   "text": "Muzeul memorial al eroului popular Kuzman Josifoski-Pitu în Varoš, lângă biserica Sf. Arhanghel Mihail.",
                   "category": "museum",
                   "coords": [
                         21.559707,
                         41.342511
-                  ]
-            },
-            {
-                  "name": "Markovi Kuli",
-                  "text": "O cetate medievală pe un deal deasupra Prilepului, cunoscută sub numele de Turnurile lui Marko.",
-                  "category": "castle",
-                  "coords": [
-                        21.538839,
-                        41.361635
                   ]
             },
             {
@@ -3617,15 +1434,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.552359,
                         41.345014
                   ]
-            },
-            {
-                  "name": "Kompleks Varosh",
-                  "text": "Un complex de agrement situat în cartierul istoric Varos de lângă Prilep.",
-                  "category": "recreational",
-                  "coords": [
-                        21.530998,
-                        41.35746
-                  ]
             }
       ],
       "en": [
@@ -3639,30 +1447,12 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "House of Gjoshev",
-                  "text": "An archaeological site in Varos showcasing traditional Macedonian residential architecture.",
-                  "category": "historical",
-                  "coords": [
-                        21.532954,
-                        41.358818
-                  ]
-            },
-            {
                   "name": "People's hero Kuzman Josifoski-Pitu Memorial museum",
                   "text": "People's hero Kuzman Josifoski-Pitu Memorial museum in Varoš near St. Archangel Michael church.",
                   "category": "museum",
                   "coords": [
                         21.559707,
                         41.342511
-                  ]
-            },
-            {
-                  "name": "Marko's Towers",
-                  "text": "A medieval fortress on a hill above Prilep, known as Marko's Towers.",
-                  "category": "castle",
-                  "coords": [
-                        21.538839,
-                        41.361635
                   ]
             },
             {
@@ -3681,15 +1471,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.552359,
                         41.345014
-                  ]
-            },
-            {
-                  "name": "Complex Varosh",
-                  "text": "A leisure complex situated in the historical Varos neighborhood near Prilep.",
-                  "category": "recreational",
-                  "coords": [
-                        21.530998,
-                        41.35746
                   ]
             }
       ]
@@ -3793,60 +1574,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.292269,
                         41.93016
                   ]
-            },
-            {
-                  "name": "Izlozhben tsentar Matka",
-                  "text": "Ausstellung zur Elektrizität und zur Geschichte der Matka-Talsperre.",
-                  "category": "landmark",
-                  "coords": [
-                        21.297668,
-                        41.953199
-                  ]
-            },
-            {
-                  "name": "Kanjon Matka",
-                  "text": "Beeindruckende Schlucht des Flusses Treska, beliebt für Bootsfahrten und Wanderungen.",
-                  "category": "landmark",
-                  "coords": [
-                        21.299351,
-                        41.950454
-                  ]
-            },
-            {
-                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Das Kloster der Entschlafung der Gottesmutter nahe dem Andreas-Kloster in Matka.",
-                  "category": "landmark",
-                  "coords": [
-                        21.295962,
-                        41.961834
-                  ]
-            },
-            {
-                  "name": "Shishevski Manastir",
-                  "text": "Historisches orthodoxes Kloster mit Blick auf den Matka-Canyon.",
-                  "category": "landmark",
-                  "coords": [
-                        21.30424,
-                        41.951809
-                  ]
-            },
-            {
-                  "name": "Matka canyon viewpoint near golden cross",
-                  "text": "Aussichtspunkt mit weitem Blick über den Matka-Canyon und den Fluss.",
-                  "category": "natural",
-                  "coords": [
-                        21.292864,
-                        41.961308
-                  ]
-            },
-            {
-                  "name": "Sv. Nedela",
-                  "text": "Die Kirche Heiliger Sonntag (St. Nedela) ist eine orthodoxe Kirche nahe dem Andreas-Kloster in Matka.",
-                  "category": "religious",
-                  "coords": [
-                        21.291514,
-                        41.949713
-                  ]
             }
       ],
       "hu": [
@@ -3857,60 +1584,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.292269,
                         41.93016
-                  ]
-            },
-            {
-                  "name": "Izlozhben tsentar Matka",
-                  "text": "Villamossággal és a Matka-gát történetével foglalkozó kiállítás.",
-                  "category": "landmark",
-                  "coords": [
-                        21.297668,
-                        41.953199
-                  ]
-            },
-            {
-                  "name": "Kanjon Matka",
-                  "text": "A Treska folyó lenyűgöző kanyonja, népszerű csónaktúrák és túrázás helyszíne.",
-                  "category": "landmark",
-                  "coords": [
-                        21.299351,
-                        41.950454
-                  ]
-            },
-            {
-                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Az Istenszülő elszenderülése kolostor az András-kolostor közelében, Matkában.",
-                  "category": "landmark",
-                  "coords": [
-                        21.295962,
-                        41.961834
-                  ]
-            },
-            {
-                  "name": "Shishevski Manastir",
-                  "text": "Történelmi ortodox kolostor, amely a Matka-kanyonra néz.",
-                  "category": "landmark",
-                  "coords": [
-                        21.30424,
-                        41.951809
-                  ]
-            },
-            {
-                  "name": "Matka canyon viewpoint near golden cross",
-                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a Matka-kanyonra és a folyóra.",
-                  "category": "natural",
-                  "coords": [
-                        21.292864,
-                        41.961308
-                  ]
-            },
-            {
-                  "name": "Sv. Nedela",
-                  "text": "A Szent Vasárnap (Szent Nedela) templom egy ortodox templom az András-kolostor közelében, Matkában.",
-                  "category": "religious",
-                  "coords": [
-                        21.291514,
-                        41.949713
                   ]
             }
       ],
@@ -3923,60 +1596,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                         21.292269,
                         41.93016
                   ]
-            },
-            {
-                  "name": "Izlozhben tsentar Matka",
-                  "text": "Expoziție dedicată electricității și istoriei barajului Matka.",
-                  "category": "landmark",
-                  "coords": [
-                        21.297668,
-                        41.953199
-                  ]
-            },
-            {
-                  "name": "Kanjon Matka",
-                  "text": "Defileu natural spectaculos al râului Treska, popular pentru plimbări cu barca și drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        21.299351,
-                        41.950454
-                  ]
-            },
-            {
-                  "name": "Манастир Uspenie na Presveta Bogoroditsa",
-                  "text": "Mănăstirea Adormirea Maicii Domnului lângă Mănăstirea Sf. Andrei din Matka.",
-                  "category": "landmark",
-                  "coords": [
-                        21.295962,
-                        41.961834
-                  ]
-            },
-            {
-                  "name": "Shishevski Manastir",
-                  "text": "Mănăstire ortodoxă istorică ce oferă vedere asupra Canyonului Matka.",
-                  "category": "landmark",
-                  "coords": [
-                        21.30424,
-                        41.951809
-                  ]
-            },
-            {
-                  "name": "Matka canyon viewpoint near golden cross",
-                  "text": "Punct de observare ce oferă vedere panoramică asupra Canyonului Matka și a râului.",
-                  "category": "natural",
-                  "coords": [
-                        21.292864,
-                        41.961308
-                  ]
-            },
-            {
-                  "name": "Sv. Nedela",
-                  "text": "Biserica Sfânta Duminică (Sf. Nedela) este o biserică ortodoxă lângă Mănăstirea Sf. Andrei din Matka.",
-                  "category": "religious",
-                  "coords": [
-                        21.291514,
-                        41.949713
-                  ]
             }
       ],
       "en": [
@@ -3987,60 +1606,6 @@ export const northmacedoniaLandmarksV2: POI[] = [
                   "coords": [
                         21.292269,
                         41.93016
-                  ]
-            },
-            {
-                  "name": "Exhibition center Matka",
-                  "text": "Exhibition about electricity and the history of the Matka Dam.",
-                  "category": "landmark",
-                  "coords": [
-                        21.297668,
-                        41.953199
-                  ]
-            },
-            {
-                  "name": "Canyon Matka",
-                  "text": "Stunning natural canyon of the Treska river, popular for boat trips and hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        21.299351,
-                        41.950454
-                  ]
-            },
-            {
-                  "name": "The Dormition of the Most Holy Theotokos monastery",
-                  "text": "Dormition monastery near St. Andrew's Monastery in Matka.",
-                  "category": "landmark",
-                  "coords": [
-                        21.295962,
-                        41.961834
-                  ]
-            },
-            {
-                  "name": "Monastery of Shishevo",
-                  "text": "Historical Orthodox monastery overlooking the Matka Canyon.",
-                  "category": "landmark",
-                  "coords": [
-                        21.30424,
-                        41.951809
-                  ]
-            },
-            {
-                  "name": "Matka canyon viewpoint near golden cross",
-                  "text": "Scenic vantage point offering views over the Matka Canyon and the river.",
-                  "category": "natural",
-                  "coords": [
-                        21.292864,
-                        41.961308
-                  ]
-            },
-            {
-                  "name": "Holy Sunday",
-                  "text": "Holy Sunday (St. Nedela) Church is an Orthodox church near St. Andrew's Monastery in Matka.",
-                  "category": "religious",
-                  "coords": [
-                        21.291514,
-                        41.949713
                   ]
             }
       ]

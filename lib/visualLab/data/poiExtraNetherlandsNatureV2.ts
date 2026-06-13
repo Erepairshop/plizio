@@ -51,39 +51,12 @@ export const netherlandsNatureV2: POI[] = [
     id: "netherlands-oostvaardersplassen-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Oostvaardersplassen",
-                  "text": "Ein großes Naturschutzgebiet in den Niederlanden, bekannt für seine Wildpferde und seltene Vogelarten.",
-                  "category": "natural",
-                  "coords": [
-                        5.351074,
-                        52.446569
-                  ]
-            },
-            {
-                  "name": "Oostvaardersveld",
-                  "text": "Ein abwechslungsreiches Naturgebiet mit Seen und Wäldern, das ideal zur Naturbeobachtung ist.",
-                  "category": "natural",
-                  "coords": [
-                        5.416841,
-                        52.443652
-                  ]
-            },
-            {
                   "name": "Kotterbos",
                   "text": "Ein Waldgebiet am Rande der Oostvaardersplassen, das Lebensraum für viele Wildtiere bietet.",
                   "category": "natural",
                   "coords": [
                         5.34035,
                         52.410223
-                  ]
-            },
-            {
-                  "name": "Observatiehut De Brandgans",
-                  "text": "Eine Vogelbeobachtungshütte, die einen weiten Blick über die Sumpfgebiete des Reservats bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.407713,
-                        52.44516
                   ]
             },
             {
@@ -94,54 +67,9 @@ export const netherlandsNatureV2: POI[] = [
                         5.395932,
                         52.427565
                   ]
-            },
-            {
-                  "name": "Kleine Praambult",
-                  "text": "Ein Aussichtspunkt, der einen guten Überblick über die weiten Graslandschaften des Gebiets bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.409039,
-                        52.443498
-                  ]
-            },
-            {
-                  "name": "De Poelruiter",
-                  "text": "Eine versteckte Beobachtungshütte zur Beobachtung von Wasservögeln in ihrer natürlichen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        5.41484,
-                        52.444196
-                  ]
-            },
-            {
-                  "name": "De Oeverloper",
-                  "text": "Ein Aussichtspunkt am Wasser, ideal für die Beobachtung von Watvögeln und Enten.",
-                  "category": "natural",
-                  "coords": [
-                        5.413732,
-                        52.447147
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Oostvaardersplassen",
-                  "text": "Egy hatalmas természetvédelmi terület Hollandiában, amely vadlovairól és ritka madárfajairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        5.351074,
-                        52.446569
-                  ]
-            },
-            {
-                  "name": "Oostvaardersveld",
-                  "text": "Változatos természeti terület tavakkal és erdőkkel, amely kiválóan alkalmas természetjárásra.",
-                  "category": "natural",
-                  "coords": [
-                        5.416841,
-                        52.443652
-                  ]
-            },
             {
                   "name": "Kotterbos",
                   "text": "Az Oostvaardersplassen szélén elterülő erdő, amely számos vadállatnak ad otthont.",
@@ -152,15 +80,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Observatiehut De Brandgans",
-                  "text": "Egy madármegfigyelő kunyhó, amely széles kilátást nyújt a rezervátum mocsaras területeire.",
-                  "category": "natural",
-                  "coords": [
-                        5.407713,
-                        52.44516
-                  ]
-            },
-            {
                   "name": "Grote Praambult",
                   "text": "Egy megemelt kilátópont, ahonnan vadon élő állatokat, például szarvasokat és őstulok-típusú marhákat lehet látni.",
                   "category": "natural",
@@ -168,54 +87,9 @@ export const netherlandsNatureV2: POI[] = [
                         5.395932,
                         52.427565
                   ]
-            },
-            {
-                  "name": "Kleine Praambult",
-                  "text": "Egy kilátópont, amely jó rálátást biztosít a terület tágas füves pusztáira.",
-                  "category": "natural",
-                  "coords": [
-                        5.409039,
-                        52.443498
-                  ]
-            },
-            {
-                  "name": "De Poelruiter",
-                  "text": "Egy rejtett megfigyelőhely a vízimadarak természetes környezetükben való megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        5.41484,
-                        52.444196
-                  ]
-            },
-            {
-                  "name": "De Oeverloper",
-                  "text": "Vízparti kilátópont, amely ideális a gázlómadarak és kacsák megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        5.413732,
-                        52.447147
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Oostvaardersplassen",
-                  "text": "O rezervație naturală vastă din Țările de Jos, renumită pentru caii sălbatici și speciile rare de păsări.",
-                  "category": "natural",
-                  "coords": [
-                        5.351074,
-                        52.446569
-                  ]
-            },
-            {
-                  "name": "Oostvaardersveld",
-                  "text": "O zonă naturală diversificată cu lacuri și păduri, ideală pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        5.416841,
-                        52.443652
-                  ]
-            },
             {
                   "name": "Kotterbos",
                   "text": "O zonă împădurită la marginea Oostvaardersplassen, care oferă habitat pentru multe animale sălbatice.",
@@ -226,15 +100,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Observatiehut De Brandgans",
-                  "text": "Un adăpost pentru observarea păsărilor, oferind o vedere largă asupra zonelor mlaștoase ale rezervației.",
-                  "category": "natural",
-                  "coords": [
-                        5.407713,
-                        52.44516
-                  ]
-            },
-            {
                   "name": "Grote Praambult",
                   "text": "Un punct de observare ridicat de unde pot fi văzute animale sălbatice precum cerbii și vitele Heck.",
                   "category": "natural",
@@ -242,54 +107,9 @@ export const netherlandsNatureV2: POI[] = [
                         5.395932,
                         52.427565
                   ]
-            },
-            {
-                  "name": "Kleine Praambult",
-                  "text": "Un punct de belvedere care oferă o perspectivă bună asupra pășunilor vaste din zonă.",
-                  "category": "natural",
-                  "coords": [
-                        5.409039,
-                        52.443498
-                  ]
-            },
-            {
-                  "name": "De Poelruiter",
-                  "text": "Un punct de observare ascuns pentru vizionarea păsărilor de apă în mediul lor natural.",
-                  "category": "natural",
-                  "coords": [
-                        5.41484,
-                        52.444196
-                  ]
-            },
-            {
-                  "name": "De Oeverloper",
-                  "text": "Un punct de observare la marginea apei, ideal pentru vizionarea păsărilor de țărm și a rațelor.",
-                  "category": "natural",
-                  "coords": [
-                        5.413732,
-                        52.447147
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Oostvaardersplassen",
-                  "text": "A large nature reserve in the Netherlands, famous for its wild horses and rare bird species.",
-                  "category": "natural",
-                  "coords": [
-                        5.351074,
-                        52.446569
-                  ]
-            },
-            {
-                  "name": "Oostvaardersveld",
-                  "text": "A diverse natural area with lakes and woods, ideal for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        5.416841,
-                        52.443652
-                  ]
-            },
             {
                   "name": "Kotterbos",
                   "text": "A forested area on the edge of the Oostvaardersplassen, providing habitat for many wild animals.",
@@ -300,48 +120,12 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Observatiehut De Brandgans",
-                  "text": "A birdwatching hide providing a wide view over the marshy areas of the reserve.",
-                  "category": "natural",
-                  "coords": [
-                        5.407713,
-                        52.44516
-                  ]
-            },
-            {
                   "name": "Grote Praambult",
                   "text": "An elevated viewpoint from which wild animals such as deer and Heck cattle can be observed.",
                   "category": "natural",
                   "coords": [
                         5.395932,
                         52.427565
-                  ]
-            },
-            {
-                  "name": "Kleine Praambult",
-                  "text": "A viewpoint offering a good overview of the area's vast grasslands.",
-                  "category": "natural",
-                  "coords": [
-                        5.409039,
-                        52.443498
-                  ]
-            },
-            {
-                  "name": "De Poelruiter",
-                  "text": "A hidden observation hide for watching waterfowl in their natural environment.",
-                  "category": "natural",
-                  "coords": [
-                        5.41484,
-                        52.444196
-                  ]
-            },
-            {
-                  "name": "De Oeverloper",
-                  "text": "A waterside viewpoint ideal for observing wading birds and ducks.",
-                  "category": "natural",
-                  "coords": [
-                        5.413732,
-                        52.447147
                   ]
             }
       ]
@@ -402,15 +186,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bunkermuseum Schlei",
-                  "text": "Ein in einem ehemaligen Bunker untergebrachtes Museum zur Geschichte des Zweiten Weltkriegs auf Schiermonnikoog.",
-                  "category": "museum",
-                  "coords": [
-                        6.185761,
-                        53.496895
-                  ]
-            },
-            {
                   "name": "Duinen Schiermonnikoog",
                   "text": "Ein geschütztes Dünengebiet und Naturreservat auf der Insel Schiermonnikoog.",
                   "category": "natural",
@@ -456,15 +231,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Noorderstrand",
-                  "text": "Ein weitläufiger Strandabschnitt an der Nordseeküste von Schiermonnikoog.",
-                  "category": "recreational",
-                  "coords": [
-                        6.196973,
-                        53.500545
-                  ]
-            },
-            {
                   "name": "Dier- en speelweide 'Witte Winde'",
                   "text": "Kleiner Tierpark und Spielbereich für Kinder auf der Insel Schiermonnikoog.",
                   "category": "recreational",
@@ -482,15 +248,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.152157,
                         53.478866
-                  ]
-            },
-            {
-                  "name": "Bunkermuseum Schlei",
-                  "text": "Egy egykori bunkerben kialakított múzeum Schiermonnikoog szigetén, amely a második világháború emlékeit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        6.185761,
-                        53.496895
                   ]
             },
             {
@@ -539,15 +296,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Noorderstrand",
-                  "text": "Kiterjedt strand szakasz Schiermonnikoog északi-tengeri partján.",
-                  "category": "recreational",
-                  "coords": [
-                        6.196973,
-                        53.500545
-                  ]
-            },
-            {
                   "name": "Dier- en speelweide 'Witte Winde'",
                   "text": "Kis állatpark és játszótér gyerekeknek Schiermonnikoog szigetén.",
                   "category": "recreational",
@@ -565,15 +313,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.152157,
                         53.478866
-                  ]
-            },
-            {
-                  "name": "Bunkermuseum Schlei",
-                  "text": "Un muzeu amenajat într-un fost buncăr pe insula Schiermonnikoog, dedicat celui de-al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        6.185761,
-                        53.496895
                   ]
             },
             {
@@ -622,15 +361,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Noorderstrand",
-                  "text": "O porțiune extinsă de plajă la Marea Nordului, pe insula Schiermonnikoog.",
-                  "category": "recreational",
-                  "coords": [
-                        6.196973,
-                        53.500545
-                  ]
-            },
-            {
                   "name": "Dier- en speelweide 'Witte Winde'",
                   "text": "Mic parc de animale și zonă de joacă pentru copii pe insula Schiermonnikoog.",
                   "category": "recreational",
@@ -648,15 +378,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.152157,
                         53.478866
-                  ]
-            },
-            {
-                  "name": "Bunkermuseum Schlei",
-                  "text": "A museum housed in a former bunker on Schiermonnikoog, focusing on World War II history.",
-                  "category": "museum",
-                  "coords": [
-                        6.185761,
-                        53.496895
                   ]
             },
             {
@@ -702,15 +423,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.155468,
                         53.486285
-                  ]
-            },
-            {
-                  "name": "Noorderstrand",
-                  "text": "An expansive beach section on the North Sea coast of Schiermonnikoog.",
-                  "category": "recreational",
-                  "coords": [
-                        6.196973,
-                        53.500545
                   ]
             },
             {
@@ -859,158 +571,10 @@ export const netherlandsNatureV2: POI[] = [
   },
   {
     id: "netherlands-weerribben-wieden-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Weerribben",
-                  "text": "Ein bedeutendes Naturschutzgebiet und Nationalpark in den Niederlanden, geprägt von Kanälen und Mooren.",
-                  "category": "natural",
-                  "coords": [
-                        5.95231,
-                        52.781141
-                  ]
-            },
-            {
-                  "name": "Gildenhuys Blokzijl",
-                  "text": "Ein lokales Museum in Blokzijl, das die Geschichte und das maritime Erbe der Stadt dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        5.960607,
-                        52.727197
-                  ]
-            },
-            {
-                  "name": "Vogelkijkhut",
-                  "text": "Eine Vogelbeobachtungshütte im Weerribben-Wieden, ideal zur Entdeckung der lokalen Wasservögel.",
-                  "category": "natural",
-                  "coords": [
-                        5.960877,
-                        52.75863
-                  ]
-            },
-            {
-                  "name": "Meerzoo",
-                  "text": "Meerzoo ist ein Wassererlebnispark in den Weerribben-Wieden, mit Rutschen und Spielbereichen.",
-                  "category": "recreational",
-                  "coords": [
-                        5.90756,
-                        52.718861
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Weerribben",
-                  "text": "Jelentős természetvédelmi terület és nemzeti park Hollandiában, amelyet csatornák és mocsarak jellemeznek.",
-                  "category": "natural",
-                  "coords": [
-                        5.95231,
-                        52.781141
-                  ]
-            },
-            {
-                  "name": "Gildenhuys Blokzijl",
-                  "text": "Helyi múzeum Blokzijlban, amely a város történelmét és tengerészeti örökségét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        5.960607,
-                        52.727197
-                  ]
-            },
-            {
-                  "name": "Vogelkijkhut",
-                  "text": "Madármegfigyelő kunyhó a Weerribben-Wieden területén, amely ideális a helyi vízimadarak felfedezésére.",
-                  "category": "natural",
-                  "coords": [
-                        5.960877,
-                        52.75863
-                  ]
-            },
-            {
-                  "name": "Meerzoo",
-                  "text": "A Meerzoo egy vízi élménypark a Weerribben-Wiedenben, csúszdákkal és játszóterekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        5.90756,
-                        52.718861
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Weerribben",
-                  "text": "O rezervație naturală importantă și parc național în Țările de Jos, caracterizată prin canale și mlaștini.",
-                  "category": "natural",
-                  "coords": [
-                        5.95231,
-                        52.781141
-                  ]
-            },
-            {
-                  "name": "Gildenhuys Blokzijl",
-                  "text": "Un muzeu local în Blokzijl, care documentează istoria și moștenirea maritimă a orașului.",
-                  "category": "museum",
-                  "coords": [
-                        5.960607,
-                        52.727197
-                  ]
-            },
-            {
-                  "name": "Vogelkijkhut",
-                  "text": "O colibă de observare a păsărilor în Weerribben-Wieden, ideală pentru descoperirea păsărilor acvatice locale.",
-                  "category": "natural",
-                  "coords": [
-                        5.960877,
-                        52.75863
-                  ]
-            },
-            {
-                  "name": "Meerzoo",
-                  "text": "Meerzoo este un parc acvatic în Weerribben-Wieden, cu tobogane și zone de joacă.",
-                  "category": "recreational",
-                  "coords": [
-                        5.90756,
-                        52.718861
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Weerribben",
-                  "text": "An important nature reserve and national park in the Netherlands, characterized by canals and marshes.",
-                  "category": "natural",
-                  "coords": [
-                        5.95231,
-                        52.781141
-                  ]
-            },
-            {
-                  "name": "Gildenhuys Blokzijl",
-                  "text": "A local museum in Blokzijl documenting the town's history and maritime heritage.",
-                  "category": "museum",
-                  "coords": [
-                        5.960607,
-                        52.727197
-                  ]
-            },
-            {
-                  "name": "Vogelkijkhut",
-                  "text": "A birdwatching hut in Weerribben-Wieden, ideal for spotting local water birds.",
-                  "category": "natural",
-                  "coords": [
-                        5.960877,
-                        52.75863
-                  ]
-            },
-            {
-                  "name": "Meerzoo",
-                  "text": "Meerzoo is a water fun park in Weerribben-Wieden, with slides and play areas.",
-                  "category": "recreational",
-                  "coords": [
-                        5.90756,
-                        52.718861
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "lake",
     parent: "NL",
@@ -1059,51 +623,6 @@ export const netherlandsNatureV2: POI[] = [
     id: "netherlands-dwingelderveld-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Havezathe Batinghe",
-                  "text": "Ein ehemaliges Rittergut bei Dwingeloo, das auf eine lange Geschichte als lokaler Herrensitz zurückblickt.",
-                  "category": "castle",
-                  "coords": [
-                        6.354236,
-                        52.835095
-                  ]
-            },
-            {
-                  "name": "Oldengaerde",
-                  "text": "Ein gut erhaltenes historisches Landgut in Dwingeloo, bekannt für sein herrschaftliches Erscheinungsbild.",
-                  "category": "castle",
-                  "coords": [
-                        6.346326,
-                        52.822858
-                  ]
-            },
-            {
-                  "name": "Westrup",
-                  "text": "Ein bedeutendes historisches Herrenhaus in der Ortschaft Dwingeloo in den Niederlanden.",
-                  "category": "castle",
-                  "coords": [
-                        6.366494,
-                        52.836063
-                  ]
-            },
-            {
-                  "name": "Grafheuvel",
-                  "text": "Ein prähistorischer Grabhügel im Dwingelderveld, der von der frühen Besiedlung der Region zeugt.",
-                  "category": "historical",
-                  "coords": [
-                        6.428568,
-                        52.814762
-                  ]
-            },
-            {
-                  "name": "Open Science Hub “De Melkweg”",
-                  "text": "Ein interaktives Museum in Dwingeloo, das sich der Wissenschaft und der Astronomie widmet.",
-                  "category": "museum",
-                  "coords": [
-                        6.368203,
-                        52.82239
-                  ]
-            },
-            {
                   "name": "Schaapskooi Ruinen",
                   "text": "Ein traditioneller Schafstall in Ruinen, in dem eine Herde Drenther Heideschafe beheimatet ist.",
                   "category": "landmark",
@@ -1141,51 +660,6 @@ export const netherlandsNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Havezathe Batinghe",
-                  "text": "Egykori nemesi udvarház Dwingeloo közelében, amely hosszú múltra tekint vissza helyi uradalmi székhelyként.",
-                  "category": "castle",
-                  "coords": [
-                        6.354236,
-                        52.835095
-                  ]
-            },
-            {
-                  "name": "Oldengaerde",
-                  "text": "Jó állapotban fennmaradt történelmi birtok Dwingeloo-ban, amely impozáns megjelenéséről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        6.346326,
-                        52.822858
-                  ]
-            },
-            {
-                  "name": "Westrup",
-                  "text": "Jelentős történelmi udvarház a hollandiai Dwingeloo településen.",
-                  "category": "castle",
-                  "coords": [
-                        6.366494,
-                        52.836063
-                  ]
-            },
-            {
-                  "name": "Grafheuvel",
-                  "text": "Prehisztorikus sírhalom a Dwingelderveld területén, amely a régió korai betelepüléséről tanúskodik.",
-                  "category": "historical",
-                  "coords": [
-                        6.428568,
-                        52.814762
-                  ]
-            },
-            {
-                  "name": "Open Science Hub “De Melkweg”",
-                  "text": "Interaktív múzeum Dwingeloo-ban, amely a tudománynak és a csillagászatnak szenteli tevékenységét.",
-                  "category": "museum",
-                  "coords": [
-                        6.368203,
-                        52.82239
-                  ]
-            },
             {
                   "name": "Schaapskooi Ruinen",
                   "text": "Hagyományos juhakol Ruinenben, amely egy drenthei népi juhnyájnak ad otthont.",
@@ -1225,51 +699,6 @@ export const netherlandsNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Havezathe Batinghe",
-                  "text": "Un fost conac nobiliar lângă Dwingeloo, cu o istorie îndelungată ca reședință nobiliară locală.",
-                  "category": "castle",
-                  "coords": [
-                        6.354236,
-                        52.835095
-                  ]
-            },
-            {
-                  "name": "Oldengaerde",
-                  "text": "O moșie istorică bine conservată în Dwingeloo, cunoscută pentru aspectul său nobiliar.",
-                  "category": "castle",
-                  "coords": [
-                        6.346326,
-                        52.822858
-                  ]
-            },
-            {
-                  "name": "Westrup",
-                  "text": "Un conac istoric important situat în localitatea Dwingeloo din Țările de Jos.",
-                  "category": "castle",
-                  "coords": [
-                        6.366494,
-                        52.836063
-                  ]
-            },
-            {
-                  "name": "Grafheuvel",
-                  "text": "O gorgană preistorică în Dwingelderveld, care atestă așezarea timpurie a regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        6.428568,
-                        52.814762
-                  ]
-            },
-            {
-                  "name": "Open Science Hub “De Melkweg”",
-                  "text": "Un muzeu interactiv în Dwingeloo, dedicat științei și astronomiei.",
-                  "category": "museum",
-                  "coords": [
-                        6.368203,
-                        52.82239
-                  ]
-            },
-            {
                   "name": "Schaapskooi Ruinen",
                   "text": "Un staul tradițional de oi în Ruinen, care găzduiește o turmă de oi de stepă din Drenthe.",
                   "category": "landmark",
@@ -1307,51 +736,6 @@ export const netherlandsNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Havezathe Batinghe",
-                  "text": "A former manor house near Dwingeloo with a long history as a local seigneurial seat.",
-                  "category": "castle",
-                  "coords": [
-                        6.354236,
-                        52.835095
-                  ]
-            },
-            {
-                  "name": "Oldengaerde",
-                  "text": "A well-preserved historic estate in Dwingeloo, known for its stately appearance.",
-                  "category": "castle",
-                  "coords": [
-                        6.346326,
-                        52.822858
-                  ]
-            },
-            {
-                  "name": "Westrup",
-                  "text": "A significant historic manor house located in the village of Dwingeloo in the Netherlands.",
-                  "category": "castle",
-                  "coords": [
-                        6.366494,
-                        52.836063
-                  ]
-            },
-            {
-                  "name": "Grafheuvel",
-                  "text": "A prehistoric burial mound in the Dwingelderveld, testifying to the early settlement of the region.",
-                  "category": "historical",
-                  "coords": [
-                        6.428568,
-                        52.814762
-                  ]
-            },
-            {
-                  "name": "Open Science Hub “De Melkweg”",
-                  "text": "An interactive museum in Dwingeloo dedicated to science and astronomy.",
-                  "category": "museum",
-                  "coords": [
-                        6.368203,
-                        52.82239
-                  ]
-            },
             {
                   "name": "Schaapskooi Ruinen",
                   "text": "A traditional sheepfold in Ruinen, home to a flock of Drenthe heath sheep.",
@@ -1455,15 +839,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reiddomp",
-                  "text": "Ein Aussichtspunkt im Nationalpark Lauwersmeer, ideal zur Vogelbeobachtung.",
-                  "category": "natural",
-                  "coords": [
-                        6.180135,
-                        53.333094
-                  ]
-            },
-            {
                   "name": "Gereformeerde kerk",
                   "text": "Eine reformierte Kirche, die der Gemeinde in der Region Lauwersmeer dient.",
                   "category": "religious",
@@ -1499,15 +874,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.232706,
                         53.327786
-                  ]
-            },
-            {
-                  "name": "Reiddomp",
-                  "text": "Kilátópont a Lauwersmeer Nemzeti Parkban, amely ideális madármegfigyelésre.",
-                  "category": "natural",
-                  "coords": [
-                        6.180135,
-                        53.333094
                   ]
             },
             {
@@ -1549,15 +915,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reiddomp",
-                  "text": "Un punct de observare în Parcul Național Lauwersmeer, ideal pentru observarea păsărilor.",
-                  "category": "natural",
-                  "coords": [
-                        6.180135,
-                        53.333094
-                  ]
-            },
-            {
                   "name": "Gereformeerde kerk",
                   "text": "O biserică reformată care deservește comunitatea din regiunea Lauwersmeer.",
                   "category": "religious",
@@ -1593,15 +950,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.232706,
                         53.327786
-                  ]
-            },
-            {
-                  "name": "Reiddomp",
-                  "text": "A viewpoint in the Lauwersmeer National Park, ideal for birdwatching.",
-                  "category": "natural",
-                  "coords": [
-                        6.180135,
-                        53.333094
                   ]
             },
             {
@@ -1804,158 +1152,10 @@ export const netherlandsNatureV2: POI[] = [
   },
   {
     id: "netherlands-oostvaardersbos-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Oostvaardersveld",
-                  "text": "Ein Naturschutzgebiet in den Niederlanden, das Teil des weitläufigen Oostvaardersplassen-Gebiets ist.",
-                  "category": "natural",
-                  "coords": [
-                        5.416841,
-                        52.443652
-                  ]
-            },
-            {
-                  "name": "Grote Praambult",
-                  "text": "Ein beliebter Aussichtspunkt zur Beobachtung von Wildtieren im Naturschutzgebiet Oostvaardersbos.",
-                  "category": "natural",
-                  "coords": [
-                        5.395932,
-                        52.427565
-                  ]
-            },
-            {
-                  "name": "Kleine Praambult",
-                  "text": "Ein kleiner Aussichtspunkt, der weite Ausblicke über die Naturlandschaft des Oostvaardersveld bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.409039,
-                        52.443498
-                  ]
-            },
-            {
-                  "name": "De Poelruiter",
-                  "text": "Ein hölzerner Beobachtungspunkt für Vögel in der Sumpflandschaft der Oostvaardersplassen.",
-                  "category": "natural",
-                  "coords": [
-                        5.41484,
-                        52.444196
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Oostvaardersveld",
-                  "text": "Hollandiai természetvédelmi terület, amely a kiterjedt Oostvaardersplassen régió része.",
-                  "category": "natural",
-                  "coords": [
-                        5.416841,
-                        52.443652
-                  ]
-            },
-            {
-                  "name": "Grote Praambult",
-                  "text": "Népszerű kilátópont vadmegfigyeléshez az Oostvaardersbos természetvédelmi területen.",
-                  "category": "natural",
-                  "coords": [
-                        5.395932,
-                        52.427565
-                  ]
-            },
-            {
-                  "name": "Kleine Praambult",
-                  "text": "Kisebb kilátópont, amely tágas kilátást nyújt az Oostvaardersveld természeti tájaira.",
-                  "category": "natural",
-                  "coords": [
-                        5.409039,
-                        52.443498
-                  ]
-            },
-            {
-                  "name": "De Poelruiter",
-                  "text": "Fából készült madármegfigyelő hely az Oostvaardersplassen mocsaras vidékén.",
-                  "category": "natural",
-                  "coords": [
-                        5.41484,
-                        52.444196
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Oostvaardersveld",
-                  "text": "O rezervație naturală în Țările de Jos, care face parte din vasta zonă Oostvaardersplassen.",
-                  "category": "natural",
-                  "coords": [
-                        5.416841,
-                        52.443652
-                  ]
-            },
-            {
-                  "name": "Grote Praambult",
-                  "text": "Un punct de observație popular pentru fauna sălbatică în rezervația Oostvaardersbos.",
-                  "category": "natural",
-                  "coords": [
-                        5.395932,
-                        52.427565
-                  ]
-            },
-            {
-                  "name": "Kleine Praambult",
-                  "text": "Un punct de observație mai mic ce oferă vederi panoramice asupra peisajului natural din Oostvaardersveld.",
-                  "category": "natural",
-                  "coords": [
-                        5.409039,
-                        52.443498
-                  ]
-            },
-            {
-                  "name": "De Poelruiter",
-                  "text": "Un punct de observație din lemn pentru păsări în peisajul mlăștinos din Oostvaardersplassen.",
-                  "category": "natural",
-                  "coords": [
-                        5.41484,
-                        52.444196
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Oostvaardersveld",
-                  "text": "A nature reserve in the Netherlands, part of the extensive Oostvaardersplassen area.",
-                  "category": "natural",
-                  "coords": [
-                        5.416841,
-                        52.443652
-                  ]
-            },
-            {
-                  "name": "Grote Praambult",
-                  "text": "A popular viewpoint for wildlife observation in the Oostvaardersbos nature reserve.",
-                  "category": "natural",
-                  "coords": [
-                        5.395932,
-                        52.427565
-                  ]
-            },
-            {
-                  "name": "Kleine Praambult",
-                  "text": "A smaller viewpoint offering wide views over the natural landscape of Oostvaardersveld.",
-                  "category": "natural",
-                  "coords": [
-                        5.409039,
-                        52.443498
-                  ]
-            },
-            {
-                  "name": "De Poelruiter",
-                  "text": "A wooden birdwatching point located in the marshy landscape of Oostvaardersplassen.",
-                  "category": "natural",
-                  "coords": [
-                        5.41484,
-                        52.444196
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "forest",
     parent: "NL",
@@ -3658,15 +2858,6 @@ export const netherlandsNatureV2: POI[] = [
                         5.542697,
                         52.281014
                   ]
-            },
-            {
-                  "name": "Kinderbad",
-                  "text": "Flaches Kinderplanschbecken im Salentse-Wald.",
-                  "category": "recreational",
-                  "coords": [
-                        5.4381,
-                        52.274066
-                  ]
             }
       ],
       "hu": [
@@ -3704,15 +2895,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         5.542697,
                         52.281014
-                  ]
-            },
-            {
-                  "name": "Kinderbad",
-                  "text": "Sekély gyermekmedence a Salentse-erdőben.",
-                  "category": "recreational",
-                  "coords": [
-                        5.4381,
-                        52.274066
                   ]
             }
       ],
@@ -3752,15 +2934,6 @@ export const netherlandsNatureV2: POI[] = [
                         5.542697,
                         52.281014
                   ]
-            },
-            {
-                  "name": "Kinderbad",
-                  "text": "Bazin de joacă pentru copii în pădurea Salentse.",
-                  "category": "recreational",
-                  "coords": [
-                        5.4381,
-                        52.274066
-                  ]
             }
       ],
       "en": [
@@ -3798,15 +2971,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         5.542697,
                         52.281014
-                  ]
-            },
-            {
-                  "name": "Kinderbad",
-                  "text": "Shallow children's paddling pool in the Salentse forest.",
-                  "category": "recreational",
-                  "coords": [
-                        5.4381,
-                        52.274066
                   ]
             }
       ]
@@ -4299,15 +3463,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Open Science Hub “De Melkweg”",
-                  "text": "Ein Wissenschaftszentrum, das Besuchern die Astronomie und Radioteleskopie näherbringt.",
-                  "category": "museum",
-                  "coords": [
-                        6.368203,
-                        52.82239
-                  ]
-            },
-            {
                   "name": "Vogelobservatiehut",
                   "text": "Ein Beobachtungspunkt zur Entdeckung der lokalen Vogelwelt in der Natur.",
                   "category": "natural",
@@ -4370,15 +3525,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.366494,
                         52.836063
-                  ]
-            },
-            {
-                  "name": "Open Science Hub “De Melkweg”",
-                  "text": "Tudományos központ, amely az asztronómiát és a rádióteleszkópiát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        6.368203,
-                        52.82239
                   ]
             },
             {
@@ -4447,15 +3593,6 @@ export const netherlandsNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Open Science Hub “De Melkweg”",
-                  "text": "Un centru științific care apropie vizitatorii de astronomie și radiotelescopie.",
-                  "category": "museum",
-                  "coords": [
-                        6.368203,
-                        52.82239
-                  ]
-            },
-            {
                   "name": "Vogelobservatiehut",
                   "text": "Un punct de observare pentru descoperirea păsărilor locale în natură.",
                   "category": "natural",
@@ -4518,15 +3655,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         6.366494,
                         52.836063
-                  ]
-            },
-            {
-                  "name": "Open Science Hub “De Melkweg”",
-                  "text": "A science center that brings astronomy and radio telescopy closer to visitors.",
-                  "category": "museum",
-                  "coords": [
-                        6.368203,
-                        52.82239
                   ]
             },
             {
@@ -4621,24 +3749,6 @@ export const netherlandsNatureV2: POI[] = [
                         5.893035,
                         52.787438
                   ]
-            },
-            {
-                  "name": "Vogelkijkhut",
-                  "text": "Eine Vogelbeobachtungshütte im Weerribben-Gebiet, ideal für Naturbeobachter.",
-                  "category": "natural",
-                  "coords": [
-                        5.960877,
-                        52.75863
-                  ]
-            },
-            {
-                  "name": "Meerzoo",
-                  "text": "Meerzoo in Oostwaard ist ein kleinerer Tierpark, der Besuchern Einblicke in die regionale und exotische Tierwelt bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        5.90756,
-                        52.718861
-                  ]
             }
       ],
       "hu": [
@@ -4658,24 +3768,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         5.893035,
                         52.787438
-                  ]
-            },
-            {
-                  "name": "Vogelkijkhut",
-                  "text": "Madármegfigyelő kunyhó a Weerribben területén, ideális a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        5.960877,
-                        52.75863
-                  ]
-            },
-            {
-                  "name": "Meerzoo",
-                  "text": "Az oostwaardi Meerzoo egy kisebb állatkert, amely betekintést nyújt a látogatóknak a regionális és egzotikus állatvilágba.",
-                  "category": "recreational",
-                  "coords": [
-                        5.90756,
-                        52.718861
                   ]
             }
       ],
@@ -4697,24 +3789,6 @@ export const netherlandsNatureV2: POI[] = [
                         5.893035,
                         52.787438
                   ]
-            },
-            {
-                  "name": "Vogelkijkhut",
-                  "text": "O colibă pentru observarea păsărilor în zona Weerribben, ideală pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.960877,
-                        52.75863
-                  ]
-            },
-            {
-                  "name": "Meerzoo",
-                  "text": "Meerzoo din Oostwaard este un mic parc zoologic care oferă vizitatorilor perspective asupra faunei regionale și exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        5.90756,
-                        52.718861
-                  ]
             }
       ],
       "en": [
@@ -4734,24 +3808,6 @@ export const netherlandsNatureV2: POI[] = [
                   "coords": [
                         5.893035,
                         52.787438
-                  ]
-            },
-            {
-                  "name": "Vogelkijkhut",
-                  "text": "A bird hide in the Weerribben area, ideal for birdwatching and nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        5.960877,
-                        52.75863
-                  ]
-            },
-            {
-                  "name": "Meerzoo",
-                  "text": "Meerzoo in Oostwaard is a smaller zoo providing visitors with insights into regional and exotic wildlife.",
-                  "category": "recreational",
-                  "coords": [
-                        5.90756,
-                        52.718861
                   ]
             }
       ]

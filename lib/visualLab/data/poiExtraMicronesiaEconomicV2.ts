@@ -231,30 +231,12 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-kolonia-commerce-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Nipik En Lidakihka",
-                  "text": "Ein Erholungsgebiet namens Nipik En Lidakihka in Kolonia Commerce.",
-                  "category": "recreational",
-                  "coords": [
-                        158.201389,
-                        6.970556
-                  ]
-            },
-            {
                   "name": "Pohnpei Lidorkini Museum",
                   "text": "Das Pohnpei Lidorkini Museum bietet Einblicke in die lokale Geschichte in Kolonia.",
                   "category": "museum",
                   "coords": [
                         158.209722,
                         6.964722
-                  ]
-            },
-            {
-                  "name": "Eel Pool",
-                  "text": "Ein familienfreundliches natürliches Becken mit Aalen in Kolonia Commerce.",
-                  "category": "family",
-                  "coords": [
-                        158.185119,
-                        6.976658
                   ]
             },
             {
@@ -267,15 +249,6 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dolen Metipw",
-                  "text": "Ein Berg auf Pohnpei in der Nähe von Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.202222,
-                        6.953056
-                  ]
-            },
-            {
                   "name": "Pohn Dollen Net",
                   "text": "Ein Berg auf Pohnpei in der Nähe von Kolonia Commerce.",
                   "category": "natural",
@@ -285,66 +258,12 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohndolap",
-                  "text": "Sokehs Mountain, ein markanter Gipfel auf Pohnpei in der Nähe von Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.189673,
-                        6.969504
-                  ]
-            },
-            {
-                  "name": "Dolen Nier",
-                  "text": "Ein Berg auf Pohnpei in der Nähe von Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.196389,
-                        6.951667
-                  ]
-            },
-            {
                   "name": "German Bell Tower",
                   "text": "German Tower in Kolonia, steinerner Glockenturm aus deutscher Kolonialzeit, Kulturdenkmal.",
                   "category": "landmark",
                   "coords": [
                         158.211438,
                         6.968409
-                  ]
-            },
-            {
-                  "name": "Stone Look-Out",
-                  "text": "Der Stone Look-Out bietet einen schönen Aussichtspunkt in Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.190532,
-                        6.963979
-                  ]
-            },
-            {
-                  "name": "Rifle Pit",
-                  "text": "Die Schützengrabenruinen zeugen von der Geschichte in Kolonia.",
-                  "category": "historical",
-                  "coords": [
-                        158.18969,
-                        6.96649
-                  ]
-            },
-            {
-                  "name": "Kepindau Waterfall",
-                  "text": "Die Kepindau-Wasserfälle in Kolonia Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        158.185717,
-                        6.974778
-                  ]
-            },
-            {
-                  "name": "Cliff Face",
-                  "text": "Eine markante Klippenwand in Kolonia Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        158.190088,
-                        6.978359
                   ]
             },
             {
@@ -359,30 +278,12 @@ export const micronesiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka nevű rekreációs terület Kolonia Commerce-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        158.201389,
-                        6.970556
-                  ]
-            },
-            {
                   "name": "Pohnpei Lidorkini Museum",
                   "text": "A Pohnpei Lidorkini Múzeum a helyi történelmet mutatja be Koloniában.",
                   "category": "museum",
                   "coords": [
                         158.209722,
                         6.964722
-                  ]
-            },
-            {
-                  "name": "Eel Pool",
-                  "text": "Családbarát természetes medence angolnákkal Kolonia Commerce-ban.",
-                  "category": "family",
-                  "coords": [
-                        158.185119,
-                        6.976658
                   ]
             },
             {
@@ -395,15 +296,6 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dolen Metipw",
-                  "text": "Egy hegy Pohnpein, Kolonia Commerce közelében.",
-                  "category": "natural",
-                  "coords": [
-                        158.202222,
-                        6.953056
-                  ]
-            },
-            {
                   "name": "Pohn Dollen Net",
                   "text": "Egy hegy Pohnpein, Kolonia Commerce közelében.",
                   "category": "natural",
@@ -413,66 +305,12 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohndolap",
-                  "text": "Sokehs Mountain, egy kiemelkedő csúcs Pohnpein, Kolonia Commerce közelében.",
-                  "category": "natural",
-                  "coords": [
-                        158.189673,
-                        6.969504
-                  ]
-            },
-            {
-                  "name": "Dolen Nier",
-                  "text": "Egy hegy Pohnpein, Kolonia Commerce közelében.",
-                  "category": "natural",
-                  "coords": [
-                        158.196389,
-                        6.951667
-                  ]
-            },
-            {
                   "name": "German Bell Tower",
                   "text": "German Tower Koloniában, kő harangtorony a német gyarmati korból, műemlék.",
                   "category": "landmark",
                   "coords": [
                         158.211438,
                         6.968409
-                  ]
-            },
-            {
-                  "name": "Stone Look-Out",
-                  "text": "A Stone Look-Out egy szép kilátópont Koloniában.",
-                  "category": "natural",
-                  "coords": [
-                        158.190532,
-                        6.963979
-                  ]
-            },
-            {
-                  "name": "Rifle Pit",
-                  "text": "A lövészárok-romok Kolonia történelmének emlékei.",
-                  "category": "historical",
-                  "coords": [
-                        158.18969,
-                        6.96649
-                  ]
-            },
-            {
-                  "name": "Kepindau Waterfall",
-                  "text": "Kepindau-vízesés Kolonia Commerce-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        158.185717,
-                        6.974778
-                  ]
-            },
-            {
-                  "name": "Cliff Face",
-                  "text": "Egy feltűnő sziklafal Kolonia Commerce-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        158.190088,
-                        6.978359
                   ]
             },
             {
@@ -487,30 +325,12 @@ export const micronesiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Nipik En Lidakihka",
-                  "text": "O zonă de agrement numită Nipik En Lidakihka în Kolonia Commerce.",
-                  "category": "recreational",
-                  "coords": [
-                        158.201389,
-                        6.970556
-                  ]
-            },
-            {
                   "name": "Pohnpei Lidorkini Museum",
                   "text": "Muzeul Pohnpei Lidorkini oferă perspective asupra istoriei locale din Kolonia.",
                   "category": "museum",
                   "coords": [
                         158.209722,
                         6.964722
-                  ]
-            },
-            {
-                  "name": "Eel Pool",
-                  "text": "Un bazin natural prietenos cu familiile, populat de anghile în Kolonia Commerce.",
-                  "category": "family",
-                  "coords": [
-                        158.185119,
-                        6.976658
                   ]
             },
             {
@@ -523,15 +343,6 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dolen Metipw",
-                  "text": "Un munte pe Pohnpei, lângă Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.202222,
-                        6.953056
-                  ]
-            },
-            {
                   "name": "Pohn Dollen Net",
                   "text": "Un munte pe Pohnpei, lângă Kolonia Commerce.",
                   "category": "natural",
@@ -541,66 +352,12 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohndolap",
-                  "text": "Sokehs Mountain, un vârf proeminent pe Pohnpei, lângă Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.189673,
-                        6.969504
-                  ]
-            },
-            {
-                  "name": "Dolen Nier",
-                  "text": "Un munte pe Pohnpei, lângă Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.196389,
-                        6.951667
-                  ]
-            },
-            {
                   "name": "German Bell Tower",
                   "text": "German Tower în Kolonia, turn clopotniță de piatră din perioada colonială germană, monument istoric.",
                   "category": "landmark",
                   "coords": [
                         158.211438,
                         6.968409
-                  ]
-            },
-            {
-                  "name": "Stone Look-Out",
-                  "text": "Stone Look-Out oferă un punct de observație frumos în Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.190532,
-                        6.963979
-                  ]
-            },
-            {
-                  "name": "Rifle Pit",
-                  "text": "Ruinele tranșeelor sunt mărturii ale istoriei în Kolonia.",
-                  "category": "historical",
-                  "coords": [
-                        158.18969,
-                        6.96649
-                  ]
-            },
-            {
-                  "name": "Kepindau Waterfall",
-                  "text": "Cascada Kepindau în Kolonia Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        158.185717,
-                        6.974778
-                  ]
-            },
-            {
-                  "name": "Cliff Face",
-                  "text": "O față de stâncă proeminentă în Kolonia Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        158.190088,
-                        6.978359
                   ]
             },
             {
@@ -615,30 +372,12 @@ export const micronesiaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Nipik En Lidakihka",
-                  "text": "A recreational area named Nipik En Lidakihka in Kolonia Commerce.",
-                  "category": "recreational",
-                  "coords": [
-                        158.201389,
-                        6.970556
-                  ]
-            },
-            {
                   "name": "Pohnpei Lidorkini Museum",
                   "text": "The Pohnpei Lidorkini Museum offers insights into local history in Kolonia.",
                   "category": "museum",
                   "coords": [
                         158.209722,
                         6.964722
-                  ]
-            },
-            {
-                  "name": "Eel Pool",
-                  "text": "A family-friendly natural pool inhabited by eels in Kolonia Commerce.",
-                  "category": "family",
-                  "coords": [
-                        158.185119,
-                        6.976658
                   ]
             },
             {
@@ -651,15 +390,6 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dolen Metipw",
-                  "text": "A mountain on Pohnpei near Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.202222,
-                        6.953056
-                  ]
-            },
-            {
                   "name": "Pohn Dollen Net",
                   "text": "A mountain on Pohnpei near Kolonia Commerce.",
                   "category": "natural",
@@ -669,66 +399,12 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sokehs Mountain",
-                  "text": "Sokehs Mountain, a prominent peak on Pohnpei near Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.189673,
-                        6.969504
-                  ]
-            },
-            {
-                  "name": "Dolen Nier",
-                  "text": "A mountain on Pohnpei near Kolonia Commerce.",
-                  "category": "natural",
-                  "coords": [
-                        158.196389,
-                        6.951667
-                  ]
-            },
-            {
                   "name": "German Tower",
                   "text": "German Tower in Kolonia, a stone bell tower from the German colonial period, heritage site.",
                   "category": "landmark",
                   "coords": [
                         158.211438,
                         6.968409
-                  ]
-            },
-            {
-                  "name": "Stone Look-Out",
-                  "text": "The Stone Look-Out offers a beautiful viewpoint in Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.190532,
-                        6.963979
-                  ]
-            },
-            {
-                  "name": "Rifle Pit",
-                  "text": "The rifle pit ruins are remnants of history in Kolonia.",
-                  "category": "historical",
-                  "coords": [
-                        158.18969,
-                        6.96649
-                  ]
-            },
-            {
-                  "name": "Kepindau Falls",
-                  "text": "Kepindau Falls in Kolonia Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        158.185717,
-                        6.974778
-                  ]
-            },
-            {
-                  "name": "Cliff Face",
-                  "text": "A prominent cliff face in Kolonia Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        158.190088,
-                        6.978359
                   ]
             },
             {
@@ -879,48 +555,12 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-weno-commerce-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Afarafar",
-                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.848611,
-                        7.459167
-                  ]
-            },
-            {
-                  "name": "Nauno",
-                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.8675,
-                        7.454167
-                  ]
-            },
-            {
-                  "name": "Nenino",
-                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.862778,
-                        7.453056
-                  ]
-            },
-            {
                   "name": "Teroken",
                   "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.852104,
                         7.438677
-                  ]
-            },
-            {
-                  "name": "Tonnachau",
-                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.849581,
-                        7.456903
                   ]
             },
             {
@@ -931,54 +571,9 @@ export const micronesiaEconomicV2: POI[] = [
                         151.841968,
                         7.449697
                   ]
-            },
-            {
-                  "name": "Wichen Falls",
-                  "text": "Wichen Falls in Weno Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        151.8688,
-                        7.452723
-                  ]
-            },
-            {
-                  "name": "Immaculate Heart of Mary Cathedral",
-                  "text": "Die Immaculate Heart of Mary Cathedral ist eine bedeutende katholische Kirche und Sitz der Diözese der Karolinen in Weno Geschäftszentrum.",
-                  "category": "religious",
-                  "coords": [
-                        151.864131,
-                        7.457255
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Afarafar",
-                  "text": "Egy domb Weno szigetén, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.848611,
-                        7.459167
-                  ]
-            },
-            {
-                  "name": "Nauno",
-                  "text": "Egy domb Weno szigetén, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.8675,
-                        7.454167
-                  ]
-            },
-            {
-                  "name": "Nenino",
-                  "text": "Egy domb Weno szigetén, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.862778,
-                        7.453056
-                  ]
-            },
             {
                   "name": "Teroken",
                   "text": "Egy domb Weno szigetén, Chuuk.",
@@ -986,15 +581,6 @@ export const micronesiaEconomicV2: POI[] = [
                   "coords": [
                         151.852104,
                         7.438677
-                  ]
-            },
-            {
-                  "name": "Tonnachau",
-                  "text": "Egy domb Weno szigetén, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.849581,
-                        7.456903
                   ]
             },
             {
@@ -1005,54 +591,9 @@ export const micronesiaEconomicV2: POI[] = [
                         151.841968,
                         7.449697
                   ]
-            },
-            {
-                  "name": "Wichen Falls",
-                  "text": "Wichen-vízesés Weno Commerce-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        151.8688,
-                        7.452723
-                  ]
-            },
-            {
-                  "name": "Immaculate Heart of Mary Cathedral",
-                  "text": "Az Immaculate Heart of Mary Cathedral egy jelentős katolikus templom és a Karolina-szigeteki egyházmegye székhelye Weno Geschäftszentrum városában.",
-                  "category": "religious",
-                  "coords": [
-                        151.864131,
-                        7.457255
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Afarafar",
-                  "text": "Un deal pe insula Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.848611,
-                        7.459167
-                  ]
-            },
-            {
-                  "name": "Nauno",
-                  "text": "Un deal pe insula Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.8675,
-                        7.454167
-                  ]
-            },
-            {
-                  "name": "Nenino",
-                  "text": "Un deal pe insula Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.862778,
-                        7.453056
-                  ]
-            },
             {
                   "name": "Teroken",
                   "text": "Un deal pe insula Weno, Chuuk.",
@@ -1060,15 +601,6 @@ export const micronesiaEconomicV2: POI[] = [
                   "coords": [
                         151.852104,
                         7.438677
-                  ]
-            },
-            {
-                  "name": "Tonnachau",
-                  "text": "Un deal pe insula Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.849581,
-                        7.456903
                   ]
             },
             {
@@ -1079,54 +611,9 @@ export const micronesiaEconomicV2: POI[] = [
                         151.841968,
                         7.449697
                   ]
-            },
-            {
-                  "name": "Wichen Falls",
-                  "text": "Cascada Wichen în Weno Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        151.8688,
-                        7.452723
-                  ]
-            },
-            {
-                  "name": "Immaculate Heart of Mary Cathedral",
-                  "text": "Catedrala Inimii Imaculate a Mariei este o biserică catolică proeminentă ce servește drept scaun episcopal al Diecezei de Insulele Caroline în Weno Geschäftszentrum.",
-                  "category": "religious",
-                  "coords": [
-                        151.864131,
-                        7.457255
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Afarafar",
-                  "text": "A hill on Weno Island, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.848611,
-                        7.459167
-                  ]
-            },
-            {
-                  "name": "Nauno",
-                  "text": "A hill on Weno Island, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.8675,
-                        7.454167
-                  ]
-            },
-            {
-                  "name": "Nenino",
-                  "text": "A hill on Weno Island, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.862778,
-                        7.453056
-                  ]
-            },
             {
                   "name": "Teroken",
                   "text": "A hill on Weno Island, Chuuk.",
@@ -1137,39 +624,12 @@ export const micronesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tonnachau",
-                  "text": "A hill on Weno Island, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.849581,
-                        7.456903
-                  ]
-            },
-            {
                   "name": "Japanese War Memorial",
                   "text": "Japanese war memorial in Weno Commerce, erected in February 1980.",
                   "category": "landmark",
                   "coords": [
                         151.841968,
                         7.449697
-                  ]
-            },
-            {
-                  "name": "Wichen Falls",
-                  "text": "Wichen Falls in Weno Commerce.",
-                  "category": "landmark",
-                  "coords": [
-                        151.8688,
-                        7.452723
-                  ]
-            },
-            {
-                  "name": "Immaculate Heart of Mary Cathedral",
-                  "text": "Immaculate Heart of Mary Cathedral is a prominent Catholic church serving as the seat of the Diocese of Caroline Islands in Weno Geschäftszentrum.",
-                  "category": "religious",
-                  "coords": [
-                        151.864131,
-                        7.457255
                   ]
             }
       ]
@@ -1221,15 +681,6 @@ export const micronesiaEconomicV2: POI[] = [
     id: "micronesia-tofol-center-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Lelu Ruins Historic Park",
-                  "text": "Die Lelu Ruinen sind eine bedeutende archäologische Stätte auf Kosrae.",
-                  "category": "historical",
-                  "coords": [
-                        163.025,
-                        5.331667
-                  ]
-            },
-            {
                   "name": "Kosrae Museum",
                   "text": "Das Kosrae-Museum in Tofol Center.",
                   "category": "museum",
@@ -1249,15 +700,6 @@ export const micronesiaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Lelu Ruins Historic Park",
-                  "text": "A Lelu-romok jelentős régészeti lelőhely Kosrae szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        163.025,
-                        5.331667
-                  ]
-            },
             {
                   "name": "Kosrae Museum",
                   "text": "A Kosrae Múzeum Tofol Centerben.",
@@ -1279,15 +721,6 @@ export const micronesiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lelu Ruins Historic Park",
-                  "text": "Ruinele Lelu sunt un sit arheologic important pe Kosrae.",
-                  "category": "historical",
-                  "coords": [
-                        163.025,
-                        5.331667
-                  ]
-            },
-            {
                   "name": "Kosrae Museum",
                   "text": "Muzeul Kosrae din Tofol Center.",
                   "category": "museum",
@@ -1307,15 +740,6 @@ export const micronesiaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lelu Ruins Historic Park",
-                  "text": "The Lelu ruins are a significant archaeological site on Kosrae.",
-                  "category": "historical",
-                  "coords": [
-                        163.025,
-                        5.331667
-                  ]
-            },
             {
                   "name": "Kosrae Museum",
                   "text": "The Kosrae Museum in Tofol Center.",

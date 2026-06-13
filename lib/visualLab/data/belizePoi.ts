@@ -533,15 +533,6 @@ export const belizeCities: POI[] = [
                   ]
             },
             {
-                  "name": "Belize Natural History Archive",
-                  "text": "Das Belize Natural History Archive ist ein lokales Museum in San Ignacio.",
-                  "category": "museum",
-                  "coords": [
-                        -89.060392,
-                        17.170105
-                  ]
-            },
-            {
                   "name": "Cahal Pech Visitor Center",
                   "text": "Das Cahal Pech Visitor Center dient als Museum in San Ignacio.",
                   "category": "museum",
@@ -576,24 +567,6 @@ export const belizeCities: POI[] = [
                         -89.071334,
                         17.154756
                   ]
-            },
-            {
-                  "name": "El Cayó Boardwalk",
-                  "text": "Der El Cayó Boardwalk ist eine lokale Touristenattraktion in San Ignacio.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.068157,
-                        17.159735
-                  ]
-            },
-            {
-                  "name": "St. Andrew's Church",
-                  "text": "Die St. Andrew's Church ist ein bedeutendes anglikanisches Gotteshaus in San Ignacio.",
-                  "category": "religious",
-                  "coords": [
-                        -89.07023,
-                        17.159377
-                  ]
             }
       ],
       "hu": [
@@ -604,15 +577,6 @@ export const belizeCities: POI[] = [
                   "coords": [
                         -89.073858,
                         17.145446
-                  ]
-            },
-            {
-                  "name": "Belize Natural History Archive",
-                  "text": "A Belize-i Természettörténeti Archívum egy helyi múzeum San Ignacióban.",
-                  "category": "museum",
-                  "coords": [
-                        -89.060392,
-                        17.170105
                   ]
             },
             {
@@ -650,24 +614,6 @@ export const belizeCities: POI[] = [
                         -89.071334,
                         17.154756
                   ]
-            },
-            {
-                  "name": "El Cayó Boardwalk",
-                  "text": "Az El Cayó Boardwalk egy helyi turisztikai látványosság San Ignacióban.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.068157,
-                        17.159735
-                  ]
-            },
-            {
-                  "name": "St. Andrew's Church",
-                  "text": "A St. Andrew's Church egy nevezetes anglikán istentiszteleti hely San Ignacióban.",
-                  "category": "religious",
-                  "coords": [
-                        -89.07023,
-                        17.159377
-                  ]
             }
       ],
       "ro": [
@@ -678,15 +624,6 @@ export const belizeCities: POI[] = [
                   "coords": [
                         -89.073858,
                         17.145446
-                  ]
-            },
-            {
-                  "name": "Belize Natural History Archive",
-                  "text": "Arhiva de Istorie Naturală din Belize este un muzeu local situat în San Ignacio.",
-                  "category": "museum",
-                  "coords": [
-                        -89.060392,
-                        17.170105
                   ]
             },
             {
@@ -724,24 +661,6 @@ export const belizeCities: POI[] = [
                         -89.071334,
                         17.154756
                   ]
-            },
-            {
-                  "name": "El Cayó Boardwalk",
-                  "text": "El Cayó Boardwalk este o atracție turistică locală în San Ignacio.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.068157,
-                        17.159735
-                  ]
-            },
-            {
-                  "name": "St. Andrew's Church",
-                  "text": "Biserica Sf. Andrei este un lăcaș de cult anglican notabil din San Ignacio.",
-                  "category": "religious",
-                  "coords": [
-                        -89.07023,
-                        17.159377
-                  ]
             }
       ],
       "en": [
@@ -752,15 +671,6 @@ export const belizeCities: POI[] = [
                   "coords": [
                         -89.073858,
                         17.145446
-                  ]
-            },
-            {
-                  "name": "Belize Natural History Archive",
-                  "text": "The Belize Natural History Archive is a local museum located in San Ignacio.",
-                  "category": "museum",
-                  "coords": [
-                        -89.060392,
-                        17.170105
                   ]
             },
             {
@@ -797,24 +707,6 @@ export const belizeCities: POI[] = [
                   "coords": [
                         -89.071334,
                         17.154756
-                  ]
-            },
-            {
-                  "name": "El Cayó Boardwalk",
-                  "text": "El Cayó Boardwalk is a local tourist attraction in San Ignacio.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.068157,
-                        17.159735
-                  ]
-            },
-            {
-                  "name": "St. Andrew's Church",
-                  "text": "St. Andrew's Church is a notable Anglican place of worship in San Ignacio.",
-                  "category": "religious",
-                  "coords": [
-                        -89.07023,
-                        17.159377
                   ]
             }
       ]

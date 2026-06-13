@@ -345,69 +345,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "jurong-east-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Bukit Batok Nature Park",
-                  "text": "Bukit Batok Nature Park ist ein Naturreservat in Jurong East, das in einem ehemaligen Steinbruch angelegt wurde.",
-                  "category": "natural",
-                  "coords": [
-                        103.765475,
-                        1.350012
-                  ]
-            },
-            {
-                  "name": "Our Museum @ Taman Jurong",
-                  "text": "Gemeinschaftsmuseum in Taman Jurong, das lokales Erbe und Alltagsgeschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        103.72203,
-                        1.335112
-                  ]
-            },
-            {
-                  "name": "Future site of Science Centre Singapore",
-                  "text": "Geplanter Standort des neuen Science Centre Singapore, eines großen interaktiven Wissenschaftsmuseums.",
-                  "category": "museum",
-                  "coords": [
-                        103.730827,
-                        1.342143
-                  ]
-            },
-            {
-                  "name": "Bukit Batok Town Park",
-                  "text": "Bukit Batok Town Park ist ein Park in Jurong East, der auch als Little Guilin bekannt ist.",
-                  "category": "park",
-                  "coords": [
-                        103.755364,
-                        1.359789
-                  ]
-            },
-            {
-                  "name": "Bonsai Garden",
-                  "text": "Garten mit einer Sammlung von Miniatur-Bonsai-Bäumen im Osten Singapurs.",
-                  "category": "landmark",
-                  "coords": [
-                        103.73006,
-                        1.338296
-                  ]
-            },
-            {
-                  "name": "Twin Pagoda",
-                  "text": "Ein Paar historischer Pagoden in East.",
-                  "category": "historical",
-                  "coords": [
-                        103.728288,
-                        1.339714
-                  ]
-            },
-            {
-                  "name": "Confucius statue",
-                  "text": "Bronzestatue des Konfuzius in einem Park im Osten Singapurs.",
-                  "category": "historical",
-                  "coords": [
-                        103.72893,
-                        1.338307
-                  ]
-            },
-            {
                   "name": "Paddle Lodge Pandan Reservoir",
                   "text": "Wassersportzentrum am Pandan-Stausee mit Kanu- und Kajakverleih.",
                   "category": "landmark",
@@ -426,42 +363,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Local market",
-                  "text": "Traditioneller Nassmarkt im Osten Singapurs mit frischen Produkten und lokalen Waren.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "Clusia Cove",
-                  "text": "Sandige Bucht und Lagune im East Coast Park, beliebt für Wassersport.",
-                  "category": "landmark",
-                  "coords": [
-                        103.724881,
-                        1.340297
-                  ]
-            },
-            {
-                  "name": "Therapeutic Garden (Adult's Section)",
-                  "text": "Therapeutischer Garten für Erwachsene mit Sinnespflanzen und ruhigen Sitzbereichen.",
-                  "category": "landmark",
-                  "coords": [
-                        103.727803,
-                        1.335207
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "Katholische Kirche St. Mary of the Angels mit moderner Architektur im Osten Singapurs.",
-                  "category": "religious",
-                  "coords": [
-                        103.759422,
-                        1.347229
-                  ]
-            },
-            {
                   "name": "Masjid Al-Mukminin",
                   "text": "Eine Moschee für die muslimische Gemeinschaft in East.",
                   "category": "religious",
@@ -472,69 +373,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Bukit Batok Nature Park",
-                  "text": "A Bukit Batok Nature Park egy egykori kőbánya helyén kialakított természetvédelmi terület Jurong Eastben.",
-                  "category": "natural",
-                  "coords": [
-                        103.765475,
-                        1.350012
-                  ]
-            },
-            {
-                  "name": "Our Museum @ Taman Jurong",
-                  "text": "Közösségi múzeum Taman Jurongban, amely a helyi örökséget és mindennapi történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.72203,
-                        1.335112
-                  ]
-            },
-            {
-                  "name": "Future site of Science Centre Singapore",
-                  "text": "A new Science Centre Singapore tervezett helyszíne, egy nagy interaktív tudományos múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        103.730827,
-                        1.342143
-                  ]
-            },
-            {
-                  "name": "Bukit Batok Town Park",
-                  "text": "A Bukit Batok Town Park egy park Jurong Eastben, amely Little Guilin néven is ismert.",
-                  "category": "park",
-                  "coords": [
-                        103.755364,
-                        1.359789
-                  ]
-            },
-            {
-                  "name": "Bonsai Garden",
-                  "text": "Kert miniatűr bonsai fák gyűjteményével Szingapúr keleti részén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.73006,
-                        1.338296
-                  ]
-            },
-            {
-                  "name": "Twin Pagoda",
-                  "text": "Egy pár történelmi pagoda Eastben.",
-                  "category": "historical",
-                  "coords": [
-                        103.728288,
-                        1.339714
-                  ]
-            },
-            {
-                  "name": "Confucius statue",
-                  "text": "Konfuciusz bronzszobra egy parkban Szingapúr keleti részén.",
-                  "category": "historical",
-                  "coords": [
-                        103.72893,
-                        1.338307
-                  ]
-            },
             {
                   "name": "Paddle Lodge Pandan Reservoir",
                   "text": "Vízi sportközpont a Pandan-tározónál, kenuk és kajakok kölcsönzésével.",
@@ -554,42 +392,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Local market",
-                  "text": "Hagyományos nedves piac Szingapúr keleti részén, friss termékekkel és helyi árukkal.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "Clusia Cove",
-                  "text": "Homokos öböl és lagúna az East Coast Parkban, népszerű vízi sportokhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        103.724881,
-                        1.340297
-                  ]
-            },
-            {
-                  "name": "Therapeutic Garden (Adult's Section)",
-                  "text": "Terápiás kert felnőtteknek érzékszervi növényekkel és csendes pihenőhelyekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        103.727803,
-                        1.335207
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "Szent Mária angyalok temploma, egy modern katolikus templom Szingapúr keleti részén.",
-                  "category": "religious",
-                  "coords": [
-                        103.759422,
-                        1.347229
-                  ]
-            },
-            {
                   "name": "Masjid Al-Mukminin",
                   "text": "Egy mecset a muszlim közösség számára Eastben.",
                   "category": "religious",
@@ -600,69 +402,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Bukit Batok Nature Park",
-                  "text": "Bukit Batok Nature Park este o rezervație naturală din Jurong East, amenajată într-o fostă carieră de piatră.",
-                  "category": "natural",
-                  "coords": [
-                        103.765475,
-                        1.350012
-                  ]
-            },
-            {
-                  "name": "Our Museum @ Taman Jurong",
-                  "text": "Muzeu comunitar în Taman Jurong, care prezintă patrimoniul local și istoria cotidiană.",
-                  "category": "museum",
-                  "coords": [
-                        103.72203,
-                        1.335112
-                  ]
-            },
-            {
-                  "name": "Future site of Science Centre Singapore",
-                  "text": "Locația planificată pentru noul Science Centre Singapore, un muzeu științific interactiv de mari dimensiuni.",
-                  "category": "museum",
-                  "coords": [
-                        103.730827,
-                        1.342143
-                  ]
-            },
-            {
-                  "name": "Bukit Batok Town Park",
-                  "text": "Bukit Batok Town Park este un parc din Jurong East, recunoscut și sub numele de Little Guilin.",
-                  "category": "park",
-                  "coords": [
-                        103.755364,
-                        1.359789
-                  ]
-            },
-            {
-                  "name": "Bonsai Garden",
-                  "text": "Grădină cu o colecție de arbori bonsai în miniatură în estul Singaporelui.",
-                  "category": "landmark",
-                  "coords": [
-                        103.73006,
-                        1.338296
-                  ]
-            },
-            {
-                  "name": "Twin Pagoda",
-                  "text": "O pereche de pagode istorice în East.",
-                  "category": "historical",
-                  "coords": [
-                        103.728288,
-                        1.339714
-                  ]
-            },
-            {
-                  "name": "Confucius statue",
-                  "text": "Statuie de bronz a lui Confucius într-un parc din estul Singaporelui.",
-                  "category": "historical",
-                  "coords": [
-                        103.72893,
-                        1.338307
-                  ]
-            },
             {
                   "name": "Paddle Lodge Pandan Reservoir",
                   "text": "Centru de sporturi nautice pe lacul de acumulare Pandan, cu închiriere de canoe și caiac.",
@@ -682,42 +421,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Local market",
-                  "text": "Piață umedă tradițională în estul Singaporelui, cu produse proaspete și mărfuri locale.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "Clusia Cove",
-                  "text": "Golf nisipos și lagună în East Coast Park, popular pentru sporturi nautice.",
-                  "category": "landmark",
-                  "coords": [
-                        103.724881,
-                        1.340297
-                  ]
-            },
-            {
-                  "name": "Therapeutic Garden (Adult's Section)",
-                  "text": "Grădină terapeutică pentru adulți, cu plante senzoriale și zone liniștite de odihnă.",
-                  "category": "landmark",
-                  "coords": [
-                        103.727803,
-                        1.335207
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "Biserica Catolică Sf. Maria a Îngerilor, cu arhitectură modernă, în estul orașului Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.759422,
-                        1.347229
-                  ]
-            },
-            {
                   "name": "Masjid Al-Mukminin",
                   "text": "O moschee pentru comunitatea musulmană din East.",
                   "category": "religious",
@@ -728,69 +431,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Bukit Batok Nature Park",
-                  "text": "Bukit Batok Nature Park is a nature reserve in Jurong East built on an abandoned quarry.",
-                  "category": "natural",
-                  "coords": [
-                        103.765475,
-                        1.350012
-                  ]
-            },
-            {
-                  "name": "Our Museum @ Taman Jurong",
-                  "text": "Community museum in Taman Jurong showcasing local heritage and everyday history.",
-                  "category": "museum",
-                  "coords": [
-                        103.72203,
-                        1.335112
-                  ]
-            },
-            {
-                  "name": "Future site of Science Centre Singapore",
-                  "text": "Planned location for the new Science Centre Singapore, a large interactive science museum.",
-                  "category": "museum",
-                  "coords": [
-                        103.730827,
-                        1.342143
-                  ]
-            },
-            {
-                  "name": "Bukit Batok Town Park",
-                  "text": "Bukit Batok Town Park is a park in Jurong East widely known as Little Guilin.",
-                  "category": "park",
-                  "coords": [
-                        103.755364,
-                        1.359789
-                  ]
-            },
-            {
-                  "name": "Bonsai Garden",
-                  "text": "Garden featuring a collection of miniature bonsai trees in the East.",
-                  "category": "landmark",
-                  "coords": [
-                        103.73006,
-                        1.338296
-                  ]
-            },
-            {
-                  "name": "Twin Pagoda",
-                  "text": "A pair of historic pagodas in East.",
-                  "category": "historical",
-                  "coords": [
-                        103.728288,
-                        1.339714
-                  ]
-            },
-            {
-                  "name": "Confucius statue",
-                  "text": "Bronze statue of Confucius located in a park in the East.",
-                  "category": "historical",
-                  "coords": [
-                        103.72893,
-                        1.338307
-                  ]
-            },
             {
                   "name": "Paddle Lodge Pandan Reservoir",
                   "text": "Water sports facility on Pandan Reservoir offering canoe and kayak rentals.",
@@ -807,42 +447,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.738572,
                         1.33057
-                  ]
-            },
-            {
-                  "name": "Local market",
-                  "text": "Traditional wet market in the East selling fresh produce and local goods.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "Clusia Cove",
-                  "text": "Sandy cove and lagoon at East Coast Park, popular for water sports.",
-                  "category": "landmark",
-                  "coords": [
-                        103.724881,
-                        1.340297
-                  ]
-            },
-            {
-                  "name": "Therapeutic Garden (Adult's Section)",
-                  "text": "Therapeutic garden for adults with sensory plants and quiet seating areas.",
-                  "category": "landmark",
-                  "coords": [
-                        103.727803,
-                        1.335207
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "St Mary of the Angels Church, a modern Catholic church in eastern Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.759422,
-                        1.347229
                   ]
             },
             {
@@ -1359,15 +963,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "woodlands-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Permaisuri Zarith Sofiah Opera House",
-                  "text": "Ein Opernhaus in Woodlands, benannt nach der Permaisuri von Johor.",
-                  "category": "cultural",
-                  "coords": [
-                        103.770295,
-                        1.45674
-                  ]
-            },
-            {
                   "name": "Rainforest Wild Adventure West",
                   "text": "Abenteuerpark im Freien in Woodlands mit Seilrutschen und Kletterwänden.",
                   "category": "family",
@@ -1377,48 +972,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Admiralty Park",
-                  "text": "Großer Park in Woodlands mit Spielplätzen und einer Skateanlage.",
-                  "category": "park",
-                  "coords": [
-                        103.781402,
-                        1.446387
-                  ]
-            },
-            {
                   "name": "Marsiling Park",
                   "text": "Stadtteilpark in Marsiling mit einem See und einer Joggingstrecke.",
                   "category": "park",
                   "coords": [
                         103.770285,
                         1.437283
-                  ]
-            },
-            {
-                  "name": "Woodlands Waterfront Park",
-                  "text": "Uferpark entlang der Johor-Straße mit Blick auf Malaysia.",
-                  "category": "park",
-                  "coords": [
-                        103.780106,
-                        1.453136
-                  ]
-            },
-            {
-                  "name": "Talbot Hill",
-                  "text": "Hügel in Woodlands mit Panoramablick über die Umgebung.",
-                  "category": "landmark",
-                  "coords": [
-                        103.789914,
-                        1.457844
-                  ]
-            },
-            {
-                  "name": "Woodlands Jetty",
-                  "text": "Holzsteg, der in die Johor-Straße ragt, beliebt zum Angeln.",
-                  "category": "natural",
-                  "coords": [
-                        103.778328,
-                        1.454791
                   ]
             },
             {
@@ -1437,15 +996,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.779749,
                         1.410024
-                  ]
-            },
-            {
-                  "name": "Phillipine Spotted Deer",
-                  "text": "Gehege mit Philippinischen Fleckenhirschen in einem Wildpark in Woodlands.",
-                  "category": "landmark",
-                  "coords": [
-                        103.783682,
-                        1.410437
                   ]
             },
             {
@@ -1478,15 +1028,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Permaisuri Zarith Sofiah Opera House",
-                  "text": "Egy operaház Woodlandsben, amely Johor Permaisurijáról kapta a nevét.",
-                  "category": "cultural",
-                  "coords": [
-                        103.770295,
-                        1.45674
-                  ]
-            },
-            {
                   "name": "Rainforest Wild Adventure West",
                   "text": "Szabadtéri kalandpark Woodlandsban, kötélpályákkal és mászófalakkal.",
                   "category": "family",
@@ -1496,48 +1037,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Admiralty Park",
-                  "text": "Nagy park Woodlandsban, játszóterekkel és gördeszkapályával.",
-                  "category": "park",
-                  "coords": [
-                        103.781402,
-                        1.446387
-                  ]
-            },
-            {
                   "name": "Marsiling Park",
                   "text": "Kerületi park Marsilingban, tóval és futópályával.",
                   "category": "park",
                   "coords": [
                         103.770285,
                         1.437283
-                  ]
-            },
-            {
-                  "name": "Woodlands Waterfront Park",
-                  "text": "Vízparti park a Johori-szoros mentén, kilátással Malajziára.",
-                  "category": "park",
-                  "coords": [
-                        103.780106,
-                        1.453136
-                  ]
-            },
-            {
-                  "name": "Talbot Hill",
-                  "text": "Dom Woodlandsban, panorámás kilátással a környékre.",
-                  "category": "landmark",
-                  "coords": [
-                        103.789914,
-                        1.457844
-                  ]
-            },
-            {
-                  "name": "Woodlands Jetty",
-                  "text": "Fából készült móló, amely a Johori-szorosba nyúlik, népszerű horgászhely.",
-                  "category": "natural",
-                  "coords": [
-                        103.778328,
-                        1.454791
                   ]
             },
             {
@@ -1556,15 +1061,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.779749,
                         1.410024
-                  ]
-            },
-            {
-                  "name": "Phillipine Spotted Deer",
-                  "text": "Fülöp-szigeteki pettyes szarvasok kifutója egy woodlandsi vadasparkban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.783682,
-                        1.410437
                   ]
             },
             {
@@ -1597,15 +1093,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Permaisuri Zarith Sofiah Opera House",
-                  "text": "O operă în Woodlands numită după Permaisuri din Johor.",
-                  "category": "cultural",
-                  "coords": [
-                        103.770295,
-                        1.45674
-                  ]
-            },
-            {
                   "name": "Rainforest Wild Adventure West",
                   "text": "Parcul de aventură în aer liber în Woodlands, cu tiroliene și pereți de cățărare.",
                   "category": "family",
@@ -1615,48 +1102,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Admiralty Park",
-                  "text": "Parcul mare în Woodlands, cu locuri de joacă și un parc de skate.",
-                  "category": "park",
-                  "coords": [
-                        103.781402,
-                        1.446387
-                  ]
-            },
-            {
                   "name": "Marsiling Park",
                   "text": "Parcul de cartier în Marsiling, cu un lac și o pistă de alergare.",
                   "category": "park",
                   "coords": [
                         103.770285,
                         1.437283
-                  ]
-            },
-            {
-                  "name": "Woodlands Waterfront Park",
-                  "text": "Parcul de pe malul strâmtorii Johor, cu vedere spre Malaezia.",
-                  "category": "park",
-                  "coords": [
-                        103.780106,
-                        1.453136
-                  ]
-            },
-            {
-                  "name": "Talbot Hill",
-                  "text": "Deal în Woodlands cu vedere panoramică asupra zonei înconjurătoare.",
-                  "category": "landmark",
-                  "coords": [
-                        103.789914,
-                        1.457844
-                  ]
-            },
-            {
-                  "name": "Woodlands Jetty",
-                  "text": "Debarcader din lemn care se extinde în strâmtoarea Johor, popular pentru pescuit.",
-                  "category": "natural",
-                  "coords": [
-                        103.778328,
-                        1.454791
                   ]
             },
             {
@@ -1675,15 +1126,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.779749,
                         1.410024
-                  ]
-            },
-            {
-                  "name": "Phillipine Spotted Deer",
-                  "text": "Incintă cu cerbi pătați filipinezi într-un parc de animale sălbatice din Woodlands.",
-                  "category": "landmark",
-                  "coords": [
-                        103.783682,
-                        1.410437
                   ]
             },
             {
@@ -1716,15 +1158,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Permaisuri Zarith Sofiah Opera House",
-                  "text": "An opera house in Woodlands named after the Permaisuri of Johor.",
-                  "category": "cultural",
-                  "coords": [
-                        103.770295,
-                        1.45674
-                  ]
-            },
-            {
                   "name": "Rainforest Wild Adventure West",
                   "text": "Outdoor adventure park in Woodlands with zip lines and climbing walls.",
                   "category": "family",
@@ -1734,48 +1167,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Admiralty Park",
-                  "text": "Large park in Woodlands with playgrounds and a skate park.",
-                  "category": "park",
-                  "coords": [
-                        103.781402,
-                        1.446387
-                  ]
-            },
-            {
                   "name": "Marsiling Park",
                   "text": "Neighbourhood park in Marsiling with a lake and jogging track.",
                   "category": "park",
                   "coords": [
                         103.770285,
                         1.437283
-                  ]
-            },
-            {
-                  "name": "Woodlands Waterfront Park",
-                  "text": "Waterfront park along the Johor Strait with views of Malaysia.",
-                  "category": "park",
-                  "coords": [
-                        103.780106,
-                        1.453136
-                  ]
-            },
-            {
-                  "name": "Talbot Hill",
-                  "text": "Hill in Woodlands offering panoramic views of the surrounding area.",
-                  "category": "landmark",
-                  "coords": [
-                        103.789914,
-                        1.457844
-                  ]
-            },
-            {
-                  "name": "Woodlands Jetty",
-                  "text": "Wooden jetty extending into the Johor Strait, popular for fishing.",
-                  "category": "natural",
-                  "coords": [
-                        103.778328,
-                        1.454791
                   ]
             },
             {
@@ -1794,15 +1191,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.779749,
                         1.410024
-                  ]
-            },
-            {
-                  "name": "Phillipine Spotted Deer",
-                  "text": "Enclosure housing Philippine spotted deer at a wildlife park in Woodlands.",
-                  "category": "landmark",
-                  "coords": [
-                        103.783682,
-                        1.410437
                   ]
             },
             {
@@ -1884,15 +1272,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "bedok-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Castle Beach",
-                  "text": "Der Castle Beach in Bedok sticht als besonderes Wahrzeichen im Stadtgebiet von Singapur hervor. Bekannt für sein Schloss-Motiv, bietet die Anlage eine faszinierende Mischung aus Entdeckung und Erholung. Gäste können das markante Gebäude erkunden und dabei die Aussicht auf die Umgebung auf sich wirken lassen. Für einen Nachmittagsbesuch sind bequeme Schuhe und eine Kamera sehr zu empfehlen.",
-                  "category": "castle",
-                  "coords": [
-                        103.935896,
-                        1.30638
-                  ]
-            },
-            {
                   "name": "Viewpoint (westward)",
                   "text": "Aussichtsplattform mit Blick nach Westen über den Bedok-Stausee.",
                   "category": "natural",
@@ -1908,15 +1287,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.958617,
                         1.313055
-                  ]
-            },
-            {
-                  "name": "Our Lady of Perpetual Succour",
-                  "text": "Katholische Kirche Unserer Lieben Frau von der immerwährenden Hilfe im Wohngebiet Bedok.",
-                  "category": "religious",
-                  "coords": [
-                        103.918674,
-                        1.320625
                   ]
             },
             {
@@ -1940,15 +1310,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Castle Beach",
-                  "text": "A Szingapúrban, Bedok területén található Castle Beach egyedülálló látványosságként emelkedik ki. A kastélyos jellegéről ismert helyszín a felfedezés és a kikapcsolódás lenyűgöző keverékét nyújtja. A vendégek bejárhatják az érdekes építményt, miközben megcsodálhatják a környező panorámát. Egy délutáni látogatáshoz mindenképpen érdemes fényképezőgépet és kényelmes cipőt hozni.",
-                  "category": "castle",
-                  "coords": [
-                        103.935896,
-                        1.30638
-                  ]
-            },
-            {
                   "name": "Viewpoint (westward)",
                   "text": "Kilátó nyugati irányban a Bedok-tározóra.",
                   "category": "natural",
@@ -1964,15 +1325,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.958617,
                         1.313055
-                  ]
-            },
-            {
-                  "name": "Our Lady of Perpetual Succour",
-                  "text": "A Boldogságos Szűz Mária Segítsége Keresztények katolikus temploma a Bedok negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.918674,
-                        1.320625
                   ]
             },
             {
@@ -1996,15 +1348,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Castle Beach",
-                  "text": "Castle Beach din Bedok se remarcă ca un punct de reper deosebit în zona urbană din Singapore. Cunoscută pentru tema sa de castel, locația oferă un amestec fascinant de explorare și recreere. Oaspeții pot examina structura impresionantă, admirând totodată priveliștile zonei înconjurătoare. Pentru o vizită de după-amiază, este foarte recomandat să aduceți un aparat foto și încălțăminte confortabilă.",
-                  "category": "castle",
-                  "coords": [
-                        103.935896,
-                        1.30638
-                  ]
-            },
-            {
                   "name": "Viewpoint (westward)",
                   "text": "Platformă de observare orientată spre vest, peste lacul de acumulare Bedok.",
                   "category": "natural",
@@ -2020,15 +1363,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.958617,
                         1.313055
-                  ]
-            },
-            {
-                  "name": "Our Lady of Perpetual Succour",
-                  "text": "Biserica Catolică Maica Domnului Pururea Ajutătoare în cartierul Bedok.",
-                  "category": "religious",
-                  "coords": [
-                        103.918674,
-                        1.320625
                   ]
             },
             {
@@ -2052,15 +1386,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Castle Beach",
-                  "text": "Castle Beach in Bedok stands out as a unique landmark within the urban environment of Singapore. Known for its distinct castle theme, the site provides a fascinating blend of exploration and recreation. Guests can examine the striking structure while taking in the views of the surrounding area. Bringing a camera and wearing comfortable shoes is highly recommended for an afternoon visit.",
-                  "category": "castle",
-                  "coords": [
-                        103.935896,
-                        1.30638
-                  ]
-            },
-            {
                   "name": "Viewpoint (westward)",
                   "text": "Viewing platform facing west over Bedok Reservoir.",
                   "category": "natural",
@@ -2076,15 +1401,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.958617,
                         1.313055
-                  ]
-            },
-            {
-                  "name": "Our Lady of Perpetual Succour",
-                  "text": "Our Lady of Perpetual Succour, a Catholic church in the Bedok residential area.",
-                  "category": "religious",
-                  "coords": [
-                        103.918674,
-                        1.320625
                   ]
             },
             {
@@ -2175,15 +1491,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Mawaddah",
-                  "text": "Al-Mawaddah-Moschee im Wohngebiet Hougang von Singapur.",
-                  "category": "religious",
-                  "coords": [
-                        103.890214,
-                        1.383425
-                  ]
-            },
-            {
                   "name": "Church of The Nativity of the Blessed Virgin Mary",
                   "text": "Römisch-katholische Kirche Mariä Geburt im Stadtteil Hougang, Singapur.",
                   "category": "religious",
@@ -2209,15 +1516,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.875629,
                         1.369224
                   ]
-            },
-            {
-                  "name": "Darma Muneeswaran Temple",
-                  "text": "Hinduistischer Darma-Muneeswaran-Tempel in Hougang, Singapur.",
-                  "category": "religious",
-                  "coords": [
-                        103.869875,
-                        1.368468
-                  ]
             }
       ],
       "hu": [
@@ -2237,15 +1535,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.898651,
                         1.376946
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mawaddah",
-                  "text": "Al-Mawaddah mecset Szingapúr Hougang negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        103.890214,
-                        1.383425
                   ]
             },
             {
@@ -2274,15 +1563,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.875629,
                         1.369224
                   ]
-            },
-            {
-                  "name": "Darma Muneeswaran Temple",
-                  "text": "Darma Muneeswaran hindu templom Szingapúr Hougang negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        103.869875,
-                        1.368468
-                  ]
             }
       ],
       "ro": [
@@ -2302,15 +1582,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.898651,
                         1.376946
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mawaddah",
-                  "text": "Moscheea Al-Mawaddah în cartierul rezidențial Hougang din Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.890214,
-                        1.383425
                   ]
             },
             {
@@ -2339,15 +1610,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.875629,
                         1.369224
                   ]
-            },
-            {
-                  "name": "Darma Muneeswaran Temple",
-                  "text": "Templul hindus Darma Muneeswaran în Hougang, Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.869875,
-                        1.368468
-                  ]
             }
       ],
       "en": [
@@ -2367,15 +1629,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.898651,
                         1.376946
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mawaddah",
-                  "text": "Masjid Al-Mawaddah, a mosque in the Hougang residential area.",
-                  "category": "religious",
-                  "coords": [
-                        103.890214,
-                        1.383425
                   ]
             },
             {
@@ -2403,15 +1656,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.875629,
                         1.369224
-                  ]
-            },
-            {
-                  "name": "Darma Muneeswaran Temple",
-                  "text": "Darma Muneeswaran Temple, a Hindu temple in Hougang.",
-                  "category": "religious",
-                  "coords": [
-                        103.869875,
-                        1.368468
                   ]
             }
       ]
@@ -2463,7 +1707,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     },
   },
   {
-    id: "punggol-cities-v2", "sights": {"de": [{"name": "Beach Area A", "text": "Entlang der Küstenlinie von Punggol gelegen, bildet die Beach Area A ein modernes Stück von Singapurs Uferlandschaft. Die Stimmung hier ist angenehm entspannt und zieht sowohl Einheimische als auch Spaziergänger an. Dieser Küstenabschnitt eignet sich hervorragend zum Sonnenbaden, für gemütliche Spaziergänge oder um einfach die sanften Wellen zu beobachten. Ein Besuch am späten Nachmittag verspricht die angenehmsten Temperaturen.", "category": "recreational", "coords": [103.919241, 1.414082]}, {"name": "Beach Area B", "text": "Als weiterer einladender Abschnitt in Punggol bietet die Beach Area B einen friedlichen Rückzugsort abseits des städtischen Trubels. Sie zeichnet sich durch eine ruhige und familienfreundliche Atmosphäre aus, die perfekt für einen Ausflug am Wasser ist. Besucher können ihr Handtuch ausbreiten, den Sand unter den Füßen spüren und das tropische Klima genießen. Für einen längeren Aufenthalt ist es ratsam, ein paar leichte Snacks und ausreichend Trinkwasser einzupacken.", "category": "recreational", "coords": [103.92136, 1.4126]}], "hu": [{"name": "Beach Area A", "text": "A Punggol partvidékén elterülő Beach Area A Szingapúr modern vízparti életének egy szeletét képviseli. A hangulat kellemesen nyugodt, amely egyaránt vonzza a helyi lakosokat és a kíváncsi sétálókat. Kiváló helyszín a napozáshoz, egy laza sétához, vagy egyszerűen csak a hullámok játékának megfigyeléséhez. A legkellemesebb hőmérséklet érdekében érdemes a késő délutáni órákban felkeresni.", "category": "recreational", "coords": [103.919241, 1.414082]}, {"name": "Beach Area B", "text": "A Punggolban található Beach Area B egy újabb hívogató partszakasz, amely békés menedéket nyújt a városi nyüzsgés elől. A nyugodt és családias légkör tökéletes választássá teszi egy csendes vízparti kiránduláshoz. A látogatók leteríthetnek egy törölközőt, érezhetik a homokot a talpuk alatt, és élvezhetik a trópusi éghajlatot. Hosszabb tartózkodás esetén okos döntés némi könnyű harapnivalót és elegendő ivóvizet csomagolni.", "category": "recreational", "coords": [103.92136, 1.4126]}], "ro": [{"name": "Beach Area A", "text": "Situată de-a lungul țărmului din Punggol, Beach Area A reprezintă o felie modernă din peisajul litoral al orașului Singapore. Atmosfera de aici este confortabilă și relaxată, atrăgând atât rezidenții locali, cât și plimbăreții curioși. Această porțiune este un loc excelent pentru a vă bucura de soare, de plimbări scurte sau pur și simplu pentru a privi valurile blânde. Vizitarea spre sfârșitul după-amiezii oferă, în general, cele mai confortabile condiții meteorologice.", "category": "recreational", "coords": [103.919241, 1.414082]}, {"name": "Beach Area B", "text": "Formând o altă întindere primitoare în Punggol, Beach Area B oferă un refugiu pașnic departe de agitația obișnuită a orașului. Păstrează o ambianță calmă și orientată spre familie, fiind o alegere excelentă pentru o zi liniștită la malul apei. Vizitatorii pot întinde un prosop, pot simți nisipul sub picioare și se pot bucura de mediul tropical cald. Împachetarea unor gustări ușoare și a unei cantități suficiente de apă este o idee bună pentru o ședere prelungită.", "category": "recreational", "coords": [103.92136, 1.4126]}], "en": [{"name": "Beach Area A", "text": "Set along the shoreline of Punggol, Beach Area A represents a modern slice of Singapore's waterfront. The general mood here is comfortably relaxed, attracting local residents and casual wanderers alike. This section is an excellent spot for enjoying the sun, leisurely walks, or simply watching the gentle waves. Visiting during the late afternoon typically offers the most comfortable weather conditions.", "category": "recreational", "coords": [103.919241, 1.414082]}, {"name": "Beach Area B", "text": "Forming another inviting stretch in Punggol, Beach Area B provides a peaceful retreat from the usual city bustle. It carries a calm and family-oriented ambiance, making it a great choice for a quiet day out by the water. Visitors can spread out a towel, feel the sand beneath their feet, and embrace the warm tropical environment. Packing light snacks and plenty of water is always a smart idea for an extended stay.", "category": "recreational", "coords": [103.92136, 1.4126]}]},
+    id: "punggol-cities-v2", "sights": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
+},
     type: "city",
     parent: "SG-02",
     coords: [103.909, 1.405],
@@ -2538,24 +1787,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.890211,
                         1.383424
-                  ]
-            },
-            {
-                  "name": "Punggol Park",
-                  "text": "Der Punggol Park wurde mit dem Thema 'Familienfreizeit' konzipiert und umgibt einen malerischen 5-Hektar-See, der von großen Bäumen beschattet wird.",
-                  "category": "park",
-                  "coords": [
-                        103.898622,
-                        1.377188
-                  ]
-            },
-            {
-                  "name": "Church of The Nativity of the Blessed Virgin Mary",
-                  "text": "Die Church of the Nativity of the Blessed Virgin Mary ist eine historische katholische Pfarrei, die durch ihre auffällige neugotische Architektur besticht.",
-                  "category": "religious",
-                  "coords": [
-                        103.898422,
-                        1.373489
                   ]
             },
             {
@@ -2723,24 +1954,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Punggol Park",
-                  "text": "A 'Családi szabadidő' témára tervezett Punggol Park egy festői 5 hektáros tó körül helyezkedik el, amelyet hatalmas fák árnyékolnak.",
-                  "category": "park",
-                  "coords": [
-                        103.898622,
-                        1.377188
-                  ]
-            },
-            {
-                  "name": "Church of The Nativity of the Blessed Virgin Mary",
-                  "text": "A Church of the Nativity of the Blessed Virgin Mary egy történelmi katolikus plébánia, amely lenyűgöző neogótikus építészetével hívja fel magára a figyelmet.",
-                  "category": "religious",
-                  "coords": [
-                        103.898422,
-                        1.373489
-                  ]
-            },
-            {
                   "name": "Tian De Temple",
                   "text": "A Tian De Temple egy hagyományos buddhista szentély Sengkangban, amely gazdagon díszített kínai oltárokkal van felszerelve.",
                   "category": "landmark",
@@ -2905,24 +2118,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Punggol Park",
-                  "text": "Conceput cu tema „Timp liber în familie”, Parcul Punggol înconjoară un lac pitoresc de 5 hectare umbrit de copaci masivi.",
-                  "category": "park",
-                  "coords": [
-                        103.898622,
-                        1.377188
-                  ]
-            },
-            {
-                  "name": "Church of The Nativity of the Blessed Virgin Mary",
-                  "text": "Church of the Nativity of the Blessed Virgin Mary este o parohie catolică istorică care se distinge prin arhitectura sa neogotică atrăgătoare.",
-                  "category": "religious",
-                  "coords": [
-                        103.898422,
-                        1.373489
-                  ]
-            },
-            {
                   "name": "Tian De Temple",
                   "text": "Templul Tian De este un sanctuar budist tradițional din Sengkang, dotat cu altare chinezești bogat ornamentate.",
                   "category": "landmark",
@@ -3084,24 +2279,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.890211,
                         1.383424
-                  ]
-            },
-            {
-                  "name": "Punggol Park",
-                  "text": "Developed with a 'Family Leisure' theme, Punggol Park centers around a scenic 5-hectare lake shaded by massive mature trees.",
-                  "category": "park",
-                  "coords": [
-                        103.898622,
-                        1.377188
-                  ]
-            },
-            {
-                  "name": "Church of The Nativity of the Blessed Virgin Mary",
-                  "text": "The Church of the Nativity of the Blessed Virgin Mary is a historic Catholic parish distinguished by its striking Neo-Gothic architecture.",
-                  "category": "religious",
-                  "coords": [
-                        103.898422,
-                        1.373489
                   ]
             },
             {
@@ -3309,24 +2486,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bukit Batok Town Park",
-                  "text": "Der Bukit Batok Town Park ist ein Naturpark in der Nähe von Choa Chu Kang.",
-                  "category": "park",
-                  "coords": [
-                        103.755364,
-                        1.359789
-                  ]
-            },
-            {
-                  "name": "Drain Remains",
-                  "text": "Drain Remains bietet historische Ruinen in Choa Chu Kang.",
-                  "category": "historical",
-                  "coords": [
-                        103.753734,
-                        1.360729
-                  ]
-            },
-            {
                   "name": "Masjid Al-Khair",
                   "text": "Masjid Al-Khair ist eine bekannte Moschee in Choa Chu Kang.",
                   "category": "religious",
@@ -3353,24 +2512,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.75724,
                         1.375885
-                  ]
-            },
-            {
-                  "name": "Bukit Batok Town Park",
-                  "text": "A Bukit Batok Town Park egy természeti park Choa Chu Kang közelében.",
-                  "category": "park",
-                  "coords": [
-                        103.755364,
-                        1.359789
-                  ]
-            },
-            {
-                  "name": "Drain Remains",
-                  "text": "A Drain Remains történelmi romokat rejt Choa Chu Kang városában.",
-                  "category": "historical",
-                  "coords": [
-                        103.753734,
-                        1.360729
                   ]
             },
             {
@@ -3403,24 +2544,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bukit Batok Town Park",
-                  "text": "Bukit Batok Town Park este un parc natural situat în Choa Chu Kang.",
-                  "category": "park",
-                  "coords": [
-                        103.755364,
-                        1.359789
-                  ]
-            },
-            {
-                  "name": "Drain Remains",
-                  "text": "Drain Remains conține ruine istorice din Choa Chu Kang.",
-                  "category": "historical",
-                  "coords": [
-                        103.753734,
-                        1.360729
-                  ]
-            },
-            {
                   "name": "Masjid Al-Khair",
                   "text": "Masjid Al-Khair este o moschee proeminentă situată în Choa Chu Kang.",
                   "category": "religious",
@@ -3447,24 +2570,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.75724,
                         1.375885
-                  ]
-            },
-            {
-                  "name": "Bukit Batok Town Park",
-                  "text": "Bukit Batok Town Park is a scenic nature park located in Choa Chu Kang.",
-                  "category": "park",
-                  "coords": [
-                        103.755364,
-                        1.359789
-                  ]
-            },
-            {
-                  "name": "Drain Remains",
-                  "text": "Drain Remains features historical ruins located in Choa Chu Kang.",
-                  "category": "historical",
-                  "coords": [
-                        103.753734,
-                        1.360729
                   ]
             },
             {
@@ -3528,60 +2633,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "bukit-merah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Buddha Tooth Relic Temple",
-                  "text": "Der Buddha Tooth Relic Temple ist eine bekannte Kultstätte und ein Museum in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.844231,
-                        1.281495
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su ist eine anerkannte Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka ist eine bedeutende historische Moschee und Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Die Telok Ayer Chinese Methodist Church ist eine anerkannte historische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.847009,
-                        1.278471
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Wat-Anada-Metyarama-Thai-Buddhistentempel im Bukit-Merah-Gebiet von Singapur.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Amin",
-                  "text": "Die Al-Amin-Moschee ist eine anerkannte islamische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.819265,
-                        1.275184
-                  ]
-            },
-            {
                   "name": "Thian Hock Keng",
                   "text": "Thian Hock Keng ist ein bedeutender historischer chinesischer Tempel und eine Kultstätte in Bukit Merah.",
                   "category": "religious",
@@ -3591,192 +2642,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Die Chesed-El-Synagoge ist eine bekannte historische jüdische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Die Church of the Sacred Heart ist eine bedeutende Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Der Hong San See Tempel ist eine anerkannte historische chinesische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Grace Assembly of God Singapore (Tanglin)",
-                  "text": "Die Grace Assembly of God Singapore (Tanglin) ist eine bemerkenswerte christliche Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.81648,
-                        1.294423
-                  ]
-            },
-            {
-                  "name": "Masjid Hang Jebat",
-                  "text": "Die Masjid Hang Jebat ist eine historisch anerkannte islamische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.798625,
-                        1.289559
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Der Sri Mariamman Temple ist eine bedeutende historische hinduistische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Die Masjid Al-Falah ist eine bekannte islamische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
                   "name": "Masjid Tememggong Daeng Ibrahim",
                   "text": "Die Masjid Tememggong Daeng Ibrahim ist eine anerkannte historische islamische Kultstätte in Bukit Merah.",
                   "category": "religious",
                   "coords": [
                         103.824513,
                         1.26663
-                  ]
-            },
-            {
-                  "name": "Sri Ruthra Kaliamman Temple",
-                  "text": "Der Sri Ruthra Kaliamman Tempel ist eine bekannte hinduistische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.813992,
-                        1.281389
-                  ]
-            },
-            {
-                  "name": "Dragon's Teeth Gate",
-                  "text": "Das Dragon's Teeth Gate ist eine bekannte historische Sehenswürdigkeit in Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.805346,
-                        1.262969
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Chinatown ist eine berühmte kulturelle und historische Sehenswürdigkeit in der Gegend von Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "megazip adventure park",
-                  "text": "Megazip-Abenteuerpark mit Seilrouten und Hindernisparcours im Merah-Viertel.",
-                  "category": "landmark",
-                  "coords": [
-                        103.814305,
-                        1.256879
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill ist eine anerkannte historische und architektonische Sehenswürdigkeit in Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "Clemenceau Bridge",
-                  "text": "Clemenceau-Brücke, eine Straßenbrücke über den Singapore River im Merah-Distrikt.",
-                  "category": "landmark",
-                  "coords": [
-                        103.842452,
-                        1.290769
-                  ]
-            },
-            {
-                  "name": "Robertson Bridge",
-                  "text": "Robertson-Brücke, eine Fußgängerbrücke über den Singapore River in Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.836443,
-                        1.289953
-                  ]
-            },
-            {
-                  "name": "Jiak Kim Bridge",
-                  "text": "Die Jiak Kim Bridge ist eine bekannte Fußgängerbrücke in Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.835697,
-                        1.292252
-                  ]
-            },
-            {
-                  "name": "Alkaff Bridge",
-                  "text": "Die Alkaff Bridge ist eine markante, bunte Fußgängerbrücke in Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839949,
-                        1.290117
-                  ]
-            },
-            {
-                  "name": "Ord Bridge",
-                  "text": "Ord-Brücke, eine Straßenbrücke über den Singapore River im Merah-Gebiet.",
-                  "category": "landmark",
-                  "coords": [
-                        103.844028,
-                        1.290926
-                  ]
-            },
-            {
-                  "name": "Dragon's Teeth Gate Viewpoint",
-                  "text": "Der Aussichtspunkt Dragon's Teeth Gate bietet einen bemerkenswerten Blick auf das historische Gebiet in Bukit Merah.",
-                  "category": "natural",
-                  "coords": [
-                        103.807375,
-                        1.260002
-                  ]
-            },
-            {
-                  "name": "Pearl's Hill",
-                  "text": "Pearl's Hill ist ein bekannter kleiner Hügel in Bukit Merah.",
-                  "category": "natural",
-                  "coords": [
-                        103.83994,
-                        1.284548
-                  ]
-            },
-            {
-                  "name": "Fort Canning Park",
-                  "text": "Historischer Park in Merah mit einem Hügelfort und archäologischen Funden.",
-                  "category": "park",
-                  "coords": [
-                        103.846713,
-                        1.294038
                   ]
             },
             {
@@ -3798,48 +2669,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "HortPark",
-                  "text": "Der HortPark ist ein bekannter Park und ein Zentrum für Gartenbau in Bukit Merah.",
-                  "category": "park",
-                  "coords": [
-                        103.799489,
-                        1.279052
-                  ]
-            },
-            {
                   "name": "Kent Ridge Park",
                   "text": "Der Kent Ridge Park ist ein bemerkenswerter historischer Freizeitpark in Bukit Merah.",
                   "category": "park",
                   "coords": [
                         103.790709,
                         1.28344
-                  ]
-            },
-            {
-                  "name": "Tanjong Pagar Park",
-                  "text": "Der Tanjong Pagar Park ist ein anerkannter Stadtpark in der Gegend von Bukit Merah.",
-                  "category": "park",
-                  "coords": [
-                        103.845841,
-                        1.276564
-                  ]
-            },
-            {
-                  "name": "Ann Siang Hill Park",
-                  "text": "Der Ann Siang Hill Park ist ein malerischer öffentlicher Park auf einem historischen Hügel in Bukit Merah.",
-                  "category": "park",
-                  "coords": [
-                        103.846135,
-                        1.280837
-                  ]
-            },
-            {
-                  "name": "Tiong Bahru Park",
-                  "text": "Park in Merah mit einem Spielplatz und einem Teich.",
-                  "category": "park",
-                  "coords": [
-                        103.824076,
-                        1.28767
                   ]
             },
             {
@@ -3858,42 +2693,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.822991,
                         1.254233
-                  ]
-            },
-            {
-                  "name": "Singapore Oceanarium",
-                  "text": "Das Singapore Oceanarium ist ein großes, anerkanntes Aquarium und ein Meerespark in der Nähe von Bukit Merah.",
-                  "category": "family",
-                  "coords": [
-                        103.820508,
-                        1.258364
-                  ]
-            },
-            {
-                  "name": "Masjid Mujahidin",
-                  "text": "Die Masjid Mujahidin ist eine anerkannte islamische Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.80096,
-                        1.298126
-                  ]
-            },
-            {
-                  "name": "OMF International",
-                  "text": "OMF International ist eine anerkannte christliche Mission und Kultstätte mit Sitz in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.81855,
-                        1.309334
-                  ]
-            },
-            {
-                  "name": "Church of St. Teresa",
-                  "text": "Die Church of St. Teresa ist eine lokale Kultstätte in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.828169,
-                        1.273271
                   ]
             },
             {
@@ -3922,81 +2721,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.817616,
                         1.30874
                   ]
-            },
-            {
-                  "name": "SAM at Tanjong Pagar Distripark",
-                  "text": "Museum für zeitgenössische Kunst in einem ehemaligen Lagerhaus in Tanjong Pagar.",
-                  "category": "museum",
-                  "coords": [
-                        103.836555,
-                        1.271882
-                  ]
-            },
-            {
-                  "name": "Trickeye",
-                  "text": "Interaktives 3D-Trickart-Museum in Merah mit optischen Illusionen.",
-                  "category": "museum",
-                  "coords": [
-                        103.811807,
-                        1.258563
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Buddha Tooth Relic Temple",
-                  "text": "A Buddha Tooth Relic Temple egy ismert istentiszteleti hely és múzeum Bukit Merah területén.",
-                  "category": "religious",
-                  "coords": [
-                        103.844231,
-                        1.281495
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "A Tan Si Chong Su egy elismert istentiszteleti hely Bukit Merah városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "A Masjid Omar Kampung Melaka egy történelmi jelentőségű istentiszteleti hely Bukit Merah-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "A Telok Ayer Chinese Methodist Church egy elismert történelmi istentiszteleti hely Bukit Merah területén.",
-                  "category": "religious",
-                  "coords": [
-                        103.847009,
-                        1.278471
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Wat Anada Metyarama thai buddhista templom Szingapúr Bukit Merah negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Amin",
-                  "text": "Az Al-Amin Mosque egy elismert iszlám istentiszteleti hely Bukit Merah városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        103.819265,
-                        1.275184
-                  ]
-            },
             {
                   "name": "Thian Hock Keng",
                   "text": "A Thian Hock Keng egy kiemelkedő, történelmi kínai templom és istentiszteleti hely Bukit Merah-ban.",
@@ -4007,192 +2734,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chesed-El Synagogue",
-                  "text": "A Chesed-El Synagogue egy jól ismert, történelmi zsidó istentiszteleti hely Bukit Merah területén.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "A Church of the Sacred Heart egy jelentős istentiszteleti hely Bukit Merah-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "A Hong San See Temple egy elismert, történelmi kínai istentiszteleti hely Bukit Merah városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Grace Assembly of God Singapore (Tanglin)",
-                  "text": "A Grace Assembly of God Singapore (Tanglin) egy jelentős keresztény istentiszteleti hely Bukit Merah területén.",
-                  "category": "religious",
-                  "coords": [
-                        103.81648,
-                        1.294423
-                  ]
-            },
-            {
-                  "name": "Masjid Hang Jebat",
-                  "text": "A Masjid Hang Jebat egy történelmileg elismert iszlám istentiszteleti hely Bukit Merah-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.798625,
-                        1.289559
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "A Sri Mariamman Temple egy kiemelkedő, történelmi hindu istentiszteleti hely Bukit Merah városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "A Masjid Al-Falah egy jól ismert iszlám istentiszteleti hely Bukit Merah területén.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
                   "name": "Masjid Tememggong Daeng Ibrahim",
                   "text": "A Masjid Tememggong Daeng Ibrahim egy elismert, történelmi iszlám istentiszteleti hely Bukit Merah-ban.",
                   "category": "religious",
                   "coords": [
                         103.824513,
                         1.26663
-                  ]
-            },
-            {
-                  "name": "Sri Ruthra Kaliamman Temple",
-                  "text": "A Sri Ruthra Kaliamman Temple egy ismert hindu istentiszteleti hely Bukit Merah városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        103.813992,
-                        1.281389
-                  ]
-            },
-            {
-                  "name": "Dragon's Teeth Gate",
-                  "text": "A Dragon's Teeth Gate egy jelentős történelmi látványosság Bukit Merah területén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.805346,
-                        1.262969
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "A Chinatown egy híres kulturális és történelmi látványosság Bukit Merah környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "megazip adventure park",
-                  "text": "Megazip kalandpark kötélpályákkal és akadálypályákkal a Merah negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.814305,
-                        1.256879
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Az Emerald Hill egy elismert történelmi és építészeti látványosság Bukit Merah városrészben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "Clemenceau Bridge",
-                  "text": "Clemenceau-híd, egy közúti híd a Singapore folyó felett a Merah negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.842452,
-                        1.290769
-                  ]
-            },
-            {
-                  "name": "Robertson Bridge",
-                  "text": "Robertson-híd, egy gyalogoshíd a Singapore folyó felett a Merah negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.836443,
-                        1.289953
-                  ]
-            },
-            {
-                  "name": "Jiak Kim Bridge",
-                  "text": "A Jiak Kim Bridge egy jól ismert gyalogoshíd Bukit Merah városrészben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.835697,
-                        1.292252
-                  ]
-            },
-            {
-                  "name": "Alkaff Bridge",
-                  "text": "Az Alkaff Bridge egy jellegzetesen színes gyalogoshíd Bukit Merah területén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839949,
-                        1.290117
-                  ]
-            },
-            {
-                  "name": "Ord Bridge",
-                  "text": "Ord-híd, egy közúti híd a Singapore folyó felett a Merah területén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.844028,
-                        1.290926
-                  ]
-            },
-            {
-                  "name": "Dragon's Teeth Gate Viewpoint",
-                  "text": "A Dragon's Teeth Gate Viewpoint nevezetes kilátást nyújt a történelmi területre Bukit Merah-ban.",
-                  "category": "natural",
-                  "coords": [
-                        103.807375,
-                        1.260002
-                  ]
-            },
-            {
-                  "name": "Pearl's Hill",
-                  "text": "A Pearl's Hill egy jól ismert, kisebb magaslat Bukit Merah területén.",
-                  "category": "natural",
-                  "coords": [
-                        103.83994,
-                        1.284548
-                  ]
-            },
-            {
-                  "name": "Fort Canning Park",
-                  "text": "Történelmi park Merahban, dombtetőn lévő erőddel és régészeti leletekkel.",
-                  "category": "park",
-                  "coords": [
-                        103.846713,
-                        1.294038
                   ]
             },
             {
@@ -4214,48 +2761,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "HortPark",
-                  "text": "A HortPark egy jól ismert park és kertészeti központ Bukit Merah-ban.",
-                  "category": "park",
-                  "coords": [
-                        103.799489,
-                        1.279052
-                  ]
-            },
-            {
                   "name": "Kent Ridge Park",
                   "text": "A Kent Ridge Park egy jelentős történelmi és szabadidős park Bukit Merah területén.",
                   "category": "park",
                   "coords": [
                         103.790709,
                         1.28344
-                  ]
-            },
-            {
-                  "name": "Tanjong Pagar Park",
-                  "text": "A Tanjong Pagar Park egy elismert városi park Bukit Merah környékén.",
-                  "category": "park",
-                  "coords": [
-                        103.845841,
-                        1.276564
-                  ]
-            },
-            {
-                  "name": "Ann Siang Hill Park",
-                  "text": "Az Ann Siang Hill Park egy festői közpark egy történelmi dombon Bukit Merah-ban.",
-                  "category": "park",
-                  "coords": [
-                        103.846135,
-                        1.280837
-                  ]
-            },
-            {
-                  "name": "Tiong Bahru Park",
-                  "text": "Park Merahban, játszótérrel és tóval.",
-                  "category": "park",
-                  "coords": [
-                        103.824076,
-                        1.28767
                   ]
             },
             {
@@ -4274,42 +2785,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.822991,
                         1.254233
-                  ]
-            },
-            {
-                  "name": "Singapore Oceanarium",
-                  "text": "A Singapore Oceanarium egy jelentős elismert akvárium és tengeri park Bukit Merah közelében.",
-                  "category": "family",
-                  "coords": [
-                        103.820508,
-                        1.258364
-                  ]
-            },
-            {
-                  "name": "Masjid Mujahidin",
-                  "text": "A Masjid Mujahidin egy elismert iszlám istentiszteleti hely Bukit Merah területén.",
-                  "category": "religious",
-                  "coords": [
-                        103.80096,
-                        1.298126
-                  ]
-            },
-            {
-                  "name": "OMF International",
-                  "text": "Az OMF International egy elismert keresztény misszió és istentiszteleti hely Bukit Merah-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.81855,
-                        1.309334
-                  ]
-            },
-            {
-                  "name": "Church of St. Teresa",
-                  "text": "A Church of St. Teresa egy helyi istentiszteleti hely Bukit Merah városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        103.828169,
-                        1.273271
                   ]
             },
             {
@@ -4338,81 +2813,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.817616,
                         1.30874
                   ]
-            },
-            {
-                  "name": "SAM at Tanjong Pagar Distripark",
-                  "text": "Kortárs művészeti múzeum egy egykori raktárépületben Tanjong Pagarban.",
-                  "category": "museum",
-                  "coords": [
-                        103.836555,
-                        1.271882
-                  ]
-            },
-            {
-                  "name": "Trickeye",
-                  "text": "Interaktív 3D trükk-művészeti múzeum Merahban, optikai illúziókkal.",
-                  "category": "museum",
-                  "coords": [
-                        103.811807,
-                        1.258563
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Buddha Tooth Relic Temple",
-                  "text": "Buddha Tooth Relic Temple este un lăcaș de cult și un muzeu notabil situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.844231,
-                        1.281495
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su este un lăcaș de cult recunoscut din Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka este o moschee istorică importantă și un lăcaș de cult situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Telok Ayer Chinese Methodist Church este un lăcaș de cult istoric recunoscut situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.847009,
-                        1.278471
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Templul budist thailandez Wat Anada Metyarama în zona Bukit Merah din Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Amin",
-                  "text": "Al-Amin Mosque este un lăcaș de cult islamic recunoscut situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.819265,
-                        1.275184
-                  ]
-            },
             {
                   "name": "Thian Hock Keng",
                   "text": "Thian Hock Keng este un templu chinezesc istoric și un lăcaș de cult important situat în Bukit Merah.",
@@ -4423,192 +2826,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue este un lăcaș de cult evreiesc istoric și bine-cunoscut din Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Church of the Sacred Heart este un lăcaș de cult notabil situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Hong San See Temple este un lăcaș de cult chinezesc istoric recunoscut din Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Grace Assembly of God Singapore (Tanglin)",
-                  "text": "Grace Assembly of God Singapore (Tanglin) este un lăcaș de cult creștin notabil situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.81648,
-                        1.294423
-                  ]
-            },
-            {
-                  "name": "Masjid Hang Jebat",
-                  "text": "Masjid Hang Jebat este un lăcaș de cult islamic recunoscut istoric din Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.798625,
-                        1.289559
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Sri Mariamman Temple este un lăcaș de cult hindus istoric și proeminent situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Masjid Al-Falah este un lăcaș de cult islamic bine-cunoscut situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
                   "name": "Masjid Tememggong Daeng Ibrahim",
                   "text": "Masjid Tememggong Daeng Ibrahim este un lăcaș de cult islamic istoric recunoscut din Bukit Merah.",
                   "category": "religious",
                   "coords": [
                         103.824513,
                         1.26663
-                  ]
-            },
-            {
-                  "name": "Sri Ruthra Kaliamman Temple",
-                  "text": "Sri Ruthra Kaliamman Temple este un lăcaș de cult hindus remarcat, situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.813992,
-                        1.281389
-                  ]
-            },
-            {
-                  "name": "Dragon's Teeth Gate",
-                  "text": "Dragon's Teeth Gate este o atracție istorică notabilă situată în Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.805346,
-                        1.262969
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Chinatown este o faimoasă atracție culturală și istorică situată în zona Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "megazip adventure park",
-                  "text": "Megazip Adventure Park, cu trasee cu cablu și parcursuri cu obstacole, în cartierul Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.814305,
-                        1.256879
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill este o atracție istorică și arhitecturală recunoscută situată în Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "Clemenceau Bridge",
-                  "text": "Podul Clemenceau, un pod rutier peste râul Singapore în districtul Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.842452,
-                        1.290769
-                  ]
-            },
-            {
-                  "name": "Robertson Bridge",
-                  "text": "Podul Robertson, un pod pietonal peste râul Singapore în cartierul Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.836443,
-                        1.289953
-                  ]
-            },
-            {
-                  "name": "Jiak Kim Bridge",
-                  "text": "Jiak Kim Bridge este un bine-cunoscut pod pietonal din Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.835697,
-                        1.292252
-                  ]
-            },
-            {
-                  "name": "Alkaff Bridge",
-                  "text": "Alkaff Bridge este un pod pietonal distinctiv și colorat situat în Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839949,
-                        1.290117
-                  ]
-            },
-            {
-                  "name": "Ord Bridge",
-                  "text": "Podul Ord, un pod rutier peste râul Singapore în zona Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.844028,
-                        1.290926
-                  ]
-            },
-            {
-                  "name": "Dragon's Teeth Gate Viewpoint",
-                  "text": "Punctul de belvedere Dragon's Teeth Gate oferă o perspectivă notabilă asupra zonei istorice din Bukit Merah.",
-                  "category": "natural",
-                  "coords": [
-                        103.807375,
-                        1.260002
-                  ]
-            },
-            {
-                  "name": "Pearl's Hill",
-                  "text": "Pearl's Hill este un mic vârf bine-cunoscut situat în Bukit Merah.",
-                  "category": "natural",
-                  "coords": [
-                        103.83994,
-                        1.284548
-                  ]
-            },
-            {
-                  "name": "Fort Canning Park",
-                  "text": "Parcul istoric în Merah, cu un fort pe deal și artefacte arheologice.",
-                  "category": "park",
-                  "coords": [
-                        103.846713,
-                        1.294038
                   ]
             },
             {
@@ -4630,48 +2853,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "HortPark",
-                  "text": "HortPark este un parc și un centru de grădinărit bine-cunoscut din Bukit Merah.",
-                  "category": "park",
-                  "coords": [
-                        103.799489,
-                        1.279052
-                  ]
-            },
-            {
                   "name": "Kent Ridge Park",
                   "text": "Kent Ridge Park este un parc istoric și de recreere notabil situat în Bukit Merah.",
                   "category": "park",
                   "coords": [
                         103.790709,
                         1.28344
-                  ]
-            },
-            {
-                  "name": "Tanjong Pagar Park",
-                  "text": "Tanjong Pagar Park este un parc urban recunoscut din zona Bukit Merah.",
-                  "category": "park",
-                  "coords": [
-                        103.845841,
-                        1.276564
-                  ]
-            },
-            {
-                  "name": "Ann Siang Hill Park",
-                  "text": "Ann Siang Hill Park este un parc public pitoresc situat pe un deal istoric din Bukit Merah.",
-                  "category": "park",
-                  "coords": [
-                        103.846135,
-                        1.280837
-                  ]
-            },
-            {
-                  "name": "Tiong Bahru Park",
-                  "text": "Parcul în Merah, cu un loc de joacă și un iaz.",
-                  "category": "park",
-                  "coords": [
-                        103.824076,
-                        1.28767
                   ]
             },
             {
@@ -4690,42 +2877,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.822991,
                         1.254233
-                  ]
-            },
-            {
-                  "name": "Singapore Oceanarium",
-                  "text": "Singapore Oceanarium este un important acvariu și parc marin recunoscut din apropiere de Bukit Merah.",
-                  "category": "family",
-                  "coords": [
-                        103.820508,
-                        1.258364
-                  ]
-            },
-            {
-                  "name": "Masjid Mujahidin",
-                  "text": "Masjid Mujahidin este un lăcaș de cult islamic recunoscut din Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.80096,
-                        1.298126
-                  ]
-            },
-            {
-                  "name": "OMF International",
-                  "text": "OMF International este o misiune creștină recunoscută și un lăcaș de cult cu sediul în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.81855,
-                        1.309334
-                  ]
-            },
-            {
-                  "name": "Church of St. Teresa",
-                  "text": "Church of St. Teresa este un lăcaș de cult local situat în Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.828169,
-                        1.273271
                   ]
             },
             {
@@ -4754,81 +2905,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.817616,
                         1.30874
                   ]
-            },
-            {
-                  "name": "SAM at Tanjong Pagar Distripark",
-                  "text": "Muzeu de artă contemporană găzduit într-un fost depozit din Tanjong Pagar.",
-                  "category": "museum",
-                  "coords": [
-                        103.836555,
-                        1.271882
-                  ]
-            },
-            {
-                  "name": "Trickeye",
-                  "text": "Muzeu interactiv de artă 3D în Merah, cu iluzii optice.",
-                  "category": "museum",
-                  "coords": [
-                        103.811807,
-                        1.258563
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Buddha Tooth Relic Temple",
-                  "text": "The Buddha Tooth Relic Temple is a notable place of worship and museum located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.844231,
-                        1.281495
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su is a recognized place of worship located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka is an important historical mosque and place of worship situated in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Telok Ayer Chinese Methodist Church is a recognized historic place of worship situated in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.847009,
-                        1.278471
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Wat Anada Metyarama Thai Buddhist Temple in the Bukit Merah area.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Al-Amin Mosque",
-                  "text": "Al-Amin Mosque is a recognized Islamic place of worship located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.819265,
-                        1.275184
-                  ]
-            },
             {
                   "name": "Thian Hock Keng",
                   "text": "Thian Hock Keng is a prominent and historic Chinese temple and place of worship located in Bukit Merah.",
@@ -4839,192 +2918,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue is a well-known historic Jewish place of worship situated in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "The Church of the Sacred Heart is a notable place of worship located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Hong San See Temple is a recognized historic Chinese place of worship located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Grace Assembly of God Singapore (Tanglin)",
-                  "text": "Grace Assembly of God Singapore (Tanglin) is a notable Christian place of worship located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.81648,
-                        1.294423
-                  ]
-            },
-            {
-                  "name": "Masjid Hang Jebat",
-                  "text": "Masjid Hang Jebat is a historically recognized Islamic place of worship in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.798625,
-                        1.289559
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Sri Mariamman Temple is a prominent and historic Hindu place of worship located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Masjid Al-Falah is a well-known Islamic place of worship located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
                   "name": "Masjid Tememggong Daeng Ibrahim",
                   "text": "Masjid Tememggong Daeng Ibrahim is a recognized historic Islamic place of worship in Bukit Merah.",
                   "category": "religious",
                   "coords": [
                         103.824513,
                         1.26663
-                  ]
-            },
-            {
-                  "name": "Sri Ruthra Kaliamman Temple",
-                  "text": "Sri Ruthra Kaliamman Temple is a noted Hindu place of worship situated in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.813992,
-                        1.281389
-                  ]
-            },
-            {
-                  "name": "Dragon's Teeth Gate",
-                  "text": "Dragon's Teeth Gate is a notable historic attraction situated in Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.805346,
-                        1.262969
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Chinatown is a famous cultural and historical attraction located in the Bukit Merah area.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "megazip adventure park",
-                  "text": "Megazip adventure park with ziplines and obstacle courses in the Merah area.",
-                  "category": "landmark",
-                  "coords": [
-                        103.814305,
-                        1.256879
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill is a recognized historic and architectural attraction located in Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "Clemenceau Bridge",
-                  "text": "Clemenceau Bridge, a road bridge spanning the Singapore River in the Merah district.",
-                  "category": "landmark",
-                  "coords": [
-                        103.842452,
-                        1.290769
-                  ]
-            },
-            {
-                  "name": "Robertson Bridge",
-                  "text": "Robertson Bridge, a pedestrian bridge across the Singapore River in Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.836443,
-                        1.289953
-                  ]
-            },
-            {
-                  "name": "Jiak Kim Bridge",
-                  "text": "Jiak Kim Bridge is a well-known pedestrian bridge spanning the river in Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.835697,
-                        1.292252
-                  ]
-            },
-            {
-                  "name": "Alkaff Bridge",
-                  "text": "Alkaff Bridge is a distinctively colourful pedestrian bridge located in Bukit Merah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839949,
-                        1.290117
-                  ]
-            },
-            {
-                  "name": "Ord Bridge",
-                  "text": "Ord Bridge, a road bridge over the Singapore River in the Merah area.",
-                  "category": "landmark",
-                  "coords": [
-                        103.844028,
-                        1.290926
-                  ]
-            },
-            {
-                  "name": "Dragon's Teeth Gate Viewpoint",
-                  "text": "Dragon's Teeth Gate Viewpoint offers a notable perspective on the historic area in Bukit Merah.",
-                  "category": "natural",
-                  "coords": [
-                        103.807375,
-                        1.260002
-                  ]
-            },
-            {
-                  "name": "Pearl's Hill",
-                  "text": "Pearl's Hill is a well-known small peak situated in Bukit Merah.",
-                  "category": "natural",
-                  "coords": [
-                        103.83994,
-                        1.284548
-                  ]
-            },
-            {
-                  "name": "Fort Canning Park",
-                  "text": "Historic park in Merah with a hilltop fort and archaeological artefacts.",
-                  "category": "park",
-                  "coords": [
-                        103.846713,
-                        1.294038
                   ]
             },
             {
@@ -5046,48 +2945,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "HortPark",
-                  "text": "HortPark is a well-known park and gardening hub located in Bukit Merah.",
-                  "category": "park",
-                  "coords": [
-                        103.799489,
-                        1.279052
-                  ]
-            },
-            {
                   "name": "Kent Ridge Park",
                   "text": "Kent Ridge Park is a notable historical and recreational park situated in Bukit Merah.",
                   "category": "park",
                   "coords": [
                         103.790709,
                         1.28344
-                  ]
-            },
-            {
-                  "name": "Tanjong Pagar Park",
-                  "text": "Tanjong Pagar Park is a recognized urban park located in the Bukit Merah area.",
-                  "category": "park",
-                  "coords": [
-                        103.845841,
-                        1.276564
-                  ]
-            },
-            {
-                  "name": "Ann Siang Hill Park",
-                  "text": "Ann Siang Hill Park is a picturesque public park situated on a historic hill in Bukit Merah.",
-                  "category": "park",
-                  "coords": [
-                        103.846135,
-                        1.280837
-                  ]
-            },
-            {
-                  "name": "Tiong Bahru Park",
-                  "text": "Park in Merah featuring a playground and a pond.",
-                  "category": "park",
-                  "coords": [
-                        103.824076,
-                        1.28767
                   ]
             },
             {
@@ -5106,42 +2969,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.822991,
                         1.254233
-                  ]
-            },
-            {
-                  "name": "Singapore Oceanarium",
-                  "text": "The Singapore Oceanarium is a major recognized aquarium and marine park attraction near Bukit Merah.",
-                  "category": "family",
-                  "coords": [
-                        103.820508,
-                        1.258364
-                  ]
-            },
-            {
-                  "name": "Masjid Mujahidin",
-                  "text": "Masjid Mujahidin is a recognized Islamic place of worship situated in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.80096,
-                        1.298126
-                  ]
-            },
-            {
-                  "name": "OMF International",
-                  "text": "OMF International is a recognized Christian mission and place of worship based in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.81855,
-                        1.309334
-                  ]
-            },
-            {
-                  "name": "Church of St. Teresa",
-                  "text": "Church of St. Teresa is a local place of worship located in Bukit Merah.",
-                  "category": "religious",
-                  "coords": [
-                        103.828169,
-                        1.273271
                   ]
             },
             {
@@ -5169,24 +2996,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.817616,
                         1.30874
-                  ]
-            },
-            {
-                  "name": "SAM at Tanjong Pagar Distripark",
-                  "text": "Contemporary art museum housed in a former warehouse in Tanjong Pagar.",
-                  "category": "museum",
-                  "coords": [
-                        103.836555,
-                        1.271882
-                  ]
-            },
-            {
-                  "name": "Trickeye",
-                  "text": "Interactive 3D trick art museum in Merah with optical illusion exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        103.811807,
-                        1.258563
                   ]
             }
       ]
@@ -5277,42 +3086,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "geylang-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Istana Kampong Glam",
-                  "text": "1843 erbauter Palast Istana Kampong Glam in Geylang.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Kallang Theatre, eine Veranstaltungshalle für Aufführungen im Geylang-Viertel von Singapur.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "Goodman Arts Centre",
-                  "text": "Kunstzentrum in Geylang mit Aufführungen und Ausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        103.884969,
-                        1.303952
-                  ]
-            },
-            {
-                  "name": "The Intan",
-                  "text": "Peranakan-Erbe-Museum in einem traditionellen Reihenhaus in Geylang.",
-                  "category": "museum",
-                  "coords": [
-                        103.900981,
-                        1.314681
-                  ]
-            },
-            {
                   "name": "That Aquarium",
                   "text": "Aquarium in Geylang mit Meereslebewesen und interaktiven Becken zum Anfassen.",
                   "category": "family",
@@ -5328,15 +3101,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.867327,
                         1.327098
-                  ]
-            },
-            {
-                  "name": "Former Fort Tanjong Katong",
-                  "text": "Historische Festungsanlage in Tanjong Katong mit Überresten der Küstenverteidigung.",
-                  "category": "fortress",
-                  "coords": [
-                        103.886753,
-                        1.296758
                   ]
             },
             {
@@ -5358,57 +3122,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eurasian Heritage Gallery",
-                  "text": "Museum in Geylang, das die Geschichte und Kultur der eurasischen Gemeinschaft Singapurs zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        103.899319,
-                        1.310035
-                  ]
-            },
-            {
-                  "name": "Black Earth Arts Museum",
-                  "text": "Museum in Geylang, das Kunstwerke aus schwarzer Erde ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        103.902807,
-                        1.30862
-                  ]
-            },
-            {
-                  "name": "Kwong Wai Shiu Hospital Heritage Gallery",
-                  "text": "Museum im Kwong Wai Shiu Hospital in Geylang, das die Krankenhausgeschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        103.858593,
-                        1.317781
-                  ]
-            },
-            {
-                  "name": "Singapore Sports Museum",
-                  "text": "Museum in Geylang, das der Sportgeschichte Singapurs gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        103.87341,
-                        1.301347
-                  ]
-            },
-            {
                   "name": "Buddhist Art Centre",
                   "text": "Kulturzentrum in Geylang mit buddhistischer Kunst und Artefakten.",
                   "category": "cultural",
                   "coords": [
                         103.878191,
                         1.312551
-                  ]
-            },
-            {
-                  "name": "Juz Art Studio",
-                  "text": "Kunststudio in Geylang, das Workshops und Ausstellungen anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        103.903816,
-                        1.305329
                   ]
             },
             {
@@ -5421,75 +3140,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Street of Peranakan shophouses",
-                  "text": "Eine bemerkenswerte Sehenswürdigkeit mit traditionellen Peranakan-Geschäftshäusern in Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.898986,
-                        1.314196
-                  ]
-            },
-            {
-                  "name": "Archery Range Indoor",
-                  "text": "Indoor-Bogenschießanlage in Geylang für Zielübungen.",
-                  "category": "landmark",
-                  "coords": [
-                        103.867026,
-                        1.332755
-                  ]
-            },
-            {
-                  "name": "Banyan Tree & Ruin",
-                  "text": "Eine malerische Sehenswürdigkeit mit einem Banyanbaum und Ruinen in Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.8664,
-                        1.306683
-                  ]
-            },
-            {
-                  "name": "The Martial Arts Centre",
-                  "text": "Kulturzentrum in Geylang mit Training in verschiedenen Kampfsportarten.",
-                  "category": "cultural",
-                  "coords": [
-                        103.862454,
-                        1.310242
-                  ]
-            },
-            {
-                  "name": "XM Studios",
-                  "text": "Museum in Geylang mit Designer-Statussammelfiguren von XM Studios.",
-                  "category": "museum",
-                  "coords": [
-                        103.862186,
-                        1.30833
-                  ]
-            },
-            {
-                  "name": "Penarakan Houses",
-                  "text": "Eine lokale Sehenswürdigkeit mit traditionellen Häusern in Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.904194,
-                        1.310952
-                  ]
-            },
-            {
                   "name": "Ellie Art Studio",
                   "text": "Kunststudio in Geylang mit Werken der lokalen Künstlerin Ellie.",
                   "category": "museum",
                   "coords": [
                         103.888016,
                         1.333951
-                  ]
-            },
-            {
-                  "name": "Kampong Glam",
-                  "text": "Historisches malaiisches Viertel in Geylang mit traditionellen Läden und Tempeln.",
-                  "category": "landmark",
-                  "coords": [
-                        103.862273,
-                        1.301549
                   ]
             },
             {
@@ -5520,33 +3176,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Social",
-                  "text": "Sozialer Kunstraum in Geylang für Gemeinschaftskunstprojekte.",
-                  "category": "museum",
-                  "coords": [
-                        103.864616,
-                        1.303483
-                  ]
-            },
-            {
-                  "name": "Aesthetic Art Gallery",
-                  "text": "Galerie in Geylang mit Schwerpunkt auf ästhetischer zeitgenössischer Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        103.862907,
-                        1.312104
-                  ]
-            },
-            {
-                  "name": "10 Jalan Eunos Gallery Space",
-                  "text": "Galerieraum an der Adresse 10 Jalan Eunos in Geylang.",
-                  "category": "museum",
-                  "coords": [
-                        103.906988,
-                        1.31855
-                  ]
-            },
-            {
                   "name": "Little India",
                   "text": "Buntes indisches Viertel in Geylang mit farbenfrohen Läden und Tempeln.",
                   "category": "landmark",
@@ -5565,48 +3194,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Senpaga Vinayagar Temple",
-                  "text": "Ein bekannter Hindu-Tempel in Geylang, der für seine markante Architektur im Chola-Stil bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.90251,
-                        1.305522
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Ein tibetisch-buddhistischer Tempel in Geylang, der sowohl die Gelug- als auch die Nyingma-Tradition fördert.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
                   "name": "Foo Hai Ch'an Monastery",
                   "text": "Foo-Hai-Ch'an-Kloster, ein buddhistisches Kloster im Geylang-Viertel Singapurs.",
                   "category": "landmark",
                   "coords": [
                         103.88849,
                         1.318038
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Aman",
-                  "text": "Eine markante Moschee in Geylang, die für ihren malaiisch-islamischen Architekturstil bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.904649,
-                        1.31798
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Eine ikonische Moschee in Geylang, die eine einzigartige Mischung aus islamischen und europäischen Architekturstilen aufweist.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
                   ]
             },
             {
@@ -5619,75 +3212,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "Ein historisches buddhistisches Kloster in Geylang, das als eines der ältesten in Singapur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330212
-                  ]
-            },
-            {
-                  "name": "Tioh Hin Cho Temple",
-                  "text": "Ein chinesischer Tempel in Geylang.",
-                  "category": "religious",
-                  "coords": [
-                        103.905092,
-                        1.316064
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abdul Razak",
-                  "text": "Eine lokale Moschee in Geylang, die der muslimischen Gemeinschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.907312,
-                        1.323431
-                  ]
-            },
-            {
-                  "name": "Mangala Vihara Buddhist Temple",
-                  "text": "Ein buddhistischer Tempel in Geylang.",
-                  "category": "religious",
-                  "coords": [
-                        103.905496,
-                        1.319729
-                  ]
-            },
-            {
-                  "name": "Bethany Independent Presbyterian Church",
-                  "text": "Presbyterianische Kirche in Geylang, die der örtlichen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.881911,
-                        1.344233
-                  ]
-            },
-            {
                   "name": "Jin Long Si Temple",
                   "text": "Ein buddhistischer Tempel in Geylang, bekannt für seinen historischen Bodhibaum.",
                   "category": "religious",
                   "coords": [
                         103.889346,
                         1.338647
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Ein Theravada-buddhistischer Tempel in Geylang, der der sri-lankischen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Eine Pfingstkirche in Geylang, die zu den Assemblies of God gehört.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
                   ]
             },
             {
@@ -5698,90 +3228,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.881228,
                         1.325752
                   ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Ein bedeutender Hindu-Tempel in Geylang, der Lord Perumal gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "Sri Vadapathira Kaliamman Temple",
-                  "text": "Ein südindischer Hindu-Tempel in Geylang, der der Göttin Kali gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.857961,
-                        1.315398
-                  ]
-            },
-            {
-                  "name": "Masjid Malabar",
-                  "text": "Eine wunderschöne Moschee in Geylang, bekannt für ihre markante blaue Kachelfassade.",
-                  "category": "religious",
-                  "coords": [
-                        103.859783,
-                        1.305121
-                  ]
-            },
-            {
-                  "name": "Central Sikh Temple",
-                  "text": "Der erste Sikh-Gurdwara in Singapur, der als wichtiges religiöses Zentrum in Geylang dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.860425,
-                        1.318848
-                  ]
-            },
-            {
-                  "name": "Masjid Táhá",
-                  "text": "Taha-Moschee, eine muslimische Moschee im Geylang-Stadtteil von Singapur.",
-                  "category": "religious",
-                  "coords": [
-                        103.898054,
-                        1.313639
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "1843-ban épült Istana Kampong Glam palota Geylangban.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Kallang Színház, egy előadóhelyi épület Szingapúr Geylang negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "Goodman Arts Centre",
-                  "text": "Művészeti központ Geylangban, előadásokkal és kiállításokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        103.884969,
-                        1.303952
-                  ]
-            },
-            {
-                  "name": "The Intan",
-                  "text": "Peranakan örökség múzeum egy hagyományos sorházban Geylangban.",
-                  "category": "museum",
-                  "coords": [
-                        103.900981,
-                        1.314681
-                  ]
-            },
             {
                   "name": "That Aquarium",
                   "text": "Akvárium Geylangban, tengeri élőlényekkel és interaktív tapogató medencékkel.",
@@ -5798,15 +3247,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.867327,
                         1.327098
-                  ]
-            },
-            {
-                  "name": "Former Fort Tanjong Katong",
-                  "text": "Történelmi erődítmény Tanjong Katongban, a partvédelmi maradványokkal.",
-                  "category": "fortress",
-                  "coords": [
-                        103.886753,
-                        1.296758
                   ]
             },
             {
@@ -5828,57 +3268,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eurasian Heritage Gallery",
-                  "text": "Múzeum Geylangban, amely Szingapúr eurázsiai közösségének történetét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.899319,
-                        1.310035
-                  ]
-            },
-            {
-                  "name": "Black Earth Arts Museum",
-                  "text": "Múzeum Geylangban, amely fekete földből készült műalkotásokat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        103.902807,
-                        1.30862
-                  ]
-            },
-            {
-                  "name": "Kwong Wai Shiu Hospital Heritage Gallery",
-                  "text": "Múzeum a Kwong Wai Shiu Kórházban Geylangban, amely a kórház történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.858593,
-                        1.317781
-                  ]
-            },
-            {
-                  "name": "Singapore Sports Museum",
-                  "text": "Múzeum Geylangban, amely Szingapúr sporttörténetének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        103.87341,
-                        1.301347
-                  ]
-            },
-            {
                   "name": "Buddhist Art Centre",
                   "text": "Kulturális központ Geylangban buddhista művészettel és tárgyakkal.",
                   "category": "cultural",
                   "coords": [
                         103.878191,
                         1.312551
-                  ]
-            },
-            {
-                  "name": "Juz Art Studio",
-                  "text": "Művészeti stúdió Geylangban, amely workshopokat és kiállításokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        103.903816,
-                        1.305329
                   ]
             },
             {
@@ -5891,75 +3286,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Street of Peranakan shophouses",
-                  "text": "Egy figyelemre méltó látványosság hagyományos Peranakan üzletházakkal Geylangban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.898986,
-                        1.314196
-                  ]
-            },
-            {
-                  "name": "Archery Range Indoor",
-                  "text": "Fedett íjász pálya Geylangban célgyakorlathoz.",
-                  "category": "landmark",
-                  "coords": [
-                        103.867026,
-                        1.332755
-                  ]
-            },
-            {
-                  "name": "Banyan Tree & Ruin",
-                  "text": "Egy festői látványosság, amely egy banyanfát és romokat mutat be Geylangban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.8664,
-                        1.306683
-                  ]
-            },
-            {
-                  "name": "The Martial Arts Centre",
-                  "text": "Kulturális központ Geylangban, ahol különböző harcművészeteket oktatnak.",
-                  "category": "cultural",
-                  "coords": [
-                        103.862454,
-                        1.310242
-                  ]
-            },
-            {
-                  "name": "XM Studios",
-                  "text": "Múzeum Geylangban, amely az XM Studios tervezői gyűjtőszobrait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.862186,
-                        1.30833
-                  ]
-            },
-            {
-                  "name": "Penarakan Houses",
-                  "text": "Hagyományos házakat bemutató helyi látványosság Geylangban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.904194,
-                        1.310952
-                  ]
-            },
-            {
                   "name": "Ellie Art Studio",
                   "text": "Művészeti stúdió Geylangban Ellie helyi művész alkotásaival.",
                   "category": "museum",
                   "coords": [
                         103.888016,
                         1.333951
-                  ]
-            },
-            {
-                  "name": "Kampong Glam",
-                  "text": "Történelmi maláj negyed Geylangban hagyományos üzletekkel és templomokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        103.862273,
-                        1.301549
                   ]
             },
             {
@@ -5990,33 +3322,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Social",
-                  "text": "Társas művészeti tér Geylangban közösségi művészeti projektekhez.",
-                  "category": "museum",
-                  "coords": [
-                        103.864616,
-                        1.303483
-                  ]
-            },
-            {
-                  "name": "Aesthetic Art Gallery",
-                  "text": "Galéria Geylangban az esztétikus kortárs művészetre összpontosítva.",
-                  "category": "museum",
-                  "coords": [
-                        103.862907,
-                        1.312104
-                  ]
-            },
-            {
-                  "name": "10 Jalan Eunos Gallery Space",
-                  "text": "Galériatér a 10 Jalan Eunos címen Geylangban.",
-                  "category": "museum",
-                  "coords": [
-                        103.906988,
-                        1.31855
-                  ]
-            },
-            {
                   "name": "Little India",
                   "text": "Színes indiai negyed Geylangban élénk boltokkal és templomokkal.",
                   "category": "landmark",
@@ -6035,48 +3340,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Senpaga Vinayagar Temple",
-                  "text": "Egy kiemelkedő hindu templom Geylangban, amely jellegzetes Chola-stílusú építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.90251,
-                        1.305522
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Egy tibeti buddhista templom Geylangban, amely a Gelug és a Nyingma hagyományokat is ápolja.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
                   "name": "Foo Hai Ch'an Monastery",
                   "text": "Foo Hai Ch'an kolostor, egy buddhista kolostor Szingapúr Geylang negyedében.",
                   "category": "landmark",
                   "coords": [
                         103.88849,
                         1.318038
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Aman",
-                  "text": "Egy kiemelkedő mecset Geylangban, amely maláj-iszlám építészeti stílusáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.904649,
-                        1.31798
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Egy ikonikus mecset Geylangban, amely az iszlám és az európai építészeti stílusok egyedi ötvözetét mutatja be.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
                   ]
             },
             {
@@ -6089,75 +3358,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "Egy történelmi buddhista kolostor Geylangban, amely Szingapúr egyik legrégebbi kolostoraként ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330212
-                  ]
-            },
-            {
-                  "name": "Tioh Hin Cho Temple",
-                  "text": "Egy kínai templom Geylangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.905092,
-                        1.316064
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abdul Razak",
-                  "text": "Egy helyi mecset Geylangban, amely a muszlim közösséget szolgálja ki.",
-                  "category": "religious",
-                  "coords": [
-                        103.907312,
-                        1.323431
-                  ]
-            },
-            {
-                  "name": "Mangala Vihara Buddhist Temple",
-                  "text": "Egy buddhista templom Geylangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.905496,
-                        1.319729
-                  ]
-            },
-            {
-                  "name": "Bethany Independent Presbyterian Church",
-                  "text": "Presbiteriánus templom Geylangban, amely a helyi közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        103.881911,
-                        1.344233
-                  ]
-            },
-            {
                   "name": "Jin Long Si Temple",
                   "text": "Egy buddhista templom Geylangban, amely történelmi bódhifájáról nevezetes.",
                   "category": "religious",
                   "coords": [
                         103.889346,
                         1.338647
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Egy théraváda buddhista templom Geylangban, amely a Srí Lanka-i közösséget szolgálja ki.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Egy pünkösdi templom Geylangban, amely az Isten Gyülekezeteihez tartozik.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
                   ]
             },
             {
@@ -6168,90 +3374,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.881228,
                         1.325752
                   ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Egy jelentős hindu templom Geylangban, amelyet Perumal úrnak szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "Sri Vadapathira Kaliamman Temple",
-                  "text": "Káli istennőnek szentelt dél-indiai hindu templom Geylangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.857961,
-                        1.315398
-                  ]
-            },
-            {
-                  "name": "Masjid Malabar",
-                  "text": "Egy gyönyörű mecset Geylangban, amely jellegzetes kék csempés homlokzatáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.859783,
-                        1.305121
-                  ]
-            },
-            {
-                  "name": "Central Sikh Temple",
-                  "text": "Szingapúr első szikh gurudvárája, amely kiemelkedő vallási központként szolgál Geylangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.860425,
-                        1.318848
-                  ]
-            },
-            {
-                  "name": "Masjid Táhá",
-                  "text": "Taha mecset, egy muszlim mecset Szingapúr Geylang negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        103.898054,
-                        1.313639
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Palatul Istana Kampong Glam construit în 1843 în Geylang.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Teatrul Kallang, o sală de spectacole în cartierul Geylang din Singapore.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "Goodman Arts Centre",
-                  "text": "Centru de artă în Geylang, cu spectacole și expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        103.884969,
-                        1.303952
-                  ]
-            },
-            {
-                  "name": "The Intan",
-                  "text": "Muzeu al patrimoniului Peranakan într-o casă tradițională tip shophouse din Geylang.",
-                  "category": "museum",
-                  "coords": [
-                        103.900981,
-                        1.314681
-                  ]
-            },
             {
                   "name": "That Aquarium",
                   "text": "Acvariu în Geylang cu viață marină și bazine interactive de atingere.",
@@ -6268,15 +3393,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.867327,
                         1.327098
-                  ]
-            },
-            {
-                  "name": "Former Fort Tanjong Katong",
-                  "text": "Fostul fort din Tanjong Katong, cu rămășițe ale apărării de coastă.",
-                  "category": "fortress",
-                  "coords": [
-                        103.886753,
-                        1.296758
                   ]
             },
             {
@@ -6298,57 +3414,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eurasian Heritage Gallery",
-                  "text": "Muzeu în Geylang care prezintă istoria și cultura comunității eurasiatice din Singapore.",
-                  "category": "museum",
-                  "coords": [
-                        103.899319,
-                        1.310035
-                  ]
-            },
-            {
-                  "name": "Black Earth Arts Museum",
-                  "text": "Muzeu în Geylang care expune opere de artă realizate din pământ negru.",
-                  "category": "museum",
-                  "coords": [
-                        103.902807,
-                        1.30862
-                  ]
-            },
-            {
-                  "name": "Kwong Wai Shiu Hospital Heritage Gallery",
-                  "text": "Muzeu în cadrul Spitalului Kwong Wai Shiu din Geylang, care prezintă istoria acestuia.",
-                  "category": "museum",
-                  "coords": [
-                        103.858593,
-                        1.317781
-                  ]
-            },
-            {
-                  "name": "Singapore Sports Museum",
-                  "text": "Muzeu în Geylang dedicat istoriei sportului din Singapore.",
-                  "category": "museum",
-                  "coords": [
-                        103.87341,
-                        1.301347
-                  ]
-            },
-            {
                   "name": "Buddhist Art Centre",
                   "text": "Centru cultural în Geylang cu artă și artefacte budiste.",
                   "category": "cultural",
                   "coords": [
                         103.878191,
                         1.312551
-                  ]
-            },
-            {
-                  "name": "Juz Art Studio",
-                  "text": "Studio de artă în Geylang care oferă ateliere și expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        103.903816,
-                        1.305329
                   ]
             },
             {
@@ -6361,75 +3432,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Street of Peranakan shophouses",
-                  "text": "O atracție notabilă care prezintă case-magazin tradiționale Peranakan în Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.898986,
-                        1.314196
-                  ]
-            },
-            {
-                  "name": "Archery Range Indoor",
-                  "text": "Sală de tir cu arcul în Geylang pentru antrenament la țintă.",
-                  "category": "landmark",
-                  "coords": [
-                        103.867026,
-                        1.332755
-                  ]
-            },
-            {
-                  "name": "Banyan Tree & Ruin",
-                  "text": "O atracție pitorească care prezintă un copac banyan și ruine în Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.8664,
-                        1.306683
-                  ]
-            },
-            {
-                  "name": "The Martial Arts Centre",
-                  "text": "Centru cultural în Geylang care oferă antrenamente în diverse arte marțiale.",
-                  "category": "cultural",
-                  "coords": [
-                        103.862454,
-                        1.310242
-                  ]
-            },
-            {
-                  "name": "XM Studios",
-                  "text": "Muzeu în Geylang cu statui de colecție de designer de la XM Studios.",
-                  "category": "museum",
-                  "coords": [
-                        103.862186,
-                        1.30833
-                  ]
-            },
-            {
-                  "name": "Penarakan Houses",
-                  "text": "O atracție locală care prezintă case tradiționale în Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.904194,
-                        1.310952
-                  ]
-            },
-            {
                   "name": "Ellie Art Studio",
                   "text": "Studio de artă în Geylang cu lucrări ale artistei locale Ellie.",
                   "category": "museum",
                   "coords": [
                         103.888016,
                         1.333951
-                  ]
-            },
-            {
-                  "name": "Kampong Glam",
-                  "text": "Cartier istoric malaez în Geylang cu magazine și temple tradiționale.",
-                  "category": "landmark",
-                  "coords": [
-                        103.862273,
-                        1.301549
                   ]
             },
             {
@@ -6460,33 +3468,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Social",
-                  "text": "Spațiu de artă socială în Geylang pentru proiecte artistice comunitare.",
-                  "category": "museum",
-                  "coords": [
-                        103.864616,
-                        1.303483
-                  ]
-            },
-            {
-                  "name": "Aesthetic Art Gallery",
-                  "text": "Galerie în Geylang axată pe arta contemporană estetică.",
-                  "category": "museum",
-                  "coords": [
-                        103.862907,
-                        1.312104
-                  ]
-            },
-            {
-                  "name": "10 Jalan Eunos Gallery Space",
-                  "text": "Spațiu de galerie la 10 Jalan Eunos în Geylang.",
-                  "category": "museum",
-                  "coords": [
-                        103.906988,
-                        1.31855
-                  ]
-            },
-            {
                   "name": "Little India",
                   "text": "Cartier indian vibrant în Geylang cu magazine colorate și temple.",
                   "category": "landmark",
@@ -6505,48 +3486,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Senpaga Vinayagar Temple",
-                  "text": "Un templu hindus proeminent din Geylang, cunoscut pentru arhitectura sa distinctivă în stil Chola.",
-                  "category": "religious",
-                  "coords": [
-                        103.90251,
-                        1.305522
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Un templu budist tibetan din Geylang care promovează atât tradițiile Gelug, cât și cele Nyingma.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
                   "name": "Foo Hai Ch'an Monastery",
                   "text": "Mănăstirea Foo Hai Ch'an, o mănăstire budistă în cartierul Geylang din Singapore.",
                   "category": "landmark",
                   "coords": [
                         103.88849,
                         1.318038
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Aman",
-                  "text": "O moschee proeminentă din Geylang, recunoscută pentru stilul său arhitectural malaezo-islamic.",
-                  "category": "religious",
-                  "coords": [
-                        103.904649,
-                        1.31798
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "O moschee emblematică din Geylang, caracterizată printr-un amestec unic de stiluri arhitecturale islamice și europene.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
                   ]
             },
             {
@@ -6559,75 +3504,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "O mănăstire budistă istorică din Geylang, cunoscută drept una dintre cele mai vechi din Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330212
-                  ]
-            },
-            {
-                  "name": "Tioh Hin Cho Temple",
-                  "text": "Un templu chinezesc în Geylang.",
-                  "category": "religious",
-                  "coords": [
-                        103.905092,
-                        1.316064
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abdul Razak",
-                  "text": "O moschee locală situată în Geylang, care deservește comunitatea musulmană.",
-                  "category": "religious",
-                  "coords": [
-                        103.907312,
-                        1.323431
-                  ]
-            },
-            {
-                  "name": "Mangala Vihara Buddhist Temple",
-                  "text": "Un templu budist în Geylang.",
-                  "category": "religious",
-                  "coords": [
-                        103.905496,
-                        1.319729
-                  ]
-            },
-            {
-                  "name": "Bethany Independent Presbyterian Church",
-                  "text": "Biserică prezbiteriană în Geylang care slujește comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        103.881911,
-                        1.344233
-                  ]
-            },
-            {
                   "name": "Jin Long Si Temple",
                   "text": "Un templu budist în Geylang, remarcat pentru istoricul său copac bodhi.",
                   "category": "religious",
                   "coords": [
                         103.889346,
                         1.338647
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Un templu budist Theravada din Geylang care deservește comunitatea srilankeză.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "O biserică penticostală din Geylang aparținând Adunărilor lui Dumnezeu.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
                   ]
             },
             {
@@ -6638,90 +3520,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.881228,
                         1.325752
                   ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Un templu hindus semnificativ din Geylang dedicat Domnului Perumal.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "Sri Vadapathira Kaliamman Temple",
-                  "text": "Un templu hindus sud-indian din Geylang dedicat zeiței Kali.",
-                  "category": "religious",
-                  "coords": [
-                        103.857961,
-                        1.315398
-                  ]
-            },
-            {
-                  "name": "Masjid Malabar",
-                  "text": "O moschee frumoasă din Geylang, cunoscută pentru fațada sa distinctă cu plăci albastre.",
-                  "category": "religious",
-                  "coords": [
-                        103.859783,
-                        1.305121
-                  ]
-            },
-            {
-                  "name": "Central Sikh Temple",
-                  "text": "Primul gurdwara sikh din Singapore, servind ca un centru religios proeminent în Geylang.",
-                  "category": "religious",
-                  "coords": [
-                        103.860425,
-                        1.318848
-                  ]
-            },
-            {
-                  "name": "Masjid Táhá",
-                  "text": "Moscheea Taha, o moschee musulmană în cartierul Geylang din Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.898054,
-                        1.313639
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam palace built in 1843 in Geylang.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Kallang Theatre, a performing arts venue in the Geylang district.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "Goodman Arts Centre",
-                  "text": "Arts centre in Geylang hosting performances and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        103.884969,
-                        1.303952
-                  ]
-            },
-            {
-                  "name": "The Intan",
-                  "text": "Peranakan heritage museum in a traditional shophouse in Geylang.",
-                  "category": "museum",
-                  "coords": [
-                        103.900981,
-                        1.314681
-                  ]
-            },
             {
                   "name": "That Aquarium",
                   "text": "Aquarium in Geylang featuring marine life and interactive touch pools.",
@@ -6738,15 +3539,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.867327,
                         1.327098
-                  ]
-            },
-            {
-                  "name": "Former Fort Tanjong Katong",
-                  "text": "Historic fort site in Tanjong Katong with remnants of coastal defenses.",
-                  "category": "fortress",
-                  "coords": [
-                        103.886753,
-                        1.296758
                   ]
             },
             {
@@ -6768,57 +3560,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eurasian Heritage Gallery",
-                  "text": "Museum in Geylang showcasing the history and culture of Singapore's Eurasian community.",
-                  "category": "museum",
-                  "coords": [
-                        103.899319,
-                        1.310035
-                  ]
-            },
-            {
-                  "name": "Black Earth Arts Museum",
-                  "text": "Museum in Geylang specializing in art made from black earth pigments.",
-                  "category": "museum",
-                  "coords": [
-                        103.902807,
-                        1.30862
-                  ]
-            },
-            {
-                  "name": "Kwong Wai Shiu Hospital Heritage Gallery",
-                  "text": "Heritage gallery within Kwong Wai Shiu Hospital in Geylang, showcasing its history.",
-                  "category": "museum",
-                  "coords": [
-                        103.858593,
-                        1.317781
-                  ]
-            },
-            {
-                  "name": "Singapore Sports Museum",
-                  "text": "Museum in Geylang dedicated to Singapore's sporting history and achievements.",
-                  "category": "museum",
-                  "coords": [
-                        103.87341,
-                        1.301347
-                  ]
-            },
-            {
                   "name": "Buddhist Art Centre",
                   "text": "Cultural centre in Geylang displaying Buddhist art and artifacts.",
                   "category": "cultural",
                   "coords": [
                         103.878191,
                         1.312551
-                  ]
-            },
-            {
-                  "name": "Juz Art Studio",
-                  "text": "Art studio in Geylang offering creative workshops and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        103.903816,
-                        1.305329
                   ]
             },
             {
@@ -6831,75 +3578,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Street of Peranakan shophouses",
-                  "text": "A notable attraction featuring traditional Peranakan shophouses in Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.898986,
-                        1.314196
-                  ]
-            },
-            {
-                  "name": "Archery Range Indoor",
-                  "text": "Indoor archery range in Geylang for target practice.",
-                  "category": "landmark",
-                  "coords": [
-                        103.867026,
-                        1.332755
-                  ]
-            },
-            {
-                  "name": "Banyan Tree & Ruin",
-                  "text": "A scenic attraction featuring a banyan tree and ruins in Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.8664,
-                        1.306683
-                  ]
-            },
-            {
-                  "name": "The Martial Arts Centre",
-                  "text": "Cultural centre in Geylang offering training in various martial arts disciplines.",
-                  "category": "cultural",
-                  "coords": [
-                        103.862454,
-                        1.310242
-                  ]
-            },
-            {
-                  "name": "XM Studios",
-                  "text": "Museum in Geylang showcasing designer collectible statues by XM Studios.",
-                  "category": "museum",
-                  "coords": [
-                        103.862186,
-                        1.30833
-                  ]
-            },
-            {
-                  "name": "Penarakan Houses",
-                  "text": "A local attraction featuring traditional houses in Geylang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.904194,
-                        1.310952
-                  ]
-            },
-            {
                   "name": "Ellie Art Studio",
                   "text": "Art studio in Geylang featuring works by local artist Ellie.",
                   "category": "museum",
                   "coords": [
                         103.888016,
                         1.333951
-                  ]
-            },
-            {
-                  "name": "Kampong Glam",
-                  "text": "Historic Malay enclave in Geylang with traditional shophouses and cultural heritage.",
-                  "category": "landmark",
-                  "coords": [
-                        103.862273,
-                        1.301549
                   ]
             },
             {
@@ -6930,33 +3614,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Social",
-                  "text": "Social art space in Geylang for community art projects and workshops.",
-                  "category": "museum",
-                  "coords": [
-                        103.864616,
-                        1.303483
-                  ]
-            },
-            {
-                  "name": "Aesthetic Art Gallery",
-                  "text": "Gallery in Geylang focusing on aesthetic contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        103.862907,
-                        1.312104
-                  ]
-            },
-            {
-                  "name": "10 Jalan Eunos Gallery Space",
-                  "text": "Gallery space at 10 Jalan Eunos in Geylang.",
-                  "category": "museum",
-                  "coords": [
-                        103.906988,
-                        1.31855
-                  ]
-            },
-            {
                   "name": "Little India",
                   "text": "Vibrant Indian ethnic enclave in Geylang with colourful shops and temples.",
                   "category": "landmark",
@@ -6975,48 +3632,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Senpaga Vinayagar Temple",
-                  "text": "A prominent Hindu temple in Geylang known for its distinctive Chola-style architecture.",
-                  "category": "religious",
-                  "coords": [
-                        103.90251,
-                        1.305522
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "A Tibetan Buddhist temple in Geylang that promotes both the Gelug and Nyingma traditions.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
                   "name": "Foo Hai Ch'an Monastery",
                   "text": "Foo Hai Ch'an Monastery, a Buddhist monastery in the Geylang area.",
                   "category": "landmark",
                   "coords": [
                         103.88849,
                         1.318038
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Aman",
-                  "text": "A prominent mosque in Geylang recognized for its Malay-Islamic architectural style.",
-                  "category": "religious",
-                  "coords": [
-                        103.904649,
-                        1.31798
-                  ]
-            },
-            {
-                  "name": "Hajjah Fatimah Mosque",
-                  "text": "An iconic mosque in Geylang featuring a unique mix of Islamic and European architectural styles.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
                   ]
             },
             {
@@ -7029,51 +3650,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "A historic Buddhist monastery in Geylang, known as one of the oldest in Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330212
-                  ]
-            },
-            {
-                  "name": "Tioh Hin Cho Temple",
-                  "text": "A Chinese temple in Geylang.",
-                  "category": "religious",
-                  "coords": [
-                        103.905092,
-                        1.316064
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abdul Razak",
-                  "text": "A local mosque situated in Geylang serving the Muslim community.",
-                  "category": "religious",
-                  "coords": [
-                        103.907312,
-                        1.323431
-                  ]
-            },
-            {
-                  "name": "Mangala Vihara Buddhist Temple",
-                  "text": "A Buddhist temple in Geylang.",
-                  "category": "religious",
-                  "coords": [
-                        103.905496,
-                        1.319729
-                  ]
-            },
-            {
-                  "name": "Bethany Independent Presbyterian Church",
-                  "text": "Presbyterian church in Geylang serving the local community.",
-                  "category": "religious",
-                  "coords": [
-                        103.881911,
-                        1.344233
-                  ]
-            },
-            {
                   "name": "Jin Long Si Temple",
                   "text": "A Buddhist temple in Geylang, noted for its historic bodhi tree.",
                   "category": "religious",
@@ -7083,75 +3659,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "A Theravada Buddhist temple in Geylang serving the Sri Lankan community.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "A Pentecostal church in Geylang belonging to the Assemblies of God.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
                   "name": "Masjid Sallim Mattar",
                   "text": "A mosque in Geylang that serves the local Muslim congregation.",
                   "category": "religious",
                   "coords": [
                         103.881228,
                         1.325752
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "A significant Hindu temple in Geylang dedicated to Lord Perumal.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "Sri Vadapathira Kaliamman Temple",
-                  "text": "A South Indian Hindu temple in Geylang dedicated to the goddess Kali.",
-                  "category": "religious",
-                  "coords": [
-                        103.857961,
-                        1.315398
-                  ]
-            },
-            {
-                  "name": "Masjid Malabar",
-                  "text": "A beautiful mosque in Geylang known for its distinct blue tile facade.",
-                  "category": "religious",
-                  "coords": [
-                        103.859783,
-                        1.305121
-                  ]
-            },
-            {
-                  "name": "Central Sikh Temple",
-                  "text": "The first Sikh gurdwara in Singapore, serving as a prominent religious center in Geylang.",
-                  "category": "religious",
-                  "coords": [
-                        103.860425,
-                        1.318848
-                  ]
-            },
-            {
-                  "name": "Taha Mosque",
-                  "text": "Taha Mosque, a Muslim mosque in the Geylang neighbourhood.",
-                  "category": "religious",
-                  "coords": [
-                        103.898054,
-                        1.313639
                   ]
             }
       ]
@@ -7206,141 +3719,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "kallang-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mint Museum of Toys",
-                  "text": "Mint Museum of Toys, ein Museum für Spielzeug aus vergangenen Epochen im Kallang-Distrikt.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Battlebox-Besucherzentrum, ein unterirdischer Bunker aus dem Zweiten Weltkrieg im Kallang-Viertel.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "National Gallery Singapore, ein Kunstmuseum mit südostasiatischer Kunst im Kallang-Distrikt.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Objectifs – Zentrum für Fotografie und Film, Ausstellungsort für zeitgenössische Fotografie in Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "1843 erbauter Palast Istana Kampong Glam in Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "1887 erbautes Nationalmuseum von Singapur in Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Der Istana ist ein historischer Palast und der Amtssitz des Präsidenten in Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Das Asian Civilisations Museum ist ein bedeutendes Museum in Kallang, das das reiche kulturelle Erbe Asiens beleuchtet.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "1912 erbautes Peranakan-Museum in Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek ist eine bedeutende historische, schlossartige Residenz in Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Indian Heritage Centre, ein Museum zur indischen Kultur und Geschichte im Kallang-Stadtteil.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Tan-Kim-Seng-Brunnen, ein historischer gusseiserner Brunnen im Kallang-Viertel.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay ist ein bekanntes Theater in Kallang, das für seine markante Architektur berühmt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Kallang Theatre, ein Veranstaltungsort für Theater- und Musikaufführungen in Kallang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "National Design Centre, ein Ausstellungs- und Veranstaltungsort für Design in Kallang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
                   "name": "Thekchen Choling",
                   "text": "Thekchen Choling ist eine bekannte tibetisch-buddhistische Kultstätte in Kallang.",
                   "category": "religious",
@@ -7350,255 +3728,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Sri-Thendayuthapani-Tempel, ein hinduistischer Murugan-Tempel im Kallang-Viertel.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Sri Sivan Temple",
-                  "text": "Der Sri Sivan Temple ist eine bedeutende hinduistische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.888676,
-                        1.318415
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Der Kwan Im Thong Hood Cho Temple ist eine weithin bekannte traditionelle chinesische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Die Saint Andrew's Cathedral ist eine bedeutende anglikanische Kultstätte in der Region Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Die Cathedral of the Good Shepherd ist eine anerkannte und historische katholische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Die Church of Saints Peter and Paul ist eine bedeutende historische katholische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Die Masjid Sultan ist eine prominente und historische islamische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri-Veeramakaliamman-Tempel, ein hinduistischer Kali-Tempel im Kallang-Stadtteil.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Church of the Risen Christ",
-                  "text": "Die Church of the Risen Christ ist eine bedeutende katholische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.850745,
-                        1.334843
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Die Orchard Road Presbyterian Church ist eine anerkannte historische christliche Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Die Armenian Church of Saint Gregory the Illuminator ist eine historische christliche Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "2004 erbaute Bencoolen-Moschee in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Die Prinsep St. Presbyterian Church ist eine anerkannte historische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Die Chesed-El Synagogue ist eine bedeutende jüdische Kultstätte mit historischer Bedeutung in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Die Church of the Sacred Heart ist eine bedeutende katholische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Die Masjid Abdul Gafoor ist eine anerkannte islamische Kultstätte in Kallang, die für ihre einzigartige Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Die Kampong Kapor Methodist Church ist eine historische christliche Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Hajjah-Fatimah-Moschee mit einem auffälligen Minarett im Kallang-Distrikt.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Die Church of Our Lady of Lourdes ist eine bekannte katholische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Leng Ern Jee Temple",
-                  "text": "Der Leng Ern Jee Temple ist eine anerkannte traditionelle Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.847678,
-                        1.327252
-                  ]
-            },
-            {
-                  "name": "Burmese Buddhist Temple",
-                  "text": "Burmesischer Buddhistentempel, ein Tempel der burmesischen Buddhisten in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.846941,
-                        1.328431
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "St.-Alphonsus-Kirche, eine römisch-katholische Kirche im Kallang-Viertel.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Sri Sivadurga Temple",
-                  "text": "Der Sri Sivadurga Temple ist eine anerkannte hinduistische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.86651,
-                        1.331763
-                  ]
-            },
-            {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "Das Lian Shan Shuang Lin Monastery ist eine historische und bedeutende buddhistische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330195
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Die Masjid Hajjah Rahimabi Kebun Limau ist eine anerkannte islamische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Sri-lankischer buddhistischer Tempel in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
                   "name": "Elim Church Assembly Of God",
                   "text": "Die Elim Church Assembly Of God ist eine bedeutende christliche Kultstätte in Kallang.",
                   "category": "religious",
                   "coords": [
                         103.864249,
                         1.323905
-                  ]
-            },
-            {
-                  "name": "Masjid Sallim Mattar",
-                  "text": "Die Masjid Sallim Mattar ist eine anerkannte islamische Kultstätte in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.881228,
-                        1.325752
                   ]
             },
             {
@@ -7618,198 +3753,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.857961,
                         1.315398
                   ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "The Lighthouse ist ein bedeutender historischer Leuchtturm in der Region Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Former Malay Film Productions ist eine anerkannte historische Attraktion in Kallang, die mit der lokalen Filmindustrie verbunden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "Die Balestier Art Deco shophouses sind eine bedeutende architektonische Attraktion in Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
-                  ]
-            },
-            {
-                  "name": "Sim Kwong Ho shophouses",
-                  "text": "Die Sim Kwong Ho shophouses sind eine anerkannte historische architektonische Attraktion in Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852534,
-                        1.323241
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill ist ein bekanntes Naturschutzgebiet und eine Attraktion in Kallang, die für ihre historische Architektur bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "Das House of Tan Teng Niah ist eine farbenfrohe und historische architektonische Attraktion in Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Mint Játékmúzeum, egy vintage játékokat bemutató múzeum a Kallang negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Battlebox Látogatóközpont, egy második világháborús föld alatti bunker a Kallang negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "National Gallery Singapore, egy délkelet-ázsiai művészeti múzeum a Kallang negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Objectifs – Fotográfiai és Filmművészeti Központ, kortárs fotókiállítások helyszíne a Kallang negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "1843-ban épült Istana Kampong Glam palota Kallangban.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "1887-ben épült Szingapúri Nemzeti Múzeum Kallangban.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Az Istana a köztársasági elnök hivatalos rezidenciája és egy történelmi palota Kallang városában.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Az Asian Civilisations Museum egy jelentős múzeum Kallangban, amely Ázsia gazdag kulturális örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "1912-ben épült Peranakan Múzeum Kallangban.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "A Sri Temasek egy jelentős történelmi, kastélyszerű rezidencia Kallangban.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Indian Heritage Centre, egy indiai kultúrát és történelmet bemutató múzeum a Kallang negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Tan Kim Seng szökőkút, egy történelmi öntöttvas szökőkút a Kallang negyedben.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Az Esplanade Theatres on the Bay egy kiemelkedő színház Kallangban, amely jellegzetes építészetéről híres.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Kallang Színház, színházi és zenei előadások helyszíne a Kallang negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "Nemzeti Design Központ, kiállítási és rendezvényhelyszín a dizájn területén a Kallang negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
             {
                   "name": "Thekchen Choling",
                   "text": "A Thekchen Choling egy jól ismert tibeti buddhista istentiszteleti hely Kallangban.",
@@ -7820,255 +3766,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Sri Thendayuthapani templom, egy hindu Murugan-templom a Kallang negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Sri Sivan Temple",
-                  "text": "A Sri Sivan Temple egy jelentős hindu istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.888676,
-                        1.318415
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "A Kwan Im Thong Hood Cho Temple egy széles körben elismert hagyományos kínai istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "A Saint Andrew's Cathedral egy jelentős anglikán istentiszteleti hely Kallang régiójában.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "A Cathedral of the Good Shepherd egy elismert és történelmi katolikus istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "A Church of Saints Peter and Paul egy jelentős történelmi katolikus istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "A Masjid Sultan egy kiemelkedő és történelmi iszlám istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri Veeramakaliamman templom, egy hindu Káli-templom a Kallang negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Church of the Risen Christ",
-                  "text": "A Church of the Risen Christ egy jelentős katolikus istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.850745,
-                        1.334843
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Az Orchard Road Presbyterian Church egy elismert történelmi keresztény istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Az Armenian Church of Saint Gregory the Illuminator egy történelmi keresztény istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "2004-ben épült Bencoolen mecset Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "A Prinsep St. Presbyterian Church egy elismert történelmi istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "A Chesed-El Synagogue egy történelmi jelentőségű zsidó istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "A Church of the Sacred Heart egy kiemelkedő katolikus istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "A Masjid Abdul Gafoor egy elismert iszlám istentiszteleti hely Kallangban, amely egyedi építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "A Kampong Kapor Methodist Church egy történelmi keresztény istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Hajjah Fatimah mecset, jellegzetes minarettel a Kallang negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "A Church of Our Lady of Lourdes egy jól ismert katolikus istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Leng Ern Jee Temple",
-                  "text": "A Leng Ern Jee Temple egy elismert hagyományos istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.847678,
-                        1.327252
-                  ]
-            },
-            {
-                  "name": "Burmese Buddhist Temple",
-                  "text": "Burmai buddhista templom, egy burmai buddhista szentély a Kallang negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.846941,
-                        1.328431
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Szent Alfonz templom, egy római katolikus templom a Kallang negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Sri Sivadurga Temple",
-                  "text": "A Sri Sivadurga Temple egy elismert hindu istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.86651,
-                        1.331763
-                  ]
-            },
-            {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "A Lian Shan Shuang Lin Monastery egy történelmi és jelentős buddhista istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330195
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "A Masjid Hajjah Rahimabi Kebun Limau egy elismert iszlám istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Srí Lanka-i buddhista templom Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
                   "name": "Elim Church Assembly Of God",
                   "text": "Az Elim Church Assembly Of God egy jelentős keresztény istentiszteleti hely Kallangban.",
                   "category": "religious",
                   "coords": [
                         103.864249,
                         1.323905
-                  ]
-            },
-            {
-                  "name": "Masjid Sallim Mattar",
-                  "text": "A Masjid Sallim Mattar egy elismert iszlám istentiszteleti hely Kallangban.",
-                  "category": "religious",
-                  "coords": [
-                        103.881228,
-                        1.325752
                   ]
             },
             {
@@ -8088,198 +3791,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.857961,
                         1.315398
                   ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "A The Lighthouse egy jelentős történelmi világítótorony Kallang régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "A Former Malay Film Productions egy elismert történelmi látványosság Kallangban, amely a helyi filmiparhoz kapcsolódik.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "A Balestier Art Deco shophouses egy jelentős építészeti látványosság Kallangban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
-                  ]
-            },
-            {
-                  "name": "Sim Kwong Ho shophouses",
-                  "text": "A Sim Kwong Ho shophouses egy elismert történelmi építészeti látványosság Kallangban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852534,
-                        1.323241
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Az Emerald Hill egy kiemelkedő természetvédelmi terület és látványosság Kallangban, amely történelmi építészetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "A House of Tan Teng Niah egy színes és történelmi építészeti látványosság Kallangban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Muzeul de Jucării Mint, un muzeu cu jucării retro în districtul Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Centrul de Vizitare Battlebox, un buncăr subteran din cel de-al Doilea Război Mondial în cartierul Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Galeria Națională Singapore, un muzeu de artă cu lucrări din Asia de Sud-Est în districtul Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Objectifs – Centru pentru Fotografie și Film, spațiu expozițional de fotografie contemporană în Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Palatul Istana Kampong Glam construit în 1843 în Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Muzeul Național al Singapore construit în 1887 în Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Istana este un palat istoric și reședința oficială a președintelui, situat în Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Asian Civilisations Museum este un muzeu notabil din Kallang care explorează patrimoniul cultural divers al Asiei.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Muzeul Peranakan construit în 1912 în Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek este o reședință istorică notabilă, asemănătoare unui castel, din Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Indian Heritage Centre, un muzeu dedicat culturii și istoriei indiene în cartierul Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Fântâna Tan Kim Seng, o fântână istorică din fontă în districtul Kallang.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay este un teatru proeminent din Kallang, faimos pentru arhitectura sa distinctivă.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Teatrul Kallang, un loc pentru spectacole de teatru și muzică în cartierul Kallang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "Centrul Național de Design, un spațiu expozițional și de evenimente de design în Kallang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
             {
                   "name": "Thekchen Choling",
                   "text": "Thekchen Choling este un cunoscut lăcaș de cult budist tibetan din Kallang.",
@@ -8290,255 +3804,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Templul Sri Thendayuthapani, un templu hindus dedicat lui Murugan în cartierul Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Sri Sivan Temple",
-                  "text": "Sri Sivan Temple este un lăcaș de cult hindus notabil din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.888676,
-                        1.318415
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Kwan Im Thong Hood Cho Temple este un lăcaș de cult tradițional chinezesc recunoscut pe scară largă din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Saint Andrew's Cathedral este un lăcaș de cult anglican notabil din regiunea Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Cathedral of the Good Shepherd este un lăcaș de cult catolic recunoscut și istoric din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Church of Saints Peter and Paul este un lăcaș de cult catolic istoric notabil din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Masjid Sultan este un lăcaș de cult islamic proeminent și istoric din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Templul Sri Veeramakaliamman, un templu hindus dedicat zeiței Kali în districtul Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Church of the Risen Christ",
-                  "text": "Church of the Risen Christ este un lăcaș de cult catolic notabil situat în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.850745,
-                        1.334843
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Orchard Road Presbyterian Church este un lăcaș de cult creștin istoric și recunoscut din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Armenian Church of Saint Gregory the Illuminator este un lăcaș de cult creștin istoric din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Moscheea Bencoolen construită în 2004 în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Prinsep St. Presbyterian Church este un lăcaș de cult istoric recunoscut situat în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue este un lăcaș de cult evreiesc notabil, cu importanță istorică în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Church of the Sacred Heart este un lăcaș de cult catolic proeminent situat în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Masjid Abdul Gafoor este un lăcaș de cult islamic recunoscut, cunoscut pentru arhitectura sa unică din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Kampong Kapor Methodist Church este un lăcaș de cult creștin istoric situat în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Moscheea Hajjah Fatimah, cu un minaret distinctiv, în districtul Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Church of Our Lady of Lourdes este un lăcaș de cult catolic bine cunoscut din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Leng Ern Jee Temple",
-                  "text": "Leng Ern Jee Temple este un lăcaș de cult tradițional recunoscut situat în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.847678,
-                        1.327252
-                  ]
-            },
-            {
-                  "name": "Burmese Buddhist Temple",
-                  "text": "Templul Budist Birman, un lăcaș de cult budist birman în cartierul Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.846941,
-                        1.328431
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Biserica Sf. Alfons, o biserică romano-catolică în districtul Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Sri Sivadurga Temple",
-                  "text": "Sri Sivadurga Temple este un lăcaș de cult hindus recunoscut situat în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.86651,
-                        1.331763
-                  ]
-            },
-            {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "Lian Shan Shuang Lin Monastery este un lăcaș de cult budist istoric și notabil din Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330195
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Masjid Hajjah Rahimabi Kebun Limau este un lăcaș de cult islamic recunoscut situat în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Templu budist sri-lankez în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
                   "name": "Elim Church Assembly Of God",
                   "text": "Elim Church Assembly Of God este un lăcaș de cult creștin notabil situat în Kallang.",
                   "category": "religious",
                   "coords": [
                         103.864249,
                         1.323905
-                  ]
-            },
-            {
-                  "name": "Masjid Sallim Mattar",
-                  "text": "Masjid Sallim Mattar este un lăcaș de cult islamic recunoscut situat în Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.881228,
-                        1.325752
                   ]
             },
             {
@@ -8558,198 +3829,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.857961,
                         1.315398
                   ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "The Lighthouse este un far istoric notabil situat în regiunea Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Former Malay Film Productions este o atracție istorică recunoscută din Kallang, legată de industria cinematografică locală.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "Balestier Art Deco shophouses sunt o atracție arhitecturală notabilă din Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
-                  ]
-            },
-            {
-                  "name": "Sim Kwong Ho shophouses",
-                  "text": "Sim Kwong Ho shophouses reprezintă o atracție arhitecturală istorică recunoscută din Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852534,
-                        1.323241
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill este o zonă de conservare proeminentă și o atracție din Kallang, cunoscută pentru arhitectura sa istorică.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "House of Tan Teng Niah este o atracție arhitecturală istorică și colorată din Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Mint Museum of Toys, a museum showcasing vintage toys in the Kallang district.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Battlebox Visitor Centre, a WWII underground command centre in the Kallang area.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "National Gallery Singapore, an art museum featuring Southeast Asian art in the Kallang district.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Objectifs – Centre for Photography and Film, a contemporary photography exhibition space in Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam palace built in 1843 in Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "National Museum of Singapore built in 1887 in Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "The Istana is a historic palace and the official residence of the President, located in Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "The Asian Civilisations Museum is a notable museum in Kallang exploring the diverse cultural heritage of Asia.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Peranakan Museum built in 1912 in Kallang.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek is a notable historic castle-like residence located in Kallang.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Indian Heritage Centre, a museum on Indian culture and heritage in the Kallang area.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Tan Kim Seng Fountain, a historic cast-iron fountain in the Kallang district.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay is a prominent performing arts theatre in Kallang, famous for its distinctive architecture.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Kallang Theatre, a venue for theatre and music performances in Kallang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "National Design Centre, an exhibition and event space for design in Kallang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
             {
                   "name": "Thekchen Choling",
                   "text": "Thekchen Choling is a well-known Tibetan Buddhist place of worship in Kallang.",
@@ -8760,255 +3842,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Sri Thendayuthapani Temple, a Hindu temple dedicated to Murugan in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Sri Sivan Temple",
-                  "text": "Sri Sivan Temple is a notable Hindu place of worship located in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.888676,
-                        1.318415
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Kwan Im Thong Hood Cho Temple is a widely recognized traditional Chinese place of worship in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Saint Andrew's Cathedral is a notable Anglican place of worship in the region of Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "The Cathedral of the Good Shepherd is a recognized and historic Catholic place of worship in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "The Church of Saints Peter and Paul is a notable historic Catholic place of worship in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Masjid Sultan is a prominent and historic Islamic place of worship in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri Veeramakaliamman Temple, a Hindu temple dedicated to Kali in the Kallang area.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Church of the Risen Christ",
-                  "text": "The Church of the Risen Christ is a notable Catholic place of worship located in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.850745,
-                        1.334843
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Orchard Road Presbyterian Church is a recognized historic Christian place of worship in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "The Armenian Church of Saint Gregory the Illuminator is a notable historic Christian place of worship in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen built in 2004 in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Prinsep St. Presbyterian Church is a recognized historic place of worship located in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue is a notable Jewish place of worship with historic significance in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "The Church of the Sacred Heart is a prominent Catholic place of worship situated in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Masjid Abdul Gafoor is a recognized Islamic place of worship known for its unique architecture in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Kampong Kapor Methodist Church is a historic Christian place of worship located in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Hajjah Fatimah Mosque",
-                  "text": "Hajjah Fatimah Mosque, featuring a distinctive minaret in the Kallang district.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "The Church of Our Lady of Lourdes is a well-known Catholic place of worship in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Leng Ern Jee Temple",
-                  "text": "Leng Ern Jee Temple is a recognized traditional place of worship situated in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.847678,
-                        1.327252
-                  ]
-            },
-            {
-                  "name": "Burmese Buddhist Temple",
-                  "text": "Burmese Buddhist Temple, a place of worship for Burmese Buddhists in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.846941,
-                        1.328431
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Church of St Alphonsus, a Roman Catholic church in the Kallang area.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Sri Sivadurga Temple",
-                  "text": "Sri Sivadurga Temple is a recognized Hindu place of worship located in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.86651,
-                        1.331763
-                  ]
-            },
-            {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "Lian Shan Shuang Lin Monastery is a historic and notable Buddhist place of worship in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330195
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Masjid Hajjah Rahimabi Kebun Limau is a recognized Islamic place of worship located in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Sri Lankan Buddhist temple in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
                   "name": "Elim Church Assembly Of God",
                   "text": "Elim Church Assembly Of God is a notable Christian place of worship situated in Kallang.",
                   "category": "religious",
                   "coords": [
                         103.864249,
                         1.323905
-                  ]
-            },
-            {
-                  "name": "Masjid Sallim Mattar",
-                  "text": "Masjid Sallim Mattar is a recognized Islamic place of worship located in Kallang.",
-                  "category": "religious",
-                  "coords": [
-                        103.881228,
-                        1.325752
                   ]
             },
             {
@@ -9027,60 +3866,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.857961,
                         1.315398
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "The Lighthouse is a notable historic lighthouse structure located in the region of Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Former Malay Film Productions is a recognized historic attraction in Kallang linked to the local film industry.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "The Balestier Art Deco shophouses are a notable architectural attraction in Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
-                  ]
-            },
-            {
-                  "name": "Sim Kwong Ho shophouses",
-                  "text": "The Sim Kwong Ho shophouses are a recognized historic architectural attraction situated in Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852534,
-                        1.323241
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill is a prominent conservation area and attraction in Kallang known for its historic architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "The House of Tan Teng Niah is a notably colorful and historic architectural attraction in Kallang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
                   ]
             }
       ]
@@ -9159,15 +3944,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.847763,
                         1.36113
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Muttaqin",
-                  "text": "Eine markante Moschee in Ang Mo Kio, die der lokalen muslimischen Gemeinschaft mit regelmäßigen Gebeten und islamischen Bildungsprogrammen dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.846054,
-                        1.370456
                   ]
             },
             {
@@ -9308,15 +4084,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Muttaqin",
-                  "text": "Egy kiemelkedő mecset Ang Mo Kióban, amely rendszeres imákkal és iszlám oktatási programokkal szolgálja a helyi muszlim közösséget.",
-                  "category": "religious",
-                  "coords": [
-                        103.846054,
-                        1.370456
-                  ]
-            },
-            {
                   "name": "Ang Mo Kio Town Garden East",
                   "text": "A korábbi gumiültetvényen épült nyugodt parkban az öreg fák ligetei között elrejtett gumimag-szobrok találhatók.",
                   "category": "park",
@@ -9454,15 +4221,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Muttaqin",
-                  "text": "O moschee proeminentă în Ang Mo Kio, care deservește comunitatea musulmană locală cu rugăciuni regulate și programe de educație islamică.",
-                  "category": "religious",
-                  "coords": [
-                        103.846054,
-                        1.370456
-                  ]
-            },
-            {
                   "name": "Ang Mo Kio Town Garden East",
                   "text": "Construit pe o fostă plantație de cauciuc, acest parc liniștit prezintă sculpturi cu semințe de cauciuc ascunse printre crângurile sale de arbori maturi.",
                   "category": "park",
@@ -9597,15 +4355,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.847763,
                         1.36113
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Muttaqin",
-                  "text": "A prominent mosque in Ang Mo Kio serving the local Muslim community with regular prayers and Islamic education programs.",
-                  "category": "religious",
-                  "coords": [
-                        103.846054,
-                        1.370456
                   ]
             },
             {
@@ -9768,15 +4517,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "ang-mo-kio-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Chinese Puppet Play Stand",
-                  "text": "Ein Theaterort in Ang Mo Kio, der für chinesische Puppenspiele vorgesehen ist.",
-                  "category": "cultural",
-                  "coords": [
-                        103.828383,
-                        1.365134
-                  ]
-            },
-            {
                   "name": "Amphitheatre",
                   "text": "Ein Freilufttheater und Veranstaltungsraum in Ang Mo Kio.",
                   "category": "cultural",
@@ -9813,24 +4553,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taylors Arts Studio",
-                  "text": "Kunststudio in Ang Mo Kio mit Mal- und Töpferkursen.",
-                  "category": "cultural",
-                  "coords": [
-                        103.834985,
-                        1.352312
-                  ]
-            },
-            {
-                  "name": "Coral Park Magic Tree",
-                  "text": "Markante Baumskulptur im Coral Park in Ang Mo Kio, beliebt für Fotos.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843693,
-                        1.353985
-                  ]
-            },
-            {
                   "name": "Masjid Al-Muttaqin",
                   "text": "Eine Moschee in Ang Mo Kio, die der muslimischen Gemeinschaft der Region dient.",
                   "category": "religious",
@@ -9838,63 +4560,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.846033,
                         1.370457
                   ]
-            },
-            {
-                  "name": "Kong Meng San Phor Kark See Monastery",
-                  "text": "Der größte buddhistische Tempelkomplex in Singapur, gelegen in Ang Mo Kio.",
-                  "category": "religious",
-                  "coords": [
-                        103.836268,
-                        1.361237
-                  ]
-            },
-            {
-                  "name": "Masjid Al Istiqamah",
-                  "text": "Eine moderne Moschee in Ang Mo Kio, die für ihre multifunktionalen Einrichtungen bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.875629,
-                        1.369224
-                  ]
-            },
-            {
-                  "name": "Masjid An-Nahdhah",
-                  "text": "Eine Moschee in Ang Mo Kio, die auch das Harmony Centre für den interreligiösen Dialog beherbergt.",
-                  "category": "religious",
-                  "coords": [
-                        103.851282,
-                        1.353539
-                  ]
-            },
-            {
-                  "name": "Church Of Saint Francis Xavier",
-                  "text": "Eine katholische Pfarrkirche, die der Gemeinde in Ang Mo Kio dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.863533,
-                        1.358646
-                  ]
-            },
-            {
-                  "name": "Darma Muneeswaran Temple",
-                  "text": "Ein bedeutender Hindu-Tempel in Ang Mo Kio, der der lokalen tamilischen Gemeinschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.869875,
-                        1.368468
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Chinese Puppet Play Stand",
-                  "text": "Kínai bábjátékok számára kijelölt színházi hely Ang Mo Kio városában.",
-                  "category": "cultural",
-                  "coords": [
-                        103.828383,
-                        1.365134
-                  ]
-            },
             {
                   "name": "Amphitheatre",
                   "text": "Egy szabadtéri színház és előadótér Ang Mo Kio területén.",
@@ -9932,24 +4600,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taylors Arts Studio",
-                  "text": "Művészeti stúdió Ang Mo Kioban festő- és fazekas tanfolyamokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        103.834985,
-                        1.352312
-                  ]
-            },
-            {
-                  "name": "Coral Park Magic Tree",
-                  "text": "Különleges faszobor a Coral Parkban Ang Mo Kioban, népszerű fotópont.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843693,
-                        1.353985
-                  ]
-            },
-            {
                   "name": "Masjid Al-Muttaqin",
                   "text": "Egy mecset Ang Mo Kio-ban, amely a régió muszlim közösségét szolgálja ki.",
                   "category": "religious",
@@ -9957,63 +4607,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.846033,
                         1.370457
                   ]
-            },
-            {
-                  "name": "Kong Meng San Phor Kark See Monastery",
-                  "text": "Szingapúr legnagyobb buddhista templomkomplexuma Ang Mo Kio-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.836268,
-                        1.361237
-                  ]
-            },
-            {
-                  "name": "Masjid Al Istiqamah",
-                  "text": "Egy modern mecset Ang Mo Kio-ban, amely többfunkciós létesítményeiről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.875629,
-                        1.369224
-                  ]
-            },
-            {
-                  "name": "Masjid An-Nahdhah",
-                  "text": "Egy mecset Ang Mo Kio-ban, amely a vallásközi párbeszédet szolgáló Harmony Centre-nek is otthont ad.",
-                  "category": "religious",
-                  "coords": [
-                        103.851282,
-                        1.353539
-                  ]
-            },
-            {
-                  "name": "Church Of Saint Francis Xavier",
-                  "text": "Egy katolikus plébániatemplom, amely az Ang Mo Kio-i közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        103.863533,
-                        1.358646
-                  ]
-            },
-            {
-                  "name": "Darma Muneeswaran Temple",
-                  "text": "Egy kiemelkedő hindu templom Ang Mo Kio-ban, amely a helyi tamil közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        103.869875,
-                        1.368468
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Chinese Puppet Play Stand",
-                  "text": "Un loc de teatru în Ang Mo Kio destinat pieselor cu păpuși chinezești.",
-                  "category": "cultural",
-                  "coords": [
-                        103.828383,
-                        1.365134
-                  ]
-            },
             {
                   "name": "Amphitheatre",
                   "text": "Un teatru în aer liber și spațiu de spectacole situat în Ang Mo Kio.",
@@ -10051,24 +4647,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taylors Arts Studio",
-                  "text": "Studio de artă în Ang Mo Kio care oferă cursuri de pictură și olărit.",
-                  "category": "cultural",
-                  "coords": [
-                        103.834985,
-                        1.352312
-                  ]
-            },
-            {
-                  "name": "Coral Park Magic Tree",
-                  "text": "Sculptură distinctivă de copac în Coral Park, Ang Mo Kio, populară pentru fotografii.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843693,
-                        1.353985
-                  ]
-            },
-            {
                   "name": "Masjid Al-Muttaqin",
                   "text": "O moschee în Ang Mo Kio care deservește comunitatea musulmană din regiune.",
                   "category": "religious",
@@ -10076,63 +4654,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.846033,
                         1.370457
                   ]
-            },
-            {
-                  "name": "Kong Meng San Phor Kark See Monastery",
-                  "text": "Cel mai mare complex de temple budiste din Singapore, situat în Ang Mo Kio.",
-                  "category": "religious",
-                  "coords": [
-                        103.836268,
-                        1.361237
-                  ]
-            },
-            {
-                  "name": "Masjid Al Istiqamah",
-                  "text": "O moschee modernă în Ang Mo Kio, cunoscută pentru facilitățile sale multifuncționale.",
-                  "category": "religious",
-                  "coords": [
-                        103.875629,
-                        1.369224
-                  ]
-            },
-            {
-                  "name": "Masjid An-Nahdhah",
-                  "text": "O moschee în Ang Mo Kio care găzduiește și Harmony Centre pentru dialogul interconfesional.",
-                  "category": "religious",
-                  "coords": [
-                        103.851282,
-                        1.353539
-                  ]
-            },
-            {
-                  "name": "Church Of Saint Francis Xavier",
-                  "text": "O biserică parohială catolică ce deservește comunitatea din Ang Mo Kio.",
-                  "category": "religious",
-                  "coords": [
-                        103.863533,
-                        1.358646
-                  ]
-            },
-            {
-                  "name": "Darma Muneeswaran Temple",
-                  "text": "Un proeminent templu hindus în Ang Mo Kio care deservește comunitatea locală tamilă.",
-                  "category": "religious",
-                  "coords": [
-                        103.869875,
-                        1.368468
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Chinese Puppet Play Stand",
-                  "text": "A theatre spot in Ang Mo Kio designated for Chinese puppet plays.",
-                  "category": "cultural",
-                  "coords": [
-                        103.828383,
-                        1.365134
-                  ]
-            },
             {
                   "name": "Amphitheatre",
                   "text": "An open-air theatre and performance space located in Ang Mo Kio.",
@@ -10170,75 +4694,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taylors Arts Studio",
-                  "text": "Art studio in Ang Mo Kio offering painting and pottery classes.",
-                  "category": "cultural",
-                  "coords": [
-                        103.834985,
-                        1.352312
-                  ]
-            },
-            {
-                  "name": "Coral Park Magic Tree",
-                  "text": "Distinctive tree sculpture in Coral Park, Ang Mo Kio, popular for photos.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843693,
-                        1.353985
-                  ]
-            },
-            {
                   "name": "Masjid Al-Muttaqin",
                   "text": "A mosque in Ang Mo Kio that serves the region's Muslim community.",
                   "category": "religious",
                   "coords": [
                         103.846033,
                         1.370457
-                  ]
-            },
-            {
-                  "name": "Kong Meng San Phor Kark See Monastery",
-                  "text": "The largest Buddhist temple complex in Singapore, situated in Ang Mo Kio.",
-                  "category": "religious",
-                  "coords": [
-                        103.836268,
-                        1.361237
-                  ]
-            },
-            {
-                  "name": "Al Istiqamah Mosque",
-                  "text": "A modern mosque in Ang Mo Kio known for its multi-functional facilities.",
-                  "category": "religious",
-                  "coords": [
-                        103.875629,
-                        1.369224
-                  ]
-            },
-            {
-                  "name": "An-Nahdhah Mosque",
-                  "text": "A mosque in Ang Mo Kio that also houses the Harmony Centre for interfaith dialogue.",
-                  "category": "religious",
-                  "coords": [
-                        103.851282,
-                        1.353539
-                  ]
-            },
-            {
-                  "name": "Church Of Saint Francis Xavier",
-                  "text": "A Catholic parish church serving the community in Ang Mo Kio.",
-                  "category": "religious",
-                  "coords": [
-                        103.863533,
-                        1.358646
-                  ]
-            },
-            {
-                  "name": "Darma Muneeswaran Temple",
-                  "text": "A prominent Hindu temple in Ang Mo Kio serving the local Tamil community.",
-                  "category": "religious",
-                  "coords": [
-                        103.869875,
-                        1.368468
                   ]
             }
       ]
@@ -10302,93 +4763,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Future site of Science Centre Singapore",
-                  "text": "Gelände in Bukit Batok, auf dem das neue Science Centre Singapore entstehen wird.",
-                  "category": "museum",
-                  "coords": [
-                        103.730827,
-                        1.342143
-                  ]
-            },
-            {
-                  "name": "Bukit Timah Hill",
-                  "text": "Der Bukit Timah Hill ist ein anerkannter Gipfel und der höchste natürliche Punkt in der Region Bukit Batok.",
-                  "category": "natural",
-                  "coords": [
-                        103.776372,
-                        1.35469
-                  ]
-            },
-            {
-                  "name": "Phoenix Park",
-                  "text": "Ein Park in Batok mit Freizeiteinrichtungen.",
-                  "category": "park",
-                  "coords": [
-                        103.75724,
-                        1.375885
-                  ]
-            },
-            {
                   "name": "Bukit Batok Town Park",
                   "text": "Stadtpark in Bukit Batok mit einem großen Teich und Spazierwegen.",
                   "category": "park",
                   "coords": [
                         103.755364,
                         1.359789
-                  ]
-            },
-            {
-                  "name": "Bonsai Garden",
-                  "text": "Bonsai-Garten in Bukit Batok, der Miniaturbäume zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        103.73006,
-                        1.338296
-                  ]
-            },
-            {
-                  "name": "Twin Pagoda",
-                  "text": "Eine historische Zwillingspagodenstruktur in Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.728288,
-                        1.339714
-                  ]
-            },
-            {
-                  "name": "Confucius statue",
-                  "text": "Konfuzius-Statue in Bukit Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.72893,
-                        1.338307
-                  ]
-            },
-            {
-                  "name": "Certis Cisco west hub",
-                  "text": "Westlicher Hauptsitz des Sicherheitsunternehmens Certis Cisco in Bukit Batok.",
-                  "category": "landmark",
-                  "coords": [
-                        103.738572,
-                        1.33057
-                  ]
-            },
-            {
-                  "name": "Shelter Ruin",
-                  "text": "Überreste einer alten Schutzhütte in Bukit Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.776805,
-                        1.35614
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Ruinen eines alten Gebäudes im Waldgebiet von Bukit Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.775419,
-                        1.361132
                   ]
             },
             {
@@ -10446,39 +4826,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Silo Ruins",
-                  "text": "Ruinen eines Silos in Bukit Batok.",
-                  "category": "landmark",
-                  "coords": [
-                        103.776339,
-                        1.359029
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "Ein buddhistischer Tempel in Batok.",
-                  "category": "religious",
-                  "coords": [
-                        103.77358,
-                        1.339233
-                  ]
-            },
-            {
                   "name": "St Mary of the Angels Church",
                   "text": "Römisch-katholische Kirche in Bukit Batok.",
                   "category": "religious",
                   "coords": [
                         103.759422,
                         1.347229
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminin",
-                  "text": "Eine Moschee in Batok.",
-                  "category": "religious",
-                  "coords": [
-                        103.741522,
-                        1.339106
                   ]
             }
       ],
@@ -10493,93 +4846,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Future site of Science Centre Singapore",
-                  "text": "Helyszín Bukit Batokban, ahol az új Szingapúri Tudományos Központ épül.",
-                  "category": "museum",
-                  "coords": [
-                        103.730827,
-                        1.342143
-                  ]
-            },
-            {
-                  "name": "Bukit Timah Hill",
-                  "text": "A Bukit Timah Hill egy elismert hegycsúcs és a legmagasabb természetes pont Bukit Batok régiójában.",
-                  "category": "natural",
-                  "coords": [
-                        103.776372,
-                        1.35469
-                  ]
-            },
-            {
-                  "name": "Phoenix Park",
-                  "text": "Egy park Batokban szabadidős létesítményekkel.",
-                  "category": "park",
-                  "coords": [
-                        103.75724,
-                        1.375885
-                  ]
-            },
-            {
                   "name": "Bukit Batok Town Park",
                   "text": "Városi park Bukit Batokban nagy tóval és sétányokkal.",
                   "category": "park",
                   "coords": [
                         103.755364,
                         1.359789
-                  ]
-            },
-            {
-                  "name": "Bonsai Garden",
-                  "text": "Bonsai kert Bukit Batokban miniatűr fákkal.",
-                  "category": "landmark",
-                  "coords": [
-                        103.73006,
-                        1.338296
-                  ]
-            },
-            {
-                  "name": "Twin Pagoda",
-                  "text": "Egy történelmi ikerpagoda Batokban.",
-                  "category": "historical",
-                  "coords": [
-                        103.728288,
-                        1.339714
-                  ]
-            },
-            {
-                  "name": "Confucius statue",
-                  "text": "Konfuciusz szobor Bukit Batokban.",
-                  "category": "historical",
-                  "coords": [
-                        103.72893,
-                        1.338307
-                  ]
-            },
-            {
-                  "name": "Certis Cisco west hub",
-                  "text": "A Certis Cisco biztonsági cég nyugati központja Bukit Batokban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.738572,
-                        1.33057
-                  ]
-            },
-            {
-                  "name": "Shelter Ruin",
-                  "text": "Egy régi menedékhely maradványai Bukit Batokban.",
-                  "category": "historical",
-                  "coords": [
-                        103.776805,
-                        1.35614
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Egy régi épület romjai Bukit Batok erdős területén.",
-                  "category": "historical",
-                  "coords": [
-                        103.775419,
-                        1.361132
                   ]
             },
             {
@@ -10637,39 +4909,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Silo Ruins",
-                  "text": "Egy siló romjai Bukit Batokban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.776339,
-                        1.359029
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "Egy buddhista templom Batokban.",
-                  "category": "religious",
-                  "coords": [
-                        103.77358,
-                        1.339233
-                  ]
-            },
-            {
                   "name": "St Mary of the Angels Church",
                   "text": "Római katolikus templom Bukit Batokban.",
                   "category": "religious",
                   "coords": [
                         103.759422,
                         1.347229
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminin",
-                  "text": "Egy mecset Batokban.",
-                  "category": "religious",
-                  "coords": [
-                        103.741522,
-                        1.339106
                   ]
             }
       ],
@@ -10684,93 +4929,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Future site of Science Centre Singapore",
-                  "text": "Amplasament în Bukit Batok unde va fi construit noul Science Centre Singapore.",
-                  "category": "museum",
-                  "coords": [
-                        103.730827,
-                        1.342143
-                  ]
-            },
-            {
-                  "name": "Bukit Timah Hill",
-                  "text": "Bukit Timah Hill este un vârf recunoscut și cel mai înalt punct natural din regiunea Bukit Batok.",
-                  "category": "natural",
-                  "coords": [
-                        103.776372,
-                        1.35469
-                  ]
-            },
-            {
-                  "name": "Phoenix Park",
-                  "text": "Un parc în Batok cu facilități de agrement.",
-                  "category": "park",
-                  "coords": [
-                        103.75724,
-                        1.375885
-                  ]
-            },
-            {
                   "name": "Bukit Batok Town Park",
                   "text": "Parc orășenesc în Bukit Batok cu un iaz mare și alei pietonale.",
                   "category": "park",
                   "coords": [
                         103.755364,
                         1.359789
-                  ]
-            },
-            {
-                  "name": "Bonsai Garden",
-                  "text": "Grădină bonsai în Bukit Batok care prezintă copaci miniaturali.",
-                  "category": "landmark",
-                  "coords": [
-                        103.73006,
-                        1.338296
-                  ]
-            },
-            {
-                  "name": "Twin Pagoda",
-                  "text": "O structură istorică de pagode gemene în Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.728288,
-                        1.339714
-                  ]
-            },
-            {
-                  "name": "Confucius statue",
-                  "text": "Statuia lui Confucius în Bukit Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.72893,
-                        1.338307
-                  ]
-            },
-            {
-                  "name": "Certis Cisco west hub",
-                  "text": "Hub-ul vestic al companiei de securitate Certis Cisco în Bukit Batok.",
-                  "category": "landmark",
-                  "coords": [
-                        103.738572,
-                        1.33057
-                  ]
-            },
-            {
-                  "name": "Shelter Ruin",
-                  "text": "Rămășițele unui vechi adăpost în Bukit Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.776805,
-                        1.35614
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Ruinele unei vechi clădiri în zona forestieră din Bukit Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.775419,
-                        1.361132
                   ]
             },
             {
@@ -10828,39 +4992,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Silo Ruins",
-                  "text": "Ruinele unui siloz în Bukit Batok.",
-                  "category": "landmark",
-                  "coords": [
-                        103.776339,
-                        1.359029
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "Un templu budist în Batok.",
-                  "category": "religious",
-                  "coords": [
-                        103.77358,
-                        1.339233
-                  ]
-            },
-            {
                   "name": "St Mary of the Angels Church",
                   "text": "Biserica romano-catolică din Bukit Batok.",
                   "category": "religious",
                   "coords": [
                         103.759422,
                         1.347229
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminin",
-                  "text": "O moschee în Batok.",
-                  "category": "religious",
-                  "coords": [
-                        103.741522,
-                        1.339106
                   ]
             }
       ],
@@ -10875,93 +5012,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Future site of Science Centre Singapore",
-                  "text": "Site in Bukit Batok where the new Science Centre Singapore will be built.",
-                  "category": "museum",
-                  "coords": [
-                        103.730827,
-                        1.342143
-                  ]
-            },
-            {
-                  "name": "Bukit Timah Hill",
-                  "text": "Bukit Timah Hill is a recognized peak and the highest natural point in the Bukit Batok region.",
-                  "category": "natural",
-                  "coords": [
-                        103.776372,
-                        1.35469
-                  ]
-            },
-            {
-                  "name": "Phoenix Park",
-                  "text": "A park in Batok with recreational facilities.",
-                  "category": "park",
-                  "coords": [
-                        103.75724,
-                        1.375885
-                  ]
-            },
-            {
                   "name": "Bukit Batok Town Park",
                   "text": "Town park in Bukit Batok with a large pond and walking paths.",
                   "category": "park",
                   "coords": [
                         103.755364,
                         1.359789
-                  ]
-            },
-            {
-                  "name": "Bonsai Garden",
-                  "text": "Bonsai garden in Bukit Batok showcasing miniature trees.",
-                  "category": "landmark",
-                  "coords": [
-                        103.73006,
-                        1.338296
-                  ]
-            },
-            {
-                  "name": "Twin Pagoda",
-                  "text": "A historic twin pagoda structure in Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.728288,
-                        1.339714
-                  ]
-            },
-            {
-                  "name": "Confucius statue",
-                  "text": "Statue of Confucius located in Bukit Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.72893,
-                        1.338307
-                  ]
-            },
-            {
-                  "name": "Certis Cisco west hub",
-                  "text": "Security company's western hub in Bukit Batok.",
-                  "category": "landmark",
-                  "coords": [
-                        103.738572,
-                        1.33057
-                  ]
-            },
-            {
-                  "name": "Shelter Ruin",
-                  "text": "Remains of an old shelter structure in Bukit Batok.",
-                  "category": "historical",
-                  "coords": [
-                        103.776805,
-                        1.35614
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Ruins of an old structure in Bukit Batok's forested area.",
-                  "category": "historical",
-                  "coords": [
-                        103.775419,
-                        1.361132
                   ]
             },
             {
@@ -11019,39 +5075,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Silo Ruins",
-                  "text": "Ruins of a silo structure in Bukit Batok.",
-                  "category": "landmark",
-                  "coords": [
-                        103.776339,
-                        1.359029
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "A Buddhist temple in Batok.",
-                  "category": "religious",
-                  "coords": [
-                        103.77358,
-                        1.339233
-                  ]
-            },
-            {
                   "name": "St Mary of the Angels Church",
                   "text": "Roman Catholic church in Bukit Batok.",
                   "category": "religious",
                   "coords": [
                         103.759422,
                         1.347229
-                  ]
-            },
-            {
-                  "name": "Al-Mukminin Mosque",
-                  "text": "A mosque in Batok.",
-                  "category": "religious",
-                  "coords": [
-                        103.741522,
-                        1.339106
                   ]
             }
       ]
@@ -11847,39 +5876,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "pasir-ris-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Wild Wild Wet",
-                  "text": "Wasserpark mit dem Shiok River Lazy River in Pasir Ris.",
-                  "category": "family",
-                  "coords": [
-                        103.954667,
-                        1.378103
-                  ]
-            },
-            {
-                  "name": "Festive Arts Theatre",
-                  "text": "Ein Theater für lokale Kunst und Aufführungen in Pasir Ris.",
-                  "category": "cultural",
-                  "coords": [
-                        103.940968,
-                        1.352196
-                  ]
-            },
-            {
                   "name": "Pasir Ris Town Park",
                   "text": "Ein beliebter Erholungspark in Pasir Ris mit einem großen Meerwasserteich.",
                   "category": "park",
                   "coords": [
                         103.952343,
                         1.372169
-                  ]
-            },
-            {
-                  "name": "Sun Plaza Park",
-                  "text": "Eingebettet in Pasir Ris, ist der Sun Plaza Park eine bemerkenswerte städtische Grünanlage, die Singapurs ersten Garten der Sinne beherbergt. Die Umgebung ist lebendig und zugleich beruhigend, was einen lehrreichen Ausflug für alle Altersgruppen ermöglicht. Gäste können durch die liebevoll gestalteten Wege schlendern, sich mit der Natur verbinden und die einzigartigen sensorischen Stationen entdecken. Ein Besuch in den kühleren Morgenstunden ist besonders empfehlenswert, um die interaktiven Elemente bestmöglich auszukosten.",
-                  "category": "park",
-                  "coords": [
-                        103.943758,
-                        1.358549
                   ]
             },
             {
@@ -11890,45 +5892,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.948769,
                         1.363765
                   ]
-            },
-            {
-                  "name": "Masjid Al-Istighfar",
-                  "text": "Eine Moschee in Pasir Ris, die der lokalen muslimischen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.964124,
-                        1.371058
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Ghufran",
-                  "text": "Eine der größten Moscheen Singapurs in Ris.",
-                  "category": "religious",
-                  "coords": [
-                        103.939911,
-                        1.355401
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Wild Wild Wet",
-                  "text": "Vidámpark a Shiok River lusta folyóval Pasir Risben.",
-                  "category": "family",
-                  "coords": [
-                        103.954667,
-                        1.378103
-                  ]
-            },
-            {
-                  "name": "Festive Arts Theatre",
-                  "text": "Egy helyi művészeteknek és előadásoknak otthont adó színház Pasir Ris-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.940968,
-                        1.352196
-                  ]
-            },
             {
                   "name": "Pasir Ris Town Park",
                   "text": "Egy népszerű rekreációs park Pasir Ris-ben, amely egy nagy tengeri tavat is magában foglal.",
@@ -11939,15 +5905,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sun Plaza Park",
-                  "text": "A Pasir Ris szívében megbúvó Sun Plaza Park egy figyelemre méltó városi zöldterület, amely Szingapúr első érzékszervi felfedezőkertjének ad otthont. A környezet élettel teli, mégis megnyugtató, és minden korosztály számára élvezetes, oktató jellegű élményt nyújt. A vendégek a gondosan megtervezett ösvényeken barangolva kapcsolódhatnak a természethez, és interakcióba léphetnek a különleges kiállítási elemekkel. A hűvösebb reggeli órákra időzített látogatás a legjobb módja a park adottságainak teljes kiaknázására.",
-                  "category": "park",
-                  "coords": [
-                        103.943758,
-                        1.358549
-                  ]
-            },
-            {
                   "name": "Tampines Eco Green",
                   "text": "Egy ökológiai park Pasir Ris-ben, amelyet úgy terveztek, hogy szavannára hasonlítson.",
                   "category": "park",
@@ -11955,45 +5912,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.948769,
                         1.363765
                   ]
-            },
-            {
-                  "name": "Masjid Al-Istighfar",
-                  "text": "Egy mecset Pasir Ris-ben, amely a helyi muszlim közösséget szolgálja ki.",
-                  "category": "religious",
-                  "coords": [
-                        103.964124,
-                        1.371058
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Ghufran",
-                  "text": "Szingapúr egyik legnagyobb mecsetje Risben.",
-                  "category": "religious",
-                  "coords": [
-                        103.939911,
-                        1.355401
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Wild Wild Wet",
-                  "text": "Parac de apă cu râul leneș Shiok River în Pasir Ris.",
-                  "category": "family",
-                  "coords": [
-                        103.954667,
-                        1.378103
-                  ]
-            },
-            {
-                  "name": "Festive Arts Theatre",
-                  "text": "Un teatru pentru arte și spectacole locale în Pasir Ris.",
-                  "category": "cultural",
-                  "coords": [
-                        103.940968,
-                        1.352196
-                  ]
-            },
             {
                   "name": "Pasir Ris Town Park",
                   "text": "Un parc de recreere popular în Pasir Ris, având un mare iaz marin.",
@@ -12004,15 +5925,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sun Plaza Park",
-                  "text": "Ascuns în inima cartierului Pasir Ris, Sun Plaza Park este un spațiu verde urban remarcabil care găzduiește prima grădină de descoperire senzorială din Singapore. Mediul este plin de viață, dar liniștitor, oferind o experiență captivantă și educativă în aer liber pentru toate vârstele. Oaspeții se pot plimba pe aleile amenajate cu grijă, se pot conecta cu natura și pot interacționa cu expozițiile senzoriale unice. Planificarea unei vizite în orele mai răcoroase ale dimineții este o modalitate excelentă de a vă bucura pe deplin de atracțiile parcului.",
-                  "category": "park",
-                  "coords": [
-                        103.943758,
-                        1.358549
-                  ]
-            },
-            {
                   "name": "Tampines Eco Green",
                   "text": "Un parc ecologic în Pasir Ris conceput să semene cu o savană.",
                   "category": "park",
@@ -12020,45 +5932,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.948769,
                         1.363765
                   ]
-            },
-            {
-                  "name": "Masjid Al-Istighfar",
-                  "text": "O moschee în Pasir Ris care deservește comunitatea musulmană locală.",
-                  "category": "religious",
-                  "coords": [
-                        103.964124,
-                        1.371058
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Ghufran",
-                  "text": "Una dintre cele mai mari moschei din Singapore, în Ris.",
-                  "category": "religious",
-                  "coords": [
-                        103.939911,
-                        1.355401
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Wild Wild Wet",
-                  "text": "Water park with the Shiok River lazy river in Pasir Ris.",
-                  "category": "family",
-                  "coords": [
-                        103.954667,
-                        1.378103
-                  ]
-            },
-            {
-                  "name": "Festive Arts Theatre",
-                  "text": "A theatre venue for local arts and performances in Pasir Ris.",
-                  "category": "cultural",
-                  "coords": [
-                        103.940968,
-                        1.352196
-                  ]
-            },
             {
                   "name": "Pasir Ris Town Park",
                   "text": "A popular recreational park in Pasir Ris featuring a large marine pond.",
@@ -12069,39 +5945,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sun Plaza Park",
-                  "text": "Nestled within Pasir Ris, Sun Plaza Park is a remarkable urban green space that houses Singapore's very first sensory discovery garden. The environment is lively yet soothing, providing an engaging and educational outdoor experience for all ages. Guests can wander along the thoughtfully designed pathways, connect with nature, and interact with the unique sensory exhibits. Planning a visit during the cooler morning hours is a great way to fully enjoy the park's features.",
-                  "category": "park",
-                  "coords": [
-                        103.943758,
-                        1.358549
-                  ]
-            },
-            {
                   "name": "Tampines Eco Green",
                   "text": "An ecological park in Pasir Ris designed to resemble a savanna.",
                   "category": "park",
                   "coords": [
                         103.948769,
                         1.363765
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Istighfar",
-                  "text": "A mosque in Pasir Ris serving the local Muslim community.",
-                  "category": "religious",
-                  "coords": [
-                        103.964124,
-                        1.371058
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Ghufran",
-                  "text": "One of Singapore's largest mosques, in Ris.",
-                  "category": "religious",
-                  "coords": [
-                        103.939911,
-                        1.355401
                   ]
             }
       ]
@@ -12156,39 +6005,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "clementi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Lee Kong Chian Natural History Museum",
-                  "text": "Naturkundemuseum mit den drei Dinosaurierskeletten Prince, Apollonia und Twinky in Clementi.",
-                  "category": "museum",
-                  "coords": [
-                        103.773624,
-                        1.30143
-                  ]
-            },
-            {
-                  "name": "Dialogue in the Dark Singapore",
-                  "text": "Erlebnismuseum in Clementi, in dem Besucher unter Anleitung blinder Führer in völliger Dunkelheit navigieren.",
-                  "category": "museum",
-                  "coords": [
-                        103.777159,
-                        1.334191
-                  ]
-            },
-            {
                   "name": "Yale-NUS Black Box Theatre",
                   "text": "Flexibles Black-Box-Theater auf dem Campus des Yale-NUS College in Clementi.",
                   "category": "cultural",
                   "coords": [
                         103.77203,
                         1.307501
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Freiluftamphitheater mit Stufenbestuhlung im Clementi-Viertel.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772736,
-                        1.325012
                   ]
             },
             {
@@ -12210,24 +6032,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "NUS Museum",
-                  "text": "Museum der Nationaluniversität Singapur mit südostasiatischer Kunstsammlung.",
-                  "category": "museum",
-                  "coords": [
-                        103.772563,
-                        1.301445
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Eisenbahnmuseum mit historischen Lokomotiven und Schienenfahrzeugen in Clementi.",
-                  "category": "museum",
-                  "coords": [
-                        103.781524,
-                        1.33457
-                  ]
-            },
-            {
                   "name": "Theatrette",
                   "text": "Kleines Theater mit Bühne und Sitzplätzen für etwa 100 Personen in Clementi.",
                   "category": "cultural",
@@ -12237,30 +6041,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Performing Arts Studio",
-                  "text": "Studio für darstellende Kunst mit Übungsraum in Clementi.",
-                  "category": "cultural",
-                  "coords": [
-                        103.785504,
-                        1.300427
-                  ]
-            },
-            {
                   "name": "Clementi Woods",
                   "text": "Waldpark mit Spazierwegen und einem Teich in Clementi.",
                   "category": "park",
                   "coords": [
                         103.767711,
                         1.299795
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Ruinen eines Betongebäudes aus der Vorkriegszeit in Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782535,
-                        1.320188
                   ]
             },
             {
@@ -12282,42 +6068,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Switch Room Ruin #NBE",
-                  "text": "Ruine eines Schaltkastengebäudes der ehemaligen Jurong-Eisenbahn in Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775771,
-                        1.324965
-                  ]
-            },
-            {
-                  "name": "Old Jurong railway",
-                  "text": "Verlassener Gleiskörper der alten Jurong-Eisenbahnlinie in Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.780294,
-                        1.32846
-                  ]
-            },
-            {
-                  "name": "Maju Camp Tunnel",
-                  "text": "Tunnel im ehemaligen Militärtrainingsgelände Maju Camp in Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775428,
-                        1.326077
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "Ein buddhistischer Tempel in Clementi.",
-                  "category": "religious",
-                  "coords": [
-                        103.77358,
-                        1.339233
-                  ]
-            },
-            {
                   "name": "Ang Chee Sia Ong Temple",
                   "text": "Chinesischer Tempel, dem Ang Chee Sia Ong gewidmet, in Clementi.",
                   "category": "religious",
@@ -12329,39 +6079,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Lee Kong Chian Natural History Museum",
-                  "text": "Természetrajzi múzeum a Prince, Apollonia és Twinky dinoszaurusz csontvázakkal Clementiben.",
-                  "category": "museum",
-                  "coords": [
-                        103.773624,
-                        1.30143
-                  ]
-            },
-            {
-                  "name": "Dialogue in the Dark Singapore",
-                  "text": "Élménymúzeum Clementiben, ahol a látogatók vak vezetők irányításával teljes sötétségben navigálnak.",
-                  "category": "museum",
-                  "coords": [
-                        103.777159,
-                        1.334191
-                  ]
-            },
-            {
                   "name": "Yale-NUS Black Box Theatre",
                   "text": "Rugalmas fekete doboz színház a Yale-NUS College campusán, Clementiben.",
                   "category": "cultural",
                   "coords": [
                         103.77203,
                         1.307501
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Szabadtéri amfiteátrum lépcsőzés ülésekkel a clementi negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772736,
-                        1.325012
                   ]
             },
             {
@@ -12383,24 +6106,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "NUS Museum",
-                  "text": "A Szingapúri Nemzeti Egyetem múzeuma délkelet-ázsiai művészeti gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        103.772563,
-                        1.301445
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Vasútmúzeum történelmi mozdonyokkal és vasúti járművekkel Clementiben.",
-                  "category": "museum",
-                  "coords": [
-                        103.781524,
-                        1.33457
-                  ]
-            },
-            {
                   "name": "Theatrette",
                   "text": "Kis színház színpaddal és körülbelül 100 férőhellyel Clementiben.",
                   "category": "cultural",
@@ -12410,30 +6115,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Performing Arts Studio",
-                  "text": "Előadóművészeti stúdió próbateremmel Clementiben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.785504,
-                        1.300427
-                  ]
-            },
-            {
                   "name": "Clementi Woods",
                   "text": "Erdős park sétányokkal és egy tóval Clementiben.",
                   "category": "park",
                   "coords": [
                         103.767711,
                         1.299795
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Egy betonépület háború előtti romjai Clementiben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782535,
-                        1.320188
                   ]
             },
             {
@@ -12455,42 +6142,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Switch Room Ruin #NBE",
-                  "text": "A volt Jurong-vasútvonal kapcsolószoba-romja Clementiben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775771,
-                        1.324965
-                  ]
-            },
-            {
-                  "name": "Old Jurong railway",
-                  "text": "A régi Jurong-vasútvonal elhagyott sínágyazata Clementiben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.780294,
-                        1.32846
-                  ]
-            },
-            {
-                  "name": "Maju Camp Tunnel",
-                  "text": "Alagút a volt Maju Camp katonai kiképzőterületen Clementiben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775428,
-                        1.326077
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "Egy buddhista templom Clementiben.",
-                  "category": "religious",
-                  "coords": [
-                        103.77358,
-                        1.339233
-                  ]
-            },
-            {
                   "name": "Ang Chee Sia Ong Temple",
                   "text": "Kínai templom, Ang Chee Sia Ong tiszteletére, Clementiben.",
                   "category": "religious",
@@ -12502,39 +6153,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lee Kong Chian Natural History Museum",
-                  "text": "Muzeu de istorie naturală cu scheletele de dinozaur Prince, Apollonia și Twinky în Clementi.",
-                  "category": "museum",
-                  "coords": [
-                        103.773624,
-                        1.30143
-                  ]
-            },
-            {
-                  "name": "Dialogue in the Dark Singapore",
-                  "text": "Muzeu experiential în Clementi unde vizitatorii navighează în întuneric total ghidați de facilitatori orbi.",
-                  "category": "museum",
-                  "coords": [
-                        103.777159,
-                        1.334191
-                  ]
-            },
-            {
                   "name": "Yale-NUS Black Box Theatre",
                   "text": "Teatru tip black-box flexibil pe campusul Yale-NUS College din Clementi.",
                   "category": "cultural",
                   "coords": [
                         103.77203,
                         1.307501
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Amfiteatru în aer liber cu scaune în trepte în cartierul Clementi.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772736,
-                        1.325012
                   ]
             },
             {
@@ -12556,24 +6180,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "NUS Museum",
-                  "text": "Muzeul Universității Naționale a Singapore cu colecție de artă sud-est asiatică.",
-                  "category": "museum",
-                  "coords": [
-                        103.772563,
-                        1.301445
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Muzeul Căilor Ferate cu locomotive istorice și vagoane în Clementi.",
-                  "category": "museum",
-                  "coords": [
-                        103.781524,
-                        1.33457
-                  ]
-            },
-            {
                   "name": "Theatrette",
                   "text": "Teatru mic cu scenă și locuri pentru aproximativ 100 de persoane în Clementi.",
                   "category": "cultural",
@@ -12583,30 +6189,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Performing Arts Studio",
-                  "text": "Studio pentru artele spectacolului cu sală de repetiții în Clementi.",
-                  "category": "cultural",
-                  "coords": [
-                        103.785504,
-                        1.300427
-                  ]
-            },
-            {
                   "name": "Clementi Woods",
                   "text": "Parcul forestier cu alei și un iaz în Clementi.",
                   "category": "park",
                   "coords": [
                         103.767711,
                         1.299795
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Ruinele unei clădiri de beton din perioada antebelică în Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782535,
-                        1.320188
                   ]
             },
             {
@@ -12628,42 +6216,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Switch Room Ruin #NBE",
-                  "text": "Ruina unei camere de comutare a fostei căi ferate Jurong în Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775771,
-                        1.324965
-                  ]
-            },
-            {
-                  "name": "Old Jurong railway",
-                  "text": "Traseul abandonat al vechii linii ferate Jurong în Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.780294,
-                        1.32846
-                  ]
-            },
-            {
-                  "name": "Maju Camp Tunnel",
-                  "text": "Tunelul din fosta zonă de antrenament militar Maju Camp din Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775428,
-                        1.326077
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "Un templu budist în Clementi.",
-                  "category": "religious",
-                  "coords": [
-                        103.77358,
-                        1.339233
-                  ]
-            },
-            {
                   "name": "Ang Chee Sia Ong Temple",
                   "text": "Templu chinezesc dedicat lui Ang Chee Sia Ong în Clementi.",
                   "category": "religious",
@@ -12675,39 +6227,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Lee Kong Chian Natural History Museum",
-                  "text": "Natural history museum housing the dinosaur skeletons Prince, Apollonia, and Twinky in Clementi.",
-                  "category": "museum",
-                  "coords": [
-                        103.773624,
-                        1.30143
-                  ]
-            },
-            {
-                  "name": "Dialogue in the Dark Singapore",
-                  "text": "Experiential museum in Clementi where visitors navigate in total darkness guided by blind facilitators.",
-                  "category": "museum",
-                  "coords": [
-                        103.777159,
-                        1.334191
-                  ]
-            },
-            {
                   "name": "Yale-NUS Black Box Theatre",
                   "text": "A flexible black box theatre at the Yale-NUS College campus in Clementi.",
                   "category": "cultural",
                   "coords": [
                         103.77203,
                         1.307501
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "An open-air amphitheatre with tiered seating in the Clementi neighbourhood.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772736,
-                        1.325012
                   ]
             },
             {
@@ -12729,24 +6254,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "NUS Museum",
-                  "text": "NUS Museum, featuring Southeast Asian art at the National University of Singapore.",
-                  "category": "museum",
-                  "coords": [
-                        103.772563,
-                        1.301445
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "A railway museum displaying historic locomotives and rolling stock in Clementi.",
-                  "category": "museum",
-                  "coords": [
-                        103.781524,
-                        1.33457
-                  ]
-            },
-            {
                   "name": "Theatrette",
                   "text": "A small theatre with a stage and seating for about 100 people in Clementi.",
                   "category": "cultural",
@@ -12756,30 +6263,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Performing Arts Studio",
-                  "text": "A performing arts studio with rehearsal space in Clementi.",
-                  "category": "cultural",
-                  "coords": [
-                        103.785504,
-                        1.300427
-                  ]
-            },
-            {
                   "name": "Clementi Woods",
                   "text": "A wooded park with walking trails and a pond in Clementi.",
                   "category": "park",
                   "coords": [
                         103.767711,
                         1.299795
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "The ruins of a pre-war concrete building in Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782535,
-                        1.320188
                   ]
             },
             {
@@ -12798,42 +6287,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.761885,
                         1.308246
-                  ]
-            },
-            {
-                  "name": "Switch Room Ruin #NBE",
-                  "text": "The ruins of a switch room from the former Jurong railway in Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775771,
-                        1.324965
-                  ]
-            },
-            {
-                  "name": "Old Jurong railway",
-                  "text": "The abandoned trackbed of the old Jurong railway line in Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.780294,
-                        1.32846
-                  ]
-            },
-            {
-                  "name": "Maju Camp Tunnel",
-                  "text": "A tunnel at the former military training area Maju Camp in Clementi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775428,
-                        1.326077
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "A Buddhist temple in Clementi.",
-                  "category": "religious",
-                  "coords": [
-                        103.77358,
-                        1.339233
                   ]
             },
             {
@@ -13863,15 +7316,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geylang Serai Heritage Gallery",
-                  "text": "Dieses Museum zeigt traditionelle malaiische Kulturartefakte und zeichnet die lebendige historische Entwicklung des Geylang-Serai-Viertels nach.",
-                  "category": "museum",
-                  "coords": [
-                        103.897202,
-                        1.316681
-                  ]
-            },
-            {
                   "name": "10 Jalan Eunos Gallery Space",
                   "text": "Eine intime Kunstgalerie, die auf einzigartige Weise in einem ruhigen Wohngebäude entlang der Jalan Eunos untergebracht ist.",
                   "category": "museum",
@@ -14132,15 +7576,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.899318,
                         1.310035
-                  ]
-            },
-            {
-                  "name": "Geylang Serai Heritage Gallery",
-                  "text": "Ez a múzeum hagyományos maláj kulturális leleteket mutat be, és nyomon követi a Geylang Serai negyed élénk történelmi fejlődését.",
-                  "category": "museum",
-                  "coords": [
-                        103.897202,
-                        1.316681
                   ]
             },
             {
@@ -14407,15 +7842,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geylang Serai Heritage Gallery",
-                  "text": "Acest muzeu prezintă artefacte culturale tradiționale malaeziene și urmărește evoluția istorică vibrantă a cartierului Geylang Serai.",
-                  "category": "museum",
-                  "coords": [
-                        103.897202,
-                        1.316681
-                  ]
-            },
-            {
                   "name": "10 Jalan Eunos Gallery Space",
                   "text": "O galerie de artă intimă, găzduită în mod unic într-o clădire liniștită, în stil rezidențial, de-a lungul străzii Jalan Eunos.",
                   "category": "museum",
@@ -14679,15 +8105,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geylang Serai Heritage Gallery",
-                  "text": "This museum showcases traditional Malay cultural artifacts and traces the vibrant historical evolution of the Geylang Serai precinct.",
-                  "category": "museum",
-                  "coords": [
-                        103.897202,
-                        1.316681
-                  ]
-            },
-            {
                   "name": "10 Jalan Eunos Gallery Space",
                   "text": "An intimate art gallery uniquely housed within a quiet, residential-style building along Jalan Eunos.",
                   "category": "museum",
@@ -14919,390 +8336,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "orchard-road-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mint Museum of Toys",
-                  "text": "Museum mit einer der weltweit größten Sammlungen von Vintage-Spielzeugen und Memorabilien an der Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Museum",
-                  "text": "Beherbergt den angeblichen linken Eckzahn Buddhas an der Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Das Battlebox Visitor Centre ist eine ehemalige britische unterirdische Kommandozentrale in Orchard Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Untergebracht im ehemaligen Obersten Gerichtshof und Rathaus an der Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Zentrum für Fotografie und Film mit Galerie und Fotobuchbibliothek an der Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Gegründet 1887, ist das Nationalmuseum von Singapur das älteste Museum des Landes, im Orchard-Road-Viertel.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Der Istana ist der offizielle Wohnsitz des Präsidenten von Singapur in Orchard Road.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Das Asian Civilisations Museum, eröffnet 1997, befindet sich im Orchard-Road-Viertel.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Das Peranakan Museum, untergebracht in einem Gebäude von 1912, widmet sich der Peranakan-Kultur, im Orchard-Road-Viertel.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Offizielle Residenz des Premierministers von Singapur an der Road.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Zeigt die Geschichte und Kultur der indischen Gemeinschaft Singapurs an der Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Viktorianischer gusseiserner Brunnen zur Erinnerung an Tan Kim Seng an der Road.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Die Esplanade Theatres on the Bay sind ein bekanntes Zentrum für darstellende Künste in Orchard Road.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "Zentrum für Design-Innovationen und Ausstellungen an der Road.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "St George's Church",
-                  "text": "St George's Church ist ein anglikanisches Gotteshaus in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.815087,
-                        1.30478
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Der Sri Thendayuthapani Tempel ist ein bedeutendes hinduistisches Gotteshaus in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Der Kwan Im Thong Hood Cho Tempel ist ein traditionelles chinesisches Gotteshaus nahe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su ist ein chinesischer Tempel und Ahnensaal in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka ist eine historische Moschee und ein Gotteshaus nahe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Die Saint Andrew's Cathedral ist die größte anglikanische Kathedrale und ein wichtiges Gotteshaus in der Gegend der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Die Cathedral of the Good Shepherd ist die älteste römisch-katholische Kirche und ein Gotteshaus nahe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Die Church of Saints Peter and Paul ist ein bedeutendes katholisches Gotteshaus im Viertel Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Die Masjid Sultan ist eine prominente und historische Moschee in der Gegend der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri Veeramakaliamman ist ein farbenfroher Hindu-Tempel und ein Gotteshaus in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Der Yueh Hai Ching Tempel ist eines der ältesten taoistischen Gotteshäuser in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Erbaut 1878, steht die Orchard Road Presbyterian Church an der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Wat Anada Metyarama ist ein anerkanntes thailändisch-buddhistisches Gotteshaus in der Gegend von Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Die Armenische Kirche des Heiligen Gregor des Erleuchters ist das älteste christliche Gotteshaus nahe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Die Masjid Bencoolen ist eine bekannte Moschee und ein Gotteshaus im Bezirk Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Die Prinsep St. Presbyterian Church ist ein etabliertes christliches Gotteshaus nahe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Die Chesed-El Synagoge ist ein bedeutendes jüdisches Gotteshaus in der Gegend von Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Die Church of the Sacred Heart ist ein römisch-katholisches Gotteshaus in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Der Hong San See Tempel ist ein bekanntes chinesisches Gotteshaus im Bezirk Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Die Masjid Abdul Gafoor ist eine architektonisch bemerkenswerte Moschee und ein Gotteshaus nahe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Die Kampong Kapor Methodist Church ist ein christliches Gotteshaus in der Gegend von Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Grace Assembly of God Singapore (Tanglin)",
-                  "text": "Die Grace Assembly of God ist ein prominentes christliches Gotteshaus in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.81648,
-                        1.294423
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Die Church of Our Lady of Lourdes ist ein historisches katholisches Gotteshaus in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Der Sri Mariamman Tempel ist das älteste hinduistische Gotteshaus der Stadt und befindet sich in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Die Church of St Alphonsus, auch bekannt als Novena Church, ist ein katholisches Gotteshaus nahe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
                   "name": "Masjid Al-Falah",
                   "text": "Die Masjid Al-Falah ist eine Moschee und ein Gotteshaus, das sich direkt im Gebiet der Orchard Road befindet.",
                   "category": "religious",
                   "coords": [
                         103.836663,
                         1.30377
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Der Sri Srinivasa Perumal Tempel ist ein bedeutendes hinduistisches Gotteshaus in der Nähe der Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "Der Leuchtturm, auch bekannt als Fort Canning Lighthouse, ist ein historisches maritimes Bauwerk nahe der Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Chinatown ist eine historische Attraktion und eine lebendige kulturelle Enklave in der Nähe der Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
                   ]
             },
             {
@@ -15313,432 +8352,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.839354,
                         1.303058
                   ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "Das House of Tan Teng Niah ist eine farbenfrohe historische Villa und Attraktion in der Nähe der Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
-            },
-            {
-                  "name": "Elgin Bridge",
-                  "text": "Die Elgin Bridge ist eine historische Straßenbrücke in der Nähe der Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.849313,
-                        1.289059
-                  ]
-            },
-            {
-                  "name": "Coleman Bridge",
-                  "text": "Die Coleman Bridge ist eine wichtige Brücke über den Singapore River in der Gegend der Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.848014,
-                        1.289756
-                  ]
-            },
-            {
-                  "name": "Clemenceau Bridge",
-                  "text": "Die Clemenceau Bridge ist eine bedeutende strukturelle Brücke in der Nähe des Bezirks Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.842452,
-                        1.290769
-                  ]
-            },
-            {
-                  "name": "Robertson Bridge",
-                  "text": "Die Robertson Bridge ist eine Fußgängerbrücke über den Fluss in der Gegend der Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.836443,
-                        1.289953
-                  ]
-            },
-            {
-                  "name": "Cavenagh Bridge",
-                  "text": "Die Cavenagh Bridge ist eine der ältesten Hängebrücken und ein Fußgängerübergang in der Nähe der Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852353,
-                        1.286551
-                  ]
-            },
-            {
-                  "name": "Pearl's Hill",
-                  "text": "Pearl's Hill ist ein kleiner Gipfel und ein historischer Stadthügel in der Nähe der Orchard Road.",
-                  "category": "natural",
-                  "coords": [
-                        103.83994,
-                        1.284548
-                  ]
-            },
-            {
-                  "name": "Fort Canning Park",
-                  "text": "Fort Canning Park ist ein historischer Park auf einem Hügel und eine Grünfläche nahe der Orchard Road.",
-                  "category": "park",
-                  "coords": [
-                        103.846713,
-                        1.294038
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Múzeum a vintage játékok és emléktárgyak világ egyik legnagyobb gyűjteményével a Roadon.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Museum",
-                  "text": "Buddha állítólagos bal szemfogát őrzi a Roadon.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "A Battlebox Visitor Centre egy egykori brit földalatti parancsnoki központ Orchard Roadon.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Az egykori Legfelsőbb Bíróság és Városháza épületében található a Roadon.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Fotó- és filmközpont galériával és fotóskönyv könyvtárral a Roadon.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Az 1887-ben alapított Szingapúri Nemzeti Múzeum az ország legrégebbi múzeuma, az Orchard Road negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Az Istana Szingapúr elnökének hivatalos rezidenciája Orchard Roadon.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Az 1997-ben megnyílt Ázsiai Civilizációk Múzeuma az Orchard Road negyedben található.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Az 1912-es épületben elhelyezkedő Peranakan Múzeum a peranakan kultúrát mutatja be, az Orchard Road negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Szingapúr miniszterelnökének hivatalos rezidenciája a Roadon.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Bemutatja a szingapúri indiai közösség történelmét és kultúráját a Roadon.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Viktoriánus öntöttvas szökőkút Tan Kim Seng emlékére a Roadon.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Az Esplanade Theatres on the Bay egy ismert előadó-művészeti központ Orchard Roadon.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "Formatervezési innovációs és kiállítási központ a Roadon.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "St George's Church",
-                  "text": "A St George's Church egy anglikán istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.815087,
-                        1.30478
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "A Sri Thendayuthapani Temple egy jelentős hindu istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "A Kwan Im Thong Hood Cho Temple egy hagyományos kínai istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "A Tan Si Chong Su egy kínai templom és ősi csarnok az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "A Masjid Omar Kampung Melaka egy történelmi mecset, amely istentiszteleti helyként szolgál az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "A Saint Andrew's Cathedral a legnagyobb anglikan katedrális és egy fontos istentiszteleti hely az Orchard Road környékén.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "A Jó Pásztor Katedrális a legrégebbi római katolikus templom és istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "A Church of Saints Peter and Paul egy figyelemre méltó katolikus istentiszteleti hely az Orchard Road negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "A Masjid Sultan egy kiemelkedő és történelmi mecset az Orchard Road környékén.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "A Sri Veeramakaliamman egy színes hindu templom és istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "A Yueh Hai Ching Temple az egyik legrégebbi taoista istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Az 1878-ban épült Orchard Road-i Presbiteriánus Templom az Orchard Roadon található.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "A Wat Anada Metyarama egy elismert thai buddhista istentiszteleti hely az Orchard Road környékén.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "A Világosító Szent Gergely Örmény Templom a legrégebbi keresztény istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "A Masjid Bencoolen egy jól ismert mecset és istentiszteleti hely az Orchard Road negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "A Prinsep St. Presbyterian Church egy elismert keresztény istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "A Chesed-El Zsinagóga egy kiemelkedő zsidó istentiszteleti hely az Orchard Road környékén.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "A Church of the Sacred Heart egy római katolikus istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "A Hong San See Temple egy jól ismert kínai istentiszteleti hely az Orchard Road negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "A Masjid Abdul Gafoor egy építészetileg figyelemre méltó mecset és istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "A Kampong Kapor Methodista Templom egy keresztény istentiszteleti hely az Orchard Road környékén.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Grace Assembly of God Singapore (Tanglin)",
-                  "text": "A Grace Assembly of God egy kiemelkedő keresztény istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.81648,
-                        1.294423
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "A Church of Our Lady of Lourdes egy történelmi katolikus istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "A Sri Mariamman Temple a város legrégebbi hindu istentiszteleti helye, amely az Orchard Road közelében található.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "A St Alphonsus Templom, más néven Novena Templom, egy katolikus istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
             {
                   "name": "Masjid Al-Falah",
                   "text": "A Masjid Al-Falah egy mecset és istentiszteleti hely, amely közvetlenül az Orchard Road környékén található.",
@@ -15749,33 +8365,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "A Sri Srinivasa Perumal Temple egy jelentős hindu istentiszteleti hely az Orchard Road közelében.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "A világítótorony, más néven Fort Canning Lighthouse, egy történelmi tengerészeti építmény az Orchard Road közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "A kínai negyed egy történelmi látványosság és egy élénk kulturális enklávé az Orchard Road közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
                   "name": "Emerald Hill",
                   "text": "Az Emerald Hill egy vonzó természetvédelmi terület és turisztikai látványosság, közvetlenül az Orchard Road mellett.",
                   "category": "landmark",
@@ -15783,432 +8372,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.839354,
                         1.303058
                   ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "A Tan Teng Niah háza egy színes történelmi villa és látványosság az Orchard Road közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
-            },
-            {
-                  "name": "Elgin Bridge",
-                  "text": "Az Elgin-híd egy történelmi közúti híd az Orchard Road szomszédságában.",
-                  "category": "landmark",
-                  "coords": [
-                        103.849313,
-                        1.289059
-                  ]
-            },
-            {
-                  "name": "Coleman Bridge",
-                  "text": "A Coleman-híd egy fontos híd a Szingapúr folyó felett, az Orchard Road környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.848014,
-                        1.289756
-                  ]
-            },
-            {
-                  "name": "Clemenceau Bridge",
-                  "text": "A Clemenceau-híd egy jelentős szerkezeti híd az Orchard Road negyed közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        103.842452,
-                        1.290769
-                  ]
-            },
-            {
-                  "name": "Robertson Bridge",
-                  "text": "A Robertson-híd egy gyalogoshíd a folyó felett, az Orchard Road környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.836443,
-                        1.289953
-                  ]
-            },
-            {
-                  "name": "Cavenagh Bridge",
-                  "text": "A Cavenagh-híd az egyik legrégebbi függőhíd és gyalogos átkelőhely az Orchard Road közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852353,
-                        1.286551
-                  ]
-            },
-            {
-                  "name": "Pearl's Hill",
-                  "text": "A Pearl's Hill egy kis csúcs és egy történelmi városi domb az Orchard Road közelében.",
-                  "category": "natural",
-                  "coords": [
-                        103.83994,
-                        1.284548
-                  ]
-            },
-            {
-                  "name": "Fort Canning Park",
-                  "text": "A Fort Canning Park egy történelmi dombtetőn lévő park és zöldterület az Orchard Road környékén.",
-                  "category": "park",
-                  "coords": [
-                        103.846713,
-                        1.294038
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Muzeu cu una dintre cele mai mari colecții de jucării și amintiri vintage din lume, pe Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Museum",
-                  "text": "Adăpostește ceea ce se crede a fi caninul stâng al lui Buddha, pe Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Battlebox Visitor Centre este un fost centru de comandă subteran britanic situat în Orchard Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Adăpostit în fosta Curte Supremă și Primărie, pe Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Centru de fotografie și film cu galerie și bibliotecă de cărți de fotografie pe Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Fondat în 1887, Muzeul Național al Singapore este cel mai vechi muzeu al țării, în zona Orchard Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Istana este reședința oficială a președintelui statului Singapore, situată în Orchard Road.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Muzeul Civilizațiilor Asiatice, deschis în 1997, este situat în zona Orchard Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Muzeul Peranakan, găzduit într-o clădire din 1912, este dedicat culturii peranakane, în zona Orchard Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Reședința oficială a prim-ministrului Singapore, pe Road.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Prezintă istoria și cultura comunității indiene din Singapore, pe Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Fântână victoriană din fontă în comemorarea lui Tan Kim Seng, pe Road.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay este un centru de arte performative renumit situat în Orchard Road.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "Centru de inovație în design și expoziții pe Road.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "St George's Church",
-                  "text": "St George's Church este un lăcaș de cult anglican situat lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.815087,
-                        1.30478
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Templul Sri Thendayuthapani este un important lăcaș de cult hindus din apropiere de Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Kwan Im Thong Hood Cho Temple este un lăcaș de cult tradițional chinezesc, situat lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su este un templu chinezesc și un sanctuar ancestral din apropiere de Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka este o moschee istorică ce servește ca lăcaș de cult lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Catedrala Saint Andrew este cea mai mare catedrală anglicană și un important lăcaș de cult din zona Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Catedrala Bunului Păstor este cea mai veche biserică romano-catolică și lăcaș de cult de lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Biserica Sfinții Petru și Pavel este un lăcaș de cult catolic notabil din districtul Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Masjid Sultan este o moschee proeminentă și istorică situată în zona Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri Veeramakaliamman este un templu hindus colorat și un lăcaș de cult situat lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Templul Yueh Hai Ching este unul dintre cele mai vechi lăcașuri de cult taoiste din apropiere de Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Construită în 1878, Biserica Presbiteriană Orchard Road se află pe Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Wat Anada Metyarama este un lăcaș de cult budist thailandez recunoscut, situat în zona Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Biserica Armeană a Sfântului Grigorie Luminătorul este cel mai vechi lăcaș de cult creștin din apropiere de Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen este o moschee și lăcaș de cult bine-cunoscut situat în districtul Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Biserica Prezbiteriană de pe strada Prinsep este un lăcaș de cult creștin stabilit lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Sinagoga Chesed-El este un lăcaș de cult evreiesc proeminent, situat în zona Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Biserica Inima Sacră este un lăcaș de cult romano-catolic situat lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Templul Hong San See este un lăcaș de cult chinezesc bine-cunoscut din districtul Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Masjid Abdul Gafoor este o moschee și lăcaș de cult remarcabil din punct de vedere arhitectural de lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Biserica Metodistă Kampong Kapor este un lăcaș de cult creștin situat în zona Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Grace Assembly of God Singapore (Tanglin)",
-                  "text": "Grace Assembly of God este un lăcaș de cult creștin proeminent, situat lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.81648,
-                        1.294423
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Biserica Doamnei Noastre de la Lourdes este un lăcaș de cult catolic istoric situat lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Templul Sri Mariamman este cel mai vechi lăcaș de cult hindus din oraș, situat lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Biserica Sf. Alfons, cunoscută și sub numele de Biserica Novena, este un lăcaș de cult catolic de lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
             {
                   "name": "Masjid Al-Falah",
                   "text": "Masjid Al-Falah este o moschee și lăcaș de cult situat direct în zona Orchard Road.",
@@ -16219,33 +8385,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Templul Sri Srinivasa Perumal este un important lăcaș de cult hindus situat lângă Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "Farul, cunoscut și sub numele de Farul Fort Canning, este o structură maritimă istorică de lângă Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Chinatown este o atracție istorică și o enclavă culturală vibrantă situată lângă Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
                   "name": "Emerald Hill",
                   "text": "Emerald Hill este o zonă de conservare atractivă și o atracție turistică situată chiar lângă Orchard Road.",
                   "category": "landmark",
@@ -16253,432 +8392,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.839354,
                         1.303058
                   ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "Casa lui Tan Teng Niah este o vilă istorică colorată și o atracție din apropiere de Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
-            },
-            {
-                  "name": "Elgin Bridge",
-                  "text": "Podul Elgin este un pod rutier istoric situat în vecinătatea Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.849313,
-                        1.289059
-                  ]
-            },
-            {
-                  "name": "Coleman Bridge",
-                  "text": "Podul Coleman este un pod important care traversează râul Singapore lângă zona Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.848014,
-                        1.289756
-                  ]
-            },
-            {
-                  "name": "Clemenceau Bridge",
-                  "text": "Podul Clemenceau este un pod structural major situat lângă districtul Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.842452,
-                        1.290769
-                  ]
-            },
-            {
-                  "name": "Robertson Bridge",
-                  "text": "Podul Robertson este un pod pietonal care traversează râul în zona Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.836443,
-                        1.289953
-                  ]
-            },
-            {
-                  "name": "Cavenagh Bridge",
-                  "text": "Podul Cavenagh este unul dintre cele mai vechi poduri suspendate și o trecere de pietoni de lângă Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852353,
-                        1.286551
-                  ]
-            },
-            {
-                  "name": "Pearl's Hill",
-                  "text": "Pearl's Hill este un mic vârf și un deal urban istoric situat lângă Orchard Road.",
-                  "category": "natural",
-                  "coords": [
-                        103.83994,
-                        1.284548
-                  ]
-            },
-            {
-                  "name": "Fort Canning Park",
-                  "text": "Parcul Fort Canning este un parc istoric pe un deal și un spațiu verde din apropiere de zona Orchard Road.",
-                  "category": "park",
-                  "coords": [
-                        103.846713,
-                        1.294038
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Museum with one of the world's largest collections of vintage toys and memorabilia on Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Museum",
-                  "text": "Houses what is believed to be Buddha's left canine tooth on Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Battlebox Visitor Centre is a former British underground command centre in Orchard Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Housed in the former Supreme Court and City Hall buildings on Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Photography and film centre with a gallery and a library of photography books on Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Founded in 1887, the National Museum of Singapore is the nation's oldest museum, in the Orchard Road area.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "The Istana is the official residence of the President of Singapore, located in Orchard Road.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Opened in 1997, the Asian Civilisations Museum is located in the Orchard Road area.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "The Peranakan Museum, housed in a 1912 building, is dedicated to Peranakan culture, in the Orchard Road area.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Official residence of the Prime Minister of Singapore on Road.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Showcases the history and culture of Singapore's Indian community on Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Victorian cast-iron fountain commemorating Tan Kim Seng on Road.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay is a well-known performing arts centre located in Orchard Road.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "Centre for design innovation and exhibitions on Road.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "St George's Church",
-                  "text": "St George's Church is an Anglican place of worship located near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.815087,
-                        1.30478
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Sri Thendayuthapani Temple is a prominent Hindu place of worship near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Kwan Im Thong Hood Cho Temple is a traditional Chinese place of worship situated near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su is a Chinese temple and ancestral hall near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka is an historic mosque serving as a place of worship near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Saint Andrew's Cathedral is the largest Anglican cathedral and a major place of worship in the Orchard Road area.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Cathedral of the Good Shepherd is the oldest Roman Catholic church and place of worship near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Church of Saints Peter and Paul is a notable Catholic place of worship in the Orchard Road district.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Masjid Sultan is a prominent and historic mosque located in the Orchard Road area.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri Veeramakaliamman is a colorful Hindu temple and place of worship situated near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Yueh Hai Ching Temple is one of the oldest Taoist places of worship near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Built in 1878, the Orchard Road Presbyterian Church is located on Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Wat Anada Metyarama is a recognized Thai Buddhist place of worship situated in the Orchard Road area.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "The Armenian Church of Saint Gregory the Illuminator is the oldest Christian place of worship near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen is a well-known mosque and place of worship located in the Orchard Road district.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Prinsep St. Presbyterian Church is an established Christian place of worship near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue is a prominent Jewish place of worship located in the Orchard Road area.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Church of the Sacred Heart is a Roman Catholic place of worship situated near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Hong San See Temple is a well-known Chinese place of worship in the Orchard Road district.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Masjid Abdul Gafoor is an architecturally notable mosque and place of worship near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Kampong Kapor Methodist Church is a Christian place of worship located in the Orchard Road area.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Grace Assembly of God Singapore (Tanglin)",
-                  "text": "Grace Assembly of God is a prominent Christian place of worship situated near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.81648,
-                        1.294423
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Church of Our Lady of Lourdes is a historic Catholic place of worship located near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Sri Mariamman Temple is the oldest Hindu place of worship in the city, located near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "The Church of St Alphonsus, also known as Novena Church, is a Catholic place of worship near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
             {
                   "name": "Masjid Al-Falah",
                   "text": "Masjid Al-Falah is a mosque and place of worship situated directly within the Orchard Road area.",
@@ -16689,111 +8405,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Sri Srinivasa Perumal Temple is a significant Hindu place of worship located near Orchard Road.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "The Lighthouse, also known as Fort Canning Lighthouse, is a historic maritime structure near Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Chinatown is a historic attraction and vibrant cultural enclave situated near Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
                   "name": "Emerald Hill",
                   "text": "Emerald Hill is an attractive conservation area and tourist attraction located just off Orchard Road.",
                   "category": "landmark",
                   "coords": [
                         103.839354,
                         1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "The House of Tan Teng Niah is a colorful historical villa and attraction near Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
-            },
-            {
-                  "name": "Elgin Bridge",
-                  "text": "Elgin Bridge is a historic vehicular bridge located in the vicinity of Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.849313,
-                        1.289059
-                  ]
-            },
-            {
-                  "name": "Coleman Bridge",
-                  "text": "Coleman Bridge is an important bridge crossing the Singapore River near the Orchard Road area.",
-                  "category": "landmark",
-                  "coords": [
-                        103.848014,
-                        1.289756
-                  ]
-            },
-            {
-                  "name": "Clemenceau Bridge",
-                  "text": "Clemenceau Bridge is a major structural bridge situated near the Orchard Road district.",
-                  "category": "landmark",
-                  "coords": [
-                        103.842452,
-                        1.290769
-                  ]
-            },
-            {
-                  "name": "Robertson Bridge",
-                  "text": "Robertson Bridge is a pedestrian bridge spanning the river near the Orchard Road area.",
-                  "category": "landmark",
-                  "coords": [
-                        103.836443,
-                        1.289953
-                  ]
-            },
-            {
-                  "name": "Cavenagh Bridge",
-                  "text": "Cavenagh Bridge is one of the oldest suspension bridges and a pedestrian crossing near Orchard Road.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852353,
-                        1.286551
-                  ]
-            },
-            {
-                  "name": "Pearl's Hill",
-                  "text": "Pearl's Hill is a small peak and historic urban hill located near Orchard Road.",
-                  "category": "natural",
-                  "coords": [
-                        103.83994,
-                        1.284548
-                  ]
-            },
-            {
-                  "name": "Fort Canning Park",
-                  "text": "Fort Canning Park is a historic hilltop park and green space near the Orchard Road area.",
-                  "category": "park",
-                  "coords": [
-                        103.846713,
-                        1.294038
                   ]
             }
       ]
@@ -17157,111 +8774,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "little-india-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mint Museum of Toys",
-                  "text": "Das Mint Museum of Toys in Little India stellt eine umfangreiche Sammlung von Vintage-Spielzeugen aus.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Temple",
-                  "text": "Das Buddha Tooth Relic Museum in Little India zeigt buddhistische Kunst und Kultur.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Das Battlebox Visitor Centre in Little India ist ein Museum in einem ehemaligen unterirdischen Kommandozentrum.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Die National Gallery Singapore in Little India ist ein bedeutendes Museum für südostasiatische Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Fotografie- und Filmzentrum mit Galerie und Bibliothek im Little India.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Der Istana Kampong Glam ist ein historischer ehemaliger malaiischer Palast in Little India.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Gegründet 1887, ist das Nationalmuseum von Singapur das älteste Museum des Landes, im Little-India-Viertel.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
                   "name": "Istana",
                   "text": "Der Istana in Little India dient als offizielle Residenz des Präsidenten von Singapur.",
                   "category": "castle",
                   "coords": [
                         103.842881,
                         1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Das Asian Civilisations Museum in Little India widmet sich dem vielfältigen Erbe Asiens.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Das Peranakan Museum in Little India widmet sich der Kultur der Peranakan-Gemeinschaften in Südostasien.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Erbaut 1830, ist das Nagore Durgha Indian Muslim Heritage Centre ein Museum in Little India.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek ist eine bemerkenswerte Residenz aus dem 19. Jahrhundert in Little India.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
                   ]
             },
             {
@@ -17274,102 +8792,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Viktorianischer gusseiserner Brunnen im Little India.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay in Little India ist ein Zentrum für darstellende Künste, das für seine durianförmige Architektur bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Das Kallang Theatre ist ein bekannter Veranstaltungsort für darstellende Künste in Little India.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "Das National Design Centre in Little India dient als Zentrum für Design und Innovation.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Thekchen Choling ist ein tibetisch-buddhistischer Tempel in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Hindu-Tempel, Lord Murugan geweiht, im Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
                   "name": "Kwan Im Thong Hood Cho Temple",
                   "text": "Der Kwan Im Thong Hood Cho Temple in Little India ist ein beliebter traditioneller chinesischer Tempel, der der Göttin der Barmherzigkeit gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         103.852942,
                         1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su ist ein historischer chinesischer Ahnentempel in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Die Masjid Omar Kampung Melaka ist eine historische Moschee in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Geweiht 1862, ist die St. Andrew's Cathedral eine anglikanische Kathedrale in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Die Cathedral of the Good Shepherd in Little India ist die älteste römisch-katholische Kirche des Landes.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
                   ]
             },
             {
@@ -17382,48 +8810,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Sultan",
-                  "text": "Die Masjid Sultan ist eine markante und historische Moschee in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
                   "name": "Sri Veeramakaliamman",
                   "text": "Sri Veeramakaliamman ist ein ikonischer Hindu-Tempel in Little India, der der Göttin Kali gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         103.852399,
                         1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Der Yueh Hai Ching Temple ist einer der ältesten daoistischen Tempel in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Die Orchard Road Presbyterian Church ist eine historische christliche Kirche in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Erbaut 1835, ist die Armenische Kirche die älteste Kirche Singapurs, in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
                   ]
             },
             {
@@ -17445,42 +8837,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Die Chesed-El Synagogue ist ein historisches jüdisches Gotteshaus in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Die Church of the Sacred Heart ist eine prominente römisch-katholische Kirche in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Der Hong San See Temple ist eine angesehene chinesische Kultstätte in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abrar",
-                  "text": "Die Al-Abrar Mosque ist eine frühe Moschee und bedeutende Kultstätte in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.847261,
-                        1.280308
-                  ]
-            },
-            {
                   "name": "Masjid Abdul Gafoor",
                   "text": "Die Masjid Abdul Gafoor ist eine markante und architektonisch reiche Moschee in Little India.",
                   "category": "religious",
@@ -17496,24 +8852,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.854021,
                         1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Die Hajjah Fatimah Mosque ist eine bedeutende islamische Kultstätte in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Die Church of Our Lady of Lourdes ist eine historische katholische Pfarrkirche in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
                   ]
             },
             {
@@ -17533,162 +8871,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.846941,
                         1.328431
                   ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Erbaut 1843, ist der Sri-Mariamman-Tempel der älteste hinduistische Tempel Singapurs, in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Die Church of St Alphonsus, auch bekannt als Novena Church, ist eine katholische Kirche in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "Das Lian Shan Shuang Lin Monastery ist ein großer buddhistischer Tempelkomplex in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330212
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Die Masjid Al-Falah ist eine moderne Moschee im Herzen von Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Die Masjid Hajjah Rahimabi Kebun Limau ist eine anerkannte lokale Moschee in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Der Sri Lankaramaya Buddhist Temple ist eine bedeutende sri-lankische buddhistische Kultstätte in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Die Elim Church Assembly Of God ist eine etablierte christliche Kirche in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Former Malay Film Productions ist eine historische Attraktion in Little India, die die frühe regionale Filmindustrie beleuchtet.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "Die Balestier Art Deco shophouses sind eine bemerkenswerte architektonische Attraktion in Little India.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
-                  ]
-            },
-            {
-                  "name": "Sim Kwong Ho shophouses",
-                  "text": "Sim Kwong Ho shophouses ist eine Attraktion in Little India, die für ihre historische Architektur bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852534,
-                        1.323241
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "A Mint Museum of Toys egy múzeum Little Indiában, amely vintage játékok kiterjedt gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Temple",
-                  "text": "A Little Indiában található Buddha Tooth Relic Museum buddhista művészetet és kultúrát mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "A Little Indiában található Battlebox Visitor Centre egy korábbi föld alatti parancsnoki központban működő múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "A Little Indiában található National Gallery Singapore egy délkelet-ázsiai művészetet bemutató jelentős múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Fotó- és filmközpont galériával és könyvtárral a Little India negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Az Istana Kampong Glam egy történelmi egykori maláj palota Little Indiában.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Az 1887-ben alapított Szingapúri Nemzeti Múzeum az ország legrégebbi múzeuma, a Little India negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
             {
                   "name": "Istana",
                   "text": "A Little Indiában található Istana Szingapúr elnökének hivatalos rezidenciája.",
@@ -17696,42 +8881,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.842881,
                         1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "A Little Indiában lévő Asian Civilisations Museum Ázsia sokszínű örökségének szenteli magát.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "A Little Indiában található Peranakan Museum a délkelet-ázsiai peranakan közösségek kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Az 1830-ban épült Nagore Durgha Indian Muslim Heritage Centre múzeum a Little Indiában.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "A Sri Temasek egy figyelemre méltó 19. századi rezidencia Little Indiában.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
                   ]
             },
             {
@@ -17744,102 +8893,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Viktoriánus öntöttvas szökőkút a Little Indiában.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "A Little Indiában található Esplanade Theatres on the Bay egy előadó-művészeti központ, amely durián alakú építészetéről híres.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "A Kallang Theatre egy kiemelkedő előadó-művészeti helyszín Little Indiában.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "A Little Indiában található National Design Centre a design és az innováció központjaként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "A Thekchen Choling egy tibeti buddhista templom Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Lord Murugan tiszteletére emelt hindu templom a Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
                   "name": "Kwan Im Thong Hood Cho Temple",
                   "text": "A Little Indiában található Kwan Im Thong Hood Cho Temple egy népszerű hagyományos kínai templom, amelyet az Irgalom Istennőjének szenteltek.",
                   "category": "religious",
                   "coords": [
                         103.852942,
                         1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "A Tan Si Chong Su egy történelmi kínai ősi templom Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "A Masjid Omar Kampung Melaka egy történelmi mecset Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Az 1862-ben felszentelt Szent András-székesegyház anglikán katedrális a Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "A Little Indiában lévő Cathedral of the Good Shepherd az ország legrégebbi római katolikus temploma.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
                   ]
             },
             {
@@ -17852,48 +8911,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Sultan",
-                  "text": "A Masjid Sultan egy kiemelkedő és történelmi mecset Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
                   "name": "Sri Veeramakaliamman",
                   "text": "A Sri Veeramakaliamman egy Káli istennőnek szentelt ikonikus hindu templom Little Indiában.",
                   "category": "religious",
                   "coords": [
                         103.852399,
                         1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "A Yueh Hai Ching Temple az egyik legrégebbi taoista templom Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Az Orchard Road Presbyterian Church egy történelmi keresztény istentiszteleti hely Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Az 1835-ben épült Örmény Templom Szingapúr legrégebbi temploma, a Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
                   ]
             },
             {
@@ -17915,42 +8938,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chesed-El Synagogue",
-                  "text": "A Chesed-El Synagogue egy történelmi zsidó istentiszteleti hely Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "A Church of the Sacred Heart egy kiemelkedő római katolikus templom Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "A Hong San See Temple egy elismert kínai istentiszteleti hely Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abrar",
-                  "text": "Az Al-Abrar Mosque egy korai mecset és jelentős istentiszteleti hely Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.847261,
-                        1.280308
-                  ]
-            },
-            {
                   "name": "Masjid Abdul Gafoor",
                   "text": "A Masjid Abdul Gafoor egy jellegzetes és építészetileg gazdag mecset Little Indiában.",
                   "category": "religious",
@@ -17966,24 +8953,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.854021,
                         1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "A Hajjah Fatimah Mosque egy kiemelkedő iszlám istentiszteleti hely Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "A Church of Our Lady of Lourdes egy történelmi katolikus plébániatemplom Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
                   ]
             },
             {
@@ -18003,162 +8972,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.846941,
                         1.328431
                   ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Az 1843-ban épült Sri Mariamman-templom Szingapúr legrégebbi hindu temploma, a Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "A Church of St Alphonsus, széles körben ismert nevén Novena Church, egy katolikus istentiszteleti hely Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "A Lian Shan Shuang Lin Monastery egy jelentős buddhista templomkomplexum Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330212
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "A Masjid Al-Falah egy modern mecset Little India szívében.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "A Masjid Hajjah Rahimabi Kebun Limau egy elismert helyi mecset Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "A Sri Lankaramaya Buddhist Temple egy kiemelkedő Srí Lanka-i buddhista istentiszteleti hely Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Az Elim Church Assembly Of God egy bevált keresztény istentiszteleti hely Little Indiában.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "A Former Malay Film Productions egy történelmi látványosság Little Indiában, amely a korai regionális filmipart emeli ki.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "A Balestier Art Deco shophouses egy figyelemre méltó építészeti látványosság Little Indiában.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
-                  ]
-            },
-            {
-                  "name": "Sim Kwong Ho shophouses",
-                  "text": "A Sim Kwong Ho shophouses egy látványosság Little India területén, amely történelmi építészetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852534,
-                        1.323241
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Mint Museum of Toys este un muzeu din Little India care prezintă o colecție extinsă de jucării de epocă.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Temple",
-                  "text": "Muzeul Relicvei Dintelui lui Buddha din Little India prezintă artă și cultură budistă.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Battlebox Visitor Centre din Little India este un muzeu situat într-un fost centru de comandă subteran.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "National Gallery Singapore din Little India este un muzeu proeminent care adăpostește artă din Asia de Sud-Est.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Centru de fotografie și film cu galerie și bibliotecă în Little India.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam este un fost palat istoric malay situat în Little India.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Fondat în 1887, Muzeul Național al Singapore este cel mai vechi muzeu al țării, în cartierul Little India.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
             {
                   "name": "Istana",
                   "text": "Istana din Little India servește drept reședință oficială a Președintelui din Singapore.",
@@ -18166,42 +8982,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.842881,
                         1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Asian Civilisations Museum din Little India este dedicat patrimoniului divers al Asiei.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Peranakan Museum din Little India explorează cultura comunităților Peranakan din Asia de Sud-Est.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Construit în 1830, Centrul de Patrimoniu Indian Musulman Nagore Durgha este un muzeu în Little India.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek este o reședință notabilă din secolul al XIX-lea situată în Little India.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
                   ]
             },
             {
@@ -18214,102 +8994,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Fântână victoriană din fontă în Little India.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay din Little India este un centru de arte ale spectacolului faimos pentru arhitectura sa în formă de durian.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Kallang Theatre este un loc proeminent pentru artele spectacolului, situat în Little India.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "National Design Centre din Little India servește drept centru pentru design și inovație.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Thekchen Choling este un templu budist tibetan situat în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Templu hindus dedicat lui Lord Murugan în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
                   "name": "Kwan Im Thong Hood Cho Temple",
                   "text": "Templul Kwan Im Thong Hood Cho din Little India este un templu chinezesc tradițional popular dedicat Zeiței Milei.",
                   "category": "religious",
                   "coords": [
                         103.852942,
                         1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su este un templu ancestral chinezesc istoric din Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka este o moschee istorică situată în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Consacrată în 1862, Catedrala Sf. Andrei este o catedrală anglicană în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Catedrala Bunului Păstor din Little India este cea mai veche biserică romano-catolică din țară.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
                   ]
             },
             {
@@ -18322,48 +9012,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Sultan",
-                  "text": "Masjid Sultan este o moschee proeminentă și istorică situată în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
                   "name": "Sri Veeramakaliamman",
                   "text": "Sri Veeramakaliamman este un templu hindus iconic dedicat zeiței Kali din Little India.",
                   "category": "religious",
                   "coords": [
                         103.852399,
                         1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Templul Yueh Hai Ching este unul dintre cele mai vechi temple taoiste situate în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Biserica Presbiteriană Orchard Road este un lăcaș de cult creștin istoric situat în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Construită în 1835, Biserica Armeană este cea mai veche biserică din Singapore, în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
                   ]
             },
             {
@@ -18385,42 +9039,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Sinagoga Chesed-El este un lăcaș de cult evreiesc istoric situat în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Biserica Inimii Sacre este o biserică romano-catolică proeminentă din zona Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Templul Hong San See este un lăcaș de cult chinezesc distins situat în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abrar",
-                  "text": "Moscheea Al-Abrar este o moschee veche și un lăcaș de cult semnificativ din Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.847261,
-                        1.280308
-                  ]
-            },
-            {
                   "name": "Masjid Abdul Gafoor",
                   "text": "Masjid Abdul Gafoor este o moschee distinctivă și bogată arhitectural din Little India.",
                   "category": "religious",
@@ -18436,24 +9054,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.854021,
                         1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Moscheea Hajjah Fatimah este un lăcaș de cult islamic proeminent situat în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Biserica Doamnei Noastre de la Lourdes este o biserică parohială catolică istorică din Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
                   ]
             },
             {
@@ -18473,162 +9073,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.846941,
                         1.328431
                   ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Construit în 1843, Templul Sri Mariamman este cel mai vechi templu hindus din Singapore, în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Biserica Sfântul Alfons, cunoscută și ca Biserica Novena, este un lăcaș de cult catolic din Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "Mănăstirea Lian Shan Shuang Lin este un complex major de temple budiste situat în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330212
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Masjid Al-Falah este o moschee modernă situată în inima zonei Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Masjid Hajjah Rahimabi Kebun Limau este o moschee locală recunoscută, situată în Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Templul Budist Sri Lankaramaya este un lăcaș de cult budist sri lankez proeminent din Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Elim Church Assembly Of God este un lăcaș de cult creștin consacrat din Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Fostele Producții de Film Malay este o atracție istorică din Little India care evidențiază industria cinematografică regională timpurie.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "Casele cu magazine Art Deco din Balestier sunt o atracție arhitecturală notabilă situată în Little India.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
-                  ]
-            },
-            {
-                  "name": "Sim Kwong Ho shophouses",
-                  "text": "Sim Kwong Ho shophouses este o atracție turistică situată în Little India, cunoscută pentru arhitectura sa istorică.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852534,
-                        1.323241
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "The Mint Museum of Toys is a museum in Little India that features an extensive collection of vintage toys.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Museum",
-                  "text": "The Buddha Tooth Relic Museum in Little India showcases Buddhist art and culture.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "The Battlebox Visitor Centre in Little India is a museum located in a former underground command centre.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "The National Gallery Singapore in Little India is a prominent museum housing Southeast Asian art.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Photography and film centre with a gallery and library in Little India.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Istana Kampong Glam is a historical former Malay palace situated in Little India.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Founded in 1887, the National Museum of Singapore is Singapore's oldest museum, in the Little India district.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
             {
                   "name": "Istana",
                   "text": "The Istana in Little India serves as the official residence of the President of Singapore.",
@@ -18636,42 +9083,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.842881,
                         1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "The Asian Civilisations Museum in Little India is dedicated to the diverse heritage of Asia.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "The Peranakan Museum in Little India explores the culture of Peranakan communities in Southeast Asia.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Built in 1830, the Nagore Durgha Indian Muslim Heritage Centre is a museum in Little India.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek is a notable 19th-century residence located in Little India.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
                   ]
             },
             {
@@ -18684,102 +9095,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Victorian cast-iron fountain in Little India.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Esplanade Theatres on the Bay in Little India is a performing arts centre famous for its durian-shaped architecture.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Kallang Theatre is a prominent venue for performing arts located in Little India.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
-                  ]
-            },
-            {
-                  "name": "National Design Centre",
-                  "text": "The National Design Centre in Little India serves as a hub for design and innovation.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Thekchen Choling is a Tibetan Buddhist temple located in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Hindu temple dedicated to Lord Murugan in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
                   "name": "Kwan Im Thong Hood Cho Temple",
                   "text": "Kwan Im Thong Hood Cho Temple in Little India is a popular traditional Chinese temple dedicated to the Goddess of Mercy.",
                   "category": "religious",
                   "coords": [
                         103.852942,
                         1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su is a historical Chinese ancestral temple in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Masjid Omar Kampung Melaka is a historic mosque serving the community in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Consecrated in 1862, Saint Andrew's Cathedral is an Anglican cathedral in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "The Cathedral of the Good Shepherd in Little India is the oldest Roman Catholic church in the country.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
                   ]
             },
             {
@@ -18792,48 +9113,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Sultan",
-                  "text": "Masjid Sultan is a prominent and historic mosque located in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
                   "name": "Sri Veeramakaliamman",
                   "text": "Sri Veeramakaliamman is an iconic Hindu temple dedicated to the goddess Kali in Little India.",
                   "category": "religious",
                   "coords": [
                         103.852399,
                         1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Yueh Hai Ching Temple is one of the oldest Taoist temples situated in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Orchard Road Presbyterian Church is a historic Christian place of worship located in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Built in 1835, the Armenian Church is the oldest church in Singapore, in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
                   ]
             },
             {
@@ -18855,42 +9140,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue is a historic Jewish place of worship located in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "The Church of the Sacred Heart is a prominent Roman Catholic church serving the Little India area.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Hong San See Temple is a distinguished Chinese place of worship located in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Al-Abrar Mosque",
-                  "text": "Al-Abrar Mosque is an early mosque and significant place of worship in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.847261,
-                        1.280308
-                  ]
-            },
-            {
                   "name": "Masjid Abdul Gafoor",
                   "text": "Masjid Abdul Gafoor is a distinctive and architecturally rich mosque in Little India.",
                   "category": "religious",
@@ -18909,24 +9158,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajjah Fatimah Mosque",
-                  "text": "Hajjah Fatimah Mosque is a prominent Islamic place of worship located in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "The Church of Our Lady of Lourdes is a historic Catholic parish church in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
                   "name": "Leng Ern Jee Temple",
                   "text": "Leng Ern Jee Temple is a dedicated Buddhist place of worship in Little India.",
                   "category": "religious",
@@ -18942,96 +9173,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.846941,
                         1.328431
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Built in 1843, Sri Mariamman Temple is the oldest Hindu temple in Singapore, in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "The Church of St Alphonsus, widely known as Novena Church, is a Catholic place of worship in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Lian Shan Shuang Lin Monastery",
-                  "text": "Lian Shan Shuang Lin Monastery is a major Buddhist temple complex situated in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.857069,
-                        1.330212
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Masjid Al-Falah is a modern mosque located in the heart of Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Masjid Hajjah Rahimabi Kebun Limau is a recognized local mosque situated in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Sri Lankaramaya Buddhist Temple is a prominent Sri Lankan Buddhist place of worship in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Elim Church Assembly Of God is an established Christian place of worship in Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Former Malay Film Productions is a historic attraction in Little India that highlights the early regional film industry.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "The Balestier Art Deco shophouses are a notable architectural attraction situated in Little India.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
-                  ]
-            },
-            {
-                  "name": "Sim Kwong Ho shophouses",
-                  "text": "Sim Kwong Ho shophouses is an attraction located in Little India, known for its historic architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        103.852534,
-                        1.323241
                   ]
             }
       ]
@@ -19095,147 +9236,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Buddha Tooth Relic Museum",
-                  "text": "Das Buddha Tooth Relic Museum ist eine kulturelle Einrichtung und ein Museum in der Gegend von Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Ehemaliges unterirdisches Kommandozentrum der Briten im Zweiten Weltkrieg in Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Die National Gallery Singapore ist ein bedeutendes Kunstmuseum nahe Kampong Glam, das eine große Sammlung südostasiatischer Kunst beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Singapore City Gallery",
-                  "text": "Die Singapore City Gallery ist ein Museum für Stadtplanung in der Umgebung von Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.84519,
-                        1.279502
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Fotografie- und Filmzentrum mit Galerie und Bibliothek in Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
                   "name": "Istana Kampong Glam",
                   "text": "Erbaut 1843, ist der Istana Kampong Glam ein ehemaliger malaiischer Palast im Kampong Glam.",
                   "category": "castle",
                   "coords": [
                         103.859948,
                         1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Gegründet 1887, ist das Nationalmuseum von Singapur das älteste Museum des Landes, im Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Der Istana ist die offizielle Residenz und der Arbeitsplatz des Präsidenten, nahe Kampong Glam.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Das Asian Civilisations Museum ist eine prominente Einrichtung nahe Kampong Glam, die panasiatischen Kulturen gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Das Peranakan Museum, untergebracht in einem Gebäude von 1912, widmet sich der Peranakan-Kultur, im Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Erbaut 1830, ist das Nagore Durgha Indian Muslim Heritage Centre ein Museum im Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek ist ein bemerkenswertes historisches Haus und eine offizielle Residenz nahe Kampong Glam.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Das Indian Heritage Centre ist ein Kulturmuseum in Kampong Glam, das die Geschichte der indischen Singapurer zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Viktorianischer gusseiserner Brunnen in Kampong Glam.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Eröffnet 2002, sind die Esplanade Theatres on the Bay ein Zentrum für darstellende Künste im Kampong Glam.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Theater für darstellende Künste in Kampong Glam.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
                   ]
             },
             {
@@ -19248,78 +9254,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thekchen Choling",
-                  "text": "Tibetisch-buddhistischer Tempel mit Thangka-Gemälden in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Hindu-Tempel, Lord Murugan geweiht, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Chinesischer buddhistischer Tempel, der Guan Yin (Göttin der Barmherzigkeit) gewidmet, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Erbaut 1878, ist Tan Si Chong Su ein chinesischer Clan-Tempel im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Erbaut 1820, ist die Masjid Omar Kampung Melaka die älteste Moschee Singapurs, im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Geweiht 1862, ist die St. Andrew's Cathedral eine anglikanische Kathedrale im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Erbaut 1847, ist die Kathedrale des Guten Hirten die römisch-katholische Kathedrale Singapurs, im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Erbaut 1870, ist die Kirche der Heiligen Peter und Paul eine römisch-katholische Kirche im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
                   "name": "Masjid Sultan",
                   "text": "Erbaut 1932, ist die Masjid Sultan (Sultan-Moschee) eine bedeutende Moschee im Kampong Glam.",
                   "category": "religious",
@@ -19329,228 +9263,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Hindu-Tempel, der Göttin Kali geweiht, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Erbaut 1976, ist der Yueh-Hai-Ching-Tempel ein taoistischer Tempel im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Erbaut 1924, ist die Telok Ayer Chinese Methodist Church eine methodistische Kirche im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847009,
-                        1.278471
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Erbaut 1878, ist die Orchard Road Presbyterian Church eine presbyterianische Kirche im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Erbaut 1835, ist die Armenische Kirche die älteste Kirche Singapurs, im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Erbaut 2004, ist die Masjid Bencoolen eine Moschee im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Presbyterianische Kirche an der Prinsep Street in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Erbaut 1905, ist die Chesed-El-Synagoge eine Synagoge im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Erbaut 1910, ist die Herz-Jesu-Kirche eine römisch-katholische Kirche im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Erbaut 1913, ist der Hong-San-See-Tempel ein chinesischer Tempel im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abrar",
-                  "text": "Erbaut 1855, ist die Al-Abrar-Moschee eine Moschee im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847261,
-                        1.280308
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Moschee mit einer einzigartigen Mischung aus maurischer und indischer Architektur in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Methodistische Kirche in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Moschee, erbaut von einer wohlhabenden Geschäftsfrau, mit einem schiefen Minarett in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
                   "name": "Church of Our Lady of Lourdes",
                   "text": "Church of Our Lady of Lourdes ist eine Kultstätte in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.855904,
                         1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Erbaut 1843, ist der Sri-Mariamman-Tempel der älteste hinduistische Tempel Singapurs, im Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Römisch-katholische Kirche, bekannt für ihre Novenen-Andachten, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Moschee in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Moschee, benannt nach Hajjah Rahimabi, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Sri-lankischer buddhistischer Tempel in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Pfingstkirche in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Historisches chinesisches Viertel mit traditionellen Ladenhäusern und Tempeln in Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "Marina Bay",
-                  "text": "Marina Bay Waterfront mit Marina Bay Sands und Singapore Flyer in Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853687,
-                        1.277658
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Ehemaliges malaiisches Filmproduktionsstudio in Kampong Glam, bekannt als Jalan Ampas.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "Reihen restaurierter Art-Déco-Ladenhäuser in Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
                   ]
             }
       ],
@@ -19565,147 +9283,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Buddha Tooth Relic Museum",
-                  "text": "A Buddha Tooth Relic Museum egy kulturális intézmény és múzeum Kampong Glam környékén.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "A brit hadsereg második világháborús földalatti parancsnoki központja Kampong Glamben.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "A szingapúri Nemzeti Galéria egy jelentős művészeti múzeum Kampong Glam közelében, amely a délkelet-ázsiai művészet nagy gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Singapore City Gallery",
-                  "text": "A Singapore City Gallery egy várostervezési múzeum, amely Kampong Glam szomszédságában található.",
-                  "category": "museum",
-                  "coords": [
-                        103.84519,
-                        1.279502
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Fotó- és filmközpont galériával és könyvtárral Kampong Glamben.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
                   "name": "Istana Kampong Glam",
                   "text": "Az 1843-ban épült Istana Kampong Glam egykori maláj palota a Kampong Glamban.",
                   "category": "castle",
                   "coords": [
                         103.859948,
                         1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Az 1887-ben alapított Szingapúri Nemzeti Múzeum az ország legrégebbi múzeuma, a Kampong Glamban.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Az Istana az elnök hivatalos rezidenciája és munkahelye, amely Kampong Glam közelében található.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Az Ázsiai Civilizációk Múzeuma egy kiemelkedő intézmény Kampong Glam közelében, amelyet a pánázsiai kultúráknak szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Az 1912-es épületben elhelyezkedő Peranakan Múzeum a peranakan kultúrát mutatja be, a Kampong Glamban.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Az 1830-ban épült Nagore Durgha Indian Muslim Heritage Centre múzeum a Kampong Glamban.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "A Sri Temasek egy figyelemre méltó történelmi ház és hivatalos rezidencia Kampong Glam közelében.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Az Indiai Örökség Központ egy kulturális múzeum Kampong Glamban, amely az indiai szingapúriak történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Viktoriánus öntöttvas szökőkút Kampong Glamben.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "A 2002-ben megnyílt Esplanade Theatres on the Bay előadóművészeti központ a Kampong Glamban.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Előadóművészeti színház Kampong Glamben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
                   ]
             },
             {
@@ -19718,78 +9301,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thekchen Choling",
-                  "text": "Tibeti buddhista templom thangka festményekkel Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Lord Murugan tiszteletére emelt hindu templom Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Kínai buddhista templom, Guan Yin (Irgalom Istennője) tiszteletére, Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Az 1878-ban épült Tan Si Chong Su kínai klán templom a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Az 1820-ban épült Masjid Omar Kampung Melaka Szingapúr legrégebbi mecsetje, a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Az 1862-ben felszentelt Szent András-székesegyház anglikán katedrális a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Az 1847-ben épült Jó Pásztor-székesegyház Szingapúr római katolikus katedrálisa, a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Az 1870-ben épült Szent Péter és Pál templom római katolikus templom a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
                   "name": "Masjid Sultan",
                   "text": "Az 1932-ben épült Masjid Sultan (Szultán Mecset) jelentős mecset a Kampong Glamban.",
                   "category": "religious",
@@ -19799,228 +9310,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Hindu templom, a Káli istennő tiszteletére, Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Az 1976-ban épült Yueh Hai Ching templom taoista templom a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Az 1924-ben épült Telok Ayer Chinese Methodist Church metodista templom a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.847009,
-                        1.278471
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Az 1878-ban épült Orchard Road-i Presbiteriánus Templom presbiteriánus templom a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Az 1835-ben épült Örmény Templom Szingapúr legrégebbi temploma, a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "A 2004-ben épült Masjid Bencoolen mecset a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Presbiteriánus templom a Prinsep Streeten, Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Az 1905-ben épült Chesed-El Zsinagóga zsinagóga a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Az 1910-ben épült Szent Szív-templom római katolikus templom a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Az 1913-ban épült Hong San See templom kínai templom a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abrar",
-                  "text": "Az 1855-ben épült Al-Abrar mecset mecset a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.847261,
-                        1.280308
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Mecset maur és indiai építészeti stílusok egyedi keverékével Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Metodista templom Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Egy gazdag üzletasszony által épített mecset ferde minarettel Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
                   "name": "Church of Our Lady of Lourdes",
                   "text": "A(z) Church of Our Lady of Lourdes egy istentiszteleti hely Kampong Glamban.",
                   "category": "religious",
                   "coords": [
                         103.855904,
                         1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Az 1843-ban épült Sri Mariamman-templom Szingapúr legrégebbi hindu temploma, a Kampong Glamban.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Római katolikus templom, híres novena áhítatairól, Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Mecset Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Hajjah Rahimabi nevét viselő mecset Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Srí Lanka-i buddhista templom Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Pünkösdi templom Kampong Glamben.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Történelmi kínai negyed hagyományos üzletházakkal és templomokkal Kampong Glamben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "Marina Bay",
-                  "text": "Marina Bay vízpart Marina Bay Sands és Singapore Flyer látványosságokkal Kampong Glamben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853687,
-                        1.277658
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Egykori maláj filmprodukciós stúdió Kampong Glamben, Jalan Ampas néven ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "Felújított Art Deco üzletházak sorai Kampong Glamben.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
                   ]
             }
       ],
@@ -20044,138 +9339,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Fostul centru de comandă subteran britanic din al Doilea Război Mondial în Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Galeria Națională din Singapore este un important muzeu de artă de lângă Kampong Glam care găzduiește o mare colecție de artă din Asia de Sud-Est.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Singapore City Gallery",
-                  "text": "Singapore City Gallery este un muzeu de planificare urbană situat în vecinătatea Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.84519,
-                        1.279502
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Centru de fotografie și film cu galerie și bibliotecă în Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
                   "name": "Istana Kampong Glam",
                   "text": "Construit în 1843, Istana Kampong Glam este un fost palat malaez, în Kampong Glam.",
                   "category": "castle",
                   "coords": [
                         103.859948,
                         1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Fondat în 1887, Muzeul Național al Singapore este cel mai vechi muzeu al țării, în Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Istana este reședința oficială și biroul de lucru al președintelui, situat lângă Kampong Glam.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "Muzeul Civilizațiilor Asiatice este o instituție proeminentă de lângă Kampong Glam dedicată culturilor pan-asiatice.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "Muzeul Peranakan, găzduit într-o clădire din 1912, este dedicat culturii peranakane, în Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Construit în 1830, Centrul de Patrimoniu Indian Musulman Nagore Durgha este un muzeu în Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek este o casă istorică notabilă și o reședință oficială situată lângă Kampong Glam.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Centrul de Patrimoniu Indian este un muzeu cultural din Kampong Glam care prezintă istoria singaporezilor indieni.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Fântână victoriană din fontă în Kampong Glam.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Deschis în 2002, Esplanade Theatres on the Bay este un centru de arte spectacolului, în Kampong Glam.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Teatru de arte spectacolului în Kampong Glam.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
                   ]
             },
             {
@@ -20188,78 +9357,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thekchen Choling",
-                  "text": "Templu budist tibetan cu picturi thangka în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Templu hindus dedicat lui Lord Murugan în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Templu budist chinezesc dedicat lui Guan Yin (Zeita Milei) în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Construit în 1878, Tan Si Chong Su este un templu chinezesc de clan, în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Construită în 1820, Moscheea Omar Kampung Melaka este cea mai veche moschee din Singapore, în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Consacrată în 1862, Catedrala Sf. Andrei este o catedrală anglicană în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Construită în 1847, Catedrala Bunului Păstor este catedrala romano-catolică a Singapore, în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Construită în 1870, Biserica Sfinții Petru și Pavel este o biserică romano-catolică în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
                   "name": "Masjid Sultan",
                   "text": "Construită în 1932, Masjid Sultan (Moscheea Sultanului) este o moschee proeminentă în Kampong Glam.",
                   "category": "religious",
@@ -20269,228 +9366,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Templu hindus dedicat zeiței Kali în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Construit în 1976, Templul Yueh Hai Ching este un templu taoist în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Construită în 1924, Biserica Metodistă Chineză Telok Ayer este o biserică metodistă în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847009,
-                        1.278471
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Construită în 1878, Biserica Presbiteriană Orchard Road este o biserică presbiteriană în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Construită în 1835, Biserica Armeană este cea mai veche biserică din Singapore, în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Construită în 2004, Moscheea Bencoolen este o moschee în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Biserica presbiteriană pe Strada Prinsep în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Construită în 1905, Sinagoga Chesed-El este o sinagogă în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Construită în 1910, Biserica Inimii Sacre este o biserică romano-catolică în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Construit în 1913, Templul Hong San See este un templu chinezesc în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Abrar",
-                  "text": "Construită în 1855, Moscheea Al-Abrar este o moschee în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847261,
-                        1.280308
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Moschee cu un amestec unic de arhitectură maură și indiană în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Biserică metodistă în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Moschee construită de o femeie de afaceri bogată, cu un minaret înclinat, în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
                   "name": "Church of Our Lady of Lourdes",
                   "text": "Church of Our Lady of Lourdes este un lăcaș de cult din Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.855904,
                         1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Construit în 1843, Templul Sri Mariamman este cel mai vechi templu hindus din Singapore, în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Biserică romano-catolică cunoscută pentru devoțiunile novena în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Moschee în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Moschee numită după Hajjah Rahimabi în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Templu budist sri-lankez în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Biserică penticostală în Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Cartier istoric chinezesc cu case tradiționale de comerț și temple în Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "Marina Bay",
-                  "text": "Zona de waterfront Marina Bay cu Marina Bay Sands și Singapore Flyer în Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853687,
-                        1.277658
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Fost studio de producție de film malaezian în Kampong Glam, cunoscut ca Jalan Ampas.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "Șiruri de case de comerț Art Deco restaurate în Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
                   ]
             }
       ],
@@ -20505,147 +9386,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Buddha Tooth Relic Museum",
-                  "text": "The Buddha Tooth Relic Museum is a cultural institution and museum situated in the Kampong Glam area.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Former WWII British underground command centre in Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "The National Gallery Singapore is a major art museum near Kampong Glam housing a large collection of Southeast Asian art.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Singapore City Gallery",
-                  "text": "The Singapore City Gallery is an urban planning museum located in the vicinity of Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.84519,
-                        1.279502
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Photography and film centre with a gallery and library in Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
                   "name": "Istana Kampong Glam",
                   "text": "Built in 1843, Istana Kampong Glam is a former Malay palace, in Kampong Glam.",
                   "category": "castle",
                   "coords": [
                         103.859948,
                         1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Founded in 1887, the National Museum of Singapore is the nation's oldest museum, in Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "The Istana is the official residence and working office of the President, located near Kampong Glam.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
-            {
-                  "name": "Asian Civilisations Museum",
-                  "text": "The Asian Civilisations Museum is a prominent institution near Kampong Glam dedicated to pan-Asian cultures.",
-                  "category": "museum",
-                  "coords": [
-                        103.85142,
-                        1.287446
-                  ]
-            },
-            {
-                  "name": "Peranakan Museum",
-                  "text": "The Peranakan Museum, housed in a 1912 building, is dedicated to Peranakan culture, in Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.849101,
-                        1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Built in 1830, the Nagore Durgha Indian Muslim Heritage Centre is a museum in Kampong Glam.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Sri Temasek is a notable historic house and official residence located near Kampong Glam.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "The Indian Heritage Centre is a cultural museum in Kampong Glam showcasing the history of Indian Singaporeans.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
-                  "name": "Tan Kim Seng Fountain",
-                  "text": "Victorian cast-iron fountain in Kampong Glam.",
-                  "category": "historical",
-                  "coords": [
-                        103.854198,
-                        1.291126
-                  ]
-            },
-            {
-                  "name": "Esplanade Theatres on the Bay",
-                  "text": "Opened in 2002, the Esplanade Theatres on the Bay is a performing arts centre, in Kampong Glam.",
-                  "category": "cultural",
-                  "coords": [
-                        103.855684,
-                        1.289663
-                  ]
-            },
-            {
-                  "name": "Kallang Theatre",
-                  "text": "Performing arts theatre in Kampong Glam.",
-                  "category": "cultural",
-                  "coords": [
-                        103.875723,
-                        1.301912
                   ]
             },
             {
@@ -20658,78 +9404,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thekchen Choling",
-                  "text": "Tibetan Buddhist temple with thangka paintings in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Hindu temple dedicated to Lord Murugan in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Chinese Buddhist temple dedicated to Guan Yin (Goddess of Mercy) in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Built in 1878, Tan Si Chong Su is a Chinese clan temple, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Built in 1820, Masjid Omar Kampung Melaka is the oldest mosque in Singapore, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Consecrated in 1862, Saint Andrew's Cathedral is an Anglican cathedral in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Built in 1847, the Cathedral of the Good Shepherd is the Roman Catholic cathedral of Singapore, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Built in 1870, the Church of Saints Peter and Paul is a Roman Catholic church in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
                   "name": "Masjid Sultan",
                   "text": "Built in 1932, Masjid Sultan (Sultan Mosque) is a prominent mosque in Kampong Glam.",
                   "category": "religious",
@@ -20739,228 +9413,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Hindu temple dedicated to the goddess Kali in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Built in 1976, Yueh Hai Ching Temple is a Taoist temple in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
-                  "name": "Telok Ayer Chinese Methodist Church",
-                  "text": "Built in 1924, Telok Ayer Chinese Methodist Church is a Methodist church in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847009,
-                        1.278471
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Built in 1878, the Orchard Road Presbyterian Church is a Presbyterian church in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Built in 1835, the Armenian Church is the oldest church in Singapore, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Built in 2004, Masjid Bencoolen is a mosque in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Presbyterian church on Prinsep Street in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Built in 1905, Chesed-El Synagogue is a synagogue in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Built in 1910, the Church of the Sacred Heart is a Roman Catholic church in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Built in 1913, Hong San See Temple is a Chinese temple in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
-                  "name": "Al-Abrar Mosque",
-                  "text": "Built in 1855, Al-Abrar Mosque is a mosque in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.847261,
-                        1.280308
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Mosque with a unique blend of Moorish and Indian architecture in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Methodist church in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Hajjah Fatimah Mosque",
-                  "text": "Mosque built by a wealthy businesswoman, with a leaning minaret, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
                   "name": "Church of Our Lady of Lourdes",
                   "text": "The Church of Our Lady of Lourdes is a place of worship located in Kampong Glam.",
                   "category": "religious",
                   "coords": [
                         103.855904,
                         1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Built in 1843, Sri Mariamman Temple is the oldest Hindu temple in Singapore, in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Church of St Alphonsus",
-                  "text": "Roman Catholic church known for its novena devotions in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.842699,
-                        1.321682
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Mosque in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Rahimabi Kebun Limau",
-                  "text": "Mosque named after Hajjah Rahimabi in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.854842,
-                        1.326163
-                  ]
-            },
-            {
-                  "name": "Sri Lankaramaya Buddhist Temple",
-                  "text": "Sri Lankan Buddhist temple in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.863179,
-                        1.326939
-                  ]
-            },
-            {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Pentecostal church in Kampong Glam.",
-                  "category": "religious",
-                  "coords": [
-                        103.864249,
-                        1.323905
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Historic Chinese enclave with traditional shophouses and temples in Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "Marina Bay",
-                  "text": "Marina Bay waterfront with Marina Bay Sands and Singapore Flyer in Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853687,
-                        1.277658
-                  ]
-            },
-            {
-                  "name": "Former Malay Film Productions",
-                  "text": "Former Malay film production studio in Kampong Glam, known as Jalan Ampas.",
-                  "category": "landmark",
-                  "coords": [
-                        103.851498,
-                        1.326446
-                  ]
-            },
-            {
-                  "name": "Balestier Art Deco shophouses",
-                  "text": "Rows of restored Art Deco shophouses in Kampong Glam.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853055,
-                        1.321624
                   ]
             }
       ]
@@ -21015,30 +9473,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "bukit-timah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Bukit Batok Nature Park",
-                  "text": "Naturpark mit ehemaligem Steinbruchsee und dichtem Sekundärwald bei Bukit Timah.",
-                  "category": "natural",
-                  "coords": [
-                        103.765475,
-                        1.350012
-                  ]
-            },
-            {
                   "name": "Dialogue in the Dark Singapore",
                   "text": "Erlebnismuseum, in dem Besucher in völliger Dunkelheit von Blinden geführt werden.",
                   "category": "museum",
                   "coords": [
                         103.777159,
                         1.334191
-                  ]
-            },
-            {
-                  "name": "Yale-NUS Black Box Theatre",
-                  "text": "Intimes Black-Box-Theater für experimentelle Stücke im Gebiet Timah.",
-                  "category": "cultural",
-                  "coords": [
-                        103.77203,
-                        1.307501
                   ]
             },
             {
@@ -21051,156 +9491,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dance Studio",
-                  "text": "Das Dance Studio ist ein lokaler Theater- und Aufführungsraum in Bukit Timah.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772309,
-                        1.304541
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Museum im historischen Bahnhofsgebäude von Bukit Timah (Baujahr 1932).",
-                  "category": "museum",
-                  "coords": [
-                        103.781524,
-                        1.33457
-                  ]
-            },
-            {
-                  "name": "Theatrette",
-                  "text": "Kleines Theater mit Bühne und etwa 50 Sitzplätzen im Bezirk Bukit Timah.",
-                  "category": "cultural",
-                  "coords": [
-                        103.769502,
-                        1.305943
-                  ]
-            },
-            {
-                  "name": "Bukit Timah Hill",
-                  "text": "Bukit Timah Hill ist ein markanter Gipfel in Bukit Timah. Er ist der höchste natürliche Punkt in Singapur.",
-                  "category": "natural",
-                  "coords": [
-                        103.776372,
-                        1.35469
-                  ]
-            },
-            {
-                  "name": "Shelter Ruin",
-                  "text": "Shelter Ruin bezieht sich auf historische Ruinen in Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.776805,
-                        1.35614
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Ruinen eines alten Gebäudes entlang des Rail Corridors in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782535,
-                        1.320188
-                  ]
-            },
-            {
-                  "name": "Former Buona Vista Battery No. 2 Gun",
-                  "text": "Former Buona Vista Battery No. 2 Gun ist eine Attraktion in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775359,
-                        1.318703
-                  ]
-            },
-            {
-                  "name": "Local market",
-                  "text": "Traditioneller Nassmarkt mit frischen Lebensmitteln und Haushaltswaren in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "rumah pekerja hortpark",
-                  "text": "Historisches Arbeiterhaus mit Garten im Gebiet Timah.",
-                  "category": "natural",
-                  "coords": [
-                        103.761885,
-                        1.308246
-                  ]
-            },
-            {
-                  "name": "Toilet Ruins (NBE)",
-                  "text": "Toilet Ruins (NBE) zeigt Überreste eines alten Bauwerks in Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.768532,
-                        1.35173
-                  ]
-            },
-            {
-                  "name": "Wall Ruins (NBE)",
-                  "text": "Wall Ruins (NBE) zeigt historische Mauerreste in Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.769285,
-                        1.350282
-                  ]
-            },
-            {
                   "name": "Switch Room Ruin #NBE",
                   "text": "Ruine eines Schaltkastengebäudes der Eisenbahn in Bukit Timah.",
                   "category": "landmark",
                   "coords": [
                         103.775771,
                         1.324965
-                  ]
-            },
-            {
-                  "name": "Old Jurong railway",
-                  "text": "Verlassener Bahndamm der alten Jurong-Eisenbahnlinie in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.780294,
-                        1.32846
-                  ]
-            },
-            {
-                  "name": "rock markings by visitors, stone balancing art",
-                  "text": "Ort mit von Besuchern hinterlassenen Steinmarkierungen und Steinbalance-Kunst in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782645,
-                        1.355693
-                  ]
-            },
-            {
-                  "name": "Colugo Deck",
-                  "text": "Colugo Deck bietet einen schönen Aussichtspunkt in Bukit Timah.",
-                  "category": "natural",
-                  "coords": [
-                        103.782085,
-                        1.344835
-                  ]
-            },
-            {
-                  "name": "Pipes",
-                  "text": "Reihe großer Metallrohre als Überbleibsel der Industrieinfrastruktur in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.785096,
-                        1.350791
-                  ]
-            },
-            {
-                  "name": "Art Works Gallery",
-                  "text": "Galerie für zeitgenössische Kunst mit Werken lokaler Künstler in Bukit Timah.",
-                  "category": "museum",
-                  "coords": [
-                        103.793813,
-                        1.31117
                   ]
             },
             {
@@ -21220,36 +9516,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.77358,
                         1.339233
                   ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "St Mary of the Angels Church ist eine Kultstätte in Bukit Timah. Es handelt sich um eine im Jahr 2003 fertiggestellte katholische Kirche.",
-                  "category": "religious",
-                  "coords": [
-                        103.759422,
-                        1.347229
-                  ]
-            },
-            {
-                  "name": "Ang Chee Sia Ong Temple",
-                  "text": "Ang Chee Sia Ong Temple ist eine Kultstätte in Bukit Timah. Es ist ein buddhistischer Mahayana-Tempel in Singapur.",
-                  "category": "religious",
-                  "coords": [
-                        103.760563,
-                        1.311642
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Bukit Batok Nature Park",
-                  "text": "Természeti park egykori kőfejtő tóval és sűrű másodlagos erdővel Bukit Timah közelében.",
-                  "category": "natural",
-                  "coords": [
-                        103.765475,
-                        1.350012
-                  ]
-            },
             {
                   "name": "Dialogue in the Dark Singapore",
                   "text": "Interaktív múzeum, ahol a látogatók teljes sötétségben, vak vezetők irányításával közlekednek.",
@@ -21257,15 +9526,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.777159,
                         1.334191
-                  ]
-            },
-            {
-                  "name": "Yale-NUS Black Box Theatre",
-                  "text": "Intim fekete doboz színház kísérleti daraboknak a Timah területen.",
-                  "category": "cultural",
-                  "coords": [
-                        103.77203,
-                        1.307501
                   ]
             },
             {
@@ -21278,156 +9538,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dance Studio",
-                  "text": "A Dance Studio egy helyi színház és előadótér Bukit Timah városrészben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772309,
-                        1.304541
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Múzeum a történelmi Bukit Timah-i vasútállomás épületében (1932-ben épült).",
-                  "category": "museum",
-                  "coords": [
-                        103.781524,
-                        1.33457
-                  ]
-            },
-            {
-                  "name": "Theatrette",
-                  "text": "Kis színház színpaddal és körülbelül 50 férőhellyel a Bukit Timah kerületben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.769502,
-                        1.305943
-                  ]
-            },
-            {
-                  "name": "Bukit Timah Hill",
-                  "text": "A Bukit Timah Hill egy kiemelkedő hegycsúcs Bukit Timah területén. Ez Szingapúr legmagasabb természetes pontja.",
-                  "category": "natural",
-                  "coords": [
-                        103.776372,
-                        1.35469
-                  ]
-            },
-            {
-                  "name": "Shelter Ruin",
-                  "text": "A Shelter Ruin történelmi romokra utal Bukit Timah területén.",
-                  "category": "historical",
-                  "coords": [
-                        103.776805,
-                        1.35614
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Egy régi épület romjai a Rail Corridor mentén Bukit Timahban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782535,
-                        1.320188
-                  ]
-            },
-            {
-                  "name": "Former Buona Vista Battery No. 2 Gun",
-                  "text": "A Former Buona Vista Battery No. 2 Gun egy látványosság Bukit Timah területén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775359,
-                        1.318703
-                  ]
-            },
-            {
-                  "name": "Local market",
-                  "text": "Hagyományos vásárcsarnok friss élelmiszerekkel és háztartási cikkekkel Bukit Timahban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "rumah pekerja hortpark",
-                  "text": "Történelmi munkásház kerttel a Timah területen.",
-                  "category": "natural",
-                  "coords": [
-                        103.761885,
-                        1.308246
-                  ]
-            },
-            {
-                  "name": "Toilet Ruins (NBE)",
-                  "text": "A Toilet Ruins (NBE) egy régi építmény maradványait mutatja be Bukit Timah városában.",
-                  "category": "historical",
-                  "coords": [
-                        103.768532,
-                        1.35173
-                  ]
-            },
-            {
-                  "name": "Wall Ruins (NBE)",
-                  "text": "A Wall Ruins (NBE) történelmi falmaradványokat mutat be Bukit Timah területén.",
-                  "category": "historical",
-                  "coords": [
-                        103.769285,
-                        1.350282
-                  ]
-            },
-            {
                   "name": "Switch Room Ruin #NBE",
                   "text": "Egy vasúti kapcsolószoba romjai Bukit Timahban.",
                   "category": "landmark",
                   "coords": [
                         103.775771,
                         1.324965
-                  ]
-            },
-            {
-                  "name": "Old Jurong railway",
-                  "text": "A régi Jurong-vasútvonal elhagyott töltése Bukit Timahban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.780294,
-                        1.32846
-                  ]
-            },
-            {
-                  "name": "rock markings by visitors, stone balancing art",
-                  "text": "Helyszín a látogatók által hagyott kőjelekkel és kőegyensúly-művészettel Bukit Timahban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782645,
-                        1.355693
-                  ]
-            },
-            {
-                  "name": "Colugo Deck",
-                  "text": "A Colugo Deck gyönyörű kilátást nyújt Bukit Timah területén.",
-                  "category": "natural",
-                  "coords": [
-                        103.782085,
-                        1.344835
-                  ]
-            },
-            {
-                  "name": "Pipes",
-                  "text": "Nagy fémcsövek sora, az ipari infrastruktúra maradványa Bukit Timahban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.785096,
-                        1.350791
-                  ]
-            },
-            {
-                  "name": "Art Works Gallery",
-                  "text": "Kortárs művészeti galéria helyi művészek alkotásaival Bukit Timahban.",
-                  "category": "museum",
-                  "coords": [
-                        103.793813,
-                        1.31117
                   ]
             },
             {
@@ -21447,36 +9563,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.77358,
                         1.339233
                   ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "A St Mary of the Angels Church egy istentiszteleti hely Bukit Timah területén. Ez egy 2003-ban elkészült katolikus templom.",
-                  "category": "religious",
-                  "coords": [
-                        103.759422,
-                        1.347229
-                  ]
-            },
-            {
-                  "name": "Ang Chee Sia Ong Temple",
-                  "text": "Az Ang Chee Sia Ong Temple egy istentiszteleti hely Bukit Timah városában. Ez egy mahájána buddhista templom Szingapúrban.",
-                  "category": "religious",
-                  "coords": [
-                        103.760563,
-                        1.311642
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Bukit Batok Nature Park",
-                  "text": "Parcul natural cu un lac de carieră și pădure secundară densă lângă Bukit Timah.",
-                  "category": "natural",
-                  "coords": [
-                        103.765475,
-                        1.350012
-                  ]
-            },
             {
                   "name": "Dialogue in the Dark Singapore",
                   "text": "Muzeu interactiv unde vizitatorii se deplasează în întuneric total, ghidați de nevăzători.",
@@ -21484,15 +9573,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.777159,
                         1.334191
-                  ]
-            },
-            {
-                  "name": "Yale-NUS Black Box Theatre",
-                  "text": "Teatru intim tip black-box pentru piese experimentale în zona Timah.",
-                  "category": "cultural",
-                  "coords": [
-                        103.77203,
-                        1.307501
                   ]
             },
             {
@@ -21505,156 +9585,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dance Studio",
-                  "text": "Dance Studio este un spațiu local pentru teatru și spectacole din Bukit Timah.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772309,
-                        1.304541
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Muzeu găzduit în clădirea istorică a gării Bukit Timah (construită în 1932).",
-                  "category": "museum",
-                  "coords": [
-                        103.781524,
-                        1.33457
-                  ]
-            },
-            {
-                  "name": "Theatrette",
-                  "text": "Teatru mic cu scenă și aproximativ 50 de locuri în districtul Bukit Timah.",
-                  "category": "cultural",
-                  "coords": [
-                        103.769502,
-                        1.305943
-                  ]
-            },
-            {
-                  "name": "Bukit Timah Hill",
-                  "text": "Bukit Timah Hill este un vârf proeminent situat în Bukit Timah. Este cel mai înalt punct natural din Singapore.",
-                  "category": "natural",
-                  "coords": [
-                        103.776372,
-                        1.35469
-                  ]
-            },
-            {
-                  "name": "Shelter Ruin",
-                  "text": "Shelter Ruin se referă la ruine istorice aflate în Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.776805,
-                        1.35614
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Ruinele unei clădiri vechi de-a lungul Coridorului Feroviar din Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782535,
-                        1.320188
-                  ]
-            },
-            {
-                  "name": "Former Buona Vista Battery No. 2 Gun",
-                  "text": "Former Buona Vista Battery No. 2 Gun este o atracție situată în Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775359,
-                        1.318703
-                  ]
-            },
-            {
-                  "name": "Local market",
-                  "text": "Piață tradițională cu produse proaspete și articole de uz casnic în Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "rumah pekerja hortpark",
-                  "text": "Casă istorică de muncitori cu grădină în zona Timah.",
-                  "category": "natural",
-                  "coords": [
-                        103.761885,
-                        1.308246
-                  ]
-            },
-            {
-                  "name": "Toilet Ruins (NBE)",
-                  "text": "Toilet Ruins (NBE) prezintă rămășițele unei vechi structuri în Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.768532,
-                        1.35173
-                  ]
-            },
-            {
-                  "name": "Wall Ruins (NBE)",
-                  "text": "Wall Ruins (NBE) prezintă vestigii istorice ale unor ziduri în Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.769285,
-                        1.350282
-                  ]
-            },
-            {
                   "name": "Switch Room Ruin #NBE",
                   "text": "Ruina unei camere de comutare feroviară în Bukit Timah.",
                   "category": "landmark",
                   "coords": [
                         103.775771,
                         1.324965
-                  ]
-            },
-            {
-                  "name": "Old Jurong railway",
-                  "text": "Digul abandonat al vechii linii ferate Jurong în Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.780294,
-                        1.32846
-                  ]
-            },
-            {
-                  "name": "rock markings by visitors, stone balancing art",
-                  "text": "Loc cu marcaje de piatră lăsate de vizitatori și artă a echilibrului pietrelor în Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782645,
-                        1.355693
-                  ]
-            },
-            {
-                  "name": "Colugo Deck",
-                  "text": "Colugo Deck oferă un punct de belvedere frumos în Bukit Timah.",
-                  "category": "natural",
-                  "coords": [
-                        103.782085,
-                        1.344835
-                  ]
-            },
-            {
-                  "name": "Pipes",
-                  "text": "O serie de țevi metalice mari, rămășiță a infrastructurii industriale în Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.785096,
-                        1.350791
-                  ]
-            },
-            {
-                  "name": "Art Works Gallery",
-                  "text": "Galerie de artă contemporană cu lucrări ale artiștilor locali în Bukit Timah.",
-                  "category": "museum",
-                  "coords": [
-                        103.793813,
-                        1.31117
                   ]
             },
             {
@@ -21674,36 +9610,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.77358,
                         1.339233
                   ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "St Mary of the Angels Church este un lăcaș de cult situat în Bukit Timah. Este o biserică catolică finalizată în 2003.",
-                  "category": "religious",
-                  "coords": [
-                        103.759422,
-                        1.347229
-                  ]
-            },
-            {
-                  "name": "Ang Chee Sia Ong Temple",
-                  "text": "Ang Chee Sia Ong Temple este un lăcaș de cult situat în Bukit Timah. Este un templu budist Mahayana din Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.760563,
-                        1.311642
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Bukit Batok Nature Park",
-                  "text": "A nature park with a former quarry lake and dense secondary forest near Bukit Timah.",
-                  "category": "natural",
-                  "coords": [
-                        103.765475,
-                        1.350012
-                  ]
-            },
             {
                   "name": "Dialogue in the Dark Singapore",
                   "text": "An interactive museum where visitors navigate in complete darkness guided by blind guides.",
@@ -21711,15 +9620,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.777159,
                         1.334191
-                  ]
-            },
-            {
-                  "name": "Yale-NUS Black Box Theatre",
-                  "text": "An intimate black box theatre for experimental plays in the Timah area.",
-                  "category": "cultural",
-                  "coords": [
-                        103.77203,
-                        1.307501
                   ]
             },
             {
@@ -21732,156 +9632,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dance Studio",
-                  "text": "The Dance Studio is a local theatre and performance space situated in Bukit Timah.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772309,
-                        1.304541
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "A museum housed in the historic Bukit Timah Railway Station building (built 1932).",
-                  "category": "museum",
-                  "coords": [
-                        103.781524,
-                        1.33457
-                  ]
-            },
-            {
-                  "name": "Theatrette",
-                  "text": "A small theatre with a stage and about 50 seats in the Bukit Timah district.",
-                  "category": "cultural",
-                  "coords": [
-                        103.769502,
-                        1.305943
-                  ]
-            },
-            {
-                  "name": "Bukit Timah Hill",
-                  "text": "Bukit Timah Hill is a prominent peak located in Bukit Timah. It is the highest natural point in Singapore.",
-                  "category": "natural",
-                  "coords": [
-                        103.776372,
-                        1.35469
-                  ]
-            },
-            {
-                  "name": "Shelter Ruin",
-                  "text": "Shelter Ruin refers to historical ruins found in Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.776805,
-                        1.35614
-                  ]
-            },
-            {
-                  "name": "Ruins",
-                  "text": "Ruins of an old building along the Rail Corridor in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782535,
-                        1.320188
-                  ]
-            },
-            {
-                  "name": "Former Buona Vista Battery No. 2 Gun",
-                  "text": "Former Buona Vista Battery No. 2 Gun is an attraction located in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775359,
-                        1.318703
-                  ]
-            },
-            {
-                  "name": "Local market",
-                  "text": "A traditional wet market selling fresh produce and household items in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "rumah pekerja hortpark",
-                  "text": "A historic workers' house with a garden in the Timah area.",
-                  "category": "natural",
-                  "coords": [
-                        103.761885,
-                        1.308246
-                  ]
-            },
-            {
-                  "name": "Toilet Ruins (NBE)",
-                  "text": "Toilet Ruins (NBE) features remnants of an old structure in Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.768532,
-                        1.35173
-                  ]
-            },
-            {
-                  "name": "Wall Ruins (NBE)",
-                  "text": "Wall Ruins (NBE) showcases historical wall remnants in Bukit Timah.",
-                  "category": "historical",
-                  "coords": [
-                        103.769285,
-                        1.350282
-                  ]
-            },
-            {
                   "name": "Switch Room Ruin #NBE",
                   "text": "The ruin of a railway switch room in Bukit Timah.",
                   "category": "landmark",
                   "coords": [
                         103.775771,
                         1.324965
-                  ]
-            },
-            {
-                  "name": "Old Jurong railway",
-                  "text": "The abandoned railway embankment of the old Jurong line in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.780294,
-                        1.32846
-                  ]
-            },
-            {
-                  "name": "rock markings by visitors, stone balancing art",
-                  "text": "A site with visitor-made rock markings and stone balancing art in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.782645,
-                        1.355693
-                  ]
-            },
-            {
-                  "name": "Colugo Deck",
-                  "text": "Colugo Deck offers a beautiful viewpoint in Bukit Timah.",
-                  "category": "natural",
-                  "coords": [
-                        103.782085,
-                        1.344835
-                  ]
-            },
-            {
-                  "name": "Pipes",
-                  "text": "A series of large metal pipes, a remnant of industrial infrastructure in Bukit Timah.",
-                  "category": "landmark",
-                  "coords": [
-                        103.785096,
-                        1.350791
-                  ]
-            },
-            {
-                  "name": "Art Works Gallery",
-                  "text": "A contemporary art gallery showcasing works by local artists in Bukit Timah.",
-                  "category": "museum",
-                  "coords": [
-                        103.793813,
-                        1.31117
                   ]
             },
             {
@@ -21900,24 +9656,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.77358,
                         1.339233
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "St Mary of the Angels Church is a place of worship located in Bukit Timah. It is a Catholic church completed in 2003.",
-                  "category": "religious",
-                  "coords": [
-                        103.759422,
-                        1.347229
-                  ]
-            },
-            {
-                  "name": "Ang Chee Sia Ong Temple",
-                  "text": "Ang Chee Sia Ong Temple is a place of worship situated in Bukit Timah. It is a Mahayana Buddhist temple in Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.760563,
-                        1.311642
                   ]
             }
       ]
@@ -21972,33 +9710,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "serangoon-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Masjid Al Istiqamah",
-                  "text": "Eine bedeutende Moschee im Gebiet von Serangoon, die für ihre modernen islamischen Architekturmerkmale bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.875607,
-                        1.36922
-                  ]
-            },
-            {
-                  "name": "Masjid En-Naeem",
-                  "text": "Eine bedeutende Moschee im Gebiet von Serangoon, die den religiösen Bedürfnissen der lokalen muslimischen Gemeinschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.892552,
-                        1.360971
-                  ]
-            },
-            {
-                  "name": "Jin Long Si Temple",
-                  "text": "Ein historischer chinesischer Tempel in Serangoon, der für den alten Bodhi-Baum auf seinem Gelände bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.889346,
-                        1.338648
-                  ]
-            },
-            {
                   "name": "Bethany Independent Presbyterian Church",
                   "text": "Eine unabhängig-presbyterianische Kirche, die der christlichen Gemeinschaft im Gebiet von Serangoon dient.",
                   "category": "religious",
@@ -22023,15 +9734,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.869864,
                         1.368444
-                  ]
-            },
-            {
-                  "name": "Ellie Art Studio",
-                  "text": "Eine Kunstgalerie und ein Atelier in Serangoon, die kreative lokale Kunstwerke und Gemälde ausstellen.",
-                  "category": "museum",
-                  "coords": [
-                        103.888016,
-                        1.333951
                   ]
             },
             {
@@ -22271,33 +9973,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Masjid Al Istiqamah",
-                  "text": "Kiemelkedő mecset a Serangoon területén, amely modern iszlám építészeti sajátosságairól ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.875607,
-                        1.36922
-                  ]
-            },
-            {
-                  "name": "Masjid En-Naeem",
-                  "text": "Egy jelentős mecset a Serangoon területén, amely a helyi muszlim közösség vallási igényeit szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        103.892552,
-                        1.360971
-                  ]
-            },
-            {
-                  "name": "Jin Long Si Temple",
-                  "text": "Történelmi kínai templom Serangoonban, amely a területén álló ősi Bódhifáról híres.",
-                  "category": "religious",
-                  "coords": [
-                        103.889346,
-                        1.338648
-                  ]
-            },
-            {
                   "name": "Bethany Independent Presbyterian Church",
                   "text": "Független presbiteriánus templom, amely a keresztény közösséget szolgálja a Serangoon területén.",
                   "category": "religious",
@@ -22322,15 +9997,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.869864,
                         1.368444
-                  ]
-            },
-            {
-                  "name": "Ellie Art Studio",
-                  "text": "Művészeti galéria és stúdió Serangoonban, amely kreatív helyi műalkotásokat és festményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        103.888016,
-                        1.333951
                   ]
             },
             {
@@ -22570,33 +10236,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Masjid Al Istiqamah",
-                  "text": "O moschee proeminentă din zona Serangoon, cunoscută pentru caracteristicile sale arhitecturale islamice moderne.",
-                  "category": "religious",
-                  "coords": [
-                        103.875607,
-                        1.36922
-                  ]
-            },
-            {
-                  "name": "Masjid En-Naeem",
-                  "text": "O moschee proeminentă din zona Serangoon, care deservește nevoile religioase ale comunității musulmane locale.",
-                  "category": "religious",
-                  "coords": [
-                        103.892552,
-                        1.360971
-                  ]
-            },
-            {
-                  "name": "Jin Long Si Temple",
-                  "text": "Un templu chinezesc istoric din Serangoon renumit pentru copacul antic Bodhi de pe terenul său.",
-                  "category": "religious",
-                  "coords": [
-                        103.889346,
-                        1.338648
-                  ]
-            },
-            {
                   "name": "Bethany Independent Presbyterian Church",
                   "text": "O biserică independent-presbiteriană care deservește comunitatea creștină din zona Serangoon.",
                   "category": "religious",
@@ -22621,15 +10260,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.869864,
                         1.368444
-                  ]
-            },
-            {
-                  "name": "Ellie Art Studio",
-                  "text": "O galerie de artă și un studio în Serangoon, care prezintă lucrări de artă și picturi locale creative.",
-                  "category": "museum",
-                  "coords": [
-                        103.888016,
-                        1.333951
                   ]
             },
             {
@@ -22869,33 +10499,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Al Istiqamah Mosque",
-                  "text": "A prominent mosque in the Serangoon area known for its modern Islamic architectural features.",
-                  "category": "religious",
-                  "coords": [
-                        103.875607,
-                        1.36922
-                  ]
-            },
-            {
-                  "name": "Masjid En-Naeem",
-                  "text": "A prominent mosque in the Serangoon area serving the religious needs of the local Muslim community.",
-                  "category": "religious",
-                  "coords": [
-                        103.892552,
-                        1.360971
-                  ]
-            },
-            {
-                  "name": "Jin Long Si Temple",
-                  "text": "A historic Chinese temple in Serangoon renowned for the ancient Bodhi tree on its grounds.",
-                  "category": "religious",
-                  "coords": [
-                        103.889346,
-                        1.338648
-                  ]
-            },
-            {
                   "name": "Bethany Independent Presbyterian Church",
                   "text": "An Independent-Presbyterian church serving the Christian community in the Serangoon area.",
                   "category": "religious",
@@ -22920,15 +10523,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.869864,
                         1.368444
-                  ]
-            },
-            {
-                  "name": "Ellie Art Studio",
-                  "text": "An art gallery and studio in Serangoon showcasing creative local artworks and paintings.",
-                  "category": "museum",
-                  "coords": [
-                        103.888016,
-                        1.333951
                   ]
             },
             {
@@ -23217,84 +10811,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "downtown-core-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mint Museum of Toys",
-                  "text": "Museum mit einer der weltweit größten Sammlungen von Vintage-Spielzeugen im Kernviertel.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
                   "name": "Buddha Tooth Relic Museum",
                   "text": "Museum in Chinatown mit dem angeblichen Zahn Buddhas aus dem 4. Jahrhundert.",
                   "category": "museum",
                   "coords": [
                         103.844432,
                         1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Ehemaliger britischer Kommandobunker aus dem Zweiten Weltkrieg im Fort Canning Park.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Kunstmuseum in den ehemaligen Gebäuden des Obersten Gerichtshofs und des Rathauses.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Singapore City Gallery",
-                  "text": "Stadtplanungsmuseum mit einem riesigen Stadtmodell von Singapur im Maßstab 1:400.",
-                  "category": "museum",
-                  "coords": [
-                        103.84519,
-                        1.279502
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Zentrum für Fotografie und Film in einer ehemaligen Kapelle an der Middle Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Erbaut 1843, ist der Istana Kampong Glam ein ehemaliger malaiischer Palast im Downtown Core.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Gegründet 1887, ist das Nationalmuseum von Singapur das älteste Museum des Landes, im Downtown Core.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Offizielle Residenz des Präsidenten von Singapur mit weitläufigen Gärten.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
                   ]
             },
             {
@@ -23316,42 +10838,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Erbaut 1830, ist das Nagore Durgha Indian Muslim Heritage Centre ein Museum im Downtown Core.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Ehemaliger Wohnsitz des Premierministers im Istana-Gelände.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Baba House",
-                  "text": "Restauriertes Peranakan-Reihenhaus mit originaler Inneneinrichtung aus dem frühen 20. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        103.837359,
-                        1.277067
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Das Indian Heritage Centre ist ein Museum im Downtown Core, das die Kultur und Geschichte der indischen Gemeinschaft in Singapur zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
                   "name": "Tan Kim Seng Fountain",
                   "text": "Gusseiserner Brunnen im Esplanade Park, gestiftet von Tan Kim Seng (1882).",
                   "category": "historical",
@@ -23370,192 +10856,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Design Centre",
-                  "text": "Designzentrum im umgebauten Gebäude der ehemaligen St. Joseph’s Institution.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Thekchen Choling ist ein tibetisch-buddhistischer Tempel und eine Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Der Sri Thendayuthapani Temple ist eine bedeutende hinduistische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Der Kwan Im Thong Hood Cho Temple ist ein traditioneller chinesischer Tempel und eine Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su ist ein chinesischer Tempel und eine Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Erbaut 1820, ist die Masjid Omar Kampung Melaka die älteste Moschee Singapurs, im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Die Saint Andrew's Cathedral ist eine anglikanische Kultstätte und die größte Kathedrale im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Die Cathedral of the Good Shepherd ist die älteste römisch-katholische Kirche und Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Die Church of Saints Peter and Paul ist eine katholische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Die Masjid Sultan ist eine markante Moschee und islamische Kultstätte im Downtown Core, die sich durch ihre goldene Kuppel auszeichnet.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri Veeramakaliamman ist ein Hindu-Tempel und eine Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Erbaut 1976, ist der Yueh-Hai-Ching-Tempel ein taoistischer Tempel im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
                   "name": "Telok Ayer Chinese Methodist Church",
                   "text": "Die Telok Ayer Chinese Methodist Church ist eine christliche Kultstätte im Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.847009,
                         1.278471
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Die Orchard Road Presbyterian Church ist eine christliche Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Thai-buddhistischer Tempel mit einer großen goldenen Buddha-Statue.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Erbaut 1835, ist die Armenische Kirche die älteste Kirche Singapurs, im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Die Masjid Bencoolen ist eine islamische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Die Prinsep St. Presbyterian Church ist eine christliche Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Die Chesed-El Synagogue ist eine jüdische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Erbaut 1910, ist die Herz-Jesu-Kirche eine römisch-katholische Kirche im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Der Hong San See Temple ist eine traditionelle chinesische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
                   ]
             },
             {
@@ -23566,198 +10872,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.847261,
                         1.280308
                   ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Die Masjid Abdul Gafoor ist eine islamische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Methodistische Kirche aus den 1930er Jahren mit markanter Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Die Hajjah Fatimah Mosque ist eine islamische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Die Church of Our Lady of Lourdes ist eine katholische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Der Sri Mariamman Temple ist der älteste Hindu-Tempel und eine Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Die Masjid Al-Falah ist eine islamische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Der Sri Srinivasa Perumal Temple ist eine hinduistische Kultstätte im Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "Ehemaliger Leuchtturm auf dem Fort Canning Hill, heute historisches Wahrzeichen.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Chinatown ist eine lebhafte kulturelle Attraktion und ein Viertel im Downtown Core.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "Marina Bay",
-                  "text": "Künstlich angelegte Meeresbucht mit Wolkenkratzern und dem Resort Marina Bay Sands.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853687,
-                        1.277658
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill ist ein historisches Viertel und eine Attraktion im Downtown Core.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "Bunt bemalte viktorianische Villa in Little India.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Múzeum a vintage játékok világ egyik legnagyobb gyűjteményével a Core kerületben.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
-            {
-                  "name": "Buddha Tooth Relic Temple",
-                  "text": "Kínai negyedben található múzeum, mely Buddha fogrelikviáját őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        103.844432,
-                        1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Második világháborús brit parancsnoki bunker a Fort Canning Parkban.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Művészeti múzeum a volt Legfelsőbb Bíróság és Városháza épületeiben.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Singapore City Gallery",
-                  "text": "Várostervezési múzeum, ahol Szingapúr 1:400 méretarányú modellje látható.",
-                  "category": "museum",
-                  "coords": [
-                        103.84519,
-                        1.279502
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Fotó- és filmközpont egy egykori kápolnában a Middle Roadon.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Az 1843-ban épült Istana Kampong Glam egykori maláj palota a Downtown Core-ban.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Az 1887-ben alapított Szingapúri Nemzeti Múzeum az ország legrégebbi múzeuma, a Downtown Core-ban.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Szingapúr elnökének hivatalos rezidenciája, kiterjedt kertekkel.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
-                  ]
-            },
             {
                   "name": "Asian Civilisations Museum",
                   "text": "Az 1997-ben megnyílt Ázsiai Civilizációk Múzeuma a Downtown Core-ban található.",
@@ -23774,42 +10891,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.849101,
                         1.29428
-                  ]
-            },
-            {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Az 1830-ban épült Nagore Durgha Indian Muslim Heritage Centre múzeum a Downtown Core-ban.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "A miniszterelnök egykori rezidenciája az Istana területén.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Baba House",
-                  "text": "Helyreállított peranakan sorház, eredeti belső berendezéssel a 20. század elejéről.",
-                  "category": "museum",
-                  "coords": [
-                        103.837359,
-                        1.277067
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Az Indian Heritage Centre egy múzeum Downtown Core-ban, amely a szingapúri indiai közösség kultúráját és történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
                   ]
             },
             {
@@ -23831,192 +10912,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Design Centre",
-                  "text": "Designközpont a volt St. Joseph's Institution épületében.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "A Thekchen Choling egy tibeti buddhista templom és istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "A Sri Thendayuthapani templom egy kiemelkedő hindu istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "A Kwan Im Thong Hood Cho templom egy hagyományos kínai templom és istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "A Tan Si Chong Su egy kínai templom és istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Az 1820-ban épült Masjid Omar Kampung Melaka Szingapúr legrégebbi mecsetje, a Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "A Saint Andrew's Cathedral egy anglikán istentiszteleti hely és a legnagyobb katedrális Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "A Cathedral of the Good Shepherd a legrégebbi római katolikus templom és istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "A Church of Saints Peter and Paul egy katolikus istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "A Masjid Sultan egy kiemelkedő mecset és iszlám istentiszteleti hely Downtown Core-ban, amely jellegzetes aranykupolájáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "A Sri Veeramakaliamman egy hindu templom és istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Az 1976-ban épült Yueh Hai Ching templom taoista templom a Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
                   "name": "Telok Ayer Chinese Methodist Church",
                   "text": "A Telok Ayer Chinese Methodist Church egy keresztény istentiszteleti hely Downtown Core-ban.",
                   "category": "religious",
                   "coords": [
                         103.847009,
                         1.278471
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Az Orchard Road Presbyterian Church egy keresztény istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Thai buddhista templom, nagy arany Buddha-szoborral.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Az 1835-ben épült Örmény Templom Szingapúr legrégebbi temploma, a Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "A Masjid Bencoolen egy iszlám istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "A Prinsep St. Presbyterian Church egy keresztény istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "A Chesed-El Zsinagóga egy zsidó istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Az 1910-ben épült Szent Szív-templom római katolikus templom a Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "A Hong San See templom egy hagyományos kínai istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
                   ]
             },
             {
@@ -24027,126 +10928,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.847261,
                         1.280308
                   ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "A Masjid Abdul Gafoor egy iszlám istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Metodista templom az 1930-as évekből, jellegzetes építészettel.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "A Hajjah Fatimah mecset egy iszlám istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "A Lourdes-i Miasszonyunk Temploma egy katolikus istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "A Sri Mariamman templom a legrégebbi hindu templom és istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "A Masjid Al-Falah egy iszlám istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "A Sri Srinivasa Perumal templom egy hindu istentiszteleti hely Downtown Core-ban.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "Egykori világítótorony a Fort Canning Hillen, ma történelmi nevezetesség.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "A Chinatown egy nyüzsgő kulturális látványosság és városrész Downtown Core-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "Marina Bay",
-                  "text": "Mesterséges öböl felhőkarcolókkal és a Marina Bay Sands üdülőhellyel.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853687,
-                        1.277658
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Az Emerald Hill egy történelmi negyed és látványosság Downtown Core-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "Színesre festett viktoriánus villa Little Indiában.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Muzeu cu una dintre cele mai mari colecții de jucării vintage din lume, în districtul Core.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
             {
                   "name": "Buddha Tooth Relic Museum",
                   "text": "Muzeu în Chinatown care găzduiește relicva dinților lui Buddha.",
@@ -24154,69 +10938,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.844432,
                         1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "Fostul buncăr de comandă britanic din Al Doilea Război Mondial, situat în Fort Canning Park.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Muzeu de artă găzduit în fosta clădire a Curții Supreme și a Primăriei.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Singapore City Gallery",
-                  "text": "Muzeu de urbanism care prezintă un model la scară 1:400 al orașului Singapore.",
-                  "category": "museum",
-                  "coords": [
-                        103.84519,
-                        1.279502
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "Centru de fotografie și film într-o fostă capelă de pe Middle Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Construit în 1843, Istana Kampong Glam este un fost palat malaez, în Downtown Core.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Fondat în 1887, Muzeul Național al Singapore este cel mai vechi muzeu al țării, în Downtown Core.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Reședința oficială a președintelui Singapore, cu grădini întinse.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
                   ]
             },
             {
@@ -24238,42 +10959,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Construit în 1830, Centrul de Patrimoniu Indian Musulman Nagore Durgha este un muzeu în Downtown Core.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Fosta reședință a prim-ministrului, situată în incinta Istanei.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Baba House",
-                  "text": "O casă peranakan restaurată, cu mobilier original din secolul XX.",
-                  "category": "museum",
-                  "coords": [
-                        103.837359,
-                        1.277067
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "Indian Heritage Centre este un muzeu din Downtown Core care prezintă cultura și istoria comunității indiene din Singapore.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
                   "name": "Tan Kim Seng Fountain",
                   "text": "Fântână din fontă în Esplanade Park, donată de Tan Kim Seng (1882).",
                   "category": "historical",
@@ -24292,192 +10977,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Design Centre",
-                  "text": "Centru de design în fosta clădire a instituției St. Joseph's.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Thekchen Choling este un templu budist tibetan și un lăcaș de cult din Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Templul Sri Thendayuthapani este un important lăcaș de cult hindus situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Templul Kwan Im Thong Hood Cho este un templu tradițional chinezesc și un lăcaș de cult din Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su este un templu chinezesc și un lăcaș de cult situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Construită în 1820, Moscheea Omar Kampung Melaka este cea mai veche moschee din Singapore, în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Catedrala Saint Andrew este un lăcaș de cult anglican și cea mai mare catedrală din Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "Catedrala Bunului Păstor este cea mai veche biserică romano-catolică și lăcaș de cult din Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "Biserica Sfinților Petru și Pavel este un lăcaș de cult catolic situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Masjid Sultan este o moschee importantă și un lăcaș de cult islamic din Downtown Core, având un dom auriu distinctiv.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri Veeramakaliamman este un templu hindus și un lăcaș de cult situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Construit în 1976, Templul Yueh Hai Ching este un templu taoist în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
                   "name": "Telok Ayer Chinese Methodist Church",
                   "text": "Biserica Metodistă Chineză Telok Ayer este un lăcaș de cult creștin situat în Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.847009,
                         1.278471
-                  ]
-            },
-            {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Biserica Prezbiteriană Orchard Road este un lăcaș de cult creștin situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Templu budist thailandez cu o statuie mare de aur a lui Buddha.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Construită în 1835, Biserica Armeană este cea mai veche biserică din Singapore, în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen este un lăcaș de cult islamic situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Biserica Prezbiteriană Prinsep St. este un lăcaș de cult creștin situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Sinagoga Chesed-El este un lăcaș de cult evreiesc situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Construită în 1910, Biserica Inimii Sacre este o biserică romano-catolică în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Templul Hong San See este un lăcaș de cult tradițional chinezesc situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
                   ]
             },
             {
@@ -24488,126 +10993,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.847261,
                         1.280308
                   ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Masjid Abdul Gafoor este un lăcaș de cult islamic situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Biserică metodistă construită în anii 1930, cu arhitectură distinctivă.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Masjid Hajjah Fatimah",
-                  "text": "Moscheea Hajjah Fatimah este un lăcaș de cult islamic situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Biserica Maicii Domnului de la Lourdes este un lăcaș de cult catolic situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Templul Sri Mariamman este cel mai vechi templu hindus și lăcaș de cult din Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Masjid Al-Falah este un lăcaș de cult islamic situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Templul Sri Srinivasa Perumal este un lăcaș de cult hindus situat în Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "Fost far pe Fort Canning Hill, acum un reper istoric.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Cartierul chinezesc este o atracție culturală vibrantă și un cartier din Downtown Core.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "Marina Bay",
-                  "text": "Golf artificial cu zgârie-nori și complexul Marina Bay Sands.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853687,
-                        1.277658
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill este un cartier istoric și o atracție situată în Downtown Core.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "Vilă victoriană pictată colorat, situată în Little India.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mint Museum of Toys",
-                  "text": "Museum with one of the world's largest collections of vintage toys in the Core district.",
-                  "category": "museum",
-                  "coords": [
-                        103.85461,
-                        1.296311
-                  ]
-            },
             {
                   "name": "Buddha Tooth Relic Museum",
                   "text": "Houses what is believed to be a tooth of the Buddha, a major Buddhist relic.",
@@ -24615,69 +11003,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   "coords": [
                         103.844432,
                         1.281305
-                  ]
-            },
-            {
-                  "name": "Battlebox Visitor Centre",
-                  "text": "WWII British command bunker carved into Fort Canning Hill.",
-                  "category": "museum",
-                  "coords": [
-                        103.846234,
-                        1.296123
-                  ]
-            },
-            {
-                  "name": "National Gallery Singapore",
-                  "text": "Housed in the former Supreme Court and City Hall buildings.",
-                  "category": "museum",
-                  "coords": [
-                        103.851471,
-                        1.290256
-                  ]
-            },
-            {
-                  "name": "Singapore City Gallery",
-                  "text": "Features a 1:400 scale model of Singapore’s city centre.",
-                  "category": "museum",
-                  "coords": [
-                        103.84519,
-                        1.279502
-                  ]
-            },
-            {
-                  "name": "Objectifs - Centre for Photography and Film",
-                  "text": "A visual arts centre in a converted chapel on Middle Road.",
-                  "category": "museum",
-                  "coords": [
-                        103.852019,
-                        1.299803
-                  ]
-            },
-            {
-                  "name": "Istana Kampong Glam",
-                  "text": "Built in 1843, Istana Kampong Glam is a former Malay palace, in the Downtown Core.",
-                  "category": "castle",
-                  "coords": [
-                        103.859948,
-                        1.302671
-                  ]
-            },
-            {
-                  "name": "National Museum of Singapore",
-                  "text": "Founded in 1887, the National Museum of Singapore is the nation's oldest museum, in the Downtown Core.",
-                  "category": "museum",
-                  "coords": [
-                        103.848412,
-                        1.296562
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Official residence of the President of Singapore, set in landscaped grounds.",
-                  "category": "castle",
-                  "coords": [
-                        103.842881,
-                        1.307096
                   ]
             },
             {
@@ -24699,42 +11024,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nagore Durgha Indian Muslim Heritage Centre",
-                  "text": "Built in 1830, the Nagore Durgha Indian Muslim Heritage Centre is a museum in the Downtown Core.",
-                  "category": "museum",
-                  "coords": [
-                        103.84787,
-                        1.281459
-                  ]
-            },
-            {
-                  "name": "Sri Temasek",
-                  "text": "Former Prime Minister’s residence within the Istana compound.",
-                  "category": "castle",
-                  "coords": [
-                        103.843041,
-                        1.3039
-                  ]
-            },
-            {
-                  "name": "Baba House",
-                  "text": "A restored Peranakan shophouse with original early-20th-century interior.",
-                  "category": "museum",
-                  "coords": [
-                        103.837359,
-                        1.277067
-                  ]
-            },
-            {
-                  "name": "Indian Heritage Centre",
-                  "text": "The Indian Heritage Centre is a museum in Downtown Core showcasing the culture and history of the Indian community in Singapore.",
-                  "category": "museum",
-                  "coords": [
-                        103.852289,
-                        1.305659
-                  ]
-            },
-            {
                   "name": "Tan Kim Seng Fountain",
                   "text": "Ornamental cast-iron fountain in Esplanade Park, donated by Tan Kim Seng in 1882.",
                   "category": "historical",
@@ -24753,114 +11042,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Design Centre",
-                  "text": "Housed in the converted former St. Joseph’s Institution building.",
-                  "category": "cultural",
-                  "coords": [
-                        103.853532,
-                        1.298784
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Thekchen Choling is a Tibetan Buddhist temple and place of worship in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Sri Thendayuthapani Temple",
-                  "text": "Sri Thendayuthapani Temple is a prominent Hindu place of worship located in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.843677,
-                        1.293726
-                  ]
-            },
-            {
-                  "name": "Kwan Im Thong Hood Cho Temple",
-                  "text": "Kwan Im Thong Hood Cho Temple is a traditional Chinese temple and place of worship in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852942,
-                        1.300965
-                  ]
-            },
-            {
-                  "name": "Tan Si Chong Su",
-                  "text": "Tan Si Chong Su is a Chinese temple and place of worship located in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.842854,
-                        1.289297
-                  ]
-            },
-            {
-                  "name": "Masjid Omar Kampung Melaka",
-                  "text": "Built in 1820, Masjid Omar Kampung Melaka is the oldest mosque in Singapore, in the Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.844337,
-                        1.287827
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Cathedral",
-                  "text": "Saint Andrew's Cathedral is an Anglican place of worship and the largest cathedral in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852265,
-                        1.292307
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Good Shepherd",
-                  "text": "The Cathedral of the Good Shepherd is the oldest Roman Catholic church and place of worship in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.851207,
-                        1.296056
-                  ]
-            },
-            {
-                  "name": "Church of Saints Peter and Paul",
-                  "text": "The Church of Saints Peter and Paul is a Catholic place of worship situated in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.8513,
-                        1.297889
-                  ]
-            },
-            {
-                  "name": "Masjid Sultan",
-                  "text": "Masjid Sultan is a prominent mosque and Islamic place of worship in Downtown Core, featuring a distinctive golden dome.",
-                  "category": "religious",
-                  "coords": [
-                        103.85899,
-                        1.30222
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Sri Veeramakaliamman is a Hindu temple and place of worship located in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.852399,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Yueh Hai Ching Temple",
-                  "text": "Built in 1976, Yueh Hai Ching Temple is a Taoist temple in the Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.849317,
-                        1.284555
-                  ]
-            },
-            {
                   "name": "Telok Ayer Chinese Methodist Church",
                   "text": "Telok Ayer Chinese Methodist Church is a Christian place of worship located in Downtown Core.",
                   "category": "religious",
@@ -24870,192 +11051,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Orchard Road Presbyterian Church",
-                  "text": "Orchard Road Presbyterian Church is a Christian place of worship situated in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.847414,
-                        1.297813
-                  ]
-            },
-            {
-                  "name": "Wat Anada Metyarama Thai Buddhist Temple",
-                  "text": "Thai Buddhist temple featuring a large golden Buddha statue.",
-                  "category": "religious",
-                  "coords": [
-                        103.829052,
-                        1.278337
-                  ]
-            },
-            {
-                  "name": "Armenian Church of Saint Gregory the Illuminator",
-                  "text": "Built in 1835, the Armenian Church is the oldest church in Singapore, in the Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.849393,
-                        1.293098
-                  ]
-            },
-            {
-                  "name": "Masjid Bencoolen",
-                  "text": "Masjid Bencoolen is an Islamic place of worship located in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.850347,
-                        1.299338
-                  ]
-            },
-            {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Prinsep St. Presbyterian Church is a Christian place of worship situated in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.851112,
-                        1.301705
-                  ]
-            },
-            {
-                  "name": "Chesed-El Synagogue",
-                  "text": "Chesed-El Synagogue is a Jewish place of worship located in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.842621,
-                        1.297253
-                  ]
-            },
-            {
-                  "name": "Church of the Sacred Heart",
-                  "text": "Built in 1910, the Church of the Sacred Heart is a Roman Catholic church in the Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.843532,
-                        1.295962
-                  ]
-            },
-            {
-                  "name": "Hong San See Temple",
-                  "text": "Hong San See Temple is a traditional Chinese place of worship situated in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.840843,
-                        1.293311
-                  ]
-            },
-            {
                   "name": "Al-Abrar Mosque",
                   "text": "Al-Abrar Mosque is an Islamic place of worship located in Downtown Core.",
                   "category": "religious",
                   "coords": [
                         103.847261,
                         1.280308
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Masjid Abdul Gafoor is an Islamic place of worship situated in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "A Methodist church built in the 1930s, known for its distinctive architecture.",
-                  "category": "religious",
-                  "coords": [
-                        103.854021,
-                        1.307214
-                  ]
-            },
-            {
-                  "name": "Hajjah Fatimah Mosque",
-                  "text": "Hajjah Fatimah Mosque is an Islamic place of worship located in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.862953,
-                        1.302832
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Church of Our Lady of Lourdes is a Catholic place of worship situated in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.855904,
-                        1.30317
-                  ]
-            },
-            {
-                  "name": "Sri Mariamman Temple",
-                  "text": "Sri Mariamman Temple is the oldest Hindu temple and place of worship in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.8452,
-                        1.282685
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Masjid Al-Falah is an Islamic place of worship situated in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.836663,
-                        1.30377
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Sri Srinivasa Perumal Temple is a Hindu place of worship located in Downtown Core.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313554
-                  ]
-            },
-            {
-                  "name": "The Lighthouse",
-                  "text": "Former Fort Canning Lighthouse, now a historical landmark on the hill.",
-                  "category": "landmark",
-                  "coords": [
-                        103.847766,
-                        1.292107
-                  ]
-            },
-            {
-                  "name": "Chinatown",
-                  "text": "Chinatown is a vibrant cultural attraction and neighborhood in Downtown Core.",
-                  "category": "landmark",
-                  "coords": [
-                        103.843688,
-                        1.279969
-                  ]
-            },
-            {
-                  "name": "Marina Bay",
-                  "text": "A reclaimed bay surrounded by skyscrapers and the Marina Bay Sands resort.",
-                  "category": "landmark",
-                  "coords": [
-                        103.853687,
-                        1.277658
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Emerald Hill is a historic neighborhood and attraction located in Downtown Core.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839354,
-                        1.303058
-                  ]
-            },
-            {
-                  "name": "House of Tan Teng Niah",
-                  "text": "A colourful Victorian-style villa in the Little India district.",
-                  "category": "landmark",
-                  "coords": [
-                        103.850935,
-                        1.307059
                   ]
             }
       ]
@@ -25110,15 +11111,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
     id: "sembawang-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Chong Pang Amphitheatre",
-                  "text": "Freiluftamphitheater im Chong-Pang-Viertel von Sembawang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.82811,
-                        1.431502
-                  ]
-            },
-            {
                   "name": "Sembawang Park",
                   "text": "Sembawang Park ist ein öffentlicher Park in Sembawang. Er liegt im Norden Singapurs und blickt auf die Straße von Johor.",
                   "category": "park",
@@ -25137,15 +11129,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sembawang Hot Spring Park",
-                  "text": "Sembawang Hot Spring Park ist ein Naturpark in Sembawang. Er beherbergt die einzige natürliche heiße Quelle auf der Hauptinsel Singapurs.",
-                  "category": "park",
-                  "coords": [
-                        103.823118,
-                        1.434392
-                  ]
-            },
-            {
                   "name": "bunker",
                   "text": "Militärbunker aus der Kolonialzeit in Sembawang.",
                   "category": "landmark",
@@ -25153,54 +11136,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.826719,
                         1.456831
                   ]
-            },
-            {
-                  "name": "Gibraltar Crescent Bunker",
-                  "text": "Kriegsbunker an der Gibraltar Crescent in Sembawang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.835147,
-                        1.457724
-                  ]
-            },
-            {
-                  "name": "sambawang",
-                  "text": "Natürlicher Bachlauf und Grünfläche in Sembawang.",
-                  "category": "natural",
-                  "coords": [
-                        103.83703,
-                        1.462608
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Makmur",
-                  "text": "Masjid Darul Makmur ist eine Kultstätte in Sembawang. Es ist eine prominente Moschee, die der lokalen muslimischen Gemeinschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.834329,
-                        1.436863
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady Star of the Sea",
-                  "text": "Church of Our Lady Star of the Sea ist eine Kultstätte in Sembawang. Es ist eine römisch-katholische Kirche, die 1949 gegründet wurde.",
-                  "category": "religious",
-                  "coords": [
-                        103.83795,
-                        1.437256
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Chong Pang Amphitheatre",
-                  "text": "Szabadtéri amfiteátrum a Sembawang-i Chong Pang negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.82811,
-                        1.431502
-                  ]
-            },
             {
                   "name": "Sembawang Park",
                   "text": "A Sembawang Park egy nyilvános park Sembawang városában. Szingapúr északi részén található, a Johor-szorosra nézve.",
@@ -25220,15 +11158,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sembawang Hot Spring Park",
-                  "text": "A Sembawang Hot Spring Park egy természeti park Sembawang városában. Itt található a szingapúri fősziget egyetlen természetes hőforrása.",
-                  "category": "park",
-                  "coords": [
-                        103.823118,
-                        1.434392
-                  ]
-            },
-            {
                   "name": "bunker",
                   "text": "Gyarmati kori katonai bunker Sembawangban.",
                   "category": "landmark",
@@ -25236,54 +11165,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.826719,
                         1.456831
                   ]
-            },
-            {
-                  "name": "Gibraltar Crescent Bunker",
-                  "text": "Háborús bunker a Gibraltar Crescent-en Sembawangban.",
-                  "category": "landmark",
-                  "coords": [
-                        103.835147,
-                        1.457724
-                  ]
-            },
-            {
-                  "name": "sambawang",
-                  "text": "Természetes patak és zöldterület Sembawangban.",
-                  "category": "natural",
-                  "coords": [
-                        103.83703,
-                        1.462608
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Makmur",
-                  "text": "A Masjid Darul Makmur egy istentiszteleti hely Sembawang városában. Ez egy kiemelkedő mecset, amely a helyi muszlim közösséget szolgálja ki.",
-                  "category": "religious",
-                  "coords": [
-                        103.834329,
-                        1.436863
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady Star of the Sea",
-                  "text": "A Church of Our Lady Star of the Sea egy istentiszteleti hely Sembawang területén. Ez egy 1949-ben alapított római katolikus templom.",
-                  "category": "religious",
-                  "coords": [
-                        103.83795,
-                        1.437256
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Chong Pang Amphitheatre",
-                  "text": "Amfiteatru în aer liber în cartierul Chong Pang din Sembawang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.82811,
-                        1.431502
-                  ]
-            },
             {
                   "name": "Sembawang Park",
                   "text": "Sembawang Park este un parc public situat în Sembawang. Este situat în nordul orașului Singapore, cu fața spre strâmtoarea Johor.",
@@ -25303,15 +11187,6 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sembawang Hot Spring Park",
-                  "text": "Sembawang Hot Spring Park este un parc natural din Sembawang. Găzduiește singurul izvor termal natural de pe insula principală din Singapore.",
-                  "category": "park",
-                  "coords": [
-                        103.823118,
-                        1.434392
-                  ]
-            },
-            {
                   "name": "bunker",
                   "text": "Buncăr militar din perioada colonială în Sembawang.",
                   "category": "landmark",
@@ -25319,54 +11194,9 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                         103.826719,
                         1.456831
                   ]
-            },
-            {
-                  "name": "Gibraltar Crescent Bunker",
-                  "text": "Buncăr de război pe Gibraltar Crescent în Sembawang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.835147,
-                        1.457724
-                  ]
-            },
-            {
-                  "name": "sambawang",
-                  "text": "Pârâu natural și zonă verde în Sembawang.",
-                  "category": "natural",
-                  "coords": [
-                        103.83703,
-                        1.462608
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Makmur",
-                  "text": "Masjid Darul Makmur este un lăcaș de cult situat în Sembawang. Este o moschee proeminentă care deservește comunitatea musulmană locală.",
-                  "category": "religious",
-                  "coords": [
-                        103.834329,
-                        1.436863
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady Star of the Sea",
-                  "text": "Church of Our Lady Star of the Sea este un lăcaș de cult situat în Sembawang. Este o biserică romano-catolică înființată în 1949.",
-                  "category": "religious",
-                  "coords": [
-                        103.83795,
-                        1.437256
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Chong Pang Amphitheatre",
-                  "text": "An outdoor amphitheatre in the Chong Pang neighbourhood of Sembawang.",
-                  "category": "cultural",
-                  "coords": [
-                        103.82811,
-                        1.431502
-                  ]
-            },
             {
                   "name": "Sembawang Park",
                   "text": "Sembawang Park is a public park located in Sembawang. It is situated in the north of Singapore, facing the Straits of Johor.",
@@ -25386,57 +11216,12 @@ export const poiExtraSingaporeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sembawang Hot Spring Park",
-                  "text": "Sembawang Hot Spring Park is a natural park in Sembawang. It features the only natural hot spring on the main island of Singapore.",
-                  "category": "park",
-                  "coords": [
-                        103.823118,
-                        1.434392
-                  ]
-            },
-            {
                   "name": "bunker",
                   "text": "A military bunker from the colonial era in Sembawang.",
                   "category": "landmark",
                   "coords": [
                         103.826719,
                         1.456831
-                  ]
-            },
-            {
-                  "name": "Gibraltar Crescent Bunker",
-                  "text": "A wartime bunker on Gibraltar Crescent in Sembawang.",
-                  "category": "landmark",
-                  "coords": [
-                        103.835147,
-                        1.457724
-                  ]
-            },
-            {
-                  "name": "sambawang",
-                  "text": "A natural stream and green area in Sembawang.",
-                  "category": "natural",
-                  "coords": [
-                        103.83703,
-                        1.462608
-                  ]
-            },
-            {
-                  "name": "Masjid Darul Makmur",
-                  "text": "Masjid Darul Makmur is a place of worship situated in Sembawang. It is a prominent mosque serving the local Muslim community.",
-                  "category": "religious",
-                  "coords": [
-                        103.834329,
-                        1.436863
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady Star of the Sea",
-                  "text": "Church of Our Lady Star of the Sea is a place of worship located in Sembawang. It is a Roman Catholic church established in 1949.",
-                  "category": "religious",
-                  "coords": [
-                        103.83795,
-                        1.437256
                   ]
             }
       ]

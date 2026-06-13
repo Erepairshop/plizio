@@ -4310,15 +4310,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "samarra park",
-                  "text": "Eine öffentliche Grünanlage zur Erholung in der Nähe des historischen Spiralminaretts.",
-                  "category": "landmark",
-                  "coords": [
-                        43.891233,
-                        34.199627
-                  ]
-            },
-            {
                   "name": "Tell es-Sawwan",
                   "text": "Eine bedeutende neolithische Ausgrabungsstätte direkt am Ufer des Tigris.",
                   "category": "historical",
@@ -4426,15 +4417,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         43.878328,
                         34.196724
-                  ]
-            },
-            {
-                  "name": "samarra park",
-                  "text": "Nyilvános zöldterület a történelmi spirális minaret közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        43.891233,
-                        34.199627
                   ]
             },
             {
@@ -4548,15 +4530,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "samarra park",
-                  "text": "Un spațiu verde public pentru recreere în apropierea minaretului spiralat istoric.",
-                  "category": "landmark",
-                  "coords": [
-                        43.891233,
-                        34.199627
-                  ]
-            },
-            {
                   "name": "Tell es-Sawwan",
                   "text": "Un sit arheologic neolitic important situat chiar pe malul Tigrului.",
                   "category": "historical",
@@ -4664,15 +4637,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         43.878328,
                         34.196724
-                  ]
-            },
-            {
-                  "name": "samarra park",
-                  "text": "A public green space for recreation located near the city's historic spiral minaret.",
-                  "category": "landmark",
-                  "coords": [
-                        43.891233,
-                        34.199627
                   ]
             },
             {
@@ -7925,24 +7889,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "ewqaf",
-                  "text": "Ein Museum, das der Geschichte der islamischen Stiftungen und des religiösen Erbes gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        42.675058,
-                        37.149604
-                  ]
-            },
-            {
-                  "name": "Hi-Bar",
-                  "text": "Ein lokales Kulturmuseum in Sacho, das regionale Artefakte ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        42.672581,
-                        37.144487
-                  ]
-            },
-            {
                   "name": "Zakho Musem",
                   "text": "Dieses Museum zeigt archäologische Funde und kurdisches Kulturerbe nahe der Pira Delal-Brücke.",
                   "category": "museum",
@@ -8247,15 +8193,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                         42.685498,
                         37.128302
                   ]
-            },
-            {
-                  "name": "TOGA PORTO MARINA",
-                  "text": "Ein modernes Hafen- und Freizeitgebiet am Wasser im Bezirk Zakho.",
-                  "category": "landmark",
-                  "coords": [
-                        42.685277,
-                        37.136479
-                  ]
             }
       ],
       "hu": [
@@ -8266,24 +8203,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         42.690032,
                         37.136589
-                  ]
-            },
-            {
-                  "name": "ewqaf",
-                  "text": "Az iszlám alapítványok történetének és a vallási örökségnek szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        42.675058,
-                        37.149604
-                  ]
-            },
-            {
-                  "name": "Hi-Bar",
-                  "text": "Helyi kulturális múzeum Zahóban, amely regionális műtárgyakat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        42.672581,
-                        37.144487
                   ]
             },
             {
@@ -8591,15 +8510,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                         42.685498,
                         37.128302
                   ]
-            },
-            {
-                  "name": "TOGA PORTO MARINA",
-                  "text": "Modern kikötői és szabadidős terület a vízparton, a zakhoi körzetben.",
-                  "category": "landmark",
-                  "coords": [
-                        42.685277,
-                        37.136479
-                  ]
             }
       ],
       "ro": [
@@ -8610,24 +8520,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         42.690032,
                         37.136589
-                  ]
-            },
-            {
-                  "name": "ewqaf",
-                  "text": "Un muzeu dedicat istoriei fundațiilor islamice și moștenirii religioase.",
-                  "category": "museum",
-                  "coords": [
-                        42.675058,
-                        37.149604
-                  ]
-            },
-            {
-                  "name": "Hi-Bar",
-                  "text": "Un muzeu cultural local din Zakho, care exponează artefacte regionale.",
-                  "category": "museum",
-                  "coords": [
-                        42.672581,
-                        37.144487
                   ]
             },
             {
@@ -8935,15 +8827,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                         42.685498,
                         37.128302
                   ]
-            },
-            {
-                  "name": "TOGA PORTO MARINA",
-                  "text": "O zonă modernă de port și agrement pe malul apei în districtul Zakho.",
-                  "category": "landmark",
-                  "coords": [
-                        42.685277,
-                        37.136479
-                  ]
             }
       ],
       "en": [
@@ -8954,24 +8837,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         42.690032,
                         37.136589
-                  ]
-            },
-            {
-                  "name": "ewqaf",
-                  "text": "A museum dedicated to the history of Islamic endowments and religious heritage.",
-                  "category": "museum",
-                  "coords": [
-                        42.675058,
-                        37.149604
-                  ]
-            },
-            {
-                  "name": "Hi-Bar",
-                  "text": "A local cultural museum in Zakho exhibiting regional artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        42.672581,
-                        37.144487
                   ]
             },
             {
@@ -9278,15 +9143,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         42.685498,
                         37.128302
-                  ]
-            },
-            {
-                  "name": "TOGA PORTO MARINA ZAKHO",
-                  "text": "A modern marina and leisure development on the waterfront in the Zakho district.",
-                  "category": "landmark",
-                  "coords": [
-                        42.685277,
-                        37.136479
                   ]
             }
       ]
@@ -10268,24 +10124,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
     id: "bekhal-waterfall-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Qala Street",
-                  "text": "Die Qala Street bietet landschaftliche Ausblicke und fungiert als Aussichtspunkt in bekhal-waterfall-landmarks-v2.",
-                  "category": "natural",
-                  "coords": [
-                        44.526616,
-                        36.614368
-                  ]
-            },
-            {
-                  "name": "Pank, Shingilbana",
-                  "text": "Pank, Shingilbana ist eine bekannte Attraktion für Besucher in bekhal-waterfall-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        44.506449,
-                        36.61391
-                  ]
-            },
-            {
                   "name": "Tasa",
                   "text": "Tasa ist ein Aussichtspunkt mit hervorragendem Panoramablick in bekhal-waterfall-landmarks-v2.",
                   "category": "natural",
@@ -10304,39 +10142,12 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beroyan street",
-                  "text": "Die Beroyan street ist eine beliebte Attraktion mit einer einzigartigen Atmosphäre in bekhal-waterfall-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        44.525781,
-                        36.605343
-                  ]
-            },
-            {
-                  "name": "Rebaz muhammad",
-                  "text": "Rebaz muhammad ist ein Veranstaltungsort für Theateraufführungen in bekhal-waterfall-landmarks-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        44.522055,
-                        36.615282
-                  ]
-            },
-            {
                   "name": "Xarandi rwandz",
                   "text": "Xarandi rwandz ist eine Attraktion in der Nähe der Wahrzeichen des Bekhal-Wasserfalls.",
                   "category": "landmark",
                   "coords": [
                         44.522071,
                         36.620068
-                  ]
-            },
-            {
-                  "name": "Rawanduz canyon view",
-                  "text": "Rawanduz canyon view ist ein malerischer Aussichtspunkt in der Nähe der Wahrzeichen des Bekhal-Wasserfalls.",
-                  "category": "natural",
-                  "coords": [
-                        44.528009,
-                        36.617725
                   ]
             },
             {
@@ -10373,42 +10184,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         44.538175,
                         36.631824
-                  ]
-            },
-            {
-                  "name": "Holle bonakan",
-                  "text": "Holle bonakan ist eine Besucherattraktion in der Umgebung der Wahrzeichen des Bekhal-Wasserfalls.",
-                  "category": "landmark",
-                  "coords": [
-                        44.513602,
-                        36.610649
-                  ]
-            },
-            {
-                  "name": "Wardash",
-                  "text": "Wardash ist ein öffentliches Denkmal in der Nähe der Wahrzeichen des Bekhal-Wasserfalls.",
-                  "category": "historical",
-                  "coords": [
-                        44.518289,
-                        36.610825
-                  ]
-            },
-            {
-                  "name": "Kani qur",
-                  "text": "Kani qur ist eine Attraktion in der Region der Wahrzeichen des Bekhal-Wasserfalls.",
-                  "category": "landmark",
-                  "coords": [
-                        44.517226,
-                        36.606485
-                  ]
-            },
-            {
-                  "name": "Korek Mountain Teleferique",
-                  "text": "Korek Mountain Teleferique ist eine Seilbahnattraktion, die in der Nähe der Wahrzeichen des Bekhal-Wasserfalls betrieben wird.",
-                  "category": "landmark",
-                  "coords": [
-                        44.49334,
-                        36.607491
                   ]
             },
             {
@@ -10513,24 +10288,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Qala Street",
-                  "text": "A Qala Street festői kilátást nyújt, és figyelemre méltó kilátóhely bekhal-waterfall-landmarks-v2 városában.",
-                  "category": "natural",
-                  "coords": [
-                        44.526616,
-                        36.614368
-                  ]
-            },
-            {
-                  "name": "Pank, Shingilbana",
-                  "text": "A Pank, Shingilbana egy jól ismert látványosság a látogatók számára bekhal-waterfall-landmarks-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        44.506449,
-                        36.61391
-                  ]
-            },
-            {
                   "name": "Tasa",
                   "text": "A Tasa egy kilátópont, amely kiváló panorámát nyújt bekhal-waterfall-landmarks-v2 városában.",
                   "category": "natural",
@@ -10549,39 +10306,12 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beroyan street",
-                  "text": "A Beroyan street egy népszerű látványosság, amely egyedülálló hangulatot kínál bekhal-waterfall-landmarks-v2 városában.",
-                  "category": "landmark",
-                  "coords": [
-                        44.525781,
-                        36.605343
-                  ]
-            },
-            {
-                  "name": "Rebaz muhammad",
-                  "text": "A Rebaz muhammad egy színházi előadásoknak otthont adó helyszín bekhal-waterfall-landmarks-v2 területén.",
-                  "category": "cultural",
-                  "coords": [
-                        44.522055,
-                        36.615282
-                  ]
-            },
-            {
                   "name": "Xarandi rwandz",
                   "text": "A Xarandi rwandz egy látványosság a Bekhal-vízesés nevezetességeinek közelében.",
                   "category": "landmark",
                   "coords": [
                         44.522071,
                         36.620068
-                  ]
-            },
-            {
-                  "name": "Rawanduz canyon view",
-                  "text": "A Rawanduz canyon view egy festői kilátó a Bekhal-vízesés nevezetességeinek közelében.",
-                  "category": "natural",
-                  "coords": [
-                        44.528009,
-                        36.617725
                   ]
             },
             {
@@ -10618,42 +10348,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         44.538175,
                         36.631824
-                  ]
-            },
-            {
-                  "name": "Holle bonakan",
-                  "text": "A Holle bonakan egy turisztikai látványosság a Bekhal-vízesés nevezetességeinek környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        44.513602,
-                        36.610649
-                  ]
-            },
-            {
-                  "name": "Wardash",
-                  "text": "A Wardash egy köztéri emlékmű a Bekhal-vízesés nevezetességeinek közelében.",
-                  "category": "historical",
-                  "coords": [
-                        44.518289,
-                        36.610825
-                  ]
-            },
-            {
-                  "name": "Kani qur",
-                  "text": "A Kani qur egy látványosság a Bekhal-vízesés nevezetességeinek régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        44.517226,
-                        36.606485
-                  ]
-            },
-            {
-                  "name": "Korek Mountain Teleferique",
-                  "text": "A Korek Mountain Teleferique egy felvonó látványosság a Bekhal-vízesés nevezetességeinek közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        44.49334,
-                        36.607491
                   ]
             },
             {
@@ -10758,24 +10452,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Qala Street",
-                  "text": "Qala Street oferă vederi pitorești și acționează ca un punct de belvedere în bekhal-waterfall-landmarks-v2.",
-                  "category": "natural",
-                  "coords": [
-                        44.526616,
-                        36.614368
-                  ]
-            },
-            {
-                  "name": "Pank, Shingilbana",
-                  "text": "Pank, Shingilbana este o atracție binecunoscută pentru vizitatorii din bekhal-waterfall-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        44.506449,
-                        36.61391
-                  ]
-            },
-            {
                   "name": "Tasa",
                   "text": "Tasa este un punct de observație care oferă vederi panoramice excelente în bekhal-waterfall-landmarks-v2.",
                   "category": "natural",
@@ -10794,39 +10470,12 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beroyan street",
-                  "text": "Beroyan street este o atracție populară care oferă o atmosferă unică în bekhal-waterfall-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        44.525781,
-                        36.605343
-                  ]
-            },
-            {
-                  "name": "Rebaz muhammad",
-                  "text": "Rebaz muhammad este un spațiu pentru spectacole de teatru situat în bekhal-waterfall-landmarks-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        44.522055,
-                        36.615282
-                  ]
-            },
-            {
                   "name": "Xarandi rwandz",
                   "text": "Xarandi rwandz este o atracție situată lângă reperele cascadei Bekhal.",
                   "category": "landmark",
                   "coords": [
                         44.522071,
                         36.620068
-                  ]
-            },
-            {
-                  "name": "Rawanduz canyon view",
-                  "text": "Rawanduz canyon view este un punct de belvedere panoramic lângă reperele cascadei Bekhal.",
-                  "category": "natural",
-                  "coords": [
-                        44.528009,
-                        36.617725
                   ]
             },
             {
@@ -10863,42 +10512,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         44.538175,
                         36.631824
-                  ]
-            },
-            {
-                  "name": "Holle bonakan",
-                  "text": "Holle bonakan este o atracție pentru vizitatori în vecinătatea reperelor cascadei Bekhal.",
-                  "category": "landmark",
-                  "coords": [
-                        44.513602,
-                        36.610649
-                  ]
-            },
-            {
-                  "name": "Wardash",
-                  "text": "Wardash este un monument public situat lângă reperele cascadei Bekhal.",
-                  "category": "historical",
-                  "coords": [
-                        44.518289,
-                        36.610825
-                  ]
-            },
-            {
-                  "name": "Kani qur",
-                  "text": "Kani qur este o atracție aflată în regiunea reperelor cascadei Bekhal.",
-                  "category": "landmark",
-                  "coords": [
-                        44.517226,
-                        36.606485
-                  ]
-            },
-            {
-                  "name": "Korek Mountain Teleferique",
-                  "text": "Korek Mountain Teleferique este o atracție cu telecabina care operează lângă reperele cascadei Bekhal.",
-                  "category": "landmark",
-                  "coords": [
-                        44.49334,
-                        36.607491
                   ]
             },
             {
@@ -11003,24 +10616,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Qala Street",
-                  "text": "Qala Street offers scenic views and acts as a notable viewpoint in bekhal-waterfall-landmarks-v2.",
-                  "category": "natural",
-                  "coords": [
-                        44.526616,
-                        36.614368
-                  ]
-            },
-            {
-                  "name": "Pank, Shingilbana",
-                  "text": "Pank, Shingilbana is a well-known attraction for visitors in bekhal-waterfall-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        44.506449,
-                        36.61391
-                  ]
-            },
-            {
                   "name": "Tasa",
                   "text": "Tasa is an observation point providing excellent panoramic views in bekhal-waterfall-landmarks-v2.",
                   "category": "natural",
@@ -11039,39 +10634,12 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beroyan street",
-                  "text": "Beroyan street is a popular attraction offering a unique atmosphere in bekhal-waterfall-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        44.525781,
-                        36.605343
-                  ]
-            },
-            {
-                  "name": "Rebaz muhammad",
-                  "text": "Rebaz muhammad is a venue for theatrical performances located in bekhal-waterfall-landmarks-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        44.522055,
-                        36.615282
-                  ]
-            },
-            {
                   "name": "Xarandi rwandz",
                   "text": "Xarandi rwandz is an attraction located near the Bekhal Waterfall landmarks.",
                   "category": "landmark",
                   "coords": [
                         44.522071,
                         36.620068
-                  ]
-            },
-            {
-                  "name": "Rawanduz canyon view",
-                  "text": "Rawanduz canyon view is a scenic viewpoint offering vistas near the Bekhal Waterfall landmarks.",
-                  "category": "natural",
-                  "coords": [
-                        44.528009,
-                        36.617725
                   ]
             },
             {
@@ -11108,42 +10676,6 @@ export const poiExtraIraqLandmarksV2: POI[] = [
                   "coords": [
                         44.538175,
                         36.631824
-                  ]
-            },
-            {
-                  "name": "Holle bonakan",
-                  "text": "Holle bonakan is a visitor attraction in the vicinity of the Bekhal Waterfall landmarks.",
-                  "category": "landmark",
-                  "coords": [
-                        44.513602,
-                        36.610649
-                  ]
-            },
-            {
-                  "name": "Wardash",
-                  "text": "Wardash is a public monument located near the Bekhal Waterfall landmarks.",
-                  "category": "historical",
-                  "coords": [
-                        44.518289,
-                        36.610825
-                  ]
-            },
-            {
-                  "name": "Kani qur",
-                  "text": "Kani qur is an attraction set within the region of the Bekhal Waterfall landmarks.",
-                  "category": "landmark",
-                  "coords": [
-                        44.517226,
-                        36.606485
-                  ]
-            },
-            {
-                  "name": "Korek Mountain Teleferique",
-                  "text": "Korek Mountain Teleferique is a cable car attraction operating near the Bekhal Waterfall landmarks.",
-                  "category": "landmark",
-                  "coords": [
-                        44.49334,
-                        36.607491
                   ]
             },
             {

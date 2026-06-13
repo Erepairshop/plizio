@@ -15,15 +15,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Memorijalni muzej na Mrakovici",
-                  "text": "Ein Museum im Nationalpark Kozara, das an die Ereignisse des Zweiten Weltkriegs erinnert.",
-                  "category": "museum",
-                  "coords": [
-                        16.908875,
-                        45.012997
-                  ]
-            },
-            {
                   "name": "Zečiji kamen",
                   "text": "Ein Aussichtspunkt im Kozara-Nationalpark mit weitem Blick über die Landschaft.",
                   "category": "natural",
@@ -40,15 +31,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         16.887033,
                         45.000233
                   ]
-            },
-            {
-                  "name": "Vinograč",
-                  "text": "Ein Aussichtspunkt im Nationalpark Kozara, der für seine malerische Aussicht geschätzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        16.930414,
-                        44.988012
-                  ]
             }
       ],
       "hu": [
@@ -59,15 +41,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         16.896971,
                         45.010907
-                  ]
-            },
-            {
-                  "name": "Memorijalni muzej na Mrakovici",
-                  "text": "Múzeum a Kozara Nemzeti Parkban, amely a második világháború eseményeire emlékeztet.",
-                  "category": "museum",
-                  "coords": [
-                        16.908875,
-                        45.012997
                   ]
             },
             {
@@ -87,15 +60,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         16.887033,
                         45.000233
                   ]
-            },
-            {
-                  "name": "Vinograč",
-                  "text": "Kilátóhely a Kozara Nemzeti Parkban, amelyet festői kilátása miatt kedvelnek.",
-                  "category": "natural",
-                  "coords": [
-                        16.930414,
-                        44.988012
-                  ]
             }
       ],
       "ro": [
@@ -106,15 +70,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         16.896971,
                         45.010907
-                  ]
-            },
-            {
-                  "name": "Memorijalni muzej na Mrakovici",
-                  "text": "Un muzeu în Parcul Național Kozara, care comemorează evenimentele din al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        16.908875,
-                        45.012997
                   ]
             },
             {
@@ -134,15 +89,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         16.887033,
                         45.000233
                   ]
-            },
-            {
-                  "name": "Vinograč",
-                  "text": "Un punct de belvedere în Parcul Național Kozara, apreciat pentru vederile sale pitorești.",
-                  "category": "natural",
-                  "coords": [
-                        16.930414,
-                        44.988012
-                  ]
             }
       ],
       "en": [
@@ -153,15 +99,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         16.896971,
                         45.010907
-                  ]
-            },
-            {
-                  "name": "Mrakovica War Museum",
-                  "text": "A museum in the Kozara National Park commemorating the events of World War II.",
-                  "category": "museum",
-                  "coords": [
-                        16.908875,
-                        45.012997
                   ]
             },
             {
@@ -180,15 +117,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         16.887033,
                         45.000233
-                  ]
-            },
-            {
-                  "name": "Vinograč",
-                  "text": "A viewpoint in the Kozara National Park valued for its picturesque views.",
-                  "category": "natural",
-                  "coords": [
-                        16.930414,
-                        44.988012
                   ]
             }
       ]
@@ -258,15 +186,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         19.317252,
                         43.972526
                   ]
-            },
-            {
-                  "name": "Dujin Breg",
-                  "text": "Ein landschaftlich reizvoller Aussichtspunkt im Drina-Nationalpark mit weitem Blick über die Region.",
-                  "category": "natural",
-                  "coords": [
-                        19.338778,
-                        43.962149
-                  ]
             }
       ],
       "hu": [
@@ -286,15 +205,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         19.317252,
                         43.972526
-                  ]
-            },
-            {
-                  "name": "Dujin Breg",
-                  "text": "Festői kilátóhely a Drina Nemzeti Parkban, széles kilátással a régióra.",
-                  "category": "natural",
-                  "coords": [
-                        19.338778,
-                        43.962149
                   ]
             }
       ],
@@ -316,15 +226,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         19.317252,
                         43.972526
                   ]
-            },
-            {
-                  "name": "Dujin Breg",
-                  "text": "Un punct de belvedere pitoresc în Parcul Național Drina, cu o vedere largă asupra regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        19.338778,
-                        43.962149
-                  ]
             }
       ],
       "en": [
@@ -344,15 +245,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         19.317252,
                         43.972526
-                  ]
-            },
-            {
-                  "name": "Dujin Breg",
-                  "text": "A scenic viewpoint in Drina National Park with broad views over the region.",
-                  "category": "natural",
-                  "coords": [
-                        19.338778,
-                        43.962149
                   ]
             }
       ]
@@ -1320,15 +1212,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         18.233419,
                         43.654669
                   ]
-            },
-            {
-                  "name": "Nekropola stećaka Lukomir",
-                  "text": "Eine Nekropole mit mittelalterlichen Grabsteinen nahe dem Bergdorf Lukomir.",
-                  "category": "historical",
-                  "coords": [
-                        18.184709,
-                        43.636238
-                  ]
             }
       ],
       "hu": [
@@ -1348,15 +1231,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         18.233419,
                         43.654669
-                  ]
-            },
-            {
-                  "name": "Nekropola stećaka Lukomir",
-                  "text": "Középkori sírkövekből álló nekropolisz Lukomir hegyi falu közelében.",
-                  "category": "historical",
-                  "coords": [
-                        18.184709,
-                        43.636238
                   ]
             }
       ],
@@ -1378,15 +1252,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         18.233419,
                         43.654669
                   ]
-            },
-            {
-                  "name": "Nekropola stećaka Lukomir",
-                  "text": "O necropolă cu pietre funerare medievale lângă satul montan Lukomir.",
-                  "category": "historical",
-                  "coords": [
-                        18.184709,
-                        43.636238
-                  ]
             }
       ],
       "en": [
@@ -1406,15 +1271,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         18.233419,
                         43.654669
-                  ]
-            },
-            {
-                  "name": "Lukomir Medieval Necropolis",
-                  "text": "A necropolis of medieval tombstones located near the mountain village of Lukomir.",
-                  "category": "historical",
-                  "coords": [
-                        18.184709,
-                        43.636238
                   ]
             }
       ]
@@ -1468,15 +1324,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     id: "bosniaherzegovina-zelengora-life-v2", "sights": {
       "de": [
             {
-                  "name": "Bregoč",
-                  "text": "Bregoč ist ein Gipfel in der Zelengora, einer der höchsten Gipfel des Gebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        18.567833,
-                        43.35462
-                  ]
-            },
-            {
                   "name": "Tovarnica",
                   "text": "Tovarnica ist ein Gipfel in der Zelengora, bekannt für seine alpinen Wiesen.",
                   "category": "landmark",
@@ -1484,27 +1331,9 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         18.607664,
                         43.315228
                   ]
-            },
-            {
-                  "name": "Gonje Bare",
-                  "text": "Ein Aussichtspunkt mit herrlichem Blick auf die Zelengora-Gletscherseen.",
-                  "category": "natural",
-                  "coords": [
-                        18.608845,
-                        43.321271
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Bregoč",
-                  "text": "A Bregoč egy csúcs a Zelengorában, a hegység egyik legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        18.567833,
-                        43.35462
-                  ]
-            },
             {
                   "name": "Tovarnica",
                   "text": "A Tovarnica egy csúcs a Zelengorában, alpesi rétjeiről ismert.",
@@ -1513,27 +1342,9 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         18.607664,
                         43.315228
                   ]
-            },
-            {
-                  "name": "Gonje Bare",
-                  "text": "Kilátóhely, ahonnan lenyűgöző kilátás nyílik a Zelengora-gleccsertavakra.",
-                  "category": "natural",
-                  "coords": [
-                        18.608845,
-                        43.321271
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Bregoč",
-                  "text": "Bregoč este un vârf în Zelengora, unul dintre cele mai înalte vârfuri ale masivului.",
-                  "category": "landmark",
-                  "coords": [
-                        18.567833,
-                        43.35462
-                  ]
-            },
             {
                   "name": "Tovarnica",
                   "text": "Tovarnica este un vârf în Zelengora, cunoscut pentru pajiștile sale alpine.",
@@ -1542,27 +1353,9 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                         18.607664,
                         43.315228
                   ]
-            },
-            {
-                  "name": "Gonje Bare",
-                  "text": "Un punct de observație care oferă vederi uimitoare asupra lacurilor glaciare Zelengora.",
-                  "category": "natural",
-                  "coords": [
-                        18.608845,
-                        43.321271
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Bregoč",
-                  "text": "Bregoč is a peak in Zelengora, one of the highest summits of the range.",
-                  "category": "landmark",
-                  "coords": [
-                        18.567833,
-                        43.35462
-                  ]
-            },
             {
                   "name": "Tovarnica",
                   "text": "Tovarnica is a peak in Zelengora, known for its alpine meadows.",
@@ -1570,15 +1363,6 @@ export const bosniaherzegovinaLifeV2: POI[] = [
                   "coords": [
                         18.607664,
                         43.315228
-                  ]
-            },
-            {
-                  "name": "Gonje Bare",
-                  "text": "A viewpoint offering stunning vistas of the Zelengora glacial lakes.",
-                  "category": "natural",
-                  "coords": [
-                        18.608845,
-                        43.321271
                   ]
             }
       ]
@@ -2231,158 +2015,10 @@ export const bosniaherzegovinaLifeV2: POI[] = [
   },
   {
     id: "bosniaherzegovina-vran-mountain-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Veliki Vran",
-                  "text": "Veliki Vran ist ein Berg im Vran-Mountain-Park, der höchste Gipfel des Parks.",
-                  "category": "landmark",
-                  "coords": [
-                        17.505548,
-                        43.668129
-                  ]
-            },
-            {
-                  "name": "Mali Vis",
-                  "text": "Malerischer Berggipfel mit Blick auf das umliegende Vran-Gebiet.",
-                  "category": "landmark",
-                  "coords": [
-                        17.499369,
-                        43.67853
-                  ]
-            },
-            {
-                  "name": "Pecina hajduka Mijata Tomica",
-                  "text": "Höhle, die mit dem legendären lokalen Helden Mijat Tomić verbunden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        17.523029,
-                        43.649404
-                  ]
-            },
-            {
-                  "name": "Grob Dive Grabovčeve",
-                  "text": "Gedenkstätte und Grab der legendären Diva Grabovčeva.",
-                  "category": "landmark",
-                  "coords": [
-                        17.533045,
-                        43.697322
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Veliki Vran",
-                  "text": "A Veliki Vran egy hegy a Vran Hegyi Parkban, a park legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        17.505548,
-                        43.668129
-                  ]
-            },
-            {
-                  "name": "Mali Vis",
-                  "text": "Festői hegycsúcs, amely kilátást nyújt a környező Vran-vidékre.",
-                  "category": "landmark",
-                  "coords": [
-                        17.499369,
-                        43.67853
-                  ]
-            },
-            {
-                  "name": "Pecina hajduka Mijata Tomica",
-                  "text": "A legendás helyi hős, Mijat Tomić nevét viselő barlang.",
-                  "category": "landmark",
-                  "coords": [
-                        17.523029,
-                        43.649404
-                  ]
-            },
-            {
-                  "name": "Grob Dive Grabovčeve",
-                  "text": "A legendás Diva Grabovčeva emlékhelye és sírja.",
-                  "category": "landmark",
-                  "coords": [
-                        17.533045,
-                        43.697322
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Veliki Vran",
-                  "text": "Veliki Vran este un munte în Parcul Montan Vran, cel mai înalt vârf al parcului.",
-                  "category": "landmark",
-                  "coords": [
-                        17.505548,
-                        43.668129
-                  ]
-            },
-            {
-                  "name": "Mali Vis",
-                  "text": "Vârf montan pitoresc cu vedere asupra zonei înconjurătoare Vran.",
-                  "category": "landmark",
-                  "coords": [
-                        17.499369,
-                        43.67853
-                  ]
-            },
-            {
-                  "name": "Pecina hajduka Mijata Tomica",
-                  "text": "Peșteră asociată cu legendarul erou local Mijat Tomić.",
-                  "category": "landmark",
-                  "coords": [
-                        17.523029,
-                        43.649404
-                  ]
-            },
-            {
-                  "name": "Grob Dive Grabovčeve",
-                  "text": "Sit memorial și mormântul legendarei Diva Grabovčeva.",
-                  "category": "landmark",
-                  "coords": [
-                        17.533045,
-                        43.697322
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Veliki Vran",
-                  "text": "Veliki Vran is a mountain in Vran Mountain Park, the highest peak in the park.",
-                  "category": "landmark",
-                  "coords": [
-                        17.505548,
-                        43.668129
-                  ]
-            },
-            {
-                  "name": "Mali Vis",
-                  "text": "Scenic mountain peak offering views of the surrounding Vran area.",
-                  "category": "landmark",
-                  "coords": [
-                        17.499369,
-                        43.67853
-                  ]
-            },
-            {
-                  "name": "Pecina hajduka Mijata Tomica",
-                  "text": "Cave associated with the legendary local hero Mijat Tomić.",
-                  "category": "landmark",
-                  "coords": [
-                        17.523029,
-                        43.649404
-                  ]
-            },
-            {
-                  "name": "Grob Dive Grabovčeve",
-                  "text": "Memorial site and grave of the legendary figure Diva Grabovčeva.",
-                  "category": "landmark",
-                  "coords": [
-                        17.533045,
-                        43.697322
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "park",
     parent: "BA",

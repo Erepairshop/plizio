@@ -283,15 +283,6 @@ export const malawiHistoryV2: POI[] = [
                         34.157197,
                         -10.636298
                   ]
-            },
-            {
-                  "name": "Cave behind the Kazichi water fall",
-                  "text": "Eine Höhle hinter dem Kazichi-Wasserfall in Livingstonia Mission.",
-                  "category": "natural",
-                  "coords": [
-                        34.119845,
-                        -10.585707
-                  ]
             }
       ],
       "hu": [
@@ -311,15 +302,6 @@ export const malawiHistoryV2: POI[] = [
                   "coords": [
                         34.157197,
                         -10.636298
-                  ]
-            },
-            {
-                  "name": "Cave behind the Kazichi water fall",
-                  "text": "Egy barlang a Kazichi-vízesés mögött Livingstonia Missionban.",
-                  "category": "natural",
-                  "coords": [
-                        34.119845,
-                        -10.585707
                   ]
             }
       ],
@@ -341,15 +323,6 @@ export const malawiHistoryV2: POI[] = [
                         34.157197,
                         -10.636298
                   ]
-            },
-            {
-                  "name": "Cave behind the Kazichi water fall",
-                  "text": "O peșteră în spatele cascadei Kazichi din Livingstonia Mission.",
-                  "category": "natural",
-                  "coords": [
-                        34.119845,
-                        -10.585707
-                  ]
             }
       ],
       "en": [
@@ -369,15 +342,6 @@ export const malawiHistoryV2: POI[] = [
                   "coords": [
                         34.157197,
                         -10.636298
-                  ]
-            },
-            {
-                  "name": "Cave behind the Kazichi water fall",
-                  "text": "A cave behind the Kazichi waterfall in Livingstonia Mission.",
-                  "category": "natural",
-                  "coords": [
-                        34.119845,
-                        -10.585707
                   ]
             }
       ]
@@ -427,86 +391,10 @@ export const malawiHistoryV2: POI[] = [
   },
   {
     id: "malawi-nkhotakota-slave-market-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
-                  "text": "Der Mkungu-Baum in Nkhotakota markiert eine historische Stätte, an der sich einst der Sklavenhändler Jumbe Salim Bin Abudala aufhielt, um seine Handelsgeschäfte zu koordinieren.",
-                  "category": "landmark",
-                  "coords": [
-                        34.296974,
-                        -12.932615
-                  ]
-            },
-            {
-                  "name": "Livingstone Tree",
-                  "text": "Der Livingstone-Baum in Nkhotakota ist ein historischer Feigenbaum, unter dem sich Dr. David Livingstone mit lokalen Häuptlingen getroffen haben soll, um über die Beendigung des Sklavenhandels zu sprechen.",
-                  "category": "landmark",
-                  "coords": [
-                        34.298025,
-                        -12.931493
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
-                  "text": "A nkhotakotai Mkungu-fa azt a történelmi helyet jelöli, ahol egykor Jumbe Salim Bin Abudala rabszolgakereskedő lakott, hogy összehangolja kereskedelmi műveleteit.",
-                  "category": "landmark",
-                  "coords": [
-                        34.296974,
-                        -12.932615
-                  ]
-            },
-            {
-                  "name": "Livingstone Tree",
-                  "text": "A nkhotakotai Livingstone-fa egy történelmi fügefa, amely alatt Dr. David Livingstone állítólag találkozott a helyi törzsfőnökökkel, hogy a rabszolgakereskedelem megszüntetéséről tárgyaljanak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.298025,
-                        -12.931493
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
-                  "text": "Arborele Mkungu din Nkhotakota marchează un sit istoric unde negustorul de sclavi Jumbe Salim Bin Abudala a locuit cândva pentru a-și coordona operațiunile comerciale.",
-                  "category": "landmark",
-                  "coords": [
-                        34.296974,
-                        -12.932615
-                  ]
-            },
-            {
-                  "name": "Livingstone Tree",
-                  "text": "Arborele Livingstone din Nkhotakota este un smochin istoric unde se crede că Dr. David Livingstone s-a întâlnit cu șefii locali pentru a discuta despre încheierea comerțului cu sclavi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.298025,
-                        -12.931493
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mkungu Tree, under this tree Jumbe Salim Bin Abudala, the slave trader reside here for the sake of slave trade. see also Livingstone tree, approx. 200 meters from here.",
-                  "text": "The Mkungu Tree in Nkhotakota marks a historical site where slave trader Jumbe Salim Bin Abudala once resided to coordinate his trade operations.",
-                  "category": "landmark",
-                  "coords": [
-                        34.296974,
-                        -12.932615
-                  ]
-            },
-            {
-                  "name": "Livingstone Tree",
-                  "text": "The Livingstone Tree in Nkhotakota is a historical fig tree where Dr. David Livingstone is believed to have met with local chiefs to discuss ending the slave trade.",
-                  "category": "landmark",
-                  "coords": [
-                        34.298025,
-                        -12.931493
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MW",
     type: "landmark",
@@ -652,24 +540,6 @@ export const malawiHistoryV2: POI[] = [
                         35.316925,
                         -14.461415
                   ]
-            },
-            {
-                  "name": "Lake Malawi Museum",
-                  "text": "Dieses Museum stellt maritime Artefakte aus der Kolonialzeit aus, darunter Relikte historischer Dampfschiffe, die auf dem See patrouillierten.",
-                  "category": "museum",
-                  "coords": [
-                        35.272359,
-                        -14.480003
-                  ]
-            },
-            {
-                  "name": "Queen Victoria Memorial Tower",
-                  "text": "Dieser 1903 aus strengem rotem Backstein erbaute Uhrenturm steht als monumentale koloniale Hommage an Königin Victoria.",
-                  "category": "historical",
-                  "coords": [
-                        35.272515,
-                        -14.478886
-                  ]
             }
       ],
       "hu": [
@@ -680,24 +550,6 @@ export const malawiHistoryV2: POI[] = [
                   "coords": [
                         35.316925,
                         -14.461415
-                  ]
-            },
-            {
-                  "name": "Lake Malawi Museum",
-                  "text": "Ez a múzeum a gyarmati korszakból származó tengerészeti leleteket mutat be, köztük a tavon járőröző történelmi gőzhajók ereklyéit.",
-                  "category": "museum",
-                  "coords": [
-                        35.272359,
-                        -14.480003
-                  ]
-            },
-            {
-                  "name": "Queen Victoria Memorial Tower",
-                  "text": "Az 1903-ban, zord vörös téglából épült óratorony Viktória királynő monumentális gyarmati emlékműveként áll.",
-                  "category": "historical",
-                  "coords": [
-                        35.272515,
-                        -14.478886
                   ]
             }
       ],
@@ -710,24 +562,6 @@ export const malawiHistoryV2: POI[] = [
                         35.316925,
                         -14.461415
                   ]
-            },
-            {
-                  "name": "Lake Malawi Museum",
-                  "text": "Acest muzeu expune artefacte maritime din epoca colonială, inclusiv relicve ale navelor cu aburi istorice care patrulau pe lac.",
-                  "category": "museum",
-                  "coords": [
-                        35.272359,
-                        -14.480003
-                  ]
-            },
-            {
-                  "name": "Queen Victoria Memorial Tower",
-                  "text": "Construit în 1903 din cărămidă roșie severă, acest turn cu ceas se înalță ca un tribut colonial monumental adus reginei Victoria.",
-                  "category": "historical",
-                  "coords": [
-                        35.272515,
-                        -14.478886
-                  ]
             }
       ],
       "en": [
@@ -738,24 +572,6 @@ export const malawiHistoryV2: POI[] = [
                   "coords": [
                         35.316925,
                         -14.461415
-                  ]
-            },
-            {
-                  "name": "Lake Malawi Museum",
-                  "text": "This museum exhibits maritime artifacts from the colonial era, including relics of historic steamboats that patrolled the lake.",
-                  "category": "museum",
-                  "coords": [
-                        35.272359,
-                        -14.480003
-                  ]
-            },
-            {
-                  "name": "Queen Victoria Memorial Tower",
-                  "text": "Constructed in 1903 from stark red brick, this clock tower stands as a monumental colonial tribute to Queen Victoria.",
-                  "category": "historical",
-                  "coords": [
-                        35.272515,
-                        -14.478886
                   ]
             }
       ]

@@ -1103,15 +1103,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shiloh Temple - Christ Frontiers Mission International",
-                  "text": "Der Shiloh Temple ist ein christliches Gotteshaus und Versammlungsort der Christ Frontiers Mission International.",
-                  "category": "religious",
-                  "coords": [
-                        -0.86971,
-                        10.776622
-                  ]
-            },
-            {
                   "name": "Art Center",
                   "text": "Dieses Art Center dient als kreativer Treffpunkt für Künstler und Besucher, um lokale Handwerkskunst zu erleben.",
                   "category": "cultural",
@@ -1129,15 +1120,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
                   "coords": [
                         -0.856017,
                         10.794314
-                  ]
-            },
-            {
-                  "name": "Shiloh Temple - Christ Frontiers Mission International",
-                  "text": "A Shiloh Temple a Christ Frontiers Mission International keresztény istentiszteleti és gyülekezeti helye.",
-                  "category": "religious",
-                  "coords": [
-                        -0.86971,
-                        10.776622
                   ]
             },
             {
@@ -1161,15 +1143,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shiloh Temple - Christ Frontiers Mission International",
-                  "text": "Templul Shiloh este un lăcaș de cult creștin și loc de adunare pentru Christ Frontiers Mission International.",
-                  "category": "religious",
-                  "coords": [
-                        -0.86971,
-                        10.776622
-                  ]
-            },
-            {
                   "name": "Art Center",
                   "text": "Acest Centru de Artă servește ca spațiu creativ unde vizitatorii pot explora meșteșugurile tradiționale locale.",
                   "category": "cultural",
@@ -1187,15 +1160,6 @@ export const poiExtraGhanaReliefV2: POI[] = [
                   "coords": [
                         -0.856017,
                         10.794314
-                  ]
-            },
-            {
-                  "name": "Shiloh Temple - Christ Frontiers Mission International",
-                  "text": "Shiloh Temple serves as a Christian place of worship and gathering space for the Christ Frontiers Mission International congregation.",
-                  "category": "religious",
-                  "coords": [
-                        -0.86971,
-                        10.776622
                   ]
             },
             {

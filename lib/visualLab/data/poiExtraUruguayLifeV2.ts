@@ -323,24 +323,6 @@ export const poiExtraUruguayLifeV2: POI[] = [
     id: "reserva-cerro-pan-de-azucar-life-v2", "sights": {
       "de": [
             {
-                  "name": "La Casona (Baile)",
-                  "text": "Ein historisches Gesellschaftshaus, das für traditionelle Tänze und kulturelle Veranstaltungen genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.233183,
-                        -34.779865
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura de Pan de Azucar",
-                  "text": "Ein Kulturzentrum im Herzen der Stadt, in dem Werke lokaler Künstler und Musiker präsentiert werden.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.223296,
-                        -34.775326
-                  ]
-            },
-            {
                   "name": "Iglesia de Pan de Azucar",
                   "text": "Eine katholische Kirche im Zentrum von Pan de Azúcar, die als spiritueller Mittelpunkt der Stadt dient.",
                   "category": "landmark",
@@ -360,24 +342,6 @@ export const poiExtraUruguayLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "La Casona (Baile)",
-                  "text": "Egy történelmi közösségi ház, amely hagyományos táncoknak és kulturális eseményeknek ad otthont.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.233183,
-                        -34.779865
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura de Pan de Azucar",
-                  "text": "Kulturális központ a város szívében, ahol helyi művészek és zenészek alkotásait mutatják be.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.223296,
-                        -34.775326
-                  ]
-            },
             {
                   "name": "Iglesia de Pan de Azucar",
                   "text": "Katolikus templom Pan de Azúcar központjában, amely a város hitéletének központja.",
@@ -399,24 +363,6 @@ export const poiExtraUruguayLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "La Casona (Baile)",
-                  "text": "O clădire istorică folosită pentru dansuri tradiționale și evenimente culturale comunitare.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.233183,
-                        -34.779865
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura de Pan de Azucar",
-                  "text": "Un centru cultural din inima orașului care găzduiește expoziții de artă și spectacole locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.223296,
-                        -34.775326
-                  ]
-            },
-            {
                   "name": "Iglesia de Pan de Azucar",
                   "text": "O biserică catolică în centrul orașului Pan de Azúcar, ce servește drept punct spiritual al comunității.",
                   "category": "landmark",
@@ -436,24 +382,6 @@ export const poiExtraUruguayLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "La Casona (Baile)",
-                  "text": "A historic social hall used for traditional dances and local cultural community events.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.233183,
-                        -34.779865
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura de Pan de Azucar",
-                  "text": "A cultural center in the heart of town hosting exhibits by local artists and musicians.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.223296,
-                        -34.775326
-                  ]
-            },
             {
                   "name": "Iglesia de Pan de Azucar",
                   "text": "A Catholic church in the center of Pan de Azúcar serving as the town's spiritual hub.",
@@ -713,39 +641,12 @@ export const poiExtraUruguayLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Madeira",
-                  "text": "Ein Spezialmuseum in der Nähe der Finca Narbona, das traditionelle Holzbearbeitungswerkzeuge und Holzkunsthandwerk ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -58.285917,
-                        -33.997554
-                  ]
-            },
-            {
                   "name": "Monumento al Voluntario",
                   "text": "Ein Gedenkmonument zu Ehren lokaler Freiwilliger, das als bürgerliches Wahrzeichen in der Nähe der Finca Narbona steht.",
                   "category": "landmark",
                   "coords": [
                         -58.287503,
                         -33.999064
-                  ]
-            },
-            {
-                  "name": "Teatro Uamá",
-                  "text": "Ein elegantes historisches Theater, in dem lokale Kulturaufführungen und Theaterstücke in der Nähe der Finca Narbona stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        -58.285351,
-                        -34.000621
-                  ]
-            },
-            {
-                  "name": "Reserva de Fauna",
-                  "text": "Ein lokales Wildtierreservat, das einheimische Tierarten in der Region um die Finca Narbona schützt.",
-                  "category": "recreational",
-                  "coords": [
-                        -58.288309,
-                        -34.010571
                   ]
             },
             {
@@ -764,15 +665,6 @@ export const poiExtraUruguayLifeV2: POI[] = [
                   "coords": [
                         -58.295639,
                         -34.010244
-                  ]
-            },
-            {
-                  "name": "Playa Treinta y Tres Orientales",
-                  "text": "Ein Sandstrand am Flussufer, benannt nach den Dreiunddreißig Orientalen, in der Nähe der Finca Narbona.",
-                  "category": "recreational",
-                  "coords": [
-                        -58.306248,
-                        -33.9951
                   ]
             },
             {
@@ -814,39 +706,12 @@ export const poiExtraUruguayLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Madeira",
-                  "text": "A Finca Narbona közelében található speciális múzeum, amely hagyományos famegmunkáló szerszámokat és fafaragó mesterséget mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -58.285917,
-                        -33.997554
-                  ]
-            },
-            {
                   "name": "Monumento al Voluntario",
                   "text": "A helyi önkéntesek előtt tisztelgő emlékmű, amely polgári tájékozódási pontként áll a Finca Narbona közelében.",
                   "category": "landmark",
                   "coords": [
                         -58.287503,
                         -33.999064
-                  ]
-            },
-            {
-                  "name": "Teatro Uamá",
-                  "text": "Elegáns, történelmi színház, amely helyi kulturális előadásoknak és színdaraboknak ad otthont a Finca Narbona közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        -58.285351,
-                        -34.000621
-                  ]
-            },
-            {
-                  "name": "Reserva de Fauna",
-                  "text": "A helyi állatvilágot és a Finca Narbona környéki őshonos fajokat védő rezervátum.",
-                  "category": "recreational",
-                  "coords": [
-                        -58.288309,
-                        -34.010571
                   ]
             },
             {
@@ -865,15 +730,6 @@ export const poiExtraUruguayLifeV2: POI[] = [
                   "coords": [
                         -58.295639,
                         -34.010244
-                  ]
-            },
-            {
-                  "name": "Playa Treinta y Tres Orientales",
-                  "text": "A Harminchárom Keleti emberről elnevezett folyóparti homokos strand, amely a Finca Narbona közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        -58.306248,
-                        -33.9951
                   ]
             },
             {
@@ -915,39 +771,12 @@ export const poiExtraUruguayLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Madeira",
-                  "text": "Un muzeu specializat din apropierea Finca Narbona, care expune unelte tradiționale de prelucrare a lemnului și măiestria meșteșugului în lemn.",
-                  "category": "museum",
-                  "coords": [
-                        -58.285917,
-                        -33.997554
-                  ]
-            },
-            {
                   "name": "Monumento al Voluntario",
                   "text": "Un monument comemorativ care onorează voluntarii locali, fiind un punct de reper civic lângă Finca Narbona.",
                   "category": "landmark",
                   "coords": [
                         -58.287503,
                         -33.999064
-                  ]
-            },
-            {
-                  "name": "Teatro Uamá",
-                  "text": "Un teatru istoric elegant care găzduiește spectacole culturale locale și piese de teatru lângă Finca Narbona.",
-                  "category": "cultural",
-                  "coords": [
-                        -58.285351,
-                        -34.000621
-                  ]
-            },
-            {
-                  "name": "Reserva de Fauna",
-                  "text": "O rezervație locală de viață sălbatică care protejează speciile native de faună din regiunea din apropiere de Finca Narbona.",
-                  "category": "recreational",
-                  "coords": [
-                        -58.288309,
-                        -34.010571
                   ]
             },
             {
@@ -966,15 +795,6 @@ export const poiExtraUruguayLifeV2: POI[] = [
                   "coords": [
                         -58.295639,
                         -34.010244
-                  ]
-            },
-            {
-                  "name": "Playa Treinta y Tres Orientales",
-                  "text": "O plajă de nisip pe malul râului, numită după Cei Treizeci și Trei de Orientali, situată lângă Finca Narbona.",
-                  "category": "recreational",
-                  "coords": [
-                        -58.306248,
-                        -33.9951
                   ]
             },
             {
@@ -1016,39 +836,12 @@ export const poiExtraUruguayLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of Wood",
-                  "text": "A specialized museum near Finca Narbona exhibiting traditional woodworking tools and timber craftsmanship.",
-                  "category": "museum",
-                  "coords": [
-                        -58.285917,
-                        -33.997554
-                  ]
-            },
-            {
                   "name": "Monumento al Voluntario",
                   "text": "A commemorative monument honoring local volunteers, standing as a civic landmark near Finca Narbona.",
                   "category": "landmark",
                   "coords": [
                         -58.287503,
                         -33.999064
-                  ]
-            },
-            {
-                  "name": "Teatro Uamá",
-                  "text": "An elegant historic theater hosting local cultural performances and plays near Finca Narbona.",
-                  "category": "cultural",
-                  "coords": [
-                        -58.285351,
-                        -34.000621
-                  ]
-            },
-            {
-                  "name": "Reserva de Fauna",
-                  "text": "A local wildlife reserve protecting native fauna species in the region near Finca Narbona.",
-                  "category": "recreational",
-                  "coords": [
-                        -58.288309,
-                        -34.010571
                   ]
             },
             {
@@ -1067,15 +860,6 @@ export const poiExtraUruguayLifeV2: POI[] = [
                   "coords": [
                         -58.295639,
                         -34.010244
-                  ]
-            },
-            {
-                  "name": "Playa Treinta y Tres Orientales",
-                  "text": "A riverside sandy beach named after the Thirty-Three Orientals, located near Finca Narbona.",
-                  "category": "recreational",
-                  "coords": [
-                        -58.306248,
-                        -33.9951
                   ]
             },
             {

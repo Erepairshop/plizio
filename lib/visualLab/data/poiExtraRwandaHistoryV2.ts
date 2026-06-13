@@ -759,15 +759,6 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "ibyiwacu-cultural-village-history-v2", "sights": {
       "de": [
             {
-                  "name": "Art objects",
-                  "text": "Eine ansprechende kulturelle Attraktion, die eine vielfältige Sammlung traditioneller ruandischer Kunstobjekte und Artefakte präsentiert.",
-                  "category": "landmark",
-                  "coords": [
-                        29.597573,
-                        -1.43139
-                  ]
-            },
-            {
                   "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
                   "text": "Ein moderner Museumscampus des Dian Fossey Gorilla Fund, der sich ganz dem Schutz der Berggorillas widmet.",
                   "category": "museum",
@@ -778,15 +769,6 @@ export const poiExtraRwandaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Art objects",
-                  "text": "Vonzó kulturális látványosság, amely a hagyományos ruandai művészeti tárgyak és műtárgyak változatos gyűjteményét mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        29.597573,
-                        -1.43139
-                  ]
-            },
             {
                   "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
                   "text": "A Dian Fossey Gorilla Alapítvány által létrehozott modern múzeumi kampusz, amelyet teljes egészében a hegyi gorillák védelmének szenteltek.",
@@ -799,15 +781,6 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Art objects",
-                  "text": "O atracție culturală captivantă, care prezintă o colecție diversă de obiecte de artă și artefacte tradiționale din Rwanda.",
-                  "category": "landmark",
-                  "coords": [
-                        29.597573,
-                        -1.43139
-                  ]
-            },
-            {
                   "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
                   "text": "Un campus muzeal modern înființat de Dian Fossey Gorilla Fund, dedicat în întregime conservării gorilelor de munte.",
                   "category": "museum",
@@ -818,15 +791,6 @@ export const poiExtraRwandaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Art objects",
-                  "text": "An engaging cultural attraction showcasing a diverse collection of traditional Rwandan art objects and artifacts.",
-                  "category": "landmark",
-                  "coords": [
-                        29.597573,
-                        -1.43139
-                  ]
-            },
             {
                   "name": "Ellen DeGeneres Campus of the Dian Fossey Gorilla Fund",
                   "text": "A modern museum campus established by the Dian Fossey Gorilla Fund, dedicated entirely to mountain gorilla conservation.",
@@ -984,15 +948,6 @@ export const poiExtraRwandaHistoryV2: POI[] = [
     id: "nyanza-royal-burial-ground-history-v2", "sights": {
       "de": [
             {
-                  "name": "Mwina - Mausoleum",
-                  "text": "Das Mwina-Mausoleum ist eine wichtige historische Stätte in Verbindung mit den ruandischen königlichen Bestattungstraditionen in Nyanza.",
-                  "category": "landmark",
-                  "coords": [
-                        29.735871,
-                        -2.355769
-                  ]
-            },
-            {
                   "name": "King's Palace Museum",
                   "text": "Das King's Palace Museum in Nyanza verfügt über eine akribisch rekonstruierte traditionelle königliche Residenz mit ihren berühmten langhörnigen Inyambo-Rindern.",
                   "category": "museum",
@@ -1012,15 +967,6 @@ export const poiExtraRwandaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mwina - Mausoleum",
-                  "text": "A Mwina mauzóleum a ruandai királyi temetkezési hagyományokhoz kapcsolódó fontos történelmi emlékhely Nyanzában.",
-                  "category": "landmark",
-                  "coords": [
-                        29.735871,
-                        -2.355769
-                  ]
-            },
             {
                   "name": "King's Palace Museum",
                   "text": "A nyanzai Királyi Palota Múzeum egy aprólékosan rekonstruált hagyományos királyi rezidenciát mutat be a híres hosszúszarvú inyambo szarvasmarhákkal.",
@@ -1042,15 +988,6 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mwina - Mausoleum",
-                  "text": "Mausoleul Mwina este un sit istoric important legat de tradițiile funerare regale din Rwanda, în Nyanza.",
-                  "category": "landmark",
-                  "coords": [
-                        29.735871,
-                        -2.355769
-                  ]
-            },
-            {
                   "name": "King's Palace Museum",
                   "text": "Muzeul Palatului Regal din Nyanza prezintă o reședință regală tradițională meticulos reconstituită, alături de faimoasele vite Inyambo cu coarne lungi.",
                   "category": "museum",
@@ -1070,15 +1007,6 @@ export const poiExtraRwandaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mwina - Mausoleum",
-                  "text": "The Mwina Mausoleum is an important historical site connected to the Rwandan royal burial traditions in Nyanza.",
-                  "category": "landmark",
-                  "coords": [
-                        29.735871,
-                        -2.355769
-                  ]
-            },
             {
                   "name": "King's Palace Museum",
                   "text": "The King's Palace Museum in Nyanza features a meticulously reconstructed traditional royal residence with its famed long-horned Inyambo cattle.",
