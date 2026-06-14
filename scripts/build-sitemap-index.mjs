@@ -45,10 +45,46 @@ entries.push({
   loc: `${SITE}/sitemap-images.xml`, // always produced by generate-image-sitemap.mts
   lastmod: iso(fs.existsSync(imgPath) ? fs.statSync(imgPath).mtime : new Date()),
 });
-// SEO hub pages (Top-50 Sehenswürdigkeiten landing pages) — static public/
-// sitemap-hubs.xml copied into out/. Without this the hubs are orphaned from
-// Google (not in any chunk). Optional → only appended when present.
+// SEO hub pages (country attractions + cities landing pages). Generated FRESH
+// from the authoritative _hub_manifest.json (build-country-sights writes it):
+// ~193 countries × {attractions,cities} × 4 langs. The old static
+// public/sitemap-hubs.xml was stale (72 URLs = 18 countries, attractions only) →
+// all cities hubs + non-curated countries were orphaned from Google. 404-safe:
+// only slugs whose out/<slug>/index.html actually exists are emitted.
 const hubsPath = path.join(OUT, "sitemap-hubs.xml");
+try {
+  const manPath = [
+    path.join(OUT, "data", "_hub_manifest.json"),
+    path.resolve(process.cwd(), "public", "data", "_hub_manifest.json"),
+  ].find((p) => fs.existsSync(p));
+  if (manPath) {
+    const man = JSON.parse(fs.readFileSync(manPath, "utf8"));
+    const seen = new Set();
+    const hubUrls = [];
+    for (const isoCode of Object.keys(man)) {
+      for (const cat of Object.keys(man[isoCode] || {})) {
+        for (const lang of Object.keys(man[isoCode][cat] || {})) {
+          const slug = man[isoCode][cat][lang];
+          if (!slug || seen.has(slug)) continue;
+          if (!fs.existsSync(path.join(OUT, slug, "index.html"))) continue; // 404-safe
+          seen.add(slug);
+          hubUrls.push(`${SITE}/${slug}/`);
+        }
+      }
+    }
+    if (hubUrls.length) {
+      const lm = iso(new Date());
+      const hxml =
+        '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
+        hubUrls.map((u) => `  <url><loc>${u}</loc><lastmod>${lm}</lastmod></url>`).join("\n") +
+        "\n</urlset>\n";
+      fs.writeFileSync(hubsPath, hxml, "utf8");
+      console.log(`[build-sitemap-index] regenerated sitemap-hubs.xml from manifest: ${hubUrls.length} hub URLs`);
+    }
+  }
+} catch (e) {
+  console.error("[build-sitemap-index] hub manifest -> sitemap-hubs.xml failed:", e.message);
+}
 if (fs.existsSync(hubsPath)) {
   entries.push({ loc: `${SITE}/sitemap-hubs.xml`, lastmod: iso(fs.statSync(hubsPath).mtime) });
 }
