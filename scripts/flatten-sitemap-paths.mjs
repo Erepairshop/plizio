@@ -22,7 +22,10 @@ if (!fs.existsSync(SITEMAP_DIR)) {
 // So these three indices map to fresh names that have no stuck GSC history.
 // 0-9 stay numbered (they work + are indexed); 13+ are fresh numbers → fine via
 // the index. NEVER serve sitemap-10/11/12.xml again. See [[gsc-sitemap-stuck-pending]].
-const POISONED = { 10: "sitemap-poi-a.xml", 11: "sitemap-poi-b.xml", 12: "sitemap-poi-c.xml" };
+// poi-b also got stuck (was individually submitted in testing) → retired, use a
+// fresh name poi-d for index 11. NEVER individually submit any chunk again —
+// rely on index discovery only.
+const POISONED = { 10: "sitemap-poi-a.xml", 11: "sitemap-poi-d.xml", 12: "sitemap-poi-c.xml" };
 const chunkName = (n) => POISONED[n] || `sitemap-${n}.xml`;
 
 let moved = 0;
