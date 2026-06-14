@@ -275,6 +275,13 @@ jobs:
           npx tsx scripts/build-country-sights.mts all attractions
           npx tsx scripts/build-country-sights.mts all cities
 
+      # Standalone top-1000 SIGHT pages (no parent-POI page). AFTER generate-poi-html
+      # so countrySlug + parent link come from the AUTHORITATIVE _poi-url-index.json.
+      - name: Sight pages (top-1000 standalone, descAdv+FAQ+pinfo+cover, sitemap-sightpages.xml)
+        env:
+          OUT_DIR: out
+        run: npx tsx scripts/build-sight-pages.mts
+
       - name: Build sitemap.xml index from actual chunks (Next 16 export omits it)
         run: |
           set -euo pipefail

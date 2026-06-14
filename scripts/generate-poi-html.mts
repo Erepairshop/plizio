@@ -352,6 +352,38 @@ function lookupSightPoiLink(hostPoiId: string, sightName: string): string | unde
   return SIGHT_POI_LINKS[`${hostPoiId}|${sightName}`];
 }
 
+// Standalone SIGHT PAGES (top-1000): a sight that has its own dedicated page
+// (built by build-sight-pages.mts) — link the sight name to it (takes priority
+// over the sight→POI cross-link). Key = nkey(name)|round(lat,3)|round(lng,3).
+const SIGHTPAGE_SLUG: Record<string, string> = { de: "sehenswuerdigkeiten", hu: "latnivalok", ro: "obiective-turistice", en: "attractions" };
+let SIGHT_PAGES: Record<string, { slug: string; parentPoi: string }> = {};
+try {
+  const spp = path.resolve(process.cwd(), "public", "data", "_sight_to_sightpage.json");
+  if (fs.existsSync(spp)) SIGHT_PAGES = JSON.parse(fs.readFileSync(spp, "utf-8"));
+} catch {}
+const _spNorm = (s: string) =>
+  (s || "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().match(/[a-z0-9]+/g)?.join(" ") || "";
+// href to the standalone sight page, derived from the parent POI's country slug
+// (same scheme build-sight-pages.mts uses) so it never 404s when the parent has a page.
+function sightPageHref(lang: Lang, names: string[], coords: unknown): string | undefined {
+  if (!Array.isArray(coords) || coords.length !== 2) return undefined;
+  const lat = Math.round((coords[1] as number) * 1000) / 1000;
+  const lng = Math.round((coords[0] as number) * 1000) / 1000;
+  let hit: { slug: string; parentPoi: string } | undefined;
+  for (const nm of names) {
+    const k = `${_spNorm(nm)}|${lat}|${lng}`;
+    if (SIGHT_PAGES[k]) { hit = SIGHT_PAGES[k]; break; }
+  }
+  if (!hit) return undefined;
+  const pp = allById.get(hit.parentPoi);
+  if (!pp) return undefined;
+  const ppath = poiPathSafe(lang, pp);
+  if (!ppath) return undefined;
+  const parts = ppath.split("/").filter(Boolean); // [lang, country, ...]
+  if (parts.length < 2) return undefined;
+  return `/${lang}/${parts[1]}/${SIGHTPAGE_SLUG[lang]}/${hit.slug}/`;
+}
+
 // Load FULL POI data (with description/facts/advanced) directly via TS imports
 // in this standalone tsx process. slugs.ts can't import these heavy files because
 // the Next.js build workers would OOM, but this script runs separately with a 16GB
@@ -2341,10 +2373,14 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const dist = withDistance && s.distance ? `<span class="plz-sight-dist">${escapeHtml(s.distance)}</span>` : "";
     const txt = s.text ? `<p>${escapeHtml(s.text)}</p>` : "";
     const attr = "";
-    // Internal link: if this sight name matches a same-country POI, link it.
+    // Internal link priority: (1) dedicated standalone sight page if this sight has one,
+    // (2) else a same-country POI cross-link, (3) else plain text.
+    const spHref = sightPageHref(lang, [s.name as string, ...(nameVariants || [])], (s as any).coords);
     const linkedPoiId = lookupSightPoiLink(poi.id, s.name);
     const linkedPoi = linkedPoiId ? allById.get(linkedPoiId) : undefined;
-    const nameHtml = linkedPoi
+    const nameHtml = spHref
+      ? `<a href="${spHref}" class="plz-sight-name-link">${escapeHtml(s.name)}</a>`
+      : linkedPoi
       ? `<a href="${poiPathSafe(lang, linkedPoi)}" class="plz-sight-name-link">${escapeHtml(s.name)}</a>`
       : escapeHtml(s.name);
     // Street View pegman — only when the availability sweep confirmed imagery.

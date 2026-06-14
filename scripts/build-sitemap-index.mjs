@@ -49,6 +49,12 @@ if (fs.existsSync(beachPath)) {
   entries.push({ loc: `${SITE}/sitemap-beach.xml`, lastmod: iso(fs.statSync(beachPath).mtime) });
 }
 
+// Standalone sight pages (build-sight-pages.mts → out/sitemap-sightpages.xml). Optional.
+const sightPath = path.join(OUT, "sitemap-sightpages.xml");
+if (fs.existsSync(sightPath)) {
+  entries.push({ loc: `${SITE}/sitemap-sightpages.xml`, lastmod: iso(fs.statSync(sightPath).mtime) });
+}
+
 const xml =
   '<?xml version="1.0" encoding="UTF-8"?>\n' +
   '<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
