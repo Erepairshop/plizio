@@ -356,26 +356,45 @@ function lookupSightPoiLink(hostPoiId: string, sightName: string): string | unde
 // (built by build-sight-pages.mts) — link the sight name to it (takes priority
 // over the sight→POI cross-link). Key = nkey(name)|round(lat,3)|round(lng,3).
 const SIGHTPAGE_SLUG: Record<string, string> = { de: "sehenswuerdigkeiten", hu: "latnivalok", ro: "obiective-turistice", en: "attractions" };
-let SIGHT_PAGES: Record<string, { slug: string; parentPoi: string }> = {};
+// Cross-link index, grouped by PARENT POI: { parentPoi: [{slug,lat,lng,names[]}] }.
+// Matching happens WITHIN the known parent (by normalized name for Latin sights,
+// else nearest coord ≤400m for non-Latin names) — far more robust than the old
+// global normName|lat|lng coord-cell key that broke ~50% of links on coord drift.
+type SightPageEntry = { slug: string; lat: number | null; lng: number | null; names: string[] };
+let SIGHT_PAGES_BY_PARENT: Record<string, SightPageEntry[]> = {};
 try {
   const spp = path.resolve(process.cwd(), "public", "data", "_sight_to_sightpage.json");
-  if (fs.existsSync(spp)) SIGHT_PAGES = JSON.parse(fs.readFileSync(spp, "utf-8"));
+  if (fs.existsSync(spp)) SIGHT_PAGES_BY_PARENT = JSON.parse(fs.readFileSync(spp, "utf-8"));
 } catch {}
+function _spHavKm(aLat: number, aLng: number, bLat: number, bLng: number): number {
+  const R = 6371, dLa = ((bLat - aLat) * Math.PI) / 180, dLo = ((bLng - aLng) * Math.PI) / 180;
+  const s = Math.sin(dLa / 2) ** 2 + Math.cos((aLat * Math.PI) / 180) * Math.cos((bLat * Math.PI) / 180) * Math.sin(dLo / 2) ** 2;
+  return 2 * R * Math.asin(Math.min(1, Math.sqrt(s)));
+}
 const _spNorm = (s: string) =>
   (s || "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase().match(/[a-z0-9]+/g)?.join(" ") || "";
 // href to the standalone sight page, derived from the parent POI's country slug
 // (same scheme build-sight-pages.mts uses) so it never 404s when the parent has a page.
-function sightPageHref(lang: Lang, names: string[], coords: unknown): string | undefined {
-  if (!Array.isArray(coords) || coords.length !== 2) return undefined;
-  const lat = Math.round((coords[1] as number) * 1000) / 1000;
-  const lng = Math.round((coords[0] as number) * 1000) / 1000;
-  let hit: { slug: string; parentPoi: string } | undefined;
-  for (const nm of names) {
-    const k = `${_spNorm(nm)}|${lat}|${lng}`;
-    if (SIGHT_PAGES[k]) { hit = SIGHT_PAGES[k]; break; }
+function sightPageHref(lang: Lang, poiId: string, names: string[], coords: unknown): string | undefined {
+  const list = SIGHT_PAGES_BY_PARENT[poiId];
+  if (!list || !list.length) return undefined;
+  let hit: SightPageEntry | undefined;
+  // 1) name match within this parent's sight pages (Latin-ish names)
+  const wanted = names.map((n) => _spNorm(n)).filter(Boolean);
+  if (wanted.length) hit = list.find((e) => e.names.some((n) => wanted.includes(n)));
+  // 2) else nearest coord within the parent (≤400m) — handles non-Latin names
+  if (!hit && Array.isArray(coords) && coords.length === 2) {
+    const lat = coords[1] as number, lng = coords[0] as number;
+    let best: SightPageEntry | undefined, bestKm = Infinity;
+    for (const e of list) {
+      if (e.lat == null || e.lng == null) continue;
+      const km = _spHavKm(lat, lng, e.lat, e.lng);
+      if (km < bestKm) { bestKm = km; best = e; }
+    }
+    if (best && bestKm <= 0.4) hit = best;
   }
   if (!hit) return undefined;
-  const pp = allById.get(hit.parentPoi);
+  const pp = allById.get(poiId);
   if (!pp) return undefined;
   const ppath = poiPathSafe(lang, pp);
   if (!ppath) return undefined;
@@ -2375,7 +2394,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     const attr = "";
     // Internal link priority: (1) dedicated standalone sight page if this sight has one,
     // (2) else a same-country POI cross-link, (3) else plain text.
-    const spHref = sightPageHref(lang, [s.name as string, ...(nameVariants || [])], (s as any).coords);
+    const spHref = sightPageHref(lang, poi.id, [s.name as string, ...(nameVariants || [])], (s as any).coords);
     const linkedPoiId = lookupSightPoiLink(poi.id, s.name);
     const linkedPoi = linkedPoiId ? allById.get(linkedPoiId) : undefined;
     const nameHtml = spHref
