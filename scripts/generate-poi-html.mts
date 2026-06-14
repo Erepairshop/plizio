@@ -1788,13 +1788,10 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
         prev = toLatLon(s.coords);
         return hopHtml + card;
       }).join("");
-      const gastro = renderExtras(v.gastro_picks, "gastro");
-      const quiet = renderExtras(v.quiet_picks, "quiet");
-      const shopping = renderExtras(v.shopping_picks, "shopping");
-      const extras = [gastro, quiet, shopping].filter(Boolean).join("");
-      const tipsArr = (v.tips || {})[lang] || [];
-      const tipsHtml = tipsArr.length ? `<div class="plz-itin-tips"><h3>${C.tipsHeading}</h3><ul>${tipsArr.map((t: string) => `<li>${escapeHtml(t)}</li>`).join("")}</ul></div>` : "";
-      const extrasBlock = extras ? `<details class="plz-itin-collapse"><summary><span class="plz-itin-collapse-label">${C.extrasLabel || "⭐"}</span><span class="plz-itin-collapse-arrow">▼</span></summary><div class="plz-itin-cards plz-itin-extras">${extras}</div></details>` : "";
+      // De-duped: gastro/quiet/shopping/tips live ONCE in the city-tips card
+      // (renderCityInfo, public/data/city-tips/<id>.json). The itinerary used to
+      // repeat them inside EVERY mode (×4) — removed; the itinerary now shows only
+      // the route (stops + timing + narrative). Single source = city-tips.
       // Swipe-dots indicator (count = stops count)
       const dotCount = (md.stops || []).length;
       const dotsHtml = dotCount > 1 ? `<div class="plz-itin-dots" aria-hidden="true">${Array.from({length: dotCount}, (_, i) => `<span class="plz-itin-dot${i===0?" active":""}"></span>`).join("")}</div>` : "";
@@ -1803,7 +1800,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
       const progressBadge = `<span class="plz-itin-progress" data-mw-prog="${m}-${w}"><span class="plz-itin-progress-bar"><span class="plz-itin-progress-fill" data-fill></span></span><span data-prog-text>0/${md.stop_count}</span></span>`;
       const costEstimate = renderCostEstimate(stops, m, md.total_km || 0, lang);
       const icsBtn = `<button type="button" class="plz-itin-ics" data-ics="${m}-${w}" aria-label="Export calendar"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18M12 14v4M10 16h4"/></svg>.ics</button>`;
-      modeBlocks.push(`<div data-mw="${m}-${w}" class="${isActive ? "active" : ""}"><div class="plz-itin-summary"><span><strong>${md.start}→${md.end_estimate}</strong></span><span><strong>${md.total_km} km</strong> ${unitLabels[m]}</span><span><strong>${md.stop_count}</strong> ${C.places}</span>${progressBadge}${icsBtn}</div>${costEstimate}<p class="plz-itin-narrative">${escapeHtml(nar)}</p>${swipeHint}<div class="plz-itin-cards">${stopCards}</div>${dotsHtml}${extrasBlock}${tipsHtml}</div>`);
+      modeBlocks.push(`<div data-mw="${m}-${w}" class="${isActive ? "active" : ""}"><div class="plz-itin-summary"><span><strong>${md.start}→${md.end_estimate}</strong></span><span><strong>${md.total_km} km</strong> ${unitLabels[m]}</span><span><strong>${md.stop_count}</strong> ${C.places}</span>${progressBadge}${icsBtn}</div>${costEstimate}<p class="plz-itin-narrative">${escapeHtml(nar)}</p>${swipeHint}<div class="plz-itin-cards">${stopCards}</div>${dotsHtml}</div>`);
     }
   }
   const modeBlocksHtml = modeBlocks.join("");
