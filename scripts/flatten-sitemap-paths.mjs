@@ -14,12 +14,23 @@ if (!fs.existsSync(SITEMAP_DIR)) {
   process.exit(0);
 }
 
+// Chunk indices 10/11/12 are PERMANENTLY poisoned in Google Search Console:
+// they were once submitted individually while 404-ing, and GSC keeps them stuck
+// `pending:true` (never downloaded) — delete+resubmit on the SAME filename does
+// NOT clear it (confirmed over weeks). A FRESH filename gets fetched in ~1 min
+// (proven 2026-06-14: sitemap-poi-a/c read in 60s with identical content).
+// So these three indices map to fresh names that have no stuck GSC history.
+// 0-9 stay numbered (they work + are indexed); 13+ are fresh numbers → fine via
+// the index. NEVER serve sitemap-10/11/12.xml again. See [[gsc-sitemap-stuck-pending]].
+const POISONED = { 10: "sitemap-poi-a.xml", 11: "sitemap-poi-b.xml", 12: "sitemap-poi-c.xml" };
+const chunkName = (n) => POISONED[n] || `sitemap-${n}.xml`;
+
 let moved = 0;
 for (const f of fs.readdirSync(SITEMAP_DIR)) {
   const m = f.match(/^(\d+)\.xml$/);
   if (!m) continue;
   const src = path.join(SITEMAP_DIR, f);
-  const dst = path.join(OUT, `sitemap-${m[1]}.xml`);
+  const dst = path.join(OUT, chunkName(Number(m[1])));
   fs.renameSync(src, dst);
   moved++;
 }
@@ -27,7 +38,10 @@ try { fs.rmdirSync(SITEMAP_DIR); } catch {}
 
 if (fs.existsSync(INDEX)) {
   const before = fs.readFileSync(INDEX, "utf8");
-  const after = before.replace(/https:\/\/plizio\.com\/sitemap\/(\d+)\.xml/g, "https://plizio.com/sitemap-$1.xml");
+  const after = before.replace(
+    /https:\/\/plizio\.com\/sitemap\/(\d+)\.xml/g,
+    (_, n) => `https://plizio.com/${chunkName(Number(n))}`,
+  );
   if (after !== before) fs.writeFileSync(INDEX, after);
 }
 

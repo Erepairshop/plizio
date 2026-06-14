@@ -12,10 +12,20 @@ import path from "node:path";
 const OUT = path.resolve(process.cwd(), process.env.OUT_DIR || "out");
 const SITE = "https://plizio.com";
 
+// Chunk files: numbered sitemap-N.xml PLUS the fresh-named overflow chunks
+// (sitemap-poi-a/b/c.xml) that replace the GSC-poisoned indices 10/11/12 — the
+// flatten step renames those so Google actually fetches them (the poisoned
+// numbers never download). See flatten-sitemap-paths.mjs + [[gsc-sitemap-stuck-pending]].
 const chunks = fs
   .readdirSync(OUT)
-  .filter((f) => /^sitemap-\d+\.xml$/.test(f))
-  .sort((a, b) => parseInt(a.match(/\d+/)[0], 10) - parseInt(b.match(/\d+/)[0], 10));
+  .filter((f) => /^sitemap-(\d+|poi-[a-z]+)\.xml$/.test(f))
+  .sort((a, b) => {
+    const na = a.match(/^sitemap-(\d+)\.xml$/), nb = b.match(/^sitemap-(\d+)\.xml$/);
+    if (na && nb) return parseInt(na[1], 10) - parseInt(nb[1], 10);
+    if (na) return -1; // numbered chunks first
+    if (nb) return 1;
+    return a.localeCompare(b); // then poi-a, poi-b, poi-c
+  });
 
 if (chunks.length === 0) {
   console.error("[build-sitemap-index] ERROR: no sitemap-N.xml chunks found in out/");
