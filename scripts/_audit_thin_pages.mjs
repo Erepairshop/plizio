@@ -18,12 +18,15 @@ const citySet = lsSet("city-tips", ".json");
 const itinSet = lsSet("itinerary", ".json");
 const newsSet = lsSet("poi-news", ".json.gz");
 const sightSet = lsSet("sights", ".json");
-const imgSet = new Set(J("_image-manifest.json").map((f) => f.replace(/\.webp$/i, "")));
+// Image presence = the POI's ACTUAL p.image file exists in the manifest (real webp),
+// NOT merely that the field is set — broken /geo-images/ refs 404 on live.
+const imgSet = new Set(J("_image-manifest.json").map((f) => f.replace(/\.webp$/i, "").toLowerCase()));
+const imgOk = (image) => { if (!image) return false; const b = String(image).split("/").pop().replace(/\.webp$/i, "").toLowerCase(); return imgSet.has(b); };
 
 // id -> {image, type} from per-country slim
 const meta = new Map();
 for (const f of fs.readdirSync(path.join(D, "pois")).filter(f => f.endsWith(".json"))) {
-  try { for (const p of (J(`pois/${f}`).pois || [])) if (p?.id) meta.set(p.id, { image: !!p.image, type: p.type || "?" }); } catch {}
+  try { for (const p of (J(`pois/${f}`).pois || [])) if (p?.id) meta.set(p.id, { image: imgOk(p.image), type: p.type || "?" }); } catch {}
 }
 
 // sidecar deep read: descAdv max-lang length + real sights count
@@ -52,7 +55,7 @@ for (const id of ids) {
   const m = meta.get(id) || { image: false, type: "?" };
   const orphan = !meta.has(id);
   const { da, sights } = sidecar(id);
-  const hasImg = m.image || imgSet.has(id), hasDA = da >= 400, hasSights = sights >= 1;
+  const hasImg = m.image, hasDA = da >= 400, hasSights = sights >= 1;
   const hasFaq = faqSet.has(id), hasPinfo = pinfoSet.has(id), hasCity = citySet.has(id);
   const hasItin = itinSet.has(id), hasNews = newsSet.has(id), hasYearly = yearlySet.has(id);
   if (hasImg) tot.img++; if (hasDA) tot.descAdv++; if (hasSights) tot.sights++;
