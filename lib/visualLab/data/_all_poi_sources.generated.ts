@@ -1100,6 +1100,7 @@ import * as _src_poiExtraNorwayLandmarksV2 from "./poiExtraNorwayLandmarksV2";
 import * as _src_poiExtraNorwayLifeV2 from "./poiExtraNorwayLifeV2";
 import * as _src_poiExtraNorwayNatureV2 from "./poiExtraNorwayNatureV2";
 import * as _src_poiExtraNorwayReliefV2 from "./poiExtraNorwayReliefV2";
+import * as _src_poiExtraOcNewV1 from "./poiExtraOcNewV1";
 import * as _src_poiExtraOmanCitiesV2 from "./poiExtraOmanCitiesV2";
 import * as _src_poiExtraOmanEconomicV2 from "./poiExtraOmanEconomicV2";
 import * as _src_poiExtraOmanHistoryV2 from "./poiExtraOmanHistoryV2";
@@ -2867,6 +2868,7 @@ const _raw: any[] = [
   ...((_src_poiExtraNorwayLifeV2 as any).norwayLifeV2 as any[]),
   ...((_src_poiExtraNorwayNatureV2 as any).norwayNatureV2 as any[]),
   ...((_src_poiExtraNorwayReliefV2 as any).norwayReliefV2 as any[]),
+  ...((_src_poiExtraOcNewV1 as any).ocNewV1 as any[]),
   ...((_src_poiExtraOmanCitiesV2 as any).poiExtraOmanCitiesV2 as any[]),
   ...((_src_poiExtraOmanEconomicV2 as any).poiExtraOmanEconomicV2 as any[]),
   ...((_src_poiExtraOmanHistoryV2 as any).poiExtraOmanHistoryV2 as any[]),
