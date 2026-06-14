@@ -100,6 +100,19 @@ jobs:
           AFTER=$(grep -rcE "maxOldGenerationSizeMb:\s*12288" node_modules/next/dist 2>/dev/null | grep -v ':0$' | wc -l || true)
           echo "Files with 12288 after patch: $AFTER"
 
+      - name: Refresh image manifest from shared/poi-images (avoid stale → hidden images)
+        # The fetcher downloads to shared/poi-images but nothing rebuilt the manifest,
+        # so it drifted (66k vs 70k+ actual) → thousands of servable images never
+        # rendered (generator gates the hero on this manifest). Rebuild from reality
+        # each build. Runner is on the VPS, so shared/ is local.
+        run: |
+          SHARED="${{ env.RELEASE_BASE }}/shared/poi-images"
+          if [ -d "$SHARED" ]; then
+            python3 -c "import os,json; d='$SHARED'; fs=[f for f in os.listdir(d) if f.endswith('.webp')]; json.dump(sorted(fs), open('public/data/_image-manifest.json','w')); print('image manifest rebuilt:', len(fs))"
+          else
+            echo "shared/poi-images not found, keeping committed manifest"
+          fi
+
       - name: Generate V2 POI JSON
         run: npx tsx scripts/prepare_v2_data.mjs
 
