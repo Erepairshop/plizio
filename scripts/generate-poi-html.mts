@@ -1626,7 +1626,11 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   const data = loadItinerary(poi.id, tier);
   if (!data || !data.modes) return "";
   const C = ITIN_COPY[lang] || ITIN_COPY.en;
-  const modeKeys = ["walk", "bike", "car", "transit"] as const;
+  // "transit" hidden for now: the data is synthetic (15 km/h estimate over the
+  // sight stops, no real public-transport lines/stops/schedules) → misleading,
+  // especially for small towns with no PT. Re-enable once fed real OSM/GTFS
+  // public-transport data. The transit block stays in the JSON, just not rendered.
+  const modeKeys = ["walk", "bike", "car"] as const;
   const modeLabels: Record<string, string> = { walk: C.modeWalk, bike: C.modeBike, car: C.modeCar, transit: C.modeTransit };
   const unitLabels: Record<string, string> = { walk: C.unitWalk, bike: C.unitBike, car: C.unitCar, transit: C.unitTransit };
 
