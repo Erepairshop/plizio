@@ -112,7 +112,11 @@ function resolveCC(parent: string): string | null {
   // 3) Legacy lowercase parent ("csongrad-csanad", "budapest", "fejer"): try getCountryId
   try {
     const cid = getCountryId(parent);
-    const iso = COUNTRY_TO_ISO2[cid];
+    // getCountryId emits hyphenated ids ("san-marino", "north-macedonia") while
+    // COUNTRY_TO_ISO2 keys are unhyphenated ("sanmarino", "northmacedonia").
+    // Try both so e.g. parent "sm-sm" / "country-mk" still bucket — otherwise the
+    // San Marino landmarks and Skopje (MK capital) drop off their country maps.
+    const iso = COUNTRY_TO_ISO2[cid] || COUNTRY_TO_ISO2[(cid || "").replace(/-/g, "")];
     if (iso) return iso;
   } catch { /* ignore */ }
   return null;
