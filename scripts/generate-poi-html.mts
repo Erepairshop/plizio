@@ -1769,7 +1769,14 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     };
   }
 
-  const weatherKeys = ["sunny", "rainy", "winter"] as const;
+  // Weather buttons only when the city ACTUALLY has rainy/winter variants
+  // (existing itineraries do; the new sunny-only expansion does not). Otherwise
+  // a rainy/winter button would just show the sunny plan (misleading fallback).
+  const hasWeatherVariants = modeKeys.some((m) => {
+    const md = (data.modes as Record<string, any>)?.[m];
+    return md && md.variants && (md.variants.rainy || md.variants.winter);
+  });
+  const weatherKeys = (hasWeatherVariants ? ["sunny", "rainy", "winter"] : ["sunny"]) as readonly string[];
   const weatherLabels: Record<string, string> = { sunny: C.wSunny, rainy: C.wRainy, winter: C.wWinter };
 
   // Build mode×weather blocks (12 cells, only one active at a time via data-mw="mode-weather")
@@ -1809,7 +1816,9 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   }
   const modeBlocksHtml = modeBlocks.join("");
 
-  const weatherButtons = weatherKeys.map((w, i) => `<button data-weather="${w}" aria-selected="${i === 0}">${weatherLabels[w]}</button>`).join("");
+  const weatherButtons = weatherKeys.length > 1
+    ? weatherKeys.map((w, i) => `<button data-weather="${w}" aria-selected="${i === 0}">${weatherLabels[w]}</button>`).join("")
+    : "";
   const modeButtons = modeKeys.map((m, i) => `<button data-mode="${m}" aria-selected="${i === 0}">${modeLabels[m]}</button>`).join("");
 
   // Resources block
@@ -1933,7 +1942,7 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     tripLd = `<script type="application/ld+json">${JSON.stringify(tripObj).replace(/</g, "\\u003c")}</script>`;
   }
 
-  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header"><div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div><div class="plz-itin-weathers" role="tablist">${weatherButtons}</div><div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}</div></section>`;
+  return `${tripLd}<section class="plz-itin" id="plz-itin"><div class="plz-itin-header"><div class="plz-itin-sub"><div class="plz-itin-tagline">${escapeHtml(C.title)}</div><div class="plz-itin-intro">${escapeHtml(C.intro)}</div></div></div>${weatherButtons ? `<div class="plz-itin-weathers" role="tablist">${weatherButtons}</div>` : ""}<div class="plz-itin-modes" role="tablist">${modeButtons}</div>${goBtn}<div class="plz-itin-body" id="plz-itin-body">${modeBlocksHtml}${resourcesHtml}</div></section>`;
 }
 
 // PlizioGo wrapper — unifies the two travel widgets under a 2-tab header:
